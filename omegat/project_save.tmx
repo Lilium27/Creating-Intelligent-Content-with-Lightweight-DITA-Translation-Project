@@ -4,6 +4,14 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>PREFACE</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200716T084923Z" creationid="DSS" creationdate="20200716T084923Z">
+        <seg>前言</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
