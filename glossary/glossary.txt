@@ -1,0 +1,295 @@
+abstract models	抽象模型
+active members	活跃成员
+actual content	实际内容
+actual path	实际路径
+alternate text	替代文本
+Apple Computer	苹果电脑
+application programming interface	应用程序编程接口
+assistant professor	助理教授
+Association for Computing Machinery	计算机协会
+attribute set	属性设置
+authoring environment	编辑环境
+authoring language	编辑语言
+authoring tools	创作工具
+background information	背景信息
+basic unit	基本单位
+Best Practices	最佳实践
+best practices	最佳实践
+block element	块元素
+blog posts	博客文章
+browser view	浏览器视图
+building blocks	构建块
+business model	商业模式
+business needs	业务需求
+Cascading Style Sheets	层叠样式表
+character data	字符数据
+child element	子元素
+code block	代码块
+code examples	代码示例
+code of ethics	道德规范
+code samples	代码示例
+code snippet	代码片段
+cognitive dissonance	认知失调
+collect data	收集数据
+command line	命令行
+command line interface	命令行接口
+common topic	常见的话题
+complete example	完整示例
+computer code	计算机代码
+computer manuals	计算机手册
+Computer Organization	计算机组织
+computer programmer	计算机程序员
+computer programming	计算机编程
+computer science	计算机科学
+Computer Science	计算机科学
+computer scientist	计算机科学家
+computer technology	计算机技术
+computing systems	计算系统
+content management	内容管理
+content management system	内容管理系统
+content model	内容模型
+content models	内容模型
+content set	内容设置
+content source	内容源
+content standard	内容标准
+content type	内容类型
+content types	内容类型
+cross reference	交叉引用
+CSS file	CSS 文件
+cultural change	文化变革
+Darwin Information Typing Architecture	达尔文信息类型架构
+data analysis	数据分析
+data attribute	数据属性
+data attributes	数据属性
+data base	数据库
+data component	数据组件
+design principles	设计原则
+desktop publishing	桌面出版系统
+dialog box	对话框
+dialog box	对话框
+digital content	数字内容
+digital tools	数字工具
+disciplinary conventions	纪律规范
+document type	文档类型
+Document Type	文档类型
+document type definition	文档类型定义
+document types	文档类型
+drag and drop	拖拽
+element type	元素类型
+element types	元素类型
+end user	终端用户
+end users	终端用户
+entry point	入口点
+error message	错误消息
+error messages	错误消息
+error recovery	故障恢复
+executable program	可执行程序
+experience teaching	教学经验
+Extensible Markup Language	可扩展标记语言
+external resources	外部资源
+external web	外部网络
+fault line	断层线
+fault lines	断层线
+fire hazard	火灾隐患
+first edition	第一版
+first step	第一步
+fixed pattern	固定的模式
+following example	下面的例子
+franchise fee	特许经营费
+full path	完整路径
+general public	公众
+generic component	通用组件
+GitHub repository	GitHub 库
+government agencies	政府机构
+graduate student	研究生
+graduate students	研究生
+graphical user interface	图形用户界面
+help system	帮助系统
+HTML editor	HTML 编辑器
+HTML file	HTML 文件
+HTML files	HTML 文件
+HTML tag	HTML 标签
+HTML tags	HTML标记
+human users	人类用户
+Hypertext Markup Language	超文本标记语言
+ice cream	冰淇淋
+IEEE Transactions	IEEE 系列杂志
+industry practices	行业惯例
+information architecture	信息架构
+information design	信息设计
+information model	信息模型
+information needs	信息需求
+information package	信息包
+information products	信息产品
+information set	信息集
+information technology	信息技术
+information type	信息类型
+information types	信息类型
+initial release	最初版本
+inline image	内联图像
+instruction manual	说明书
+Intelligent Information	智能信息
+interface design	界面设计
+International Society	国际社会
+Internet of Things	物联网
+job title	职称
+John Carroll	约翰•卡罗尔
+key feature	关键特性
+key information	关键信息
+key points	要点
+keyboard shortcut	键盘快捷键
+knowledge base	知识库
+learning assessment	学习评估
+learning content	学习内容
+learning curve	学习曲线
+learning curves	学习曲线
+learning management system	学习管理系统
+learning plan	学习计划
+line breaks	换行符
+link label	链接标签
+link structure	链接结构
+list element	列表元素
+list item	列表项
+literature review	文献综述
+machine processing	机械加工
+main element	主要元素
+major fault	主要故障
+management systems	管理系统
+markup language	标记语言
+Michigan State University	密歇根州立大学
+Microsoft Word	Microsoft Word
+mobile app	手机应用程序
+mobile device	移动设备
+multimedia content	多媒体内容
+multiple media	多媒体
+navigation menu	导航菜单
+new standard	新标准
+new version	新版本
+New York	纽约
+New York Times	纽约时报
+North America	北美
+North America Conference	北美会议
+North Carolina	北卡罗莱纳
+olive oil	橄榄油
+online help	在线帮助
+open source	开源
+open standard	开放标准
+operator manual	操作手册
+original element	原始元素
+output option	输出选项
+personal communication	个人沟通
+personal interview	个人面试
+phrase level	短语级别
+plain text	纯文本
+plus sign	加号
+Prentice Hall	普伦蒂斯霍尔
+printed page	打印页面
+processing layer	处理层
+processing time	处理时间
+processing tool	处理工具
+producing information	生产信息
+product documentation	产品文档
+product name	产品名称
+programming languages	编程语言
+quality characteristics	质量特征
+quality requirements	质量要求
+Quarterly Review	季度回顾
+reference information	参考信息
+reference material	参考资料
+relevant data	相关数据
+research project	研究项目
+revised version	修订版本
+rhetorical strategies	修辞策略
+search engines	搜索引擎
+second edition	第二版
+semantic tag	语义标记
+Service Information	服务信息
+skill set	技能
+social justice	社会正义
+social media	社交媒体
+software application	软件应用程序
+software applications	软件应用程序
+software documentation	软件文档
+software package	软件包
+software packages	软件包
+software platform	软件平台
+software tool	软件工具
+software tools	软件工具
+source code	源代码
+source file	源文件
+source files	源文件
+source language	源语言
+specific context	特定的语境
+specific type	特定类型
+starting point	起点
+State University	州立大学
+static object	静态对象
+structure information	结构信息
+Structured Information	结构化信息
+structured information	结构化信息
+style guide	风格指南
+style sheet	样式表
+subject matter expert	主题专家
+syntax rules	语法规则
+table entry	表条目
+table format	表格格式
+table row	表行
+take advantage	利用
+target audience	目标受众
+task orientation	任务取向
+technical authors	技术作者
+technical committee	技术委员会
+Technical Committee	技术委员会
+Technical Communication	技术交流
+technical communicator	技术沟通
+technical communicators	技术传播者
+technical content	技术内容
+technical documentation	技术文档
+Technical Documentation	技术文档
+technical information	技术信息
+technical manual	技术手册
+technical specification	技术规范
+technical writer	技术作家
+technical writing	技术写作
+technology strategy	技术战略
+Texas Tech University	德州理工大学
+text editor	文本编辑器
+The New York Times	《纽约时报》
+thought process	思维过程
+topic model	主题模型
+transformation process	转换过程
+unique identifier	唯一标识符
+United States	美国
+University of California	加州大学
+unordered list	无序列表
+usage statistics	使用情况统计
+user experience	用户体验
+user interface	用户界面
+user interfaces	用户界面
+user manual	用户手册
+user types	用户类型
+validation error	验证错误
+validation process	验证过程
+vice versa	反之亦然
+video tutorials	视频教程
+Virginia Tech	弗吉尼亚理工大学
+visual communication	视觉传达
+weak verbs	弱动词
+web browser	web 浏览器
+Web browser	Web 浏览器
+web content management system	网页内容管理系统
+web design	网页设计
+web version	网页版
+website maintenance	网站维护
+white paper	白皮书
+word processor	文字处理器
+word processors	文字处理软件
+World Wide Web Consortium	万维网联盟
+writing principles	写作原则
+writing process	写作过程
+XML element	XML 元素
+XML elements	XML元素
+XML file	XML文件
+XML files	XML文件
+XML format	XML格式
+XML schema	XML 模式
