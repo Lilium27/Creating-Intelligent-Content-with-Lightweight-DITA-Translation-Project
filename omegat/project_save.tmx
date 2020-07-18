@@ -16,16 +16,16 @@
       <tuv lang="en">
         <seg>CREATING INTELLIGENT CONTENT WITH LIGHTWEIGHT DITA</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200718T120320Z" creationid="lenovo" creationdate="20200718T120320Z">
-        <seg>使用轻量DITA创建智慧内容</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200718T121752Z" creationid="lenovo" creationdate="20200718T120320Z">
+        <seg>使用轻量 DITA 创建智慧内容</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Creating Intelligent Content with Lightweight DITA&lt;t0/&gt; documents the evolution of the Darwin Information Typing Architecture (DITA) &lt;t1/&gt;一 &lt;t2/&gt;a widely used open standard for structuring technical content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200718T121052Z" creationid="DSS" creationdate="20200718T121052Z">
-        <seg>使用轻量DITA创建智慧内容</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200718T121801Z" creationid="DSS" creationdate="20200718T121052Z">
+        <seg>使用轻量 DITA 创建智慧内容</seg>
       </tuv>
     </tu>
     <tu>
@@ -48,8 +48,8 @@
       <tuv lang="en">
         <seg>WITH LIGHTWEIGHT DITA</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200718T120730Z" creationid="lenovo" creationdate="20200718T120730Z">
-        <seg>使用轻量DITA</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200718T121755Z" creationid="lenovo" creationdate="20200718T120730Z">
+        <seg>使用轻量 DITA</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
