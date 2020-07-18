@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>CREATING INTELLIGENT CONTENT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200718T120716Z" creationid="lenovo" creationdate="20200718T120716Z">
+        <seg>创建智慧内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>CREATING INTELLIGENT CONTENT WITH LIGHTWEIGHT DITA</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200718T120320Z" creationid="lenovo" creationdate="20200718T120320Z">
@@ -26,6 +34,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200716T084923Z" creationid="DSS" creationdate="20200716T084923Z">
         <seg>前言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>WITH LIGHTWEIGHT DITA</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200718T120730Z" creationid="lenovo" creationdate="20200718T120730Z">
+        <seg>使用轻量DITA</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
