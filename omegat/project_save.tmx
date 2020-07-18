@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creating Intelligent Content with Lightweight DITA&lt;t0/&gt; documents the evolution of the Darwin Information Typing Architecture (DITA) &lt;t1/&gt;一 &lt;t2/&gt;a widely used open standard for structuring technical content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200718T121052Z" creationid="DSS" creationdate="20200718T121052Z">
+        <seg>使用轻量DITA创建智慧内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the summer of &lt;t0/&gt;2004, &lt;t1/&gt;I was on my way to Blacksburg, Virginia, to start my new job as assistant professor of technical communication at Virginia Tech.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200716T085709Z" creationid="DSS" creationdate="20200716T085709Z">
