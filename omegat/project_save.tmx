@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>CREATING INTELLIGENT CONTENT  WITH LIGHTWEIGHT DITA Creating Intelligent Content with Lightweight DITA documents the evolution  of the Darwin Information Typing Architecture (DITA) – a widely used open  standard for structuring technical content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200718T124829Z" creationid="DSS" creationdate="20200718T124829Z">
+        <seg>使用轻量 DITA 创建智慧内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>CREATING INTELLIGENT CONTENT WITH LIGHTWEIGHT DITA</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200718T121752Z" creationid="lenovo" creationdate="20200718T120320Z">
