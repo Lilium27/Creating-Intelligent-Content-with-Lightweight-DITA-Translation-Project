@@ -293,3 +293,4 @@ XML file	XML文件
 XML files	XML文件
 XML format	XML格式
 XML schema	XML 模式
+Lightweight DITA	轻量DITA
