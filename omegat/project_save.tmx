@@ -38,10 +38,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In his role as Distinguished Technical Marketer at IBM, James, a graduate of the Master of Science in Scientific and Technical Communication from the University of Minnesota-Twin Cities, was looking for interns who could work in a structured authoring environment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T133311Z" creationid="DSS" creationdate="20200720T133311Z">
+        <seg>他毕业于明尼苏达大学双子城分校 (University of Minnesota-Twin Cities)，获得了科学与技术传播硕士学位。詹姆斯在 IBM 工作，是出色的一位技术营销人员，曾经有过寻找能够在结构化写作环境中工作的实习生的经历。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the summer of &lt;t0/&gt;2004, &lt;t1/&gt;I was on my way to Blacksburg, Virginia, to start my new job as assistant professor of technical communication at Virginia Tech.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200716T085709Z" creationid="DSS" creationdate="20200716T085709Z">
         <seg>2014 年夏天，……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>James Mathewson knows a thing or two about technical communication.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T132207Z" creationid="DSS" creationdate="20200720T132207Z">
+        <seg>詹姆斯·马修森 (James Mathewson) 对技术传播略知一二。 </seg>
       </tuv>
     </tu>
     <tu>
