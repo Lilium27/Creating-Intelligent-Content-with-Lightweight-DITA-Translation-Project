@@ -296,3 +296,6 @@ XML schema	XML 模式
 Lightweight DITA	轻量DITA
 James Mathewson	詹姆斯·马修森
 University of Minnesota-Twin Cities	明尼苏达大学双子城分校
+Mathewson	马修森
+Eberlein	埃伯莱因
+transclusion	引用
