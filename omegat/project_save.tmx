@@ -48,8 +48,8 @@
       <tuv lang="en">
         <seg>Essays from whole cloth is more the thing.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T134143Z" creationid="DSS" creationdate="20200720T134143Z">
-        <seg>具有完整性的文章更加重要。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T153644Z" creationid="DSS" creationdate="20200720T134143Z">
+        <seg>具有创作完整性文章的能力更加重要。</seg>
       </tuv>
     </tu>
     <tu>
@@ -106,6 +106,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200718T121755Z" creationid="lenovo" creationdate="20200718T120730Z">
         <seg>使用轻量 DITA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When he talks about “reusable content,” Mathewson is referring to the “prac&lt;t0/&gt;tice of using content components in multiple information products” (Eberlein, &lt;t1/&gt;2016 &lt;t2/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T153908Z" creationid="DSS" creationdate="20200720T153908Z">
+        <seg>当马修森谈到“可重用内容”时，他指的是“在多个信息产品中使用内容组件的实践”(埃伯莱因 2016 第 </seg>
       </tuv>
     </tu>
     <tu>
