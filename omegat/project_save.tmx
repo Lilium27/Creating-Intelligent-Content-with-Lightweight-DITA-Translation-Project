@@ -112,8 +112,8 @@
       <tuv lang="en">
         <seg>Would that they taught it in college.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T134127Z" creationid="DSS" creationdate="20200720T134127Z">
-        <seg>希望大学里能教授这种技能。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T153605Z" creationid="DSS" creationdate="20200720T134127Z">
+        <seg>希望大学里能教授这种技能，</seg>
       </tuv>
     </tu>
     <tu>
@@ -128,8 +128,8 @@
       <tuv lang="en">
         <seg>Yes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T133600Z" creationid="DSS" creationdate="20200720T133600Z">
-        <seg>是的。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T153524Z" creationid="DSS" creationdate="20200720T133600Z">
+        <seg>是的，</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
