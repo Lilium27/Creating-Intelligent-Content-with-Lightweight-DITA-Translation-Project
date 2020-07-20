@@ -294,3 +294,5 @@ XML files	XML文件
 XML format	XML格式
 XML schema	XML 模式
 Lightweight DITA	轻量DITA
+James Mathewson	詹姆斯·马修森
+University of Minnesota-Twin Cities	明尼苏达大学双子城分校
