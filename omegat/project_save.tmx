@@ -8,8 +8,16 @@
       <tuv lang="en">
         <seg>(Mathewson, &lt;t0/&gt;2016)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T134229Z" creationid="DSS" creationdate="20200720T134229Z">
-        <seg>马修森 2016</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T154023Z" creationid="DSS" creationdate="20200720T134229Z">
+        <seg>（马修森 2016）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t3/&gt;54).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T154015Z" creationid="DSS" creationdate="20200720T153935Z">
+        <seg>54 页）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -112,8 +120,8 @@
       <tuv lang="en">
         <seg>When he talks about “reusable content,” Mathewson is referring to the “prac&lt;t0/&gt;tice of using content components in multiple information products” (Eberlein, &lt;t1/&gt;2016 &lt;t2/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T153908Z" creationid="DSS" creationdate="20200720T153908Z">
-        <seg>当马修森谈到“可重用内容”时，他指的是“在多个信息产品中使用内容组件的实践”(埃伯莱因 2016 第 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T154010Z" creationid="DSS" creationdate="20200720T153908Z">
+        <seg>当马修森谈到“可重用内容”时，他指的是“在多个信息产品中使用内容组件的实践”（埃伯莱因 2016 第 </seg>
       </tuv>
     </tu>
     <tu>
