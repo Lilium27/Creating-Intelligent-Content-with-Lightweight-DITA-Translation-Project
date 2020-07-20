@@ -24,8 +24,16 @@
       <tuv lang="en">
         <seg>&lt;t4/&gt;In many technical communication practices, “efficient content reuse does not involve copy-and-pasting; instead it uses &lt;t5/&gt;transclusion&lt;t6/&gt;, whereby content is authored in one location and used by reference in other locations” (Eberlein, &lt;t7/&gt;2016 &lt;t8/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T155448Z" creationid="DSS" creationdate="20200720T155448Z">
-        <seg>在许多技术交流实践中，“有效的内容重用不涉及复制粘贴;相反，它使用了transclusion，即内容在一个地方编写，在其他地方被引用”(Eberlein, 2016第55页)。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T155805Z" creationid="DSS" creationdate="20200720T155448Z">
+        <seg>在许多技术传播实践中，“有效内容的重用不是复制粘贴；相反，它使用了&lt;t5/&gt;transclusion&lt;t6/&gt;，即内容在一个地方编写，在其他地方被引用”(埃伯莱因，&lt;t7/&gt;2016 &lt;t8/&gt; 第</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t9/&gt;55).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T160010Z" creationid="DSS" creationdate="20200720T160010Z">
+        <seg>&lt;t9/&gt;55页)。</seg>
       </tuv>
     </tu>
     <tu>
