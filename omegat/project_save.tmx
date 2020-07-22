@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>BEFORE INTELLIGENT CONTENT,&lt;t0/&gt; THERE WAS THE COMPUTER MANUAL</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200722T021836Z" creationid="lenovo" creationdate="20200722T021836Z">
+        <seg>智能内容出现前,&lt;t0/&gt;计算机手册占据主导</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>CREATING INTELLIGENT CONTENT</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200722T021620Z" creationid="lenovo" creationdate="20200718T120716Z">
@@ -122,6 +130,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T133540Z" creationid="DSS" creationdate="20200720T133540Z">
         <seg>詹姆斯在推特上表达了他寻求实习生却空手而归的沮丧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>John M. Carroll is held responsible for some actions and decisions that have defined the academic and professional field of technical communication as we know it today.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200722T022425Z" creationid="lenovo" creationdate="20200722T022425Z">
+        <seg>我们如今了解的定义了技术通信学术和专业领域的一些行为和决定都出自John M. Carroll之手</seg>
       </tuv>
     </tu>
     <tu>
