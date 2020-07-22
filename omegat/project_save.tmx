@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Carroll's work on applying principles of minimalism to techni&lt;t0/&gt;cal documentation, presented chiefly in his book &lt;t1/&gt;The Nurnberg Funnel&lt;t2/&gt; &lt;t3/&gt;(1990), &lt;t4/&gt;still resonates with professionals advancing theory and practice related to procedural writing, delivery of instruction, and interface design.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200722T022525Z" creationid="lenovo" creationdate="20200722T022525Z">
+        <seg>Carroll's致力于将极简主义原则应用之&lt;t0/&gt;cal documentation, presented chiefly in his book &lt;t1/&gt;The Nurnberg Funnel&lt;t2/&gt; &lt;t3/&gt;(1990), &lt;t4/&gt;still resonates with professionals advancing theory and practice related to procedural writing, delivery of instruction, and interface design.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creating Intelligent Content with Lightweight DITA&lt;t0/&gt; documents the evolution of the Darwin Information Typing Architecture (DITA) &lt;t1/&gt;一 &lt;t2/&gt;a widely used open standard for structuring technical content.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200722T021613Z" creationid="DSS" creationdate="20200718T121052Z">
