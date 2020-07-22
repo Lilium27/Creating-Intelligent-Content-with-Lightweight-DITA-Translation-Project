@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t6/&gt;A casualty in the manual's demise, one could argue, was the main line of research that connected prac&lt;t7/&gt;titioners and academics in technical communication.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200722T031615Z" creationid="lenovo" creationdate="20200722T031615Z">
+        <seg>&lt;t6/&gt;可能有人会说，成为手册消亡的牺牲品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t9/&gt;55).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T160142Z" creationid="DSS" creationdate="20200720T160010Z">
@@ -40,8 +48,8 @@
       <tuv lang="en">
         <seg>At the same time, and in a more tongue-in-cheek fashion, Carroll has also been labeled as “the man who killed the manual” (Svenvold, &lt;t5/&gt;2015).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200722T031230Z" creationid="lenovo" creationdate="20200722T031230Z">
-        <seg>同时有戏言称，Carroll可以称得上是“消灭手册的人”(Svenvold, &lt;t5/&gt;2015).</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200722T031248Z" creationid="lenovo" creationdate="20200722T031230Z">
+        <seg>同时有戏言称，Carroll可以称得上是“消灭手册的人”。(Svenvold, &lt;t5/&gt;2015).</seg>
       </tuv>
     </tu>
     <tu>
