@@ -240,7 +240,6 @@ task orientation	任务取向
 technical authors	技术作者
 technical committee	技术委员会
 Technical Committee	技术委员会
-Technical Communication	技术交流
 technical communicator	技术沟通
 technical communicators	技术传播者
 technical content	技术内容
@@ -300,3 +299,4 @@ Mathewson	马修森
 Eberlein	埃伯莱因
 transclusion	引用
 LwDITA	轻量级 DITA
+Technical Communication	技术传播
