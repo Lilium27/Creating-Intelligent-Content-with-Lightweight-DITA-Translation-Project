@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Except they did not.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T090924Z" creationid="lenovo" creationdate="20200723T090924Z">
+        <seg>除非他们以前并不这样做。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Gone are the days when the manual was binding the academic and practitioner camps of technical com&lt;t1/&gt;munication as they worked towards the advancement of this common genre.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T082040Z" creationid="lenovo" creationdate="20200723T082040Z">
@@ -274,6 +282,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200721T144144Z" creationid="DSS" creationdate="20200721T144144Z">
         <seg>轻量级 DITA 地图组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That same colleague would also point out examples of inde&lt;t4/&gt;pendent software companies that still produce lengthy user manuals.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T090636Z" creationid="lenovo" creationdate="20200723T090636Z">
+        <seg>这批同时还会指出一些实例，证明现在仍有独立的软件公司会制作篇幅冗长的用户手册。</seg>
       </tuv>
     </tu>
     <tu>
