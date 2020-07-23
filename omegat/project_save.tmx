@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In John Carroll's opinion, today's developers and users have not really lost the itch to tinker with systems because the manuals disap&lt;t0/&gt;peared.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T091333Z" creationid="lenovo" creationdate="20200723T091333Z">
+        <seg>在John Carroll看来，如今的开发者和用户并未因为手册的消失而真正丧失改进系统的渴望。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In Svenvold's account of the events, the manual was doomed when Carroll applied those principles of minimalism to the production of that specific genre of technical communication.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T075643Z" creationid="lenovo" creationdate="20200723T075643Z">
