@@ -302,3 +302,4 @@ LwDITA	轻量级 DITA
 Technical Communication	技术传播
 procedural writing	程式化写作
 delivery of instruction	教案
+computer manual	计算机手册
