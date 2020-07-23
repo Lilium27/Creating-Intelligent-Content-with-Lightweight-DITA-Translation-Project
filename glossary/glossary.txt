@@ -304,3 +304,4 @@ procedural writing	程式化写作
 delivery of instruction	教案
 computer manual	计算机手册
 The Nurnberg Funnel	《The Nurnberg Funnel》（纽伦堡漏斗）
+practitioner	从业者
