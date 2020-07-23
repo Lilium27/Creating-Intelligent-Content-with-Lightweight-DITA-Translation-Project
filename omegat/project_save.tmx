@@ -372,6 +372,22 @@
         <seg>是的，</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“A lot of things changed,” Carroll said.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T091408Z" creationid="lenovo" creationdate="20200723T091408Z">
+        <seg>Carroll说，“很多事都变了，”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“One thing is that back in the day, people had to be tinkerers because things didn't work and they were clunky and you had to know your Unix and not be scared of the command line blink&lt;t1/&gt;ing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T091708Z" creationid="lenovo" creationdate="20200723T091708Z">
+        <seg>“其一就是在过去的年代，人们不得不开动脑筋，因为系统笨重且无法运行，你必须了解Unix操作系统并且不对一闪一闪的命令行产生畏惧心理。”</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
