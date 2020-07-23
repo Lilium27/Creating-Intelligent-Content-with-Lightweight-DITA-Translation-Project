@@ -305,3 +305,4 @@ delivery of instruction	教案
 computer manual	计算机手册
 The Nurnberg Funnel	《The Nurnberg Funnel》（纽伦堡漏斗）
 practitioner	从业者
+Adobe Technical Communication Suite (TCS)	Adobe 技术传播套件（TCS）
