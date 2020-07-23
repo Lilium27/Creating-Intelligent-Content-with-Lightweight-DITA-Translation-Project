@@ -104,8 +104,8 @@
       <tuv lang="en">
         <seg>&lt;t9/&gt;In academia, scholars have praised Extensible Markup Language (XML) as the foundation for information reuse, single sourcing, and, particularly, content management for more than a dec&lt;t10/&gt;ade.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T161402Z" creationid="DSS" creationdate="20200723T160444Z">
-        <seg>在学术界，学者们一直赞誉可扩展标记语言（Extensible Markup Language, XML）是一个多世纪以来信息重用、单一来源、特别是内容管理的基础。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T161936Z" creationid="DSS" creationdate="20200723T160444Z">
+        <seg>&lt;t9/&gt;在学术界，学者们一直赞誉可扩展标记语言（Extensible Markup Language, XML）是一个多世纪以来信息重用、单一来源、特别是内容管理的基础。</seg>
       </tuv>
     </tu>
     <tu>
@@ -344,8 +344,8 @@
       <tuv lang="en">
         <seg>Publications from the 2000s heralded that “technical communicators will probably face a day when all organizational documents are saved in XML for&lt;t11/&gt;mat” (Sapienza, &lt;t12/&gt;2002, &lt;t13/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T161441Z" creationid="DSS" creationdate="20200723T160501Z">
-        <seg>2000年代的出版物就预言 “技术传播者可能会迎来所有组织性的文档都保存在 XML 里的一天”（萨皮恩扎，2002年，第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T161922Z" creationid="DSS" creationdate="20200723T160501Z">
+        <seg>2000年代的出版物就预言 “技术传播者可能会迎来所有组织性的文档都保存在 XML 里的一天”（萨皮恩扎， &lt;t12/&gt;2002年，&lt;t13/&gt;第</seg>
       </tuv>
     </tu>
     <tu>
