@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In Svenvold's account of the events, the manual was doomed when Carroll applied those principles of minimalism to the production of that specific genre of technical communication.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T075643Z" creationid="lenovo" creationdate="20200723T075643Z">
+        <seg>在Svenvold看来，Carroll将极简主义原理运用至技术传播这一特殊体裁的写作中，写出来的手册就注定是失败的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In his role as Distinguished Technical Marketer at IBM, James, a graduate of the Master of Science in Scientific and Technical Communication from the University of Minnesota-Twin Cities, was looking for interns who could work in a structured authoring environment.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T154938Z" creationid="DSS" creationdate="20200720T133311Z">
