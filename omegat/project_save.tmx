@@ -8,8 +8,8 @@
       <tuv lang="en">
         <seg>(Mathewson, &lt;t0/&gt;2016)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T155007Z" creationid="DSS" creationdate="20200720T134229Z">
-        <seg>（马修森， &lt;t0/&gt;2016）</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T155913Z" creationid="DSS" creationdate="20200720T134229Z">
+        <seg>（马修森， &lt;t0/&gt;2016年）</seg>
       </tuv>
     </tu>
     <tu>
@@ -30,10 +30,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t2/&gt;116).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T160301Z" creationid="DSS" creationdate="20200723T160301Z">
+        <seg>116页）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t3/&gt;54).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T155033Z" creationid="DSS" creationdate="20200720T153935Z">
-        <seg>&lt;t3/&gt;54 页）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T155957Z" creationid="DSS" creationdate="20200720T153935Z">
+        <seg>&lt;t3/&gt;54页）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t3/&gt;Andersen adds that this type of con&lt;t4/&gt;tent supported by topic-based information design “has been given various names, including intelligent content, nimble content, smart content, portable content, and future-ready content.” Rockley, Cooper, and Abel describe intel&lt;t5/&gt;ligent content as “designed to be modular, structured, reusable, format free, and semantically rich and, as a consequence, discoverable, reconfigurable, and adaptable” (Rockley et al., &lt;t6/&gt;2015, &lt;t7/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T160416Z" creationid="DSS" creationdate="20200723T160314Z">
+        <seg>&lt;t3/&gt;安德森补充说，这种基于主题信息设计的内容类型 “已经有了各种叫法，包括智慧内容、敏捷内容、智能内容、可移植内容和面向未来的内容。”罗克利（Rockley）、库珀（Cooper）和亚伯（Abel）认为智慧内容是“甫一设计就是模块化、结构化、可重用、无格式、语义丰富的，因此它们也具备可发现、可重构和可修改的特质”（罗克利等，&lt;t6/&gt;2015年， &lt;t7/&gt;第</seg>
       </tuv>
     </tu>
     <tu>
@@ -48,8 +64,8 @@
       <tuv lang="en">
         <seg>&lt;t4/&gt;In many technical communication practices, “efficient content reuse does not involve copy-and-pasting; instead it uses &lt;t5/&gt;transclusion&lt;t6/&gt;, whereby content is authored in one location and used by reference in other locations” (Eberlein, &lt;t7/&gt;2016 &lt;t8/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T154741Z" creationid="DSS" creationdate="20200720T155448Z">
-        <seg>&lt;t4/&gt;在许多技术传播实践中，“有效内容的重用不是复制粘贴；相反，它是&lt;t5/&gt;引用&lt;t6/&gt;，即在一个地方创作内容，在其他地方引用改内容”（埃伯莱因，&lt;t7/&gt;2016 &lt;t8/&gt; 第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T160007Z" creationid="DSS" creationdate="20200720T155448Z">
+        <seg>&lt;t4/&gt;在许多技术传播实践中，“有效内容的重用不是复制粘贴；相反，它是&lt;t5/&gt;引用&lt;t6/&gt;，即在一个地方创作内容，在其他地方引用改内容”（埃伯莱因，&lt;t7/&gt;2016年， &lt;t8/&gt; 第</seg>
       </tuv>
     </tu>
     <tu>
@@ -62,10 +78,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t8/&gt;1).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T160423Z" creationid="DSS" creationdate="20200723T160321Z">
+        <seg>&lt;t8/&gt;1页）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t9/&gt;55).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T160142Z" creationid="DSS" creationdate="20200720T160010Z">
-        <seg>&lt;t9/&gt;55 页)。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T160027Z" creationid="DSS" creationdate="20200720T160010Z">
+        <seg>&lt;t9/&gt;55页)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t9/&gt;In academia, scholars have praised Extensible Markup Language (XML) as the foundation for information reuse, single sourcing, and, particularly, content management for more than a dec&lt;t10/&gt;ade.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T160444Z" creationid="DSS" creationdate="20200723T160444Z">
+        <seg>在学术界，学者们一直赞誉可扩展标记语言(Extensible Markup Language, XML)是一个多世纪以来信息重用、单一来源、特别是内容管理的基础。</seg>
       </tuv>
     </tu>
     <tu>
@@ -302,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Publications from the 2000s heralded that “technical communicators will probably face a day when all organizational documents are saved in XML for&lt;t11/&gt;mat” (Sapienza, &lt;t12/&gt;2002, &lt;t13/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T160501Z" creationid="DSS" creationdate="20200723T160501Z">
+        <seg>2000年代的出版物就语言 “技术传播者可能会迎来所有组织性的文档都保存在XML里的一天”(萨皮恩扎，2002年，第</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>REVISITING THE FUTURE OF&lt;t0/&gt; TECHNICAL COMMUNICATION</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T155103Z" creationid="DSS" creationdate="20200720T132009Z">
@@ -366,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The “future” of technical communication described in the Adobe video focuses on what Rebekka Andersen describes as “structured content that is highly adaptable and portable and can be configured on the fly in response to specific user requests” &lt;t0/&gt;(2014, &lt;t1/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T160348Z" creationid="DSS" creationdate="20200723T160253Z">
+        <seg>Adobe 视频中所描述的技术传播的“未来”关注的是瑞贝卡·安德森（Rebekka Andersen）所描述的“具有高度适应性和可移植性，并且可以根据用户的具体要求随时进行配置的结构化内容” &lt;t0/&gt;（2014年， &lt;t1/&gt;第</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Therefore, LwDITA can be described as a resource to mend some aspects of the research-to-practice loop in our discipline.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T015817Z" creationid="lenovo" creationdate="20200723T015817Z">
@@ -400,8 +448,8 @@
       <tuv lang="en">
         <seg>When he talks about “reusable content,” Mathewson is referring to the “prac&lt;t0/&gt;tice of using content components in multiple information products” (Eberlein, &lt;t1/&gt;2016 &lt;t2/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T155522Z" creationid="DSS" creationdate="20200720T153908Z">
-        <seg>马修森所说的“可重用内容”是指“在多个信息产品中使用内容组件的实践”（埃伯莱因，&lt;t1/&gt;2016&lt;t2/&gt; 第 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T155952Z" creationid="DSS" creationdate="20200720T153908Z">
+        <seg>马修森所说的“可重用内容”是指“在多个信息产品中使用内容组件的实践”（埃伯莱因，&lt;t1/&gt;2016&lt;t2/&gt;年，第</seg>
       </tuv>
     </tu>
     <tu>
@@ -432,8 +480,8 @@
       <tuv lang="en">
         <seg>communication) is all about more and more structured content and the ability to work faster and smarter with XML and DITA constructs.” Approaching the end of its 2:30-minutes runtime, the video claims that “it is most certainly an exciting future to be in” (AdobeTCS, &lt;t0/&gt;2012).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T155858Z" creationid="DSS" creationdate="20200723T155417Z">
-        <seg>传播的未来），意味着越来越结构化的内容，以及更快、更智能地使用 XML 和 DITA 结构的能力。”在这时长 2 小时 30 分钟的视频即将结束之时，视频旁白声宣称 “这无疑是一个令人兴奋的未来”（AdobeTCS,  &lt;t0/&gt;2012年）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T160132Z" creationid="DSS" creationdate="20200723T155417Z">
+        <seg>传播的未来），意味着越来越结构化的内容，以及更快、更智能地使用 XML 和 DITA 结构的能力。”在这时长2小时30分钟的视频即将结束之时，视频旁白声宣称 “这无疑是一个令人兴奋的未来”（AdobeTCS， &lt;t0/&gt;2012年）。</seg>
       </tuv>
     </tu>
     <tu>
