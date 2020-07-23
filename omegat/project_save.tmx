@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allowing learners to start immediately on meaningfully realistic tasks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T074649Z" creationid="lenovo" creationdate="20200723T074649Z">
+        <seg>允许学习者立刻上手操作实际项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As a proposed standard for authoring and publishing content that includes technical communication, Lightweight DITA shares a common ancestor with the computer manual of the past.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T015032Z" creationid="lenovo" creationdate="20200723T015021Z">
@@ -142,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Helping to make errors and error recovery less traumatic and more peda&lt;t0/&gt;gogically productive (p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T075115Z" creationid="lenovo" creationdate="20200723T075115Z">
+        <seg>降低犯错与纠错的伤害，提升教学效率。(p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In his role as Distinguished Technical Marketer at IBM, James, a graduate of the Master of Science in Scientific and Technical Communication from the University of Minnesota-Twin Cities, was looking for interns who could work in a structured authoring environment.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T154938Z" creationid="DSS" creationdate="20200720T133311Z">
@@ -202,6 +218,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T155103Z" creationid="DSS" creationdate="20200720T132009Z">
         <seg>重新讨论&lt;t0/&gt;技术传播的未来</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reducing the amount of reading and other passive activity in training</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T074731Z" creationid="lenovo" creationdate="20200723T074731Z">
+        <seg>减少培训中所需的阅读量和其他被动活动</seg>
       </tuv>
     </tu>
     <tu>
