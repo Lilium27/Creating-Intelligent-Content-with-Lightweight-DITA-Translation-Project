@@ -32,8 +32,8 @@
       <tuv lang="en">
         <seg>&lt;t6/&gt;A casualty in the manual's demise, one could argue, was the main line of research that connected prac&lt;t7/&gt;titioners and academics in technical communication.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T013654Z" creationid="lenovo" creationdate="20200722T031615Z">
-        <seg>&lt;t6/&gt;可能有人会说，在技术传播领域将实践者和学者联系起来这一研究的主线，随手册的消亡而被废弃。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T013749Z" creationid="lenovo" creationdate="20200722T031615Z">
+        <seg>&lt;t6/&gt;可能有人会说，技术传播领域中将实践者和学者联系起来这一研究的主线随手册的消亡而被废弃。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42,6 +42,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T160142Z" creationid="DSS" creationdate="20200720T160010Z">
         <seg>&lt;t9/&gt;55 页)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As a proposed standard for authoring and publishing content that includes technical communication, Lightweight DITA shares a common ancestor with the computer manual of the past.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T015021Z" creationid="lenovo" creationdate="20200723T015021Z">
+        <seg>作为编写和出版内容（包括技术传播）的一种建议标准，轻量DITA与以往的计算机手册同根同源</seg>
       </tuv>
     </tu>
     <tu>
