@@ -48,8 +48,8 @@
       <tuv lang="en">
         <seg>As a proposed standard for authoring and publishing content that includes technical communication, Lightweight DITA shares a common ancestor with the computer manual of the past.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T015021Z" creationid="lenovo" creationdate="20200723T015021Z">
-        <seg>作为编写和出版内容（包括技术传播）的一种建议标准，轻量DITA与以往的计算机手册同根同源</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T015032Z" creationid="lenovo" creationdate="20200723T015021Z">
+        <seg>作为编写和出版内容（包括技术传播）的一种建议标准，轻量DITA与以往的计算机手册同根同源。</seg>
       </tuv>
     </tu>
     <tu>
@@ -194,6 +194,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200721T144144Z" creationid="DSS" creationdate="20200721T144144Z">
         <seg>轻量级 DITA 地图组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Therefore, LwDITA can be described as a resource to mend some aspects of the research-to-practice loop in our discipline.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T015817Z" creationid="lenovo" creationdate="20200723T015817Z">
+        <seg>因此，在我们的领域中，轻量DITA能够弥合从研究到实践这一环路上出现一些问题。</seg>
       </tuv>
     </tu>
     <tu>
