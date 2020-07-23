@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t1/&gt;As I write this, I am a member of the CHCI executive committee and chair of its education-oriented strategic planning group.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T095220Z" creationid="lenovo" creationdate="20200723T095220Z">
+        <seg>&lt;t1/&gt;我著书时，是CHCI执行委员会成员，并且担任了技术导向战略计划团体的主席</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t3/&gt;54).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T155033Z" creationid="DSS" creationdate="20200720T153935Z">
@@ -354,6 +362,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T093658Z" creationid="lenovo" creationdate="20200723T092843Z">
         <seg>我们生活的世界变好了。”卡罗尔指出计算机发展早期，数据处理的专业人员占据了主导地位，并且当时的从业环境非常苛刻：“大部分人员都是白人男性，而现在全球范围内人人都用上了电脑。”(J.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We reminisced about the Virginia Tech Center for Human-Computer Interaction (CHCI), which Carroll founded in &lt;t0/&gt;1995.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T094927Z" creationid="lenovo" creationdate="20200723T094927Z">
+        <seg>我们想起了卡罗尔在1995年创立的弗吉尼亚理工大学人机交互中心(CHCI)。</seg>
       </tuv>
     </tu>
     <tu>
