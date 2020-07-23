@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As a pair of rapidly animated hands assembles Lego pieces (&lt;t4/&gt;Figure &lt;t5/&gt;1.1&lt;t6/&gt;), &lt;t7/&gt;the video's narrator describes that “for some, (the future of technical</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T155412Z" creationid="DSS" creationdate="20200723T155412Z">
+        <seg>视频播放到一双快速活动的手组装乐高积木的画面时（&lt;t4/&gt;图 &lt;t5/&gt;1.1&lt;t6/&gt;）， &lt;t7/&gt;响起了旁白:“对于某些人来说（技术</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As a proposed standard for authoring and publishing content that includes technical communication, Lightweight DITA shares a common ancestor with the computer manual of the past.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T015032Z" creationid="lenovo" creationdate="20200723T015021Z">
@@ -418,6 +426,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T153524Z" creationid="DSS" creationdate="20200720T133600Z">
         <seg>是的，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>communication) is all about more and more structured content and the ability to work faster and smarter with XML and DITA constructs.” Approaching the end of its 2:30-minutes runtime, the video claims that “it is most certainly an exciting future to be in” (AdobeTCS, &lt;t0/&gt;2012).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T155417Z" creationid="DSS" creationdate="20200723T155417Z">
+        <seg>传播的未来），</seg>
       </tuv>
     </tu>
     <tu>
