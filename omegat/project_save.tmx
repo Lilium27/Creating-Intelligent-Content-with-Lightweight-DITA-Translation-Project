@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t3/&gt;Carroll used the term to describe approaches to self-instruction related to computing that expected that a user would consume content at their own pace and then come out com&lt;t4/&gt;petent, after returning to “varying levels of incompetence” (p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T073135Z" creationid="lenovo" creationdate="20200723T073135Z">
+        <seg>&lt;t3/&gt;Carroll使用这一术语来描述与计算机相关的自学方法，希望藉由这些方法使得用户能以自己的节奏学习相关内容，并获得相应技能。(p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t4/&gt;In many technical communication practices, “efficient content reuse does not involve copy-and-pasting; instead it uses &lt;t5/&gt;transclusion&lt;t6/&gt;, whereby content is authored in one location and used by reference in other locations” (Eberlein, &lt;t7/&gt;2016 &lt;t8/&gt;p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T160137Z" creationid="DSS" creationdate="20200720T155448Z">
