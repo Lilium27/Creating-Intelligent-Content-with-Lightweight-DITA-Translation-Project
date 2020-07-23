@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Gone are the days when the manual was binding the academic and practitioner camps of technical com&lt;t1/&gt;munication as they worked towards the advancement of this common genre.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T082040Z" creationid="lenovo" creationdate="20200723T082040Z">
+        <seg>以往技术传播领域的学术人士和从业者携手推动手册这一通用体裁的发展，进而两者绑定在一起，然而这样的日子已经一去不复返了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HOW DITA EVOLVED INTO LwDITA</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200721T143908Z" creationid="DSS" creationdate="20200721T143908Z">
