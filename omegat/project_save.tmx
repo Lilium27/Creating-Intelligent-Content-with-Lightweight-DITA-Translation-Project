@@ -56,8 +56,8 @@
       <tuv lang="en">
         <seg>A certain kind of colleague who still writes in a command-line environment using a text editor like Vim would promptly procure pseudo-evidence to build a case arguing that developers and users have lost the “itch” to tinker with software and hardware because the manual is no longer there to guide them and provide hundreds of reference points.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T085224Z" creationid="lenovo" creationdate="20200723T085224Z">
-        <seg>还有一类同事仍在使用类似Vim的文本编辑器在命令行界面中进行写作，他</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T090349Z" creationid="lenovo" creationdate="20200723T085224Z">
+        <seg>还有一类同事仍在使用类似Vim的文本编辑器在命令行界面中进行写作，他很快就能想出来一个看似证据充足的案例来证明开发者和用户失去了改进软件和硬件的渴望，因为没有手册能够给他们提供指引和上百例参考条目。</seg>
       </tuv>
     </tu>
     <tu>
