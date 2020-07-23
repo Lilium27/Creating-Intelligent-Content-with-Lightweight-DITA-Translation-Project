@@ -88,8 +88,8 @@
       <tuv lang="en">
         <seg>At the same time, and in a more tongue-in-cheek fashion, Carroll has also been labeled as “the man who killed the manual” (Svenvold, &lt;t5/&gt;2015).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200722T031248Z" creationid="lenovo" creationdate="20200722T031230Z">
-        <seg>同时有戏言称，Carroll可以称得上是“消灭手册的人”。(Svenvold, &lt;t5/&gt;2015).</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T093523Z" creationid="lenovo" creationdate="20200722T031230Z">
+        <seg>同时有戏言称，卡罗尔可以称得上是“消灭手册的人”。(Svenvold, &lt;t5/&gt;2015).</seg>
       </tuv>
     </tu>
     <tu>
@@ -136,8 +136,8 @@
       <tuv lang="en">
         <seg>Carroll's work on applying principles of minimalism to techni&lt;t0/&gt;cal documentation, presented chiefly in his book &lt;t1/&gt;The Nurnberg Funnel&lt;t2/&gt; &lt;t3/&gt;(1990), &lt;t4/&gt;still resonates with professionals advancing theory and practice related to procedural writing, delivery of instruction, and interface design.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T061419Z" creationid="lenovo" creationdate="20200722T022525Z">
-        <seg>Carroll's致力于将极简主义原则应用到文档上&lt;t0/&gt;这一点在他的&lt;t1/&gt;《The Nurnberg Funnel》（纽伦堡漏斗）&lt;t2/&gt; &lt;t3/&gt;(1990)一书中体现地淋漓尽致, &lt;t4/&gt;这与程式化写作、教程和界面设计等领域的专业前沿理论和实践有着共通之处</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T093537Z" creationid="lenovo" creationdate="20200722T022525Z">
+        <seg>卡罗尔致力于将极简主义原则应用到文档上&lt;t0/&gt;这一点在他的&lt;t1/&gt;《纽伦堡漏斗》（The Nurnberg Funnel）&lt;t2/&gt; &lt;t3/&gt;(1990)一书中体现地淋漓尽致, &lt;t4/&gt;这与程式化写作、教程和界面设计等领域的专业前沿理论和实践有着共通之处</seg>
       </tuv>
     </tu>
     <tu>
@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It was a warm day in May when I interviewed John Carroll at his office on the Penn State campus, and he looked more like a Jimmy Buffett concertgoer than the patron saint of technical communicators.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T093438Z" creationid="lenovo" creationdate="20200723T093438Z">
+        <seg>五月温暖和煦的一天，我在在约翰·卡罗尔(John Carroll)位于宾州州立大学校园的办公室里采访了他。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It was not supposed to be like this.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T160228Z" creationid="DSS" creationdate="20200720T160228Z">
@@ -248,8 +256,8 @@
       <tuv lang="en">
         <seg>John M. Carroll is held responsible for some actions and decisions that have defined the academic and professional field of technical communication as we know it today.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200722T022425Z" creationid="lenovo" creationdate="20200722T022425Z">
-        <seg>我们如今了解的定义了技术通信学术和专业领域的一些行为和决定都出自John M. Carroll之手</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T093552Z" creationid="lenovo" creationdate="20200722T022425Z">
+        <seg>我们如今了解的定义了技术通信学术和专业领域的一些行为和决定都出自约翰·卡罗尔（John Carroll）之手</seg>
       </tuv>
     </tu>
     <tu>
