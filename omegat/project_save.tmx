@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Carroll's proposed approach was a commit&lt;t7/&gt;ment to “minimizing the obtrusiveness to the learner of training material &lt;t8/&gt;— &lt;t9/&gt;hence the term &lt;t10/&gt;minimalist&lt;t11/&gt;” (p.7, his emphasis).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T074413Z" creationid="lenovo" creationdate="20200723T074413Z">
+        <seg>Carroll建议的方法是&lt;t7/&gt;尽可能减少学习者与培训材料之间的障碍 &lt;t8/&gt;— &lt;t9/&gt;由此提出了极简主义的概念&lt;t11/&gt;” (p.7, his emphasis).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Carroll's work on applying principles of minimalism to techni&lt;t0/&gt;cal documentation, presented chiefly in his book &lt;t1/&gt;The Nurnberg Funnel&lt;t2/&gt; &lt;t3/&gt;(1990), &lt;t4/&gt;still resonates with professionals advancing theory and practice related to procedural writing, delivery of instruction, and interface design.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T061419Z" creationid="lenovo" creationdate="20200722T022525Z">
