@@ -631,6 +631,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>While authors certainly can work on a topic-based environment without DITA (see Baker, &lt;t0/&gt;2013), &lt;t1/&gt;the term &lt;t2/&gt;topic&lt;t3/&gt; is frequently associated with this open standard, as explained in the following quote from Andersen &lt;t4/&gt;&amp; &lt;t5/&gt;Batova:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154614Z" creationid="DSS" creationdate="20200724T154614Z">
+        <seg>虽然作者当然可以在不使用 DITA 的情况下创建基于话题的内容（参见贝克，2013年），但是术语“话题“（topic）经常与DITA这个开放标准联系在一起，正如安德森和巴特瓦所说：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Would that they taught it in college.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T153605Z" creationid="DSS" creationdate="20200720T134127Z">
