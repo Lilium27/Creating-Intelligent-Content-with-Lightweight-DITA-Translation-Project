@@ -392,6 +392,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For authors of technical content, these foundational topic types provide constraints and structures beyond a presentation-oriented template.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T162113Z" creationid="DSS" creationdate="20200724T162113Z">
+        <seg>对于技术内容的写作者来说，这些基本话题类型提供了面向展示的模板之外的约束和结构。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, a concept could be an introduction to the sauces section in Chef Pedro's recipe book, while tasks can provide recipes for specific salsas and condiments (he can write a step about dicing tomatoes once and reuse in all the recipes that need it!), and a ref&lt;t0/&gt;erence topic can list common techniques and tools for preparing ingredients.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T162425Z" creationid="DSS" creationdate="20200724T162425Z">
+        <seg>例如，一个“概念”（concept）可以是对Pedro菜谱中酱汁部分的介绍，“任务”（task）可以为特定的辛香番茄酱和调味料提供菜谱（Pedro可以写一个将番茄切成小块的操作步骤，然后在所有需要用到这一步骤食谱中重复使用！），“参考”（reference）可以列出准备食材的常用技术和工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Gone are the days when the manual was binding the academic and practitioner camps of technical com&lt;t1/&gt;munication as they worked towards the advancement of this common genre.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T082040Z" creationid="lenovo" creationdate="20200723T082040Z">
@@ -428,6 +444,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T155229Z" creationid="DSS" creationdate="20200723T155229Z">
         <seg> &lt;t0/&gt;2012年，&lt;t1/&gt;Adobe 技术传播套件（TCS）团队在几个社交媒体渠道发布了一段名为“技术传播的未来”的视频。该视频使用定格动画和快速绘制技术，总结了用于技术传播的“Adobe 工具和服务”的特点。  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In DITA, authors can create consistent topics to assemble collections of information with elements that can be reused even at the phrase level.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T162123Z" creationid="DSS" creationdate="20200724T162123Z">
+        <seg>在 DITA 中，作者可以创建一致的话题来组合信息，这些信息甚至包含短语级别的可复用元素。</seg>
       </tuv>
     </tu>
     <tu>
