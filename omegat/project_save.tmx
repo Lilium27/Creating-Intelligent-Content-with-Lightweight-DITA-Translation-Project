@@ -553,8 +553,8 @@
       <tuv lang="en">
         <seg>XML, and as a consequence DITA, files can also be validated by XML Schema and RELAX NG (Regular Language for XML Next Generation) files.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T125751Z" creationid="DSS" creationdate="20200724T125751Z">
-        <seg>XML 和 DITA 文件也可以通过 XML Schema 和 RELAX NG（下一代XML常规语言）文件校验。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154154Z" creationid="DSS" creationdate="20200724T125751Z">
+        <seg>XML 和 DITA 文件也可以通过 XML Schema 和 RELAX NG（下一代 XML 常规语言）文件校验。</seg>
       </tuv>
     </tu>
     <tu>
