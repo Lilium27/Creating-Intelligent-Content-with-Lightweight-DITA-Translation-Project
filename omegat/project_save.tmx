@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t4/&gt;235).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T162643Z" creationid="DSS" creationdate="20200724T162643Z">
+        <seg>235页）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t4/&gt;255)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T155835Z" creationid="DSS" creationdate="20200724T155835Z">
@@ -298,6 +306,16 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T093537Z" creationid="lenovo" creationdate="20200722T022525Z">
         <seg>卡罗尔致力于将极简主义原则应用到文档上&lt;t0/&gt;这一点在他的&lt;t1/&gt;《纽伦堡漏斗》（The Nurnberg Funnel）&lt;t2/&gt; &lt;t3/&gt;(1990)一书中体现地淋漓尽致, &lt;t4/&gt;这与程式化写作、教程和界面设计等领域的专业前沿理论和实践有着共通之处</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Concept: contains background information and examples</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T162447Z" creationid="DSS" creationdate="20200724T162447Z">
+        <seg>概念（concept）：包含背景信息和示例
+
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -568,6 +586,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reference: describes commands, parameters, and other features (Pringle &lt;t0/&gt;&amp; &lt;t1/&gt;O'Keefe, &lt;t2/&gt;2009, &lt;t3/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T162510Z" creationid="DSS" creationdate="20200724T162510Z">
+        <seg>参考（reference）：描述命令、参数和其他特性（普林格尔和奥基夫，2009年，第</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Short, succinct manuals allow the user to dive into many different tasks and to accomplish them quickly, thereby gaining a sense of control and autonomy that inspires further learning.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T080716Z" creationid="lenovo" creationdate="20200723T080716Z">
@@ -580,6 +606,15 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200721T144144Z" creationid="DSS" creationdate="20200721T144144Z">
         <seg>轻量级 DITA 地图组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Task: includes procedures (“how to” information)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T162501Z" creationid="DSS" creationdate="20200724T162450Z">
+        <seg>任务（task）：包括步骤（指南信息）
+</seg>
       </tuv>
     </tu>
     <tu>
