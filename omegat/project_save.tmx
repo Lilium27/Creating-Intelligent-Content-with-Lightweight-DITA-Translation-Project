@@ -232,8 +232,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;1.1 &lt;t1/&gt;Screen capture from the video “The Future of Technical Communication,” by Adobe Technical Communication Suite.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T121058Z" creationid="DSS" creationdate="20200724T121058Z">
-        <seg>重新讨论&lt;t0/&gt;技术传播的未来</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T121521Z" creationid="DSS" creationdate="20200724T121058Z">
+        <seg>图1.1 AdobeTCS 制作的视频“技术传播的未来”的截图。</seg>
       </tuv>
     </tu>
     <tu>
@@ -440,8 +440,8 @@
       <tuv lang="en">
         <seg>This &lt;t2/&gt;specific frame displays the future of our profession as “more and more&lt;t3/&gt; structured content and the ability to work faster and smarter with XML and DITA constructs.”</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T121417Z" creationid="DSS" creationdate="20200724T121417Z">
-        <seg>越来越结构化的内容，以及更快、更智能地使用 XML 和 DITA 结构的能力。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T121549Z" creationid="DSS" creationdate="20200724T121417Z">
+        <seg>这一帧画面显示着行业的未来所在，即“越来越结构化的内容，以及更快、更智能地使用 XML 和 DITA 结构的能力”。</seg>
       </tuv>
     </tu>
     <tu>
