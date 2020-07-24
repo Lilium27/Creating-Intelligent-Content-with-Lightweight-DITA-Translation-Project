@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t1/&gt;2012, &lt;t2/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154301Z" creationid="DSS" creationdate="20200724T154301Z">
+        <seg>2012年，第</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t1/&gt;As I write this, I am a member of the CHCI executive committee and chair of its education-oriented strategic planning group.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T095220Z" creationid="lenovo" creationdate="20200723T095220Z">
@@ -30,10 +38,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t13/&gt;52).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154350Z" creationid="DSS" creationdate="20200724T154350Z">
+        <seg>52页）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t14/&gt;156) &lt;t15/&gt;and argued that “technical communicators should be able to write, edit, and manage XML documentation, including XML tags, &lt;t16/&gt;document type definitions (DTDs), XML schemas, and Darwin Information Typing Architecture (DITA)” (Gesteland McShane, &lt;t17/&gt;2009, &lt;t18/&gt;p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T161903Z" creationid="DSS" creationdate="20200723T161903Z">
         <seg>&lt;t14/&gt;156页）&lt;t15/&gt;，并认为“技术传播者应该具备编写、编辑和管理XML文档的能力，这包括 XML 标记，文档类型定义（DTD）,，XML 体系结构和 DITA”（杰斯特兰德·麦柯肖恩，&lt;t17/&gt;2009年， &lt;t18/&gt;第74页）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t14/&gt;This kind of writing is the basis of several technical communication and intelligent content practices and techniques, including component content management systems (CCMS), which are “a centralized system that helps organizations cap&lt;t15/&gt;ture, manage, store, preserve, and deliver topic-based content (components)” (Kerzreho, &lt;t16/&gt;2016 &lt;t17/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154440Z" creationid="DSS" creationdate="20200724T154401Z">
+        <seg>这种写作类型是几种技术传播和智能内容实践和技术的基础，包括组件内容管理系统（CCMS），CCMS 是“一个集中化系统，可以帮助组织获取、管理、存储、维护、发布基于主题的内容（组件）”（科兹热霍， 2016年，第</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t18/&gt;60), &lt;t19/&gt;and single sourcing, which can be defined as the practice of “creating content once, planning for its reuse in multiple places, contexts, and output channels” (White, &lt;t20/&gt;2016 &lt;t21/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154412Z" creationid="DSS" creationdate="20200724T154412Z">
+        <seg>60页），还包括单一来源，单一来源是“只创建一次内容，就考虑到在多个地方、多个语境、多种输出渠道中复用内容”的实践（怀特， 2016年，第5</seg>
       </tuv>
     </tu>
     <tu>
@@ -46,10 +78,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t22/&gt;56).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154416Z" creationid="DSS" creationdate="20200724T154416Z">
+        <seg>6页）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t3/&gt;54).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T155957Z" creationid="DSS" creationdate="20200720T153935Z">
         <seg>&lt;t3/&gt;54页）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t3/&gt;8), &lt;t4/&gt;and can be defined as “small independent piece of information on a single subject” (Baker, &lt;t5/&gt;2013, &lt;t6/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154307Z" creationid="DSS" creationdate="20200724T154307Z">
+        <seg>8页），话题也可以理解为“关于某个主题的短小独立的信息片段”（贝克， 2013，第</seg>
       </tuv>
     </tu>
     <tu>
@@ -86,10 +134,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t7/&gt;71).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154312Z" creationid="DSS" creationdate="20200724T154312Z">
+        <seg>71页）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t8/&gt;1).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T160423Z" creationid="DSS" creationdate="20200723T160321Z">
         <seg>&lt;t8/&gt;1页）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t8/&gt;Topic-based writing is described as “authoring an information set as a collection of discrete units called &lt;t9/&gt;topics&lt;t10/&gt;, rather than as a whole book or help system” (Baker, &lt;t11/&gt;2016 &lt;t12/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154341Z" creationid="DSS" creationdate="20200724T154341Z">
+        <seg>基于话题的写作会“编写一个信息集，聚合不同话题的离散单元，而编写一本书或一个帮助系统”（贝克，2016年，第</seg>
       </tuv>
     </tu>
     <tu>
@@ -118,10 +182,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A topic is “a self-contained unit of information.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154221Z" creationid="DSS" creationdate="20200724T154221Z">
+        <seg>话题是“一个自包含的信息单元，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allowing learners to start immediately on meaningfully realistic tasks</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T074649Z" creationid="lenovo" creationdate="20200723T074649Z">
         <seg>允许学习者立刻上手操作实际项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An effective topic covers only one subject.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154230Z" creationid="DSS" creationdate="20200724T154230Z">
+        <seg>一个有效的话题只涵盖一个主题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -239,6 +319,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Each topic is long enough to make sense on its own, but short enough to stick to one point without expanding into other sub&lt;t0/&gt;jects” (Bellamy et al.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154251Z" creationid="DSS" creationdate="20200724T154251Z">
+        <seg>每个话题都要内容充足，能站得住脚跟，同时也要精简干练，只围绕一个中心点展开，而不扩展到其他主题”（贝拉米等，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Essays from whole cloth is more the thing.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200721T160159Z" creationid="DSS" creationdate="20200720T134143Z">
@@ -299,6 +387,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T075115Z" creationid="lenovo" creationdate="20200723T075115Z">
         <seg>降低犯错与纠错的伤害，提升教学效率。(p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If that validation process sounds a little too complicated, as an author all you need to know is that the content types enforced by the DITA standard create information topics.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154319Z" creationid="DSS" creationdate="20200724T154209Z">
+        <seg>如果验证过程听起来有点太过复杂，作为作者只需要知道 DITA 标准规定的内容类型可以创建信息话题就行了。</seg>
       </tuv>
     </tu>
     <tu>
