@@ -568,6 +568,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The literature focuses on three topic types that “represent the vast majority of content produced to support users of technical information” (Hackos, &lt;t0/&gt;2011, &lt;t1/&gt;p.7): concept, task, and reference, which Pringle &lt;t2/&gt;&amp; &lt;t3/&gt;O'Keefe define succinctly as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T162056Z" creationid="DSS" creationdate="20200724T162056Z">
+        <seg>文档主要有三种话题类型，它们“代表了为了帮助用户而产生的技术信息文档里的绝大多数内容”（哈克斯，2011年，第7页）：概念（concept）、任务（task）和参考（reference），普林格尔（Pringle）和奥基夫对其的简短定义如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The three key aspects of Carroll's mini&lt;t12/&gt;malist approach to instruction are the following:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T074515Z" creationid="lenovo" creationdate="20200723T074515Z">
