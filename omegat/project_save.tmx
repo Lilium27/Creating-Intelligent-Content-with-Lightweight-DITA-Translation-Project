@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Content in DITA is presented as units or individual XML files that conform to pre-established types or models.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T125628Z" creationid="DSS" creationdate="20200724T125628Z">
+        <seg>DITA 中的内容以单元或独立 XML 文件的形式存在，符合预先建立的类型或模型结构。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creating Intelligent Content with Lightweight DITA&lt;t0/&gt; documents the evolution of the Darwin Information Typing Architecture (DITA) &lt;t1/&gt;一 &lt;t2/&gt;a widely used open standard for structuring technical content.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200722T021613Z" creationid="DSS" creationdate="20200718T121052Z">
@@ -218,6 +226,15 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T123915Z" creationid="DSS" creationdate="20200724T123915Z">
         <seg>DITA 内容类型：不仅仅是模板而已</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DITA's “fully tested DTD or schema for XML-based authoring” comes from the &lt;t0/&gt;Information Typing&lt;t1/&gt; part of its name.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T125615Z" creationid="DSS" creationdate="20200724T125615Z">
+        <seg>达尔文信息类型架构（DITA）“是一种经过充分检验的用于 XML 创作的 DTD 或模式”这一评价源自其名称中的“信息类型”（Information Typing）部分。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -474,6 +491,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T121549Z" creationid="DSS" creationdate="20200724T121417Z">
         <seg>这一帧画面显示着行业的未来所在，即“越来越结构化的内容，以及更快、更智能地使用 XML 和 DITA 结构的能力”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Those pre-established content types are enforced by files that are commonly referred to as DTDs, although DTD is only one of the markup languages used to verify the structure of those files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T125644Z" creationid="DSS" creationdate="20200724T125644Z">
+        <seg>尽管 DTD 只是用于校验这些文件结构的标记语言之一，这些预先建立的内容类型通常由 DTD 文件执行。</seg>
       </tuv>
     </tu>
     <tu>
