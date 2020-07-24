@@ -438,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This &lt;t2/&gt;specific frame displays the future of our profession as “more and more&lt;t3/&gt; structured content and the ability to work faster and smarter with XML and DITA constructs.”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T121417Z" creationid="DSS" creationdate="20200724T121417Z">
+        <seg>越来越结构化的内容，以及更快、更智能地使用 XML 和 DITA 结构的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>WITH LIGHTWEIGHT DITA</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200718T121755Z" creationid="lenovo" creationdate="20200718T120730Z">
