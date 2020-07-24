@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DITA Content Types: More than Templates</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T123915Z" creationid="DSS" creationdate="20200724T123915Z">
+        <seg>DITA 内容类型：不仅仅是模板而已</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Essays from whole cloth is more the thing.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200721T160159Z" creationid="DSS" creationdate="20200720T134143Z">
@@ -234,6 +242,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T121521Z" creationid="DSS" creationdate="20200724T121058Z">
         <seg>图1.1 AdobeTCS 制作的视频“技术传播的未来”的截图。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For Chef Pedro, adopting a standard like DITA simplifies the process of structuring content and producing information deliverables for human users.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T123552Z" creationid="DSS" creationdate="20200724T123552Z">
+        <seg>对于佩德罗来说，采用 DITA 这样的标准简化了用户创建结构化内容、生成可交付信息的过程。</seg>
       </tuv>
     </tu>
     <tu>
@@ -306,6 +322,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200716T085709Z" creationid="DSS" creationdate="20200716T085709Z">
         <seg>2014 年夏天，……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Instead of designing custom tags and depending on a publishing team to design templates and validation tools, he can use DITA's content types and take advan&lt;t0/&gt;tage of the benefits listed by Hackos.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T123656Z" creationid="DSS" creationdate="20200724T123656Z">
+        <seg>他可以利用 DITA 提供的内容类型和哈克斯列出的各项优势功能，而无需自己设计特定标签或依赖发布团队来设计模板和检验工具。</seg>
       </tuv>
     </tu>
     <tu>
