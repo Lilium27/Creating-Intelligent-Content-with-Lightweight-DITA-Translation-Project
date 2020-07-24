@@ -313,3 +313,4 @@ Cooper	库珀
 Abel	亚伯
 Sapienza	萨皮恩扎
 Gesteland McShane	杰斯特兰德·麦柯肖恩
+Hackos	哈克斯
