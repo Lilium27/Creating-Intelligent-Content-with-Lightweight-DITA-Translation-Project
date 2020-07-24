@@ -321,3 +321,4 @@ Kerzreho	科兹热霍
 O'Keefe	奥基夫
 Pringle	普林格尔
 topic	话题
+Pedro	佩德罗
