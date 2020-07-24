@@ -256,8 +256,8 @@
       <tuv lang="en">
         <seg>For an author, the main benefit from Hackos's list is in the “fully tested DTD or schema for XML-based authoring,” which I discuss in the next section.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T123518Z" creationid="DSS" creationdate="20200724T123518Z">
-        <seg>对于作者来说，哈克斯列出的优点中比较重要的一项是“DITA 是一种用于 XML 创作的 DTD 或模式，经过了充分的检验”，我将在下一节中讨论这一点。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T125555Z" creationid="DSS" creationdate="20200724T123518Z">
+        <seg>对于作者来说，哈克斯列出的优点中比较重要的一项是“DITA 是一种经过充分检验的用于 XML 创作的 DTD 或模式”，我将在下一节中讨论这一点。</seg>
       </tuv>
     </tu>
     <tu>
