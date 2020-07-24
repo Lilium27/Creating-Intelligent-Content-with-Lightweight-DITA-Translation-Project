@@ -318,3 +318,6 @@ Baker	贝克
 Batova	巴特瓦
 Bellamy	贝拉米
 Kerzreho	科兹热霍
+O'Keefe	奥基夫
+Pringle	普林格尔
+topic	话题
