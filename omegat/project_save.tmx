@@ -746,6 +746,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In their textbook &lt;t0/&gt;DITA Best Practices&lt;t1/&gt;, Bellamy et al.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T145845Z" creationid="DSS" creationdate="20200725T145845Z">
+        <seg>在教科书《DITA 最佳实践》（&lt;t0/&gt;DITA Best Practices&lt;t1/&gt;）中，贝拉米等人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Instead of designing custom tags and depending on a publishing team to design templates and validation tools, he can use DITA's content types and take advan&lt;t0/&gt;tage of the benefits listed by Hackos.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T123656Z" creationid="DSS" creationdate="20200724T123656Z">
@@ -1130,6 +1138,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T074323Z" creationid="DSS" creationdate="20200725T074323Z">
         <seg>需要一份 web 形式的菜谱，DITA-OT 也提供了这个选项，并允许作者为网页的格式和设计嵌入层叠样式表（Cascading Style Sheet, CSS）文件（图1.5）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>recommend using DITA maps to create an information set that specify which topics should be included in a user deliverable produced from the map, define an information architecture with the navigation for a set of topics, and create relationships between topics (Bellamy et al., &lt;t2/&gt;2012).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T145928Z" creationid="DSS" creationdate="20200725T145928Z">
+        <seg>建议使用 DITA 地图创建一个信息集合，DITA 地图指定了哪些话题应该被包括在用户输出的可交付成果中，使用话题导航定义了信息体系结构，并创建了话题之间的关系（贝拉米等， 2012年）。</seg>
       </tuv>
     </tu>
     <tu>
