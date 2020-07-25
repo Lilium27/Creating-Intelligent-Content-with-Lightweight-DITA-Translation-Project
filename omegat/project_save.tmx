@@ -522,6 +522,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE 1.5 &lt;t0/&gt;Marinara sauce DITA task transformed to an HTML5 deliverable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T085353Z" creationid="DSS" creationdate="20200725T085353Z">
+        <seg>图1.5 马里纳拉酱 DITA 任务转换生成的 HTML5 交付文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;1.1 &lt;t1/&gt;Screen capture from the video “The Future of Technical Communication,” by Adobe Technical Communication Suite.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T121521Z" creationid="DSS" creationdate="20200724T121058Z">
