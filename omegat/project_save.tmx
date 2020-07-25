@@ -56,8 +56,8 @@
       <tuv lang="en">
         <seg>&lt;t14/&gt;156) &lt;t15/&gt;and argued that “technical communicators should be able to write, edit, and manage XML documentation, including XML tags, &lt;t16/&gt;document type definitions (DTDs), XML schemas, and Darwin Information Typing Architecture (DITA)” (Gesteland McShane, &lt;t17/&gt;2009, &lt;t18/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T161903Z" creationid="DSS" creationdate="20200723T161903Z">
-        <seg>&lt;t14/&gt;156页）&lt;t15/&gt;，并认为“技术传播者应该具备编写、编辑和管理XML文档的能力，这包括 XML 标记，文档类型定义（DTD）,，XML 体系结构和 DITA”（杰斯特兰德·麦柯肖恩，&lt;t17/&gt;2009年， &lt;t18/&gt;第74页）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T062940Z" creationid="DSS" creationdate="20200723T161903Z">
+        <seg>&lt;t14/&gt;156页）&lt;t15/&gt;，并认为“技术传播者应该具备编写、编辑和管理XML文档的能力，这包括 XML 标记，文档类型定义（DTD）,，XML 体系结构和 DITA”（杰斯特兰德·麦柯肖恩，&lt;t17/&gt;2009年， &lt;t18/&gt;第</seg>
       </tuv>
     </tu>
     <tu>
@@ -74,6 +74,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154412Z" creationid="DSS" creationdate="20200724T154412Z">
         <seg>60页），还包括单一来源，单一来源是“只创建一次内容，就考虑到在多个地方、多个语境、多种输出渠道中复用内容”的实践（怀特， 2016年，第5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t19/&gt;74).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T064534Z" creationid="DSS" creationdate="20200725T064534Z">
+        <seg>74页）。</seg>
       </tuv>
     </tu>
     <tu>
