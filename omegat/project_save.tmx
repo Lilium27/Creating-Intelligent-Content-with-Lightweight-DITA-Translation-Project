@@ -22,6 +22,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;prereq&gt; &lt;t0/&gt;with a list of the ingredients needed for the recipe</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T070017Z" creationid="DSS" creationdate="20200725T070017Z">
+        <seg>&lt; preeq &gt; 是菜谱所需的配料列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;prolog&gt; &lt;t0/&gt;with some information about the recipe's author and category</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T070001Z" creationid="DSS" creationdate="20200725T070001Z">
+        <seg>&lt;prolog&gt; 是关于菜谱作者和类别的一些信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;shortdesc&gt; &lt;t0/&gt;with a summary of the topic's contents</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T070009Z" creationid="DSS" creationdate="20200725T065936Z">
+        <seg>&lt;shortdesc&gt; 是题内容的摘要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t1/&gt;2012, &lt;t2/&gt;p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154301Z" creationid="DSS" creationdate="20200724T154301Z">
@@ -667,10 +691,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;t0/&gt;&lt;task&gt; &lt;t1/&gt;element opens the topic announcing “this is a task,” and it contains elements like the following:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T065912Z" creationid="DSS" creationdate="20200725T065912Z">
+        <seg>&lt;task&gt;开启一个话题，声明“这是一个任务”，它包含如下元素：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The literature focuses on three topic types that “represent the vast majority of content produced to support users of technical information” (Hackos, &lt;t0/&gt;2011, &lt;t1/&gt;p.7): concept, task, and reference, which Pringle &lt;t2/&gt;&amp; &lt;t3/&gt;O'Keefe define succinctly as follows:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T162056Z" creationid="DSS" creationdate="20200724T162056Z">
         <seg>文档主要有三种话题类型，它们“代表了为了帮助用户而产生的技术信息文档里的绝大多数内容”（哈克斯，2011年，第7页）：概念（concept）、任务（task）和参考（reference），普林格尔（Pringle）和奥基夫对其的简短定义如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The recipe has a strong structure with visible sections.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T065840Z" creationid="DSS" creationdate="20200725T065840Z">
+        <seg>菜谱结构固定，各个组成部分清晰明了。</seg>
       </tuv>
     </tu>
     <tu>
