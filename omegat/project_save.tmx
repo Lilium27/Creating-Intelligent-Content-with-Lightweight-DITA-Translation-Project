@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t7/&gt;And if a different member of the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T074217Z" creationid="DSS" creationdate="20200725T074217Z">
+        <seg>如果厨房团队的其他成员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t8/&gt;1).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T160423Z" creationid="DSS" creationdate="20200723T160321Z">
@@ -928,6 +936,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T160132Z" creationid="DSS" creationdate="20200723T155417Z">
         <seg>传播的未来），意味着越来越结构化的内容，以及更快、更智能地使用 XML 和 DITA 结构的能力。”在这时长2小时30分钟的视频即将结束之时，视频旁白声宣称 “这无疑是一个令人兴奋的未来”（AdobeTCS， &lt;t0/&gt;2012年）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>kitchen team requires a web version of the recipe, the DITA-OT also provides that option and allows the author to link to a Cascading Style Sheet (CSS) file for formatting and design (&lt;t0/&gt;Figure &lt;t1/&gt;1.5&lt;t2/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T074323Z" creationid="DSS" creationdate="20200725T074323Z">
+        <seg>需要一份 web 形式的菜谱，DITA-OT 也提供了这个选项，并允许作者为网页的格式和设计嵌入层叠样式表（Cascading Style Sheet, CSS）文件（图1.5）。</seg>
       </tuv>
     </tu>
     <tu>
