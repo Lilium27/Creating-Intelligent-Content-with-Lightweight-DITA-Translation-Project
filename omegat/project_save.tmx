@@ -514,10 +514,10 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>FIGURE 1.5 &lt;t0/&gt;Marinara sauce DITA task transformed to an HTML5 deliverable.</seg>
+        <seg>FIGURE 1.4 &lt;t0/&gt;Marinara sauce DITA task transformed to a PDF deliverable.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T084721Z" creationid="DSS" creationdate="20200725T084721Z">
-        <seg>图1.4 马里纳拉酱 DITA 任务转换生成的 PDF 可交付文件。这</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T085319Z" creationid="DSS" creationdate="20200725T084913Z">
+        <seg>图1.4 马里纳拉酱 DITA任务转换生成的 PDF 交付文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -883,10 +883,10 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>This&lt;t1/&gt; sample output includes a link to an external CSS file for formatting.</seg>
+        <seg>This&lt;t1/&gt; simple output did not require a dedicated stylesheet or choices about pagination and typography.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T084810Z" creationid="DSS" creationdate="20200725T084810Z">
-        <seg>个简单的输出物不需要专门的样式表，也不需要标定页码和排版。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T085014Z" creationid="DSS" creationdate="20200725T085014Z">
+        <seg>这个简单的输出物不需要专门的样式表，也不需要标定页码和排版。</seg>
       </tuv>
     </tu>
     <tu>
