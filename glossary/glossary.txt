@@ -328,3 +328,5 @@ concept	概念
 task	任务
 reference	参考
 reference	参考
+troubleshooting	故障排除
+alarm clearing	警示清除
