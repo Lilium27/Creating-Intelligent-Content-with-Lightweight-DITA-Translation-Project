@@ -272,8 +272,8 @@
       <tuv lang="en">
         <seg>Although in &lt;t0/&gt;Chapters&lt;t1/&gt; &lt;t2/&gt;5&lt;t3/&gt; &lt;t4/&gt;and &lt;t5/&gt;6&lt;t6/&gt; &lt;t7/&gt;I will further analyze the DITA tags and attributes, for the scope of this introductory section, I structured and tagged O'Keefe's recipe for mari&lt;t8/&gt;nara sauce as a DITA task (&lt;t9/&gt;Figure &lt;t10/&gt;1.3&lt;t11/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T064726Z" creationid="DSS" creationdate="20200725T064726Z">
-        <seg>在第5章和第6章中，我将进一步分析 DITA 的标签和属性。在本部分的简介中，我会将奥基夫的马里纳拉酱料菜谱结构化，打上标签，作为一个 DITA 任务的示范（如图1.3）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T073551Z" creationid="DSS" creationdate="20200725T064726Z">
+        <seg>在第5章和第6章中，我将进一步分析 DITA 的标签和属性。在本部分的简介中，我会将奥基夫的马里纳拉酱料菜谱结构化，打上标签，作为一个 DITA 任务的示范（图1.3）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -502,6 +502,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200721T143908Z" creationid="DSS" creationdate="20200721T143908Z">
         <seg>从 DITA 到轻量级 DITA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hackos mentioned “an open source toolkit you can use to produce your own output in multiple media without having to invest in proprietary tools” &lt;t0/&gt;(2011, &lt;t1/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T073728Z" creationid="DSS" creationdate="20200725T073728Z">
+        <seg>哈克斯提到“有一个开源工具包，你可以使用它生成多种格式的文件，而不必购买专用软件”（2011年，第9页）。使用该工具包，即 DITA Open toolkit （OT）或使用基于 Open Toolkit 开发的软件工具，Pedro可以快速生成可交付信息。如果副厨师需要一个可打印的 PDF 版本的菜谱，Pedro 可以自己制作生成，不需要聘请任何模板设计师（图1.4）。</seg>
       </tuv>
     </tu>
     <tu>
