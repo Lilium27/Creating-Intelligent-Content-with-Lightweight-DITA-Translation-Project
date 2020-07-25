@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t10/&gt;Actually, the all- inclusive edition of the DITA &lt;t11/&gt;1.3 &lt;t12/&gt;standard has &lt;t13/&gt;26 &lt;t14/&gt;document types (predefined document, or even genre, templates) and &lt;t15/&gt;621 &lt;t16/&gt;element types (placeholders or structures for specific content moves).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T083511Z" creationid="DSS" creationdate="20200725T083511Z">
+        <seg>实际上，DITA 1.3标准的完整版本包含26种文档类型（预定义文档、类型或模板）和621种元素类型（用于特定内容操作的占位符或结构）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t10/&gt;The “essays from whole cloth” reference is a nod to the book-oriented kind of writing using a word processor that most academic programs in techni&lt;t11/&gt;cal communication and content development teach as standard practice.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T154723Z" creationid="DSS" creationdate="20200723T154723Z">
