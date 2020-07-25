@@ -612,8 +612,8 @@
       <tuv lang="en">
         <seg>In practical terms, DITA's topic types include XML tags for content “moves” or strategies (such as a short description, steps, and examples) frequently used in technical publications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T064600Z" creationid="DSS" creationdate="20200725T064600Z">
-        <seg>实际上，DITA 的话题类型包括技术出版物中经常用于内容迁移或策略（例如一个简短的描述、步骤和示例）的 XML 标记。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T082839Z" creationid="DSS" creationdate="20200725T064600Z">
+        <seg>实际上，DITA 的话题类型包括技术出版物中经常用于内容操作或策略（例如一个简短的描述、步骤和示例）的 XML 标记。</seg>
       </tuv>
     </tu>
     <tu>
@@ -781,8 +781,8 @@
       <tuv lang="en">
         <seg>The standard's “fully tested&lt;t2/&gt; DTD or schema for XML-based authoring” includes commonly used elements or moves in technical publication.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T071152Z" creationid="DSS" creationdate="20200725T071115Z">
-        <seg>DITA 标准“是一种经过充分检验的用于 XML 创作的 DTD 或模式”的含义表示 DITA 包含了技术出版物中常用的元素或功能。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T082718Z" creationid="DSS" creationdate="20200725T071115Z">
+        <seg>DITA 标准“是一种经过充分检验的用于 XML 创作的 DTD 或模式”的含义表示 DITA 包含了技术出版物中常用的元素或操作。</seg>
       </tuv>
     </tu>
     <tu>
