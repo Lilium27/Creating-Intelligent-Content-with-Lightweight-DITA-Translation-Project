@@ -602,6 +602,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Figure &lt;t0/&gt;1.6&lt;t1/&gt; &lt;t2/&gt;shows a very basic DITA map for Chef Pedro's recipe critique website.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T153515Z" creationid="DSS" creationdate="20200725T153515Z">
+        <seg>图1.6展示了佩德罗食谱评论网站的一个非常基本的 DITA 地图。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For Chef Pedro, adopting a standard like DITA simplifies the process of structuring content and producing information deliverables for human users.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T123552Z" creationid="DSS" creationdate="20200724T123552Z">
@@ -916,6 +924,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The DITA map has a &lt;t3/&gt;&lt;title&gt; &lt;t4/&gt;element for the whole project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T153527Z" creationid="DSS" creationdate="20200725T153527Z">
+        <seg>DITA地 图有一个 &lt;title&gt; 元素用于描述整个项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The following scenario combines the examples I have presented so far: Chef Pedro has a website in which he critiques recipes.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T151653Z" creationid="DSS" creationdate="20200725T151653Z">
@@ -997,6 +1013,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Then, the map includes links (&lt;t5/&gt;&lt;topicref&gt;&lt;t6/&gt;) for the individual files needed for the website.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T153537Z" creationid="DSS" creationdate="20200725T153537Z">
+        <seg>然后，该地图包含网站所需的各个文件的链接（&lt;topicref&gt;）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Therefore, LwDITA can be described as a resource to mend some aspects of the research-to-practice loop in our discipline.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T015817Z" creationid="lenovo" creationdate="20200723T015817Z">
@@ -1058,6 +1082,14 @@
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T155631Z" creationid="DSS" creationdate="20200724T155631Z">
         <seg>“Topic”来源于被广泛采用的开放内容标准达尔文信息类型架构（DITA），该标准定义了内容的一般结构，促进了内容创建、共享和复用的一致性。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using the DITA-OT, which I will cover in more detail in &lt;t7/&gt;Chapters &lt;t8/&gt;5 &lt;t9/&gt;and &lt;t10/&gt;6&lt;t11/&gt;, &lt;t12/&gt;I transformed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T153832Z" creationid="DSS" creationdate="20200725T153832Z">
+        <seg>使用 DITA-OT（将在第5章和第6章详细介绍），我将地图转换成了一个 web 交付物。DITA-OT 会自动生成一个导航菜单（图1.7），并负责基本的布局。</seg>
       </tuv>
     </tu>
     <tu>
