@@ -12,7 +12,6 @@ authoring environment	编辑环境
 authoring language	编辑语言
 authoring tools	创作工具
 background information	背景信息
-basic unit	基本单位
 Best Practices	最佳实践
 best practices	最佳实践
 block element	块元素
