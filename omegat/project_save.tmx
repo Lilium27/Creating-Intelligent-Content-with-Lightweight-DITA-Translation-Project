@@ -733,8 +733,8 @@
       <tuv lang="en">
         <seg>The standard's “fully tested&lt;t2/&gt; DTD or schema for XML-based authoring” includes commonly used elements or moves in technical publication.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T071115Z" creationid="DSS" creationdate="20200725T071115Z">
-        <seg>DITA 标准“是一种经过充分检验的用于 XML 创作的 DTD 或模式”的含义包括技术出版物中常用的元素或功能。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T071152Z" creationid="DSS" creationdate="20200725T071115Z">
+        <seg>DITA 标准“是一种经过充分检验的用于 XML 创作的 DTD 或模式”的含义表示 DITA 包含了技术出版物中常用的元素或功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -791,6 +791,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T125644Z" creationid="DSS" creationdate="20200724T125644Z">
         <seg>尽管 DTD 只是用于校验这些文件结构的标记语言之一，这些预先建立的内容类型通常由 DTD 文件执行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thus, the recipe collector does not have to invent custom tags.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T073541Z" creationid="DSS" creationdate="20200725T071136Z">
+        <seg>因此，菜谱编辑者不必创建自定义标签。</seg>
       </tuv>
     </tu>
     <tu>
