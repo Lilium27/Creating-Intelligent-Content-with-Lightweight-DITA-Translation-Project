@@ -564,16 +564,16 @@
       <tuv lang="en">
         <seg>FIGURE 1.4 &lt;t0/&gt;Marinara sauce DITA task transformed to a PDF deliverable.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T150424Z" creationid="DSS" creationdate="20200725T084913Z">
-        <seg>图1.4 意式番茄罗勒酱 DITA 任务转换生成的 PDF 交付文件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T151211Z" creationid="DSS" creationdate="20200725T084913Z">
+        <seg>图1.4 意式番茄罗勒酱 DITA 任务（task）话题转换生成的 PDF 交付文件。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE 1.5 &lt;t0/&gt;Marinara sauce DITA task transformed to an HTML5 deliverable.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T150417Z" creationid="DSS" creationdate="20200725T085353Z">
-        <seg>图1.5 意式番茄罗勒酱 DITA 任务转换生成的 HTML5 交付文件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T151233Z" creationid="DSS" creationdate="20200725T085353Z">
+        <seg>图1.5 意式番茄罗勒酱 DITA 任务（task）话题转换生成的 HTML5 交付文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -588,8 +588,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;1.3 &lt;t1/&gt;Marinara sauce recipe as a DITA task.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T150333Z" creationid="DSS" creationdate="20200725T070427Z">
-        <seg>图1.3 将意式番茄罗勒酱菜谱改造成 DITA 形式。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T151201Z" creationid="DSS" creationdate="20200725T070427Z">
+        <seg>图1.3 将意式番茄罗勒酱菜谱改造成 DITA 任务（task）话题。</seg>
       </tuv>
     </tu>
     <tu>
