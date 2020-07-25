@@ -450,6 +450,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;1.3 &lt;t1/&gt;Marinara sauce recipe as a DITA task.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T070513Z" creationid="DSS" creationdate="20200725T070427Z">
+        <seg>图1.3 将马里纳拉酱菜谱改造成 DITA 形式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For Chef Pedro, adopting a standard like DITA simplifies the process of structuring content and producing information deliverables for human users.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T123552Z" creationid="DSS" creationdate="20200724T123552Z">
@@ -719,6 +727,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T065840Z" creationid="DSS" creationdate="20200725T065840Z">
         <seg>菜谱结构固定，各个组成部分清晰明了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The standard's “fully tested&lt;t2/&gt; DTD or schema for XML-based authoring” includes commonly used elements or moves in technical publication.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T071115Z" creationid="DSS" creationdate="20200725T071115Z">
+        <seg>DITA 标准“是一种经过充分检验的用于 XML 创作的 DTD 或模式”的含义包括技术出版物中常用的元素或功能。</seg>
       </tuv>
     </tu>
     <tu>
