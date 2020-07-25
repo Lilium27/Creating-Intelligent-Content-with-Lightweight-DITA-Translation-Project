@@ -948,6 +948,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The future of technical communication, as seen from industry and aca&lt;t0/&gt;demia, was supposed to cover the type of structured writing for reuse that James Mathewson was looking for.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T160846Z" creationid="DSS" creationdate="20200725T160846Z">
+        <seg>从工业界和学术界的角度来看，技术传播的未来应该包括詹姆斯•马修森所追寻的可重用的结构化写作类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The generic topic, with its simple tags for paragraphs and lists, can mark up a mar&lt;t0/&gt;keting blog post.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T091045Z" creationid="DSS" creationdate="20200725T091045Z">
