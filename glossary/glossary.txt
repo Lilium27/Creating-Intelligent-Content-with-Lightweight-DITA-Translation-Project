@@ -322,7 +322,7 @@ Pringle	普林格尔
 topic	话题
 Pedro	佩德罗
 You	你
-marinara sauce	马里纳拉酱
+marinara sauce	意式番茄罗勒酱
 concept	概念
 task	任务
 reference	参考
