@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;steps&gt; &lt;t0/&gt;with a collection of individual &lt;t1/&gt;&lt;step&gt; &lt;t2/&gt;elements containing a command (&lt;t3/&gt;&lt;cmd&gt;&lt;t4/&gt;) with an action verb.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T070412Z" creationid="DSS" creationdate="20200725T070412Z">
+        <seg>&lt;steps&gt; 包含一系列独立的 &lt;step&gt; 元素，每个 &lt;step&gt; 元素都包含一个带有动词的命令（&lt;cmd&gt;）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t1/&gt;2012, &lt;t2/&gt;p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154301Z" creationid="DSS" creationdate="20200724T154301Z">
