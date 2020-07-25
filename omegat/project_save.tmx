@@ -891,10 +891,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This&lt;t1/&gt; sample output includes a link to an external CSS file for formatting.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T085416Z" creationid="DSS" creationdate="20200725T085416Z">
+        <seg>该示例输出物包括一个关联到外部 CSS 文件的链接，用于调整版式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This&lt;t1/&gt; simple output did not require a dedicated stylesheet or choices about pagination and typography.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T085014Z" creationid="DSS" creationdate="20200725T085014Z">
-        <seg>这个简单的输出物不需要专门的样式表，也不需要标定页码和排版。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T085608Z" creationid="DSS" creationdate="20200725T085014Z">
+        <seg>该输出物非常简洁，不需要专门的样式表，也不需要标定页码和排版。</seg>
       </tuv>
     </tu>
     <tu>
