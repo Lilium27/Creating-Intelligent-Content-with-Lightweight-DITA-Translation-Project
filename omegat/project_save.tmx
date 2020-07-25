@@ -48,8 +48,8 @@
       <tuv lang="en">
         <seg>&lt;t12/&gt;You can download these code samples from the &lt;t13/&gt;Creating Intelligent Content with Lightweight DITA&lt;t14/&gt; GitHub repository (&lt;t15/&gt;https://github.com/carlosevia/lwdita-book&lt;t16/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T064748Z" creationid="DSS" creationdate="20200725T064748Z">
-        <seg>你可以从仓库中（https://github.com/carlosevia/lwdita-book）下载这些代码示例。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T065416Z" creationid="DSS" creationdate="20200725T064748Z">
+        <seg>你可以从本书 Github 仓库中（https://github.com/carlosevia/lwdita-book）下载这些代码示例。</seg>
       </tuv>
     </tu>
     <tu>
