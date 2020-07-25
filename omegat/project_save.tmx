@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>At the topic level, and without getting too deep into the process of DITA specialization, just as &lt;t2/&gt;&lt;concept&gt; &lt;t3/&gt;and &lt;t4/&gt;&lt;task&gt; &lt;t5/&gt;are spe&lt;t6/&gt;cialized from the original generic &lt;t7/&gt;&lt;topic&gt;&lt;t8/&gt;, &lt;t9/&gt;&lt;task&gt; &lt;t10/&gt;could specialize into &lt;t11/&gt;&lt;recipe&gt;&lt;t12/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T143911Z" creationid="DSS" creationdate="20200725T143911Z">
+        <seg>在不深入讨论如何定制 DITA 话题的情况下，我们来看一下各种话题。&lt;concept&gt; 和 &lt;task&gt; 是为最初通用的 &lt;topic&gt; 特别定制的，而为 &lt;task&gt; 又再具体定制了 &lt;recipe&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>BEFORE INTELLIGENT CONTENT,&lt;t0/&gt; THERE WAS THE COMPUTER MANUAL</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200722T021836Z" creationid="lenovo" creationdate="20200722T021836Z">
@@ -497,6 +505,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DITA Maps</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T144023Z" creationid="DSS" creationdate="20200725T144023Z">
+        <seg>DITA 地图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DITA's “fully tested DTD or schema for XML-based authoring” comes from the &lt;t0/&gt;Information Typing&lt;t1/&gt; part of its name.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T125615Z" creationid="DSS" creationdate="20200724T125615Z">
@@ -590,6 +606,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T162113Z" creationid="DSS" creationdate="20200724T162113Z">
         <seg>对于技术内容的写作者来说，这些基本话题类型提供了面向展示的模板之外的约束和结构。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, Chef Pedro is going to need to provide ingredients for his recipes, so he could create an ingredients specialization to include this specific element (i.e., &lt;t13/&gt;&lt;ingredients&gt; &lt;t14/&gt;as a specialization of &lt;t15/&gt;&lt;prereq&gt; &lt;t16/&gt;for pre-requisites).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T143942Z" creationid="DSS" creationdate="20200725T143942Z">
+        <seg>例如， 佩德罗需要为菜谱编写食材，所以他可以创建特有的食材标签来包含每个特定食材（如  &lt;ingredients&gt; 是表示前期准备的标签 &lt;prereq&gt; 下的特有标签）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -770,6 +794,15 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Properly tagged DITA topics can create or join content collections ready for reuse of material, single-sourcing of whole topics or their elements, and filters as determined by a deliverable's audience or context.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T144738Z" creationid="DSS" creationdate="20200725T144738Z">
+        <seg>适当标签化的 DITA 话题可以用于创建或连接内容集合，以便复用资源、完整的同源话题或同源话题包含的各个元素，以及由交付物的受众或语境决定的过滤器。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Publications from the 2000s heralded that “technical communicators will probably face a day when all organizational documents are saved in XML for&lt;t11/&gt;mat” (Sapienza, &lt;t12/&gt;2002, &lt;t13/&gt;p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T161922Z" creationid="DSS" creationdate="20200723T160501Z">
@@ -928,6 +961,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T121549Z" creationid="DSS" creationdate="20200724T121417Z">
         <seg>这一帧画面显示着行业的未来所在，即“越来越结构化的内容，以及更快、更智能地使用 XML 和 DITA 结构的能力”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This exercise in markup flexibility is a direct application of both the extensible part &lt;t17/&gt;of XML and the Darwin element in DITA: XML elements can be extended and DITA information types can evolve to accommodate diverse content and pro&lt;t18/&gt;cessing needs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T143955Z" creationid="DSS" creationdate="20200725T143955Z">
+        <seg>这种关于标记的灵活实践是对 XML 中的可扩展部分和 DITA 中的达尔文元素的直接应用：XML 元素可以扩展，DITA 中的信息类型可以进行调整以适应不同的内容和处理需要。</seg>
       </tuv>
     </tu>
     <tu>
