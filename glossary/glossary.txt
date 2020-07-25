@@ -324,3 +324,7 @@ topic	话题
 Pedro	佩德罗
 You	你
 marinara sauce	马里纳拉酱
+concept	概念
+task	任务
+reference	参考
+reference	参考
