@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t12/&gt;You can download these code samples from the &lt;t13/&gt;Creating Intelligent Content with Lightweight DITA&lt;t14/&gt; GitHub repository (&lt;t15/&gt;https://github.com/carlosevia/lwdita-book&lt;t16/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T064748Z" creationid="DSS" creationdate="20200725T064748Z">
+        <seg>你可以从仓库中（https://github.com/carlosevia/lwdita-book）下载这些代码示例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t13/&gt;52).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154350Z" creationid="DSS" creationdate="20200724T154350Z">
@@ -226,6 +234,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T074649Z" creationid="lenovo" creationdate="20200723T074649Z">
         <seg>允许学习者立刻上手操作实际项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Although in &lt;t0/&gt;Chapters&lt;t1/&gt; &lt;t2/&gt;5&lt;t3/&gt; &lt;t4/&gt;and &lt;t5/&gt;6&lt;t6/&gt; &lt;t7/&gt;I will further analyze the DITA tags and attributes, for the scope of this introductory section, I structured and tagged O'Keefe's recipe for mari&lt;t8/&gt;nara sauce as a DITA task (&lt;t9/&gt;Figure &lt;t10/&gt;1.3&lt;t11/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T064726Z" creationid="DSS" creationdate="20200725T064726Z">
+        <seg>在第5章和第6章中，我将进一步分析 DITA 的标签和属性。在本部分的简介中，我会将奥基夫的马里纳拉酱料菜谱结构化，打上标签，作为一个 DITA 任务的示范（如图1.3）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -506,6 +522,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In practical terms, DITA's topic types include XML tags for content “moves” or strategies (such as a short description, steps, and examples) frequently used in technical publications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T064600Z" creationid="DSS" creationdate="20200725T064600Z">
+        <seg>实际上，DITA 的话题类型包括技术出版物中经常用于内容迁移或策略（例如一个简短的描述、步骤和示例）的 XML 标记。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the summer of &lt;t0/&gt;2004, &lt;t1/&gt;I was on my way to Blacksburg, Virginia, to start my new job as assistant professor of technical communication at Virginia Tech.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200716T085709Z" creationid="DSS" creationdate="20200716T085709Z">
@@ -574,6 +598,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T161922Z" creationid="DSS" creationdate="20200723T160501Z">
         <seg>2000年代的出版物就预言 “技术传播者可能会迎来所有组织性的文档都保存在 XML 里的一天”（萨皮恩扎， &lt;t12/&gt;2002年，&lt;t13/&gt;第</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pure XML (as we saw in the marinara sauce example) does not provide a defined set of tags, but DITA does offer a catalog of elements and attributes relevant for technical communicators.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T064634Z" creationid="DSS" creationdate="20200725T064634Z">
+        <seg>纯 XML（如马里纳拉酱菜谱示例所示）不会提供已经定义好的标签，但是 DITA 提供了一系列与技术传播相关的元素和属性。</seg>
       </tuv>
     </tu>
     <tu>
