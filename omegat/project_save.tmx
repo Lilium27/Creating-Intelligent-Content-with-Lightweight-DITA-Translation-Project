@@ -514,6 +514,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE 1.5 &lt;t0/&gt;Marinara sauce DITA task transformed to an HTML5 deliverable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T084721Z" creationid="DSS" creationdate="20200725T084721Z">
+        <seg>图1.4 马里纳拉酱 DITA 任务转换生成的 PDF 可交付文件。这</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;1.1 &lt;t1/&gt;Screen capture from the video “The Future of Technical Communication,” by Adobe Technical Communication Suite.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T121521Z" creationid="DSS" creationdate="20200724T121058Z">
@@ -871,6 +879,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T121549Z" creationid="DSS" creationdate="20200724T121417Z">
         <seg>这一帧画面显示着行业的未来所在，即“越来越结构化的内容，以及更快、更智能地使用 XML 和 DITA 结构的能力”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This&lt;t1/&gt; sample output includes a link to an external CSS file for formatting.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T084810Z" creationid="DSS" creationdate="20200725T084810Z">
+        <seg>个简单的输出物不需要专门的样式表，也不需要标定页码和排版。</seg>
       </tuv>
     </tu>
     <tu>
