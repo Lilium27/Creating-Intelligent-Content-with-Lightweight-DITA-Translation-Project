@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>And authors should not underestimate</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T084210Z" creationid="DSS" creationdate="20200725T084210Z">
+        <seg>作者不应该低估</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As a pair of rapidly animated hands assembles Lego pieces (&lt;t4/&gt;Figure &lt;t5/&gt;1.1&lt;t6/&gt;), &lt;t7/&gt;the video's narrator describes that “for some, (the future of technical</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T155412Z" creationid="DSS" creationdate="20200723T155412Z">
@@ -992,6 +1000,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T074323Z" creationid="DSS" creationdate="20200725T074323Z">
         <seg>需要一份 web 形式的菜谱，DITA-OT 也提供了这个选项，并允许作者为网页的格式和设计嵌入层叠样式表（Cascading Style Sheet, CSS）文件（图1.5）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the importance of a generic topic, defined as “the basic unit of authoring and reuse” (2.2.1.1 The topic as the basic unit of information, 2016), which is the only information type included in the base edition of the DITA standard.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T084639Z" creationid="DSS" creationdate="20200725T084639Z">
+        <seg>通用话题是“创作和复用的基本单元”（2.2.1.1话题是信息的基础单元，2016年），也是DITA标准基本版中包含的唯一信息类型。</seg>
       </tuv>
     </tu>
     <tu>
