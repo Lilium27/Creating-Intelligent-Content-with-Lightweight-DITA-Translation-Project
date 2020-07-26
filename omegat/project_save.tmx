@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>354).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T152947Z" creationid="DSS" creationdate="20200726T152947Z">
+        <seg>354页）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;prereq&gt; &lt;t0/&gt;with a list of the ingredients needed for the recipe</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T070017Z" creationid="DSS" creationdate="20200725T070017Z">
@@ -470,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An Introduction to XML in Technical Communication</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153037Z" creationid="DSS" creationdate="20200726T153037Z">
+        <seg>技术传播中的 XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An arcane, overly complex language with a massive learning curve that requires specialized tools.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T152844Z" creationid="DSS" creationdate="20200726T152844Z">
@@ -718,6 +734,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T081244Z" creationid="DSS" creationdate="20200726T081244Z">
         <seg>DITA 为什么走向了轻量之路？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DITA, as it evolves as an open standard, needs to address them and learn from its users.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T152921Z" creationid="DSS" creationdate="20200726T152921Z">
+        <seg>随着 DITA 发展成为一种开放标准，这些问题需要解决，也需要听取用户的想法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1202,6 +1226,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Lastly, the chapter focuses on strategies for adopting a DITA workflow in three simplified authoring formats, which are connected to principles of computational thinking and emphasize the importance of human abstraction before machine automation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153031Z" creationid="DSS" creationdate="20200726T153031Z">
+        <seg>最后，本章重点讨论了利用三种简化创作格式制定 DITA 工作流的策略，这些策略与计算思维原则有关，强调了在机器自动化之前人类抽象思维的重要性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Let's go back to Chef Pedro, who is attempting now to structure some of his own recipes as tasks following specifications from the DITA &lt;t0/&gt;1.3 &lt;t1/&gt;standard.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T075457Z" creationid="DSS" creationdate="20200726T073836Z">
@@ -1420,6 +1452,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The future of technical communication still involves XML; therefore, the follow&lt;t2/&gt;ing sections include brief introductions to Extensible Markup Language and the Darwin Information Typing Architecture, providing examples of the main content and collection types included in the latter.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153005Z" creationid="DSS" creationdate="20200726T153005Z">
+        <seg>未来技术传播的发展仍然与 XML 有关，因此，接下来本章首先会对 XML 和 DITA 作简要介绍，并提供 DITA 所包含的主要内容和集合类型的示例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The future of technical communication, as seen from industry and aca&lt;t0/&gt;demia, was supposed to cover the type of structured writing for reuse that James Mathewson was looking for.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T160846Z" creationid="DSS" creationdate="20200725T160846Z">
@@ -1525,6 +1565,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Then, the chapter explains the need for a simplified version of DITA that allows authors to contribute to intelligent content ecosystems writing in markup languages that do not require complex XML structures.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153018Z" creationid="DSS" creationdate="20200726T153018Z">
+        <seg>然后，本章解释了用户对简化版 DITA 的需求，借助简化版 DITA 创作者可以编写基于标记语言的智慧内容生态系统，而无需使用复杂 XML 结构。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Then, the map includes links (&lt;t5/&gt;&lt;topicref&gt;&lt;t6/&gt;) for the individual files needed for the website.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T153537Z" creationid="DSS" creationdate="20200725T153537Z">
@@ -1585,6 +1633,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T083747Z" creationid="DSS" creationdate="20200726T083747Z">
         <seg>这给那些已经开始创作内容的人带去了结构化创作的好处，而不是试图把每个作者都召唤到一个内容平台上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This chapter presents an overview of the evolution of DITA &lt;t0/&gt;- &lt;t1/&gt;an XML-based “end-to-end architecture for creating and delivering modular technical information” (Priestley et al., 2001, p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T152940Z" creationid="DSS" creationdate="20200726T152940Z">
+        <seg>本章概述了 DITA 的发展——一种基于 XML 的“用于创建和交付模块化技术信息的端到端体系结构”（普利斯特列等人，2001年，第</seg>
       </tuv>
     </tu>
     <tu>
