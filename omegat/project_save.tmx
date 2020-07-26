@@ -604,8 +604,8 @@
       <tuv lang="en">
         <seg>FIGURE 1.6 &lt;t0/&gt;DITA map for Chef Pedro's recipe critique website.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T153901Z" creationid="DSS" creationdate="20200725T153901Z">
-        <seg>图1.6 佩德罗菜谱点评网站的 DITA 地图。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T080604Z" creationid="DSS" creationdate="20200725T153901Z">
+        <seg>图1.6 佩德罗菜谱评论网站的 DITA 地图。</seg>
       </tuv>
     </tu>
     <tu>
@@ -628,8 +628,8 @@
       <tuv lang="en">
         <seg>Figure &lt;t0/&gt;1.6&lt;t1/&gt; &lt;t2/&gt;shows a very basic DITA map for Chef Pedro's recipe critique website.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T153515Z" creationid="DSS" creationdate="20200725T153515Z">
-        <seg>图1.6展示了佩德罗食谱评论网站的一个非常基本的 DITA 地图。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T075518Z" creationid="DSS" creationdate="20200725T153515Z">
+        <seg>图1.6展示了佩德罗菜谱评论网站的一个非常基本的 DITA 地图。</seg>
       </tuv>
     </tu>
     <tu>
