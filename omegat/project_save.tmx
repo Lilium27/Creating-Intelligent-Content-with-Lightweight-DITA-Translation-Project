@@ -142,10 +142,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t14/&gt;42).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153241Z" creationid="DSS" creationdate="20200726T153241Z">
+        <seg>42页）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t14/&gt;This kind of writing is the basis of several technical communication and intelligent content practices and techniques, including component content management systems (CCMS), which are “a centralized system that helps organizations cap&lt;t15/&gt;ture, manage, store, preserve, and deliver topic-based content (components)” (Kerzreho, &lt;t16/&gt;2016 &lt;t17/&gt;p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154440Z" creationid="DSS" creationdate="20200724T154401Z">
         <seg>这种写作类型是几种技术传播和智能内容实践和技术的基础，包括组件内容管理系统（CCMS），CCMS 是“一个集中化系统，可以帮助组织获取、管理、存储、维护、发布基于主题的内容（组件）”（科兹热霍， 2016年，第</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t15/&gt;Content in XML, for example, can be tagged as a product name, a procedure, a works cited entry, or any other part of a technical or professional document.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153251Z" creationid="DSS" creationdate="20200726T153251Z">
+        <seg>例如，XML中 的内容可以标记为一个产品名称、一个步骤、一个作品引用条目，或技术或专业文档的任何一部分。</seg>
       </tuv>
     </tu>
     <tu>
@@ -542,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As a franchise owner, he wants to ensure that the food in his restau&lt;t0/&gt;rants is consistent, and his kitchen staff needs up-to-date documentation with recipes and techniques adopted in all of his restaurants.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153403Z" creationid="DSS" creationdate="20200726T153403Z">
+        <seg>作为餐馆老板，他希望能够确保所有餐馆里的食物是一致的，厨房员工也需要知晓佩德罗所有餐馆的最新菜谱和采用的技艺。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As a pair of rapidly animated hands assembles Lego pieces (&lt;t4/&gt;Figure &lt;t5/&gt;1.1&lt;t6/&gt;), &lt;t7/&gt;the video's narrator describes that “for some, (the future of technical</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T155412Z" creationid="DSS" creationdate="20200723T155412Z">
@@ -586,6 +610,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T093523Z" creationid="lenovo" creationdate="20200722T031230Z">
         <seg>同时有戏言称，卡罗尔可以称得上是“消灭手册的人”。(Svenvold, &lt;t5/&gt;2015).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>At the same time, the menus in his restaurants need to reflect some of that content, which is also fea&lt;t1/&gt;tured on a website, mobile app, and an electronic book he sells describing the history and process of his restaurants.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153410Z" creationid="DSS" creationdate="20200726T153410Z">
+        <seg>与此同时，餐馆菜单需要反映一些网站、移动软件、介绍餐馆历史和发展过程的电子书上的内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -658,6 +690,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T093537Z" creationid="lenovo" creationdate="20200722T022525Z">
         <seg>卡罗尔致力于将极简主义原则应用到文档上&lt;t0/&gt;这一点在他的&lt;t1/&gt;《纽伦堡漏斗》（The Nurnberg Funnel）&lt;t2/&gt; &lt;t3/&gt;(1990)一书中体现地淋漓尽致, &lt;t4/&gt;这与程式化写作、教程和界面设计等领域的专业前沿理论和实践有着共通之处</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chef Pedro has a background in marketing and culinary arts.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153345Z" creationid="DSS" creationdate="20200726T153345Z">
+        <seg>佩德罗学习过市场营销和烹饪艺术，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chef Pedro, like many content owners in this world, has been using Microsoft Word for most of his information prod&lt;t2/&gt;ucts, and the publications department in his company takes some of those Word files and, through long sessions of copy and pasting, produces menus and flyers in Adobe InDesign and maintains the restaurant's website using WordPress.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153439Z" creationid="DSS" creationdate="20200726T153439Z">
+        <seg>厨师佩德罗像世界上许多内容创作者一样，一直在使用 Microsoft Word 来编写他的信息产品。佩德罗公司的出版部门通过漫长的复制和粘贴部分 Word 文件，利用 Adobe InDesign 制作菜单和传单，并用 WordPress 维护餐馆的网站。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1002,6 +1050,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>He is comfortable with technology and social media, but he has never worked with any type of computer code.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153352Z" creationid="DSS" creationdate="20200726T153352Z">
+        <seg>他熟悉各种科技和社交媒体，但从未接触过任何类型的计算机代码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>He is looking for a way to standardize the recipes used by his staff in the several kitchens he manages.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153358Z" creationid="DSS" creationdate="20200726T153358Z">
+        <seg>他正在寻找一种方法来标准化员工使用的菜谱，菜谱来自于他管理的几家餐馆。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Helping to make errors and error recovery less traumatic and more peda&lt;t0/&gt;gogically productive (p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T075115Z" creationid="lenovo" creationdate="20200723T075115Z">
@@ -1134,6 +1198,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T154938Z" creationid="DSS" creationdate="20200720T133311Z">
         <seg>他毕业于明尼苏达大学双子城分校（University of Minnesota-Twin Cities），获得了科学与技术传播硕士学位。詹姆斯在 IBM 工作，是出色的一位技术营销人员，曾经一直在寻求能够在结构化写作环境中工作的实习生。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In one of the contrasting moves of their definition, they posit XML as different from Hypertext Markup Language (HTML) and other type&lt;t9/&gt;setting and formatting syntaxes because it enables the processes of “identifying, separating, and recombining” content for different purposes (Applen &lt;t10/&gt;&amp; &lt;t11/&gt;McDaniel, &lt;t12/&gt;2009, &lt;t13/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153237Z" creationid="DSS" creationdate="20200726T153237Z">
+        <seg>在他们的定义中，有一点非常不同，他们认为 XML 不同于超文本标记语言（HTML）以及其他排版和格式化语法，因为它能够实现针对不同目的“内容识别、内容分离和内容重”（埃普伦、 麦克丹尼尔，2009年，第</seg>
       </tuv>
     </tu>
     <tu>
@@ -1282,6 +1354,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Let me introduce you here to Pedro, a chef and restaurateur who is going to be the main user-author in this book's examples.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153338Z" creationid="DSS" creationdate="20200726T153312Z">
+        <seg>下面我想向你们介绍佩德罗（Pedro），他是一名厨师，也是餐馆老板。佩德罗将是本书示例的主要用户和创作人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Let's go back to Chef Pedro, who is attempting now to structure some of his own recipes as tasks following specifications from the DITA &lt;t0/&gt;1.3 &lt;t1/&gt;standard.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T075457Z" creationid="DSS" creationdate="20200726T073836Z">
@@ -1322,10 +1402,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>New documents need not be written for each purpose, and one single change can be reflected accu&lt;t16/&gt;rately across all the information materials produced by a given company.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153330Z" creationid="DSS" creationdate="20200726T153330Z">
+        <seg>如今，不需要为每一个任务都编写新的文件，一个简单的改动就可以在公司产出的所有信息材料中得到精确体现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On the contrary, scholars in the field have expanded the work of technical communication into domains and scenarios like healthcare, policy-making, and social justice, among others, that were closed to writing researchers in the recent past.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140403Z" creationid="DSS" creationdate="20200726T140403Z">
         <seg>相反，技术传播界的学者已经将技术传播的工作扩展到如医疗保健、政策制定和社会正义等领域，其中不乏近年来首次对写作研究者开放的领域。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once those parts or components are tagged, they can be “assembled” in different ways for use in a variety of deliverables and media.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153316Z" creationid="DSS" creationdate="20200726T153308Z">
+        <seg>一旦这些部件或组件被标记，它们就可以以不同的方式进行“组装”，用于各种交付物和媒介。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1415,6 +1511,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140252Z" creationid="DSS" creationdate="20200726T140252Z">
         <seg>如果读者具有 HTML 或 Markdown 方面的经验会有所帮助，但是本书对这些语言提供了足够的上下文和信息，以便理解和使用 LwDITA 提议的标准。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Someone mentioned structured authoring with XML and that caught Chef Pedro's attention.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153510Z" creationid="DSS" creationdate="20200726T153510Z">
+        <seg>有人提到可以使用  XML 进行结构化创作，这引起了佩德罗的注意。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1810,6 +1914,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T093735Z" creationid="DSS" creationdate="20200726T093735Z">
         <seg>对于信息开发者来说，这意味着你可以在一个工具中编写 DocBook 或 DITA 话题，然后在另一个工具中打开该话题，而不会丢失任何信息或产生无效标记。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a change needs to be reflected in those information products (e.g., the kitchen introduces a new special or the office's telephone number should be updated), Chef Pedro makes the changes in his original Word files, and then the publications team has to manually update the menus, flyers, and website that borrow content from the Word master source.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153458Z" creationid="DSS" creationdate="20200726T153458Z">
+        <seg>当需要改动这些信息产品（例如,厨房里引入了一个新的特色菜或需要更新办公室电话号码），佩德罗会先改动最初的 Word 文档，然后出版团队不得不根据Word文档这一主要内容来源手动更新菜单、传单和网站。</seg>
       </tuv>
     </tu>
     <tu>
