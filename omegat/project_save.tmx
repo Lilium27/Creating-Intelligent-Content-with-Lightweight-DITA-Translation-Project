@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Adoption numbers and success stories should not hide that the evolution of intelligent content takes place on a slightly rocky path; even in practitioner circles, there is pushback and criticism against XML and its relationship with technical communication.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T141148Z" creationid="DSS" creationdate="20200726T141148Z">
+        <seg>使用 DITA 的用户数量和成功案例也无法掩饰智慧内容的发展是在一条略崎岖的道路上进行的。甚至在从业者的圈子内，也存在对XML及其与技术传播的关系的反对声和批评声。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allowing learners to start immediately on meaningfully realistic tasks</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T074649Z" creationid="lenovo" creationdate="20200723T074649Z">
@@ -478,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As of summer &lt;t2/&gt;2018, &lt;t3/&gt;the list included &lt;t4/&gt;724 &lt;t5/&gt;companies, excluding consulting and training firms (DITAWriter, n.d.).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T141044Z" creationid="DSS" creationdate="20200726T141044Z">
+        <seg>截至2018年夏季，除咨询和培训公司外，该名单包括724家公司 （DITAWriter，未注明日期）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At professional conferences, I occasionally engage in nostalgic conversations with colleagues who continue to state the claim that content developers &lt;t2/&gt;and their readers&lt;t3/&gt; lost something when the manual disappeared.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T082952Z" creationid="lenovo" creationdate="20200723T082952Z">
@@ -514,6 +530,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T094344Z" creationid="DSS" creationdate="20200726T094344Z">
         <seg>基于 LwDITA 提出的标准，本书中包含的原则和策略在各种创作环境中都是有效的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Because of proprietary practices, it would be impractical to poll private companies, government agencies, and non-profit institutions worldwide to tally a number of DITA and XML users.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T141010Z" creationid="DSS" creationdate="20200726T141010Z">
+        <seg>由于个人实践的存在，要在全世界范围内投票统计私有公司、政府机构和非营利机构中使用 DITA 和 XML 的用户人数是不现实的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -786,6 +810,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For exam&lt;t1/&gt;ple, the website “DITA Writer” maintains a list of companies using DITA based on reports from social media channels.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T141042Z" creationid="DSS" creationdate="20200726T141042Z">
+        <seg>例如，网站 DITA Writer 根据社交媒体统计的报告，维护了一份使用 DITA 的公司名单。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, Chef Pedro is going to need to provide ingredients for his recipes, so he could create an ingredients specialization to include this specific element (i.e., &lt;t13/&gt;&lt;ingredients&gt; &lt;t14/&gt;as a specialization of &lt;t15/&gt;&lt;prereq&gt; &lt;t16/&gt;for pre-requisites).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T143942Z" creationid="DSS" creationdate="20200725T143942Z">
@@ -814,6 +846,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T151703Z" creationid="DSS" creationdate="20200725T151703Z">
         <seg>本周，他将如图1.3所示点评意式番茄罗勒酱的菜谱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Furthermore, blogs and social media postings from content professionals create and maintain an active online community of dis&lt;t0/&gt;cussion and recommendations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140951Z" creationid="DSS" creationdate="20200726T140951Z">
+        <seg>此外，内容专家的博文和社交媒体帖子创建并维持了一个活跃的在线讨论推荐社区。</seg>
       </tuv>
     </tu>
     <tu>
@@ -958,6 +998,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T093638Z" creationid="lenovo" creationdate="20200723T075643Z">
         <seg>在Svenvold看来，卡罗尔将极简主义原理运用至技术传播这一特殊体裁的写作中，写出来的手册就注定是失败的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In blogs and social media exchanges, some practitioners have &lt;t0/&gt;questioned the status of XML, and DITA, as the main markup language for infor&lt;t1/&gt;mation products.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T141200Z" creationid="DSS" creationdate="20200726T141200Z">
+        <seg>在博客和社交媒体的推文中，有的从业者表现出了对 XML 和 DITA 作为信息产品的主要标记语言的质疑。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1118,6 +1166,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T082353Z" creationid="DSS" creationdate="20200726T082353Z">
         <seg>迈克尔·普里斯特利是 IBM 高级技术人员和企业内容技术策略师，被誉为 DITA 的“创始人”（埃瑟里奇，2016年），他认为轻量级 DITA （LwDITA，全称为“Lightweight DITA”）一种创建结构化内容的简单方式，与基于 XML 的 DITA  相比，可以用更少的元素、更紧凑的内容模型和简化的专有体系结构来定义新类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Nevertheless, some attempts at quantifying and documenting usage figures do exist.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T141016Z" creationid="DSS" creationdate="20200726T141016Z">
+        <seg>尽管如此，仍存在一些量化和记录用户数量的尝试。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1570,6 +1626,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T155952Z" creationid="DSS" creationdate="20200720T153908Z">
         <seg>马修森所说的“可重用内容”是指“在多个信息产品中使用内容组件的实践”（埃伯莱因，&lt;t1/&gt;2016&lt;t2/&gt;年，第</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>While acknowledging DITA's effectiveness as a replacement for large user manuals in complex industries, a few authors lament that “this form of structured content can feel cold and clinical, especially to those from the editorial or marketing side of content” (Wachter-Boettcher, &lt;t2/&gt;2012, &lt;t3/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T141301Z" creationid="DSS" creationdate="20200726T141301Z">
+        <seg>一些创作者，特别是内容编辑和营销方面的创作者，他们虽然承认 DITA 可以有效地替代复杂行业中的大型用户手册，但同时也哀叹“这种结构化内容的形式会让人感到冷漠和没有人情味”（瓦赫特·伯特歇尔，2012年，第</seg>
       </tuv>
     </tu>
     <tu>
