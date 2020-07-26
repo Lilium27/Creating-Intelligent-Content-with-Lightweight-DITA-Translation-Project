@@ -610,6 +610,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE 1.7 &lt;t0/&gt;Navigation menu for a web transformation of Chef Pedro's recipe&lt;t1/&gt; critique project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T080726Z" creationid="DSS" creationdate="20200726T080726Z">
+        <seg>图1.7 佩德罗菜谱评论项目 web 输出物的导航菜单。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;1.1 &lt;t1/&gt;Screen capture from the video “The Future of Technical Communication,” by Adobe Technical Communication Suite.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T121521Z" creationid="DSS" creationdate="20200724T121058Z">
