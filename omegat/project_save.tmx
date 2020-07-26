@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A chef might not be familiar with scholarship in writing studies, but authors like Karl Stolley, in his influential “The Lo-Fi Manifesto,” have argued for the adoption of open standards over software packages, identifying it as the only way to ensure that “digital works should long outlast the software that played a role in their creation” (Stolley, &lt;t0/&gt;2008).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153939Z" creationid="DSS" creationdate="20200726T153939Z">
+        <seg>厨师可能不太认识研究写作的学者，但卡尔·斯多利等作者在其颇具影响的文章《低保真宣言》（The Lo-Fi Manifesto）中主张在软件包中采用开放标准，并认为这是唯一可以确保“在数字作品的创作过程中，使数字作品比软件流传更加久远”的方法（斯多利，2008年）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A learning curve that gets less steep every time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T152818Z" creationid="DSS" creationdate="20200726T152818Z">
