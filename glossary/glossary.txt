@@ -334,3 +334,6 @@ DITA Best Practices	DITA 最佳实践
 Michael Priestley	迈克尔·普里斯特利
 Etheridge	埃瑟里奇
 Priestley	普里斯特利
+Lauren	劳伦
+Pigg	皮格
+Rude	路德
