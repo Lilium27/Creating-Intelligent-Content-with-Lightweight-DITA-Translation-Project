@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t4/&gt;20).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T152707Z" creationid="DSS" creationdate="20200726T152707Z">
+        <seg>20页）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t4/&gt;235).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T162643Z" creationid="DSS" creationdate="20200724T162643Z">
@@ -298,6 +306,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T090526Z" creationid="DSS" creationdate="20200726T090526Z">
         <seg>在学术会议和社交媒体的交流中，来自其他大学的同事告诉我他们将来想尝试 DITA，并计划在制定技术传播课程大纲时联系我。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t5/&gt;Others argue that in the world of computing code verbose languages are becoming obsolete, but intelligent content still relies on XML and its nested tag structures:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T152722Z" creationid="DSS" creationdate="20200726T152722Z">
+        <seg>还有些人认为，在计算代码的世界中，冗长的语言已经过时了，但是智慧内容仍然依赖于 XML 及其嵌套的标签结构：</seg>
       </tuv>
     </tu>
     <tu>
@@ -374,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A learning curve that gets less steep every time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T152818Z" creationid="DSS" creationdate="20200726T152818Z">
+        <seg>学习曲线趋于平缓、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A topic is “a self-contained unit of information.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154221Z" creationid="DSS" creationdate="20200724T154221Z">
@@ -446,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An arcane, overly complex language with a massive learning curve that requires specialized tools.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T152844Z" creationid="DSS" creationdate="20200726T152844Z">
+        <seg>语言晦涩且过于复杂、学习曲线陡峭、需要使用特定工具的 DITA。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An effective topic covers only one subject.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154230Z" creationid="DSS" creationdate="20200724T154230Z">
@@ -466,6 +498,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T074732Z" creationid="DSS" creationdate="20200726T074732Z">
         <seg>这就是任务（task）文档类型！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>And what has techcomm poured resources into?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T152834Z" creationid="DSS" creationdate="20200726T152834Z">
+        <seg>而技术传播将资源投入了哪个领域呢？</seg>
       </tuv>
     </tu>
     <tu>
@@ -682,10 +722,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T152840Z" creationid="DSS" creationdate="20200726T152840Z">
+        <seg>答案是</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Each topic is long enough to make sense on its own, but short enough to stick to one point without expanding into other sub&lt;t0/&gt;jects” (Bellamy et al.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154251Z" creationid="DSS" creationdate="20200724T154251Z">
         <seg>每个话题都要内容充足，能站得住脚跟，同时也要精简干练，只围绕一个中心点展开，而不扩展到其他主题”（贝拉米等，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ease of use.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T152800Z" creationid="DSS" creationdate="20200726T152800Z">
+        <seg>易用、</seg>
       </tuv>
     </tu>
     <tu>
@@ -1138,6 +1194,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Languages that drop features that aren't used, or aren't used often.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T152824Z" creationid="DSS" creationdate="20200726T152824Z">
+        <seg>摒弃完全步用或不常用特性的语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Let's go back to Chef Pedro, who is attempting now to structure some of his own recipes as tasks following specifications from the DITA &lt;t0/&gt;1.3 &lt;t1/&gt;standard.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T075457Z" creationid="DSS" creationdate="20200726T073836Z">
@@ -1255,6 +1319,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T080716Z" creationid="lenovo" creationdate="20200723T080716Z">
         <seg>简短、简洁的手册能让用户深入并迅速完成不同的任务，从何获得掌控感和自觉性以激发进一步的学习。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Simplification.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T152752Z" creationid="DSS" creationdate="20200726T152743Z">
+        <seg>简洁、</seg>
       </tuv>
     </tu>
     <tu>
@@ -1610,6 +1682,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T094927Z" creationid="lenovo" creationdate="20200723T094927Z">
         <seg>我们想起了卡罗尔在1995年创立的弗吉尼亚理工大学人机交互中心(CHCI)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What are we seeing?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T152747Z" creationid="DSS" creationdate="20200726T152747Z">
+        <seg>我们期待什么？</seg>
       </tuv>
     </tu>
     <tu>
