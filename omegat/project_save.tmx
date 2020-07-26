@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t5/&gt;Academic discussion related to the implementation and innovation of intelligent content has been slow, as evidenced by the titles and abstracts of presentations and publications from &lt;t6/&gt;2012 &lt;t7/&gt;to &lt;t8/&gt;2018 &lt;t9/&gt;in relevant conferences and journals, respectively.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140629Z" creationid="DSS" creationdate="20200726T140629Z">
+        <seg>从2012年至2018年相关会议和期刊上发表的演讲和出版物的标题和摘要可以看出，与推进和创新智能相关的学术讨论进展缓慢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t5/&gt;In conversations at academic conferences and in social media exchanges, colleagues from other universities tell me they would like to try DITA in the future and make plans to contact me when they are working on their technical communication syllabus.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T090526Z" creationid="DSS" creationdate="20200726T090526Z">
@@ -416,8 +424,8 @@
       <tuv lang="en">
         <seg>Although no author is expected to become an expert on all topic types and their relations, criticism in industry and, perhaps, the timid interest from academia stem from the long, and getting longer, list of types, tags, and their functions included in the DITA standard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T073809Z" creationid="DSS" creationdate="20200726T073809Z">
-        <seg>没有写作者希望成为知晓所有话题类型及其关系的专家，业界对 DITA 的批评以及学术界对 DITA 兴趣寥寥的原因都是 DITA 标准中本就繁杂，且正变得越来越繁杂的类型、标签、功能。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140305Z" creationid="DSS" creationdate="20200726T073809Z">
+        <seg>没有写作者希望成为知晓所有话题类型及其关系的专家，工业界对 DITA 的批评以及学术界对 DITA 兴趣寥寥的原因都是 DITA 标准中本就繁杂，且正变得越来越繁杂的类型、标签、功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -581,6 +589,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200722T021613Z" creationid="DSS" creationdate="20200718T121052Z">
         <seg>使用轻量 DITA 创建智能内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating Intelligent Content with Lightweight DITA&lt;t0/&gt; does not have a reader prerequisite of experience with the DITA standard.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T135217Z" creationid="DSS" creationdate="20200726T135217Z">
+        <seg>本书的读者不需要具备使用 DITA 标准的经验。</seg>
       </tuv>
     </tu>
     <tu>
@@ -826,6 +842,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, I do assume that readers from industry and academia will have a technological curiosity about content development in workflows that go beyond a word processor or a “What You See Is What You Get” (WYSIWYG) web editor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140322Z" creationid="DSS" creationdate="20200726T135307Z">
+        <seg>不过，我的确假定来自工业界和学术界的读者对工作流程中的内容开发充满技术上的好奇心，而这些工作流程超越了文字处理器或“所见即所得”（WYSIWYG）的网络编辑器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, “many of the pedagogical concerns of academic instructors in professional and technical communication have changed little over the past decade, even as practitioner discourse has continued to spin off in the direction of content strategy and similar areas” (Clark, &lt;t2/&gt;2016, &lt;t3/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140523Z" creationid="DSS" creationdate="20200726T140445Z">
+        <seg>然而，“在过去的十年里，即使技术传播从业者的讨论焦点继续在内容策略和类似领域的方向上发展，学术讲师在专业传播和技术传播中的许多教学关注点几乎没有变化”（克拉克，2016，第</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I am a voting member of the DITA Technical Committee with the Organization for the Adoption of Structured Information Standards (OASIS), which is currently working on version &lt;t0/&gt;2.0 &lt;t1/&gt;of the standard; DITA's present and future are necessary for the lightweight approaches dis&lt;t2/&gt;cussed in this book.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T134337Z" creationid="DSS" creationdate="20200726T134337Z">
@@ -986,6 +1018,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is not as though the academic side of technical communication is stag&lt;t0/&gt;nant.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140347Z" creationid="DSS" creationdate="20200726T140347Z">
+        <seg>学术界的技术传播发展并不是停滞不前。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It was a warm day in May when I interviewed John Carroll at his office on the Penn State campus, and he looked more like a Jimmy Buffett concertgoer than the patron saint of technical communicators.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T094625Z" creationid="lenovo" creationdate="20200723T093438Z">
@@ -1014,6 +1054,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T133540Z" creationid="DSS" creationdate="20200720T133540Z">
         <seg>詹姆斯在推特上表达了他寻求实习生却空手而归的沮丧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>James's tweet started a discussion about the many topics covered in courses and programs in technical communication.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140455Z" creationid="DSS" creationdate="20200726T140424Z">
+        <seg>詹姆斯的推文引发了一场关于技术传播课程和项目中涉及的众多话题的讨论。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1062,6 +1110,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T082353Z" creationid="DSS" creationdate="20200726T082353Z">
         <seg>迈克尔·普里斯特利是 IBM 高级技术人员和企业内容技术策略师，被誉为 DITA 的“创始人”（埃瑟里奇，2016年），他认为轻量级 DITA （LwDITA，全称为“Lightweight DITA”）一种创建结构化内容的简单方式，与基于 XML 的 DITA  相比，可以用更少的元素、更紧凑的内容模型和简化的专有体系结构来定义新类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the contrary, scholars in the field have expanded the work of technical communication into domains and scenarios like healthcare, policy-making, and social justice, among others, that were closed to writing researchers in the recent past.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140403Z" creationid="DSS" creationdate="20200726T140403Z">
+        <seg>相反，技术传播界的学者已经将技术传播的工作扩展到如医疗保健、政策制定和社会正义等领域，其中不乏近年来首次对写作研究者开放的领域。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1123,10 +1179,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Researchers work with practitioners that include community partners, government officials, and med&lt;t1/&gt;ics.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140501Z" creationid="DSS" creationdate="20200726T140501Z">
+        <seg>研究人员与包括社区合作伙伴、政府官员和医疗人员在内的众多从业者合作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Short, succinct manuals allow the user to dive into many different tasks and to accomplish them quickly, thereby gaining a sense of control and autonomy that inspires further learning.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T080716Z" creationid="lenovo" creationdate="20200723T080716Z">
         <seg>简短、简洁的手册能让用户深入并迅速完成不同的任务，从何获得掌控感和自觉性以激发进一步的学习。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some experience with HTML or Markdown would also help, but the book provides enough context and information about those languages to understand and use the LwDITA proposed standard.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140252Z" creationid="DSS" creationdate="20200726T140252Z">
+        <seg>如果读者具有 HTML 或 Markdown 方面的经验会有所帮助，但是本书对这些语言提供了足够的上下文和信息，以便理解和使用 LwDITA 提议的标准。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1399,8 +1471,8 @@
       <tuv lang="en">
         <seg>Those concerns and doubts revolve around a major point of discrepancy in the world of technical communication: in industry, XML and DITA are widely used and some critics even see them as outdated and complex; in academia, “faculty are simply ignoring the subject, even though it has played a central role in the practitioner literature” (Clark, &lt;t2/&gt;2016, &lt;t3/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T085141Z" creationid="DSS" creationdate="20200726T085141Z">
-        <seg>这些担忧和怀疑围绕着技术传播领域的一个主要差异点而存在：在业界，XML 和 DITA 被广泛使用，一些批评者甚至认为它们过于复杂，并且已经过时；而在学术界，“尽管 DITA 在从业者编写的文档中扮演着核心角色，教师们却完全忽视了它”（克拉克，2016年，第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140312Z" creationid="DSS" creationdate="20200726T085141Z">
+        <seg>这些担忧和怀疑围绕着技术传播领域的一个主要差异点而存在：在工业界，XML 和 DITA 被广泛使用，一些批评者甚至认为它们过于复杂，并且已经过时；而在学术界，“尽管 DITA 在从业者编写的文档中扮演着核心角色，教师们却完全忽视了它”（克拉克，2016年，第</seg>
       </tuv>
     </tu>
     <tu>
