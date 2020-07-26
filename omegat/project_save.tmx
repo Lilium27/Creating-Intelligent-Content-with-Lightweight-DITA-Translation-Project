@@ -882,6 +882,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Michael Priestley, Senior Technical Staff Member and Enterprise Content Technology Strategist at IBM and known as one of DITA's “founding fathers” (Etheridge, &lt;t0/&gt;2016), &lt;t1/&gt;defines Lightweight DITA (LwDITA, which should be read as “Lightweight DITA”) as a simplified schema for structuring content, with fewer elements, tighter content models and a simplified specialization archi&lt;t2/&gt;tecture to define new types compared to those of DITA XML.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T082353Z" creationid="DSS" creationdate="20200726T082353Z">
+        <seg>迈克尔·普里斯特利是 IBM 高级技术人员和企业内容技术策略师，被誉为 DITA 的“创始人”（埃瑟里奇，2016年），他认为轻量级 DITA （LwDITA，全称为“Lightweight DITA”）一种创建结构化内容的简单方式，与基于 XML 的 DITA  相比，可以用更少的元素、更紧凑的内容模型和简化的专有体系结构来定义新类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>PREFACE</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200716T084923Z" creationid="DSS" creationdate="20200716T084923Z">
