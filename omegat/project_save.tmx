@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>According to Priestley, “if there are three ways of doing things with full DITA, there will be only one way to do it with Lightweight DITA.”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T083713Z" creationid="DSS" creationdate="20200726T083713Z">
+        <seg>按照普里斯特利的说法，“如果使用完整版 DITA 有三种不同的方法可以实现目标，那么使用轻量级 DITA 将只有一种方法。”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Additionally, the versatile task topic in DITA 1.3 can take the shape of a general task topic, a strict task, or a machinery task topic, depending on the context and purpose of usage.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T091140Z" creationid="DSS" creationdate="20200725T091127Z">
