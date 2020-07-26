@@ -668,8 +668,8 @@
       <tuv lang="en">
         <seg>For example, a concept could be an introduction to the sauces section in Chef Pedro's recipe book, while tasks can provide recipes for specific salsas and condiments (he can write a step about dicing tomatoes once and reuse in all the recipes that need it!), and a ref&lt;t0/&gt;erence topic can list common techniques and tools for preparing ingredients.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T162946Z" creationid="DSS" creationdate="20200724T162425Z">
-        <seg>例如，一个“概念”（concept）可以是对佩德罗菜谱中酱汁部分的介绍，“任务”（task）可以为特定的辛香番茄酱和调味料提供菜谱（佩德罗可以写一个将番茄切成小块的操作步骤，然后在所有需要用到这一步骤食谱中重复使用！），“参考”（reference）可以列出准备食材的常用技术和工具。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T075303Z" creationid="DSS" creationdate="20200724T162425Z">
+        <seg>例如，“概念”（concept）可以是对厨师佩德罗菜谱中酱汁部分的介绍，“任务”（task）可以为特定的辛香番茄酱和调味料提供菜谱（佩德罗可以写一个将番茄切成小块的操作步骤，然后在所有需要用到这一步骤食谱中重复使用！），“参考”（reference）可以列出准备食材的常用技术和工具。</seg>
       </tuv>
     </tu>
     <tu>
@@ -860,8 +860,8 @@
       <tuv lang="en">
         <seg>Let's go back to Chef Pedro, who is attempting now to structure some of his own recipes as tasks following specifications from the DITA &lt;t0/&gt;1.3 &lt;t1/&gt;standard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T073836Z" creationid="DSS" creationdate="20200726T073836Z">
-        <seg>让我们回到佩德罗的例子上，他现在正试图按照 DITA 标准1.3版本的规范将自己的一些菜谱组织成任务（task）话题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T075457Z" creationid="DSS" creationdate="20200726T073836Z">
+        <seg>让我们回到厨师佩德罗的例子上，他现在正试图按照 DITA 标准1.3版本的规范将自己的一些菜谱组织成任务（task）话题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -982,8 +982,8 @@
       <tuv lang="en">
         <seg>The following scenario combines the examples I have presented so far: Chef Pedro has a website in which he critiques recipes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T151653Z" creationid="DSS" creationdate="20200725T151653Z">
-        <seg>下面的场景结合了到目前为止我展示的所有示例：佩德罗拥有一个评价菜谱的网站。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T075320Z" creationid="DSS" creationdate="20200725T151653Z">
+        <seg>下面的场景结合了到目前为止我展示的所有示例：厨师佩德罗拥有一个评价菜谱的网站。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1015,8 +1015,8 @@
       <tuv lang="en">
         <seg>The map includes&lt;t1/&gt; links (or topic references) to the marinara sauce recipe, Chef Pedro's critique of the recipe, and an “about” page with information about the author.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T154134Z" creationid="DSS" creationdate="20200725T154134Z">
-        <seg>地图上有关联到意式番茄罗勒酱食谱的链接（或话题参考信息），大厨佩德罗对菜谱的评论，以及一个关于作者信息的“关于”页面。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T075355Z" creationid="DSS" creationdate="20200725T154134Z">
+        <seg>地图上有关联到意式番茄罗勒酱食谱的链接（或话题参考信息），厨师佩德罗对菜谱的评论，以及一个关于作者信息的“关于”页面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1344,16 +1344,16 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;Chef Pedro's critique of the recipe (structured as a DITA concept)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T151903Z" creationid="DSS" creationdate="20200725T151810Z">
-        <seg>• 佩德罗对菜谱的评价（以 DITA 概念（concept）话题的结构编写）</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T075332Z" creationid="DSS" creationdate="20200725T151810Z">
+        <seg>• 厨师佩德罗对菜谱的评价（以 DITA 概念（concept）话题的结构编写）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>• &lt;t0/&gt;Chef Pedro's “about” page, with biographical and professional information (structured as a DITA concept).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T151939Z" creationid="DSS" creationdate="20200725T151843Z">
-        <seg>• 介绍佩德罗的“关于”页面，包含人生经历和专业信息（以 DITA 概念（concept）话题的结构编写）</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T075345Z" creationid="DSS" creationdate="20200725T151843Z">
+        <seg>• 介绍厨师佩德罗的“关于”页面，包含人生经历和专业信息（以 DITA 概念（concept）话题的结构编写）</seg>
       </tuv>
     </tu>
     <tu>
