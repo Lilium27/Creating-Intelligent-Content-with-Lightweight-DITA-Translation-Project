@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A search for “XML” &lt;t2/&gt;on &lt;t3/&gt;amazon.com&lt;t4/&gt; reveals more than &lt;t5/&gt;1,100 &lt;t6/&gt;results under the “Books: Computers &lt;t7/&gt;&amp; &lt;t8/&gt;Technology: Programming Languages” category.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153159Z" creationid="DSS" creationdate="20200726T153159Z">
+        <seg>在亚马逊网站上搜索“XML”，在“图书-计算机和技术-编程语言”类别下，有1100多个搜索结果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A topic is “a self-contained unit of information.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154221Z" creationid="DSS" creationdate="20200724T154221Z">
@@ -442,6 +450,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T074649Z" creationid="lenovo" creationdate="20200723T074649Z">
         <seg>允许学习者立刻上手操作实际项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Although an author does not even need to be familiar with XML in order to create information products in the workflows introduced in this book, the ideas presented in &lt;t0/&gt;Creating Intelligent Content with Lightweight DITA&lt;t1/&gt; are rooted in DITA and XML.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153105Z" creationid="DSS" creationdate="20200726T153105Z">
+        <seg>尽管在本书介绍的工作流中，创作者创建信息产品不需要对 XML 很熟悉，但本书的思想植根于 DITA 和 XML。</seg>
       </tuv>
     </tu>
     <tu>
@@ -538,6 +554,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T015032Z" creationid="lenovo" creationdate="20200723T015021Z">
         <seg>作为编写和出版内容（包括技术传播）的一种建议标准，轻量DITA与以往的计算机手册同根同源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As a result, I cannot leave out working definitions and background for context when introducing the standard and its evolution as a problem-solving methodology for technical communication.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153115Z" creationid="DSS" creationdate="20200726T153115Z">
+        <seg>因此，在介绍 DITA 标准及其如何演变为技术传播的解决方案时，我无法忽略工作定义和上下文背景的重要性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -754,6 +778,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Definitions and descriptions of the Extensible Markup Language abound in academic and practitioner publications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153152Z" creationid="DSS" creationdate="20200726T153152Z">
+        <seg>XML 的定义和描述在学术界和从业者的书中比比皆是。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Each topic is long enough to make sense on its own, but short enough to stick to one point without expanding into other sub&lt;t0/&gt;jects” (Bellamy et al.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154251Z" creationid="DSS" creationdate="20200724T154251Z">
@@ -846,6 +878,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T075518Z" creationid="DSS" creationdate="20200725T153515Z">
         <seg>图1.6展示了佩德罗菜谱评论网站的一个非常基本的 DITA 地图。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>First, I define XML for the specific context of &lt;t0/&gt;Creating Intelligent Content with Lightweight DITA&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153146Z" creationid="DSS" creationdate="20200726T153146Z">
+        <seg>首先，我会基于本书具体的语境定义 XML。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1102,6 +1142,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T082839Z" creationid="DSS" creationdate="20200725T064600Z">
         <seg>实际上，DITA 的话题类型包括技术出版物中经常用于内容操作或策略（例如一个简短的描述、步骤和示例）的 XML 标记。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the realm of rhetoric studies, Applen and McDaniel wrote an important text about XML and its implications for rhetorical work.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153211Z" creationid="DSS" creationdate="20200726T153211Z">
+        <seg>在修辞学领域，埃普伦（Applen）和麦克丹尼尔（McDaniel）写了一篇关于XML及其修辞学启示的重要文章。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1649,6 +1697,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T143955Z" creationid="DSS" creationdate="20200725T143955Z">
         <seg>这种关于标记的灵活实践是对 XML 中的可扩展部分和 DITA 中的达尔文元素的直接应用：XML 元素可以扩展，DITA 中的信息类型可以进行调整以适应不同的内容和处理需要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This section will be especially useful to readers who have not ventured into standards and markup languages for intelligent content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153130Z" creationid="DSS" creationdate="20200726T153130Z">
+        <seg>对于那些没有领略过智慧内容标准和标记语言的读者，本节非常有用。</seg>
       </tuv>
     </tu>
     <tu>
