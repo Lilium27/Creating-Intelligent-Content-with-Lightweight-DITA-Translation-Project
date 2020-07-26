@@ -940,6 +940,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The DITA-OT automatically generated a navigation menu (&lt;t0/&gt;figure &lt;t1/&gt;1.7)&lt;t2/&gt; &lt;t3/&gt;and took care of basic layout.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T073006Z" creationid="DSS" creationdate="20200726T073006Z">
+        <seg>DITA-OT 会自动生成一个导航菜单（图1.7），并负责基本的布局。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The following scenario combines the examples I have presented so far: Chef Pedro has a website in which he critiques recipes.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T151653Z" creationid="DSS" creationdate="20200725T151653Z">
@@ -1112,8 +1120,8 @@
       <tuv lang="en">
         <seg>Using the DITA-OT, which I will cover in more detail in &lt;t7/&gt;Chapters &lt;t8/&gt;5 &lt;t9/&gt;and &lt;t10/&gt;6&lt;t11/&gt;, &lt;t12/&gt;I transformed</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T153832Z" creationid="DSS" creationdate="20200725T153832Z">
-        <seg>使用 DITA-OT（将在第5章和第6章详细介绍），我将地图转换成了一个 web 交付物。DITA-OT 会自动生成一个导航菜单（图1.7），并负责基本的布局。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T071347Z" creationid="DSS" creationdate="20200725T153832Z">
+        <seg>使用 DITA-OT（将在第5章和第6章详细介绍），我将地图转换成了</seg>
       </tuv>
     </tu>
     <tu>
@@ -1234,6 +1242,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T091114Z" creationid="DSS" creationdate="20200725T084639Z">
         <seg>通用话题是“创作和复用的基本单元”（2.2.1.1 话题是信息的基础单元，2016年），也是 DITA 标准基本版中包含的唯一信息类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the map to a web deliverable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T071354Z" creationid="DSS" creationdate="20200726T071354Z">
+        <seg>一个 web 交付物。</seg>
       </tuv>
     </tu>
     <tu>
