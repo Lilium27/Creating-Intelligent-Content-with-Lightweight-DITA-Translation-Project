@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(Day, quoted in DitaWriter, &lt;t0/&gt;2016)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154704Z" creationid="DSS" creationdate="20200726T154704Z">
+        <seg>（戴，引自DitaWriter，2016年）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(Hackos, &lt;t0/&gt;2016, &lt;t1/&gt;p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T093817Z" creationid="DSS" creationdate="20200726T093817Z">
@@ -722,6 +730,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T141010Z" creationid="DSS" creationdate="20200726T141010Z">
         <seg>由于个人实践的存在，要在全世界范围内投票统计私有公司、政府机构和非营利机构中使用 DITA 和 XML 的用户人数是不现实的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By &lt;t2/&gt;1999, &lt;t3/&gt;Dave was aware of my participation as IBM's primary representa&lt;t4/&gt;tive with the XSLT and CSS standards activities at the World Wide Web Consortium, and I delivered a presentation at a formative meeting in California that forecast the possibility of XML to solve IBM's still-linger&lt;t5/&gt;ing problems with variant tools and markup usage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154657Z" creationid="DSS" creationdate="20200726T154657Z">
+        <seg>1999年，戴夫知道我作为 IBM 的主要代表参与万维网联盟关于 XSLT 和 CSS 标准的活动,，并在加州一个影响重大的会议上做了一次演讲，预言可以使用通过各种工具和标记，借助 XML 来解决 IBM 目前仍然存在的问题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2259,6 +2275,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T160552Z" creationid="DSS" creationdate="20200724T155531Z">
         <seg>当“颗粒”、“模块”、“单位”等术语都普遍被用来描述构建块，“主题”（topic）这个术语在过去的几年里获得了最大关注度，特别是在贸易文档领域。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With the advent of XML as a new markup standard in &lt;t0/&gt;1998, &lt;t1/&gt;the Customer and Service Information (C&amp;SI) group began adopting a Tools and Technology mantra under Dave Schell who was the strategy lead.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154628Z" creationid="DSS" creationdate="20200726T154628Z">
+        <seg>随着1998年 XML 作为一种新的标记标准的出现，客户和服务信息组（C&amp;SI）在战略领导人戴夫·席尔（Dave Schell）的带领下，开始采用一种工具和技术准则。</seg>
       </tuv>
     </tu>
     <tu>
