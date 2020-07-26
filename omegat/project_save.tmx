@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t3/&gt;10).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T155100Z" creationid="DSS" creationdate="20200726T155100Z">
+        <seg>10页）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t3/&gt;54).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T155957Z" creationid="DSS" creationdate="20200720T153935Z">
@@ -390,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t4/&gt;9).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T155008Z" creationid="DSS" creationdate="20200726T155008Z">
+        <seg>9页）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t4/&gt;In many technical communication practices, “efficient content reuse does not involve copy-and-pasting; instead it uses &lt;t5/&gt;transclusion&lt;t6/&gt;, whereby content is authored in one location and used by reference in other locations” (Eberlein, &lt;t7/&gt;2016 &lt;t8/&gt;p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T114758Z" creationid="DSS" creationdate="20200720T155448Z">
@@ -424,8 +440,8 @@
       <tuv lang="en">
         <seg>&lt;t5/&gt;Others argue that in the world of computing code verbose languages are becoming obsolete, but intelligent content still relies on XML and its nested tag structures:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T152722Z" creationid="DSS" creationdate="20200726T152722Z">
-        <seg>还有些人认为，在计算代码的世界中，冗长的语言已经过时了，但是智慧内容仍然依赖于 XML 及其嵌套的标签结构：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T155122Z" creationid="DSS" creationdate="20200726T152722Z">
+        <seg>还有些人认为，在计算代码的世界中，冗长的语言已经过时了，但是智能内容仍然依赖于 XML 及其嵌套的标签结构：</seg>
       </tuv>
     </tu>
     <tu>
@@ -544,8 +560,16 @@
       <tuv lang="en">
         <seg>Additionally, O'Keefe provides a sample XML file that presents a recipe for making marinara sauce.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154221Z" creationid="DSS" creationdate="20200726T154221Z">
-        <seg>此外，奥基夫提供了一个 XML 文件作为示例，该文件是一份制奥基夫的食谱。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T155305Z" creationid="DSS" creationdate="20200726T154221Z">
+        <seg>此外，奥基夫提供了一个 XML 文件作为示例，该文件是一份制作意式番茄罗勒酱的食谱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Additionally, from a perspective addressing the needs of managers and supervisors, Hackos presents a list of DITA's business advantages, which sug&lt;t0/&gt;gest that the standard will (promote) the reuse of information quickly and easily across multiple deliverables, reduce the cost of maintaining and updating information, enable continuous publishing, share information across the global enterprise, reduce the cost of localization, and reduce the technical debt caused by inadequate, incorrect, and unusable legacy information (Hackos, &lt;t1/&gt;2011, &lt;t2/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T155045Z" creationid="DSS" creationdate="20200726T155045Z">
+        <seg>此外，从解决部门经理、主管的需求来看， 哈克斯列出了 DITA 的商业优势, 这表明，DITA 将简明迅速地促进信息跨交付物重用能力，降低维护和更新信息的成本，实现不间断出版，在全球企业内共享信息，降低本地化的成本,并减少由错误、不够完善、无法使用的遗留信息引起的技术债务。 （哈克斯，2011年，第</seg>
       </tuv>
     </tu>
     <tu>
@@ -560,8 +584,8 @@
       <tuv lang="en">
         <seg>Adoption numbers and success stories should not hide that the evolution of intelligent content takes place on a slightly rocky path; even in practitioner circles, there is pushback and criticism against XML and its relationship with technical communication.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T141148Z" creationid="DSS" creationdate="20200726T141148Z">
-        <seg>使用 DITA 的用户数量和成功案例也无法掩饰智慧内容的发展是在一条略崎岖的道路上进行的。甚至在从业者的圈子内，也存在对XML及其与技术传播的关系的反对声和批评声。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T155219Z" creationid="DSS" creationdate="20200726T141148Z">
+        <seg>使用 DITA 的用户数量和成功案例也无法掩饰智能内容的发展是在一条略崎岖的道路上进行的。甚至在从业者的圈子内，也存在对XML及其与技术传播的关系的反对声和批评声。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1020,8 +1044,8 @@
       <tuv lang="en">
         <seg>FIGURE 1.2 &lt;t0/&gt;Sarah O'Keefe's sample recipe for marinara sauce in XML.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154357Z" creationid="DSS" creationdate="20200726T154357Z">
-        <seg>图1.2 莎拉·奥基夫提供的 XML 格式的马里纳拉酱菜谱示例。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T155238Z" creationid="DSS" creationdate="20200726T154357Z">
+        <seg>图1.2 莎拉·奥基夫提供的 XML 格式的意式番茄罗勒酱菜谱示例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2080,8 +2104,8 @@
       <tuv lang="en">
         <seg>Then, the chapter explains the need for a simplified version of DITA that allows authors to contribute to intelligent content ecosystems writing in markup languages that do not require complex XML structures.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153018Z" creationid="DSS" creationdate="20200726T153018Z">
-        <seg>然后，本章解释了用户对简化版 DITA 的需求，借助简化版 DITA 创作者可以编写基于标记语言的智慧内容生态系统，而无需使用复杂 XML 结构。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T155116Z" creationid="DSS" creationdate="20200726T153018Z">
+        <seg>然后，本章解释了用户对简化版 DITA 的需求，借助简化版 DITA 创作者可以编写基于标记语言的智能内容生态系统，而无需使用复杂 XML 结构。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2176,8 +2200,8 @@
       <tuv lang="en">
         <seg>This section will be especially useful to readers who have not ventured into standards and markup languages for intelligent content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153130Z" creationid="DSS" creationdate="20200726T153130Z">
-        <seg>对于那些没有领略过智慧内容标准和标记语言的读者，本节非常有用。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T155108Z" creationid="DSS" creationdate="20200726T153130Z">
+        <seg>对于那些没有领略过智能内容标准和标记语言的读者，本节非常有用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2467,6 +2491,31 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T092231Z" creationid="lenovo" creationdate="20200723T091708Z">
         <seg>“其一就是在过去的年代，人们不得不开动脑筋，因为系统笨重且无法运行，你必须了解Unix操作系统并且不对一闪一闪的命令行产生畏惧心理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;A community of developers investing in improvements to the DITA model &lt;t1/&gt;• &lt;t2/&gt;An open source toolkit you can use to produce your own output in multiple media without having to invest in proprietary tools</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154952Z" creationid="DSS" creationdate="20200726T154952Z">
+        <seg>· 整个社区的开发者都致力于提升 DITA 模型
+· DITA 是一个开源工具包，可以使用它生成多种媒体文件，而无需购买于特有工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;A fully tested DTD or schema for XML-based authoring</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154940Z" creationid="DSS" creationdate="20200726T154940Z">
+        <seg>· DITA是一种经过充分检验的用于 XML 创作的 DTD 或模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;A thoroughly developed approach to information development originat&lt;t1/&gt;ing with OASIS and now encompassing many other companies, large and small, that find value in a standards-based approach &lt;t2/&gt;(2011, &lt;t3/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T155002Z" creationid="DSS" creationdate="20200726T155002Z">
+        <seg>· DITA 是一种深入发展的信息开发方法，起源于 OASIS，使用于大大小小各种公司，这些公司发现了 DITA 的价值 （2011年，第</seg>
       </tuv>
     </tu>
     <tu>
