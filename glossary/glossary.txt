@@ -340,3 +340,6 @@ Rude	路德
 WYSIWYG	所见即所得
 James	詹姆斯
 Clark	克拉克
+Cowan	考恩
+Glushko	格鲁什科
+McGrath	麦格拉
