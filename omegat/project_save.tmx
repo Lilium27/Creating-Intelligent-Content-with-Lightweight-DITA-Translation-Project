@@ -430,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although the benefits of a well-planned and implemented intel&lt;t9/&gt;ligent content workflow built on XML or DITA are undeniable, this type of solution presents significant challenges that have repercussions in the academic and workplace facets of the profession.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140905Z" creationid="DSS" creationdate="20200726T140905Z">
+        <seg>虽然基于 XML 或 DITA 的智能内容工作流经过精心规划、部署带来的好处不可否认，但这种解决方案也带来了重大挑战，对该领域的学术研究和职场工作都产生了影响。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An effective topic covers only one subject.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154230Z" creationid="DSS" creationdate="20200724T154230Z">
@@ -520,8 +528,8 @@
       <tuv lang="en">
         <seg>CREATING INTELLIGENT CONTENT  WITH LIGHTWEIGHT DITA Creating Intelligent Content with Lightweight DITA documents the evolution  of the Darwin Information Typing Architecture (DITA) – a widely used open  standard for structuring technical content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200718T124829Z" creationid="DSS" creationdate="20200718T124829Z">
-        <seg>使用轻量 DITA 创建智慧内容</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140713Z" creationid="DSS" creationdate="20200718T124829Z">
+        <seg>使用轻量 DITA 创建智能内容</seg>
       </tuv>
     </tu>
     <tu>
@@ -1220,6 +1228,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Technical communication consultants and practitioners frequently report on success stories and challenge narratives from implementing and managing XML-based content projects in conferences like DITA/Content Management Strategies and LavaCon.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140942Z" creationid="DSS" creationdate="20200726T140942Z">
+        <seg>在 DITA 和内容管理策略、LavaCon 这样的会议上，技术传播顾问和从业者经常发表关于实现和管理基于 XML 的内容项目的演讲，探讨成功案例和遇到的挑战。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That same colleague would also point out examples of inde&lt;t4/&gt;pendent software companies that still produce lengthy user manuals.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T090636Z" creationid="lenovo" creationdate="20200723T090636Z">
@@ -1498,6 +1514,14 @@
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T155631Z" creationid="DSS" creationdate="20200724T155631Z">
         <seg>“Topic”来源于被广泛采用的开放内容标准达尔文信息类型架构（DITA），该标准定义了内容的一般结构，促进了内容创建、共享和复用的一致性。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Traditionally, and as mentioned in the Adobe video, intelligent content work&lt;t0/&gt;flows for technical communication rely on structure provided by Extensible Markup Language (XML) and some of its specific grammars like DocBook, S1000D, and DITA (Cowan, &lt;t1/&gt;2010; &lt;t2/&gt;Glushko &lt;t3/&gt;&amp; &lt;t4/&gt;McGrath, &lt;t5/&gt;2008; &lt;t6/&gt;Hackos, &lt;t7/&gt;2011, &lt;t8/&gt;among others).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140838Z" creationid="DSS" creationdate="20200726T140838Z">
+        <seg>从传统上来看，也正如在 Adobe 视频中提到的，用于技术传播的智能内容工作流依赖于可扩展标记语言（XML）的结构及其一些特定的语法，如 DocBook、S1000D 和 DITA （考恩，2010年；格鲁什科、麦格拉，2008年；哈克斯， 2011年）。</seg>
       </tuv>
     </tu>
     <tu>
