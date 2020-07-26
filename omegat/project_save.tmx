@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(Day et al., &lt;t0/&gt;2001).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154727Z" creationid="DSS" creationdate="20200726T154727Z">
+        <seg>（戴等，2001年）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(Day, quoted in DitaWriter, &lt;t0/&gt;2016)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154704Z" creationid="DSS" creationdate="20200726T154704Z">
@@ -114,6 +122,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T095220Z" creationid="lenovo" creationdate="20200723T095220Z">
         <seg>&lt;t1/&gt;我著书时，是CHCI执行委员会成员，并且担任了技术导向战略计划团体的主席</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t1/&gt;Day explained that, when naming the standard, DITA “represented a great deal of messaging in a compact and memorable acronym:”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154755Z" creationid="DSS" creationdate="20200726T154755Z">
+        <seg>戴解释说，在命名该标准时，是想用DITA“这个简洁易记的缩写词传递大量信息”：</seg>
       </tuv>
     </tu>
     <tu>
@@ -366,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t4/&gt;6).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154855Z" creationid="DSS" creationdate="20200726T154855Z">
+        <seg>6页）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t4/&gt;In many technical communication practices, “efficient content reuse does not involve copy-and-pasting; instead it uses &lt;t5/&gt;transclusion&lt;t6/&gt;, whereby content is authored in one location and used by reference in other locations” (Eberlein, &lt;t7/&gt;2016 &lt;t8/&gt;p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T114758Z" creationid="DSS" creationdate="20200720T155448Z">
@@ -378,6 +402,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140629Z" creationid="DSS" creationdate="20200726T140629Z">
         <seg>从2012年至2018年相关会议和期刊上发表的演讲和出版物的标题和摘要可以看出，与推进和创新智能相关的学术讨论进展缓慢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t5/&gt;At the OASIS DITA Technical Committee, the standard continually evolves with the purpose “to define and maintain the Darwin Information Typing Architecture (DITA) and to promote the use of the architecture for creating standard information types and domain-specific markup vocabularies” (OASIS Darwin Information Typing Architecture TC, n.d.).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154906Z" creationid="DSS" creationdate="20200726T154906Z">
+        <seg>在 OASIS DITA 技术委员会的推进下，DITA 不断发展，OASIS 致力于“定义和维护达尔文信息类型体系结构（DITA），并提倡使用该体系结构创建标准信息类型和特定领域的标记词汇表”。（OASIS DITA技术委员会，未注明日期）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -881,6 +913,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DITA consists of a set of design principles for creating “information-typed” modules at a topic level and for using that content in delivery modes such as online help and product support portals on the Web.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154720Z" creationid="DSS" creationdate="20200726T154720Z">
+        <seg>DITA 由一组设计原则组成，这些原则可以用于创建主题级别的“信息型“模块，并在交付模式（如网站上的在线帮助和产品支持门户）中使用这些模块。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DITA's “fully tested DTD or schema for XML-based authoring” comes from the &lt;t0/&gt;Information Typing&lt;t1/&gt; part of its name.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T125615Z" creationid="DSS" creationdate="20200724T125615Z">
@@ -902,6 +942,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T152921Z" creationid="DSS" creationdate="20200726T152921Z">
         <seg>随着 DITA 发展成为一种开放标准，这些问题需要解决，也需要听取用户的想法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DITA, however, “has evolved substantially since that initial donation to encompass a very wide scope of require&lt;t1/&gt;ments indeed” (Kimber, &lt;t2/&gt;2012, &lt;t3/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154851Z" creationid="DSS" creationdate="20200726T154851Z">
+        <seg>不过 DITA “自捐赠后，已经有了很大的发展，涵盖了非常广泛的需求”（金柏，2012年，第</seg>
       </tuv>
     </tu>
     <tu>
@@ -1178,6 +1226,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hackos summarizes the key benefits of DITA for technical communicators as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154918Z" creationid="DSS" creationdate="20200726T154918Z">
+        <seg>哈克斯总结了技术传播从业者使用 DITA 的益处：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>He is comfortable with technology and social media, but he has never worked with any type of computer code.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153352Z" creationid="DSS" creationdate="20200726T153352Z">
@@ -1246,6 +1302,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T090534Z" creationid="DSS" creationdate="20200726T090534Z">
         <seg>但是我很少再次接到他们的电话，谈话也都停留在“以后/可能”之词上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>IBM eventually donated DITA as an open standard, which is currently main&lt;t0/&gt;tained by the non-profit consortium OASIS.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154833Z" creationid="DSS" creationdate="20200726T154833Z">
+        <seg>IBM 最终捐赠出 DITA，将其作为一种开放标准，目前该标准由非营利组织 OASIS 维护。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2419,6 +2483,17 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T075345Z" creationid="DSS" creationdate="20200725T151843Z">
         <seg>• 介绍厨师佩德罗的“关于”页面，包含人生经历和专业信息（以 DITA 概念（concept）话题的结构编写）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;Darwin&lt;t1/&gt;: for specialization and how things could “evolve” from a base &lt;t2/&gt;• &lt;t3/&gt;Information Typing&lt;t4/&gt;: for representation of knowledge as typed units &lt;t5/&gt;• &lt;t6/&gt;Architecture&lt;t7/&gt;: a statement that this was not just a monolithic design but an exten&lt;t8/&gt;sible tool that could support many uses (Day, quoted in DITAWriter, &lt;t9/&gt;2016).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154813Z" creationid="DSS" creationdate="20200726T154813Z">
+        <seg>· 达尔文：代表专业化以及事物如何从一个基础“演化”
+· 信息类型化：用不同类型单元表示知识
+· 架构：表示这不仅仅是一个整体设计理念，还是一个可扩展的工具，可以支持多种用途（戴，引自 DitaWriter，2016年）。
+</seg>
       </tuv>
     </tu>
     <tu>
