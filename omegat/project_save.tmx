@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t4/&gt;19).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T090515Z" creationid="DSS" creationdate="20200726T090515Z">
+        <seg>19页）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t4/&gt;235).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T162643Z" creationid="DSS" creationdate="20200724T162643Z">
@@ -537,6 +545,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creating Intelligent Content with Lightweight DITA&lt;t0/&gt; introduces and ana&lt;t1/&gt;lyzes LwDITA as an approach for developing intelligent content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T085113Z" creationid="DSS" creationdate="20200726T085113Z">
+        <seg>本书介绍并分析了可以用于开发智能内容的 LwDITA，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DITA 1.3 also includes topic types designed for learning and training projects: learning plan, learning overview, learning content, learning summary, and learning assessment.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T091132Z" creationid="DSS" creationdate="20200725T091132Z">
@@ -838,6 +854,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T123656Z" creationid="DSS" creationdate="20200724T123656Z">
         <seg>他可以利用 DITA 提供的内容类型和哈克斯列出的各项优势功能，而无需自己设计特定标签或依赖发布团队来设计模板和检验工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It aims to address concerns and doubts about the adoption and evolution of DITA as a major standard for technical publications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T085122Z" creationid="DSS" creationdate="20200726T085122Z">
+        <seg>它旨在解决人们对采用 DITA 作为技术出版物的主要标准及其发展的担忧和。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1241,6 +1265,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T085608Z" creationid="DSS" creationdate="20200725T085014Z">
         <seg>该输出物非常简洁，不需要专门的样式表，也不需要标定页码和排版。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Those concerns and doubts revolve around a major point of discrepancy in the world of technical communication: in industry, XML and DITA are widely used and some critics even see them as outdated and complex; in academia, “faculty are simply ignoring the subject, even though it has played a central role in the practitioner literature” (Clark, &lt;t2/&gt;2016, &lt;t3/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T085141Z" creationid="DSS" creationdate="20200726T085141Z">
+        <seg>这些担忧和怀疑围绕着技术传播领域的一个主要差异点而存在：在业界，XML 和 DITA 被广泛使用，一些批评者甚至认为它们过于复杂，并且已经过时；而在学术界，“尽管 DITA 在从业者编写的文档中扮演着核心角色，教师们却完全忽视了它”（克拉克，2016年，第</seg>
       </tuv>
     </tu>
     <tu>
