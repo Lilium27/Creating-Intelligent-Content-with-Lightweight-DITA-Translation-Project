@@ -826,6 +826,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I am a voting member of the DITA Technical Committee with the Organization for the Adoption of Structured Information Standards (OASIS), which is currently working on version &lt;t0/&gt;2.0 &lt;t1/&gt;of the standard; DITA's present and future are necessary for the lightweight approaches dis&lt;t2/&gt;cussed in this book.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T134337Z" creationid="DSS" creationdate="20200726T134337Z">
+        <seg>我是 OASIS 的 DITA 技术委员会的投票成员，OASIS 目前正在制定 DITA 标准的2.0版本，DITA 的现在和未来对于本书中讨论的轻量级方法都是非常重要的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I am aware, though, that some large content repositories with diverse user groups do need a robust environment built on DITA XML, and that strong component of the standard is not going away.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T094646Z" creationid="DSS" creationdate="20200726T094646Z">
@@ -1321,6 +1329,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T015817Z" creationid="lenovo" creationdate="20200723T015817Z">
         <seg>因此，在我们的领域中，轻量DITA能够弥合从研究到实践这一环路上出现一些问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Therefore, this is unequivocally a book about DITA, but it is not a detailed introduction and how-to to the widely adopted XML-based DITA standard (for comprehensive introductory texts to DITA XML, see Hackos, &lt;t3/&gt;2011; &lt;t4/&gt;Bellamy et al., &lt;t5/&gt;2012).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T135202Z" creationid="DSS" creationdate="20200726T135202Z">
+        <seg>因此毫无疑问，本书是一本关于 DITA 的书，但是书中没有详细介绍被广泛使用的基于 XML 的 DITA 标准（全面介绍基于 XML 的 DITA 的文本，请参阅哈克斯，2011年；贝拉米等，2012年）。</seg>
       </tuv>
     </tu>
     <tu>
