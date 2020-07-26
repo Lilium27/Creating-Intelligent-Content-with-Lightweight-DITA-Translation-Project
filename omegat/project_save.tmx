@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t2/&gt;16) &lt;t3/&gt;(&lt;t4/&gt;Figure &lt;t5/&gt;1.2&lt;t6/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154233Z" creationid="DSS" creationdate="20200726T154233Z">
+        <seg>16页）（图1.2）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t2/&gt;29)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T094329Z" creationid="DSS" creationdate="20200726T094329Z">
@@ -490,6 +498,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T083713Z" creationid="DSS" creationdate="20200726T083713Z">
         <seg>按照普里斯特利的说法，“如果使用完整版 DITA 有三种不同的方法可以实现目标，那么使用轻量级 DITA 将只有一种方法。”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Additionally, O'Keefe provides a sample XML file that presents a recipe for making marinara sauce.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154221Z" creationid="DSS" creationdate="20200726T154221Z">
+        <seg>此外，奥基夫提供了一个 XML 文件作为示例，该文件是一份制奥基夫的食谱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -938,6 +954,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE 1.2 &lt;t0/&gt;Sarah O'Keefe's sample recipe for marinara sauce in XML.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154357Z" creationid="DSS" creationdate="20200726T154357Z">
+        <seg>图1.2 莎拉·奥基夫提供的 XML 格式的马里纳拉酱菜谱示例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE 1.4 &lt;t0/&gt;Marinara sauce DITA task transformed to a PDF deliverable.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T151211Z" creationid="DSS" creationdate="20200725T084913Z">
@@ -1166,6 +1190,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140523Z" creationid="DSS" creationdate="20200726T140445Z">
         <seg>然而，“在过去的十年里，即使技术传播从业者的讨论焦点继续在内容策略和类似领域的方向上发展，学术讲师在专业传播和技术传播中的许多教学关注点几乎没有变化”（克拉克，2016，第</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Human readers, however, still need to wait for a publishing process that will produce content deliverables that do not look like computer code.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154407Z" creationid="DSS" creationdate="20200726T154407Z">
+        <seg>不过，人类读者仍然需要等待一个发布流程，通过发布可以生成看起来不像计算机代码的可交付内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1538,6 +1570,15 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>O'Keefe's recipe&lt;t0/&gt;1&lt;t1/&gt; fea&lt;t2/&gt;tures a main container element (&lt;t3/&gt;&lt;Recipe&gt;&lt;t4/&gt;), which includes several sub-elements (&lt;t5/&gt;&lt;Name&gt;&lt;t6/&gt;, &lt;t7/&gt;&lt;IngredientList&gt;&lt;t8/&gt;, and &lt;t9/&gt;&lt;Instructions&gt;&lt;t10/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154317Z" creationid="DSS" creationdate="20200726T154317Z">
+        <seg>奥基夫提供的示例包括一个主包含元素（&lt;Recipe&gt;），该元素又包含几个子元素（&lt;Name&gt;, &lt;IngredientList&gt;和&lt;Instructions&gt;）。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On the contrary, scholars in the field have expanded the work of technical communication into domains and scenarios like healthcare, policy-making, and social justice, among others, that were closed to writing researchers in the recent past.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140403Z" creationid="DSS" creationdate="20200726T140403Z">
@@ -1663,6 +1704,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140252Z" creationid="DSS" creationdate="20200726T140252Z">
         <seg>如果读者具有 HTML 或 Markdown 方面的经验会有所帮助，但是本书对这些语言提供了足够的上下文和信息，以便理解和使用 LwDITA 提议的标准。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some of these sub-elements</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154331Z" creationid="DSS" creationdate="20200726T154331Z">
+        <seg>其中一些子元素</seg>
       </tuv>
     </tu>
     <tu>
@@ -1893,6 +1942,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The&lt;t1/&gt; structured recipe keeps content organized and should help computers understand and manipulate elements and attributes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154404Z" creationid="DSS" creationdate="20200726T154404Z">
+        <seg>这个结构化的菜谱内容组织有序，有助于计算机理解并操作元素和属性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Then, the chapter explains the need for a simplified version of DITA that allows authors to contribute to intelligent content ecosystems writing in markup languages that do not require complex XML structures.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153018Z" creationid="DSS" creationdate="20200726T153018Z">
@@ -1977,6 +2034,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T143955Z" creationid="DSS" creationdate="20200725T143955Z">
         <seg>这种关于标记的灵活实践是对 XML 中的可扩展部分和 DITA 中的达尔文元素的直接应用：XML 元素可以扩展，DITA 中的信息类型可以进行调整以适应不同的内容和处理需要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This process of tagging, commenting, and nesting data will look familiar to readers who have used HTML or another markup language.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154250Z" creationid="DSS" creationdate="20200726T154250Z">
+        <seg>对于使用过 HTML 或其他标记语言的读者来说，标记、注释和嵌套数据的过程会非常熟悉。</seg>
       </tuv>
     </tu>
     <tu>
