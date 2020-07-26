@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t5/&gt;In conversations at academic conferences and in social media exchanges, colleagues from other universities tell me they would like to try DITA in the future and make plans to contact me when they are working on their technical communication syllabus.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T090526Z" creationid="DSS" creationdate="20200726T090526Z">
+        <seg>在学术会议和社交媒体的交流中，来自其他大学的同事告诉我他们将来想尝试 DITA，并计划在制定技术传播课程大纲时联系我。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t6/&gt;A casualty in the manual's demise, one could argue, was the main line of research that connected prac&lt;t7/&gt;titioners and academics in technical communication.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T013749Z" creationid="lenovo" creationdate="20200722T031615Z">
@@ -758,6 +766,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T075115Z" creationid="lenovo" creationdate="20200723T075115Z">
         <seg>降低犯错与纠错的伤害，提升教学效率。(p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I rarely get a second call and the con&lt;t6/&gt;versation stays in the “someday/maybe” list.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T090534Z" creationid="DSS" creationdate="20200726T090534Z">
+        <seg>但是我很少再次接到他们的电话，谈话也都停留在“以后/可能”之词上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If XML and DITA are still seen as new tools by academics when some practitioners are already labeling them as arcane, then we are just writing a new chapter in the documented gap between research and practice in the field (Andersen, &lt;t7/&gt;2013; &lt;t8/&gt;Rude, &lt;t9/&gt;2015; &lt;t10/&gt;Lauren &lt;t11/&gt;&amp; &lt;t12/&gt;Pigg, &lt;t13/&gt;2016, &lt;t14/&gt;and others).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T091834Z" creationid="DSS" creationdate="20200726T091834Z">
+        <seg>如果当从业者已经认为 DITA 和 XML 是过于复杂的技术之时，学术界仍将其视为新工具，那么我们是为技术传播研究和技术传播实践之间的文档差距写下了新的篇章（安德森，2013年；路德，2015年；劳伦和皮格，2016年等）。</seg>
       </tuv>
     </tu>
     <tu>
