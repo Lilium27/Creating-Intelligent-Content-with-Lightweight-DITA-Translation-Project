@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(Hackos, &lt;t0/&gt;2016, &lt;t1/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T093817Z" creationid="DSS" creationdate="20200726T093817Z">
+        <seg>（Hackos，2016年，第</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(Mathewson, &lt;t0/&gt;2016)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T155913Z" creationid="DSS" creationdate="20200720T134229Z">
@@ -154,6 +162,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T160301Z" creationid="DSS" creationdate="20200723T160301Z">
         <seg>116页）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t2/&gt;29)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T094329Z" creationid="DSS" creationdate="20200726T094329Z">
+        <seg>29页）</seg>
       </tuv>
     </tu>
     <tu>
@@ -834,6 +850,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the tool developers respect the standard, they allow for interoperability among tools.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T093810Z" creationid="DSS" creationdate="20200726T093810Z">
+        <seg>如果工具开发者尊重标准的话，他们会允许工具间的互操作性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If those pre-established topic types were not enough for a particular writer and context, DITA topics can be &lt;t0/&gt;specialized&lt;t1/&gt; to create information types unique to any intelligent content domain.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T143839Z" creationid="DSS" creationdate="20200725T143839Z">
@@ -1402,6 +1426,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T094927Z" creationid="lenovo" creationdate="20200723T094927Z">
         <seg>我们想起了卡罗尔在1995年创立的弗吉尼亚理工大学人机交互中心(CHCI)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What that means to information developers is that you can author a DocBook or DITA topic in one tool and open the topic in another tool without the loss of information or invalid markup.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T093735Z" creationid="DSS" creationdate="20200726T093735Z">
+        <seg>对于信息开发者来说，这意味着你可以在一个工具中编写 DocBook 或 DITA 话题，然后在另一个工具中打开该话题，而不会丢失任何信息或产生无效标记。</seg>
       </tuv>
     </tu>
     <tu>
