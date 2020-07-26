@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(O'Keefe, &lt;t0/&gt;2009, &lt;t1/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154121Z" creationid="DSS" creationdate="20200726T154121Z">
+        <seg>（奥基夫，2009年，第</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(Priestley, quoted in Etheridge, &lt;t0/&gt;2016)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T083909Z" creationid="DSS" creationdate="20200726T083909Z">
@@ -198,6 +206,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t2/&gt;15)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154132Z" creationid="DSS" creationdate="20200726T154132Z">
+        <seg>15页）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t2/&gt;15).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154024Z" creationid="DSS" creationdate="20200726T154024Z">
+        <seg>15页）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t2/&gt;29)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T094329Z" creationid="DSS" creationdate="20200726T094329Z">
@@ -266,6 +290,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T082636Z" creationid="DSS" creationdate="20200725T082636Z">
         <seg>在这个介绍性的第1章中，我将只展示使用 DITA-OT 进行转换的输出物，不过在第5章中，我会重点介绍进行这些转换的具体操作步骤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t3/&gt;O'Keefe's extended definition includes the following features of XML:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154032Z" creationid="DSS" creationdate="20200726T154032Z">
+        <seg>奥基夫的扩展定义包括以下 XML 特性：</seg>
       </tuv>
     </tu>
     <tu>
@@ -1058,6 +1090,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>From the practitioner side of technical communication, O'Keefe points out that XML “defines a standard for storing structured content in text files” &lt;t0/&gt;(2009, &lt;t1/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154021Z" creationid="DSS" creationdate="20200726T154021Z">
+        <seg>从技术传播的从业者的角度来看，奥基夫指出 XML “定义了在文本文件中存储结构化内容的标准”（2009年，第</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Furthermore, blogs and social media postings from content professionals create and maintain an active online community of dis&lt;t0/&gt;cussion and recommendations.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140951Z" creationid="DSS" creationdate="20200726T140951Z">
@@ -1290,6 +1330,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Instead, authors define their own tags and their relationships.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154118Z" creationid="DSS" creationdate="20200726T154118Z">
+        <seg>相反，作者可以自行定义标签及其关系。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It aims to address concerns and doubts about the adoption and evolution of DITA as a major standard for technical publications.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T085122Z" creationid="DSS" creationdate="20200726T085122Z">
@@ -1314,6 +1362,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It does not provide a set of predefined tags.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154113Z" creationid="DSS" creationdate="20200726T154113Z">
+        <seg>· XML 不提供已经预定义好的标签，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is a markup language, which means that content is enclosed by tags.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154055Z" creationid="DSS" creationdate="20200726T154055Z">
+        <seg>· XML 是一种标记语言，内容包含在标签内。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is not as though the academic side of technical communication is stag&lt;t0/&gt;nant.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140347Z" creationid="DSS" creationdate="20200726T140347Z">
@@ -1334,6 +1398,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T115618Z" creationid="DSS" creationdate="20200720T160228Z">
         <seg>它本不是这样的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Its element tags are enclosed in angle brackets (&lt;element&gt;This is element text&lt;/element&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154105Z" creationid="DSS" creationdate="20200726T154105Z">
+        <seg>· XML 元素标签包含在尖角括号内（&lt;element&gt;This is element text&lt;/element&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
