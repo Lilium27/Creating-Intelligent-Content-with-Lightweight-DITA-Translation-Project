@@ -722,6 +722,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For any reader, &lt;t6/&gt;Creating Intelligent Content with Lightweight DITA&lt;t7/&gt; places human authors at the center of intelli&lt;t8/&gt;gent content workflows, proposing that adopting LwDITA as a thought process and authoring schema will provide writers with some of the benefits associated with other information standards (DITA included) while &lt;t9/&gt;emphasizing think&lt;t10/&gt;ing and abstraction over automation and machine processing&lt;t11/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T093228Z" creationid="DSS" creationdate="20200726T093228Z">
+        <seg>对任何读者来说，本书将人类作者置于创作智能内容工作流的中心，认为采用 LwDITA 作为思维过程和创作模式将为作者提供一些其他信息标准（包括 DITA）也有的优势，与此同时强调思考能力和抽象能力，而不是自动化和机器处理能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For authors of technical content, these foundational topic types provide constraints and structures beyond a presentation-oriented template.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T162113Z" creationid="DSS" creationdate="20200724T162113Z">
@@ -742,6 +750,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T075303Z" creationid="DSS" creationdate="20200724T162425Z">
         <seg>例如，“概念”（concept）可以是对厨师佩德罗菜谱中酱汁部分的介绍，“任务”（task）可以为特定的辛香番茄酱和调味料提供菜谱（佩德罗可以写一个将番茄切成小块的操作步骤，然后在所有需要用到这一步骤食谱中重复使用！），“参考”（reference）可以列出准备食材的常用技术和工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For interested practitioners, this book presents the logical and computational essence of changes and improve&lt;t5/&gt;ments on a major documentation standard.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T093203Z" creationid="DSS" creationdate="20200726T093203Z">
+        <seg>对于感兴趣的从业者来说，这本书展现了对一个重要文档标准进行改动和提升的逻辑和计算本质。</seg>
       </tuv>
     </tu>
     <tu>
