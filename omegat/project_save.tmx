@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(Priestley, quoted in Etheridge, &lt;t0/&gt;2016)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T083909Z" creationid="DSS" creationdate="20200726T083909Z">
+        <seg>（普里斯特利，引自埃瑟里奇，2016年）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;prereq&gt; &lt;t0/&gt;with a list of the ingredients needed for the recipe</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T070017Z" creationid="DSS" creationdate="20200725T070017Z">
@@ -120,8 +128,8 @@
       <tuv lang="en">
         <seg>&lt;t18/&gt;60), &lt;t19/&gt;and single sourcing, which can be defined as the practice of “creating content once, planning for its reuse in multiple places, contexts, and output channels” (White, &lt;t20/&gt;2016 &lt;t21/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154412Z" creationid="DSS" creationdate="20200724T154412Z">
-        <seg>60页），还包括单一来源，单一来源是“只创建一次内容，就考虑到在多个地方、多个语境、多种输出渠道中复用内容”的实践（怀特， 2016年，第5</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T084115Z" creationid="DSS" creationdate="20200724T154412Z">
+        <seg>60页），还包括单一来源，单一来源是“只创建一次内容，就考虑到在多个地方、多个语境、多种输出渠道中复用内容”的实践（怀特，2016年，第5</seg>
       </tuv>
     </tu>
     <tu>
@@ -168,8 +176,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;8), &lt;t4/&gt;and can be defined as “small independent piece of information on a single subject” (Baker, &lt;t5/&gt;2013, &lt;t6/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154307Z" creationid="DSS" creationdate="20200724T154307Z">
-        <seg>8页），话题也可以理解为“关于某个主题的短小独立的信息片段”（贝克， 2013，第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T084023Z" creationid="DSS" creationdate="20200724T154307Z">
+        <seg>8页），话题也可以理解为“关于某个主题的短小独立的信息片段”（贝克，2013年，第</seg>
       </tuv>
     </tu>
     <tu>
@@ -834,6 +842,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It can also be an on-boarding ramp for full DITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T083828Z" creationid="DSS" creationdate="20200726T083828Z">
+        <seg>它也是转到完整版本 DITA 的跳板。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It was a warm day in May when I interviewed John Carroll at his office on the Penn State campus, and he looked more like a Jimmy Buffett concertgoer than the patron saint of technical communicators.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T094625Z" creationid="lenovo" creationdate="20200723T093438Z">
@@ -886,6 +902,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T075457Z" creationid="DSS" creationdate="20200726T073836Z">
         <seg>让我们回到厨师佩德罗的例子上，他现在正试图按照 DITA 标准1.3版本的规范将自己的一些菜谱组织成任务（task）话题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lightweight DITA can be the glue that ties together many different authoring plat&lt;t2/&gt;forms across a company.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T083825Z" creationid="DSS" creationdate="20200726T083800Z">
+        <seg>轻量级 DITA 可以将公司内不同的创作平台连接在一起，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lightweight DITA is particularly attractive to companies who need a faster ROI [return on investment] and an easier learning curve.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T083835Z" creationid="DSS" creationdate="20200726T083816Z">
+        <seg>对那些需要更快的 ROI 的公司来说，轻量级 DITA 更有吸引力，也更容易学习。</seg>
       </tuv>
     </tu>
     <tu>
@@ -984,6 +1016,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T090636Z" creationid="lenovo" creationdate="20200723T090636Z">
         <seg>这批同时还会指出一些实例，证明现在仍有独立的软件公司会制作篇幅冗长的用户手册。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That simplification makes it possible to implement DITA without XML &lt;t0/&gt;一 &lt;t1/&gt;for example using Markdown, or HTML5.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T083733Z" creationid="DSS" creationdate="20200726T083733Z">
+        <seg>轻量级 DITA 可以实现在不使用 XML 的情况下创建 DITA，比如使用 Markdown 或 HTML5。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1173,6 +1213,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This brings the advantages of structured authoring to where people are already creating content, rather than trying to get every author onto one content platform.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T083747Z" creationid="DSS" creationdate="20200726T083747Z">
+        <seg>这给那些已经开始创作内容的人带去了结构化创作的好处，而不是试图把每个作者都召唤到一个内容平台上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This exercise in markup flexibility is a direct application of both the extensible part &lt;t17/&gt;of XML and the Darwin element in DITA: XML elements can be extended and DITA information types can evolve to accommodate diverse content and pro&lt;t18/&gt;cessing needs.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T143955Z" creationid="DSS" creationdate="20200725T143955Z">
@@ -1344,8 +1392,8 @@
       <tuv lang="en">
         <seg>recommend using DITA maps to create an information set that specify which topics should be included in a user deliverable produced from the map, define an information architecture with the navigation for a set of topics, and create relationships between topics (Bellamy et al., &lt;t2/&gt;2012).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T145928Z" creationid="DSS" creationdate="20200725T145928Z">
-        <seg>建议使用 DITA 地图创建一个信息集合，DITA 地图指定了哪些话题应该被包括在用户输出的可交付成果中，使用话题导航定义了信息体系结构，并创建了话题之间的关系（贝拉米等， 2012年）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T083921Z" creationid="DSS" creationdate="20200725T145928Z">
+        <seg>建议使用 DITA 地图创建一个信息集合，DITA 地图指定了哪些话题应该被包括在用户输出的可交付成果中，使用话题导航定义了信息体系结构，并创建了话题之间的关系（贝拉米等，2012年）。</seg>
       </tuv>
     </tu>
     <tu>
