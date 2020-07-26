@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t2/&gt;14):</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153602Z" creationid="DSS" creationdate="20200726T153602Z">
+        <seg>14页）:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t2/&gt;29)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T094329Z" creationid="DSS" creationdate="20200726T094329Z">
@@ -550,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>And the production and update of those deliverables can be automated.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153527Z" creationid="DSS" creationdate="20200726T153527Z">
+        <seg>这些可交付成果的产出和更新是自动化的，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>And what has techcomm poured resources into?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T152834Z" creationid="DSS" creationdate="20200726T152834Z">
@@ -834,6 +850,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Document architect, who defines and implements document structure</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153747Z" creationid="DSS" creationdate="20200726T153640Z">
+        <seg>· 文档架构师，定义文档结构使之实现并</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Each topic is long enough to make sense on its own, but short enough to stick to one point without expanding into other sub&lt;t0/&gt;jects” (Bellamy et al.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154251Z" creationid="DSS" creationdate="20200724T154251Z">
@@ -1006,6 +1030,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T093203Z" creationid="DSS" creationdate="20200726T093203Z">
         <seg>对于感兴趣的从业者来说，这本书展现了对一个重要文档标准进行改动和提升的逻辑和计算本质。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For someone like Chef Pedro (and even for many of my technical writing students), creating the tags to structure content in XML can be an easy-to- learn task.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153808Z" creationid="DSS" creationdate="20200726T153808Z">
+        <seg>对于像佩德罗这样的人（甚至对于我的许多正在学习使用技术写作的学生）来说，利用 XML 的标记来创建结构化内容非常容易。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1410,10 +1442,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No more copy and paste!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153531Z" creationid="DSS" creationdate="20200726T153531Z">
+        <seg>不再需要复制和粘贴！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Now, if Pedro were to open a text editor in his computer and start typing XML tags to structure his content, he probably would not know where to go after typing for a few minutes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153541Z" creationid="DSS" creationdate="20200726T153541Z">
+        <seg>现在，如果佩德罗打开电脑中的一个文本编辑器，开始键入 XML 标记创建结构化内容，几分钟后他可能就不知道接下来要做什么了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On the contrary, scholars in the field have expanded the work of technical communication into domains and scenarios like healthcare, policy-making, and social justice, among others, that were closed to writing researchers in the recent past.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140403Z" creationid="DSS" creationdate="20200726T140403Z">
         <seg>相反，技术传播界的学者已经将技术传播的工作扩展到如医疗保健、政策制定和社会正义等领域，其中不乏近年来首次对写作研究者开放的领域。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the other hand, producing information deliverables based on that structure (say, a webpage with a specific recipe) is not necessarily simple when implementing a custom XML content type.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153823Z" creationid="DSS" creationdate="20200726T153823Z">
+        <seg>但利用某一特定的XML内容类型根据结构（比如特定菜谱的网页）生成可交付成果并不一定简单。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1430,6 +1486,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200716T084923Z" creationid="DSS" creationdate="20200716T084923Z">
         <seg>前言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pedro could buy a software package to structure his recipes and create an online cookbook; however, in a previous stage of his career he was involved in a marketing project that depended on a commercial application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153835Z" creationid="DSS" creationdate="20200726T153835Z">
+        <seg>佩德罗可以购买一个软件包来结构化菜谱、创建一个在线菜谱网页；但是在他职业生涯前期，他参与了一个依赖商业软件的营销项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Production editors, who will get involved in defining the transformation files that assign formatting based on structure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153722Z" creationid="DSS" creationdate="20200726T153722Z">
+        <seg>• 生产编辑，基于文档结构参与编写定义格式的转换文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -1548,6 +1620,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Technical editors, who can focus on word choice, grammar, and overall organization</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153716Z" creationid="DSS" creationdate="20200726T153716Z">
+        <seg>• 技术编辑，关注选词，语法和整体架构</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Template designer, who establishes the look and feel of content deliverables</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153653Z" creationid="DSS" creationdate="20200726T153653Z">
+        <seg>• 模板设计师，设计可交付成果的界面和风格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That same colleague would also point out examples of inde&lt;t4/&gt;pendent software companies that still produce lengthy user manuals.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T090636Z" creationid="lenovo" creationdate="20200723T090636Z">
@@ -1560,6 +1648,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T083733Z" creationid="DSS" creationdate="20200726T083733Z">
         <seg>轻量级 DITA 可以实现在不使用 XML 的情况下创建 DITA，比如使用 Markdown 或 HTML5。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That's when a standard like DITA can help.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153828Z" creationid="DSS" creationdate="20200726T153828Z">
+        <seg>这时，像 DITA 这样的标准就可以派上用场了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1853,6 +1949,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To create information deliverables ready for human consumption, XML files need to go through a process of publishing that, according to O'Keefe, can involve the following roles, which “in a small group, one person may hold any or all” &lt;t0/&gt;(2009, &lt;t1/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153553Z" creationid="DSS" creationdate="20200726T153553Z">
+        <seg>要创建可供人类使用的可交付成果，XML 文件需要经过一个发布流程。根据奥基夫（O'Keefe）的观点，这个发布流程可能涉及以下角色，“而在一个小团队中，一个人可能会承担部分或所有角色”（2009年，第</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Topic derives from the widely adopted open content standard known as Darwin Information Typing Architecture (DITA), which defines a common structure for con&lt;t0/&gt;tent that promotes the consistent creation, sharing, and reuse of content.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T155631Z" creationid="DSS" creationdate="20200724T155631Z">
@@ -1934,6 +2038,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When the developer stopped updating the application and it became obsolete, Pedro's content was locked and required an expensive and time-consuming process of conversion to be rescued in another program.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153848Z" creationid="DSS" creationdate="20200726T153848Z">
+        <seg>当开发人员停止更新软件时，这个软件就废弃了，而佩德罗制作的内容也被锁定在软件当中，需要花费巨额才能将内容转换到另一个软件中，并且耗时漫长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>While acknowledging DITA's effectiveness as a replacement for large user manuals in complex industries, a few authors lament that “this form of structured content can feel cold and clinical, especially to those from the editorial or marketing side of content” (Wachter-Boettcher, &lt;t2/&gt;2012, &lt;t3/&gt;p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T141301Z" creationid="DSS" creationdate="20200726T141301Z">
@@ -1970,6 +2082,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T153605Z" creationid="DSS" creationdate="20200720T134127Z">
         <seg>希望大学里能教授这种技能，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writer, who creates content</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153701Z" creationid="DSS" creationdate="20200726T153701Z">
+        <seg>• 创作者，编写内容</seg>
       </tuv>
     </tu>
     <tu>
