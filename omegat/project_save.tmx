@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although no author is expected to become an expert on all topic types and their relations, criticism in industry and, perhaps, the timid interest from academia stem from the long, and getting longer, list of types, tags, and their functions included in the DITA standard.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T073809Z" creationid="DSS" creationdate="20200726T073809Z">
+        <seg>没有写作者希望成为知晓所有话题类型及其关系的专家，业界对 DITA 的批评以及学术界对 DITA 兴趣寥寥的原因都是 DITA 标准中本就繁杂，且正变得越来越繁杂的类型、标签、功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An effective topic covers only one subject.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154230Z" creationid="DSS" creationdate="20200724T154230Z">
@@ -1061,6 +1069,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These features and benefits contribute to DITA's popularity and adaptabil&lt;t0/&gt;ity as an intelligent content solution for technical communication.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T073021Z" creationid="DSS" creationdate="20200726T073021Z">
+        <seg>这些特性和优势有助于提升 DITA 作技术传播智能内容解决方案的流行度和适应性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This &lt;t2/&gt;specific frame displays the future of our profession as “more and more&lt;t3/&gt; structured content and the ability to work faster and smarter with XML and DITA constructs.”</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T121549Z" creationid="DSS" creationdate="20200724T121417Z">
@@ -1170,6 +1186,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T160552Z" creationid="DSS" creationdate="20200724T155531Z">
         <seg>当“颗粒”、“模块”、“单位”等术语都普遍被用来描述构建块，“主题”（topic）这个术语在过去的几年里获得了最大关注度，特别是在贸易文档领域。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Without a doubt, these features and benefits can also be intimidating for an author new to DITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T073030Z" creationid="DSS" creationdate="20200726T073030Z">
+        <seg>毫无疑问，对于 DITA 新手来说，这些特性和优势也可能令人生畏。</seg>
       </tuv>
     </tu>
     <tu>
