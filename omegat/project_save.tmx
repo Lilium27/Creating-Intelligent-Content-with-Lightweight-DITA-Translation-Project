@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t0/&gt;Creating Intelligent Content with Lightweight DITA&lt;t1/&gt; shows structured authoring in practice with&lt;t2/&gt;out the need for sophisticated software tools.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T091855Z" creationid="DSS" creationdate="20200726T091855Z">
+        <seg>在实践中展现了结构化创作，无需复杂的软件工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t1/&gt;2012, &lt;t2/&gt;p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154301Z" creationid="DSS" creationdate="20200724T154301Z">
@@ -698,6 +706,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For an audience of curious but hesitant academics, this book demystifies the process of authoring and processing intelligent content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T091846Z" creationid="DSS" creationdate="20200726T091846Z">
+        <seg>对于好奇而又犹豫的学术界读者来说，这本书揭示了创作和处理智能内容的过程，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For an author, the main benefit from Hackos's list is in the “fully tested DTD or schema for XML-based authoring,” which I discuss in the next section.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T125555Z" creationid="DSS" creationdate="20200724T123518Z">
@@ -886,6 +902,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T085122Z" creationid="DSS" creationdate="20200726T085122Z">
         <seg>它旨在解决人们对采用 DITA 作为技术出版物的主要标准及其发展的担忧和。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It also connects the rhetorical &lt;t3/&gt;structures that drive the evolution of DITA as a standard for technical infor&lt;t4/&gt;mation to foundational concepts from the field's academic background and to common structures in computing education.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T093150Z" creationid="DSS" creationdate="20200726T093150Z">
+        <seg>本书还将推动 DITA 发展为技术信息标准的修辞结构和该领域的基本学术概念、计算机教学中的常见结构联系起来。</seg>
       </tuv>
     </tu>
     <tu>
