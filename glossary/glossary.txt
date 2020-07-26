@@ -337,3 +337,6 @@ Priestley	普里斯特利
 Lauren	劳伦
 Pigg	皮格
 Rude	路德
+WYSIWYG	所见即所得
+James	詹姆斯
+Clark	克拉克
