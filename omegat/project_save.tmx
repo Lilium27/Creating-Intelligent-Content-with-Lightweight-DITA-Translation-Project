@@ -2529,25 +2529,24 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;A community of developers investing in improvements to the DITA model &lt;t1/&gt;• &lt;t2/&gt;An open source toolkit you can use to produce your own output in multiple media without having to invest in proprietary tools</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154952Z" creationid="DSS" creationdate="20200726T154952Z">
-        <seg>· 整个社区的开发者都致力于提升 DITA 模型
-· DITA 是一个开源工具包，可以使用它生成多种媒体文件，而无需购买于特有工具</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T082454Z" creationid="DSS" creationdate="20200726T154952Z">
+        <seg>• &lt;t0/&gt;整个社区的开发者都致力于提升 DITA 模型；&lt;t1/&gt;• &lt;t2/&gt;DITA 是一个开源工具包，可以使用它生成多种媒体文件，而无需购买于特有工具</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>• &lt;t0/&gt;A fully tested DTD or schema for XML-based authoring</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154940Z" creationid="DSS" creationdate="20200726T154940Z">
-        <seg>· DITA是一种经过充分检验的用于 XML 创作的 DTD 或模式</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T082415Z" creationid="DSS" creationdate="20200726T154940Z">
+        <seg>DITA是一种经过充分检验的用于 XML 创作的 DTD 或模式</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>• &lt;t0/&gt;A thoroughly developed approach to information development originat&lt;t1/&gt;ing with OASIS and now encompassing many other companies, large and small, that find value in a standards-based approach &lt;t2/&gt;(2011, &lt;t3/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T155002Z" creationid="DSS" creationdate="20200726T155002Z">
-        <seg>· DITA 是一种深入发展的信息开发方法，起源于 OASIS，使用于大大小小各种公司，这些公司发现了 DITA 的价值 （2011年，第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T082505Z" creationid="DSS" creationdate="20200726T155002Z">
+        <seg>• &lt;t0/&gt;DITA 是一种深入发展的信息开发方法，起源于 OASIS，使用于大大小小各种公司，这些公司发现了 DITA 的价值 （2011年，第</seg>
       </tuv>
     </tu>
     <tu>
