@@ -2433,8 +2433,8 @@
       <tuv lang="en">
         <seg>XML also uses attributes to present additional information about data and content (see the &lt;t9/&gt;@Cuisine &lt;t10/&gt;and &lt;t11/&gt;@Author &lt;t12/&gt;attributes in the main &lt;t13/&gt;&lt;Recipe&lt;t14/&gt;&gt; element).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154437Z" creationid="DSS" creationdate="20200726T154437Z">
-        <seg>XML 还使用属性来表示关于数据和内容的附加信息（如 &lt;recipe&gt; 元素中的 @Cuisine 和 @Author 属性）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T082142Z" creationid="DSS" creationdate="20200726T154437Z">
+        <seg>XML 还使用属性来表示关于数据和内容的附加信息（如 &lt;t13/&gt;&lt;Recipe&lt;t14/&gt;&gt; 元素中的 &lt;t9/&gt;@Cuisine &lt;t10/&gt; 和 &lt;t11/&gt;@Author &lt;t12/&gt; 属性）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2570,10 +2570,8 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;Darwin&lt;t1/&gt;: for specialization and how things could “evolve” from a base &lt;t2/&gt;• &lt;t3/&gt;Information Typing&lt;t4/&gt;: for representation of knowledge as typed units &lt;t5/&gt;• &lt;t6/&gt;Architecture&lt;t7/&gt;: a statement that this was not just a monolithic design but an exten&lt;t8/&gt;sible tool that could support many uses (Day, quoted in DITAWriter, &lt;t9/&gt;2016).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154813Z" creationid="DSS" creationdate="20200726T154813Z">
-        <seg>· 达尔文：代表专业化以及事物如何从一个基础“演化”
-· 信息类型化：用不同类型单元表示知识
-· 架构：表示这不仅仅是一个整体设计理念，还是一个可扩展的工具，可以支持多种用途（戴，引自 DitaWriter，2016年）。
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T082359Z" creationid="DSS" creationdate="20200726T154813Z">
+        <seg>&lt;t0/&gt;达尔文&lt;t1/&gt;：代表专业化以及事物如何从一个基础“演化”；&lt;t2/&gt;•&lt;t3/&gt;信息类型化&lt;t4/&gt;：用不同类型单元表示知识； &lt;t5/&gt;• &lt;t6/&gt;架构&lt;t7/&gt;：表示这不仅仅是一个整体设计理念，还是一个可扩展的工具，可以支持多种用途（戴，引自 DitaWriter，2016年）。
 </seg>
       </tuv>
     </tu>
