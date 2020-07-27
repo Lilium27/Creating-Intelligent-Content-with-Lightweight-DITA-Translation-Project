@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(Kaplan, &lt;t0/&gt;2014)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T081023Z" creationid="DSS" creationdate="20200727T081023Z">
+        <seg>（卡普兰， 2014年）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(Mathewson, &lt;t0/&gt;2016)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T155913Z" creationid="DSS" creationdate="20200720T134229Z">
@@ -2176,8 +2184,8 @@
       <tuv lang="en">
         <seg>This chapter presents an overview of the evolution of DITA &lt;t0/&gt;- &lt;t1/&gt;an XML-based “end-to-end architecture for creating and delivering modular technical information” (Priestley et al., 2001, p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T152940Z" creationid="DSS" creationdate="20200726T152940Z">
-        <seg>本章概述了 DITA 的发展——一种基于 XML 的“用于创建和交付模块化技术信息的端到端体系结构”（普利斯特列等人，2001年，第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T081111Z" creationid="DSS" creationdate="20200726T152940Z">
+        <seg>本章概述了 DITA 的发展&lt;t0/&gt;-——&lt;t1/&gt;一种基于 XML 的“用于创建和交付模块化技术信息的端到端体系结构”（普利斯特列等人，2001年，第</seg>
       </tuv>
     </tu>
     <tu>
@@ -2218,6 +2226,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T085608Z" creationid="DSS" creationdate="20200725T085014Z">
         <seg>该输出物非常简洁，不需要专门的样式表，也不需要标定页码和排版。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Those are valid concerns.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T081041Z" creationid="DSS" creationdate="20200727T081041Z">
+        <seg>这些都是合理的担忧。</seg>
       </tuv>
     </tu>
     <tu>
