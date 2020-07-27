@@ -1004,8 +1004,8 @@
       <tuv lang="en">
         <seg>Document architect, who defines and implements document structure</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153747Z" creationid="DSS" creationdate="20200726T153640Z">
-        <seg>· 文档架构师，定义文档结构使之实现并</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T081311Z" creationid="DSS" creationdate="20200726T153640Z">
+        <seg>文档架构师，定义文档结构使之实现并</seg>
       </tuv>
     </tu>
     <tu>
@@ -1532,16 +1532,16 @@
       <tuv lang="en">
         <seg>It does not provide a set of predefined tags.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154113Z" creationid="DSS" creationdate="20200726T154113Z">
-        <seg>· XML 不提供已经预定义好的标签，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T081359Z" creationid="DSS" creationdate="20200726T154113Z">
+        <seg>XML 不提供已经预定义好的标签，</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>It is a markup language, which means that content is enclosed by tags.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154055Z" creationid="DSS" creationdate="20200726T154055Z">
-        <seg>· XML 是一种标记语言，内容包含在标签内。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T081351Z" creationid="DSS" creationdate="20200726T154055Z">
+        <seg>XML 是一种标记语言，内容包含在标签内。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1572,8 +1572,8 @@
       <tuv lang="en">
         <seg>Its element tags are enclosed in angle brackets (&lt;element&gt;This is element text&lt;/element&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154105Z" creationid="DSS" creationdate="20200726T154105Z">
-        <seg>· XML 元素标签包含在尖角括号内（&lt;element&gt;This is element text&lt;/element&gt;）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T081356Z" creationid="DSS" creationdate="20200726T154105Z">
+        <seg>XML 元素标签包含在尖角括号内（&lt;element&gt;This is element text&lt;/element&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1724,8 +1724,8 @@
       <tuv lang="en">
         <seg>O'Keefe's recipe&lt;t0/&gt;1&lt;t1/&gt; fea&lt;t2/&gt;tures a main container element (&lt;t3/&gt;&lt;Recipe&gt;&lt;t4/&gt;), which includes several sub-elements (&lt;t5/&gt;&lt;Name&gt;&lt;t6/&gt;, &lt;t7/&gt;&lt;IngredientList&gt;&lt;t8/&gt;, and &lt;t9/&gt;&lt;Instructions&gt;&lt;t10/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154317Z" creationid="DSS" creationdate="20200726T154317Z">
-        <seg>奥基夫提供的示例包括一个主包含元素（&lt;Recipe&gt;），该元素又包含几个子元素（&lt;Name&gt;, &lt;IngredientList&gt;和&lt;Instructions&gt;）。
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T081614Z" creationid="DSS" creationdate="20200726T154317Z">
+        <seg>奥基夫提供的菜谱示例&lt;t0/&gt;1&lt;t1/&gt;包括一个主包含元素（&lt;t3/&gt;&lt;Recipe&gt;&lt;t4/&gt;），该元素又包含几个子元素（&lt;t5/&gt;&lt;Name&gt;&lt;t6/&gt;， &lt;t7/&gt;&lt;IngredientList&gt;&lt;t8/&gt;和&lt;t9/&gt;&lt;Instructions&gt;&lt;t10/&gt;）。
 </seg>
       </tuv>
     </tu>
@@ -1781,8 +1781,8 @@
       <tuv lang="en">
         <seg>Production editors, who will get involved in defining the transformation files that assign formatting based on structure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153722Z" creationid="DSS" creationdate="20200726T153722Z">
-        <seg>• 生产编辑，基于文档结构参与编写定义格式的转换文件</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T081326Z" creationid="DSS" creationdate="20200726T153722Z">
+        <seg>生产编辑，基于文档结构参与编写定义格式的转换文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -1911,16 +1911,16 @@
       <tuv lang="en">
         <seg>Technical editors, who can focus on word choice, grammar, and overall organization</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153716Z" creationid="DSS" creationdate="20200726T153716Z">
-        <seg>• 技术编辑，关注选词，语法和整体架构</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T081323Z" creationid="DSS" creationdate="20200726T153716Z">
+        <seg>技术编辑，关注选词，语法和整体架构</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Template designer, who establishes the look and feel of content deliverables</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153653Z" creationid="DSS" creationdate="20200726T153653Z">
-        <seg>• 模板设计师，设计可交付成果的界面和风格</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T081315Z" creationid="DSS" creationdate="20200726T153653Z">
+        <seg>模板设计师，设计可交付成果的界面和风格</seg>
       </tuv>
     </tu>
     <tu>
@@ -2050,6 +2050,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T073908Z" creationid="DSS" creationdate="20200726T073900Z">
         <seg>这个过程听起来很简单，DITA 任务（task）文档类型中的内容组件似乎正好适合构建结构化菜谱，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The promise: a centralized content repository structured in XML can be the source for many user deliverables.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T081256Z" creationid="DSS" creationdate="20200727T081256Z">
+        <seg>XML 结构的集中化内容存储库可以作为许多用户交付内容的信息来源。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2409,8 +2417,8 @@
       <tuv lang="en">
         <seg>Writer, who creates content</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153701Z" creationid="DSS" creationdate="20200726T153701Z">
-        <seg>• 创作者，编写内容</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T081317Z" creationid="DSS" creationdate="20200726T153701Z">
+        <seg>创作者，编写内容</seg>
       </tuv>
     </tu>
     <tu>
