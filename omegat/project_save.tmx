@@ -2431,14 +2431,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>XML also uses attributes to present additional information about data and content (see the &lt;t9/&gt;@Cuisine &lt;t10/&gt;and &lt;t11/&gt;@Author &lt;t12/&gt;attributes in the main &lt;t13/&gt;&lt;Recipe&lt;t14/&gt;&gt; element).</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T082142Z" creationid="DSS" creationdate="20200726T154437Z">
-        <seg>XML 还使用属性来表示关于数据和内容的附加信息（如 &lt;t13/&gt;&lt;Recipe&lt;t14/&gt;&gt; 元素中的 &lt;t9/&gt;@Cuisine &lt;t10/&gt; 和 &lt;t11/&gt;@Author &lt;t12/&gt; 属性）。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>XML, and as a consequence DITA, files can also be validated by XML Schema and RELAX NG (Regular Language for XML Next Generation) files.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154154Z" creationid="DSS" creationdate="20200724T125751Z">
