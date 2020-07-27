@@ -2471,6 +2471,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>hold actual content (e.g., &lt;t0/&gt;&lt;Name&gt;&lt;t1/&gt;), and others nest additional levels of elements and, eventually, content (e.g. the “parsley” &lt;t2/&gt;&lt;Item&gt; &lt;t3/&gt;inside &lt;t4/&gt;&lt;Ingredient&lt;t5/&gt;&gt;&lt;t6/&gt; inside &lt;t7/&gt;&lt;IngredientList&gt;&lt;t8/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T082058Z" creationid="DSS" creationdate="20200727T082058Z">
+        <seg>包含实际的内容（例如，&lt;t0/&gt;&lt;Name&gt;&lt;t1/&gt;），另一些子元素又包含其他级别的元素，并最终包含内容（例如，“parsley” 包含于 &lt;t2/&gt;&lt;Item&gt; &lt;t3/&gt; ，&lt;Item&gt; 包含于 &lt;t4/&gt;&lt;Ingredient&lt;t5/&gt;&gt;&lt;t6/&gt; ，&lt;Ingredient&gt;包含于 &lt;t7/&gt;&lt;IngredientList&gt;&lt;t8/&gt;）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>kitchen team requires a web version of the recipe, the DITA-OT also provides that option and allows the author to link to a Cascading Style Sheet (CSS) file for formatting and design (&lt;t0/&gt;Figure &lt;t1/&gt;1.5&lt;t2/&gt;).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T074323Z" creationid="DSS" creationdate="20200725T074323Z">
