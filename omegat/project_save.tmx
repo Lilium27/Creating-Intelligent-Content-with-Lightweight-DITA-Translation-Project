@@ -312,8 +312,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;91).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T144917Z" creationid="DSS" creationdate="20200725T144917Z">
-        <seg>91页）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150123Z" creationid="DSS" creationdate="20200725T144917Z">
+        <seg>&lt;t3/&gt;91页）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -352,8 +352,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;The web deliverable that Chef Pedro needs for this project should include the following sections:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T151737Z" creationid="DSS" creationdate="20200725T151737Z">
-        <seg>对于这个项目佩德罗所需要的 web 交付内容应该包括以下部分：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150149Z" creationid="DSS" creationdate="20200725T151737Z">
+        <seg>&lt;t3/&gt;对于这个项目佩德罗所需要的 web 交付内容应该包括以下部分：</seg>
       </tuv>
     </tu>
     <tu>
@@ -1068,8 +1068,8 @@
       <tuv lang="en">
         <seg>FIGURE 1.6 &lt;t0/&gt;DITA map for Chef Pedro's recipe critique website.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T080604Z" creationid="DSS" creationdate="20200725T153901Z">
-        <seg>图1.6 佩德罗菜谱评论网站的 DITA 地图。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150323Z" creationid="DSS" creationdate="20200725T153901Z">
+        <seg>图1.6 佩德罗菜谱评论网站的 &lt;t0/&gt;DITA 地图。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1100,8 +1100,8 @@
       <tuv lang="en">
         <seg>Figure &lt;t0/&gt;1.6&lt;t1/&gt; &lt;t2/&gt;shows a very basic DITA map for Chef Pedro's recipe critique website.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T075518Z" creationid="DSS" creationdate="20200725T153515Z">
-        <seg>图1.6展示了佩德罗菜谱评论网站的一个非常基本的 DITA 地图。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150213Z" creationid="DSS" creationdate="20200725T153515Z">
+        <seg>图&lt;t0/&gt;1.6&lt;t1/&gt; &lt;t2/&gt;展示了佩德罗菜谱评论网站的一个非常基本的 DITA 地图。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1204,8 +1204,8 @@
       <tuv lang="en">
         <seg>For this week's entry, he will critique the marinara sauce recipe from &lt;t0/&gt;Figure &lt;t1/&gt;1.3&lt;t2/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T151703Z" creationid="DSS" creationdate="20200725T151703Z">
-        <seg>本周，他将如图1.3所示点评意式番茄罗勒酱的菜谱。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150144Z" creationid="DSS" creationdate="20200725T151703Z">
+        <seg>本周，他将如&lt;t0/&gt;图&lt;t1/&gt;1.3&lt;t2/&gt;所示点评意式番茄罗勒酱的菜谱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1943,16 +1943,16 @@
       <tuv lang="en">
         <seg>The DITA map has a &lt;t3/&gt;&lt;title&gt; &lt;t4/&gt;element for the whole project.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T153527Z" creationid="DSS" creationdate="20200725T153527Z">
-        <seg>DITA地 图有一个 &lt;title&gt; 元素用于描述整个项目。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150221Z" creationid="DSS" creationdate="20200725T153527Z">
+        <seg>DITA地 图有一个&lt;t3/&gt;&lt;title&gt; &lt;t4/&gt; 元素用于描述整个项目。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The DITA-OT automatically generated a navigation menu (&lt;t0/&gt;figure &lt;t1/&gt;1.7)&lt;t2/&gt; &lt;t3/&gt;and took care of basic layout.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T073006Z" creationid="DSS" creationdate="20200726T073006Z">
-        <seg>DITA-OT 会自动生成一个导航菜单（图1.7），并负责基本的布局。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150401Z" creationid="DSS" creationdate="20200726T073006Z">
+        <seg>DITA-OT 会自动生成一个导航菜单（&lt;t0/&gt;图&lt;t1/&gt;1.7）&lt;t2/&gt; &lt;t3/&gt;，并负责基本的布局。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2008,8 +2008,8 @@
       <tuv lang="en">
         <seg>The map includes&lt;t1/&gt; links (or topic references) to the marinara sauce recipe, Chef Pedro's critique of the recipe, and an “about” page with information about the author.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T075355Z" creationid="DSS" creationdate="20200725T154134Z">
-        <seg>地图上有关联到意式番茄罗勒酱食谱的链接（或话题参考信息），厨师佩德罗对菜谱的评论，以及一个关于作者信息的“关于”页面。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150339Z" creationid="DSS" creationdate="20200725T154134Z">
+        <seg>地图上有关联到&lt;t1/&gt;意式番茄罗勒酱食谱的链接（或话题参考信息），厨师佩德罗对菜谱的评论，以及一个关于作者信息的“关于”页面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2024,8 +2024,8 @@
       <tuv lang="en">
         <seg>The process of assembling topic collections depends on DITA maps, which are defined as “the glue that binds your topics together, the driver for producing your output, and the infor&lt;t0/&gt;mation path for your users to follow” (Bellamy et al., &lt;t1/&gt;2012, &lt;t2/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T144801Z" creationid="DSS" creationdate="20200725T144801Z">
-        <seg>组合话题集合的过程依赖于 DITA 地图的映射关系，DITA 地图是“将话题绑定在一起的粘合剂，是生成输出物的驱动器，也是用户可以遵循的信息路径”（贝拉米等人，2012年，第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150112Z" creationid="DSS" creationdate="20200725T144801Z">
+        <seg>组合话题集合的过程依赖于 DITA 地图的映射关系，DITA 地图是“将话题绑定在一起的粘合剂，是生成输出物的驱动器，也是用户可以遵循的信息路径”（贝拉米等人，&lt;t1/&gt;2012年，&lt;t2/&gt;第</seg>
       </tuv>
     </tu>
     <tu>
@@ -2112,8 +2112,8 @@
       <tuv lang="en">
         <seg>Then, the map includes links (&lt;t5/&gt;&lt;topicref&gt;&lt;t6/&gt;) for the individual files needed for the website.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T153537Z" creationid="DSS" creationdate="20200725T153537Z">
-        <seg>然后，该地图包含网站所需的各个文件的链接（&lt;topicref&gt;）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150236Z" creationid="DSS" creationdate="20200725T153537Z">
+        <seg>然后，该地图包含网站所需的各个文件的链接（&lt;t5/&gt;&lt;topicref&gt;&lt;t6/&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2281,8 +2281,8 @@
       <tuv lang="en">
         <seg>Using the DITA-OT, which I will cover in more detail in &lt;t7/&gt;Chapters &lt;t8/&gt;5 &lt;t9/&gt;and &lt;t10/&gt;6&lt;t11/&gt;, &lt;t12/&gt;I transformed</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T071347Z" creationid="DSS" creationdate="20200725T153832Z">
-        <seg>使用 DITA-OT（将在第5章和第6章详细介绍），我将地图转换成了</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150312Z" creationid="DSS" creationdate="20200725T153832Z">
+        <seg>使用 DITA-OT（将在&lt;t7/&gt;第&lt;t8/&gt;5 &lt;t9/&gt;章和第&lt;t10/&gt;6&lt;t11/&gt;&lt;t12/&gt;章详细介绍），我将地图转换成了</seg>
       </tuv>
     </tu>
     <tu>
@@ -2465,8 +2465,8 @@
       <tuv lang="en">
         <seg>recommend using DITA maps to create an information set that specify which topics should be included in a user deliverable produced from the map, define an information architecture with the navigation for a set of topics, and create relationships between topics (Bellamy et al., &lt;t2/&gt;2012).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T083921Z" creationid="DSS" creationdate="20200725T145928Z">
-        <seg>建议使用 DITA 地图创建一个信息集合，DITA 地图指定了哪些话题应该被包括在用户输出的可交付成果中，使用话题导航定义了信息体系结构，并创建了话题之间的关系（贝拉米等，2012年）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150128Z" creationid="DSS" creationdate="20200725T145928Z">
+        <seg>建议使用 DITA 地图创建一个信息集合，DITA 地图指定了哪些话题应该被包括在用户输出的可交付成果中，使用话题导航定义了信息体系结构，并创建了话题之间的关系（贝拉米等，&lt;t2/&gt;2012年）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2529,16 +2529,16 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;Chef Pedro's critique of the recipe (structured as a DITA concept)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T075332Z" creationid="DSS" creationdate="20200725T151810Z">
-        <seg>• 厨师佩德罗对菜谱的评价（以 DITA 概念（concept）话题的结构编写）</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150154Z" creationid="DSS" creationdate="20200725T151810Z">
+        <seg>&lt;t0/&gt;• 厨师佩德罗对菜谱的评价（以 DITA 概念（concept）话题的结构编写）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>• &lt;t0/&gt;Chef Pedro's “about” page, with biographical and professional information (structured as a DITA concept).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T075345Z" creationid="DSS" creationdate="20200725T151843Z">
-        <seg>• 介绍厨师佩德罗的“关于”页面，包含人生经历和专业信息（以 DITA 概念（concept）话题的结构编写）</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150204Z" creationid="DSS" creationdate="20200725T151843Z">
+        <seg>&lt;t0/&gt;• 介绍厨师佩德罗的“关于”页面，包含人生经历和专业信息（以 DITA 概念（concept）话题的结构编写）</seg>
       </tuv>
     </tu>
     <tu>
@@ -2554,8 +2554,8 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;The marinara sauce recipe (structured as a DITA task)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T151916Z" creationid="DSS" creationdate="20200725T151756Z">
-        <seg>• 意式番茄罗勒酱菜谱（以 DITA 任务（task）话题的结构编写）</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150158Z" creationid="DSS" creationdate="20200725T151756Z">
+        <seg>&lt;t0/&gt;• 意式番茄罗勒酱菜谱（以 DITA 任务（task）话题的结构编写）</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
