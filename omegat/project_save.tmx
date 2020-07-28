@@ -768,8 +768,8 @@
       <tuv lang="en">
         <seg>At the topic level, and without getting too deep into the process of DITA specialization, just as &lt;t2/&gt;&lt;concept&gt; &lt;t3/&gt;and &lt;t4/&gt;&lt;task&gt; &lt;t5/&gt;are spe&lt;t6/&gt;cialized from the original generic &lt;t7/&gt;&lt;topic&gt;&lt;t8/&gt;, &lt;t9/&gt;&lt;task&gt; &lt;t10/&gt;could specialize into &lt;t11/&gt;&lt;recipe&gt;&lt;t12/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T143911Z" creationid="DSS" creationdate="20200725T143911Z">
-        <seg>在不深入讨论如何定制 DITA 话题的情况下，我们来看一下各种话题。&lt;concept&gt; 和 &lt;task&gt; 是为最初通用的 &lt;topic&gt; 特别定制的，而为 &lt;task&gt; 又再具体定制了 &lt;recipe&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150027Z" creationid="DSS" creationdate="20200725T143911Z">
+        <seg>在不深入讨论如何定制 DITA 话题的情况下，我们来看一下各种话题。 &lt;t2/&gt;&lt;concept&gt; &lt;t3/&gt;和&lt;t4/&gt;&lt;task&gt; &lt;t5/&gt;是为最初通用的 &lt;t7/&gt;&lt;topic&gt;&lt;t8/&gt; 特别定制的，而为 &lt;t9/&gt;&lt;task&gt; &lt;t10/&gt; 又再具体定制了 &lt;t11/&gt;&lt;recipe&gt;&lt;t12/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1060,8 +1060,8 @@
       <tuv lang="en">
         <seg>FIGURE 1.5 &lt;t0/&gt;Marinara sauce DITA task transformed to an HTML5 deliverable.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T151233Z" creationid="DSS" creationdate="20200725T085353Z">
-        <seg>图1.5 意式番茄罗勒酱 DITA 任务（task）话题转换生成的 HTML5 交付文件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145812Z" creationid="DSS" creationdate="20200725T085353Z">
+        <seg>图1.5 &lt;t0/&gt;意式番茄罗勒酱 DITA 任务（task）话题转换生成的 HTML5 交付文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1164,8 +1164,8 @@
       <tuv lang="en">
         <seg>For example, Chef Pedro is going to need to provide ingredients for his recipes, so he could create an ingredients specialization to include this specific element (i.e., &lt;t13/&gt;&lt;ingredients&gt; &lt;t14/&gt;as a specialization of &lt;t15/&gt;&lt;prereq&gt; &lt;t16/&gt;for pre-requisites).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T143942Z" creationid="DSS" creationdate="20200725T143942Z">
-        <seg>例如， 佩德罗需要为菜谱编写食材，所以他可以创建特有的食材标签来包含每个特定食材（如  &lt;ingredients&gt; 是表示前期准备的标签 &lt;prereq&gt; 下的特有标签）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150054Z" creationid="DSS" creationdate="20200725T143942Z">
+        <seg>例如， 佩德罗需要为菜谱编写食材，所以他可以创建特有的食材标签来包含每个特定食材（如  &lt;t13/&gt;&lt;ingredients&gt; &lt;t14/&gt; 是表示前期准备的标签 &lt;t15/&gt;&lt;prereq&gt; &lt;t16/&gt; 下的特有标签）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1372,8 +1372,8 @@
       <tuv lang="en">
         <seg>If those pre-established topic types were not enough for a particular writer and context, DITA topics can be &lt;t0/&gt;specialized&lt;t1/&gt; to create information types unique to any intelligent content domain.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T143839Z" creationid="DSS" creationdate="20200725T143839Z">
-        <seg>如果这些预先建立的话题类型对于特定的作者和特定的语境需求来说还不够， 还可以特别定制DITA话题，以创建任何智能内容领域特有的信息类型。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145930Z" creationid="DSS" creationdate="20200725T143839Z">
+        <seg>如果这些预先建立的话题类型对于特定的作者和特定的语境需求来说还不够， 还可以&lt;t0/&gt;特别定制&lt;t1/&gt;DITA话题，以创建任何智能内容领域特有的信息类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2208,16 +2208,16 @@
       <tuv lang="en">
         <seg>This&lt;t1/&gt; sample output includes a link to an external CSS file for formatting.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T085416Z" creationid="DSS" creationdate="20200725T085416Z">
-        <seg>该示例输出物包括一个关联到外部 CSS 文件的链接，用于调整版式。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145817Z" creationid="DSS" creationdate="20200725T085416Z">
+        <seg>该&lt;t1/&gt;示例输出物包括一个关联到外部 CSS 文件的链接，用于调整版式。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>This&lt;t1/&gt; simple output did not require a dedicated stylesheet or choices about pagination and typography.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T085608Z" creationid="DSS" creationdate="20200725T085014Z">
-        <seg>该输出物非常简洁，不需要专门的样式表，也不需要标定页码和排版。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145802Z" creationid="DSS" creationdate="20200725T085014Z">
+        <seg>该&lt;t1/&gt;输出物非常简洁，不需要专门的样式表，也不需要标定页码和排版。</seg>
       </tuv>
     </tu>
     <tu>
