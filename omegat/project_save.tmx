@@ -96,8 +96,8 @@
       <tuv lang="en">
         <seg>&lt;shortdesc&gt; &lt;t0/&gt;with a summary of the topic's contents</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T070009Z" creationid="DSS" creationdate="20200725T065936Z">
-        <seg>&lt;shortdesc&gt; 是题内容的摘要</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145129Z" creationid="DSS" creationdate="20200725T065936Z">
+        <seg>&lt;shortdesc&gt; &lt;t0/&gt;是题内容的摘要</seg>
       </tuv>
     </tu>
     <tu>
@@ -160,8 +160,8 @@
       <tuv lang="en">
         <seg>&lt;t12/&gt;You can download these code samples from the &lt;t13/&gt;Creating Intelligent Content with Lightweight DITA&lt;t14/&gt; GitHub repository (&lt;t15/&gt;https://github.com/carlosevia/lwdita-book&lt;t16/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T065416Z" creationid="DSS" creationdate="20200725T064748Z">
-        <seg>你可以从本书 Github 仓库中（https://github.com/carlosevia/lwdita-book）下载这些代码示例。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145109Z" creationid="DSS" creationdate="20200725T064748Z">
+        <seg>&lt;t12/&gt;你可以从&lt;t13/&gt;本书&lt;t14/&gt; Github 仓库中（&lt;t15/&gt;https://github.com/carlosevia/lwdita-book&lt;t16/&gt;）下载这些代码示例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -384,8 +384,8 @@
       <tuv lang="en">
         <seg>&lt;t4/&gt;235).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T162643Z" creationid="DSS" creationdate="20200724T162643Z">
-        <seg>235页）</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144909Z" creationid="DSS" creationdate="20200724T162643Z">
+        <seg>&lt;t4/&gt;235页）</seg>
       </tuv>
     </tu>
     <tu>
@@ -624,8 +624,8 @@
       <tuv lang="en">
         <seg>Although in &lt;t0/&gt;Chapters&lt;t1/&gt; &lt;t2/&gt;5&lt;t3/&gt; &lt;t4/&gt;and &lt;t5/&gt;6&lt;t6/&gt; &lt;t7/&gt;I will further analyze the DITA tags and attributes, for the scope of this introductory section, I structured and tagged O'Keefe's recipe for mari&lt;t8/&gt;nara sauce as a DITA task (&lt;t9/&gt;Figure &lt;t10/&gt;1.3&lt;t11/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T151140Z" creationid="DSS" creationdate="20200725T064726Z">
-        <seg>在第5章和第6章中，我将进一步分析 DITA 的标签和属性。在本部分的简介中，我会将奥基夫的马里纳拉酱料菜谱结构化，打上标签，作为一个 DITA 任务（task）话题的示范（图1.3）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145042Z" creationid="DSS" creationdate="20200725T064726Z">
+        <seg>在第&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;5&lt;t3/&gt;章&lt;t4/&gt;和第&lt;t5/&gt;6&lt;t6/&gt;章中，&lt;t7/&gt;我将进一步分析 DITA 的标签和属性。在本部分的简介中，我会将奥基夫的马里纳拉酱料菜谱结构化，打上标签，作为一个 DITA 任务（task）话题的示范（&lt;t9/&gt;图&lt;t10/&gt;1.3&lt;t11/&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1814,8 +1814,8 @@
       <tuv lang="en">
         <seg>Reference: describes commands, parameters, and other features (Pringle &lt;t0/&gt;&amp; &lt;t1/&gt;O'Keefe, &lt;t2/&gt;2009, &lt;t3/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T162510Z" creationid="DSS" creationdate="20200724T162510Z">
-        <seg>参考（reference）：描述命令、参数和其他特性（普林格尔和奥基夫，2009年，第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144900Z" creationid="DSS" creationdate="20200724T162510Z">
+        <seg>参考（reference）：描述命令、参数和其他特性（普林格尔&lt;t0/&gt;和&lt;t1/&gt;奥基夫，&lt;t2/&gt;2009年，&lt;t3/&gt;第</seg>
       </tuv>
     </tu>
     <tu>
@@ -1935,8 +1935,8 @@
       <tuv lang="en">
         <seg>The &lt;t0/&gt;&lt;task&gt; &lt;t1/&gt;element opens the topic announcing “this is a task,” and it contains elements like the following:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T065912Z" creationid="DSS" creationdate="20200725T065912Z">
-        <seg>&lt;task&gt;开启一个话题，声明“这是一个任务”，它包含如下元素：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145123Z" creationid="DSS" creationdate="20200725T065912Z">
+        <seg>&lt;t0/&gt;&lt;task&gt;&lt;t1/&gt;开启一个话题，声明“这是一个任务”，它包含如下元素：</seg>
       </tuv>
     </tu>
     <tu>
@@ -2000,8 +2000,8 @@
       <tuv lang="en">
         <seg>The literature focuses on three topic types that “represent the vast majority of content produced to support users of technical information” (Hackos, &lt;t0/&gt;2011, &lt;t1/&gt;p.7): concept, task, and reference, which Pringle &lt;t2/&gt;&amp; &lt;t3/&gt;O'Keefe define succinctly as follows:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T162056Z" creationid="DSS" creationdate="20200724T162056Z">
-        <seg>文档主要有三种话题类型，它们“代表了为了帮助用户而产生的技术信息文档里的绝大多数内容”（哈克斯，2011年，第7页）：概念（concept）、任务（task）和参考（reference），普林格尔（Pringle）和奥基夫对其的简短定义如下：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144836Z" creationid="DSS" creationdate="20200724T162056Z">
+        <seg>文档主要有三种话题类型，它们“代表了为了帮助用户而产生的技术信息文档里的绝大多数内容”（哈克斯，&lt;t0/&gt;2011&lt;t1/&gt;年，第7页）：概念（concept）、任务（task）和参考（reference），普林格尔（Pringle）&lt;t2/&gt;和&lt;t3/&gt;奥基夫对其的简短定义如下：</seg>
       </tuv>
     </tu>
     <tu>
