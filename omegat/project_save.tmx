@@ -8,8 +8,8 @@
       <tuv lang="en">
         <seg>(Andersen &lt;t0/&gt;&amp; &lt;t1/&gt;Batova, &lt;t2/&gt;2015, &lt;t3/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T155637Z" creationid="DSS" creationdate="20200724T155637Z">
-        <seg>（安德森和巴特瓦，2015年，第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144755Z" creationid="DSS" creationdate="20200724T155637Z">
+        <seg>（安德森&lt;t0/&gt;和&lt;t1/&gt;巴特瓦，&lt;t2/&gt;2015年，&lt;t3/&gt;第</seg>
       </tuv>
     </tu>
     <tu>
@@ -280,8 +280,8 @@
       <tuv lang="en">
         <seg>&lt;t22/&gt;56).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154416Z" creationid="DSS" creationdate="20200724T154416Z">
-        <seg>6页）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144628Z" creationid="DSS" creationdate="20200724T154416Z">
+        <seg>&lt;t22/&gt;6页）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2361,8 +2361,8 @@
       <tuv lang="en">
         <seg>While authors certainly can work on a topic-based environment without DITA (see Baker, &lt;t0/&gt;2013), &lt;t1/&gt;the term &lt;t2/&gt;topic&lt;t3/&gt; is frequently associated with this open standard, as explained in the following quote from Andersen &lt;t4/&gt;&amp; &lt;t5/&gt;Batova:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154818Z" creationid="DSS" creationdate="20200724T154614Z">
-        <seg>虽然作者当然可以在不使用 DITA 的情况下创建基于话题的内容（参见贝克，2013年），但是术语“话题”（topic）经常与DITA这个开放标准联系在一起，正如安德森和巴特瓦所说：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144740Z" creationid="DSS" creationdate="20200724T154614Z">
+        <seg>虽然作者当然可以在不使用 DITA 的情况下创建基于话题的内容（参见贝克，&lt;t0/&gt;2013年），但是&lt;t1/&gt;术语&lt;t2/&gt;“话题”&lt;t3/&gt;（topic）经常与DITA这个开放标准联系在一起，正如安德森&lt;t4/&gt;和&lt;t5/&gt;巴特瓦所说：</seg>
       </tuv>
     </tu>
     <tu>
