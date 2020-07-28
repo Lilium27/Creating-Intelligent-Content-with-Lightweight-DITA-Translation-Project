@@ -32,8 +32,8 @@
       <tuv lang="en">
         <seg>(Hackos, &lt;t0/&gt;2016, &lt;t1/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T093817Z" creationid="DSS" creationdate="20200726T093817Z">
-        <seg>（Hackos，2016年，第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T151041Z" creationid="DSS" creationdate="20200726T093817Z">
+        <seg>（Hackos，&lt;t0/&gt;2016年，&lt;t1/&gt;第</seg>
       </tuv>
     </tu>
     <tu>
@@ -112,8 +112,8 @@
       <tuv lang="en">
         <seg>&lt;t0/&gt;Creating Intelligent Content with Lightweight DITA&lt;t1/&gt; shows structured authoring in practice with&lt;t2/&gt;out the need for sophisticated software tools.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T091855Z" creationid="DSS" creationdate="20200726T091855Z">
-        <seg>在实践中展现了结构化创作，无需复杂的软件工具。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150925Z" creationid="DSS" creationdate="20200726T091855Z">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;在实践中展现了结构化创作，无需复杂的软件工具。</seg>
       </tuv>
     </tu>
     <tu>
@@ -264,8 +264,8 @@
       <tuv lang="en">
         <seg>&lt;t2/&gt;29)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T094329Z" creationid="DSS" creationdate="20200726T094329Z">
-        <seg>29页）</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T151048Z" creationid="DSS" creationdate="20200726T094329Z">
+        <seg>&lt;t2/&gt;29页）</seg>
       </tuv>
     </tu>
     <tu>
@@ -899,8 +899,8 @@
       <tuv lang="en">
         <seg>Creating Intelligent Content with Lightweight DITA&lt;t0/&gt; does not have a reader prerequisite of experience with the DITA standard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T135217Z" creationid="DSS" creationdate="20200726T135217Z">
-        <seg>本书的读者不需要具备使用 DITA 标准的经验。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T151126Z" creationid="DSS" creationdate="20200726T135217Z">
+        <seg>本书的读者不需要具备使用 DITA&lt;t0/&gt; 标准的经验。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1140,8 +1140,8 @@
       <tuv lang="en">
         <seg>For any reader, &lt;t6/&gt;Creating Intelligent Content with Lightweight DITA&lt;t7/&gt; places human authors at the center of intelli&lt;t8/&gt;gent content workflows, proposing that adopting LwDITA as a thought process and authoring schema will provide writers with some of the benefits associated with other information standards (DITA included) while &lt;t9/&gt;emphasizing think&lt;t10/&gt;ing and abstraction over automation and machine processing&lt;t11/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T093228Z" creationid="DSS" creationdate="20200726T093228Z">
-        <seg>对任何读者来说，本书将人类作者置于创作智能内容工作流的中心，认为采用 LwDITA 作为思维过程和创作模式将为作者提供一些其他信息标准（包括 DITA）也有的优势，与此同时强调思考能力和抽象能力，而不是自动化和机器处理能力。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T151020Z" creationid="DSS" creationdate="20200726T093228Z">
+        <seg>对任何读者来说，&lt;t6/&gt;本书&lt;t7/&gt;将人类作者置于创作智能内容工作流的中心，认为采用 LwDITA 作为思维过程和创作模式将为作者提供一些其他信息标准（包括 DITA）也有的优势，与此同时强调&lt;t9/&gt;思考能力和抽象能力，而不是自动化和机器处理能力。&lt;t11/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1308,8 +1308,8 @@
       <tuv lang="en">
         <seg>I am a voting member of the DITA Technical Committee with the Organization for the Adoption of Structured Information Standards (OASIS), which is currently working on version &lt;t0/&gt;2.0 &lt;t1/&gt;of the standard; DITA's present and future are necessary for the lightweight approaches dis&lt;t2/&gt;cussed in this book.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T134337Z" creationid="DSS" creationdate="20200726T134337Z">
-        <seg>我是 OASIS 的 DITA 技术委员会的投票成员，OASIS 目前正在制定 DITA 标准的2.0版本，DITA 的现在和未来对于本书中讨论的轻量级方法都是非常重要的。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T151058Z" creationid="DSS" creationdate="20200726T134337Z">
+        <seg>我是 OASIS 的 DITA 技术委员会的投票成员，OASIS 目前正在制定 DITA 标准的&lt;t0/&gt;2.0 &lt;t1/&gt;版本，DITA 的现在和未来对于本书中讨论的轻量级方法都是非常重要的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1340,8 +1340,8 @@
       <tuv lang="en">
         <seg>If XML and DITA are still seen as new tools by academics when some practitioners are already labeling them as arcane, then we are just writing a new chapter in the documented gap between research and practice in the field (Andersen, &lt;t7/&gt;2013; &lt;t8/&gt;Rude, &lt;t9/&gt;2015; &lt;t10/&gt;Lauren &lt;t11/&gt;&amp; &lt;t12/&gt;Pigg, &lt;t13/&gt;2016, &lt;t14/&gt;and others).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T091834Z" creationid="DSS" creationdate="20200726T091834Z">
-        <seg>如果当从业者已经认为 DITA 和 XML 是过于复杂的技术之时，学术界仍将其视为新工具，那么我们是为技术传播研究和技术传播实践之间的文档差距写下了新的篇章（安德森，2013年；路德，2015年；劳伦和皮格，2016年等）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150905Z" creationid="DSS" creationdate="20200726T091834Z">
+        <seg>如果当从业者已经认为 DITA 和 XML 是过于复杂的技术之时，学术界仍将其视为新工具，那么我们是为技术传播研究和技术传播实践之间的文档差距写下了新的篇章（安德森，&lt;t7/&gt;2013&lt;t8/&gt;年；路德，&lt;t9/&gt;2015&lt;t10/&gt;年；劳伦&lt;t11/&gt;和&lt;t12/&gt;皮格，&lt;t13/&gt;2016&lt;t14/&gt;年等）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1500,8 +1500,8 @@
       <tuv lang="en">
         <seg>It also connects the rhetorical &lt;t3/&gt;structures that drive the evolution of DITA as a standard for technical infor&lt;t4/&gt;mation to foundational concepts from the field's academic background and to common structures in computing education.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T093150Z" creationid="DSS" creationdate="20200726T093150Z">
-        <seg>本书还将推动 DITA 发展为技术信息标准的修辞结构和该领域的基本学术概念、计算机教学中的常见结构联系起来。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150938Z" creationid="DSS" creationdate="20200726T093150Z">
+        <seg>本书还将推动 DITA 发展为技术信息标准的修辞&lt;t3/&gt;结构和该领域的基本学术概念、计算机教学中的常见结构联系起来。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2136,8 +2136,8 @@
       <tuv lang="en">
         <seg>Therefore, this is unequivocally a book about DITA, but it is not a detailed introduction and how-to to the widely adopted XML-based DITA standard (for comprehensive introductory texts to DITA XML, see Hackos, &lt;t3/&gt;2011; &lt;t4/&gt;Bellamy et al., &lt;t5/&gt;2012).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T135202Z" creationid="DSS" creationdate="20200726T135202Z">
-        <seg>因此毫无疑问，本书是一本关于 DITA 的书，但是书中没有详细介绍被广泛使用的基于 XML 的 DITA 标准（全面介绍基于 XML 的 DITA 的文本，请参阅哈克斯，2011年；贝拉米等，2012年）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T151119Z" creationid="DSS" creationdate="20200726T135202Z">
+        <seg>因此毫无疑问，本书是一本关于 DITA 的书，但是书中没有详细介绍被广泛使用的基于 XML 的 DITA 标准（全面介绍基于 XML 的 DITA 的文本，请参阅哈克斯，&lt;t3/&gt;2011&lt;t4/&gt;年；&lt;t5/&gt;贝拉米等，2012年）。</seg>
       </tuv>
     </tu>
     <tu>
