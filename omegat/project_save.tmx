@@ -152,8 +152,8 @@
       <tuv lang="en">
         <seg>&lt;t10/&gt;The “essays from whole cloth” reference is a nod to the book-oriented kind of writing using a word processor that most academic programs in techni&lt;t11/&gt;cal communication and content development teach as standard practice.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T154723Z" creationid="DSS" creationdate="20200723T154723Z">
-        <seg>“完整性文章”这个描述是对以书籍为导向、以文字处理器为工具的写作方式的一种认可，大多数技术传播和内容开发的学术项目都将其作为标准实践来教授。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T142738Z" creationid="DSS" creationdate="20200723T154723Z">
+        <seg>&lt;t10/&gt;“完整性文章”这个描述是对以书籍为导向、以文字处理器为工具的写作方式的一种认可，大多数&lt;t11/&gt;技术传播和内容开发的学术项目都将其作为标准实践来教授。</seg>
       </tuv>
     </tu>
     <tu>
@@ -416,8 +416,8 @@
       <tuv lang="en">
         <seg>&lt;t4/&gt;In many technical communication practices, “efficient content reuse does not involve copy-and-pasting; instead it uses &lt;t5/&gt;transclusion&lt;t6/&gt;, whereby content is authored in one location and used by reference in other locations” (Eberlein, &lt;t7/&gt;2016 &lt;t8/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T114758Z" creationid="DSS" creationdate="20200720T155448Z">
-        <seg>&lt;t4/&gt;在许多技术传播实践中，“有效内容的重用不是复制粘贴，而是引用，即在一个地方创作内容，在其他地方引用该内容”（埃伯莱因，&lt;t7/&gt;2016年， &lt;t8/&gt; 第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T142718Z" creationid="DSS" creationdate="20200720T155448Z">
+        <seg>&lt;t4/&gt;在许多技术传播实践中，“有效内容的重用不是复制粘贴，而是&lt;t5/&gt;引用&lt;t6/&gt;，即在一个地方创作内容，在其他地方引用该内容”（埃伯莱因，&lt;t7/&gt;2016年， &lt;t8/&gt; 第</seg>
       </tuv>
     </tu>
     <tu>
@@ -1084,8 +1084,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;1.1 &lt;t1/&gt;Screen capture from the video “The Future of Technical Communication,” by Adobe Technical Communication Suite.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T121521Z" creationid="DSS" creationdate="20200724T121058Z">
-        <seg>图1.1 AdobeTCS 制作的视频“技术传播的未来”的截图。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T142810Z" creationid="DSS" creationdate="20200724T121058Z">
+        <seg>图 &lt;t0/&gt;1.1 &lt;t1/&gt;AdobeTCS 制作的视频“技术传播的未来”的截图。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1462,14 +1462,6 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153211Z" creationid="DSS" creationdate="20200726T153211Z">
         <seg>在修辞学领域，埃普伦（Applen）和麦克丹尼尔（McDaniel）写了一篇关于XML及其修辞学启示的重要文章。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>In the summer of &lt;t0/&gt;2004, &lt;t1/&gt;I was on my way to Blacksburg, Virginia, to start my new job as assistant professor of technical communication at Virginia Tech.</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200716T085709Z" creationid="DSS" creationdate="20200716T085709Z">
-        <seg>2014 年夏天，……</seg>
       </tuv>
     </tu>
     <tu>
@@ -2160,8 +2152,8 @@
       <tuv lang="en">
         <seg>This &lt;t2/&gt;specific frame displays the future of our profession as “more and more&lt;t3/&gt; structured content and the ability to work faster and smarter with XML and DITA constructs.”</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T121549Z" creationid="DSS" creationdate="20200724T121417Z">
-        <seg>这一帧画面显示着行业的未来所在，即“越来越结构化的内容，以及更快、更智能地使用 XML 和 DITA 结构的能力”。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T142849Z" creationid="DSS" creationdate="20200724T121417Z">
+        <seg>这一帧&lt;t2/&gt;画面显示着行业的未来所在，即“越来越结构化的内容，以及更快、更智能地&lt;t3/&gt; 使用 XML 和 DITA 结构的能力”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2345,8 +2337,8 @@
       <tuv lang="en">
         <seg>When he talks about “reusable content,” Mathewson is referring to the “prac&lt;t0/&gt;tice of using content components in multiple information products” (Eberlein, &lt;t1/&gt;2016 &lt;t2/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T155952Z" creationid="DSS" creationdate="20200720T153908Z">
-        <seg>马修森所说的“可重用内容”是指“在多个信息产品中使用内容组件的实践”（埃伯莱因，&lt;t1/&gt;2016&lt;t2/&gt;年，第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T142650Z" creationid="DSS" creationdate="20200720T153908Z">
+        <seg>马修森所说的“可重用内容”是指“在多个信息产品中使用内容组件的&lt;t0/&gt;实践”（埃伯莱因，&lt;t1/&gt;2016&lt;t2/&gt;年，第</seg>
       </tuv>
     </tu>
     <tu>
