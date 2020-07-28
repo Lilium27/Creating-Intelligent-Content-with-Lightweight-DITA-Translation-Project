@@ -120,8 +120,8 @@
       <tuv lang="en">
         <seg>&lt;t1/&gt;2012, &lt;t2/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154301Z" creationid="DSS" creationdate="20200724T154301Z">
-        <seg>2012年，第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144403Z" creationid="DSS" creationdate="20200724T154301Z">
+        <seg>&lt;t1/&gt;2012年，&lt;t2/&gt;第</seg>
       </tuv>
     </tu>
     <tu>
@@ -168,8 +168,8 @@
       <tuv lang="en">
         <seg>&lt;t13/&gt;52).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154350Z" creationid="DSS" creationdate="20200724T154350Z">
-        <seg>52页）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144534Z" creationid="DSS" creationdate="20200724T154350Z">
+        <seg>&lt;t13/&gt;52页）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -192,8 +192,8 @@
       <tuv lang="en">
         <seg>&lt;t14/&gt;This kind of writing is the basis of several technical communication and intelligent content practices and techniques, including component content management systems (CCMS), which are “a centralized system that helps organizations cap&lt;t15/&gt;ture, manage, store, preserve, and deliver topic-based content (components)” (Kerzreho, &lt;t16/&gt;2016 &lt;t17/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154440Z" creationid="DSS" creationdate="20200724T154401Z">
-        <seg>这种写作类型是几种技术传播和智能内容实践和技术的基础，包括组件内容管理系统（CCMS），CCMS 是“一个集中化系统，可以帮助组织获取、管理、存储、维护、发布基于主题的内容（组件）”（科兹热霍， 2016年，第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144559Z" creationid="DSS" creationdate="20200724T154401Z">
+        <seg>&lt;t14/&gt;这种写作类型是几种技术传播和智能内容实践和技术的基础，包括组件内容管理系统（CCMS），CCMS 是“一个集中化系统，可以帮助组织获取、管理、存储、维护、发布基于主题的内容（组件）”（科兹热霍， &lt;t16/&gt;2016&lt;t17/&gt;年，第</seg>
       </tuv>
     </tu>
     <tu>
@@ -208,8 +208,8 @@
       <tuv lang="en">
         <seg>&lt;t18/&gt;60), &lt;t19/&gt;and single sourcing, which can be defined as the practice of “creating content once, planning for its reuse in multiple places, contexts, and output channels” (White, &lt;t20/&gt;2016 &lt;t21/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T084115Z" creationid="DSS" creationdate="20200724T154412Z">
-        <seg>60页），还包括单一来源，单一来源是“只创建一次内容，就考虑到在多个地方、多个语境、多种输出渠道中复用内容”的实践（怀特，2016年，第5</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144620Z" creationid="DSS" creationdate="20200724T154412Z">
+        <seg>&lt;t18/&gt;60页），&lt;t19/&gt;还包括单一来源，单一来源是“只创建一次内容，就考虑到在多个地方、多个语境、多种输出渠道中复用内容”的实践（怀特，&lt;t20/&gt;2016&lt;t21/&gt;年，第5</seg>
       </tuv>
     </tu>
     <tu>
@@ -288,8 +288,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;10).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T155100Z" creationid="DSS" creationdate="20200726T155100Z">
-        <seg>10页）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144330Z" creationid="DSS" creationdate="20200726T155100Z">
+        <seg>&lt;t3/&gt;10页）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -304,8 +304,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;8), &lt;t4/&gt;and can be defined as “small independent piece of information on a single subject” (Baker, &lt;t5/&gt;2013, &lt;t6/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T084023Z" creationid="DSS" creationdate="20200724T154307Z">
-        <seg>8页），话题也可以理解为“关于某个主题的短小独立的信息片段”（贝克，2013年，第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144425Z" creationid="DSS" creationdate="20200724T154307Z">
+        <seg>&lt;t3/&gt;8页），&lt;t4/&gt;话题也可以理解为“关于某个主题的短小独立的信息片段”（贝克，&lt;t5/&gt;2013年，&lt;t6/&gt;第</seg>
       </tuv>
     </tu>
     <tu>
@@ -408,8 +408,8 @@
       <tuv lang="en">
         <seg>&lt;t4/&gt;9).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T155008Z" creationid="DSS" creationdate="20200726T155008Z">
-        <seg>9页）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144306Z" creationid="DSS" creationdate="20200726T155008Z">
+        <seg>&lt;t4/&gt;9页）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -464,8 +464,8 @@
       <tuv lang="en">
         <seg>&lt;t7/&gt;71).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154312Z" creationid="DSS" creationdate="20200724T154312Z">
-        <seg>71页）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144433Z" creationid="DSS" creationdate="20200724T154312Z">
+        <seg>&lt;t7/&gt;71页）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -488,8 +488,8 @@
       <tuv lang="en">
         <seg>&lt;t8/&gt;Topic-based writing is described as “authoring an information set as a collection of discrete units called &lt;t9/&gt;topics&lt;t10/&gt;, rather than as a whole book or help system” (Baker, &lt;t11/&gt;2016 &lt;t12/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154341Z" creationid="DSS" creationdate="20200724T154341Z">
-        <seg>基于话题的写作会“编写一个信息集，聚合不同话题的离散单元，而编写一本书或一个帮助系统”（贝克，2016年，第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144526Z" creationid="DSS" creationdate="20200724T154341Z">
+        <seg>&lt;t8/&gt;基于话题的写作会“编写一个信息集，聚合不同&lt;t9/&gt;话题&lt;t10/&gt;的离散单元，而编写一本书或一个帮助系统”（贝克，&lt;t11/&gt;2016&lt;t12/&gt;年，第</seg>
       </tuv>
     </tu>
     <tu>
@@ -576,8 +576,8 @@
       <tuv lang="en">
         <seg>Additionally, from a perspective addressing the needs of managers and supervisors, Hackos presents a list of DITA's business advantages, which sug&lt;t0/&gt;gest that the standard will (promote) the reuse of information quickly and easily across multiple deliverables, reduce the cost of maintaining and updating information, enable continuous publishing, share information across the global enterprise, reduce the cost of localization, and reduce the technical debt caused by inadequate, incorrect, and unusable legacy information (Hackos, &lt;t1/&gt;2011, &lt;t2/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T155045Z" creationid="DSS" creationdate="20200726T155045Z">
-        <seg>此外，从解决部门经理、主管的需求来看， 哈克斯列出了 DITA 的商业优势, 这表明，DITA 将简明迅速地促进信息跨交付物重用能力，降低维护和更新信息的成本，实现不间断出版，在全球企业内共享信息，降低本地化的成本,并减少由错误、不够完善、无法使用的遗留信息引起的技术债务。 （哈克斯，2011年，第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144321Z" creationid="DSS" creationdate="20200726T155045Z">
+        <seg>此外，从解决部门经理、主管的需求来看， 哈克斯列出了 DITA 的商业优势, 这表明，DITA 将简明迅速地促进信息跨交付物重用能力，降低维护和更新信息的成本，实现不间断出版，在全球企业内共享信息，降低本地化的成本,并减少由错误、不够完善、无法使用的遗留信息引起的技术债务。 （哈克斯，&lt;t1/&gt;2011年，&lt;t2/&gt;第</seg>
       </tuv>
     </tu>
     <tu>
@@ -947,8 +947,8 @@
       <tuv lang="en">
         <seg>DITA's “fully tested DTD or schema for XML-based authoring” comes from the &lt;t0/&gt;Information Typing&lt;t1/&gt; part of its name.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T125615Z" creationid="DSS" creationdate="20200724T125615Z">
-        <seg>达尔文信息类型架构（DITA）“是一种经过充分检验的用于 XML 创作的 DTD 或模式”这一评价源自其名称中的“信息类型”（Information Typing）部分。
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144347Z" creationid="DSS" creationdate="20200724T125615Z">
+        <seg>达尔文信息类型架构（DITA）“是一种经过充分检验的用于 XML 创作的 DTD 或模式”这一评价源自其名称中的“&lt;t0/&gt;信息类型&lt;t1/&gt;”（Information Typing）部分。
 </seg>
       </tuv>
     </tu>
@@ -2521,8 +2521,8 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;A thoroughly developed approach to information development originat&lt;t1/&gt;ing with OASIS and now encompassing many other companies, large and small, that find value in a standards-based approach &lt;t2/&gt;(2011, &lt;t3/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T082505Z" creationid="DSS" creationdate="20200726T155002Z">
-        <seg>• &lt;t0/&gt;DITA 是一种深入发展的信息开发方法，起源于 OASIS，使用于大大小小各种公司，这些公司发现了 DITA 的价值 （2011年，第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144259Z" creationid="DSS" creationdate="20200726T155002Z">
+        <seg>• &lt;t0/&gt;DITA 是一种深入发展的信息开发方法，起源于 OASIS，使用于大大小小各种公司，这些公司发现了 DITA 的价值 &lt;t2/&gt;（2011年，&lt;t3/&gt;第</seg>
       </tuv>
     </tu>
     <tu>
