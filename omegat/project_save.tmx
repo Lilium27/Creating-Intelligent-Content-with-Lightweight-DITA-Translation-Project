@@ -40,8 +40,8 @@
       <tuv lang="en">
         <seg>(Kaplan, &lt;t0/&gt;2014)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T081023Z" creationid="DSS" creationdate="20200727T081023Z">
-        <seg>（卡普兰， 2014年）</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143423Z" creationid="DSS" creationdate="20200727T081023Z">
+        <seg>（卡普兰， &lt;t0/&gt;2014年）</seg>
       </tuv>
     </tu>
     <tu>
@@ -376,8 +376,8 @@
       <tuv lang="en">
         <seg>&lt;t4/&gt;20).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T152707Z" creationid="DSS" creationdate="20200726T152707Z">
-        <seg>20页）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143403Z" creationid="DSS" creationdate="20200726T152707Z">
+        <seg>&lt;t4/&gt;20页）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -448,8 +448,8 @@
       <tuv lang="en">
         <seg>&lt;t5/&gt;Others argue that in the world of computing code verbose languages are becoming obsolete, but intelligent content still relies on XML and its nested tag structures:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T155122Z" creationid="DSS" creationdate="20200726T152722Z">
-        <seg>还有些人认为，在计算代码的世界中，冗长的语言已经过时了，但是智能内容仍然依赖于 XML 及其嵌套的标签结构：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143411Z" creationid="DSS" creationdate="20200726T152722Z">
+        <seg>&lt;t5/&gt;还有些人认为，在计算代码的世界中，冗长的语言已经过时了，但是智能内容仍然依赖于 XML 及其嵌套的标签结构：</seg>
       </tuv>
     </tu>
     <tu>
@@ -608,8 +608,8 @@
       <tuv lang="en">
         <seg>Although an author does not even need to be familiar with XML in order to create information products in the workflows introduced in this book, the ideas presented in &lt;t0/&gt;Creating Intelligent Content with Lightweight DITA&lt;t1/&gt; are rooted in DITA and XML.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153105Z" creationid="DSS" creationdate="20200726T153105Z">
-        <seg>尽管在本书介绍的工作流中，创作者创建信息产品不需要对 XML 很熟悉，但本书的思想植根于 DITA 和 XML。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143607Z" creationid="DSS" creationdate="20200726T153105Z">
+        <seg>尽管在&lt;t0/&gt;本书&lt;t1/&gt;介绍的工作流中，创作者创建信息产品不需要对 XML 很熟悉，但本书的思想植根于 DITA 和 XML。</seg>
       </tuv>
     </tu>
     <tu>
@@ -736,8 +736,8 @@
       <tuv lang="en">
         <seg>As of summer &lt;t2/&gt;2018, &lt;t3/&gt;the list included &lt;t4/&gt;724 &lt;t5/&gt;companies, excluding consulting and training firms (DITAWriter, n.d.).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T141044Z" creationid="DSS" creationdate="20200726T141044Z">
-        <seg>截至2018年夏季，除咨询和培训公司外，该名单包括724家公司 （DITAWriter，未注明日期）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143326Z" creationid="DSS" creationdate="20200726T141044Z">
+        <seg>截至&lt;t2/&gt;2018&lt;t3/&gt;年夏季，除咨询和培训公司外，该名单包括&lt;t4/&gt;724&lt;t5/&gt;家公司 （DITAWriter，未注明日期）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1428,8 +1428,8 @@
       <tuv lang="en">
         <seg>In blogs and social media exchanges, some practitioners have &lt;t0/&gt;questioned the status of XML, and DITA, as the main markup language for infor&lt;t1/&gt;mation products.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T141200Z" creationid="DSS" creationdate="20200726T141200Z">
-        <seg>在博客和社交媒体的推文中，有的从业者表现出了对 XML 和 DITA 作为信息产品的主要标记语言的质疑。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143344Z" creationid="DSS" creationdate="20200726T141200Z">
+        <seg>在博客和社交媒体的推文中，有的从业者表现出了&lt;t0/&gt;对 XML 和 DITA 作为信息产品的主要标记语言的质疑。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2353,8 +2353,8 @@
       <tuv lang="en">
         <seg>While acknowledging DITA's effectiveness as a replacement for large user manuals in complex industries, a few authors lament that “this form of structured content can feel cold and clinical, especially to those from the editorial or marketing side of content” (Wachter-Boettcher, &lt;t2/&gt;2012, &lt;t3/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T141301Z" creationid="DSS" creationdate="20200726T141301Z">
-        <seg>一些创作者，特别是内容编辑和营销方面的创作者，他们虽然承认 DITA 可以有效地替代复杂行业中的大型用户手册，但同时也哀叹“这种结构化内容的形式会让人感到冷漠和没有人情味”（瓦赫特·伯特歇尔，2012年，第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143355Z" creationid="DSS" creationdate="20200726T141301Z">
+        <seg>一些创作者，特别是内容编辑和营销方面的创作者，他们虽然承认 DITA 可以有效地替代复杂行业中的大型用户手册，但同时也哀叹“这种结构化内容的形式会让人感到冷漠和没有人情味”（瓦赫特·伯特歇尔，&lt;t2/&gt;2012&lt;t3/&gt;年，第</seg>
       </tuv>
     </tu>
     <tu>
