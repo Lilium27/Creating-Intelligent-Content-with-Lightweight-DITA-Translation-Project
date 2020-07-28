@@ -1076,8 +1076,8 @@
       <tuv lang="en">
         <seg>FIGURE 1.7 &lt;t0/&gt;Navigation menu for a web transformation of Chef Pedro's recipe&lt;t1/&gt; critique project.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T080726Z" creationid="DSS" creationdate="20200726T080726Z">
-        <seg>图1.7 佩德罗菜谱评论项目 web 输出物的导航菜单。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150649Z" creationid="DSS" creationdate="20200726T080726Z">
+        <seg>图1.7 &lt;t0/&gt;佩德罗菜谱&lt;t1/&gt;评论项目 web 输出物的导航菜单。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1604,8 +1604,8 @@
       <tuv lang="en">
         <seg>Keep in mind that DITA &lt;t65/&gt;1.3 &lt;t66/&gt;has &lt;t67/&gt;26 &lt;t68/&gt;document types.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T074753Z" creationid="DSS" creationdate="20200726T074753Z">
-        <seg>请记住 DITA 标准 1.3版本中有26种文档类型。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150635Z" creationid="DSS" creationdate="20200726T074753Z">
+        <seg>请记住 DITA 标准&lt;t65/&gt;1.3 &lt;t66/&gt;版本中有&lt;t67/&gt;26 &lt;t68/&gt;种文档类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1636,8 +1636,8 @@
       <tuv lang="en">
         <seg>Let's go back to Chef Pedro, who is attempting now to structure some of his own recipes as tasks following specifications from the DITA &lt;t0/&gt;1.3 &lt;t1/&gt;standard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T075457Z" creationid="DSS" creationdate="20200726T073836Z">
-        <seg>让我们回到厨师佩德罗的例子上，他现在正试图按照 DITA 标准1.3版本的规范将自己的一些菜谱组织成任务（task）话题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150423Z" creationid="DSS" creationdate="20200726T073836Z">
+        <seg>让我们回到厨师佩德罗的例子上，他现在正试图按照 DITA 标准&lt;t0/&gt;1.3&lt;t1/&gt;版本的规范将自己的一些菜谱组织成任务（task）话题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1660,8 +1660,8 @@
       <tuv lang="en">
         <seg>Michael Priestley, Senior Technical Staff Member and Enterprise Content Technology Strategist at IBM and known as one of DITA's “founding fathers” (Etheridge, &lt;t0/&gt;2016), &lt;t1/&gt;defines Lightweight DITA (LwDITA, which should be read as “Lightweight DITA”) as a simplified schema for structuring content, with fewer elements, tighter content models and a simplified specialization archi&lt;t2/&gt;tecture to define new types compared to those of DITA XML.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T082353Z" creationid="DSS" creationdate="20200726T082353Z">
-        <seg>迈克尔·普里斯特利是 IBM 高级技术人员和企业内容技术策略师，被誉为 DITA 的“创始人”（埃瑟里奇，2016年），他认为轻量级 DITA （LwDITA，全称为“Lightweight DITA”）一种创建结构化内容的简单方式，与基于 XML 的 DITA  相比，可以用更少的元素、更紧凑的内容模型和简化的专有体系结构来定义新类型。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150708Z" creationid="DSS" creationdate="20200726T082353Z">
+        <seg>迈克尔·普里斯特利是 IBM 高级技术人员和企业内容技术策略师，被誉为 DITA 的“创始人”（埃瑟里奇，&lt;t0/&gt;2016&lt;t1/&gt;年），他认为轻量级 DITA （LwDITA，全称为“Lightweight DITA”）一种创建结构化内容的简单方式，与基于 XML 的 DITA  相比，可以用更少的元素、更紧凑的内容模型和简化的专有体系结构来定义新类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2032,8 +2032,8 @@
       <tuv lang="en">
         <seg>The process sounds simple, and the content components in the DITA &lt;t2/&gt;task&lt;t3/&gt; document type seem just right for structuring a recipe.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T073908Z" creationid="DSS" creationdate="20200726T073900Z">
-        <seg>这个过程听起来很简单，DITA 任务（task）文档类型中的内容组件似乎正好适合构建结构化菜谱，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150437Z" creationid="DSS" creationdate="20200726T073900Z">
+        <seg>这个过程听起来很简单，DITA 任务（&lt;t2/&gt;task&lt;t3/&gt;）文档类型中的内容组件似乎正好适合构建结构化菜谱，</seg>
       </tuv>
     </tu>
     <tu>
@@ -2120,8 +2120,8 @@
       <tuv lang="en">
         <seg>There can be some instances of the &lt;t4/&gt;&lt;step&gt; &lt;t5/&gt;ele&lt;t6/&gt;ment with a &lt;t7/&gt;&lt;cmd&gt; &lt;t8/&gt;for a command in each step, but things get quite complicated when Pedro looks at all the available elements in a task topic&lt;t9/&gt;2&lt;t10/&gt;, which include the following: &lt;t11/&gt;&lt;taskbody&gt;&lt;t12/&gt;, &lt;t13/&gt;&lt;prereq&gt;&lt;t14/&gt;, &lt;t15/&gt;&lt;context&gt;&lt;t16/&gt;, &lt;t17/&gt;&lt;steps&gt;&lt;t18/&gt;, &lt;t19/&gt;&lt;steps-informal&gt;&lt;t20/&gt;, &lt;t21/&gt;&lt;steps- unordered&gt;&lt;t22/&gt;, &lt;t23/&gt;&lt;step&gt;&lt;t24/&gt;, &lt;t25/&gt;&lt;stepsection&gt;&lt;t26/&gt;, &lt;t27/&gt;&lt;cmd&gt;&lt;t28/&gt;, &lt;t29/&gt;&lt;info&gt;&lt;t30/&gt;, &lt;t31/&gt;&lt;substeps&gt;&lt;t32/&gt;, &lt;t33/&gt;&lt;substep&gt;&lt;t34/&gt;, &lt;t35/&gt;&lt;stepxmp&gt;&lt;t36/&gt;, &lt;t37/&gt;&lt;choicetable&gt;&lt;t38/&gt;, &lt;t39/&gt;&lt;chhead&gt;&lt;t40/&gt;, &lt;t41/&gt;&lt;choptionhd&gt;&lt;t42/&gt;, &lt;t43/&gt;&lt;chdeschd&gt;&lt;t44/&gt;, &lt;t45/&gt;&lt;chrow&gt;&lt;t46/&gt;, &lt;t47/&gt;&lt;choption&gt;&lt;t48/&gt;, &lt;t49/&gt;&lt;chdesc&gt;&lt;t50/&gt;, &lt;t51/&gt;&lt;choices&gt;&lt;t52/&gt;, &lt;t53/&gt;&lt;steptroubleshooting&gt;&lt;t54/&gt;, &lt;t55/&gt;&lt;stepresult&gt;&lt;t56/&gt;, &lt;t57/&gt;&lt;tutorialinfo&gt;&lt;t58/&gt;, &lt;t59/&gt;&lt;tasktroubleshooting&gt;&lt;t60/&gt;, &lt;t61/&gt;&lt;result&gt;&lt;t62/&gt;, and &lt;t63/&gt;&lt;postreq&gt;&lt;t64/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T074717Z" creationid="DSS" creationdate="20200726T073904Z">
-        <seg>可能会用上一些 &lt;step&gt; 元素，并在每个步骤中使用 &lt;cmd&gt; 元素表示命令。但当 佩德罗查看任务（task）话题中的所有可用元素时，事情变得相当复杂，这些元素包括：&lt;t11/&gt;&lt;taskbody&gt;&lt;t12/&gt;, &lt;t13/&gt;&lt;prereq&gt;&lt;t14/&gt;, &lt;t15/&gt;&lt;context&gt;&lt;t16/&gt;, &lt;t17/&gt;&lt;steps&gt;&lt;t18/&gt;, &lt;t19/&gt;&lt;steps-informal&gt;&lt;t20/&gt;, &lt;t21/&gt;&lt;steps- unordered&gt;&lt;t22/&gt;, &lt;t23/&gt;&lt;step&gt;&lt;t24/&gt;, &lt;t25/&gt;&lt;stepsection&gt;&lt;t26/&gt;, &lt;t27/&gt;&lt;cmd&gt;&lt;t28/&gt;, &lt;t29/&gt;&lt;info&gt;&lt;t30/&gt;, &lt;t31/&gt;&lt;substeps&gt;&lt;t32/&gt;, &lt;t33/&gt;&lt;substep&gt;&lt;t34/&gt;, &lt;t35/&gt;&lt;stepxmp&gt;&lt;t36/&gt;, &lt;t37/&gt;&lt;choicetable&gt;&lt;t38/&gt;, &lt;t39/&gt;&lt;chhead&gt;&lt;t40/&gt;, &lt;t41/&gt;&lt;choptionhd&gt;&lt;t42/&gt;, &lt;t43/&gt;&lt;chdeschd&gt;&lt;t44/&gt;, &lt;t45/&gt;&lt;chrow&gt;&lt;t46/&gt;, &lt;t47/&gt;&lt;choption&gt;&lt;t48/&gt;, &lt;t49/&gt;&lt;chdesc&gt;&lt;t50/&gt;, &lt;t51/&gt;&lt;choices&gt;&lt;t52/&gt;, &lt;t53/&gt;&lt;steptroubleshooting&gt;&lt;t54/&gt;, &lt;t55/&gt;&lt;stepresult&gt;&lt;t56/&gt;, &lt;t57/&gt;&lt;tutorialinfo&gt;&lt;t58/&gt;, &lt;t59/&gt;&lt;tasktroubleshooting&gt;&lt;t60/&gt;, &lt;t61/&gt;&lt;result&gt;&lt;t62/&gt;, and &lt;t63/&gt;&lt;postreq&gt;&lt;t64/&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150607Z" creationid="DSS" creationdate="20200726T073904Z">
+        <seg>可能会用上一些  &lt;t4/&gt;&lt;step&gt; &lt;t5/&gt; &lt;t6/&gt;元素，并在每个步骤中使用 &lt;t7/&gt;&lt;cmd&gt; &lt;t8/&gt; 元素表示命令。但当 佩德罗查看任务（task）话题&lt;t9/&gt;2&lt;t10/&gt;中的所有可用元素时，事情变得相当复杂，这些元素包括：&lt;t11/&gt;&lt;taskbody&gt;&lt;t12/&gt;, &lt;t13/&gt;&lt;prereq&gt;&lt;t14/&gt;, &lt;t15/&gt;&lt;context&gt;&lt;t16/&gt;, &lt;t17/&gt;&lt;steps&gt;&lt;t18/&gt;, &lt;t19/&gt;&lt;steps-informal&gt;&lt;t20/&gt;, &lt;t21/&gt;&lt;steps- unordered&gt;&lt;t22/&gt;, &lt;t23/&gt;&lt;step&gt;&lt;t24/&gt;, &lt;t25/&gt;&lt;stepsection&gt;&lt;t26/&gt;, &lt;t27/&gt;&lt;cmd&gt;&lt;t28/&gt;, &lt;t29/&gt;&lt;info&gt;&lt;t30/&gt;, &lt;t31/&gt;&lt;substeps&gt;&lt;t32/&gt;, &lt;t33/&gt;&lt;substep&gt;&lt;t34/&gt;, &lt;t35/&gt;&lt;stepxmp&gt;&lt;t36/&gt;, &lt;t37/&gt;&lt;choicetable&gt;&lt;t38/&gt;, &lt;t39/&gt;&lt;chhead&gt;&lt;t40/&gt;, &lt;t41/&gt;&lt;choptionhd&gt;&lt;t42/&gt;, &lt;t43/&gt;&lt;chdeschd&gt;&lt;t44/&gt;, &lt;t45/&gt;&lt;chrow&gt;&lt;t46/&gt;, &lt;t47/&gt;&lt;choption&gt;&lt;t48/&gt;, &lt;t49/&gt;&lt;chdesc&gt;&lt;t50/&gt;, &lt;t51/&gt;&lt;choices&gt;&lt;t52/&gt;, &lt;t53/&gt;&lt;steptroubleshooting&gt;&lt;t54/&gt;, &lt;t55/&gt;&lt;stepresult&gt;&lt;t56/&gt;, &lt;t57/&gt;&lt;tutorialinfo&gt;&lt;t58/&gt;, &lt;t59/&gt;&lt;tasktroubleshooting&gt;&lt;t60/&gt;, &lt;t61/&gt;&lt;result&gt;&lt;t62/&gt;, and &lt;t63/&gt;&lt;postreq&gt;&lt;t64/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
