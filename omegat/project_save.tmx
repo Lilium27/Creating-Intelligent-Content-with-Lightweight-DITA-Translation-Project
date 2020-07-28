@@ -176,8 +176,8 @@
       <tuv lang="en">
         <seg>&lt;t14/&gt;156) &lt;t15/&gt;and argued that “technical communicators should be able to write, edit, and manage XML documentation, including XML tags, &lt;t16/&gt;document type definitions (DTDs), XML schemas, and Darwin Information Typing Architecture (DITA)” (Gesteland McShane, &lt;t17/&gt;2009, &lt;t18/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T062940Z" creationid="DSS" creationdate="20200723T161903Z">
-        <seg>&lt;t14/&gt;156页）&lt;t15/&gt;，并认为“技术传播者应该具备编写、编辑和管理XML文档的能力，这包括 XML 标记，文档类型定义（DTD）,，XML 体系结构和 DITA”（杰斯特兰德·麦柯肖恩，&lt;t17/&gt;2009年， &lt;t18/&gt;第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T142958Z" creationid="DSS" creationdate="20200723T161903Z">
+        <seg>&lt;t14/&gt;156页）&lt;t15/&gt;，并认为“技术传播者应该具备编写、编辑和管理XML文档的能力，这包括 XML 标记，&lt;t16/&gt;文档类型定义（DTD）,，XML 体系结构和 DITA”（杰斯特兰德·麦柯肖恩，&lt;t17/&gt;2009年， &lt;t18/&gt;第</seg>
       </tuv>
     </tu>
     <tu>
@@ -216,16 +216,16 @@
       <tuv lang="en">
         <seg>&lt;t19/&gt;74).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T064534Z" creationid="DSS" creationdate="20200725T064534Z">
-        <seg>74页）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143006Z" creationid="DSS" creationdate="20200725T064534Z">
+        <seg>&lt;t19/&gt;74页）。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;t2/&gt;116).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T160301Z" creationid="DSS" creationdate="20200723T160301Z">
-        <seg>116页）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T142859Z" creationid="DSS" creationdate="20200723T160301Z">
+        <seg>&lt;t2/&gt;116页）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -368,8 +368,8 @@
       <tuv lang="en">
         <seg>&lt;t4/&gt;19).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T090515Z" creationid="DSS" creationdate="20200726T090515Z">
-        <seg>19页）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143047Z" creationid="DSS" creationdate="20200726T090515Z">
+        <seg>&lt;t4/&gt;19页）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -424,8 +424,8 @@
       <tuv lang="en">
         <seg>&lt;t5/&gt;Academic discussion related to the implementation and innovation of intelligent content has been slow, as evidenced by the titles and abstracts of presentations and publications from &lt;t6/&gt;2012 &lt;t7/&gt;to &lt;t8/&gt;2018 &lt;t9/&gt;in relevant conferences and journals, respectively.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140629Z" creationid="DSS" creationdate="20200726T140629Z">
-        <seg>从2012年至2018年相关会议和期刊上发表的演讲和出版物的标题和摘要可以看出，与推进和创新智能相关的学术讨论进展缓慢。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143122Z" creationid="DSS" creationdate="20200726T140629Z">
+        <seg>&lt;t5/&gt;从&lt;t6/&gt;2012 &lt;t7/&gt;年至 &lt;t8/&gt;2018 &lt;t9/&gt;年相关会议和期刊上发表的演讲和出版物的标题和摘要可以看出，与推进和创新智能相关的学术讨论进展缓慢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1292,8 +1292,8 @@
       <tuv lang="en">
         <seg>However, “many of the pedagogical concerns of academic instructors in professional and technical communication have changed little over the past decade, even as practitioner discourse has continued to spin off in the direction of content strategy and similar areas” (Clark, &lt;t2/&gt;2016, &lt;t3/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140523Z" creationid="DSS" creationdate="20200726T140445Z">
-        <seg>然而，“在过去的十年里，即使技术传播从业者的讨论焦点继续在内容策略和类似领域的方向上发展，学术讲师在专业传播和技术传播中的许多教学关注点几乎没有变化”（克拉克，2016，第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143039Z" creationid="DSS" creationdate="20200726T140445Z">
+        <seg>然而，“在过去的十年里，即使技术传播从业者的讨论焦点继续在内容策略和类似领域的方向上发展，学术讲师在专业传播和技术传播中的许多教学关注点几乎没有变化”（克拉克，&lt;t2/&gt;2016， &lt;t3/&gt;第</seg>
       </tuv>
     </tu>
     <tu>
@@ -2273,8 +2273,8 @@
       <tuv lang="en">
         <seg>Traditionally, and as mentioned in the Adobe video, intelligent content work&lt;t0/&gt;flows for technical communication rely on structure provided by Extensible Markup Language (XML) and some of its specific grammars like DocBook, S1000D, and DITA (Cowan, &lt;t1/&gt;2010; &lt;t2/&gt;Glushko &lt;t3/&gt;&amp; &lt;t4/&gt;McGrath, &lt;t5/&gt;2008; &lt;t6/&gt;Hackos, &lt;t7/&gt;2011, &lt;t8/&gt;among others).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140838Z" creationid="DSS" creationdate="20200726T140838Z">
-        <seg>从传统上来看，也正如在 Adobe 视频中提到的，用于技术传播的智能内容工作流依赖于可扩展标记语言（XML）的结构及其一些特定的语法，如 DocBook、S1000D 和 DITA （考恩，2010年；格鲁什科、麦格拉，2008年；哈克斯， 2011年）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143301Z" creationid="DSS" creationdate="20200726T140838Z">
+        <seg>从传统上来看，也正如在 Adobe 视频中提到的，用于技术传播的智能内容工作流依赖于可扩展标记语言（XML）的结构及其一些特定的语法，如 DocBook、S1000D 和 DITA （考恩，&lt;t1/&gt;2010年；&lt;t2/&gt;格鲁什科&lt;t3/&gt;、&lt;t4/&gt;麦格拉，&lt;t5/&gt;2008年；&lt;t6/&gt;哈克斯， &lt;t7/&gt;2011年）。&lt;t8/&gt;</seg>
       </tuv>
     </tu>
     <tu>
