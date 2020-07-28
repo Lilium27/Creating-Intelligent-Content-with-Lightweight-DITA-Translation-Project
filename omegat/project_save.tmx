@@ -144,8 +144,8 @@
       <tuv lang="en">
         <seg>&lt;t10/&gt;Actually, the all- inclusive edition of the DITA &lt;t11/&gt;1.3 &lt;t12/&gt;standard has &lt;t13/&gt;26 &lt;t14/&gt;document types (predefined document, or even genre, templates) and &lt;t15/&gt;621 &lt;t16/&gt;element types (placeholders or structures for specific content moves).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T083511Z" creationid="DSS" creationdate="20200725T083511Z">
-        <seg>实际上，DITA 1.3标准的完整版本包含26种文档类型（预定义文档、类型或模板）和621种元素类型（用于特定内容操作的占位符或结构）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145654Z" creationid="DSS" creationdate="20200725T083511Z">
+        <seg>&lt;t10/&gt;实际上，DITA &lt;t11/&gt;1.3&lt;t12/&gt;标准的完整版本包含&lt;t13/&gt;26&lt;t14/&gt;种文档类型（预定义文档、类型或模板）和&lt;t15/&gt;621&lt;t16/&gt;种元素类型（用于特定内容操作的占位符或结构）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1028,8 +1028,8 @@
       <tuv lang="en">
         <seg>Even in its base edition, DITA &lt;t17/&gt;1.3 &lt;t18/&gt;has &lt;t19/&gt;4 &lt;t20/&gt;document types and &lt;t21/&gt;189 &lt;t22/&gt;element types.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T084159Z" creationid="DSS" creationdate="20200725T084159Z">
-        <seg>即使 DITA 1.3标准基础版本也包括4种文档类型和189种元素类型。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145730Z" creationid="DSS" creationdate="20200725T084159Z">
+        <seg>即使 DITA &lt;t17/&gt;1.3&lt;t18/&gt;标准基础版本也包括&lt;t19/&gt;4&lt;t20/&gt;种文档类型和&lt;t21/&gt;189&lt;t22/&gt;种元素类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1052,8 +1052,8 @@
       <tuv lang="en">
         <seg>FIGURE 1.4 &lt;t0/&gt;Marinara sauce DITA task transformed to a PDF deliverable.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T151211Z" creationid="DSS" creationdate="20200725T084913Z">
-        <seg>图1.4 意式番茄罗勒酱 DITA 任务（task）话题转换生成的 PDF 交付文件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145743Z" creationid="DSS" creationdate="20200725T084913Z">
+        <seg>图1.4 &lt;t0/&gt;意式番茄罗勒酱 DITA 任务（task）话题转换生成的 PDF 交付文件。</seg>
       </tuv>
     </tu>
     <tu>
