@@ -64,8 +64,8 @@
       <tuv lang="en">
         <seg>(Priestley, quoted in Etheridge, &lt;t0/&gt;2016)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T083909Z" creationid="DSS" creationdate="20200726T083909Z">
-        <seg>（普里斯特利，引自埃瑟里奇，2016年）</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150749Z" creationid="DSS" creationdate="20200726T083909Z">
+        <seg>（普里斯特利，引自埃瑟里奇，&lt;t0/&gt;2016年）</seg>
       </tuv>
     </tu>
     <tu>
@@ -907,8 +907,8 @@
       <tuv lang="en">
         <seg>Creating Intelligent Content with Lightweight DITA&lt;t0/&gt; introduces and ana&lt;t1/&gt;lyzes LwDITA as an approach for developing intelligent content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T085113Z" creationid="DSS" creationdate="20200726T085113Z">
-        <seg>本书介绍并分析了可以用于开发智能内容的 LwDITA，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150808Z" creationid="DSS" creationdate="20200726T085113Z">
+        <seg>本书&lt;t0/&gt;介绍并分析了可以用于开发智能内容的 LwDITA，</seg>
       </tuv>
     </tu>
     <tu>
@@ -1919,8 +1919,8 @@
       <tuv lang="en">
         <seg>That simplification makes it possible to implement DITA without XML &lt;t0/&gt;一 &lt;t1/&gt;for example using Markdown, or HTML5.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T083733Z" creationid="DSS" creationdate="20200726T083733Z">
-        <seg>轻量级 DITA 可以实现在不使用 XML 的情况下创建 DITA，比如使用 Markdown 或 HTML5。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150727Z" creationid="DSS" creationdate="20200726T083733Z">
+        <seg>轻量级 DITA 可以实现在不使用 XML 的情况下创建 DITA，&lt;t0/&gt;&lt;t1/&gt;比如使用 Markdown 或 HTML5。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2232,8 +2232,8 @@
       <tuv lang="en">
         <seg>Those concerns and doubts revolve around a major point of discrepancy in the world of technical communication: in industry, XML and DITA are widely used and some critics even see them as outdated and complex; in academia, “faculty are simply ignoring the subject, even though it has played a central role in the practitioner literature” (Clark, &lt;t2/&gt;2016, &lt;t3/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140312Z" creationid="DSS" creationdate="20200726T085141Z">
-        <seg>这些担忧和怀疑围绕着技术传播领域的一个主要差异点而存在：在工业界，XML 和 DITA 被广泛使用，一些批评者甚至认为它们过于复杂，并且已经过时；而在学术界，“尽管 DITA 在从业者编写的文档中扮演着核心角色，教师们却完全忽视了它”（克拉克，2016年，第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150816Z" creationid="DSS" creationdate="20200726T085141Z">
+        <seg>这些担忧和怀疑围绕着技术传播领域的一个主要差异点而存在：在工业界，XML 和 DITA 被广泛使用，一些批评者甚至认为它们过于复杂，并且已经过时；而在学术界，“尽管 DITA 在从业者编写的文档中扮演着核心角色，教师们却完全忽视了它”（克拉克，&lt;&lt;t2/&gt;2016年，&lt;t3/&gt;第</seg>
       </tuv>
     </tu>
     <tu>
