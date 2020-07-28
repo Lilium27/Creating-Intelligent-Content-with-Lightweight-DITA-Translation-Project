@@ -24,8 +24,8 @@
       <tuv lang="en">
         <seg>(Day, quoted in DitaWriter, &lt;t0/&gt;2016)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154704Z" creationid="DSS" creationdate="20200726T154704Z">
-        <seg>（戴，引自DitaWriter，2016年）</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144117Z" creationid="DSS" creationdate="20200726T154704Z">
+        <seg>（戴，引自DitaWriter，&lt;t0/&gt;2016年）</seg>
       </tuv>
     </tu>
     <tu>
@@ -56,8 +56,8 @@
       <tuv lang="en">
         <seg>(O'Keefe, &lt;t0/&gt;2009, &lt;t1/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154121Z" creationid="DSS" creationdate="20200726T154121Z">
-        <seg>（奥基夫，2009年，第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143936Z" creationid="DSS" creationdate="20200726T154121Z">
+        <seg>（奥基夫，&lt;t0/&gt;2009年，&lt;t1/&gt;第</seg>
       </tuv>
     </tu>
     <tu>
@@ -184,8 +184,8 @@
       <tuv lang="en">
         <seg>&lt;t14/&gt;42).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153241Z" creationid="DSS" creationdate="20200726T153241Z">
-        <seg>42页）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143802Z" creationid="DSS" creationdate="20200726T153241Z">
+        <seg>&lt;t14/&gt;42页）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -200,8 +200,8 @@
       <tuv lang="en">
         <seg>&lt;t15/&gt;Content in XML, for example, can be tagged as a product name, a procedure, a works cited entry, or any other part of a technical or professional document.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153251Z" creationid="DSS" creationdate="20200726T153251Z">
-        <seg>例如，XML中 的内容可以标记为一个产品名称、一个步骤、一个作品引用条目，或技术或专业文档的任何一部分。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143817Z" creationid="DSS" creationdate="20200726T153251Z">
+        <seg>&lt;t15/&gt;例如，XML中 的内容可以标记为一个产品名称、一个步骤、一个作品引用条目，或技术或专业文档的任何一部分。</seg>
       </tuv>
     </tu>
     <tu>
@@ -232,32 +232,32 @@
       <tuv lang="en">
         <seg>&lt;t2/&gt;14):</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153602Z" creationid="DSS" creationdate="20200726T153602Z">
-        <seg>14页）:</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143840Z" creationid="DSS" creationdate="20200726T153602Z">
+        <seg>&lt;t2/&gt;14页）:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;t2/&gt;15)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154132Z" creationid="DSS" creationdate="20200726T154132Z">
-        <seg>15页）</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143953Z" creationid="DSS" creationdate="20200726T154132Z">
+        <seg>&lt;t2/&gt;15页）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;t2/&gt;15).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154024Z" creationid="DSS" creationdate="20200726T154024Z">
-        <seg>15页）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143916Z" creationid="DSS" creationdate="20200726T154024Z">
+        <seg>&lt;t2/&gt;15页）。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;t2/&gt;16) &lt;t3/&gt;(&lt;t4/&gt;Figure &lt;t5/&gt;1.2&lt;t6/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154233Z" creationid="DSS" creationdate="20200726T154233Z">
-        <seg>16页）（图1.2）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144018Z" creationid="DSS" creationdate="20200726T154233Z">
+        <seg>&lt;t2/&gt;16页）&lt;t3/&gt;（&lt;t4/&gt;图&lt;t5/&gt;1.2&lt;t6/&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -344,8 +344,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;O'Keefe's extended definition includes the following features of XML:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154032Z" creationid="DSS" creationdate="20200726T154032Z">
-        <seg>奥基夫的扩展定义包括以下 XML 特性：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143946Z" creationid="DSS" creationdate="20200726T154032Z">
+        <seg>&lt;t3/&gt;奥基夫的扩展定义包括以下 XML 特性：</seg>
       </tuv>
     </tu>
     <tu>
@@ -528,8 +528,8 @@
       <tuv lang="en">
         <seg>A chef might not be familiar with scholarship in writing studies, but authors like Karl Stolley, in his influential “The Lo-Fi Manifesto,” have argued for the adoption of open standards over software packages, identifying it as the only way to ensure that “digital works should long outlast the software that played a role in their creation” (Stolley, &lt;t0/&gt;2008).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153939Z" creationid="DSS" creationdate="20200726T153939Z">
-        <seg>厨师可能不太认识研究写作的学者，但卡尔·斯多利等作者在其颇具影响的文章《低保真宣言》（The Lo-Fi Manifesto）中主张在软件包中采用开放标准，并认为这是唯一可以确保“在数字作品的创作过程中，使数字作品比软件流传更加久远”的方法（斯多利，2008年）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143852Z" creationid="DSS" creationdate="20200726T153939Z">
+        <seg>厨师可能不太认识研究写作的学者，但卡尔·斯多利等作者在其颇具影响的文章《低保真宣言》（The Lo-Fi Manifesto）中主张在软件包中采用开放标准，并认为这是唯一可以确保“在数字作品的创作过程中，使数字作品比软件流传更加久远”的方法（斯多利，&lt;t0/&gt;2008年）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -544,8 +544,8 @@
       <tuv lang="en">
         <seg>A search for “XML” &lt;t2/&gt;on &lt;t3/&gt;amazon.com&lt;t4/&gt; reveals more than &lt;t5/&gt;1,100 &lt;t6/&gt;results under the “Books: Computers &lt;t7/&gt;&amp; &lt;t8/&gt;Technology: Programming Languages” category.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153159Z" creationid="DSS" creationdate="20200726T153159Z">
-        <seg>在亚马逊网站上搜索“XML”，在“图书-计算机和技术-编程语言”类别下，有1100多个搜索结果。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143718Z" creationid="DSS" creationdate="20200726T153159Z">
+        <seg>&lt;t2/&gt;在&lt;t3/&gt;亚马逊&lt;t4/&gt;网站上搜索“XML”，在“图书-计算机和技术-编程语言”类别下，有&lt;t5/&gt;1100&lt;t6/&gt;多个搜索结果。&lt;t7/&gt;&lt;t8/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -800,8 +800,8 @@
       <tuv lang="en">
         <seg>By &lt;t2/&gt;1999, &lt;t3/&gt;Dave was aware of my participation as IBM's primary representa&lt;t4/&gt;tive with the XSLT and CSS standards activities at the World Wide Web Consortium, and I delivered a presentation at a formative meeting in California that forecast the possibility of XML to solve IBM's still-linger&lt;t5/&gt;ing problems with variant tools and markup usage.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154657Z" creationid="DSS" creationdate="20200726T154657Z">
-        <seg>1999年，戴夫知道我作为 IBM 的主要代表参与万维网联盟关于 XSLT 和 CSS 标准的活动,，并在加州一个影响重大的会议上做了一次演讲，预言可以使用通过各种工具和标记，借助 XML 来解决 IBM 目前仍然存在的问题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144108Z" creationid="DSS" creationdate="20200726T154657Z">
+        <seg>&lt;t2/&gt;1999年，&lt;t3/&gt;戴夫知道我作为 IBM 的主要代表参与万维网联盟关于 XSLT 和 CSS 标准的活动,，并在加州一个影响重大的会议上做了一次演讲，预言可以使用通过各种工具和标记，借助 XML 来解决 IBM 目前仍然存在的问题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1044,8 +1044,8 @@
       <tuv lang="en">
         <seg>FIGURE 1.2 &lt;t0/&gt;Sarah O'Keefe's sample recipe for marinara sauce in XML.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T155238Z" creationid="DSS" creationdate="20200726T154357Z">
-        <seg>图1.2 莎拉·奥基夫提供的 XML 格式的意式番茄罗勒酱菜谱示例。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144027Z" creationid="DSS" creationdate="20200726T154357Z">
+        <seg>图1.2 &lt;t0/&gt;莎拉·奥基夫提供的 XML 格式的意式番茄罗勒酱菜谱示例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1108,8 +1108,8 @@
       <tuv lang="en">
         <seg>First, I define XML for the specific context of &lt;t0/&gt;Creating Intelligent Content with Lightweight DITA&lt;t1/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153146Z" creationid="DSS" creationdate="20200726T153146Z">
-        <seg>首先，我会基于本书具体的语境定义 XML。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143620Z" creationid="DSS" creationdate="20200726T153146Z">
+        <seg>首先，我会基于&lt;t0/&gt;本书&lt;t1/&gt;具体的语境定义 XML。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1212,8 +1212,8 @@
       <tuv lang="en">
         <seg>From the practitioner side of technical communication, O'Keefe points out that XML “defines a standard for storing structured content in text files” &lt;t0/&gt;(2009, &lt;t1/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154021Z" creationid="DSS" creationdate="20200726T154021Z">
-        <seg>从技术传播的从业者的角度来看，奥基夫指出 XML “定义了在文本文件中存储结构化内容的标准”（2009年，第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143908Z" creationid="DSS" creationdate="20200726T154021Z">
+        <seg>从技术传播的从业者的角度来看，奥基夫指出 XML “定义了在文本文件中存储结构化内容的标准”&lt;t0/&gt;（2009年，&lt;t1/&gt;第</seg>
       </tuv>
     </tu>
     <tu>
@@ -1444,8 +1444,8 @@
       <tuv lang="en">
         <seg>In one of the contrasting moves of their definition, they posit XML as different from Hypertext Markup Language (HTML) and other type&lt;t9/&gt;setting and formatting syntaxes because it enables the processes of “identifying, separating, and recombining” content for different purposes (Applen &lt;t10/&gt;&amp; &lt;t11/&gt;McDaniel, &lt;t12/&gt;2009, &lt;t13/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153237Z" creationid="DSS" creationdate="20200726T153237Z">
-        <seg>在他们的定义中，有一点非常不同，他们认为 XML 不同于超文本标记语言（HTML）以及其他排版和格式化语法，因为它能够实现针对不同目的“内容识别、内容分离和内容重”（埃普伦、 麦克丹尼尔，2009年，第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143755Z" creationid="DSS" creationdate="20200726T153237Z">
+        <seg>在他们的定义中，有一点非常不同，他们认为 XML 不同于超文本标记语言（HTML）以及其他&lt;t9/&gt;排版和格式化语法，因为它能够实现针对不同目的“内容识别、内容分离和内容重”（埃普伦&lt;t10/&gt;、&lt;t11/&gt; 麦克丹尼尔，&lt;t12/&gt;2009&lt;t13/&gt;年，第</seg>
       </tuv>
     </tu>
     <tu>
@@ -2096,8 +2096,8 @@
       <tuv lang="en">
         <seg>The&lt;t1/&gt; structured recipe keeps content organized and should help computers understand and manipulate elements and attributes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154404Z" creationid="DSS" creationdate="20200726T154404Z">
-        <seg>这个结构化的菜谱内容组织有序，有助于计算机理解并操作元素和属性。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144036Z" creationid="DSS" creationdate="20200726T154404Z">
+        <seg>这个&lt;t1/&gt;结构化的菜谱内容组织有序，有助于计算机理解并操作元素和属性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2256,8 +2256,8 @@
       <tuv lang="en">
         <seg>To create information deliverables ready for human consumption, XML files need to go through a process of publishing that, according to O'Keefe, can involve the following roles, which “in a small group, one person may hold any or all” &lt;t0/&gt;(2009, &lt;t1/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153553Z" creationid="DSS" creationdate="20200726T153553Z">
-        <seg>要创建可供人类使用的可交付成果，XML 文件需要经过一个发布流程。根据奥基夫（O'Keefe）的观点，这个发布流程可能涉及以下角色，“而在一个小团队中，一个人可能会承担部分或所有角色”（2009年，第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143833Z" creationid="DSS" creationdate="20200726T153553Z">
+        <seg>要创建可供人类使用的可交付成果，XML 文件需要经过一个发布流程。根据奥基夫（O'Keefe）的观点，这个发布流程可能涉及以下角色，“而在一个小团队中，一个人可能会承担部分或所有角色”&lt;t0/&gt;（2009年，&lt;t1/&gt;第</seg>
       </tuv>
     </tu>
     <tu>
@@ -2377,8 +2377,8 @@
       <tuv lang="en">
         <seg>With the advent of XML as a new markup standard in &lt;t0/&gt;1998, &lt;t1/&gt;the Customer and Service Information (C&amp;SI) group began adopting a Tools and Technology mantra under Dave Schell who was the strategy lead.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154628Z" creationid="DSS" creationdate="20200726T154628Z">
-        <seg>随着1998年 XML 作为一种新的标记标准的出现，客户和服务信息组（C&amp;SI）在战略领导人戴夫·席尔（Dave Schell）的带领下，开始采用一种工具和技术准则。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144051Z" creationid="DSS" creationdate="20200726T154628Z">
+        <seg>随着&lt;t0/&gt;1998&lt;t1/&gt;年 XML 作为一种新的标记标准的出现，客户和服务信息组（C&amp;SI）在战略领导人戴夫·席尔（Dave Schell）的带领下，开始采用一种工具和技术准则。</seg>
       </tuv>
     </tu>
     <tu>
