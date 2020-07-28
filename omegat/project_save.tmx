@@ -16,8 +16,8 @@
       <tuv lang="en">
         <seg>(Day et al., &lt;t0/&gt;2001).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154727Z" creationid="DSS" creationdate="20200726T154727Z">
-        <seg>（戴等，2001年）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144125Z" creationid="DSS" creationdate="20200726T154727Z">
+        <seg>（戴等，&lt;t0/&gt;2001年）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -136,8 +136,8 @@
       <tuv lang="en">
         <seg>&lt;t1/&gt;Day explained that, when naming the standard, DITA “represented a great deal of messaging in a compact and memorable acronym:”</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154755Z" creationid="DSS" creationdate="20200726T154755Z">
-        <seg>戴解释说，在命名该标准时，是想用DITA“这个简洁易记的缩写词传递大量信息”：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144132Z" creationid="DSS" creationdate="20200726T154755Z">
+        <seg>&lt;t1/&gt;戴解释说，在命名该标准时，是想用DITA“这个简洁易记的缩写词传递大量信息”：</seg>
       </tuv>
     </tu>
     <tu>
@@ -400,8 +400,8 @@
       <tuv lang="en">
         <seg>&lt;t4/&gt;6).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154855Z" creationid="DSS" creationdate="20200726T154855Z">
-        <seg>6页）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144229Z" creationid="DSS" creationdate="20200726T154855Z">
+        <seg>&lt;t4/&gt;6页）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -432,8 +432,8 @@
       <tuv lang="en">
         <seg>&lt;t5/&gt;At the OASIS DITA Technical Committee, the standard continually evolves with the purpose “to define and maintain the Darwin Information Typing Architecture (DITA) and to promote the use of the architecture for creating standard information types and domain-specific markup vocabularies” (OASIS Darwin Information Typing Architecture TC, n.d.).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154906Z" creationid="DSS" creationdate="20200726T154906Z">
-        <seg>在 OASIS DITA 技术委员会的推进下，DITA 不断发展，OASIS 致力于“定义和维护达尔文信息类型体系结构（DITA），并提倡使用该体系结构创建标准信息类型和特定领域的标记词汇表”。（OASIS DITA技术委员会，未注明日期）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144236Z" creationid="DSS" creationdate="20200726T154906Z">
+        <seg>&lt;t5/&gt;在 OASIS DITA 技术委员会的推进下，DITA 不断发展，OASIS 致力于“定义和维护达尔文信息类型体系结构（DITA），并提倡使用该体系结构创建标准信息类型和特定领域的标记词汇表”。（OASIS DITA技术委员会，未注明日期）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -972,8 +972,8 @@
       <tuv lang="en">
         <seg>DITA, however, “has evolved substantially since that initial donation to encompass a very wide scope of require&lt;t1/&gt;ments indeed” (Kimber, &lt;t2/&gt;2012, &lt;t3/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154851Z" creationid="DSS" creationdate="20200726T154851Z">
-        <seg>不过 DITA “自捐赠后，已经有了很大的发展，涵盖了非常广泛的需求”（金柏，2012年，第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144221Z" creationid="DSS" creationdate="20200726T154851Z">
+        <seg>不过 DITA “自捐赠后，已经有了很大的发展，涵盖了非常广泛的需求”（金柏，&lt;t2/&gt;2012&lt;t3/&gt;年，第</seg>
       </tuv>
     </tu>
     <tu>
@@ -2545,8 +2545,8 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;Darwin&lt;t1/&gt;: for specialization and how things could “evolve” from a base &lt;t2/&gt;• &lt;t3/&gt;Information Typing&lt;t4/&gt;: for representation of knowledge as typed units &lt;t5/&gt;• &lt;t6/&gt;Architecture&lt;t7/&gt;: a statement that this was not just a monolithic design but an exten&lt;t8/&gt;sible tool that could support many uses (Day, quoted in DITAWriter, &lt;t9/&gt;2016).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T082359Z" creationid="DSS" creationdate="20200726T154813Z">
-        <seg>&lt;t0/&gt;达尔文&lt;t1/&gt;：代表专业化以及事物如何从一个基础“演化”；&lt;t2/&gt;•&lt;t3/&gt;信息类型化&lt;t4/&gt;：用不同类型单元表示知识； &lt;t5/&gt;• &lt;t6/&gt;架构&lt;t7/&gt;：表示这不仅仅是一个整体设计理念，还是一个可扩展的工具，可以支持多种用途（戴，引自 DitaWriter，2016年）。
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144206Z" creationid="DSS" creationdate="20200726T154813Z">
+        <seg>•&lt;t0/&gt;达尔文&lt;t1/&gt;：代表专业化以及事物如何从一个基础“演化”；&lt;t2/&gt;•&lt;t3/&gt;信息类型化&lt;t4/&gt;：用不同类型单元表示知识； &lt;t5/&gt;• &lt;t6/&gt;架构&lt;t7/&gt;：表示这不仅仅是一个整体设计理念，还是一个可扩展的工具，可以支持多种用途（戴，引自 DitaWriter，&lt;t9/&gt;2016年）。
 </seg>
       </tuv>
     </tu>
