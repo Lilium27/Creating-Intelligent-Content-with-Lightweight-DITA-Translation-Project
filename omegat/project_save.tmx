@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t10/&gt;178).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095112Z" creationid="DSS" creationdate="20200730T095112Z">
+        <seg>&lt;t10/&gt;第178页）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t10/&gt;Actually, the all- inclusive edition of the DITA &lt;t11/&gt;1.3 &lt;t12/&gt;standard has &lt;t13/&gt;26 &lt;t14/&gt;document types (predefined document, or even genre, templates) and &lt;t15/&gt;621 &lt;t16/&gt;element types (placeholders or structures for specific content moves).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145654Z" creationid="DSS" creationdate="20200725T083511Z">
@@ -334,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t3/&gt;156-157).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T094946Z" creationid="DSS" creationdate="20200730T094946Z">
+        <seg>156-157页）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t3/&gt;54).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T155957Z" creationid="DSS" creationdate="20200720T153935Z">
@@ -458,6 +474,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T142718Z" creationid="DSS" creationdate="20200720T155448Z">
         <seg>&lt;t4/&gt;在许多技术传播实践中，“有效内容的重用不是复制粘贴，而是&lt;t5/&gt;引用&lt;t6/&gt;，即在一个地方创作内容，在其他地方引用该内容”（埃伯莱因，&lt;t7/&gt;2016年， &lt;t8/&gt; 第</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t4/&gt;In using terminology from evolution to describe how genres change (or &lt;t5/&gt;evolve&lt;t6/&gt;) in society, Miller does not “want to be under&lt;t7/&gt;stood as suggesting that our understanding of cultural change must borrow from biology.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095032Z" creationid="DSS" creationdate="20200730T095018Z">
+        <seg>&lt;t4/&gt;在使用关于进化的术语来描述社会中体裁如何演化（或&lt;t5/&gt;进化&lt;t6/&gt;）时，米勒并不想“被理解为这是在提倡对文化变革的理解必须借鉴生物学的概念。</seg>
       </tuv>
     </tu>
     <tu>
@@ -750,6 +774,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>And this mention of “at least one evolutionary branch” is an important one: the OASIS DITA technical committee remains focused on the core evolutionary branch, with DITA &lt;t1/&gt;2.0 &lt;t2/&gt;in development at the time of this writing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095142Z" creationid="DSS" creationdate="20200730T095142Z">
+        <seg>“进化分支之一”这一说法很重要，意味着：OASIS DITA 技术委员会仍然关注 LwDITA 这一核心进化分支，而在撰写本文时 DITA 标准&lt;t1/&gt;2.0 &lt;t2/&gt;版本也正在开发中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>And what has techcomm poured resources into?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T152834Z" creationid="DSS" creationdate="20200726T152834Z">
@@ -910,6 +942,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Carolyn Miller noted that evolution is not seen “as a mere metaphor or handy analogy for the process of genre change but as a set of ideas that has been central to thinking about cultural change as about biological change” (Miller, &lt;t1/&gt;2015, &lt;t2/&gt;pp.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T094912Z" creationid="DSS" creationdate="20200730T094912Z">
+        <seg>卡洛琳·米勒指出，进化“不仅仅是描述体裁变化过程的一个隐喻或一个方便的类比，而是一套将文化变革视为生物进化的重要思想，”（米勒，&lt;t1/&gt;2015&lt;t2/&gt;年，第</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Carroll's proposed approach was a commit&lt;t7/&gt;ment to “minimizing the obtrusiveness to the learner of training material &lt;t8/&gt;— &lt;t9/&gt;hence the term &lt;t10/&gt;minimalist&lt;t11/&gt;” (p.7, his emphasis).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T074413Z" creationid="lenovo" creationdate="20200723T074413Z">
@@ -1036,6 +1076,14 @@
         <seg>DITA terminology has been rich in metaphors and analogies about evolu- tion since its development.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T083930Z" creationid="DSS" creationdate="20200730T083930Z">
+        <seg>自 DITA 发展以来，与 DITA 相关的术语中存在着丰富的关于进化的隐喻和类比。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DITA terminology has been rich in metaphors and analogies about evolu&lt;t0/&gt;tion since its development.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095117Z" creationid="DSS" creationdate="20200730T095117Z">
         <seg>自 DITA 发展以来，与 DITA 相关的术语中存在着丰富的关于进化的隐喻和类比。</seg>
       </tuv>
     </tu>
@@ -1810,6 +1858,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Looking, for example, at the &lt;t0/&gt;17 &lt;t1/&gt;document types and &lt;t2/&gt;440 &lt;t3/&gt;element types available on the technical content edition of the DITA &lt;t4/&gt;1.3 &lt;t5/&gt;standard, I couldn't stop hear&lt;t6/&gt;ing the voice of John Carroll from the interview I reported on &lt;t7/&gt;Chapter &lt;t8/&gt;2&lt;t9/&gt;: &lt;t10/&gt;“All &lt;t11/&gt;this being said, the manuals didn't work.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095155Z" creationid="DSS" creationdate="20200730T095155Z">
+        <seg>例如，在 DITA 标准1.3技术内容版本中有17种可用文档类型和440种元素类型，我不禁想到约翰•卡罗尔在第2章中提到的采访中所说的话：“这么看来手册不起作用，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LwDITA aims  to simplify the DITA authoring and publishing experience with the minimum  number of content components that were useful for the sectors and industries  studied by members of the Lightweight DITA subcommittee.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T090115Z" creationid="DSS" creationdate="20200730T090115Z">
@@ -1861,6 +1917,14 @@
         <seg>Nevertheless, evolution can also be an appropriate  way to describe how the DITA technical committee reacted to society and  industry demands and spawned, at least in one of the standard’s evolutionary  branches, LwDITA.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T084610Z" creationid="DSS" creationdate="20200730T083947Z">
+        <seg>尽管如此，要描述 DITA 技术委员会是如何响应社会和行业的需求并创造出至少是 DITA 标准进化分支之一的 LwDITA 的，进化是一个合适的词语。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Nevertheless, evolution can also be an appropriate way to describe how the DITA technical committee reacted to society and industry demands and spawned, at least in one of the standard's evolutionary branches, LwDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095124Z" creationid="DSS" creationdate="20200730T095124Z">
         <seg>尽管如此，要描述 DITA 技术委员会是如何响应社会和行业的需求并创造出至少是 DITA 标准进化分支之一的 LwDITA 的，进化是一个合适的词语。</seg>
       </tuv>
     </tu>
@@ -1947,6 +2011,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>One of the most notorious characteristics of LwDITA in its initial release is that it does not include the document types of concept, task, and reference that many users associate with the Darwin Information Typing Architecture.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095146Z" creationid="DSS" creationdate="20200730T095146Z">
+        <seg>在最初版本的 LwDITA 中，最不受欢迎的一个特征是，它不包括许多用户在 DITA 中会用到的概念（concept）、任务（task）和引用（reference）文档类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>One of the solutions that came out of those explorations at IBM was the Darwin Information Typing Architecture.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154515Z" creationid="DSS" creationdate="20200726T154515Z">
@@ -2024,6 +2096,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T155103Z" creationid="DSS" creationdate="20200720T132009Z">
         <seg>重新讨论&lt;t0/&gt;技术传播的未来</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rather, I'm suggesting that evolution is a model of change more general than either biology or language, one that applies equally but differently to both” &lt;t8/&gt;(2015, &lt;t9/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095057Z" creationid="DSS" creationdate="20200730T095057Z">
+        <seg>相反，我想说的是，进化是一种变化的模式，比生物学或语言都更加普遍，可以平等地用在生物学或语言身上，但意义又有所不同”&lt;t8/&gt;（&lt;t9/&gt;2015年，</seg>
       </tuv>
     </tu>
     <tu>
