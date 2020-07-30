@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t3/&gt;Everybody likes standards, laws, and sausage, said Veen, but nobody wants to know how they are made.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T124247Z" creationid="DSS" creationdate="20200730T124247Z">
+        <seg>&lt;t3/&gt;维恩说，人人都喜欢标准、法律和香肠，但没人想知道它们是如何制作的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t3/&gt;In this introductory chapter I will only present the results of transformations using the DITA-OT, but in &lt;t4/&gt;Chapter &lt;t5/&gt;5&lt;t6/&gt; &lt;t7/&gt;I will focus on specific steps for conducting those transformations.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145418Z" creationid="DSS" creationdate="20200725T082636Z">
