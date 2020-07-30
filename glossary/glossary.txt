@@ -356,3 +356,5 @@ Don Day	唐·戴
 Day	戴	做姓名时
 Dave Schell	戴夫·席尔
 Kimber	金柏
+Carolyn Miller	卡洛琳·米勒
+Miller	米勒
