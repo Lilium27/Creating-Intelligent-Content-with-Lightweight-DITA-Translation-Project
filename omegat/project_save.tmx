@@ -1778,6 +1778,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Nobody read them.” All this being  said, and without data from every company that has adopted DITA in the world,  how many of those 17 document types and 440 element types still have virtual  plastic on them in the DITA specification for technical content?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T084733Z" creationid="DSS" creationdate="20200730T084733Z">
+        <seg>根本没有人读它们。”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Now, if Pedro were to open a text editor in his computer and start typing XML tags to structure his content, he probably would not know where to go after typing for a few minutes.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153541Z" creationid="DSS" creationdate="20200726T153541Z">
