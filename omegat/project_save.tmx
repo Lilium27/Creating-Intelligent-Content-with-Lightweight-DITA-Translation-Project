@@ -654,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Additionally, the Lightweight DITA subcommittee with OASIS is exploring the possibility of releasing a template-based mechanism for spe&lt;t18/&gt;cialization that would make the customization of topics and elements more accessible to authors who are not familiar with XML schema or document type definitions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T122701Z" creationid="DSS" creationdate="20200730T122701Z">
+        <seg>此外，OASIS 轻量级 DITA 小组委员会正在研究基于模板的专门化机制的可能性，这将使不熟悉 XML 模式或文档类型定义的作者更容易定制话题和元素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Additionally, the versatile task topic in DITA 1.3 can take the shape of a general task topic, a strict task, or a machinery task topic, depending on the context and purpose of usage.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T091140Z" creationid="DSS" creationdate="20200725T091127Z">
@@ -1018,6 +1026,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153439Z" creationid="DSS" creationdate="20200726T153439Z">
         <seg>厨师佩德罗像世界上许多内容创作者一样，一直在使用 Microsoft Word 来编写他的信息产品。佩德罗公司的出版部门通过漫长的复制和粘贴部分 Word 文件，利用 Adobe InDesign 制作菜单和传单，并用 WordPress 维护餐馆的网站。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chef Pedro, or most likely an information architect or XML pro&lt;t13/&gt;fessional working for him, can still specialize the LwDITA &lt;t14/&gt;&lt;topic&gt; &lt;t15/&gt;into a &lt;t16/&gt;&lt;recipe&gt;&lt;t17/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T122131Z" creationid="DSS" creationdate="20200730T122131Z">
+        <seg>厨师佩德罗（或最有可能是为他工作的信息架构师或XML专业人员）仍然可以将 LwDITA 中的 &lt;t14/&gt;&lt;topic&gt; &lt;t15/&gt; 专门化为 &lt;t16/&gt;&lt;recipe&gt;&lt;t17/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
