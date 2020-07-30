@@ -742,6 +742,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As I write this  chapter, the DITA Technical Committee at OASIS is working on the release  of DITA 2.0 as a new standard parallel to LwDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T093944Z" creationid="DSS" creationdate="20200730T093944Z">
+        <seg>在我撰写这一章时，OASIS 的 DITA 技术委员会正在致力于开发 DITA 标准 2.0版本，将其作为与 LwDITA 并行的新标准。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As a franchise owner, he wants to ensure that the food in his restau&lt;t0/&gt;rants is consistent, and his kitchen staff needs up-to-date documentation with recipes and techniques adopted in all of his restaurants.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153403Z" creationid="DSS" creationdate="20200726T153403Z">
@@ -1766,6 +1774,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T091120Z" creationid="DSS" creationdate="20200730T091120Z">
         <seg>LwDITA 的主要用户中没有仍在使用 DITA 的用户。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LwDITA does not have the purpose of replacing DITA XML.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T093934Z" creationid="DSS" creationdate="20200730T093934Z">
+        <seg>创建 LwDITA 的目的并非取代 DITA XML。</seg>
       </tuv>
     </tu>
     <tu>
