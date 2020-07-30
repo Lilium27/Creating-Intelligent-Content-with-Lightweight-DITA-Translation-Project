@@ -960,8 +960,8 @@
       <tuv lang="en">
         <seg>Before describing the LwDITA topical conventions and tracking how they evolved from DITA &lt;t0/&gt;1.3 &lt;t1/&gt;elements and produced their own offspring in the LwDITA three core authoring formats, the following section looks at the evo&lt;t2/&gt;lution of DITA as documented in the OASIS public email list and meeting minutes archive.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T122831Z" creationid="DSS" creationdate="20200730T122831Z">
-        <seg>在介绍 LwDITA 话题规则，阐述 LwDITA 的元素是如何从 DITA 标准 &lt;t0/&gt;1.3 &lt;t1/&gt;版本中的元素演变而来，又是如何在 LwDITA 三种核心写作格式中生成它们自己的后代元素之前，下面一节将先回顾 OASIS 公共电子邮件列表和会议纪要归档中记录的 DITA 的演变过程。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T130405Z" creationid="DSS" creationdate="20200730T122831Z">
+        <seg>在介绍 LwDITA 话题规则，阐述 LwDITA 的元素是如何从 DITA 标准 &lt;t0/&gt;1.3 &lt;t1/&gt;版本中的元素演变而来，又是如何在 LwDITA 三种核心写作格式中生成它们自己的后代元素之前，下面一节将先回顾 OASIS 公共电子邮件记录和会议纪要中记录的 DITA 的演变过程。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2401,6 +2401,15 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150727Z" creationid="DSS" creationdate="20200726T083733Z">
         <seg>轻量级 DITA 可以实现在不使用 XML 的情况下创建 DITA，&lt;t0/&gt;&lt;t1/&gt;比如使用 Markdown 或 HTML5。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That sure has been the case with LwDITA as an evolution of DITA XML.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T130604Z" creationid="DSS" creationdate="20200730T130604Z">
+        <seg>作为 DITA XML 的一种变体，LwDITA 就是这样发展而来。
+</seg>
       </tuv>
     </tu>
     <tu>
