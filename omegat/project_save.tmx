@@ -1730,6 +1730,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LwDITA aims  to simplify the DITA authoring and publishing experience with the minimum  number of content components that were useful for the sectors and industries  studied by members of the Lightweight DITA subcommittee.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T090115Z" creationid="DSS" creationdate="20200730T090115Z">
+        <seg>LwDITA 的目标是提供轻量级 DITA 小组委员会成员研究出的对各部门和行业有用的最小数量的内容组件，以简化 DITA 创作和发布流程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Michael Priestley, Senior Technical Staff Member and Enterprise Content Technology Strategist at IBM and known as one of DITA's “founding fathers” (Etheridge, &lt;t0/&gt;2016), &lt;t1/&gt;defines Lightweight DITA (LwDITA, which should be read as “Lightweight DITA”) as a simplified schema for structuring content, with fewer elements, tighter content models and a simplified specialization archi&lt;t2/&gt;tecture to define new types compared to those of DITA XML.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150708Z" creationid="DSS" creationdate="20200726T082353Z">
@@ -1780,8 +1788,8 @@
       <tuv lang="en">
         <seg>Nobody read them.” All this being  said, and without data from every company that has adopted DITA in the world,  how many of those 17 document types and 440 element types still have virtual  plastic on them in the DITA specification for technical content?</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T084733Z" creationid="DSS" creationdate="20200730T084733Z">
-        <seg>根本没有人读它们。”</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T090101Z" creationid="DSS" creationdate="20200730T084733Z">
+        <seg>根本没有人读它们。”如上所述，同时也很想统计下世界上所有使用DITA的公司的数据，在这17种文档类型和440种元素类型中，有多少 DITA 技术内容文档的塑封还没有被拆过？</seg>
       </tuv>
     </tu>
     <tu>
@@ -2266,6 +2274,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T142849Z" creationid="DSS" creationdate="20200724T121417Z">
         <seg>这一帧&lt;t2/&gt;画面显示着行业的未来所在，即“越来越结构化的内容，以及更快、更智能地&lt;t3/&gt; 使用 XML 和 DITA 结构的能力”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This bold decision  of decoupling a version of DITA from its popular document types is supported  by claims that can be summarized in the following three points: 1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T090124Z" creationid="DSS" creationdate="20200730T090124Z">
+        <seg>将 DITA 与其颇受欢迎的文档类型解耦的大胆决定源自以下三点：</seg>
       </tuv>
     </tu>
     <tu>
