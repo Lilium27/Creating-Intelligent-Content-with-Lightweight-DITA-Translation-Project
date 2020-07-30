@@ -806,6 +806,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As I write this chapter, the DITA Technical Committee at OASIS is working on the release of DITA &lt;t2/&gt;2.0 &lt;t3/&gt;as a new standard parallel to LwDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095613Z" creationid="DSS" creationdate="20200730T095613Z">
+        <seg>在我撰写这一章时，OASIS 的 DITA 技术委员会正在致力于开发 DITA 标准&lt;t2/&gt;2.0 &lt;t3/&gt;版本，将其作为与 LwDITA 并行的新标准。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As a franchise owner, he wants to ensure that the food in his restau&lt;t0/&gt;rants is consistent, and his kitchen staff needs up-to-date documentation with recipes and techniques adopted in all of his restaurants.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153403Z" creationid="DSS" creationdate="20200726T153403Z">
@@ -1898,6 +1906,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LwDITA &lt;t0/&gt;does not have the purpose of replacing DITA XML&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095640Z" creationid="DSS" creationdate="20200730T095640Z">
+        <seg>创建 LwDITA 的目的并&lt;t0/&gt;非取代 DITA XML&lt;t1/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LwDITA aims  to simplify the DITA authoring and publishing experience with the minimum  number of content components that were useful for the sectors and industries  studied by members of the Lightweight DITA subcommittee.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T090115Z" creationid="DSS" creationdate="20200730T090115Z">
@@ -2578,6 +2594,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T092103Z" creationid="DSS" creationdate="20200730T092103Z">
         <seg>这些用户可能是随性内容贡献者（比如，编写简短的话题的主题专家，这些话题将由技术写作人员整合成一个更大的 DITA 集合）或作者不使用 DITA XML（例如，创建可以多渠道发布的智能内容的营销专业人士，甚至是喜欢用 HTML 或 Markdown 的技术写作人员）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These users can be casual content contributors (e.g., a subject matter expert who authors short topics that a technical author will later integrate into a larger DITA collection) or authors who are not working with DITA XML (e.g., marketing professionals creating intelligent content for multi&lt;t5/&gt;channel publishing, or even technical writers who prefer to write in HTML or Markdown).&lt;t6/&gt; Chapter &lt;t7/&gt;4&lt;t8/&gt; &lt;t9/&gt;identifies additional user types for the three ini&lt;t10/&gt;tial authoring formats of LwDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095719Z" creationid="DSS" creationdate="20200730T095547Z">
+        <seg>这些用户可能是随性内容贡献者（比如，编写简短的话题的主题专家，这些话题将由技术写作人员整合成一个更大的 DITA 集合）或作者不使用 DITA XML（例如，创建可以多渠道发布的智能内容的营销专业人士，甚至是喜欢用 HTML 或 Markdown 的技术写作人员）。&lt;t6/&gt;第&lt;t7/&gt;4&lt;t8/&gt; &lt;t9/&gt;章介绍了LwDITA的三种初始创作格式的其他用户类型。</seg>
       </tuv>
     </tu>
     <tu>
