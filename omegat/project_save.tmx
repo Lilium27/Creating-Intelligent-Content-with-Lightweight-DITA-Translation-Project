@@ -2502,6 +2502,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The popular John Godfrey Saxe quote, commonly misattributed to Otto von Bismarck, says that “laws, like sausages, cease to inspire respect in proportion as we know how they are made.” Web designer Jeffrey Veen, in his podcast titled &lt;t0/&gt;Presentable&lt;t1/&gt;, added standards to that list (Veen, &lt;t2/&gt;2017).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T123643Z" creationid="DSS" creationdate="20200730T123643Z">
+        <seg>著名的约翰·戈弗雷·萨克森（John Godfrey Saxe）曾说过，“法律就像香肠一样，当我们知道它是如何被制造出来的时候，它就不会再得到人们的尊重了。”这句话通常被误传为奥托·冯·俾斯麦（Otto von Bismarck）所说。网页设计师杰弗里·维恩（Jeffrey Veen）在他名为《得体》（&lt;t0/&gt;Presentable&lt;t1/&gt;）的播客中，将各种标准也加入到节目内容当中（维恩，&lt;t2/&gt;2017年）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The process of assembling topic collections depends on DITA maps, which are defined as “the glue that binds your topics together, the driver for producing your output, and the infor&lt;t0/&gt;mation path for your users to follow” (Bellamy et al., &lt;t1/&gt;2012, &lt;t2/&gt;p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150112Z" creationid="DSS" creationdate="20200725T144801Z">
