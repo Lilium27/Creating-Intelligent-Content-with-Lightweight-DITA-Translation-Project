@@ -2325,6 +2325,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That process of specialization, with some limitations in HDITA and MDITA, is allowed in LwDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T122052Z" creationid="DSS" creationdate="20200730T122052Z">
+        <seg>LwDITA 可以实现这种专门化，尽管在 HDITA 和 MDITA 中有一些限制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That same colleague would also point out examples of inde&lt;t4/&gt;pendent software companies that still produce lengthy user manuals.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T090636Z" creationid="lenovo" creationdate="20200723T090636Z">
