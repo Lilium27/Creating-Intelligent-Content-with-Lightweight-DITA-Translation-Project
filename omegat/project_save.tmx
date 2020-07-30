@@ -718,6 +718,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>And this mention of “at least one evolutionary branch”  is an important one: the OASIS DITA technical committee remains focused  on the core evolutionary branch, with DITA 2.0 in development at the time  of this writing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T084009Z" creationid="DSS" creationdate="20200730T084009Z">
+        <seg>“进化分支之一”这一说法很重要，意味着：OASIS DITA 技术委员会仍然关注 LwDITA 这一核心进化分支，而在撰写本文时 DITA 标准2.0版本也正在开发中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>And what has techcomm poured resources into?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T152834Z" creationid="DSS" creationdate="20200726T152834Z">
@@ -973,6 +981,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154720Z" creationid="DSS" creationdate="20200726T154720Z">
         <seg>DITA 由一组设计原则组成，这些原则可以用于创建主题级别的“信息型“模块，并在交付模式（如网站上的在线帮助和产品支持门户）中使用这些模块。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DITA terminology has been rich in metaphors and analogies about evolu- tion since its development.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T083930Z" creationid="DSS" creationdate="20200730T083930Z">
+        <seg>自 DITA 发展以来，与 DITA 相关的术语中存在着丰富的关于进化的隐喻和类比。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1710,6 +1726,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154519Z" creationid="DSS" creationdate="20200726T154519Z">
         <seg>关于 DITA 诞生的众多细节</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Nevertheless, evolution can also be an appropriate  way to describe how the DITA technical committee reacted to society and  industry demands and spawned, at least in one of the standard’s evolutionary  branches, LwDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T084610Z" creationid="DSS" creationdate="20200730T083947Z">
+        <seg>尽管如此，要描述 DITA 技术委员会是如何响应社会和行业的需求并创造出至少是 DITA 标准进化分支之一的 LwDITA 的，进化是一个合适的词语。</seg>
       </tuv>
     </tu>
     <tu>
