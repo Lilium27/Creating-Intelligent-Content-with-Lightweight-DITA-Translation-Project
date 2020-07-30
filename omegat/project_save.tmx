@@ -1082,6 +1082,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Even today,  they still have the plastic on them in libraries.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T084729Z" creationid="DSS" creationdate="20200730T084729Z">
+        <seg>直到今天，图书馆里的手册仍保留着塑封，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Except they did not.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T090924Z" creationid="lenovo" creationdate="20200723T090924Z">
@@ -1714,6 +1722,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Looking, for example, at the 17 document types and 440 element types available  on the technical content edition of the DITA 1.3 standard, I couldn’t stop hear- ing the voice of John Carroll from the interview I reported on Chapter 2: “All  62 How DITA Evolved Into LwDITA this being said, the manuals didn’t work.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T084711Z" creationid="DSS" creationdate="20200730T084711Z">
+        <seg>例如，在 DITA 标准1.3技术内容版本中有17种可用文档类型和440种元素类型，我不禁想到约翰•卡罗尔在第2章中提到的采访中所说的话：“这么看来手册不起作用，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Michael Priestley, Senior Technical Staff Member and Enterprise Content Technology Strategist at IBM and known as one of DITA's “founding fathers” (Etheridge, &lt;t0/&gt;2016), &lt;t1/&gt;defines Lightweight DITA (LwDITA, which should be read as “Lightweight DITA”) as a simplified schema for structuring content, with fewer elements, tighter content models and a simplified specialization archi&lt;t2/&gt;tecture to define new types compared to those of DITA XML.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150708Z" creationid="DSS" creationdate="20200726T082353Z">
@@ -1803,6 +1819,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>One of the most notorious characteristics of LwDITA in its initial release  is that it does not include the document types of concept, task, and reference  that many users associate with the Darwin Information Typing Architecture.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T084625Z" creationid="DSS" creationdate="20200730T084625Z">
+        <seg>在最初版本的 LwDITA 中，最不受欢迎的一个特征是，它不包括许多用户在 DITA 中会用到的概念（concept）、任务（task）和引用（reference）文档类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>One of the solutions that came out of those explorations at IBM was the Darwin Information Typing Architecture.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154515Z" creationid="DSS" creationdate="20200726T154515Z">
@@ -1823,6 +1847,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153835Z" creationid="DSS" creationdate="20200726T153835Z">
         <seg>佩德罗可以购买一个软件包来结构化菜谱、创建一个在线菜谱网页；但是在他职业生涯前期，他参与了一个依赖商业软件的营销项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>People didn’t read them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T084715Z" creationid="DSS" creationdate="20200730T084715Z">
+        <seg>用户并没有阅读手册。</seg>
       </tuv>
     </tu>
     <tu>
