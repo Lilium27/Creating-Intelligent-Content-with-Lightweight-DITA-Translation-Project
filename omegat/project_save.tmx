@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t2/&gt;This is a long process of evolution that started in &lt;t3/&gt;2012.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T130641Z" creationid="DSS" creationdate="20200730T130641Z">
+        <seg>&lt;t2/&gt;这是一个始于&lt;t3/&gt;2012年的漫长演进过程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t22/&gt;56).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144628Z" creationid="DSS" creationdate="20200724T154416Z">
@@ -490,6 +498,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144306Z" creationid="DSS" creationdate="20200726T155008Z">
         <seg>&lt;t4/&gt;9页）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t4/&gt;Actually, the OASIS email &lt;t5/&gt;list archives mention a DITA “profile for modest needs” that sounds similar to Lightweight DITA on a message sent by Don Day (member of the origi&lt;t6/&gt;nal DITA development team at IBM), who then chaired the DITA Technical Committee, on April &lt;t7/&gt;4, 2011.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T130743Z" creationid="DSS" creationdate="20200730T130743Z">
+        <seg>&lt;t4/&gt;实际上，OASIS 电子邮件&lt;t5/&gt;存档中记录了一条信息，里面写着“用于简单需求的 DITA 概述”，这很像轻量级 DITA 的概念。这条信息发于2011年&lt;t7/&gt;4月4日，来自唐·戴（最初 IBM DITA 开发团队的成员）， 唐·戴当时是 DITA 技术委员会的主席。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2030,6 +2046,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T094513Z" creationid="DSS" creationdate="20200730T094513Z">
         <seg>与 DITA XML 一样，LwDITA 可以根据特定用户的需要专门化为特定的文档和元素类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Michael Priestley and I are working on the Lightweight DITA technical speci&lt;t0/&gt;fication, and we have the goal of having it officially released in &lt;t1/&gt;2019.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T130627Z" creationid="DSS" creationdate="20200730T130627Z">
+        <seg>迈克尔·普里斯特利和我正致力于编写轻量级 DITA 技术规范，我们的目标是在&lt;t1/&gt;2019年将其正式发布。</seg>
       </tuv>
     </tu>
     <tu>
