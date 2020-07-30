@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t2/&gt;Existing tools can provide UI masking of features that can be enabled later on (license upgrade, etc.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T132000Z" creationid="DSS" creationdate="20200730T132000Z">
+        <seg>&lt;t2/&gt;现有的工具可以为以后启用的特性提供UI界面（授权升级等）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t2/&gt;This is a long process of evolution that started in &lt;t3/&gt;2012.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T130641Z" creationid="DSS" creationdate="20200730T130641Z">
