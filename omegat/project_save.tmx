@@ -1586,6 +1586,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I've been discussing this idea with several vendors and it seems to have traction.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T131350Z" creationid="DSS" creationdate="20200730T131350Z">
+        <seg>我已经和几个供应商讨论过这个想法，它似乎很吸引人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>IBM eventually donated DITA as an open standard, which is currently main&lt;t0/&gt;tained by the non-profit consortium OASIS.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154833Z" creationid="DSS" creationdate="20200726T154833Z">
@@ -1630,6 +1638,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145930Z" creationid="DSS" creationdate="20200725T143839Z">
         <seg>如果这些预先建立的话题类型对于特定的作者和特定的语境需求来说还不够， 还可以&lt;t0/&gt;特别定制&lt;t1/&gt;DITA话题，以创建任何智能内容领域特有的信息类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If we can agree on what a lowered profile of expecta&lt;t0/&gt;tion and need is, there are several benefits: &lt;t1/&gt;1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T131419Z" creationid="DSS" creationdate="20200730T131419Z">
+        <seg>如果我们能在低预期和低需求是什么上达成一致，有以下几个好处： &lt;t1/&gt;1. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1734,6 +1750,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T082839Z" creationid="DSS" creationdate="20200725T064600Z">
         <seg>实际上，DITA 的话题类型包括技术出版物中经常用于内容操作或策略（例如一个简短的描述、步骤和示例）的 XML 标记。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In short, some new users (and particularly those who are not tech writers by trade) do not necessarily need to experience the full extent of DITA capability.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T131358Z" creationid="DSS" creationdate="20200730T131358Z">
+        <seg>简而言之，一些新用户（特别是那些职业不是技术写作人员的用户）不一定需要体验完整版 DITA 的功能。</seg>
       </tuv>
     </tu>
     <tu>
