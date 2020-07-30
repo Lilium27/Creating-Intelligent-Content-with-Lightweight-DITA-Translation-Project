@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>358) In the world of scientific and technical communication, DITA and struc- tured authoring are not alone in using concepts of evolution to describe genre  change.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T082639Z" creationid="DSS" creationdate="20200730T082639Z">
+        <seg>在科技和技术传播的世界里，DITA 和结构化创作并不是唯一使用进化概念来描述体裁变化的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;prereq&gt; &lt;t0/&gt;with a list of the ingredients needed for the recipe</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145140Z" creationid="DSS" creationdate="20200725T070017Z">
@@ -826,6 +834,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200722T021556Z" creationid="lenovo" creationdate="20200718T120320Z">
         <seg>使用轻量 DITA 创建智能内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Carolyn Miller noted that evolution is not seen “as a mere metaphor  or handy analogy for the process of genre change but as a set of ideas that  has been central to thinking about cultural change as about biological change”  (Miller, 2015, pp.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T082805Z" creationid="DSS" creationdate="20200730T082805Z">
+        <seg>卡洛琳·米勒指出，进化“不仅仅是描述体裁变化过程的一个隐喻或一个方便的类比，而是一套将文化变革视为生物进化的重要思想，”（米勒，2015年，第</seg>
       </tuv>
     </tu>
     <tu>
