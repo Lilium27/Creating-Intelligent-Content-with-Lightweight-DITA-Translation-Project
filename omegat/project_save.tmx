@@ -1594,6 +1594,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the world of scientific and technical communication, DITA and struc&lt;t0/&gt;tured authoring are not alone in using concepts of evolution to describe genre change.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T094850Z" creationid="DSS" creationdate="20200730T094850Z">
+        <seg>在科技和技术传播的世界里，DITA 和结构化创作并不是唯一使用进化概念来描述体裁变化的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In their textbook &lt;t0/&gt;DITA Best Practices&lt;t1/&gt;, Bellamy et al.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T145845Z" creationid="DSS" creationdate="20200725T145845Z">
