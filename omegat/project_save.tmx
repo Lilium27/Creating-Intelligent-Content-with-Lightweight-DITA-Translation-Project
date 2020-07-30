@@ -1738,6 +1738,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LwDITA does not have existing DITA users as its primary audience.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T091120Z" creationid="DSS" creationdate="20200730T091120Z">
+        <seg>LwDITA 的主要用户中没有仍在使用 DITA 的用户。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Michael Priestley, Senior Technical Staff Member and Enterprise Content Technology Strategist at IBM and known as one of DITA's “founding fathers” (Etheridge, &lt;t0/&gt;2016), &lt;t1/&gt;defines Lightweight DITA (LwDITA, which should be read as “Lightweight DITA”) as a simplified schema for structuring content, with fewer elements, tighter content models and a simplified specialization archi&lt;t2/&gt;tecture to define new types compared to those of DITA XML.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150708Z" creationid="DSS" creationdate="20200726T082353Z">
@@ -1879,6 +1887,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T081326Z" creationid="DSS" creationdate="20200726T153722Z">
         <seg>生产编辑，基于文档结构参与编写定义格式的转换文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Professionals already using DITA to create and architect content most  likely learned about the standard in training sessions that emphasized the  semantic benefits of the several document and element types in DITA 1.3.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T091134Z" creationid="DSS" creationdate="20200730T091134Z">
+        <seg>已经在使用 DITA 创建和构造内容的专业人员很可能在培训时就已经了解了 LwDITA，培训会强调 DITA 标准1.3版本中几种文档和元素类型语义优势。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2049,6 +2065,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153828Z" creationid="DSS" creationdate="20200726T153828Z">
         <seg>这时，像 DITA 这样的标准就可以派上用场了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The  LwDITA ideal user is someone who already works in HTML or Markdown  and could adopt (or not) a simple XML grammar that does not contain  hundreds of element types.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T091204Z" creationid="DSS" creationdate="20200730T091204Z">
+        <seg>LwDITA 的理想用户是使用 HTML 或 Markdown 并可以使用（或不使用）简单 XML 语法（不用包含数百种元素类型）的人。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2266,6 +2290,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T073021Z" creationid="DSS" creationdate="20200726T073021Z">
         <seg>这些特性和优势有助于提升 DITA 作技术传播智能内容解决方案的流行度和适应性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These professionals are  welcome to try LwDITA as a content-creation alternative; however, they  are not the intended audience for the proposed simplified standard.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T091202Z" creationid="DSS" creationdate="20200730T091202Z">
+        <seg>他们乐于尝试使用 LwDITA 作为内容创建的替代方案，然而，他们并不是提议的简化标准的目标受众。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These professionals work in environments that depend on the separation of  content in concept, task, reference, and other types.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T091140Z" creationid="DSS" creationdate="20200730T091140Z">
+        <seg>这些专业人员工作的环境依赖于概念（concept）、任务（task）、引用（reference）和其他类型的内容分离。</seg>
       </tuv>
     </tu>
     <tu>
