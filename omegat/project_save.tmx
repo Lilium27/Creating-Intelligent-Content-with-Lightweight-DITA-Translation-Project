@@ -710,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although it probably will &lt;t2/&gt;not be part of a LwDITA user's daily routine, the proposed standard allows document and element type specialization (the &lt;t3/&gt;Darwin&lt;t4/&gt; part of DITA) for information architects interested in creating custom structures.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095839Z" creationid="DSS" creationdate="20200730T095839Z">
+        <seg>尽管专门化可能&lt;t2/&gt;不会成为 LwDITA 用户日常工作的一部分，但是计划的 LwDITA标准允许将文档和元素类型专门化（DITA 名中的“&lt;t3/&gt;Darwin&lt;t4/&gt;”所指），供对创建特定结构感兴趣的信息架构师使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Although no author is expected to become an expert on all topic types and their relations, criticism in industry and, perhaps, the timid interest from academia stem from the long, and getting longer, list of types, tags, and their functions included in the DITA standard.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140305Z" creationid="DSS" creationdate="20200726T073809Z">
@@ -1586,6 +1594,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In &lt;t5/&gt;Chapter &lt;t6/&gt;1&lt;t7/&gt;, &lt;t8/&gt;I mentioned that Chef Pedro probably needed a DITA-based content model that allowed authors to specialize a &lt;t9/&gt;&lt;task&gt; &lt;t10/&gt;into a &lt;t11/&gt;&lt;recipe&gt;&lt;t12/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095919Z" creationid="DSS" creationdate="20200730T095919Z">
+        <seg>在&lt;t5/&gt;第&lt;t6/&gt;1&lt;t7/&gt; &lt;t8/&gt;章中，我提到厨师佩德罗可能需要一个基于 DITA 的内容模型，该模型允许作者将 &lt;t9/&gt;&lt;task&gt;&lt;t10/&gt; 专门化为 &lt;t11/&gt;&lt;recipe&gt;&lt;t12/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In Chapter 1,  I mentioned that Chef Pedro probably needed a DITA-based content model  that allowed authors to specialize a &lt;task&gt; into a &lt;recipe&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T094522Z" creationid="DSS" creationdate="20200730T094522Z">
@@ -1942,6 +1958,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T093934Z" creationid="DSS" creationdate="20200730T093934Z">
         <seg>创建 LwDITA 的目的并非取代 DITA XML。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LwDITA, like DITA XML, &lt;t0/&gt;can be specialized into custom document and element types &lt;t1/&gt;based on the needs of specific users.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095804Z" creationid="DSS" creationdate="20200730T095804Z">
+        <seg>与 DITA XML 一样，LwDITA 可以 &lt;t1/&gt;根据特定用户的需要专门化为特定的文档和元素类型。</seg>
       </tuv>
     </tu>
     <tu>
