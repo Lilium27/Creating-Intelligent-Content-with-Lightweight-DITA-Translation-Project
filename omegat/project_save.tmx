@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>2.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T093832Z" creationid="DSS" creationdate="20200730T093832Z">
+        <seg>2. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>354).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T152947Z" creationid="DSS" creationdate="20200726T152947Z">
@@ -774,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>At one point, Michael Priestley talked about an  audience of people who have an aversion to XML or existing DITA work- flows.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T092032Z" creationid="DSS" creationdate="20200730T092032Z">
+        <seg>迈克尔·普里斯特利曾经谈到过讨厌 XML 或现有 DITA 工作流的用户。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At professional conferences, I occasionally engage in nostalgic conversations with colleagues who continue to state the claim that content developers &lt;t2/&gt;and their readers&lt;t3/&gt; lost something when the manual disappeared.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T082952Z" creationid="lenovo" creationdate="20200723T082952Z">
@@ -882,6 +898,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T093537Z" creationid="lenovo" creationdate="20200722T022525Z">
         <seg>卡罗尔致力于将极简主义原则应用到文档上&lt;t0/&gt;这一点在他的&lt;t1/&gt;《纽伦堡漏斗》（The Nurnberg Funnel）&lt;t2/&gt; &lt;t3/&gt;(1990)一书中体现地淋漓尽致, &lt;t4/&gt;这与程式化写作、教程和界面设计等领域的专业前沿理论和实践有着共通之处</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 4 identifies additional user types for the three ini- tial authoring formats of LwDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T092108Z" creationid="DSS" creationdate="20200730T092108Z">
+        <seg>第4章介绍了 LwDITA 的三种初始创作格式的其他用户类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2306,6 +2330,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T091140Z" creationid="DSS" creationdate="20200730T091140Z">
         <seg>这些专业人员工作的环境依赖于概念（concept）、任务（task）、引用（reference）和其他类型的内容分离。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These users can be casual content contributors (e.g., a subject matter  expert who authors short topics that a technical author will later integrate  into a larger DITA collection) or authors who are not working with DITA  XML (e.g., marketing professionals creating intelligent content for multi- channel publishing, or even technical writers who prefer to write in HTML  or Markdown).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T092103Z" creationid="DSS" creationdate="20200730T092103Z">
+        <seg>这些用户可能是随性内容贡献者（比如，编写简短的话题的主题专家，这些话题将由技术写作人员整合成一个更大的 DITA 集合）或作者不使用 DITA XML（例如，创建可以多渠道发布的智能内容的营销专业人士，甚至是喜欢用 HTML 或 Markdown 的技术写作人员）。</seg>
       </tuv>
     </tu>
     <tu>
