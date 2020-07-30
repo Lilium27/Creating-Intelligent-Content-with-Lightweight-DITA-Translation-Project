@@ -70,6 +70,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>156–157).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T082811Z" creationid="DSS" creationdate="20200730T082811Z">
+        <seg>156-157页）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>178).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T082842Z" creationid="DSS" creationdate="20200730T082842Z">
+        <seg>第178页）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>354).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T152947Z" creationid="DSS" creationdate="20200726T152947Z">
@@ -1490,6 +1506,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In using terminology from evolution to describe  how genres change (or evolve) in society, Miller does not “want to be under- stood as suggesting that our understanding of cultural change must borrow  from biology.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T082834Z" creationid="DSS" creationdate="20200730T082834Z">
+        <seg>在使用关于进化的术语来描述社会中体裁如何演化时，米勒并不想“被理解为这是在提倡对文化变革的理解必须借鉴生物学的概念。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Instead of designing custom tags and depending on a publishing team to design templates and validation tools, he can use DITA's content types and take advan&lt;t0/&gt;tage of the benefits listed by Hackos.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T123656Z" creationid="DSS" creationdate="20200724T123656Z">
@@ -1816,6 +1840,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T155103Z" creationid="DSS" creationdate="20200720T132009Z">
         <seg>重新讨论&lt;t0/&gt;技术传播的未来</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rather, I’m suggesting that evolution is a model of change more  general than either biology or language, one that applies equally but differently  to both” (2015, p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T082840Z" creationid="DSS" creationdate="20200730T082840Z">
+        <seg>相反，我想说的是，进化是一种变化的模式，比生物学或语言都更加普遍，可以平等地用在生物学或语言身上，但意义又有所不同”（2015年，</seg>
       </tuv>
     </tu>
     <tu>
