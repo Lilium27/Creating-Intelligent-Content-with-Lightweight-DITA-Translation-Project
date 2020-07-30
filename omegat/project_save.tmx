@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t3/&gt;These professionals work in environments that depend on the separation of content in concept, task, reference, and other types.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095458Z" creationid="DSS" creationdate="20200730T095458Z">
+        <seg>&lt;t3/&gt;这些专业人员工作的环境依赖于概念（concept）、任务（task）、引用（reference）和其他类型的内容分离。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t3/&gt;Using that toolkit, known as the DITA Open Toolkit (OT), or a software tool that uses the Open Toolkit, Chef Pedro can produce quick information deliverables.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145316Z" creationid="DSS" creationdate="20200725T073835Z">
@@ -846,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>At one point, Michael Priestley talked about an audience of people who have an aversion to XML or existing DITA work&lt;t4/&gt;flows.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095512Z" creationid="DSS" creationdate="20200730T095512Z">
+        <seg>迈克尔·普里斯特利曾经谈到过讨厌 XML 或现有 DITA 工作流的用户。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At professional conferences, I occasionally engage in nostalgic conversations with colleagues who continue to state the claim that content developers &lt;t2/&gt;and their readers&lt;t3/&gt; lost something when the manual disappeared.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T082952Z" creationid="lenovo" creationdate="20200723T082952Z">
@@ -1181,6 +1197,14 @@
         <seg>Even today,  they still have the plastic on them in libraries.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T084729Z" creationid="DSS" creationdate="20200730T084729Z">
+        <seg>直到今天，图书馆里的手册仍保留着塑封，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Even today, they still have the plastic on them in libraries.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095339Z" creationid="DSS" creationdate="20200730T095339Z">
         <seg>直到今天，图书馆里的手册仍保留着塑封，</seg>
       </tuv>
     </tu>
@@ -1860,8 +1884,16 @@
       <tuv lang="en">
         <seg>Looking, for example, at the &lt;t0/&gt;17 &lt;t1/&gt;document types and &lt;t2/&gt;440 &lt;t3/&gt;element types available on the technical content edition of the DITA &lt;t4/&gt;1.3 &lt;t5/&gt;standard, I couldn't stop hear&lt;t6/&gt;ing the voice of John Carroll from the interview I reported on &lt;t7/&gt;Chapter &lt;t8/&gt;2&lt;t9/&gt;: &lt;t10/&gt;“All &lt;t11/&gt;this being said, the manuals didn't work.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095155Z" creationid="DSS" creationdate="20200730T095155Z">
-        <seg>例如，在 DITA 标准1.3技术内容版本中有17种可用文档类型和440种元素类型，我不禁想到约翰•卡罗尔在第2章中提到的采访中所说的话：“这么看来手册不起作用，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095326Z" creationid="DSS" creationdate="20200730T095155Z">
+        <seg>例如，在 DITA 标准&lt;t4/&gt;1.3 &lt;t5/&gt;技术内容版本中有&lt;t0/&gt;17 &lt;t1/&gt;种可用文档类型和&lt;t2/&gt;440 &lt;t3/&gt;种元素类型，我不禁想到约翰•卡罗尔在&lt;t7/&gt;第&lt;t8/&gt;2&lt;t9/&gt;章中提到的采访中所说的话：&lt;t10/&gt;“&lt;t11/&gt;这么看来手册不起作用，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LwDITA &lt;t0/&gt;does not have existing DITA users as its primary audience&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095432Z" creationid="DSS" creationdate="20200730T095432Z">
+        <seg>LwDITA 的主要用户中&lt;t0/&gt;没有仍在使用 DITA 的用户&lt;t1/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1869,6 +1901,14 @@
         <seg>LwDITA aims  to simplify the DITA authoring and publishing experience with the minimum  number of content components that were useful for the sectors and industries  studied by members of the Lightweight DITA subcommittee.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T090115Z" creationid="DSS" creationdate="20200730T090115Z">
+        <seg>LwDITA 的目标是提供轻量级 DITA 小组委员会成员研究出的对各部门和行业有用的最小数量的内容组件，以简化 DITA 创作和发布流程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LwDITA aims to simplify the DITA authoring and publishing experience with the minimum number of content components that were useful for the sectors and industries studied by members of the Lightweight DITA subcommittee.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095411Z" creationid="DSS" creationdate="20200730T095411Z">
         <seg>LwDITA 的目标是提供轻量级 DITA 小组委员会成员研究出的对各部门和行业有用的最小数量的内容组件，以简化 DITA 创作和发布流程。</seg>
       </tuv>
     </tu>
@@ -1962,6 +2002,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Nobody read them.” All this being said, and without data from every company that has adopted DITA in the world, how many of those &lt;t12/&gt;17 &lt;t13/&gt;document types and &lt;t14/&gt;440 &lt;t15/&gt;element types still have virtual plastic on them in the DITA specification for technical content?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095407Z" creationid="DSS" creationdate="20200730T095407Z">
+        <seg>根本没有人读它们。”如上所述，同时也很想统计下世界上所有使用DITA的公司的数据，在这&lt;t12/&gt;17 &lt;t13/&gt;种文档类型和 &lt;t14/&gt;440 &lt;t15/&gt;种元素类型中，有多少 DITA 技术内容文档的塑封还没有被拆过？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Now, if Pedro were to open a text editor in his computer and start typing XML tags to structure his content, he probably would not know where to go after typing for a few minutes.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153541Z" creationid="DSS" creationdate="20200726T153541Z">
@@ -2043,6 +2091,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>People didn't read them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095335Z" creationid="DSS" creationdate="20200730T095335Z">
+        <seg>用户并没有阅读手册。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>People didn’t read them.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T084715Z" creationid="DSS" creationdate="20200730T084715Z">
@@ -2063,6 +2119,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T091134Z" creationid="DSS" creationdate="20200730T091134Z">
         <seg>已经在使用 DITA 创建和构造内容的专业人员很可能在培训时就已经了解了 LwDITA，培训会强调 DITA 标准1.3版本中几种文档和元素类型语义优势。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Professionals already using DITA to create and architect content most likely learned about the standard in training sessions that emphasized the semantic benefits of the several document and element types in DITA &lt;t2/&gt;1.3.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095445Z" creationid="DSS" creationdate="20200730T095445Z">
+        <seg>已经在使用 DITA 创建和构造内容的专业人员很可能在培训时就已经了解了 LwDITA，培训会强调 DITA 标准 &lt;t2/&gt;1.3版本中几种文档和元素类型语义优势。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2285,6 +2349,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The LwDITA ideal user is someone who already works in HTML or Markdown and could adopt (or not) a simple XML grammar that does not contain hundreds of element types.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095506Z" creationid="DSS" creationdate="20200730T095506Z">
+        <seg>LwDITA 的理想用户是使用 HTML 或 Markdown 并可以使用（或不使用）简单 XML 语法（不用包含数百种元素类型）的人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The evolution of DITA  is taking shape after several branches, with LwDITA as one of those possible  paths for growth.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T093952Z" creationid="DSS" creationdate="20200730T093952Z">
@@ -2486,6 +2558,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These professionals are welcome to try LwDITA as a content-creation alternative; however, they are not the intended audience for the proposed simplified standard.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095501Z" creationid="DSS" creationdate="20200730T095501Z">
+        <seg>他们乐于尝试使用 LwDITA 作为内容创建的替代方案，然而，他们并不是提议的简化标准的目标受众。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These professionals work in environments that depend on the separation of  content in concept, task, reference, and other types.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T091140Z" creationid="DSS" creationdate="20200730T091140Z">
@@ -2513,6 +2593,14 @@
         <seg>This bold decision  of decoupling a version of DITA from its popular document types is supported  by claims that can be summarized in the following three points: 1.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T090124Z" creationid="DSS" creationdate="20200730T090124Z">
+        <seg>将 DITA 与其颇受欢迎的文档类型解耦的大胆决定源自以下三点：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This bold decision of decoupling a version of DITA from its popular document types is supported by claims that can be summarized in the following three points:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095415Z" creationid="DSS" creationdate="20200730T095415Z">
         <seg>将 DITA 与其颇受欢迎的文档类型解耦的大胆决定源自以下三点：</seg>
       </tuv>
     </tu>
