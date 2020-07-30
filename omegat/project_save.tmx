@@ -1746,6 +1746,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Information development and content management standards, like DITA and LwDITA, can be good examples of that description, as the process behind their releases can be complicated, and the consensus-driven nature of standards development takes time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T124257Z" creationid="DSS" creationdate="20200730T124257Z">
+        <seg>信息开发和内容管理标准（如DITA和LwDITA）就是印证这句话的很好的例子，因为内容发布背后的过程可能及其复杂，而且标准开发的共识驱动性质需要时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Instead of designing custom tags and depending on a publishing team to design templates and validation tools, he can use DITA's content types and take advan&lt;t0/&gt;tage of the benefits listed by Hackos.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T123656Z" creationid="DSS" creationdate="20200724T123656Z">
@@ -1854,6 +1862,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140455Z" creationid="DSS" creationdate="20200726T140424Z">
         <seg>詹姆斯的推文引发了一场关于技术传播课程和项目中涉及的众多话题的讨论。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>JoAnn Hackos explained that “standards development is deliberately slow and methodical.” According to Hackos:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T124343Z" creationid="DSS" creationdate="20200730T124343Z">
+        <seg>乔安· 哈克斯解释说：“标准的开发是故意安排得缓慢而又井然有序的。”哈克斯表示：</seg>
       </tuv>
     </tu>
     <tu>
@@ -2546,6 +2562,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T065840Z" creationid="DSS" creationdate="20200725T065840Z">
         <seg>菜谱结构固定，各个组成部分清晰明了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The slow pace ensures that representatives from the larger community worldwide have time to review and comment, adding their perspectives and concerns and, as a consequence, improving the standard.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T124804Z" creationid="DSS" creationdate="20200730T124804Z">
+        <seg>缓慢的步伐为来自世界范围内较大社区的代表们提供了审查和评价的时间保障，他们可以增加观点、提出疑虑，从而提高了标准。</seg>
       </tuv>
     </tu>
     <tu>
