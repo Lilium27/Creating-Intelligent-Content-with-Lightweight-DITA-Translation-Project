@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(The Information Mapping&lt;t0/&gt;®&lt;t1/&gt; Method, n.d.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T084419Z" creationid="DSS" creationdate="20200731T084419Z">
+        <seg>（信息映射&lt;t0/&gt;®&lt;t1/&gt; 方法，未注明日期）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>156–157).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T082811Z" creationid="DSS" creationdate="20200730T082811Z">
@@ -130,6 +138,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T082639Z" creationid="DSS" creationdate="20200730T082639Z">
         <seg>在科技和技术传播的世界里，DITA 和结构化创作并不是唯一使用进化概念来描述体裁变化的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>40 years later, The Method has been embraced by hundreds of thousands of individuals in 40 countries, stand&lt;t2/&gt;ing the test of time and technological evolution.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T084147Z" creationid="DSS" creationdate="20200731T084147Z">
+        <seg>40年后，这种方法已经被40个国家的数十万人接受，经受住了时间和技术发展的考验。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1870,6 +1886,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154443Z" creationid="DSS" creationdate="20200726T154443Z">
         <seg>如果你对 XML 结构不太熟悉，不用担心。后面的章节会详细讨论本书中出现的XML元素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In 1965, Robert E. Horn initiated the research into and design of the Information Mapping&lt;t0/&gt;®&lt;t1/&gt; method, initially developed as both a way of visually presenting information and a method for analyzing information to make it easier to communicate.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T084145Z" creationid="DSS" creationdate="20200731T084145Z">
+        <seg>1965年，Robert E. Horn开始对信息映射&lt;t0/&gt;®&lt;t1/&gt;方法进行研究和设计，最初发展为一种视觉化的信息呈现方式和分析信息的方法，使信息更易于交流。</seg>
       </tuv>
     </tu>
     <tu>
