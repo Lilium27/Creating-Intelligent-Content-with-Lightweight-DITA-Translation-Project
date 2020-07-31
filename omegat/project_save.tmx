@@ -616,8 +616,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;I insisted on the potential consequences of losing the flagship genre of technical communication, and Carroll painted a bigger picture: &lt;t4/&gt;“It's not just the manual, but the world has changed, and the software and docu&lt;t5/&gt;mentation business model.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200731T135041Z" creationid="lenovo" creationdate="20200731T135041Z">
-        <seg>我坚称丢弃技术传播的标志性体裁将导致一系列潜在的后果，但卡罗尔描绘了一幅更为宏伟的蓝图：“不只是手册发生了变化，而是世界变了，软件和文档业务模式都改变了。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200731T140239Z" creationid="lenovo" creationdate="20200731T135041Z">
+        <seg>我坚称丢弃技术传播的标志性体裁将导致一系列潜在的后果，但卡罗尔描绘了一幅更为宏伟的蓝图：“不只是手册发生了变化，而是世界变了，软件和文档商业模式都改变了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1314,6 +1314,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T094912Z" creationid="DSS" creationdate="20200730T094912Z">
         <seg>卡洛琳·米勒指出，进化“不仅仅是描述体裁变化过程的一个隐喻或一个方便的类比，而是一套将文化变革视为生物进化的重要思想，”（米勒，&lt;t1/&gt;2015&lt;t2/&gt;年，第</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Carroll admitted that, at a personal level, he shares the feeling of nostalgia over the missing manuals.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200731T140331Z" creationid="lenovo" creationdate="20200731T140331Z">
+        <seg>卡罗尔也承认，从个人层面而言，他也同样对手册的消失恋恋不舍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3267,6 +3275,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150607Z" creationid="DSS" creationdate="20200726T073904Z">
         <seg>可能会用上一些  &lt;t4/&gt;&lt;step&gt; &lt;t5/&gt; &lt;t6/&gt;元素，并在每个步骤中使用 &lt;t7/&gt;&lt;cmd&gt; &lt;t8/&gt; 元素表示命令。但当 佩德罗查看任务（task）话题&lt;t9/&gt;2&lt;t10/&gt;中的所有可用元素时，事情变得相当复杂，这些元素包括：&lt;t11/&gt;&lt;taskbody&gt;&lt;t12/&gt;, &lt;t13/&gt;&lt;prereq&gt;&lt;t14/&gt;, &lt;t15/&gt;&lt;context&gt;&lt;t16/&gt;, &lt;t17/&gt;&lt;steps&gt;&lt;t18/&gt;, &lt;t19/&gt;&lt;steps-informal&gt;&lt;t20/&gt;, &lt;t21/&gt;&lt;steps- unordered&gt;&lt;t22/&gt;, &lt;t23/&gt;&lt;step&gt;&lt;t24/&gt;, &lt;t25/&gt;&lt;stepsection&gt;&lt;t26/&gt;, &lt;t27/&gt;&lt;cmd&gt;&lt;t28/&gt;, &lt;t29/&gt;&lt;info&gt;&lt;t30/&gt;, &lt;t31/&gt;&lt;substeps&gt;&lt;t32/&gt;, &lt;t33/&gt;&lt;substep&gt;&lt;t34/&gt;, &lt;t35/&gt;&lt;stepxmp&gt;&lt;t36/&gt;, &lt;t37/&gt;&lt;choicetable&gt;&lt;t38/&gt;, &lt;t39/&gt;&lt;chhead&gt;&lt;t40/&gt;, &lt;t41/&gt;&lt;choptionhd&gt;&lt;t42/&gt;, &lt;t43/&gt;&lt;chdeschd&gt;&lt;t44/&gt;, &lt;t45/&gt;&lt;chrow&gt;&lt;t46/&gt;, &lt;t47/&gt;&lt;choption&gt;&lt;t48/&gt;, &lt;t49/&gt;&lt;chdesc&gt;&lt;t50/&gt;, &lt;t51/&gt;&lt;choices&gt;&lt;t52/&gt;, &lt;t53/&gt;&lt;steptroubleshooting&gt;&lt;t54/&gt;, &lt;t55/&gt;&lt;stepresult&gt;&lt;t56/&gt;, &lt;t57/&gt;&lt;tutorialinfo&gt;&lt;t58/&gt;, &lt;t59/&gt;&lt;tasktroubleshooting&gt;&lt;t60/&gt;, &lt;t61/&gt;&lt;result&gt;&lt;t62/&gt;, and &lt;t63/&gt;&lt;postreq&gt;&lt;t64/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There's no business model for that.”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200731T140246Z" creationid="lenovo" creationdate="20200731T140213Z">
+        <seg>不存在这样的商业模式”</seg>
       </tuv>
     </tu>
     <tu>
