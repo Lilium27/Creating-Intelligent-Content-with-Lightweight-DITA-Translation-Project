@@ -2469,6 +2469,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That message was followed, on March &lt;t0/&gt;20, 2012 &lt;t1/&gt;by the first Lightweight DITA proposal, also known as proposal &lt;t2/&gt;13076, &lt;t3/&gt;presented by Michael Priestley to the OASIS DITA Technical Committee.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T073338Z" creationid="DSS" creationdate="20200731T073338Z">
+        <seg>&lt;t0/&gt;2012&lt;t1/&gt;年3月20日，迈克尔·普里斯特利y向 OASIS DITA 技术委员会提交了第一个轻量级 DITA 提案，也被称为第  &lt;t2/&gt;13076&lt;t3/&gt; 号提案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That process of specialization, with some limitations in HDITA and MDITA, is allowed in LwDITA.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T122052Z" creationid="DSS" creationdate="20200730T122052Z">
