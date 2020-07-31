@@ -134,6 +134,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;body&gt; &lt;t0/&gt;contains &lt;t1/&gt;&lt;section&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T073833Z" creationid="DSS" creationdate="20200731T073833Z">
+        <seg>&lt;body&gt; &lt;t0/&gt;包含 &lt;t1/&gt;&lt;section&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;p&gt; &lt;t0/&gt;contains &lt;t1/&gt;&lt;ph&gt;&lt;t2/&gt;, &lt;t3/&gt;&lt;xref&gt; &lt;t4/&gt;(cross reference), or text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T074012Z" creationid="DSS" creationdate="20200731T074012Z">
+        <seg>&lt;p&gt; &lt;t0/&gt;包含 &lt;t1/&gt;&lt;ph&gt;&lt;t2/&gt;、&lt;t3/&gt;&lt;xref&gt; &lt;t4/&gt;（交叉引用）和文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;ph&gt; &lt;t0/&gt;contains &lt;t1/&gt;&lt;ph&gt; &lt;t2/&gt;or text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T074138Z" creationid="DSS" creationdate="20200731T074138Z">
+        <seg>&lt;ph&gt; &lt;t0/&gt;包含 &lt;t1/&gt;&lt;ph&gt; &lt;t2/&gt;和文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;prereq&gt; &lt;t0/&gt;with a list of the ingredients needed for the recipe</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145140Z" creationid="DSS" creationdate="20200725T070017Z">
@@ -146,6 +170,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145136Z" creationid="DSS" creationdate="20200725T070001Z">
         <seg>&lt;prolog&gt;&lt;t0/&gt; 是关于菜谱作者和类别的一些信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;section&gt; &lt;t0/&gt;contains &lt;t1/&gt;&lt;p&gt; &lt;t2/&gt;(paragraph), &lt;t3/&gt;&lt;ul&gt; &lt;t4/&gt;(unordered list), &lt;t5/&gt;&lt;ol&gt; &lt;t6/&gt;(ordered list), &lt;t7/&gt;&lt;simpletable&gt;&lt;t8/&gt;, &lt;t9/&gt;&lt;image&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T073944Z" creationid="DSS" creationdate="20200731T073944Z">
+        <seg>&lt;section&gt; &lt;t0/&gt;包含 &lt;t1/&gt;&lt;p&gt; &lt;t2/&gt;（段落）、&lt;t3/&gt;&lt;ul&gt; &lt;t4/&gt;（无序列表）、&lt;t5/&gt;&lt;ol&gt; &lt;t6/&gt;（有序列表）&lt;t7/&gt;&lt;simpletable&gt;&lt;t8/&gt;和&lt;t9/&gt;&lt;image&gt;</seg>
       </tuv>
     </tu>
     <tu>
