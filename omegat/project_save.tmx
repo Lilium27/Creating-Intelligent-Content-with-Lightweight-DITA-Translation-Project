@@ -352,8 +352,8 @@
       <tuv lang="en">
         <seg>&lt;t1/&gt;As I write this, I am a member of the CHCI executive committee and chair of its education-oriented strategic planning group.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T095220Z" creationid="lenovo" creationdate="20200723T095220Z">
-        <seg>&lt;t1/&gt;我著书时，是CHCI执行委员会成员，并且担任了技术导向战略计划团体的主席</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200731T133617Z" creationid="lenovo" creationdate="20200723T095220Z">
+        <seg>&lt;t1/&gt;我著书时，是CHCI执行委员会成员，并且担任了技术导向战略计划团体的主席。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3660,6 +3660,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T153524Z" creationid="DSS" creationdate="20200720T133600Z">
         <seg>是的，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Yet, John Carroll and I never worked together, as he left Virginia Tech a few months before I arrived as an assistant professor in &lt;t2/&gt;2004.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200731T134026Z" creationid="lenovo" creationdate="20200731T134026Z">
+        <seg>然而我和约翰·卡罗尔并未共事过，因为2004年我作为助理教授加入弗吉尼亚理工大学时，他就已经离开数月了。</seg>
       </tuv>
     </tu>
     <tu>
