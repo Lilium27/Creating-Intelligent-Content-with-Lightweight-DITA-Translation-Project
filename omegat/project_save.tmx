@@ -198,10 +198,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;simpletable&gt; &lt;t0/&gt;contains &lt;t1/&gt;1 &lt;t2/&gt;&lt;sthead&gt; &lt;t3/&gt;(simple table header; optional), &lt;t4/&gt;&lt;strow&gt; &lt;t5/&gt;(simple table row)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T074948Z" creationid="DSS" creationdate="20200731T074948Z">
+        <seg>&lt;simpletable&gt; &lt;t0/&gt;包含 &lt;t1/&gt;1个&lt;t2/&gt;&lt;sthead&gt; &lt;t3/&gt;（简单的可选表头）和&lt;t4/&gt;&lt;strow&gt; &lt;t5/&gt;（简单的表行）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;stentry&gt; &lt;t0/&gt;contains &lt;t1/&gt;&lt;p&gt;&lt;t2/&gt;, &lt;t3/&gt;&lt;ul&gt;&lt;t4/&gt;, &lt;t5/&gt;&lt;ol&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T075042Z" creationid="DSS" creationdate="20200731T075042Z">
+        <seg>&lt;stentry&gt; &lt;t0/&gt;包含 &lt;t1/&gt;&lt;p&gt;&lt;t2/&gt;、&lt;t3/&gt;&lt;ul&gt;&lt;t4/&gt;和&lt;t5/&gt;&lt;ol&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;steps&gt; &lt;t0/&gt;with a collection of individual &lt;t1/&gt;&lt;step&gt; &lt;t2/&gt;elements containing a command (&lt;t3/&gt;&lt;cmd&gt;&lt;t4/&gt;) with an action verb.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145216Z" creationid="DSS" creationdate="20200725T070412Z">
         <seg>&lt;steps&gt; &lt;t0/&gt;包含一系列独立的 &lt;t1/&gt;&lt;step&gt;&lt;t2/&gt; 元素，每个 &lt;step&gt; 元素都包含一个带有动词的命令（&lt;t3/&gt;&lt;cmd&gt;&lt;t4/&gt;）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;sthead&gt;&lt;t0/&gt;/&lt;t1/&gt;&lt;strow&gt; &lt;t2/&gt;contain &lt;t3/&gt;&lt;stentry&gt; &lt;t4/&gt;(simple table entry or data)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T075026Z" creationid="DSS" creationdate="20200731T075026Z">
+        <seg>&lt;sthead&gt;&lt;t0/&gt;或&lt;t1/&gt;&lt;strow&gt; &lt;t2/&gt;包含 &lt;t3/&gt;&lt;stentry&gt; &lt;t4/&gt;（简单的表条目或数据）</seg>
       </tuv>
     </tu>
     <tu>
