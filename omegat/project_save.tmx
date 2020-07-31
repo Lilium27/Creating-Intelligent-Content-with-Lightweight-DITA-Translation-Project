@@ -942,6 +942,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After years of fielding the question “Is DITA related to Information Mapping?”, the Information Mapping company released a white paper, in 2011, titled “Information Mapping&lt;t0/&gt;® &lt;t1/&gt;and DITA: Two Worlds, One Solution.” The white paper had the objective of explaining “why it does not make sense &lt;t2/&gt;to move from Information Mapping&lt;t3/&gt;® &lt;t4/&gt;to DITA, or vice versa,” and it posited that “Information Mapping&lt;t5/&gt;® &lt;t6/&gt;and DITA both have their strengths and weak&lt;t7/&gt;nesses, and combining them may lead to the best results for an organization” (2011, p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T091143Z" creationid="DSS" creationdate="20200731T091022Z">
+        <seg>信息映射公司多年来一直在回答一个问题：“ DITA 与信息映射&lt;t0/&gt;® &lt;t1/&gt;有关吗?“2011年，信息映射公司发布了《信息映射和 DITA：两个世界，一个解决方案》白皮书。白皮书旨在解释“为什么从信息映射&lt;t3/&gt;® &lt;t4/&gt;转换到 DITA 是没有意义的，反之亦然”，白皮书表示“信息映射&lt;t5/&gt;® &lt;t6/&gt;和 DITA 有各自的优缺点，将二者结合可以达到最佳效果”（2011年，第</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allowing learners to start immediately on meaningfully realistic tasks</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T074649Z" creationid="lenovo" creationdate="20200723T074649Z">
@@ -2850,6 +2858,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T091204Z" creationid="DSS" creationdate="20200730T091204Z">
         <seg>LwDITA 的理想用户是使用 HTML 或 Markdown 并可以使用（或不使用）简单 XML 语法（不用包含数百种元素类型）的人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The 12-page white paper dedicated some 70 words to describe some “strengths” of DITA (increase in content reuse, reduction in localization costs, and reduction in desktop publishing costs).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T091031Z" creationid="DSS" creationdate="20200731T091031Z">
+        <seg>这份12页的白皮书用大约70个词描述了 DITA 的“优势”（增加内容复用、降低本地化成本和降低桌面发布成本等）。</seg>
       </tuv>
     </tu>
     <tu>
