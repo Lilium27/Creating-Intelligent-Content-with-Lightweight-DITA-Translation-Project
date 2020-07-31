@@ -2266,6 +2266,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LwDITA and Information Mapping®: The Merger that</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T082455Z" creationid="DSS" creationdate="20200731T082455Z">
+        <seg>LwDITA 和信息映射®：不是合并</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LwDITA does not have existing DITA users as its primary audience.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T091120Z" creationid="DSS" creationdate="20200730T091120Z">
