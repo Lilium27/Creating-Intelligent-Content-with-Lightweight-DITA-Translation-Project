@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(Horn et al., 1969, p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T084920Z" creationid="DSS" creationdate="20200731T084920Z">
+        <seg>（霍恩等，1969年，第</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(Kaplan, &lt;t0/&gt;2014)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143423Z" creationid="DSS" creationdate="20200727T081023Z">
@@ -114,6 +122,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T093832Z" creationid="DSS" creationdate="20200730T093832Z">
         <seg>2. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>3)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T084924Z" creationid="DSS" creationdate="20200731T084924Z">
+        <seg>3页）</seg>
       </tuv>
     </tu>
     <tu>
@@ -1908,8 +1924,8 @@
       <tuv lang="en">
         <seg>In 1969, Horn and his co-authors released a report introducing the method as an approach for structuring and organizing training content, which included the following definition:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T084821Z" creationid="DSS" creationdate="20200731T084442Z">
-        <seg>1969年，霍恩和他的合著者发表了一份报告，表示信息映射是结构化和组织培训内容的一种方法，其定义如下:</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T084845Z" creationid="DSS" creationdate="20200731T084442Z">
+        <seg>1969年，霍恩和他的合著者发表了一份报告，表示信息映射是结构化和组织培训内容的一种方法，其定义如下：</seg>
       </tuv>
     </tu>
     <tu>
@@ -2078,6 +2094,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T124257Z" creationid="DSS" creationdate="20200730T124257Z">
         <seg>信息开发和内容管理标准（如DITA和LwDITA）就是印证这句话的很好的例子，因为内容发布背后的过程可能及其复杂，而且标准开发的共识驱动性质需要时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Information mapping is a system of principles for identifying, categoriz&lt;t0/&gt;ing, and interrelating the information required for learning-reference purposes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T084859Z" creationid="DSS" creationdate="20200731T084859Z">
+        <seg>信息映射是一套用于识别、分类和关联学习参考所需信息的系统。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2374,6 +2398,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150708Z" creationid="DSS" creationdate="20200726T082353Z">
         <seg>迈克尔·普里斯特利是 IBM 高级技术人员和企业内容技术策略师，被誉为 DITA 的“创始人”（埃瑟里奇，&lt;t0/&gt;2016&lt;t1/&gt;年），他认为轻量级 DITA （LwDITA，全称为“Lightweight DITA”）一种创建结构化内容的简单方式，与基于 XML 的 DITA  相比，可以用更少的元素、更紧凑的内容模型和简化的专有体系结构来定义新类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Most of the research and development work described in this report was concerned with information-mapped books.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T084848Z" creationid="DSS" creationdate="20200731T084848Z">
+        <seg>本报告中描述的大部分研究和发展工作都与信息映射书籍有关。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3019,6 +3051,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145247Z" creationid="DSS" creationdate="20200725T071115Z">
         <seg>DITA 标准“是一种经过充分检验的&lt;t2/&gt;用于 XML 创作的 DTD 或模式”的含义表示 DITA 包含了技术出版物中常用的元素或操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The system can be applied to production of books for self&lt;t1/&gt;instruction or to the specification of data bases for computer-aided instruction.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T084855Z" creationid="DSS" creationdate="20200731T084840Z">
+        <seg>该系统可用于制作自学书籍，也可用于规范计算机辅助教学的数据库。</seg>
       </tuv>
     </tu>
     <tu>
