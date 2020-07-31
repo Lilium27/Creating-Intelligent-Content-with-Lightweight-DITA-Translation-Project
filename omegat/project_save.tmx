@@ -176,8 +176,8 @@
       <tuv lang="en">
         <seg>&lt;section&gt; &lt;t0/&gt;contains &lt;t1/&gt;&lt;p&gt; &lt;t2/&gt;(paragraph), &lt;t3/&gt;&lt;ul&gt; &lt;t4/&gt;(unordered list), &lt;t5/&gt;&lt;ol&gt; &lt;t6/&gt;(ordered list), &lt;t7/&gt;&lt;simpletable&gt;&lt;t8/&gt;, &lt;t9/&gt;&lt;image&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T073944Z" creationid="DSS" creationdate="20200731T073944Z">
-        <seg>&lt;section&gt; &lt;t0/&gt;包含 &lt;t1/&gt;&lt;p&gt; &lt;t2/&gt;（段落）、&lt;t3/&gt;&lt;ul&gt; &lt;t4/&gt;（无序列表）、&lt;t5/&gt;&lt;ol&gt; &lt;t6/&gt;（有序列表）&lt;t7/&gt;&lt;simpletable&gt;&lt;t8/&gt;和&lt;t9/&gt;&lt;image&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T074608Z" creationid="DSS" creationdate="20200731T073944Z">
+        <seg>&lt;section&gt; &lt;t0/&gt;包含 &lt;t1/&gt;&lt;p&gt; &lt;t2/&gt;（段落）、&lt;t3/&gt;&lt;ul&gt; &lt;t4/&gt;（无序列表）、&lt;t5/&gt;&lt;ol&gt; &lt;t6/&gt;（有序列表）&lt;t7/&gt;&lt;simpletable&gt;&lt;t8/&gt; 和 &lt;t9/&gt;&lt;image&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -696,8 +696,16 @@
       <tuv lang="en">
         <seg>&lt;topic&gt; &lt;t0/&gt;contains &lt;t1/&gt;&lt;title&gt;&lt;t2/&gt;, &lt;t3/&gt;&lt;shortdesc&gt; &lt;t4/&gt;(short description), &lt;t5/&gt;&lt;body&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T073700Z" creationid="DSS" creationdate="20200731T073700Z">
-        <seg>&lt;topic&gt; &lt;t0/&gt; 包含 &lt;t1/&gt;&lt;title&gt;&lt;t2/&gt;、&lt;t3/&gt;&lt;shortdesc&gt; &lt;t4/&gt;（简短介绍）和 &lt;t5/&gt;&lt;body&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T074632Z" creationid="DSS" creationdate="20200731T073700Z">
+        <seg>&lt;topic&gt; &lt;t0/&gt;包含 &lt;t1/&gt;&lt;title&gt;&lt;t2/&gt;、&lt;t3/&gt;&lt;shortdesc&gt; &lt;t4/&gt;（简短介绍）和 &lt;t5/&gt;&lt;body</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;ul&gt;&lt;t0/&gt;/&lt;t1/&gt;&lt;ol&gt; &lt;t2/&gt;contain &lt;t3/&gt;&lt;li&gt; &lt;t4/&gt;(list item)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T074718Z" creationid="DSS" creationdate="20200731T074557Z">
+        <seg>&lt;ul&gt;&lt;t0/&gt;或&lt;t1/&gt;&lt;ol&gt; &lt;t2/&gt;包含 &lt;t3/&gt;&lt;li&gt; &lt;t4/&gt;（列表项目）</seg>
       </tuv>
     </tu>
     <tu>
