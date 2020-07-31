@@ -702,6 +702,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;xref&gt; &lt;t0/&gt;contains text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T074521Z" creationid="DSS" creationdate="20200731T074521Z">
+        <seg>&lt;xref&gt; &lt;t0/&gt;包含文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A basic topic can also include a flexible procedure, or even provide pointers for a web-based product tour with some JavaScript processing, among many other applications.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T091103Z" creationid="DSS" creationdate="20200725T091054Z">
