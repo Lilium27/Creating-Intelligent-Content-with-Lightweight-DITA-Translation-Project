@@ -134,10 +134,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;alt&gt; &lt;t0/&gt;contains text.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T075126Z" creationid="DSS" creationdate="20200731T075126Z">
+        <seg>&lt;alt&gt; &lt;t0/&gt;包含文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;body&gt; &lt;t0/&gt;contains &lt;t1/&gt;&lt;section&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T073833Z" creationid="DSS" creationdate="20200731T073833Z">
         <seg>&lt;body&gt; &lt;t0/&gt;包含 &lt;t1/&gt;&lt;section&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;image&gt; &lt;t0/&gt;contains &lt;t1/&gt;&lt;alt&gt; &lt;t2/&gt;(alternate text)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T075111Z" creationid="DSS" creationdate="20200731T075111Z">
+        <seg>&lt;image&gt; &lt;t0/&gt;包含 &lt;t1/&gt;&lt;alt&gt; &lt;t2/&gt;（替代文本）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;map&gt; &lt;t0/&gt;contains &lt;t1/&gt;&lt;title&gt;&lt;t2/&gt;, &lt;t3/&gt;&lt;topicref&gt; &lt;t4/&gt;(topic hyper-reference)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T075154Z" creationid="DSS" creationdate="20200731T075154Z">
+        <seg>&lt;map&gt; &lt;t0/&gt;包含 &lt;t1/&gt;&lt;title&gt;&lt;t2/&gt;、&lt;t3/&gt;&lt;topicref&gt; &lt;t4/&gt;（话题超链接）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;navtitle&gt; &lt;t0/&gt;contains &lt;t1/&gt;&lt;ph&gt; &lt;t2/&gt;or text.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T075342Z" creationid="DSS" creationdate="20200731T075342Z">
+        <seg>&lt;navtitle&gt; &lt;t0/&gt;包含 &lt;t1/&gt;&lt;ph&gt; &lt;t2/&gt;或文本.</seg>
       </tuv>
     </tu>
     <tu>
@@ -718,10 +750,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;title&gt; &lt;t0/&gt;contains &lt;t1/&gt;&lt;ph&gt; &lt;t2/&gt;or text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T075212Z" creationid="DSS" creationdate="20200731T075212Z">
+        <seg>&lt;title&gt; &lt;t0/&gt;包含 &lt;t1/&gt;&lt;ph&gt; &lt;t2/&gt;或文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;topic&gt; &lt;t0/&gt;contains &lt;t1/&gt;&lt;title&gt;&lt;t2/&gt;, &lt;t3/&gt;&lt;shortdesc&gt; &lt;t4/&gt;(short description), &lt;t5/&gt;&lt;body&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T074632Z" creationid="DSS" creationdate="20200731T073700Z">
         <seg>&lt;topic&gt; &lt;t0/&gt;包含 &lt;t1/&gt;&lt;title&gt;&lt;t2/&gt;、&lt;t3/&gt;&lt;shortdesc&gt; &lt;t4/&gt;（简短介绍）和 &lt;t5/&gt;&lt;body</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;topicmeta&gt; &lt;t0/&gt;contains &lt;t1/&gt;&lt;navtitle&gt; &lt;t2/&gt;(navigation title)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T075314Z" creationid="DSS" creationdate="20200731T075314Z">
+        <seg>&lt;topicmeta&gt; &lt;t0/&gt;包含 &lt;t1/&gt;&lt;navtitle&gt; &lt;t2/&gt;（导航标题）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;topicref&gt; &lt;t0/&gt;contains &lt;t1/&gt;&lt;topicmeta&gt; &lt;t2/&gt;(topic metadata) or a new version of &lt;t3/&gt;&lt;topicref&gt; &lt;t4/&gt;including &lt;t5/&gt;&lt;title&gt; &lt;t6/&gt;as option before &lt;t7/&gt;&lt;topicmeta&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T075605Z" creationid="DSS" creationdate="20200731T075246Z">
+        <seg>&lt;topicref&gt; &lt;t0/&gt;包含 &lt;t1/&gt;&lt;topicmeta&gt; &lt;t2/&gt;（话题元数据）或新版 &lt;t3/&gt;&lt;topicref&gt; &lt;t4/&gt;中，&lt;t5/&gt;&lt;title&gt; &lt;t6/&gt;作为可选项，可以出现在 &lt;t7/&gt;&lt;topicmeta&gt;前</seg>
       </tuv>
     </tu>
     <tu>
