@@ -1522,6 +1522,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE 3.1 &lt;t0/&gt;Prototype of an early LwDITA topic created by Michael Priestley in&lt;t1/&gt; the summer of 2012.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T082123Z" creationid="DSS" creationdate="20200731T082123Z">
+        <seg>图3.1 &lt;t0/&gt;迈克尔·普里斯特利于在&lt;t1/&gt;2012年夏天创建的早期 LwDITA 话题的原型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;1.1 &lt;t1/&gt;Screen capture from the video “The Future of Technical Communication,” by Adobe Technical Communication Suite.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T142810Z" creationid="DSS" creationdate="20200724T121058Z">
@@ -2475,6 +2483,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Priestley's basic topic appears on &lt;t8/&gt;Figure &lt;t9/&gt;3.1&lt;t10/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T082047Z" creationid="DSS" creationdate="20200731T082047Z">
+        <seg>基于Priestley提案的基本话题如&lt;t8/&gt;图&lt;t9/&gt;3.1&lt;t10/&gt;所示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Priestley's proposal emphasized that the lightweight topic only included &lt;t0/&gt;16 &lt;t1/&gt;elements, and that all attributes, with the exception of &lt;t2/&gt;@id &lt;t3/&gt;on &lt;t4/&gt;&lt;topic&gt;&lt;t5/&gt;, were optional.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T075947Z" creationid="DSS" creationdate="20200731T075807Z">
@@ -2887,6 +2903,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The revised topic type depended on a series of constraint declarations that would give instructions to DITA processors.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T082033Z" creationid="DSS" creationdate="20200731T082033Z">
+        <seg>修改后的话题类型依赖于一系列约束声明，这些声明将向DITA处理器提供指令。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The simplified map content model included the following elements:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T080307Z" creationid="DSS" creationdate="20200731T075822Z">
@@ -2923,6 +2947,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T093613Z" creationid="lenovo" creationdate="20200723T021125Z">
         <seg>卡罗尔所著的这本颇有影响力的书享有“传奇《纽伦堡漏斗》能让你瞬间开悟”的盛誉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The values for the domains attribute, in bold, give constraining instructions to processors.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T082140Z" creationid="DSS" creationdate="20200731T082140Z">
+        <seg>“domains”属性的值是粗体，可以向处理器提供约束指令。</seg>
       </tuv>
     </tu>
     <tu>
