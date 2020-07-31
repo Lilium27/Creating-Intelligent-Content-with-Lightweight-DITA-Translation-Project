@@ -614,6 +614,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t3/&gt;I insisted on the potential consequences of losing the flagship genre of technical communication, and Carroll painted a bigger picture: &lt;t4/&gt;“It's not just the manual, but the world has changed, and the software and docu&lt;t5/&gt;mentation business model.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200731T135041Z" creationid="lenovo" creationdate="20200731T135041Z">
+        <seg>我坚称丢弃技术传播的标志性体裁将导致一系列潜在的后果，但卡罗尔描绘了一幅更为宏伟的蓝图：“不只是手册发生了变化，而是世界变了，软件和文档业务模式都改变了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t3/&gt;In this introductory chapter I will only present the results of transformations using the DITA-OT, but in &lt;t4/&gt;Chapter &lt;t5/&gt;5&lt;t6/&gt; &lt;t7/&gt;I will focus on specific steps for conducting those transformations.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145418Z" creationid="DSS" creationdate="20200725T082636Z">
