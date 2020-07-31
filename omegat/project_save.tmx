@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t0/&gt;3.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T071546Z" creationid="DSS" creationdate="20200731T071546Z">
+        <seg>&lt;t0/&gt;3. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t0/&gt;Creating Intelligent Content with Lightweight DITA&lt;t1/&gt; shows structured authoring in practice with&lt;t2/&gt;out the need for sophisticated software tools.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150925Z" creationid="DSS" creationdate="20200726T091855Z">
@@ -178,6 +186,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144132Z" creationid="DSS" creationdate="20200726T154755Z">
         <seg>&lt;t1/&gt;戴解释说，在命名该标准时，是想用DITA“这个简洁易记的缩写词传递大量信息”：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t1/&gt;Users perceive lower cost, lower com&lt;t2/&gt;plexity at the range of use they expect, and can move up as requirements dictate (basically playing to progression of needs and investments in the DITA Maturity Model).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T071605Z" creationid="DSS" creationdate="20200731T071605Z">
+        <seg>&lt;t1/&gt;用户在他们预期的使用范围内，感知到更低的成本和复杂度，并且可以根据需求相应提高（基本上取决于对 DITA 成熟度模型的需求大小和投资程度）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2138,6 +2154,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>New tools can enter the market providing function up to that level, and compete evenly in that space.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T071539Z" creationid="DSS" creationdate="20200731T071539Z">
+        <seg>新工具可以进入市场，提供具有市场水平的功能，并在市场中公平竞争。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No more copy and paste!</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153531Z" creationid="DSS" creationdate="20200726T153531Z">
@@ -3020,6 +3044,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T160552Z" creationid="DSS" creationdate="20200724T155531Z">
         <seg>当“颗粒”、“模块”、“单位”等术语都普遍被用来描述构建块，“主题”（topic）这个术语在过去的几年里获得了最大关注度，特别是在贸易文档领域。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Win/win.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T071607Z" creationid="DSS" creationdate="20200731T071607Z">
+        <seg>这是双赢。</seg>
       </tuv>
     </tu>
     <tu>
