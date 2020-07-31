@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>10).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T091939Z" creationid="DSS" creationdate="20200731T091939Z">
+        <seg>10页）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>156–157).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T082811Z" creationid="DSS" creationdate="20200730T082811Z">
@@ -1530,6 +1538,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Eventually, it called for a combi&lt;t8/&gt;nation of Information Mapping and DITA for structuring and publishing content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T091818Z" creationid="DSS" creationdate="20200731T091818Z">
+        <seg>最终，白皮书呼吁将信息映射和 DITA 结合起来，以构建和发布内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Except they did not.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T090924Z" creationid="lenovo" creationdate="20200723T090924Z">
@@ -1798,6 +1814,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140322Z" creationid="DSS" creationdate="20200726T135307Z">
         <seg>不过，我的确假定来自工业界和学术界的读者对工作流程中的内容开发充满技术上的好奇心，而这些工作流程超越了文字处理器或“所见即所得”（WYSIWYG）的网络编辑器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, many of its claims were based on an &lt;t9/&gt;us-before-them&lt;t10/&gt; trope, which included sentences like “Before you start your DITA project, train your writers in Information Mapping&lt;t11/&gt;®&lt;t12/&gt;,” or “Becoming familiar with Information Mapping&lt;t13/&gt;® &lt;t14/&gt;is a necessary first step towards a successful DITA implementation” (2011, p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T091934Z" creationid="DSS" creationdate="20200731T091934Z">
+        <seg>然而，白皮书中许多声明是基于“&lt;t9/&gt;先学信息映射®，再学 DITA&lt;t10/&gt;”的论调，包括 “在开始 DITA 项目之前，训练写作者使用信息映射&lt;t11/&gt;®&lt;t12/&gt;”或“熟悉信息映射&lt;t13/&gt;® &lt;t14/&gt;是成功迈向 DITA 实践不可或缺的第一步”（2011，第</seg>
       </tuv>
     </tu>
     <tu>
@@ -2910,6 +2934,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The IM white paper implied that authors had to “learn hundreds of DITA tags and attributes to structure the content correctly.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T091954Z" creationid="DSS" creationdate="20200731T091954Z">
+        <seg>IM 白皮书暗示，作者必须“学习数百个 DITA 标签和属性，以便正确地将内容结构化，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Information Mapping web&lt;t4/&gt;site gives the following historical description of the method (and company):</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T084130Z" creationid="DSS" creationdate="20200731T084130Z">
@@ -3299,6 +3331,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154250Z" creationid="DSS" creationdate="20200726T154250Z">
         <seg>对于使用过 HTML 或其他标记语言的读者来说，标记、注释和嵌套数据的过程会非常熟悉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This requires some technical background as well as training and coaching” (2011, p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T092000Z" creationid="DSS" creationdate="20200731T092000Z">
+        <seg>这需要一些技术背景以及培训和指导”（2011，第</seg>
       </tuv>
     </tu>
     <tu>
