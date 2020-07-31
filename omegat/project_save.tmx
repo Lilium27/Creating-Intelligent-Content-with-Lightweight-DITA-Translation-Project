@@ -2459,6 +2459,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Priestley's proposal emphasized that the lightweight topic only included &lt;t0/&gt;16 &lt;t1/&gt;elements, and that all attributes, with the exception of &lt;t2/&gt;@id &lt;t3/&gt;on &lt;t4/&gt;&lt;topic&gt;&lt;t5/&gt;, were optional.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T075807Z" creationid="DSS" creationdate="20200731T075807Z">
+        <seg> 普里斯特利的提案强调轻量级主题只包含&lt;t0/&gt;16 &lt;t1/&gt;个元素，除了&lt;t4/&gt;&lt;topic&gt;&lt;t5/&gt;上的&lt;t2/&gt;@id &lt;t3/&gt;属性之外，所有属性都是可选的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Production editors, who will get involved in defining the transformation files that assign formatting based on structure.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T081326Z" creationid="DSS" creationdate="20200726T153722Z">
@@ -2859,6 +2867,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T065840Z" creationid="DSS" creationdate="20200725T065840Z">
         <seg>菜谱结构固定，各个组成部分清晰明了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The simplified map content model included the following elements:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T075822Z" creationid="DSS" creationdate="20200731T075822Z">
+        <seg>简化后的地图内容模型包括以下元素：</seg>
       </tuv>
     </tu>
     <tu>
