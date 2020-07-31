@@ -2607,6 +2607,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The limited DITA profile was presented as an on-ramp for DITA users who were casual content contributors and did not need all the standard's features.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T073239Z" creationid="DSS" creationdate="20200731T073239Z">
+        <seg>限定版DITA概要是临时的内容写作者和不需要使用 DITA 所有特性的用户接触 DITA  的入口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The literature focuses on three topic types that “represent the vast majority of content produced to support users of technical information” (Hackos, &lt;t0/&gt;2011, &lt;t1/&gt;p.7): concept, task, and reference, which Pringle &lt;t2/&gt;&amp; &lt;t3/&gt;O'Keefe define succinctly as follows:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144836Z" creationid="DSS" creationdate="20200724T162056Z">
