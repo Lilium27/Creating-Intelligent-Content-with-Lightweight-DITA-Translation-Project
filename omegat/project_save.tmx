@@ -3223,6 +3223,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Therefore, it was a surprise when Priestley sent a message to the DITA Technical Committee on October 23, 2012 announcing a merger of sorts between DITA and Information Mapping for the Lightweight DITA proposal.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T092250Z" creationid="DSS" creationdate="20200731T092250Z">
+        <seg>因此，当普里斯特利在2012年10月23日向 DITA 技术委员会宣布 DITA 和信息映射将在轻量级 DITA 提案中合并时，大家都感到很惊讶。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Therefore, this is unequivocally a book about DITA, but it is not a detailed introduction and how-to to the widely adopted XML-based DITA standard (for comprehensive introductory texts to DITA XML, see Hackos, &lt;t3/&gt;2011; &lt;t4/&gt;Bellamy et al., &lt;t5/&gt;2012).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T151119Z" creationid="DSS" creationdate="20200726T135202Z">
