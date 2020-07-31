@@ -2691,6 +2691,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Priestley's revised catalog of lightweight topics expanded from the one “strawman” topic and in the revised version included the following:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T093340Z" creationid="DSS" creationdate="20200731T093340Z">
+        <seg>普里斯特利修订的轻量级话题从“稻草人”话题扩展而来，修订后的版本中包括了以下内容：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Production editors, who will get involved in defining the transformation files that assign formatting based on structure.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T081326Z" creationid="DSS" creationdate="20200726T153722Z">
