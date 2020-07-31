@@ -896,8 +896,8 @@
       <tuv lang="en">
         <seg>After receiving feedback from the DITA Technical Committee, Priestley revised the proposal and, in the summer of &lt;t0/&gt;2012, &lt;t1/&gt;updated the list of topical elements to include &lt;t2/&gt;27 &lt;t3/&gt;XML tags (&lt;t4/&gt;&lt;object&gt;&lt;t5/&gt;, &lt;t6/&gt;&lt;note&gt;&lt;t7/&gt;, and elements related to definition lists were among those added to the original proposal).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T080530Z" creationid="DSS" creationdate="20200731T080530Z">
-        <seg>在收到DITA技术委员会的反馈后，普里斯特利修改了提案，并在&lt;t0/&gt;2012, &lt;t1/&gt;年夏天更新了话题元素列表，更新后包括&lt;t2/&gt;27 &lt;t3/&gt;个XML标签（&lt;t4/&gt;&lt;object&gt;&lt;t5/&gt;、&lt;t6/&gt;&lt;note&gt;&lt;t7/&gt;以及和定义列表相关的元素都在原始提案中）。修改后的话题类型依赖于一系列约束声明，这些声明将向DITA处理器提供指令。基于Priestley提案的基本话题如图3.1所示。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T082027Z" creationid="DSS" creationdate="20200731T080530Z">
+        <seg>在收到DITA技术委员会的反馈后，普里斯特利修改了提案，并在&lt;t0/&gt;2012, &lt;t1/&gt;年夏天更新了话题元素列表，更新后包括&lt;t2/&gt;27 &lt;t3/&gt;个XML标签（&lt;t4/&gt;&lt;object&gt;&lt;t5/&gt;、&lt;t6/&gt;&lt;note&gt;&lt;t7/&gt;以及和定义列表相关的元素都在原始提案中）。</seg>
       </tuv>
     </tu>
     <tu>
