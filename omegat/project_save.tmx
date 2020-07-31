@@ -1994,10 +1994,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this case, they specify that the topic is Lightweight DITA and not full DITA XML, that it should not allow nested lists, and that it should not allow the inclusion of sections inside the topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T082155Z" creationid="DSS" creationdate="20200731T082155Z">
+        <seg>在这个例子中，这些指令规定了话题创建自轻量级 DITA 而不是完整的 DITA XML，所以不允许嵌套列表的出现，话题中不能包含子块。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In using terminology from evolution to describe  how genres change (or evolve) in society, Miller does not “want to be under- stood as suggesting that our understanding of cultural change must borrow  from biology.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T082834Z" creationid="DSS" creationdate="20200730T082834Z">
         <seg>在使用关于进化的术语来描述社会中体裁如何演化时，米勒并不想“被理解为这是在提倡对文化变革的理解必须借鉴生物学的概念。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Incidentally, this is the first written instance of the LwDITA (or “lwdita” in this case) acronym for Lightweight DITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T082213Z" creationid="DSS" creationdate="20200731T082213Z">
+        <seg>此外，这是首次用轻量级 DITA 的首字母缩写（LwDITA，或者如本例中的“lwdita”）代替“Lightweight DITA”。</seg>
       </tuv>
     </tu>
     <tu>
