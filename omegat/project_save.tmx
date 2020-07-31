@@ -3784,6 +3784,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>“When I open a box, and I take something out and there's no manual, that's my first thought: Where's the manual?” For a moment, he acknowl&lt;t0/&gt;edged that readers lost something when the manual became an extinct genre: “The instruction manual was also a symbol of empowerment, almost democratic; that's another source of the nostalgia.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200731T145907Z" creationid="lenovo" creationdate="20200731T145907Z">
+        <seg>“当我打开一个箱子并从中拿出一些东西，却发现里面没有手册，我的第一反应是：手册去哪了？”在这一瞬间，他承认当手册成为绝迹的体裁后，读者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>• &lt;t0/&gt;A community of developers investing in improvements to the DITA model &lt;t1/&gt;• &lt;t2/&gt;An open source toolkit you can use to produce your own output in multiple media without having to invest in proprietary tools</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T082454Z" creationid="DSS" creationdate="20200726T154952Z">
