@@ -1850,6 +1850,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If that sounds like a commercial, it is because the company behind the method emphasizes its copyright.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T084436Z" creationid="DSS" creationdate="20200731T084436Z">
+        <seg>如果这听起来像个广告，那是因为信息映射®方法的公司强调了它的版权。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If that validation process sounds a little too complicated, as an author all you need to know is that the content types enforced by the DITA standard create information topics.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154319Z" creationid="DSS" creationdate="20200724T154209Z">
@@ -1894,6 +1902,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T084145Z" creationid="DSS" creationdate="20200731T084145Z">
         <seg>1965年，Robert E. Horn开始对信息映射&lt;t0/&gt;®&lt;t1/&gt;方法进行研究和设计，最初发展为一种视觉化的信息呈现方式和分析信息的方法，使信息更易于交流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In 1969, Horn and his co-authors released a report introducing the method as an approach for structuring and organizing training content, which included the following definition:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T084821Z" creationid="DSS" creationdate="20200731T084442Z">
+        <seg>1969年，霍恩和他的合著者发表了一份报告，表示信息映射是结构化和组织培训内容的一种方法，其定义如下:</seg>
       </tuv>
     </tu>
     <tu>
