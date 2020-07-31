@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(Priestley, 2012a)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T093136Z" creationid="DSS" creationdate="20200731T093136Z">
+        <seg>（普里斯特利，2012年）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(Priestley, &lt;t0/&gt;2012)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T073414Z" creationid="DSS" creationdate="20200731T073414Z">
@@ -1874,6 +1882,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I wanted to share my thoughts on how the lightweight model could be used to provide starting points for DITA users.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T093034Z" creationid="DSS" creationdate="20200731T093034Z">
+        <seg>我想与大家分享一下我对如何将轻量级模型作为 DITA 用户学习起点的看法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I've been discussing this idea with several vendors and it seems to have traction.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T131350Z" creationid="DSS" creationdate="20200730T131350Z">
@@ -2579,6 +2595,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>One of the key developments here is the result of ongoing discussions with Information Mapping, who are now at the point of contributing their information type definitions to the DITA TC (technical committee) for inclusion in the lightweight pro&lt;t0/&gt;posal.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T093106Z" creationid="DSS" creationdate="20200731T093106Z">
+        <seg>一个关键的进展就是与信息映射进行讨论的结果，他们现在正准备将他们的信息类型定义提交给 DITA TC（技术委员会），以便将其包含在轻量级模型的提案中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>One of the most notorious characteristics of LwDITA in its initial release  is that it does not include the document types of concept, task, and reference  that many users associate with the Darwin Information Typing Architecture.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T084625Z" creationid="DSS" creationdate="20200730T084625Z">
@@ -2938,6 +2962,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T080923Z" creationid="DSS" creationdate="20200726T080923Z">
         <seg>DITA-OT 生成了菜单，并负责该 web 交付物的基本布局。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The IM types correspond to section types in DITA, and so match perfectly with the lightweight model's focus on creating topic types by assembling predefined section types.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T093116Z" creationid="DSS" creationdate="20200731T093116Z">
+        <seg>IM 类型对应于 DITA 中的节（section）类型，因此与轻量级模型非常匹配，二者都是通过组合预定义的节类型来创建话题类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3323,6 +3355,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T083747Z" creationid="DSS" creationdate="20200726T083747Z">
         <seg>这给那些已经开始创作内容的人带去了结构化创作的好处，而不是试图把每个作者都召唤到一个内容平台上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This builds on the lightweight model being proposed in 13076.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T093025Z" creationid="DSS" creationdate="20200731T093025Z">
+        <seg>这建立在第13076号提案提出的轻量级模型之上。</seg>
       </tuv>
     </tu>
     <tu>
