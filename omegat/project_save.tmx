@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;shortdesc&gt; &lt;t0/&gt;contains &lt;t1/&gt;&lt;ph&gt; &lt;t2/&gt;(phrase) or text (directly written inside the tags)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T073817Z" creationid="DSS" creationdate="20200731T073817Z">
+        <seg>&lt;shortdesc&gt; &lt;t0/&gt; 包含 &lt;t1/&gt;&lt;ph&gt; &lt;t2/&gt;（短语）或文本（直接写在标签之内）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;shortdesc&gt; &lt;t0/&gt;with a summary of the topic's contents</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145129Z" creationid="DSS" creationdate="20200725T065936Z">
@@ -650,6 +658,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T115831Z" creationid="DSS" creationdate="20200723T160444Z">
         <seg>&lt;t9/&gt;在学术界，学者们一直赞誉可扩展标记语言（Extensible Markup Language，XML）是一个多世纪以来信息重用、单一来源、特别是内容管理的基础。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;topic&gt; &lt;t0/&gt;contains &lt;t1/&gt;&lt;title&gt;&lt;t2/&gt;, &lt;t3/&gt;&lt;shortdesc&gt; &lt;t4/&gt;(short description), &lt;t5/&gt;&lt;body&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T073700Z" creationid="DSS" creationdate="20200731T073700Z">
+        <seg>&lt;topic&gt; &lt;t0/&gt; 包含 &lt;t1/&gt;&lt;title&gt;&lt;t2/&gt;、&lt;t3/&gt;&lt;shortdesc&gt; &lt;t4/&gt;（简短介绍）和 &lt;t5/&gt;&lt;body&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1798,6 +1814,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T131358Z" creationid="DSS" creationdate="20200730T131358Z">
         <seg>简而言之，一些新用户（特别是那些职业不是技术写作人员的用户）不一定需要体验完整版 DITA 的功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In that initial proposal, which was still depending on XML as its only authoring language, the simplified topic content model included the following elements or topical conventions:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T073542Z" creationid="DSS" creationdate="20200731T073542Z">
+        <seg>最初的提议仍然依赖 XML 作为其唯一的创作语言，在最初的提议中，简化的话题内容模型包括以下元素或话题规则：</seg>
       </tuv>
     </tu>
     <tu>
