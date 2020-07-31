@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>8).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T092002Z" creationid="DSS" creationdate="20200731T092002Z">
+        <seg>8页）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;alt&gt; &lt;t0/&gt;contains text.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T075126Z" creationid="DSS" creationdate="20200731T075126Z">
