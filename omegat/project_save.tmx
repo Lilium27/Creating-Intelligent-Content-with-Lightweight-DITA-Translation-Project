@@ -934,6 +934,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Actually, the answer (for the manual's disappearance) is not minimalism, but money.” Carroll explained that with computing systems like notebook computers and smartphones (which are considerably more affordable than their mainframe ancestors in the 1980s and earlier), “there's no way to economically produce definitive manuals that cheap.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200731T140143Z" creationid="lenovo" creationdate="20200731T140143Z">
+        <seg>实际上，（手册消失）的原因并不是极简主义而是金钱。”卡罗尔解释道，利用笔记本和智能机等计算系统（价钱要远低于上世纪80年代以前的大型机），“没法生产出既定义明确又价格低廉的手册”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Additionally, O'Keefe provides a sample XML file that presents a recipe for making marinara sauce.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T155305Z" creationid="DSS" creationdate="20200726T154221Z">
@@ -3508,6 +3516,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200718T121755Z" creationid="lenovo" creationdate="20200718T120730Z">
         <seg>使用轻量 DITA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We cannot afford the manual.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200731T135149Z" creationid="lenovo" creationdate="20200731T135149Z">
+        <seg>手册已经不合算了。</seg>
       </tuv>
     </tu>
     <tu>
