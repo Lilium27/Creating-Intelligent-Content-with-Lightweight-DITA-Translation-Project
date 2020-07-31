@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(Priestley, &lt;t0/&gt;2012)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T073414Z" creationid="DSS" creationdate="20200731T073414Z">
+        <seg>（普里斯特利，&lt;t0/&gt;2012年）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(Priestley, quoted in Etheridge, &lt;t0/&gt;2016)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150749Z" creationid="DSS" creationdate="20200726T083909Z">
@@ -2291,6 +2299,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Priestley introduced the proposal by saying that:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T073354Z" creationid="DSS" creationdate="20200731T073354Z">
+        <seg>普里斯特利介绍这个提议时说：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Production editors, who will get involved in defining the transformation files that assign formatting based on structure.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T081326Z" creationid="DSS" creationdate="20200726T153722Z">
@@ -2611,6 +2627,14 @@
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T091045Z" creationid="DSS" creationdate="20200725T091045Z">
         <seg>通用话题包含关于段落和列表的简单标签，可以标记一篇营销博文。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The goal is to create a lightweight DITA framework that can ease adop&lt;t0/&gt;tion for casual, contributing, or non-technical authors.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T073402Z" creationid="DSS" creationdate="20200731T073402Z">
+        <seg>我们的目标是创建一个轻量级DITA框架，它可以方便临时的、辅助性的或非技术写作人员的作者使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3004,6 +3028,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T094927Z" creationid="lenovo" creationdate="20200723T094927Z">
         <seg>我们想起了卡罗尔在1995年创立的弗吉尼亚理工大学人机交互中心(CHCI)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We want to make both editing and specialization easier for vendors to support by limiting options and choice points.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T073409Z" creationid="DSS" creationdate="20200731T073409Z">
+        <seg>我们希望通过限制选项和选择点，使供应商更容易支持内容编写和话题专门化。</seg>
       </tuv>
     </tu>
     <tu>
