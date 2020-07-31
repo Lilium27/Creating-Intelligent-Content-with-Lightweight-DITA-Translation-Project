@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(LimitedDitaProfile, &lt;t0/&gt;2011)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T072502Z" creationid="DSS" creationdate="20200731T072502Z">
+        <seg>（限定版 DITA 标准概要，2011年）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(Mathewson, &lt;t0/&gt;2016)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T155913Z" creationid="DSS" creationdate="20200720T134229Z">
