@@ -2809,8 +2809,8 @@
       <tuv lang="en">
         <seg>These users can be casual content contributors (e.g., a subject matter expert who authors short topics that a technical author will later integrate into a larger DITA collection) or authors who are not working with DITA XML (e.g., marketing professionals creating intelligent content for multi&lt;t5/&gt;channel publishing, or even technical writers who prefer to write in HTML or Markdown).&lt;t6/&gt; Chapter &lt;t7/&gt;4&lt;t8/&gt; &lt;t9/&gt;identifies additional user types for the three ini&lt;t10/&gt;tial authoring formats of LwDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095719Z" creationid="DSS" creationdate="20200730T095547Z">
-        <seg>这些用户可能是随性内容贡献者（比如，编写简短的话题的主题专家，这些话题将由技术写作人员整合成一个更大的 DITA 集合）或作者不使用 DITA XML（例如，创建可以多渠道发布的智能内容的营销专业人士，甚至是喜欢用 HTML 或 Markdown 的技术写作人员）。&lt;t6/&gt;第&lt;t7/&gt;4&lt;t8/&gt; &lt;t9/&gt;章介绍了LwDITA的三种初始创作格式的其他用户类型。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T072604Z" creationid="DSS" creationdate="20200730T095547Z">
+        <seg>这些用户可能是临时的内容贡献者（比如，编写简短的话题的主题专家，这些话题将由技术写作人员整合成一个更大的 DITA 集合）或作者不使用 DITA XML（例如，创建可以多渠道发布的智能内容的营销专业人士，甚至是喜欢用 HTML 或 Markdown 的技术写作人员）。&lt;t6/&gt;第&lt;t7/&gt;4&lt;t8/&gt; &lt;t9/&gt;章介绍了LwDITA的三种初始创作格式的其他用户类型。</seg>
       </tuv>
     </tu>
     <tu>
