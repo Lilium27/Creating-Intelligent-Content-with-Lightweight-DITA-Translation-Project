@@ -1222,6 +1222,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>At that session on April &lt;t0/&gt;16, 2013 &lt;t1/&gt;Priestley's slides for the talk “Lightweight DITA: A preview of the DITA &lt;t2/&gt;1.3 &lt;t3/&gt;feature” included the &lt;t4/&gt;12 &lt;t5/&gt;content types and quietly foretold the merger of content types from Information Mapping and DITA in LwDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T130953Z" creationid="DSS" creationdate="20200801T130953Z">
+        <seg>在&lt;t0/&gt;2013&lt;t1/&gt;年4月16日的会议上，Priestley为“轻量级 DITA：DITA 标准&lt;t2/&gt;1.3&lt;t3/&gt;版本的特性”做了演讲，幻灯片包含了&lt;t4/&gt;12&lt;t5/&gt;种内容类型，并悄悄预言了 LwDITA 融合了信息映射中和 DITA 中的内容类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At the same time, and in a more tongue-in-cheek fashion, Carroll has also been labeled as “the man who killed the manual” (Svenvold, &lt;t5/&gt;2015).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T093523Z" creationid="lenovo" creationdate="20200722T031230Z">
