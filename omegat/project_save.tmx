@@ -606,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t3/&gt;Embracing the six con&lt;t4/&gt;tent types of Information Mapping, the Lightweight DITA prototype wrapped up &lt;t5/&gt;2012 &lt;t6/&gt;with a total of &lt;t7/&gt;12 &lt;t8/&gt;potential content types and the many tags or generic conventions associated with them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T130616Z" creationid="DSS" creationdate="20200801T130616Z">
+        <seg>&lt;t3/&gt; &lt;t5/&gt;2012&lt;t6/&gt;年末，包括信息映射的六种内容类型在内，轻量级DITA原型总共包含了 &lt;t7/&gt;12 &lt;t8/&gt;种潜在的内容类型以及许多与其相关的标签或通用规则。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t3/&gt;Everybody likes standards, laws, and sausage, said Veen, but nobody wants to know how they are made.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T124247Z" creationid="DSS" creationdate="20200730T124247Z">
@@ -2514,6 +2522,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Michael Priestley reiterated this expanded collection of lightweight topics at a presentation during the DITA North America/Content Management Solutions in Providence, Rhode Island.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T130650Z" creationid="DSS" creationdate="20200801T130650Z">
+        <seg>在罗德岛州普罗维登斯举行的 DITA 北美/内容管理解决方案大会上，迈克尔·普里斯特利重申了轻量级话题的扩展集合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Michael Priestley, Senior Technical Staff Member and Enterprise Content Technology Strategist at IBM and known as one of DITA's “founding fathers” (Etheridge, &lt;t0/&gt;2016), &lt;t1/&gt;defines Lightweight DITA (LwDITA, which should be read as “Lightweight DITA”) as a simplified schema for structuring content, with fewer elements, tighter content models and a simplified specialization archi&lt;t2/&gt;tecture to define new types compared to those of DITA XML.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150708Z" creationid="DSS" creationdate="20200726T082353Z">
@@ -3058,6 +3074,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095506Z" creationid="DSS" creationdate="20200730T095506Z">
         <seg>LwDITA 的理想用户是使用 HTML 或 Markdown 并可以使用（或不使用）简单 XML 语法（不用包含数百种元素类型）的人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The LwDITA topic type (still a prototype at this stage) was moving away from the &lt;t0/&gt;27 &lt;t1/&gt;XML tags promised in the summer of &lt;t2/&gt;2012.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T130518Z" creationid="DSS" creationdate="20200801T130518Z">
+        <seg>LwDITA 话题类型（当时只是一个原型）已经与2012年夏天许诺的&lt;t0/&gt;27 &lt;t1/&gt;个 XML 标记渐行渐远。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
