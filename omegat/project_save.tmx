@@ -608,8 +608,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;Embracing the six con&lt;t4/&gt;tent types of Information Mapping, the Lightweight DITA prototype wrapped up &lt;t5/&gt;2012 &lt;t6/&gt;with a total of &lt;t7/&gt;12 &lt;t8/&gt;potential content types and the many tags or generic conventions associated with them.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T130616Z" creationid="DSS" creationdate="20200801T130616Z">
-        <seg>&lt;t3/&gt; &lt;t5/&gt;2012&lt;t6/&gt;年末，包括信息映射的六种内容类型在内，轻量级DITA原型总共包含了 &lt;t7/&gt;12 &lt;t8/&gt;种潜在的内容类型以及许多与其相关的标签或通用规则。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T131003Z" creationid="DSS" creationdate="20200801T130616Z">
+        <seg>&lt;t3/&gt; &lt;t5/&gt;2012&lt;t6/&gt;年末，包括信息映射的六种内容类型在内，轻量级DITA原型总共包含了 &lt;t7/&gt;12&lt;t8/&gt;种潜在的内容类型以及许多与其相关的标签或通用规则。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1118,6 +1118,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>And then, the conversation about an Information Mapping and DITA merger ended, and in an updated version of that presentation, Priestley did not include any mention of Information Mapping and its trademarked content types (Priestley, 2013a).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T131119Z" creationid="DSS" creationdate="20200801T131005Z">
+        <seg>就这样，关于信息映射和 DITA 合并的讨论结束了。后来普里斯特利y更新了演讲内容，没有提到任何关于信息映射的信息及其已经注册了商标的内容类型（普里斯特利， 2013年）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>And this mention of “at least one evolutionary branch”  is an important one: the OASIS DITA technical committee remains focused  on the core evolutionary branch, with DITA 2.0 in development at the time  of this writing.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T084009Z" creationid="DSS" creationdate="20200730T084009Z">
@@ -1224,8 +1232,8 @@
       <tuv lang="en">
         <seg>At that session on April &lt;t0/&gt;16, 2013 &lt;t1/&gt;Priestley's slides for the talk “Lightweight DITA: A preview of the DITA &lt;t2/&gt;1.3 &lt;t3/&gt;feature” included the &lt;t4/&gt;12 &lt;t5/&gt;content types and quietly foretold the merger of content types from Information Mapping and DITA in LwDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T130953Z" creationid="DSS" creationdate="20200801T130953Z">
-        <seg>在&lt;t0/&gt;2013&lt;t1/&gt;年4月16日的会议上，Priestley为“轻量级 DITA：DITA 标准&lt;t2/&gt;1.3&lt;t3/&gt;版本的特性”做了演讲，幻灯片包含了&lt;t4/&gt;12&lt;t5/&gt;种内容类型，并悄悄预言了 LwDITA 融合了信息映射中和 DITA 中的内容类型。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T131017Z" creationid="DSS" creationdate="20200801T130953Z">
+        <seg>在&lt;t0/&gt;2013&lt;t1/&gt;年4月16日的会议上，普里斯特利为“轻量级 DITA：DITA 标准&lt;t2/&gt;1.3&lt;t3/&gt;版本的特性”做了演讲，幻灯片包含了&lt;t4/&gt;12&lt;t5/&gt;种内容类型，并悄悄预言了 LwDITA 融合了信息映射中和 DITA 中的内容类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2250,6 +2258,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Instead, the conversation moved to the idea of separat&lt;t0/&gt;ing LwDITA from the DITA standard.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T131128Z" creationid="DSS" creationdate="20200801T131128Z">
+        <seg>相反，讨论转向了将 LwDITA 从 DITA 标准中分离出来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It aims to address concerns and doubts about the adoption and evolution of DITA as a major standard for technical publications.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T085122Z" creationid="DSS" creationdate="20200726T085122Z">
@@ -3223,6 +3239,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The recorded minutes of the DITA Technical Committee call held on October &lt;t4/&gt;8, 2013 &lt;t5/&gt;include the following exchange between Priestley (MP) and Nancy Harrison (NH), from Infobridge Solutions, who is currently the Technical Committee's secretary:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T131304Z" creationid="DSS" creationdate="20200801T131304Z">
+        <seg> DITA 技术委员会电话记录中记录了2013年10月8日普里斯特利（MP）和南希·哈里森（NH）之间的对话，南希·哈里森来自Infobridge Solutions，目前是技术委员会的秘书：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The revised topic type depended on a series of constraint declarations that would give instructions to DITA processors.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T082033Z" creationid="DSS" creationdate="20200731T082033Z">
@@ -3243,6 +3267,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T124804Z" creationid="DSS" creationdate="20200730T124804Z">
         <seg>缓慢的步伐为来自世界范围内较大社区的代表们提供了审查和评价的时间保障，他们可以增加观点、提出疑虑，从而提高了标准。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The standard was being split into three different versions for its &lt;t1/&gt;1.3 &lt;t2/&gt;release: base, technical content, and all-inclusive, which were called “packages” or “packaging” in discussions before their offi&lt;t3/&gt;cial release.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T131151Z" creationid="DSS" creationdate="20200801T131151Z">
+        <seg>DITA标准在其&lt;t1/&gt;1.3&lt;t2/&gt;版本中被分为三个不同的版本：基础版本、技术内容版本和完整版本，在正式发布之前的讨论中这三个版本被称为“包”或者“打包”。</seg>
       </tuv>
     </tu>
     <tu>
