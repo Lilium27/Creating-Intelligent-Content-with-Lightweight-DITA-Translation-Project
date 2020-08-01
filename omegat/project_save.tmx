@@ -2538,6 +2538,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MP: So when people say “DITA is too complex,” we want to be able to reply, “which DITA?” We have a base, which is fairly simple, and others, which have more functionality.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T131529Z" creationid="DSS" creationdate="20200801T131529Z">
+        <seg>迈克尔·普里斯特利：当大家说“DITA 太复杂了”时，我们希望可以回答这个问题，“是哪个版本的 DITA?”我们设计了一个相当简单的基础版本，以及有更多的功能技术内容版本和完整版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Michael Priestley and I are working on the Lightweight DITA technical speci&lt;t0/&gt;fication, and we have the goal of having it officially released in &lt;t1/&gt;2019.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T130627Z" creationid="DSS" creationdate="20200730T130627Z">
@@ -2574,6 +2582,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154519Z" creationid="DSS" creationdate="20200726T154519Z">
         <seg>关于 DITA 诞生的众多细节</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>NH: I thought the answer to that question was “look at lightweight DITA.”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T131549Z" creationid="DSS" creationdate="20200801T131549Z">
+        <seg>南希·哈里森：我认为可以这样回答“试试轻量级 DITA 吧”。</seg>
       </tuv>
     </tu>
     <tu>
