@@ -1254,6 +1254,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Basic topic types</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T123140Z" creationid="DSS" creationdate="20200801T123140Z">
+        <seg>基本话题类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Because of proprietary practices, it would be impractical to poll private companies, government agencies, and non-profit institutions worldwide to tally a number of DITA and XML users.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T141010Z" creationid="DSS" creationdate="20200726T141010Z">
@@ -1445,6 +1453,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T144023Z" creationid="DSS" creationdate="20200725T144023Z">
         <seg>DITA 地图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DITA classic topic types: concept, task, and reference, constrained to light&lt;t0/&gt;weight topic model</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T123241Z" creationid="DSS" creationdate="20200801T123241Z">
+        <seg>DITA 经典话题类型：受限于轻量级话题模型的概念（concept）、任务（task）和引用（reference）</seg>
       </tuv>
     </tu>
     <tu>
@@ -2174,6 +2190,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T082213Z" creationid="DSS" creationdate="20200731T082213Z">
         <seg>此外，这是首次用轻量级 DITA 的首字母缩写（LwDITA，或者如本例中的“lwdita”）代替“Lightweight DITA”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Information Mapping topic types: common topic types made up of IM sec&lt;t0/&gt;tion types (Priestley, 2012a).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T130444Z" creationid="DSS" creationdate="20200801T130444Z">
+        <seg>信息映射话题类型：由 IM 节（section）类型组成的常见话题类型（普里斯特利，2012年）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3764,6 +3788,31 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T071354Z" creationid="DSS" creationdate="20200726T071354Z">
         <seg>一个 web 交付物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{{ &lt;t0/&gt;Lightweight topic: basic topic with default content models (sections, conditional attributes, list nesting enabled)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T123203Z" creationid="DSS" creationdate="20200801T123203Z">
+        <seg>&lt;t0/&gt;轻量级话题：具有默认内容模型（支持节、条件属性、嵌套列表）的基本话题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{{ &lt;t0/&gt;Specialization topic: topic specifically designed for defining lightweight specializations</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T123231Z" creationid="DSS" creationdate="20200801T123231Z">
+        <seg>&lt;t0/&gt;专门化话题：为定义轻量级的专门化而特意设计的话题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{{ &lt;t0/&gt;Superlightweight topic: lightweight topic with constraints applied (no list nesting, no attributes, no sections)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T123210Z" creationid="DSS" creationdate="20200801T123210Z">
+        <seg>&lt;t0/&gt;超轻量级话题：应用了约束规则的轻量级话题（没有列表嵌套、属性和节）
+</seg>
       </tuv>
     </tu>
     <tu>
