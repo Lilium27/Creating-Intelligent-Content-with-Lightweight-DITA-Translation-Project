@@ -806,6 +806,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t6/&gt;After that, the conversation focused entirely on the “MarkDITA” prototype, which emphasized that there was an actual need for a Markdown-based LwDITA authoring format.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T155159Z" creationid="DSS" creationdate="20200802T155159Z">
+        <seg>&lt;t6/&gt;后来的对话完全聚焦于“MarkDITA”原型，该原型强调对基于 Markdown 的 LwDITA 写作格式的实际需求确实存在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t7/&gt;71).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144433Z" creationid="DSS" creationdate="20200724T154312Z">
@@ -2082,6 +2090,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I scheduled a follow-up call with Priestley, who invited Jenifer Schlotfeldt &lt;t0/&gt;一 &lt;t1/&gt;Senior Content Strategist at IBM who was working on the Bluemix documentation project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T155108Z" creationid="DSS" creationdate="20200802T155108Z">
+        <seg>我计划再与普里斯特利通次话，沟通后续问题，普里斯特利邀请了珍妮弗·斯洛特菲尔德&lt;t0/&gt;&lt;t1/&gt;IBM 高级内容策略师，参与了 Bluemix 文档项目）与我们一起交流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I shared with them a small collection of HDITA sample topics that incor&lt;t2/&gt;porated some of the elements from Priestley's blog post but added the possibility of content reuse and single-sourcing with new HTML5 custom data attributes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T155119Z" creationid="DSS" creationdate="20200802T155119Z">
+        <seg>我与他们分享了一组 HDITA 话题示例，其中包含了普里斯特利博文提到的一些元素，同时使用了新的 HTML5 自定义数据属性，以增加实现内容复用和单一来源的可能性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I told him that I would develop some sample topics in HDITA and, a term we created at that moment, “MarkDITA” &lt;t4/&gt;一 &lt;t5/&gt;a Markdown-based authoring format of LwDITA.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T130335Z" creationid="DSS" creationdate="20200802T130335Z">
@@ -2786,6 +2810,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>My samples included a hastily assembled “MarkDITA” topic prototype that used a combination of HDITA tags with Markdown syntax to recreate a DITA task (&lt;t3/&gt;Figure &lt;t4/&gt;3.2&lt;t5/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T155137Z" creationid="DSS" creationdate="20200802T155137Z">
+        <seg>这些示例中包括一个仓促组合的“MarkDITA”话题原型，它使用 Markdown 语法以 HDITA 标签组合重新创建了一个 DITA 任务（&lt;t3/&gt;图&lt;t4/&gt;3.2&lt;t5/&gt;）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>NH: I thought the answer to that question was “look at lightweight DITA.”</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T131549Z" creationid="DSS" creationdate="20200801T131549Z">
@@ -2991,6 +3023,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T084715Z" creationid="DSS" creationdate="20200730T084715Z">
         <seg>用户并没有阅读手册。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Priestley and I continued collecting data for our HDITA authoring research project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T155247Z" creationid="DSS" creationdate="20200802T155247Z">
+        <seg>我和普里斯特利一直在为 HDITA 写作研究项目收集数据。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3932,6 +3972,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200731T135149Z" creationid="lenovo" creationdate="20200731T135149Z">
         <seg>手册已经不合算了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We decided to move the conversations about the Markdown-based</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T155559Z" creationid="DSS" creationdate="20200802T155559Z">
+        <seg>我们决定将关于基于 Markdown 的 LwDITA 版本（现在更名为 MDITA）的讨论提交到官方的 DITA 技术委员会。</seg>
       </tuv>
     </tu>
     <tu>
