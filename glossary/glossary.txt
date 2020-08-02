@@ -380,3 +380,5 @@ Tom Comerford	汤姆·科默福德
 Chris Nitchie	克里斯·尼奇
 Mark Poston	马克·波斯顿
 Adrian Warman	阿德里安·沃曼
+John Hunt	约翰·亨特
+Amber Swope	安布尔·斯沃普
