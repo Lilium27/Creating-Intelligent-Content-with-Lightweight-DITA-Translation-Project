@@ -2772,8 +2772,8 @@
       <tuv lang="en">
         <seg>Note that this proposal included the addition of HTML5 tags (&lt;address&gt; and &lt;aside&gt;) in XDITA to have them available in both authoring formats.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T115457Z" creationid="DSS" creationdate="20200802T115457Z">
-        <seg>值得注意的是，普利斯特列提议在XDITA中添加额外的 HTML5 标签(&lt;address&gt; 和 &lt;aside&gt;)，使其在两种写作格式中都可以使用。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T115616Z" creationid="DSS" creationdate="20200802T115457Z">
+        <seg>值得注意的是，普里斯特利提议在XDITA中添加额外的 HTML5 标签(&lt;address&gt; 和 &lt;aside&gt;)，使其在两种写作格式中都可以使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3657,8 +3657,8 @@
       <tuv lang="en">
         <seg>This chapter presents an overview of the evolution of DITA &lt;t0/&gt;- &lt;t1/&gt;an XML-based “end-to-end architecture for creating and delivering modular technical information” (Priestley et al., 2001, p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T081111Z" creationid="DSS" creationdate="20200726T152940Z">
-        <seg>本章概述了 DITA 的发展&lt;t0/&gt;-——&lt;t1/&gt;一种基于 XML 的“用于创建和交付模块化技术信息的端到端体系结构”（普利斯特列等人，2001年，第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T115759Z" creationid="DSS" creationdate="20200726T152940Z">
+        <seg>本章概述了 DITA 的发展&lt;t0/&gt;-——&lt;t1/&gt;一种基于 XML 的“用于创建和交付模块化技术信息的端到端体系结构”（普里斯特利等人，2001年，第</seg>
       </tuv>
     </tu>
     <tu>
@@ -3840,6 +3840,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>What could happen if we introduced my students to a DITA-like environment without starting with XML?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T115812Z" creationid="DSS" creationdate="20200802T115711Z">
+        <seg>如果不从 XML 开始教，而是直接向我的学生介绍一个类 DITA 的环境，会发生什么呢？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>What that means to information developers is that you can author a DocBook or DITA topic in one tool and open the topic in another tool without the loss of information or invalid markup.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T093735Z" creationid="DSS" creationdate="20200726T093735Z">
@@ -3986,8 +3994,8 @@
       <tuv lang="en">
         <seg>and HDITA author perspective: As a college professor, I had access to a popu&lt;t0/&gt;lation of novice content creators who were familiar with HTML but did not know XML.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T115612Z" creationid="DSS" creationdate="20200802T115612Z">
-        <seg>在那之后，我决定联系Priestley并邀请他合作开展一个从作者视角研究XDITA和HDITA的项目：作为一名大学教授，我可以接触到一群熟悉HTML，但不太了解XML的内容创建新手。如果不从XML开始教，而是直接向我的学生介绍一个类DITA的环境，会发生什么呢?</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T115644Z" creationid="DSS" creationdate="20200802T115612Z">
+        <seg>在那之后，我决定联系普里斯特利并邀请他合作开展一个从作者视角研究 XDITA 和 HDITA 的项目：作为一名大学教授，我可以接触到一群熟悉 HTML，但不太了解 XML的内容创建新手。</seg>
       </tuv>
     </tu>
     <tu>
