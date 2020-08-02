@@ -1158,6 +1158,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>And when you go to practitioner events, you don't see professors.”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200802T081736Z" creationid="lenovo" creationdate="20200802T081736Z">
+        <seg>而当你去从业者举办的活动，你也看不到教授出席。”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As I write this  chapter, the DITA Technical Committee at OASIS is working on the release  of DITA 2.0 as a new standard parallel to LwDITA.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T093944Z" creationid="DSS" creationdate="20200730T093944Z">
