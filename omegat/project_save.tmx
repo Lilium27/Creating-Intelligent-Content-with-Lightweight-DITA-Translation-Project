@@ -1650,6 +1650,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Deliverables:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T161247Z" creationid="DSS" creationdate="20200802T161247Z">
+        <seg>可交付成果：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Document architect, who defines and implements document structure</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T081311Z" creationid="DSS" creationdate="20200726T153640Z">
@@ -1678,6 +1686,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T152800Z" creationid="DSS" creationdate="20200726T152800Z">
         <seg>易用、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Easy assembly of new specializations from existing section types</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T161114Z" creationid="DSS" creationdate="20200802T161114Z">
+        <seg>轻松地利用现有类型组合新的专门化话题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Easy creation of new specializations by generation from a topic type designed for specifying specializations</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T161119Z" creationid="DSS" creationdate="20200802T161119Z">
+        <seg>利用专门化的话题类型，轻松创建新的专门化话题</seg>
       </tuv>
     </tu>
     <tu>
@@ -3029,6 +3053,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Out of the box mappings and specifications for authoring these topic types in other formats, such as HTML5 or markdown</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T161108Z" creationid="DSS" creationdate="20200802T161108Z">
+        <seg>轻松地实现其他格式（如 HTML5 或 Markdown）的话题类型的映射和专门化，开箱即用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>PREFACE</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200716T084923Z" creationid="DSS" creationdate="20200716T084923Z">
@@ -3498,8 +3530,8 @@
       <tuv lang="en">
         <seg>The architecture will provide:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T160124Z" creationid="DSS" creationdate="20200802T160124Z">
-        <seg>该体系结构将提供：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T161255Z" creationid="DSS" creationdate="20200802T160124Z">
+        <seg>该体系结构将提供如下功能：</seg>
       </tuv>
     </tu>
     <tu>
