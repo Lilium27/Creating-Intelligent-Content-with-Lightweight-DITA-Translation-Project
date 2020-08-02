@@ -542,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t2/&gt;the manuals didn't work.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200802T065902Z" creationid="lenovo" creationdate="20200802T065902Z">
+        <seg>手册起不到作用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t22/&gt;56).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144628Z" creationid="DSS" creationdate="20200724T154416Z">
@@ -1620,8 +1628,8 @@
       <tuv lang="en">
         <seg>Even today, they still have the plastic on them in libraries.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095339Z" creationid="DSS" creationdate="20200730T095339Z">
-        <seg>直到今天，图书馆里的手册仍保留着塑封，</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200802T070032Z" creationid="DSS" creationdate="20200730T095339Z">
+        <seg>直到今天，手册仍未拆封，徒然留在图书馆中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2666,6 +2674,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Nobody read them.”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200802T070052Z" creationid="lenovo" creationdate="20200802T070052Z">
+        <seg>没人会去读手册的。”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Nobody read them.” All this being  said, and without data from every company that has adopted DITA in the world,  how many of those 17 document types and 440 element types still have virtual  plastic on them in the DITA specification for technical content?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T090101Z" creationid="DSS" creationdate="20200730T084733Z">
@@ -2781,8 +2797,8 @@
       <tuv lang="en">
         <seg>People didn't read them.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095335Z" creationid="DSS" creationdate="20200730T095335Z">
-        <seg>用户并没有阅读手册。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200802T065917Z" creationid="DSS" creationdate="20200730T095335Z">
+        <seg>用户并不会去阅读手册。</seg>
       </tuv>
     </tu>
     <tu>
