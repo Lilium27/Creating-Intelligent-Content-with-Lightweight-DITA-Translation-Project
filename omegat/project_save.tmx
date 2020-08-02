@@ -2394,6 +2394,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>John Carroll Takes the Stand</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200802T070634Z" creationid="lenovo" creationdate="20200802T070634Z">
+        <seg>John Carroll Takes Jthe Stand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>John M. Carroll is held responsible for some actions and decisions that have defined the academic and professional field of technical communication as we know it today.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T093552Z" creationid="lenovo" creationdate="20200722T022425Z">
