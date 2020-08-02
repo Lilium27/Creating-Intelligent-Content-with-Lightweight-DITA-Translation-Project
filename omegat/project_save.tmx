@@ -1366,6 +1366,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Carroll added that the death of the manual is not the only factor responsible for the disconnect in interests and priorities between academia and industry in technical communication.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200802T080124Z" creationid="lenovo" creationdate="20200802T080124Z">
+        <seg>卡罗尔补充到，技术传播领域学界与工业界间的利益与优先级错位，手册的死亡并非是唯一的原因。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Carroll admitted that, at a personal level, he shares the feeling of nostalgia over the missing manuals.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200731T140331Z" creationid="lenovo" creationdate="20200731T140331Z">
@@ -1878,6 +1886,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154918Z" creationid="DSS" creationdate="20200726T154918Z">
         <seg>哈克斯总结了技术传播从业者使用 DITA 的益处：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>He described that as a problem of scaling: when there were a handful of important tech companies, their research and develop&lt;t0/&gt;ment departments could work closely with academics, and those partnerships were reciprocal.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200802T080451Z" creationid="lenovo" creationdate="20200802T080451Z">
+        <seg>他将其描述成规模问题：当只存在少数几件重要的科技公司，并且其研发部门能够与学界密切合作时，他们之间存在互惠互利的关系。</seg>
       </tuv>
     </tu>
     <tu>
