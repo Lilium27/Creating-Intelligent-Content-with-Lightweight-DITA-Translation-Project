@@ -2619,6 +2619,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>John Hunt and Amber Swope joined the committee shortly after the first meeting.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T162740Z" creationid="DSS" creationdate="20200802T162740Z">
+        <seg>约翰·亨特和安布尔·斯沃普在第一次会议后不久就加入了委员会。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>John M. Carroll is held responsible for some actions and decisions that have defined the academic and professional field of technical communication as we know it today.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T093552Z" creationid="lenovo" creationdate="20200722T022425Z">
@@ -2855,6 +2863,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154519Z" creationid="DSS" creationdate="20200726T154519Z">
         <seg>关于 DITA 诞生的众多细节</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>My daughter Sofia was born on September &lt;t4/&gt;12, 2014 &lt;t5/&gt;and I couldn't join the subcommittee in time for its call.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T162743Z" creationid="DSS" creationdate="20200802T162743Z">
+        <seg>2014年9月12日，我的女儿索菲亚出生了，所以我没能及时加入小组委员会的电话会议。</seg>
       </tuv>
     </tu>
     <tu>
