@@ -368,3 +368,4 @@ Robert Horn	罗伯特·霍恩
 Horn	霍恩
 Information Mapping	信息映射
 Nancy Harrison	南希·哈里森
+paradigm	认知模式
