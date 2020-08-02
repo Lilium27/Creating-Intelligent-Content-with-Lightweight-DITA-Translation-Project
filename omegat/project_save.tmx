@@ -2754,6 +2754,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>My initial conversation with Priestley from April of &lt;t0/&gt;2014 &lt;t1/&gt;started on the topic of evaluating the effectiveness of HDITA as a non-XML introduction to the structuring and publishing capabilities of the DITA standard.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T125949Z" creationid="DSS" creationdate="20200802T125949Z">
+        <seg> &lt;t0/&gt;2014&lt;t1/&gt;年4月我与Priestley进行了第一次沟通，评估将 HDITA 作为一种非 XML 的 DITA 标准格式，其结构化和发布能力的有效性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>NH: I thought the answer to that question was “look at lightweight DITA.”</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T131549Z" creationid="DSS" creationdate="20200801T131549Z">
