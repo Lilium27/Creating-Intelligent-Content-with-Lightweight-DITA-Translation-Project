@@ -4346,10 +4346,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{{ &lt;t0/&gt;Analysis of lightweight DITA implementation options in other for&lt;t1/&gt;mats, including HTML5 and markdown</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T162009Z" creationid="DSS" creationdate="20200802T162009Z">
+        <seg>&lt;t0/&gt;对基于其他格式的轻量级 DITA 的执行选项的分析，包括 HTML5 和 Markdown</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{{ &lt;t0/&gt;Analysis of lightweight DITA related personas, scenarios, and requirements &lt;t1/&gt;{{ &lt;t2/&gt;Lightweight authoring profiles for topic, concept, task, reference, potentially others</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T161920Z" creationid="DSS" creationdate="20200802T161920Z">
+        <seg>&lt;t0/&gt;对与轻量级DITA相关的人物画像、场景和需求的分析 &lt;t1/&gt;&lt;t2/&gt;为话题（topic）、概念（concept）、任务（task）、引用（reference）以及可能的其他内容撰写轻量级简介</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{{ &lt;t0/&gt;Lightweight specialization architecture</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T161928Z" creationid="DSS" creationdate="20200802T161928Z">
+        <seg>轻量级的专门化体系结构</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{{ &lt;t0/&gt;Lightweight topic: basic topic with default content models (sections, conditional attributes, list nesting enabled)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T123203Z" creationid="DSS" creationdate="20200801T123203Z">
         <seg>&lt;t0/&gt;轻量级话题：具有默认内容模型（支持节、条件属性、嵌套列表）的基本话题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{{ &lt;t0/&gt;Specialization authoring format</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T161936Z" creationid="DSS" creationdate="20200802T161936Z">
+        <seg>专门化的编写格式</seg>
       </tuv>
     </tu>
     <tu>
