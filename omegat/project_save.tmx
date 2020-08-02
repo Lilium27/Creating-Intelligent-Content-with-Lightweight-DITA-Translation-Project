@@ -3984,6 +3984,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>and HDITA author perspective: As a college professor, I had access to a popu&lt;t0/&gt;lation of novice content creators who were familiar with HTML but did not know XML.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T115612Z" creationid="DSS" creationdate="20200802T115612Z">
+        <seg>在那之后，我决定联系Priestley并邀请他合作开展一个从作者视角研究XDITA和HDITA的项目：作为一名大学教授，我可以接触到一群熟悉HTML，但不太了解XML的内容创建新手。如果不从XML开始教，而是直接向我的学生介绍一个类DITA的环境，会发生什么呢?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>communication) is all about more and more structured content and the ability to work faster and smarter with XML and DITA constructs.” Approaching the end of its 2:30-minutes runtime, the video claims that “it is most certainly an exciting future to be in” (AdobeTCS, &lt;t0/&gt;2012).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T160132Z" creationid="DSS" creationdate="20200723T155417Z">
