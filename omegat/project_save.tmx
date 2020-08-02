@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t1/&gt;The CommonMark initiative, which aims to propose a Markdown standard, adds that it is a “plain text format for writing structured documents, based on for&lt;t2/&gt;matting conventions from email and usenet” (CommonMark, n.d.).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T125805Z" creationid="DSS" creationdate="20200802T125805Z">
+        <seg>CommonMark 倡议旨在提出一种 Markdown 标准，并补充到，Markdown“基于电子邮件和新闻组的格式约定，是一种用于编写结构化文档的纯文本格式”（CommonMark，未注明日期.）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t1/&gt;Users perceive lower cost, lower com&lt;t2/&gt;plexity at the range of use they expect, and can move up as requirements dictate (basically playing to progression of needs and investments in the DITA Maturity Model).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T071605Z" creationid="DSS" creationdate="20200731T071605Z">
@@ -2686,6 +2694,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T131529Z" creationid="DSS" creationdate="20200801T131529Z">
         <seg>迈克尔·普里斯特利：当大家说“DITA 太复杂了”时，我们希望可以回答这个问题，“是哪个版本的 DITA?”我们设计了一个相当简单的基础版本，以及有更多的功能技术内容版本和完整版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML)” (Gruber, &lt;t0/&gt;2004).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T124258Z" creationid="DSS" creationdate="20200802T124258Z">
+        <seg>Markdown 允许用户使用易于阅读、易于编写的纯文本格式进行写作，再将文本转换为结构严密的 XHTML（或 HTML）”（格鲁伯，2004）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Markdown is a “text-to-HTML conversion tool for web writers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T124233Z" creationid="DSS" creationdate="20200802T124233Z">
+        <seg>Markdown 是一个“为网页端写作者提供将文本转换为 HTML 服务的工具”。</seg>
       </tuv>
     </tu>
     <tu>
