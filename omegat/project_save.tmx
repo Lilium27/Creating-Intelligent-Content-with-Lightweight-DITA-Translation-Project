@@ -1682,6 +1682,15 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Easy out of the box authoring for common topic types</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T161055Z" creationid="DSS" creationdate="20200802T161055Z">
+        <seg>轻松地创建常见话题类型，开箱即用
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Essays from whole cloth is more the thing.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200721T160159Z" creationid="DSS" creationdate="20200720T134143Z">
@@ -2939,6 +2948,15 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On May &lt;t0/&gt;27, 2014 &lt;t1/&gt;Michael Priestley submitted the following proposal to the DITA Technical Committee asking for the creation of a dedicated Lightweight DITA subcommittee with OASIS:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T160101Z" creationid="DSS" creationdate="20200802T160101Z">
+        <seg>2014年5月27日，迈克尔·普里斯特利向DITA技术委员会提交了以下提议，要求与 OASIS 一起创立一个专门的轻量级 DITA 小组委员会：
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On the contrary, scholars in the field have expanded the work of technical communication into domains and scenarios like healthcare, policy-making, and social justice, among others, that were closed to writing researchers in the recent past.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140403Z" creationid="DSS" creationdate="20200726T140403Z">
@@ -3260,6 +3278,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Statement of purpose: To develop a specification for a lightweight DITA architecture that can ease implementation by vendors and adoption by users.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T160120Z" creationid="DSS" creationdate="20200802T160120Z">
+        <seg>目的声明：开发一个轻量级 DITA 体系结构规范，以方便供应商和用户使用，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TABLE &lt;t0/&gt;3.2 &lt;t1/&gt;Specialized structural elements in XDITA and their equivalents in HDITA, which use custom data attributes to modify elements in HTML5.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T114921Z" creationid="DSS" creationdate="20200802T114921Z">
@@ -3466,6 +3492,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T122837Z" creationid="DSS" creationdate="20200730T122837Z">
         <seg>LwDITA 缓慢而又井然有序的发展历程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The architecture will provide:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T160124Z" creationid="DSS" creationdate="20200802T160124Z">
+        <seg>该体系结构将提供：</seg>
       </tuv>
     </tu>
     <tu>
