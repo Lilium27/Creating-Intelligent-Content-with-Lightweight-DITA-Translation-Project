@@ -1320,8 +1320,8 @@
       <tuv lang="en">
         <seg>Besides the idea of releasing LwDITA as a standard separate from the three versions of DITA &lt;t0/&gt;1.3, &lt;t1/&gt;Priestley was also looking at the possibility of breaking DITA's dependence on XML as its sole language.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T132448Z" creationid="DSS" creationdate="20200801T132448Z">
-        <seg>除了将LwDITA作为一个标准发布，与DITA标准&lt;t0/&gt;1.3&lt;t1/&gt;版本的三个版本分开之外，普里斯特利还考虑打破 DITA对 XML 作为其唯一语言的依赖。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T090505Z" creationid="DSS" creationdate="20200801T132448Z">
+        <seg>除了将LwDITA作为一个标准发布，与DITA标准&lt;t0/&gt;1.3&lt;t1/&gt;版本的三个版本分开之外，普里斯特利还考虑打破 DITA 对 XML（其唯一语言）的依赖。</seg>
       </tuv>
     </tu>
     <tu>
