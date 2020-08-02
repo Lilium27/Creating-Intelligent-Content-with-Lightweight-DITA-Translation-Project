@@ -373,3 +373,10 @@ Evia	艾唯娅
 Gruber	格鲁伯
 usenet	新闻组
 Jenifer Schlotfeldt	珍妮弗·斯洛特菲尔德
+Mark Giffin	马克·吉芬
+Tim Grantham	蒂姆·格兰瑟姆
+Stan Doherty	斯坦·多尔蒂
+Tom Comerford	汤姆·科默福德
+Chris Nitchie	克里斯·尼奇
+Mark Poston	马克·波斯顿
+Adrian Warman	阿德里安·沃曼
