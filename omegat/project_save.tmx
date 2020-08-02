@@ -1986,6 +1986,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If I have a manual, I am as good as the expert: I have the information and if I don't I have to call a help number and admit that someone else is in control.” But then he hammered in the last nail in the manual's coffin: “All this being said &lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200802T065849Z" creationid="lenovo" creationdate="20200802T065849Z">
+        <seg>如果我有手册在手，我就拥有了专家的水准：我掌握着相关信息，如果没有这些信息我就得打求助电话，并承认自己正处于他们的掌控之中。”但他给了手册致命一击：“尽管说了这么多，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If XML and DITA are still seen as new tools by academics when some practitioners are already labeling them as arcane, then we are just writing a new chapter in the documented gap between research and practice in the field (Andersen, &lt;t7/&gt;2013; &lt;t8/&gt;Rude, &lt;t9/&gt;2015; &lt;t10/&gt;Lauren &lt;t11/&gt;&amp; &lt;t12/&gt;Pigg, &lt;t13/&gt;2016, &lt;t14/&gt;and others).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150905Z" creationid="DSS" creationdate="20200726T091834Z">
@@ -3939,8 +3947,8 @@
       <tuv lang="en">
         <seg>“When I open a box, and I take something out and there's no manual, that's my first thought: Where's the manual?” For a moment, he acknowl&lt;t0/&gt;edged that readers lost something when the manual became an extinct genre: “The instruction manual was also a symbol of empowerment, almost democratic; that's another source of the nostalgia.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200802T002449Z" creationid="lenovo" creationdate="20200731T145907Z">
-        <seg>“当我打开一个箱子并从中拿出一些东西，却发现里面没有手册，我的第一反应是：手册去哪了？”在这一瞬间，他承认当手册成为绝迹的体裁后，读者失去了一些东西：“说明书是”</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200802T064850Z" creationid="lenovo" creationdate="20200731T145907Z">
+        <seg>“当我打开一个箱子并从中拿出一些东西，却发现里面没有手册，我的第一反应是：手册去哪了？”在这一瞬间，他承认当手册成为绝迹的体裁后，读者失去了一些东西：“说明书也是种授权的象征，可以说几乎是随心所欲；这也是引发怀旧之情的原因之一。”</seg>
       </tuv>
     </tu>
     <tu>
