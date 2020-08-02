@@ -934,6 +934,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A few days after my initial call with Priestley, the topic of including Markdown as a component of the LwDITA proposal appeared in the minutes of the DITA Technical Committee call from May 10, 2014.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T153620Z" creationid="DSS" creationdate="20200802T153620Z">
+        <seg>在我与普里斯特利进行了最初的电话交谈的几天后，也就是2014年5月10日，DITA 技术委员会那天的电话会议记录上记录了关于将 Markdown 作为 LwDITA 一个组成部分的提案内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A learning curve that gets less steep every time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T152818Z" creationid="DSS" creationdate="20200726T152818Z">
@@ -3007,6 +3015,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T073354Z" creationid="DSS" creationdate="20200731T073354Z">
         <seg>普里斯特利介绍这个提议时说：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Priestley is quoted saying: “In IBM, some folks hate DITA, and they don't even want to use (Microsoft) Word, but (prefer) simple web forms or Markdown syntax.” He added that includ&lt;t0/&gt;ing Markdown in Lightweight DITA could open up “opportunities in both directions, (as it) provides (an) integration point against (the) whole corporate content spectrum” (DITA Technical Committee, 2014).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T154923Z" creationid="DSS" creationdate="20200802T154923Z">
+        <seg>记录里记载了普里斯特利说的话：“在 IBM，有些人讨厌 DITA，甚至不想用（微软的）Word，而（更喜欢）简单的 web 表单或 Markdown 语法。”他还说，在轻量级 DITA中 包括 Markdown 可能会打开“两个方向的机会，（因为） Markdown 是公司所有内容的集成点”（DITA 技术委员会，2014年）。 </seg>
       </tuv>
     </tu>
     <tu>
