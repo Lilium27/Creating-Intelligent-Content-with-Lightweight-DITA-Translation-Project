@@ -372,3 +372,4 @@ paradigm	认知模式
 Evia	艾唯娅
 Gruber	格鲁伯
 usenet	新闻组
+Jenifer Schlotfeldt	珍妮弗·斯洛特菲尔德
