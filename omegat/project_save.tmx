@@ -670,6 +670,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t3/&gt;The recorded minutes show that the following individuals were in attendance: Mark Giffin, Tim Grantham, Stan Doherty, Kris Eberlein, Tom Comerford, Chris Nitchie, Mark Poston, Adrian Warman, Michael Priestley, Don Day, and Joe Pairman.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T162736Z" creationid="DSS" creationdate="20200802T162736Z">
+        <seg>&lt;t3/&gt;会议记录显示马克·吉芬，蒂姆·格兰瑟姆，斯坦·多尔蒂，克里斯·埃伯莱因，汤姆·科默福德，克里斯·尼奇，马克·波斯顿，阿德里安·沃曼，迈克尔·普里斯特利，唐·戴和乔·佩尔曼出席了会议。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t3/&gt;The web deliverable that Chef Pedro needs for this project should include the following sections:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150149Z" creationid="DSS" creationdate="20200725T151737Z">
@@ -3504,6 +3512,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Lightweight DITA subcommittee had its first teleconference call on September &lt;t2/&gt;15, 2014.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T162425Z" creationid="DSS" creationdate="20200802T162425Z">
+        <seg>轻量级 DITA 小组委员会在2014年9月&lt;t2/&gt;15日举行了第一次电话会议。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The LwDITA ideal user is someone who already works in HTML or Markdown and could adopt (or not) a simple XML grammar that does not contain hundreds of element types.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095506Z" creationid="DSS" creationdate="20200730T095506Z">
@@ -3709,6 +3725,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145247Z" creationid="DSS" creationdate="20200725T071115Z">
         <seg>DITA 标准“是一种经过充分检验的&lt;t2/&gt;用于 XML 创作的 DTD 或模式”的含义表示 DITA 包含了技术出版物中常用的元素或操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The subcommittee was approved by the OASIS leadership on July &lt;t0/&gt;22, 2014 &lt;t1/&gt;and Priestley was appointed as chair.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T162415Z" creationid="DSS" creationdate="20200802T162415Z">
+        <seg>&lt;t0/&gt;2014年7月22&lt;t1/&gt;日，OASIS 领导层批准成立该小组委员会，并任命普里斯特利为主席。</seg>
       </tuv>
     </tu>
     <tu>
