@@ -4356,8 +4356,16 @@
       <tuv lang="en">
         <seg>{{ &lt;t0/&gt;Analysis of lightweight DITA related personas, scenarios, and requirements &lt;t1/&gt;{{ &lt;t2/&gt;Lightweight authoring profiles for topic, concept, task, reference, potentially others</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T161920Z" creationid="DSS" creationdate="20200802T161920Z">
-        <seg>&lt;t0/&gt;对与轻量级DITA相关的人物画像、场景和需求的分析 &lt;t1/&gt;&lt;t2/&gt;为话题（topic）、概念（concept）、任务（task）、引用（reference）以及可能的其他内容撰写轻量级简介</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T162119Z" creationid="DSS" creationdate="20200802T161920Z">
+        <seg>&lt;t0/&gt;对与轻量级 DITA 相关的人物画像、场景和需求的分析 &lt;t1/&gt;&lt;t2/&gt;为话题（topic）、概念（concept）、任务（task）、引用（reference）以及可能出现的其他内容撰写轻量级简介</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{{ &lt;t0/&gt;Implementations of lightweight DITA that allow for roundtripping with constrained versions of other formats (Priestley, 2014a).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T162041Z" creationid="DSS" creationdate="20200802T162041Z">
+        <seg>&lt;t0/&gt;轻量级 DITA 可以与其他格式的受限版本兼容（普里斯特利，2014年)</seg>
       </tuv>
     </tu>
     <tu>
