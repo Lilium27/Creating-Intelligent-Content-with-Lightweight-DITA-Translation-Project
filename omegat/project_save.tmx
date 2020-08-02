@@ -2074,6 +2074,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I told him that I would develop some sample topics in HDITA and, a term we created at that moment, “MarkDITA” &lt;t4/&gt;一 &lt;t5/&gt;a Markdown-based authoring format of LwDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T130335Z" creationid="DSS" creationdate="20200802T130335Z">
+        <seg>我告诉普里斯特利，我将开发一些 HDITA 和MarkDITA 话题示例。在我跟普里斯特利说话的那一刻，我们想到了“MarkDITA”这个名字，MarkDITA 是基于 Markdown 的 LwDITA 创作格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I wanted to share my thoughts on how the lightweight model could be used to provide starting points for DITA users.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T093034Z" creationid="DSS" creationdate="20200731T093034Z">
@@ -2270,6 +2278,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T154938Z" creationid="DSS" creationdate="20200720T133311Z">
         <seg>他毕业于明尼苏达大学双子城分校（University of Minnesota-Twin Cities），获得了科学与技术传播硕士学位。詹姆斯在 IBM 工作，是出色的一位技术营销人员，曾经一直在寻求能够在结构化写作环境中工作的实习生。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In my introductory technical writing courses, my students were using Markdown as a shorthand form for web writing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T130017Z" creationid="DSS" creationdate="20200802T130017Z">
+        <seg>在我教的技术写作入门课中，学生将 Markdown 作为网页写作的速记工具。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2975,6 +2991,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T121730Z" creationid="DSS" creationdate="20200802T121730Z">
         <seg>普里斯特利和我开展了一个研究项目，向弗吉尼亚理工大学的学生介绍一个不用 XML 的类 DITA 的写作和发布环境。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Priestley had been working with a group from the IBM Cloud project (then called Bluemix), which used Markdown for its documentation and needed to imple&lt;t3/&gt;ment DITA-like reuse and transclusion features.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T130010Z" creationid="DSS" creationdate="20200802T130010Z">
+        <seg>普里斯特利曾与 IBM Cloud 项目（当时称为 Bluemix）的一个团队合作，该团队使用 Markdown 编写文档，需要实现类类的复用和引用功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3900,6 +3924,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T093658Z" creationid="lenovo" creationdate="20200723T092843Z">
         <seg>我们生活的世界变好了。”卡罗尔指出计算机发展早期，数据处理的专业人员占据了主导地位，并且当时的从业环境非常苛刻：“大部分人员都是白人男性，而现在全球范围内人人都用上了电脑。”(J.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We made a plan for a research study and then the conversation moved to the possibil&lt;t2/&gt;ity of using Markdown as an authoring language in LwDITA topics.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T125957Z" creationid="DSS" creationdate="20200802T125957Z">
+        <seg>我们制定了研究计划，然后又讨论了在 LwDITA 话题中使用 Markdown 作为写作语言的可能性。</seg>
       </tuv>
     </tu>
     <tu>
