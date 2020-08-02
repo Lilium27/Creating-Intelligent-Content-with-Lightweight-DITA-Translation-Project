@@ -1962,6 +1962,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I don't think an information model did it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200802T075900Z" creationid="lenovo" creationdate="20200802T075900Z">
+        <seg>我并不认为是信息模型导致了这一结果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I find it very flattering that anyone can think I can have that effect on anything.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200802T075332Z" creationid="lenovo" creationdate="20200802T075332Z">
@@ -3667,6 +3675,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T125644Z" creationid="DSS" creationdate="20200724T125644Z">
         <seg>尽管 DTD 只是用于校验这些文件结构的标记语言之一，这些预先建立的内容类型通常由 DTD 文件执行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Those were forces bigger than minimalism.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200802T075732Z" creationid="lenovo" creationdate="20200802T075732Z">
+        <seg>这些因素的影响力远超极简主义。</seg>
       </tuv>
     </tu>
     <tu>
