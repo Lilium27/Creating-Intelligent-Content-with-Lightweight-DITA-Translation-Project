@@ -2997,8 +2997,8 @@
       <tuv lang="en">
         <seg>Priestley had been working with a group from the IBM Cloud project (then called Bluemix), which used Markdown for its documentation and needed to imple&lt;t3/&gt;ment DITA-like reuse and transclusion features.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T130010Z" creationid="DSS" creationdate="20200802T130010Z">
-        <seg>普里斯特利曾与 IBM Cloud 项目（当时称为 Bluemix）的一个团队合作，该团队使用 Markdown 编写文档，需要实现类类的复用和引用功能。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T131632Z" creationid="DSS" creationdate="20200802T130010Z">
+        <seg>普里斯特利曾与 IBM Cloud 项目（当时称为 Bluemix）的一个团队合作，该团队使用 Markdown 编写文档，需要实现类 DITA 的复用和引用功能。</seg>
       </tuv>
     </tu>
     <tu>
