@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t12/&gt;In May of &lt;t13/&gt;2014, &lt;t14/&gt;Priestley presented the XDITA/HDITA proposal in a webinar titled “Does DITA Need XML?” That month, he also submitted a formal proposal to the DITA Technical &lt;t15/&gt;Committee asking for the creation of a dedicated Lightweight DITA subcom&lt;t16/&gt;mittee.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T122613Z" creationid="DSS" creationdate="20200802T122613Z">
+        <seg>2014年5月，普里斯特利在一个名为“DITA 需要 XML吗?”的网络研讨会上提出了 XDITA/HDITA 的提案。同月，他还向 DITA 技术委员会提交了一份正式提案，要求创建一个专门的轻量级DITA小组委员会。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t12/&gt;You can download these code samples from the &lt;t13/&gt;Creating Intelligent Content with Lightweight DITA&lt;t14/&gt; GitHub repository (&lt;t15/&gt;https://github.com/carlosevia/lwdita-book&lt;t16/&gt;).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145109Z" creationid="DSS" creationdate="20200725T064748Z">
@@ -1966,6 +1974,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140322Z" creationid="DSS" creationdate="20200726T135307Z">
         <seg>不过，我的确假定来自工业界和学术界的读者对工作流程中的内容开发充满技术上的好奇心，而这些工作流程超越了文字处理器或“所见即所得”（WYSIWYG）的网络编辑器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, as audiences and study participants were exposed to the possibility of creating DITA content without XML, many were replying with the same question: if we can use HTML5 to represent DITA topics and elements, can we use Markdown as well?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T124221Z" creationid="DSS" creationdate="20200802T124221Z">
+        <seg>然而，当用户和研究参与者了解到在不使用XML的情况下也可以创建 DITA 内容时，许多人发出了相同的疑问：如果我们可以使用 HTML5 来表示 DITA 话题和元素，是否也可以使用 Markdown ？</seg>
       </tuv>
     </tu>
     <tu>
