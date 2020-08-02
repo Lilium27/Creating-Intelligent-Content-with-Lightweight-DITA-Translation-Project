@@ -2931,6 +2931,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Professors would benefit from knowledge applied in their courses and research projects, and practitioners operated under the idea that professors had something important to tell.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200802T080635Z" creationid="lenovo" creationdate="20200802T080635Z">
+        <seg>教授能从运用于课程和研究项目中的知识中获益，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Properly tagged DITA topics can create or join content collections ready for reuse of material, single-sourcing of whole topics or their elements, and filters as determined by a deliverable's audience or context.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T144738Z" creationid="DSS" creationdate="20200725T144738Z">
