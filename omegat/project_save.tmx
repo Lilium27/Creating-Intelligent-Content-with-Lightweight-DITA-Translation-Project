@@ -3438,6 +3438,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Lightweight DITA Subcommittee</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T155804Z" creationid="DSS" creationdate="20200802T155804Z">
+        <seg>轻量级 DITA 小组委员会</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The LwDITA ideal user is someone who already works in HTML or Markdown and could adopt (or not) a simple XML grammar that does not contain hundreds of element types.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095506Z" creationid="DSS" creationdate="20200730T095506Z">
@@ -3994,8 +4002,8 @@
       <tuv lang="en">
         <seg>We decided to move the conversations about the Markdown-based</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T155559Z" creationid="DSS" creationdate="20200802T155559Z">
-        <seg>我们决定将关于基于 Markdown 的 LwDITA 版本（现在更名为 MDITA）的讨论提交到官方的 DITA 技术委员会。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T155736Z" creationid="DSS" creationdate="20200802T155559Z">
+        <seg>我们决定将关于基于 Markdown 的 LwDITA 版本（现在更名为 MDITA）的讨论</seg>
       </tuv>
     </tu>
     <tu>
@@ -4260,6 +4268,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T071354Z" creationid="DSS" creationdate="20200726T071354Z">
         <seg>一个 web 交付物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>version of LwDITA, now renamed MDITA, to the official DITA Technical Committee.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T155759Z" creationid="DSS" creationdate="20200802T155759Z">
+        <seg>提交到官方的 DITA 技术委员会。</seg>
       </tuv>
     </tu>
     <tu>
