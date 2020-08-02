@@ -2770,6 +2770,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that this proposal included the addition of HTML5 tags (&lt;address&gt; and &lt;aside&gt;) in XDITA to have them available in both authoring formats.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T115457Z" creationid="DSS" creationdate="20200802T115457Z">
+        <seg>值得注意的是，普利斯特列提议在XDITA中添加额外的 HTML5 标签(&lt;address&gt; 和 &lt;aside&gt;)，使其在两种写作格式中都可以使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Now, if Pedro were to open a text editor in his computer and start typing XML tags to structure his content, he probably would not know where to go after typing for a few minutes.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153541Z" creationid="DSS" creationdate="20200726T153541Z">
@@ -3064,6 +3072,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153510Z" creationid="DSS" creationdate="20200726T153510Z">
         <seg>有人提到可以使用  XML 进行结构化创作，这引起了佩德罗的注意。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TABLE &lt;t0/&gt;3.2 &lt;t1/&gt;Specialized structural elements in XDITA and their equivalents in HDITA, which use custom data attributes to modify elements in HTML5.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T114921Z" creationid="DSS" creationdate="20200802T114921Z">
+        <seg>表 &lt;t0/&gt;3.2 &lt;t1/&gt; 表中展示了XDITA 和 HDITA 中的专门化结构元素，其中，HDITA 可以使用自定义数据属性来修改 HTML5 中的元素。</seg>
       </tuv>
     </tu>
     <tu>
