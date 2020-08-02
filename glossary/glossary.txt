@@ -370,3 +370,5 @@ Information Mapping	信息映射
 Nancy Harrison	南希·哈里森
 paradigm	认知模式
 Evia	艾唯娅
+Gruber	格鲁伯
+usenet	新闻组
