@@ -1906,6 +1906,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How does Carroll plead when facing the accusa&lt;t0/&gt;tion of killing the manual?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200802T075232Z" creationid="lenovo" creationdate="20200802T075232Z">
+        <seg>当卡罗尔面临杀死手册的指控时，她是如何自辩的？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, I do assume that readers from industry and academia will have a technological curiosity about content development in workflows that go beyond a word processor or a “What You See Is What You Get” (WYSIWYG) web editor.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140322Z" creationid="DSS" creationdate="20200726T135307Z">
@@ -1950,6 +1958,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T094646Z" creationid="DSS" creationdate="20200726T094646Z">
         <seg>但是，我知道一些具有不同用户组的大型内容库确实需要基于XML 的 DITA 构建的健壮环境，这是 DITA 标准非常重要的一部分，不会就此消失。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I find it very flattering that anyone can think I can have that effect on anything.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200802T075332Z" creationid="lenovo" creationdate="20200802T075332Z">
+        <seg>有人觉得我能具有如此的影响力，这实在让我倍感荣幸。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3722,8 +3738,8 @@
       <tuv lang="en">
         <seg>We then moved on to the technical communication-related accusations that hang over John Carroll's head.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200802T075107Z" creationid="lenovo" creationdate="20200802T075107Z">
-        <seg>我们再次聚焦于针对约翰·卡罗尔有关技术传播的指控</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200802T075117Z" creationid="lenovo" creationdate="20200802T075107Z">
+        <seg>我们再次聚焦针对约翰·卡罗尔有关技术传播的指控</seg>
       </tuv>
     </tu>
     <tu>
