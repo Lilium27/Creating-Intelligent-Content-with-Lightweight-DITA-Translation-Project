@@ -1610,6 +1610,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Does DITA Need Tags?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T120314Z" creationid="DSS" creationdate="20200802T120314Z">
+        <seg>DITA 需要标签吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Each topic is long enough to make sense on its own, but short enough to stick to one point without expanding into other sub&lt;t0/&gt;jects” (Bellamy et al.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154251Z" creationid="DSS" creationdate="20200724T154251Z">
@@ -2006,6 +2014,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200802T075332Z" creationid="lenovo" creationdate="20200802T075332Z">
         <seg>有人觉得我能具有如此的影响力，这实在让我倍感荣幸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I had not interacted with Priestley before, although we followed each other on Twitter based on common friends and our shared interest on DITA, and one of my students conducting a research study had interviewed him in &lt;t0/&gt;2012 &lt;t1/&gt;(and I incorporated some of his comments into my syllabus).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T120218Z" creationid="DSS" creationdate="20200802T120218Z">
+        <seg>虽然我和普里斯特利基于共同好友以及对 DITA 的共同兴趣在Twitter 上关注了彼此，但从未有过交流。&lt;t0/&gt;2012 &lt;t1/&gt;年，我的一个学生在进行一项研究时采访了他（我把他的一些评论写进了教学大纲)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3812,6 +3828,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T094927Z" creationid="lenovo" creationdate="20200723T094927Z">
         <seg>我们想起了卡罗尔在1995年创立的弗吉尼亚理工大学人机交互中心(CHCI)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We scheduled a phone call on April &lt;t2/&gt;30, 2014 &lt;t3/&gt;that started our ongoing collaboration, but that also intro&lt;t4/&gt;duced a third authoring format for the proposed LwDITA standard.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T120309Z" creationid="DSS" creationdate="20200802T120309Z">
+        <seg>我们计划在&lt;t2/&gt;2014年4月30&lt;t3/&gt;日进行一次电话会议，以启动接下来的合作，这次通话这也为提议的 LwDITA 标准引入了第三种创作格式。</seg>
       </tuv>
     </tu>
     <tu>
