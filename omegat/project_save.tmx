@@ -1062,6 +1062,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After a few years of preparing prototypes and drafts, receiving audience feed&lt;t0/&gt;back and managing anticipation, LwDITA started &lt;t1/&gt;2017 &lt;t2/&gt;with the official format that would be documented on the first formal deliverable of the Lightweight DITA subcommittee at OASIS.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T151633Z" creationid="DSS" creationdate="20200803T151633Z">
+        <seg>小组委员会一直在设计原型和草案，接收用户反馈并管理用户预期，经过几年的准备，&lt;t1/&gt;2017 &lt;t2/&gt;年 LwDITA 完成了，其官方格式将记录在 OASIS 轻量级 DITA 小组委员会的第一个正式交付版本中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After receiving feedback from the DITA Technical Committee, Priestley revised the proposal and, in the summer of &lt;t0/&gt;2012, &lt;t1/&gt;updated the list of topical elements to include &lt;t2/&gt;27 &lt;t3/&gt;XML tags (&lt;t4/&gt;&lt;object&gt;&lt;t5/&gt;, &lt;t6/&gt;&lt;note&gt;&lt;t7/&gt;, and elements related to definition lists were among those added to the original proposal).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T082027Z" creationid="DSS" creationdate="20200731T080530Z">
