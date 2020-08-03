@@ -3213,6 +3213,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Priestley opened with a general introduction to LwDITA and XDITA, I followed with some HDITA examples and usage sce&lt;t2/&gt;narios, and Ai showed a preliminary approach for creating DITA-like content in JSON.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T095005Z" creationid="DSS" creationdate="20200803T095005Z">
+        <seg>作为开场，普里斯特利对 LwDITA 和 XDITA 做了简单介绍，我接着介绍了一些 HDITA 示例和使用场景，艾路展示了如何用 JSON 创建类 DITA 的内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Priestley pointed out that the simplified map had &lt;t0/&gt;6 &lt;t1/&gt;elements &lt;t2/&gt;(5 &lt;t3/&gt;if the &lt;t4/&gt;&lt;topicref&gt; &lt;t5/&gt;element was modified to include a title).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T080430Z" creationid="DSS" creationdate="20200731T080324Z">
