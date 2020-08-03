@@ -1238,6 +1238,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As Priestley's original proposal from on March &lt;t5/&gt;20, 2012 &lt;t6/&gt;established, that adjective was applied to the framework that presented LwDITA as a lighter option compared to full DITA XML.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T092929Z" creationid="DSS" creationdate="20200803T092838Z">
+        <seg>随着普里斯特利在2012年3月20日提出的提案的确立，“轻量级”这个形容词可以用于形容 LwDITA 框架，与完整版 DITA XML 相比，LwDITA 是一个更加轻量的选择。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As a franchise owner, he wants to ensure that the food in his restau&lt;t0/&gt;rants is consistent, and his kitchen staff needs up-to-date documentation with recipes and techniques adopted in all of his restaurants.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153403Z" creationid="DSS" creationdate="20200726T153403Z">
@@ -1987,6 +1995,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Furthermore, there is no markup language called Lightweight DITA, as the markup languages included in this framework are called XDITA, HDITA, and MDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T094541Z" creationid="DSS" creationdate="20200803T094541Z">
+        <seg>此外，没有哪一个标记语言叫轻量级 DITA，而 LwDITA 框架中包含的标记语言被称作 XDITA、HDITA 和 MDITA。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Gone are the days when the manual was binding the academic and practitioner camps of technical com&lt;t1/&gt;munication as they worked towards the advancement of this common genre.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T082040Z" creationid="lenovo" creationdate="20200723T082040Z">
@@ -2079,6 +2095,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T091934Z" creationid="DSS" creationdate="20200731T091934Z">
         <seg>然而，白皮书中许多声明是基于“&lt;t9/&gt;先学信息映射®，再学 DITA&lt;t10/&gt;”的论调，包括 “在开始 DITA 项目之前，训练写作者使用信息映射&lt;t11/&gt;®&lt;t12/&gt;”或“熟悉信息映射&lt;t13/&gt;® &lt;t14/&gt;是成功迈向 DITA 实践不可或缺的第一步”（2011，第</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, the subcommittee finally decided to stay with Lightweight DITA, styl&lt;t3/&gt;ized in an acronym as LwDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T092815Z" creationid="DSS" creationdate="20200803T092815Z">
+        <seg>但是小组委员会最终决定继续使用“轻量级DITA” （Lightweight DITA）这个名称，其缩写为 LwDITA。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3829,6 +3853,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T160348Z" creationid="DSS" creationdate="20200723T160253Z">
         <seg>Adobe 视频中所描述的技术传播的“未来”关注的是瑞贝卡·安德森（Rebekka Andersen）所描述的“具有高度适应性和可移植性，并且可以根据用户的具体要求随时进行配置的结构化内容” &lt;t0/&gt;（2014年， &lt;t1/&gt;第</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The “lightweight” adjective in the proposed standard's name does not imply a direct equivalency to lightweight markup lan&lt;t4/&gt;guages.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T092826Z" creationid="DSS" creationdate="20200803T092826Z">
+        <seg>名称中的形容词“轻量级”并不直接等同于轻量级标记语言。</seg>
       </tuv>
     </tu>
     <tu>
