@@ -878,6 +878,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t9/&gt;all increasing expectation about the proposed standard but working to the detriment of the subcommittee's actual purpose of developing the technical specification for an open standard and not software applications or industry-specific workflows.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T115907Z" creationid="DSS" creationdate="20200803T115907Z">
+        <seg>大家对提议的标准的期望在不断增加，但这却有损小组委员会的实际目的：为开放标准开发技术规范，而不是为了软件程序或特定行业的工作流开发。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;title&gt; &lt;t0/&gt;contains &lt;t1/&gt;&lt;ph&gt; &lt;t2/&gt;or text</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T075212Z" creationid="DSS" creationdate="20200731T075212Z">
@@ -1170,6 +1178,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T084210Z" creationid="DSS" creationdate="20200725T084210Z">
         <seg>作者不应该低估</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>And that became our &lt;t6/&gt;modus operandi&lt;t7/&gt;: we would boast about the potential benefits of LwDITA in conferences and webinars, developers and managers would show interest and ask for a demo, we requested plugin updates from Elovirta and offered a new demo &lt;t8/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T115925Z" creationid="DSS" creationdate="20200803T115902Z">
+        <seg>这成为了我们的&lt;t6/&gt;工作方式&lt;t7/&gt;：我们会在各种会议和网络研讨会上夸赞 LwDITA 的潜在好处，开发人员和管理人员会表现出兴趣并要求观看演示，我们就会让艾洛维塔更新插件并提供一个新的演示……</seg>
       </tuv>
     </tu>
     <tu>
