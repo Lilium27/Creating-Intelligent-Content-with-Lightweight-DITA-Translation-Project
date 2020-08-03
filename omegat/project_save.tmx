@@ -3736,6 +3736,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The committee note, titled “Lightweight DITA: An Introduction,” was edited by me, Eberlein, and Alan Houser, former president of the Society for Technical Communication, who joined the LwDITA subcommittee in &lt;t3/&gt;2017.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T121609Z" creationid="DSS" creationdate="20200803T121609Z">
+        <seg>白皮书名为“轻量级 DITA 简介”，由我、埃伯莱因和艾伦·豪泽编写。艾伦·豪泽是技术传播协会前主席，于2017年加入 LwDITA 小组委员会。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The evolution of DITA  is taking shape after several branches, with LwDITA as one of those possible  paths for growth.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T093952Z" creationid="DSS" creationdate="20200730T093952Z">
