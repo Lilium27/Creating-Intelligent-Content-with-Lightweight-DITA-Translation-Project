@@ -368,8 +368,8 @@
       <tuv lang="en">
         <seg>&lt;t1/&gt;The CommonMark initiative, which aims to propose a Markdown standard, adds that it is a “plain text format for writing structured documents, based on for&lt;t2/&gt;matting conventions from email and usenet” (CommonMark, n.d.).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T125805Z" creationid="DSS" creationdate="20200802T125805Z">
-        <seg>CommonMark 倡议旨在提出一种 Markdown 标准，并补充到，Markdown“基于电子邮件和新闻组的格式约定，是一种用于编写结构化文档的纯文本格式”（CommonMark，未注明日期.）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T153558Z" creationid="DSS" creationdate="20200802T125805Z">
+        <seg>&lt;t1/&gt;CommonMark 倡议旨在提出一种 Markdown 标准，并补充到，Markdown“基于电子邮件和新闻组的格式约定，是一种用于编写结构化文档的纯文本格式”（CommonMark，未注明日期.）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -776,8 +776,8 @@
       <tuv lang="en">
         <seg>&lt;t4/&gt;The topic includes some HDITA snippets taken from Priestley's introductory blog post, which created a sense of structure for generic moves in the Markdown syntax.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T155722Z" creationid="DSS" creationdate="20200802T155722Z">
-        <seg>这个话题包含了一些从普里斯特利的介绍性博文中摘取的 HDITA 片段，这些片段为 Markdown 语法中的通用功能创造了一种结构感。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T153656Z" creationid="DSS" creationdate="20200802T155722Z">
+        <seg>&lt;t4/&gt;这个话题包含了一些从普里斯特利的介绍性博文中摘取的 HDITA 片段，这些片段为 Markdown 语法中的通用功能创造了一种结构感。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1296,8 +1296,8 @@
       <tuv lang="en">
         <seg>As Priestley's original proposal from on March &lt;t5/&gt;20, 2012 &lt;t6/&gt;established, that adjective was applied to the framework that presented LwDITA as a lighter option compared to full DITA XML.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T092929Z" creationid="DSS" creationdate="20200803T092838Z">
-        <seg>随着普里斯特利在2012年3月20日提出的提案的确立，“轻量级”这个形容词可以用于形容 LwDITA 框架，与完整版 DITA XML 相比，LwDITA 是一个更加轻量的选择。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T153744Z" creationid="DSS" creationdate="20200803T092838Z">
+        <seg>随着普里斯特利在2012年3月20日提出的提案的确立，“轻量级”这个形容词可以用于形容 LwDITA 框架，与完整版 DITA XML 相比，LwDITA 是一个更加轻量的选择。&lt;t5/&gt;&lt;t6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1925,8 +1925,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;3.2 &lt;t1/&gt;Early “MarkDITA” topic prototype that I shared with Michael&lt;t2/&gt; Priestley and Jenifer Schlotfeldt in May of &lt;t3/&gt;2014.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T155707Z" creationid="DSS" creationdate="20200802T155624Z">
-        <seg>图3.2 2014年5月我与迈克尔·普里斯特利y和珍妮弗·斯洛特菲尔德分享的早期“MarkDITA”话题原型。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T153649Z" creationid="DSS" creationdate="20200802T155624Z">
+        <seg>图&lt;t0/&gt;3.2&lt;t1/&gt; 2014年5月我与迈克尔·&lt;t2/&gt;普里斯特利和珍妮弗·斯洛特菲尔德分享的早期“MarkDITA”话题原型。&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2301,8 +2301,8 @@
       <tuv lang="en">
         <seg>I told him that I would develop some sample topics in HDITA and, a term we created at that moment, “MarkDITA” &lt;t4/&gt;一 &lt;t5/&gt;a Markdown-based authoring format of LwDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T130335Z" creationid="DSS" creationdate="20200802T130335Z">
-        <seg>我告诉普里斯特利，我将开发一些 HDITA 和MarkDITA 话题示例。在我跟普里斯特利说话的那一刻，我们想到了“MarkDITA”这个名字，MarkDITA 是基于 Markdown 的 LwDITA 创作格式。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T153602Z" creationid="DSS" creationdate="20200802T130335Z">
+        <seg>我告诉普里斯特利，我将开发一些 HDITA 和MarkDITA 话题示例。在我跟普里斯特利说话的那一刻，我们想到了“MarkDITA”这个名字，MarkDITA 是基于 Markdown 的 LwDITA 创作格式。&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2445,8 +2445,8 @@
       <tuv lang="en">
         <seg>In April &lt;t0/&gt;2015, &lt;t1/&gt;Priestley and I, along with metadata expert Lu Ai (former project manager at IBM and currently with Pearson) gave a presentation titled “Does DITA Need Tags?” at the DITA North America/ CMS conference in Chicago, IL.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T094955Z" creationid="DSS" creationdate="20200803T094955Z">
-        <seg>2015年4月，我和普里斯特利以及元数据专家艾路（音译，前IBM项目经理，现供职于培生集团）在于伊利诺伊州的芝加哥举行的 DITA 北美/ CMS 会议上，一起做了一个题为“DITA需要标签吗?”的演讲。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T153748Z" creationid="DSS" creationdate="20200803T094955Z">
+        <seg>2015年4月，我和普里斯特利以及元数据专家艾路（音译，前IBM项目经理，现供职于培生集团）在于伊利诺伊州的芝加哥举行的 DITA 北美/ CMS 会议上，一起做了一个题为“DITA需要标签吗?”的演讲。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2997,8 +2997,8 @@
       <tuv lang="en">
         <seg>Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML)” (Gruber, &lt;t0/&gt;2004).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T124258Z" creationid="DSS" creationdate="20200802T124258Z">
-        <seg>Markdown 允许用户使用易于阅读、易于编写的纯文本格式进行写作，再将文本转换为结构严密的 XHTML（或 HTML）”（格鲁伯，2004）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T153534Z" creationid="DSS" creationdate="20200802T124258Z">
+        <seg>Markdown 允许用户使用易于阅读、易于编写的纯文本格式进行写作，再将文本转换为结构严密的 XHTML（或 HTML）”（格鲁伯，2004）。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3053,8 +3053,8 @@
       <tuv lang="en">
         <seg>My daughter Sofia was born on September &lt;t4/&gt;12, 2014 &lt;t5/&gt;and I couldn't join the subcommittee in time for its call.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T162743Z" creationid="DSS" creationdate="20200802T162743Z">
-        <seg>2014年9月12日，我的女儿索菲亚出生了，所以我没能及时加入小组委员会的电话会议。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T153736Z" creationid="DSS" creationdate="20200802T162743Z">
+        <seg>2014年9月12日，我的女儿索菲亚出生了，所以我没能及时加入小组委员会的电话会议。&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3182,8 +3182,8 @@
       <tuv lang="en">
         <seg>On May &lt;t0/&gt;27, 2014 &lt;t1/&gt;Michael Priestley submitted the following proposal to the DITA Technical Committee asking for the creation of a dedicated Lightweight DITA subcommittee with OASIS:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T160101Z" creationid="DSS" creationdate="20200802T160101Z">
-        <seg>2014年5月27日，迈克尔·普里斯特利向DITA技术委员会提交了以下提议，要求与 OASIS 一起创立一个专门的轻量级 DITA 小组委员会：
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T153717Z" creationid="DSS" creationdate="20200802T160101Z">
+        <seg>&lt;t0/&gt;2014&lt;t1/&gt;年5月27日，迈克尔·普里斯特利向DITA技术委员会提交了以下提议，要求与 OASIS 一起创立一个专门的轻量级 DITA 小组委员会：
 </seg>
       </tuv>
     </tu>
@@ -3544,8 +3544,8 @@
       <tuv lang="en">
         <seg>Some members of the subcommittee focused on researching the compatibility and exchange among the three author&lt;t4/&gt;ing formats and the DITA &lt;t5/&gt;1.3 &lt;t6/&gt;standard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T095953Z" creationid="DSS" creationdate="20200803T095953Z">
-        <seg>小组委员会的一些成员主要研究三种写作格式和 DITA 标准1.3版本之间的兼容性和转换能力。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T153811Z" creationid="DSS" creationdate="20200803T095953Z">
+        <seg>小组委员会的一些成员主要研究三种写作格式和 DITA 标准&lt;t5/&gt;1.3&lt;t6/&gt;版本之间的兼容性和转换能力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3810,8 +3810,8 @@
       <tuv lang="en">
         <seg>The Markdown DITA plugin for the DITA Open Toolkit&lt;t0/&gt;1&lt;t1/&gt;, developed by the Finland-based programmer Jarno Elovirta, was released on February &lt;t2/&gt;2015 &lt;t3/&gt;and made possible some of the ideas that Priestley and I, and then the whole subcommittee, had been proposing for integrating Markdown into DITA pub&lt;t4/&gt;lishing workflows.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T115121Z" creationid="DSS" creationdate="20200803T115121Z">
-        <seg>这个工具是 DITA Open Toolkit&lt;t0/&gt;1&lt;t1/&gt; 的 Markdown DITA 插件，由芬兰程序员雅诺·艾洛维塔开发，并于2015年2月发布。我和普里斯特利以及整个小组委员会都提议将 Markdown 集成到 DITA 发布工作流中，而 Markdown DITA 插件让这个想法成为可能。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T153823Z" creationid="DSS" creationdate="20200803T115121Z">
+        <seg>这个工具是 DITA Open Toolkit&lt;t0/&gt;1&lt;t1/&gt; 的 Markdown DITA 插件，由芬兰程序员雅诺·艾洛维塔开发，并于&lt;t2/&gt;2015&lt;t3/&gt;年2月发布。我和普里斯特利以及整个小组委员会都提议将 Markdown 集成到 DITA 发布工作流中，而 Markdown DITA 插件让这个想法成为可能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4772,8 +4772,8 @@
       <tuv lang="en">
         <seg>{{ &lt;t0/&gt;Lightweight specialization architecture</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T161928Z" creationid="DSS" creationdate="20200802T161928Z">
-        <seg>轻量级的专门化体系结构</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T153724Z" creationid="DSS" creationdate="20200802T161928Z">
+        <seg>&lt;t0/&gt;轻量级的专门化体系结构</seg>
       </tuv>
     </tu>
     <tu>
@@ -4788,8 +4788,8 @@
       <tuv lang="en">
         <seg>{{ &lt;t0/&gt;Specialization authoring format</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T161936Z" creationid="DSS" creationdate="20200802T161936Z">
-        <seg>专门化的编写格式</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T153735Z" creationid="DSS" creationdate="20200802T161936Z">
+        <seg>&lt;t0/&gt;专门化的编写格式</seg>
       </tuv>
     </tu>
     <tu>
