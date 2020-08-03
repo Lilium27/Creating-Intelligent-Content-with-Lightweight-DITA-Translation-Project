@@ -862,6 +862,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t9/&gt;10).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T152330Z" creationid="DSS" creationdate="20200803T152330Z">
+        <seg>10页)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t9/&gt;55).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T160027Z" creationid="DSS" creationdate="20200720T160010Z">
@@ -2251,6 +2259,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I have added a simple definition, sometimes redundant, to each generic convention, which I adapted from the LwDITA technical specification.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T152454Z" creationid="DSS" creationdate="20200803T152454Z">
+        <seg>我在每个通用协定中都添加了一个改编自 LwDITA 技术规范的简单定义，虽然有时是这些定义多余的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I honestly think it was much more a matter of a paradigm shift, a change in business model, changing populations, and the fact that the computer became a universal device instead of an elite device.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200802T075656Z" creationid="lenovo" creationdate="20200802T075656Z">
@@ -2451,10 +2467,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In DITA, each content &lt;t0/&gt;component&lt;t1/&gt; corresponds to an &lt;t2/&gt;element&lt;t3/&gt; in XML (e.g., a paragraph is a &lt;t4/&gt;&lt;p&gt; &lt;t5/&gt;and a short description is a &lt;t6/&gt;&lt;shortdesc&gt;&lt;t7/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T152423Z" creationid="DSS" creationdate="20200803T152324Z">
+        <seg>在 DITA 中，每个内容&lt;t0/&gt;组件&lt;t1/&gt;都对应着 XML 中的一个&lt;t2/&gt;元素&lt;t3/&gt;（例如，段落对应&lt;t4/&gt;&lt;p&gt;&lt;t5/&gt;，短描述对应&lt;t6/&gt;&lt;shortdesc&gt;&lt;t7/&gt;）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In John Carroll's opinion, today's developers and users have not really lost the itch to tinker with systems because the manuals disap&lt;t0/&gt;peared.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T093646Z" creationid="lenovo" creationdate="20200723T091333Z">
         <seg>在约翰·卡罗尔看来，如今的开发者和用户并未因为手册的消失而真正丧失改进系统的渴望。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In LwDITA, however, XML is not the only authoring language; therefore, these components should not be seen exclusively as XML elements.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T152438Z" creationid="DSS" creationdate="20200803T152438Z">
+        <seg>然而，在 LwDITA 中，XML 不是唯一的写作语言，因此，不应该只将这些组件看作 XML 元素。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3494,6 +3526,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some components are self- explanatory, but others require a definition.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T152453Z" creationid="DSS" creationdate="20200803T152453Z">
+        <seg>有些组件是无需定义的，但还有些组件需要用户定义。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some experience with HTML or Markdown would also help, but the book provides enough context and information about those languages to understand and use the LwDITA proposed standard.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140252Z" creationid="DSS" creationdate="20200726T140252Z">
@@ -3794,8 +3834,8 @@
       <tuv lang="en">
         <seg>The committee note &lt;t0/&gt;Lightweight DITA: An Introduction&lt;t1/&gt; explains that the LwDITA topic includes a subset of conventions or components (the pigeonhole structures mentioned in &lt;t2/&gt;Chapter &lt;t3/&gt;2&lt;t4/&gt;) &lt;t5/&gt;that were “carefully chosen to include only the most basic constructions that are needed to structure information effec&lt;t6/&gt;tively.” To select those components, the subcommittee “considered the needs of diverse industries and sectors (including education, engineering, healthcare, and marketing)” (Evia et al., &lt;t7/&gt;2018, &lt;t8/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T152229Z" creationid="DSS" creationdate="20200803T152229Z">
-        <seg>委员会白皮书《&lt;t0/&gt;轻量级DITA简介&lt;t1/&gt;》解释到，LwDITA话题包括一个协定或组件（即在第 &lt;t3/&gt;2&lt;t4/&gt; &lt;t5/&gt;章中提到的鸽笼式结构）的子集，它们“经过委员会的精心挑选，只包括最基础的必要结构，用以有效构造信息。”为了挑选组件，小组委员会"考虑了不同行业和部门（包括教育、工程、医疗保健和营销等领域）的需求"(艾维亚等人，2018年，第10页)。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T152328Z" creationid="DSS" creationdate="20200803T152229Z">
+        <seg>委员会白皮书《&lt;t0/&gt;轻量级DITA简介&lt;t1/&gt;》解释到，LwDITA话题包括一个协定或组件（即在第 &lt;t3/&gt;2&lt;t4/&gt; &lt;t5/&gt;章中提到的鸽笼式结构）的子集，它们“经过委员会的精心挑选，只包括最基础的必要结构，用以有效构造信息。”为了挑选组件，小组委员会"考虑了不同行业和部门（包括教育、工程、医疗保健和营销等领域）的需求"(艾维亚等人，2018年，第</seg>
       </tuv>
     </tu>
     <tu>
