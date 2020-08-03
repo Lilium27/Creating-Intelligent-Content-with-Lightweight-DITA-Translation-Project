@@ -1046,6 +1046,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Additionally, the XDITA and HDITA content models were designed to be functionally equivalent to each other, while MDITA was intro&lt;t3/&gt;duced as a compatible subset.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T151724Z" creationid="DSS" creationdate="20200803T151724Z">
+        <seg>此外，XDITA 和 HDITA 内容模型功能对等，而 MDITA 是作为兼容性子集引入的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Additionally, the versatile task topic in DITA 1.3 can take the shape of a general task topic, a strict task, or a machinery task topic, depending on the context and purpose of usage.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T091140Z" creationid="DSS" creationdate="20200725T091127Z">
@@ -3720,6 +3728,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The LwDITA topic and map can be represented, with some limitations and substitutions, in three author&lt;t0/&gt;ing formats: XDITA (based on a simplified grammar of DITA XML), HDITA (based on HTML5), and MDITA (based on Markdown).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T151659Z" creationid="DSS" creationdate="20200803T151659Z">
+        <seg>LwDITA 话题和地图可以用三种写作格式表示：XDITA（基于DITA XML的简化语法）、HDITA（基于HTML5）和MDITA（基于Markdown），不过有一些限制和需要替换的地方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The LwDITA topic type (still a prototype at this stage) was moving away from the &lt;t0/&gt;27 &lt;t1/&gt;XML tags promised in the summer of &lt;t2/&gt;2012.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T130518Z" creationid="DSS" creationdate="20200801T130518Z">
@@ -3877,6 +3893,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T081256Z" creationid="DSS" creationdate="20200727T081256Z">
         <seg>XML 结构的集中化内容存储库可以作为许多用户交付内容的信息来源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The proposed standard focused on only two</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T151644Z" creationid="DSS" creationdate="20200803T151644Z">
+        <seg>在最初的版本中，提议的标准只关注两种</seg>
       </tuv>
     </tu>
     <tu>
@@ -4306,6 +4330,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Topics and maps authored in XDITA are fully compatible with content created according to the DITA &lt;t1/&gt;1.3 &lt;t2/&gt;standard.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T151721Z" creationid="DSS" creationdate="20200803T151721Z">
+        <seg>用 XDITA 编写的话题和地图与根据 DITA 标准&lt;t1/&gt;1.3&lt;t2/&gt;版本创建的内容完全兼容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Traditionally, and as mentioned in the Adobe video, intelligent content work&lt;t0/&gt;flows for technical communication rely on structure provided by Extensible Markup Language (XML) and some of its specific grammars like DocBook, S1000D, and DITA (Cowan, &lt;t1/&gt;2010; &lt;t2/&gt;Glushko &lt;t3/&gt;&amp; &lt;t4/&gt;McGrath, &lt;t5/&gt;2008; &lt;t6/&gt;Hackos, &lt;t7/&gt;2011, &lt;t8/&gt;among others).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143301Z" creationid="DSS" creationdate="20200726T140838Z">
@@ -4574,6 +4606,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T160132Z" creationid="DSS" creationdate="20200723T155417Z">
         <seg>传播的未来），意味着越来越结构化的内容，以及更快、更智能地使用 XML 和 DITA 结构的能力。”在这时长2小时30分钟的视频即将结束之时，视频旁白声宣称 “这无疑是一个令人兴奋的未来”（AdobeTCS， &lt;t0/&gt;2012年）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>content types for its initial release: topic and map.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T151649Z" creationid="DSS" creationdate="20200803T151649Z">
+        <seg>内容类型：话题（topic）和地图（map）。</seg>
       </tuv>
     </tu>
     <tu>
