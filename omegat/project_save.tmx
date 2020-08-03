@@ -2067,6 +2067,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How could content types created in XML, HTML5, and Markdown really speak the same language and represent established DITA conventions and structures?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T112258Z" creationid="DSS" creationdate="20200803T112258Z">
+        <seg>用 XML、HTML5 和 Markdown创建的内容类型如何能真正彼此兼容，并体现已建立的 DITA 规范和结构呢？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How does Carroll plead when facing the accusa&lt;t0/&gt;tion of killing the manual?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200802T075232Z" creationid="lenovo" creationdate="20200802T075232Z">
