@@ -2427,6 +2427,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In October &lt;t0/&gt;2016, &lt;t1/&gt;Kris Eberlein (chair of the DITA Technical Committee) requested a formal deliverable from the subcommittee: a committee note/white paper that would work as a proposal for the LwDITA standard.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T121447Z" creationid="DSS" creationdate="20200803T121447Z">
+        <seg>2016年10月，克里斯·埃伯莱因（DITA 技术委员会主席）要求小组委员会提交一份正式的交付文件：一份委员会说明/白皮书，作为 LwDITA 标准的提案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In Svenvold's account of the events, the manual was doomed when Carroll applied those principles of minimalism to the production of that specific genre of technical communication.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T093638Z" creationid="lenovo" creationdate="20200723T075643Z">
@@ -4253,6 +4261,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143833Z" creationid="DSS" creationdate="20200726T153553Z">
         <seg>要创建可供人类使用的可交付成果，XML 文件需要经过一个发布流程。根据奥基夫（O'Keefe）的观点，这个发布流程可能涉及以下角色，“而在一个小团队中，一个人可能会承担部分或所有角色”&lt;t0/&gt;（2009年，&lt;t1/&gt;第</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To focus on this deliverable while also keeping an eye on future spec development, the subcom&lt;t2/&gt;mittee appointed me as its co-chair and also appointed Keith Schengili-Roberts as secretary.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T121545Z" creationid="DSS" creationdate="20200803T121545Z">
+        <seg>为了表示对该文件和未来的标准的重视，小组委员会任命我为联合主席，并任命基思·申吉利–罗伯茨为秘书。</seg>
       </tuv>
     </tu>
     <tu>
