@@ -3165,6 +3165,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Priestley questioned if including DITA in the name would be “a help or a hindrance for adoption” (Priestley, 2014b).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T091941Z" creationid="DSS" creationdate="20200803T091941Z">
+        <seg>普里斯特利对在名字中加入“DITA”一词是会“促进使用还是阻碍使用”存有疑虑（普里斯特利，2014年）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Priestley's basic topic appears on &lt;t8/&gt;Figure &lt;t9/&gt;3.1&lt;t10/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T082047Z" creationid="DSS" creationdate="20200731T082047Z">
@@ -3314,6 +3322,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140252Z" creationid="DSS" creationdate="20200726T140252Z">
         <seg>如果读者具有 HTML 或 Markdown 方面的经验会有所帮助，但是本书对这些语言提供了足够的上下文和信息，以便理解和使用 LwDITA 提议的标准。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some of the early conversations during the Lightweight DITA subcommit&lt;t0/&gt;tee calls included selecting the right name for the proposed standard.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T091915Z" creationid="DSS" creationdate="20200803T091915Z">
+        <seg>轻量级 DITA 小组委员会早期的讨论包括内容为提议的标准起一个合适的名字。</seg>
       </tuv>
     </tu>
     <tu>
