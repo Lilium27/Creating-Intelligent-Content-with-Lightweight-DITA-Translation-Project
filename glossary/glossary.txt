@@ -384,3 +384,6 @@ John Hunt	约翰·亨特
 Amber Swope	安布尔·斯沃普
 Lightweight DITA subcommittee	轻量级 DITA 小组委员会
 Pearson	培生集团
+authoring formats	写作格式
+authoring format	写作格式
+DITA 1.3	DITA 标准1.3版本
