@@ -2843,6 +2843,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LwDITA Topical Conventions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T121941Z" creationid="DSS" creationdate="20200803T121941Z">
+        <seg>LwDITA 的话题协定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LwDITA aims  to simplify the DITA authoring and publishing experience with the minimum  number of content components that were useful for the sectors and industries  studied by members of the Lightweight DITA subcommittee.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T090115Z" creationid="DSS" creationdate="20200730T090115Z">
