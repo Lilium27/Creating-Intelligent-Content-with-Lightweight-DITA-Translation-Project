@@ -408,8 +408,8 @@
       <tuv lang="en">
         <seg>&lt;t12/&gt;In May of &lt;t13/&gt;2014, &lt;t14/&gt;Priestley presented the XDITA/HDITA proposal in a webinar titled “Does DITA Need XML?” That month, he also submitted a formal proposal to the DITA Technical &lt;t15/&gt;Committee asking for the creation of a dedicated Lightweight DITA subcom&lt;t16/&gt;mittee.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T122613Z" creationid="DSS" creationdate="20200802T122613Z">
-        <seg>2014年5月，普里斯特利在一个名为“DITA 需要 XML吗?”的网络研讨会上提出了 XDITA/HDITA 的提案。同月，他还向 DITA 技术委员会提交了一份正式提案，要求创建一个专门的轻量级DITA小组委员会。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T153525Z" creationid="DSS" creationdate="20200802T122613Z">
+        <seg>&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;2014年5月，普里斯特利在一个名为“DITA 需要 XML吗?”的网络研讨会上提出了 XDITA/HDITA 的提案。同月，他还向 &lt;t15/&gt;DITA 技术委员会提交了一份正式提案，要求创建一个专门的轻量级DITA小组委员会。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1176,8 +1176,8 @@
       <tuv lang="en">
         <seg>Although the concept of a simplified version of DITA XML had been around since &lt;t2/&gt;2011, &lt;t3/&gt;before the spring of &lt;t4/&gt;2014 &lt;t5/&gt;it all had been pretty much a side project of Michael Priestley, one of DITA's founding fathers, who still had a full-time position at IBM doing non-DITA work.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T121633Z" creationid="DSS" creationdate="20200802T121633Z">
-        <seg>尽管简化版 DITA XML 的概念早在2011年就出现了，但在2014年春天之前，它几乎算是 DITA 创始人之一迈克尔·普里斯特利的一个业余项目。当时，普里斯特利仍然是IBM的全职员工，做着与 DITA 无关的工作。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T153411Z" creationid="DSS" creationdate="20200802T121633Z">
+        <seg>尽管简化版 DITA XML 的概念早在&lt;t2/&gt;&lt;t3/&gt;2011年就出现了，但在&lt;t4/&gt;&lt;t5/&gt;2014年春天之前，它几乎算是 DITA 创始人之一迈克尔·普里斯特利的一个业余项目。当时，普里斯特利仍然是IBM的全职员工，做着与 DITA 无关的工作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3263,8 +3263,8 @@
       <tuv lang="en">
         <seg>Our work with the preliminary HDITA format was eventually published as the article “Structured Authoring without XML: Evaluating Lightweight DITA for Technical Documentation” in the journal &lt;t7/&gt;Technical Communication&lt;t8/&gt; (Evia &lt;t9/&gt;&amp; &lt;t10/&gt;Priestley, &lt;t11/&gt;2016).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T152245Z" creationid="DSS" creationdate="20200802T122522Z">
-        <seg>关于 HDITA 格式的初步探究写在《不使用 XML 的结构化创作:为技术文档评写作估轻量级 DITA》（Structured Authoring without XML: Evaluating Lightweight DITA for Technical Documentation）一文中，该文最终发表在《技术传播》（&lt;t7/&gt;Technical Communication&lt;t8/&gt;）杂志上。（艾维亚和普里斯特利，2016年）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T153439Z" creationid="DSS" creationdate="20200802T122522Z">
+        <seg>关于 HDITA 格式的初步探究写在《不使用 XML 的结构化创作:为技术文档评写作估轻量级 DITA》（Structured Authoring without XML: Evaluating Lightweight DITA for Technical Documentation）一文中，该文最终发表在《技术传播》（&lt;t7/&gt;Technical Communication&lt;t8/&gt;）杂志上。（艾维亚&lt;t9/&gt;和&lt;t10/&gt;普里斯特利，&lt;t11/&gt;2016年）。</seg>
       </tuv>
     </tu>
     <tu>
