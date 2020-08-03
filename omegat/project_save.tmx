@@ -1755,6 +1755,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Elovirta, who is the lead developer of the DITA Open Toolkit, generously contributed many open source hours to incorporating changes and suggestions that Priestley and I requested for our demos and conference pres&lt;t5/&gt;entations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T115839Z" creationid="DSS" creationdate="20200803T115839Z">
+        <seg>艾洛维塔是 DITA Open Toolkit 的主要开发人员，他慷慨地贡献了大量的时间将我和普里斯特利在样例和会议演示中所要求的改进以及我们的建议都开发出来，集成在现有工具中并且开源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Essays from whole cloth is more the thing.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200721T160159Z" creationid="DSS" creationdate="20200720T134143Z">
@@ -3680,6 +3688,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Markdown DITA plugin for the DITA Open Toolkit&lt;t0/&gt;1&lt;t1/&gt;, developed by the Finland-based programmer Jarno Elovirta, was released on February &lt;t2/&gt;2015 &lt;t3/&gt;and made possible some of the ideas that Priestley and I, and then the whole subcommittee, had been proposing for integrating Markdown into DITA pub&lt;t4/&gt;lishing workflows.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T115121Z" creationid="DSS" creationdate="20200803T115121Z">
+        <seg>这个工具是 DITA Open Toolkit&lt;t0/&gt;1&lt;t1/&gt; 的 Markdown DITA 插件，由芬兰程序员雅诺·艾洛维塔开发，并于2015年2月发布。我和普里斯特利以及整个小组委员会都提议将 Markdown 集成到 DITA 发布工作流中，而 Markdown DITA 插件让这个想法成为可能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Slow and Methodical Development of LwDITA</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T122837Z" creationid="DSS" creationdate="20200730T122837Z">
@@ -3893,6 +3909,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T162415Z" creationid="DSS" creationdate="20200802T162415Z">
         <seg>&lt;t0/&gt;2014年7月22&lt;t1/&gt;日，OASIS 领导层批准成立该小组委员会，并任命普里斯特利为主席。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The subcommittee's work was also influenced by the independent release of an open source tool that allowed the processing of Markdown files as DITA topics.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T115014Z" creationid="DSS" creationdate="20200803T115014Z">
+        <seg>小组委员会的工作还受到一个独立发行的开源工具的影响，该工具可以将 Markdown 文件转换为 DITA 话题。</seg>
       </tuv>
     </tu>
     <tu>
