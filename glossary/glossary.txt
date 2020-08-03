@@ -369,7 +369,7 @@ Horn	霍恩
 Information Mapping	信息映射
 Nancy Harrison	南希·哈里森
 paradigm	认知模式
-Evia	艾唯娅
+Evia	艾维亚
 Gruber	格鲁伯
 usenet	新闻组
 Jenifer Schlotfeldt	珍妮弗·斯洛特菲尔德
@@ -394,3 +394,4 @@ Keith Schengili-Roberts	基思·申吉利–罗伯茨
 Keith	基思
 Lightweight DITA: An Introduction	轻量级 DITA 简介
 Alan Houser	艾伦·豪泽
+DITA <t1/>1.3	DITA 标准1.3版本
