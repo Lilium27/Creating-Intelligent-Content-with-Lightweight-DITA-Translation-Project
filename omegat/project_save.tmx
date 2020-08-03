@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;li&gt; &lt;t0/&gt;contains &lt;t1/&gt;&lt;p&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T154411Z" creationid="DSS" creationdate="20200803T154411Z">
+        <seg>&lt;li&gt; &lt;t0/&gt;包含 &lt;t1/&gt;&lt;p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;map&gt; &lt;t0/&gt;contains &lt;t1/&gt;&lt;title&gt;&lt;t2/&gt;, &lt;t3/&gt;&lt;topicref&gt; &lt;t4/&gt;(topic hyper-reference)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T075154Z" creationid="DSS" creationdate="20200731T075154Z">
