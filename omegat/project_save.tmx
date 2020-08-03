@@ -1682,6 +1682,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>During the spring of &lt;t1/&gt;2015, &lt;t2/&gt;some members of the subcommittee seriously considered the DITA-related name of FINCH (Fully Intelligent New Content Hierarchy).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T092028Z" creationid="DSS" creationdate="20200803T092028Z">
+        <seg>&lt;t1/&gt;&lt;t2/&gt;2015年春天，小组委员会的成员认真考虑了一个能与 DITA 关联起来的名字：FINCH（Fully Intelligent New Content Hierarchy）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Each topic is long enough to make sense on its own, but short enough to stick to one point without expanding into other sub&lt;t0/&gt;jects” (Bellamy et al.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154251Z" creationid="DSS" creationdate="20200724T154251Z">
@@ -3314,6 +3322,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T152752Z" creationid="DSS" creationdate="20200726T152743Z">
         <seg>简洁、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some alternatives briefly considered were acronyms like CAKE (Content Authoring for the Knowledge Ecosystem), PAF (Portable Authoring Framework), XFAS (Cross-format Authoring Specification), or a one-word evocative name, like Helium, Portable, Adapt, or Evolve.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T092009Z" creationid="DSS" creationdate="20200803T092009Z">
+        <seg>一些简单考虑过的替代方案是使用首字母缩略词，如 CAKE（Content Authoring for the Knowledge Ecosystem）、PAF（Portable Authoring Framework）、XFAS（Cross-format Authoring Specification），或者可以引起共鸣的一个单词长度的名字，如 Helium、Portable、Adapt 或 Evolve。</seg>
       </tuv>
     </tu>
     <tu>
