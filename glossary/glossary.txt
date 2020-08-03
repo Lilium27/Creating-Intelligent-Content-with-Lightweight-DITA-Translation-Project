@@ -383,3 +383,4 @@ Adrian Warman	阿德里安·沃曼
 John Hunt	约翰·亨特
 Amber Swope	安布尔·斯沃普
 Lightweight DITA subcommittee	轻量级 DITA 小组委员会
+Pearson	培生集团
