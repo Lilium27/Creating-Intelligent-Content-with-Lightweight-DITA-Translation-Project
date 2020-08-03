@@ -2339,6 +2339,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In April &lt;t0/&gt;2015, &lt;t1/&gt;Priestley and I, along with metadata expert Lu Ai (former project manager at IBM and currently with Pearson) gave a presentation titled “Does DITA Need Tags?” at the DITA North America/ CMS conference in Chicago, IL.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T094955Z" creationid="DSS" creationdate="20200803T094955Z">
+        <seg>2015年4月，我和普里斯特利以及元数据专家艾路（音译，前IBM项目经理，现供职于培生集团）在于伊利诺伊州的芝加哥举行的 DITA 北美/ CMS 会议上，一起做了一个题为“DITA需要标签吗?”的演讲。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In Chapter 1,  I mentioned that Chef Pedro probably needed a DITA-based content model  that allowed authors to specialize a &lt;task&gt; into a &lt;recipe&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T094522Z" creationid="DSS" creationdate="20200730T094522Z">
@@ -2827,6 +2835,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MDITA was also considered a requirement.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T094657Z" creationid="DSS" creationdate="20200803T094657Z">
+        <seg>而对 MDITA 格式的需求也被纳入考量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MP: Actually, there need to be &lt;t0/&gt;2 &lt;t1/&gt;different answers to that question.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T131608Z" creationid="DSS" creationdate="20200801T131608Z">
@@ -3097,6 +3113,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154515Z" creationid="DSS" creationdate="20200726T154515Z">
         <seg>IBM 探索出来的解决方案之一是DITA，达尔文信息类型架构。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other lines of discussion in the early months of the subcommittee focused on the authoring formats to include in an initial release of the LwDITA standard.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T094650Z" creationid="DSS" creationdate="20200803T094650Z">
+        <seg>小组委员会成立后前几个月的讨论还集中在 LwDITA 标准初始版本中要包含的写作格式上，</seg>
       </tuv>
     </tu>
     <tu>
@@ -3801,6 +3825,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The subcommittee considered mappings to AsciiDoc, reStructuredText, EPUB3, Microsoft Word, and JSON.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T094704Z" creationid="DSS" creationdate="20200803T094704Z">
+        <seg>小组委员会还考虑了 AsciiDoc、reStructuredText、EPUB3、Microsoft Word 和J SON 格式的映射。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The subcommittee was approved by the OASIS leadership on July &lt;t0/&gt;22, 2014 &lt;t1/&gt;and Priestley was appointed as chair.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T162415Z" creationid="DSS" creationdate="20200802T162415Z">
@@ -4350,6 +4382,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T133632Z" creationid="DSS" creationdate="20200720T133632Z">
         <seg>创作可重复使用的内容是一种罕见的技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XDITA and HDITA were confirmed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T094654Z" creationid="DSS" creationdate="20200803T094654Z">
+        <seg>当时已经确定要加入 XDITA 和 HDITA 格式，</seg>
       </tuv>
     </tu>
     <tu>
