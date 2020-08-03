@@ -393,3 +393,4 @@ Kris Eberlein	克里斯·埃伯莱因
 Keith Schengili-Roberts	基思·申吉利–罗伯茨
 Keith	基思
 Lightweight DITA: An Introduction	轻量级 DITA 简介
+Alan Houser	艾伦·豪泽
