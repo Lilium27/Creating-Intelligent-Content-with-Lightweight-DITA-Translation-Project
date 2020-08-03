@@ -2099,6 +2099,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, the subcommittee did not find a champion to continue the &lt;t3/&gt;work on JSON, and the proposed standard continued with three initial authoring formats: XDITA, HDITA, and MDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T095855Z" creationid="DSS" creationdate="20200803T095855Z">
+        <seg>但是，小组委员会没有找到一个可以继续研究 JSON 的支持者，所以在提议的标准中，将继续使用最初的三种写作格式：XDITA、HDITA 和 MDITA。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, the subcommittee finally decided to stay with Lightweight DITA, styl&lt;t3/&gt;ized in an acronym as LwDITA.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T092815Z" creationid="DSS" creationdate="20200803T092815Z">
@@ -3394,6 +3402,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140252Z" creationid="DSS" creationdate="20200726T140252Z">
         <seg>如果读者具有 HTML 或 Markdown 方面的经验会有所帮助，但是本书对这些语言提供了足够的上下文和信息，以便理解和使用 LwDITA 提议的标准。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some members of the subcommittee focused on researching the compatibility and exchange among the three author&lt;t4/&gt;ing formats and the DITA &lt;t5/&gt;1.3 &lt;t6/&gt;standard.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T095953Z" creationid="DSS" creationdate="20200803T095953Z">
+        <seg>小组委员会的一些成员主要研究三种写作格式和 DITA 标准1.3版本之间的兼容性和转换能力。</seg>
       </tuv>
     </tu>
     <tu>
