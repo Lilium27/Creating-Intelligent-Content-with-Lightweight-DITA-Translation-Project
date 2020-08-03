@@ -2885,8 +2885,8 @@
       <tuv lang="en">
         <seg>Looking, for example, at the &lt;t0/&gt;17 &lt;t1/&gt;document types and &lt;t2/&gt;440 &lt;t3/&gt;element types available on the technical content edition of the DITA &lt;t4/&gt;1.3 &lt;t5/&gt;standard, I couldn't stop hear&lt;t6/&gt;ing the voice of John Carroll from the interview I reported on &lt;t7/&gt;Chapter &lt;t8/&gt;2&lt;t9/&gt;: &lt;t10/&gt;“All &lt;t11/&gt;this being said, the manuals didn't work.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095326Z" creationid="DSS" creationdate="20200730T095155Z">
-        <seg>例如，在 DITA 标准&lt;t4/&gt;1.3 &lt;t5/&gt;技术内容版本中有&lt;t0/&gt;17 &lt;t1/&gt;种可用文档类型和&lt;t2/&gt;440 &lt;t3/&gt;种元素类型，我不禁想到约翰•卡罗尔在&lt;t7/&gt;第&lt;t8/&gt;2&lt;t9/&gt;章中提到的采访中所说的话：&lt;t10/&gt;“&lt;t11/&gt;这么看来手册不起作用，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T154236Z" creationid="DSS" creationdate="20200730T095155Z">
+        <seg>例如，在 DITA 标准1.3技术内容版本中有&lt;t0/&gt;17 &lt;t1/&gt;种可用文档类型和&lt;t2/&gt;440 &lt;t3/&gt;种元素类型，我不禁想到约翰•卡罗尔在&lt;t7/&gt;第&lt;t8/&gt;2&lt;t9/&gt;章中提到的采访中所说的话：&lt;t10/&gt;“&lt;t11/&gt;这么看来手册不起作用，</seg>
       </tuv>
     </tu>
     <tu>
@@ -3383,8 +3383,8 @@
       <tuv lang="en">
         <seg>Priestley's proposal emphasized that the lightweight topic only included &lt;t0/&gt;16 &lt;t1/&gt;elements, and that all attributes, with the exception of &lt;t2/&gt;@id &lt;t3/&gt;on &lt;t4/&gt;&lt;topic&gt;&lt;t5/&gt;, were optional.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T075947Z" creationid="DSS" creationdate="20200731T075807Z">
-        <seg> 普里斯特利的提案强调轻量级话题只包含&lt;t0/&gt;16 &lt;t1/&gt;个元素，除了&lt;t4/&gt;&lt;topic&gt;&lt;t5/&gt;上的&lt;t2/&gt;@id &lt;t3/&gt;属性之外，所有属性都是可选的。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T154306Z" creationid="DSS" creationdate="20200731T075807Z">
+        <seg> 普里斯特利的提案强调轻量级话题只包含&lt;t0/&gt;16 &lt;t1/&gt;个元素，除了&lt;topic&gt;上的&lt;t2/&gt;@id &lt;t3/&gt;属性之外，所有属性都是可选的。</seg>
       </tuv>
     </tu>
     <tu>
