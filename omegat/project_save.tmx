@@ -974,6 +974,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A major task with the subcommittee was the creation of working groups in charge of developing user personas and usage scenarios for the LwDITA authoring formats.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T112959Z" creationid="DSS" creationdate="20200803T112959Z">
+        <seg>小组委员会的一个主要任务是成立工作组，负责为 LwDITA 写作格式创建用户画像和研究使用场景。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A search for “XML” &lt;t2/&gt;on &lt;t3/&gt;amazon.com&lt;t4/&gt; reveals more than &lt;t5/&gt;1,100 &lt;t6/&gt;results under the “Books: Computers &lt;t7/&gt;&amp; &lt;t8/&gt;Technology: Programming Languages” category.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143718Z" creationid="DSS" creationdate="20200726T153159Z">
@@ -1694,6 +1702,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T092028Z" creationid="DSS" creationdate="20200803T092028Z">
         <seg>&lt;t1/&gt;&lt;t2/&gt;2015年春天，小组委员会的成员认真考虑了一个能与 DITA 关联起来的名字：FINCH（Fully Intelligent New Content Hierarchy）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each group had the charge of developing profiles and establishing the essential DITA content and element types required for each industry or sector represented.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T113011Z" creationid="DSS" creationdate="20200803T113011Z">
+        <seg>每个小组都要负责撰写简介，并建立自己所代表的行业或部门所需的基本 DITA 内容和元素类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3725,6 +3741,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T073402Z" creationid="DSS" creationdate="20200731T073402Z">
         <seg>我们的目标是创建一个轻量级DITA框架，它可以方便临时的、辅助性的或非技术写作人员的作者使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The groups were organized around the categories of learning and training, machine industries, software development, and marketing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T113004Z" creationid="DSS" creationdate="20200803T113004Z">
+        <seg>这些小组围绕学习和培训、机器工业、软件开发和市场营销等领域进行组织。</seg>
       </tuv>
     </tu>
     <tu>
