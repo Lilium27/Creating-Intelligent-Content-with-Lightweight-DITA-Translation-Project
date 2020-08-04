@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T164017Z" creationid="DSS" creationdate="20200804T164017Z">
+        <seg>…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>10).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T091939Z" creationid="DSS" creationdate="20200731T091939Z">
@@ -1280,8 +1288,8 @@
       <tuv lang="en">
         <seg>And that became our &lt;t6/&gt;modus operandi&lt;t7/&gt;: we would boast about the potential benefits of LwDITA in conferences and webinars, developers and managers would show interest and ask for a demo, we requested plugin updates from Elovirta and offered a new demo &lt;t8/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T115925Z" creationid="DSS" creationdate="20200803T115902Z">
-        <seg>这成为了我们的&lt;t6/&gt;工作方式&lt;t7/&gt;：我们会在各种会议和网络研讨会上夸赞 LwDITA 的潜在好处，开发人员和管理人员会表现出兴趣并要求观看演示，我们就会让艾洛维塔更新插件并提供一个新的演示……</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T164025Z" creationid="DSS" creationdate="20200803T115902Z">
+        <seg>这成为了我们的&lt;t6/&gt;工作方式&lt;t7/&gt;：我们会在各种会议和网络研讨会上夸赞 LwDITA 的潜在好处，开发人员和管理人员会表现出兴趣并要求观看演示，我们就会让艾洛维塔更新插件并提供一个新的演示</seg>
       </tuv>
     </tu>
     <tu>
@@ -3895,8 +3903,8 @@
       <tuv lang="en">
         <seg>Preformatted text&lt;t0/&gt;: content that includes line breaks and spaces that should be preserved when rendered.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T131858Z" creationid="DSS" creationdate="20200804T131858Z">
-        <seg>预格式化文本（p reformatted text:）&lt;t0/&gt;：包含换行符和空格的内容，这些格式在呈现时应该保留。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T163959Z" creationid="DSS" creationdate="20200804T131858Z">
+        <seg>预格式化文本（preformatted text:）&lt;t0/&gt;：包含换行符和空格的内容，这些格式在呈现时应该保留。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5311,8 +5319,8 @@
       <tuv lang="en">
         <seg>Unordered list&lt;t0/&gt;: a series of items in which the order is not significant.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T131917Z" creationid="DSS" creationdate="20200804T131917Z">
-        <seg>无序列表（u nordered list）：无序的一系列项目。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T163941Z" creationid="DSS" creationdate="20200804T131917Z">
+        <seg>无序列表（unordered list）：无序的一系列项目。</seg>
       </tuv>
     </tu>
     <tu>
