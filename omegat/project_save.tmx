@@ -4411,8 +4411,8 @@
       <tuv lang="en">
         <seg>This idea of adding metadata to facilitate modular reuse of text, I first encountered it with a (female) technical com&lt;t0/&gt;municator at IBM, at the Raleigh lab in the early 90s.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T031344Z" creationid="lenovo" creationdate="20200804T031344Z">
-        <seg>上世纪90年代早期在IBM的罗利（Raleigh）实验室，增加元数据以便利文本的模块化复用，我在首次接触这一理念</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T033203Z" creationid="lenovo" creationdate="20200804T031344Z">
+        <seg>增加元数据以便利文本的模块化复用，我在首次接触这一理念是上世纪90年代早期，一名在IBM的罗利（Raleigh）实验室工作的技术传播工程师向我阐述了这一理念。</seg>
       </tuv>
     </tu>
     <tu>
