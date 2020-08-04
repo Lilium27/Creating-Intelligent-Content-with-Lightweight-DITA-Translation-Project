@@ -702,6 +702,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t3/&gt;Through an online introduction by Michael Priestley, I received the following reply from Carpenter:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T065650Z" creationid="lenovo" creationdate="20200804T065650Z">
+        <seg>迈克尔·普里斯特利在线上介绍我和卡朋特认识，以下是我从他那里收到的回复：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t3/&gt;Using that toolkit, known as the DITA Open Toolkit (OT), or a software tool that uses the Open Toolkit, Chef Pedro can produce quick information deliverables.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145316Z" creationid="DSS" creationdate="20200725T073835Z">
