@@ -398,3 +398,4 @@ Michael Priestley	迈克尔·普里斯特利
 Developing Quality Technical Information	《开发高质量技术信息》
 technical instruction	技术说明
 The Nurnberg Funnel	《纽伦堡漏斗》（The Nurnberg Funnel）
+IBM lab in Raleigh	IBM罗利实验室
