@@ -4674,6 +4674,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>We stripped a lot of bloated material out of inventory as part of our conversion to DITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T070935Z" creationid="lenovo" creationdate="20200804T070935Z">
+        <seg>在向DITA转变的过程中我们从库存中抛弃了大量冗余的材料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>We then moved on to the technical communication-related accusations that hang over John Carroll's head.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200802T075117Z" creationid="lenovo" creationdate="20200802T075107Z">
