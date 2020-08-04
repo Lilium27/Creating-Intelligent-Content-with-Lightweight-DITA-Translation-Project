@@ -1342,6 +1342,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As a result, he went back to Carroll's original writing in &lt;t1/&gt;The Nurnberg Funnel&lt;t2/&gt; and found “the prototypical example, the user guide that Carroll used to test out the principles.” He discovered that “you could write that user guide in DITA today.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T012232Z" creationid="lenovo" creationdate="20200804T012232Z">
+        <seg>因此，他回到卡罗尔的原作《纽伦堡漏斗》中寻找答案，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As of summer &lt;t2/&gt;2018, &lt;t3/&gt;the list included &lt;t4/&gt;724 &lt;t5/&gt;companies, excluding consulting and training firms (DITAWriter, n.d.).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143326Z" creationid="DSS" creationdate="20200726T141044Z">
