@@ -2083,6 +2083,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Figure&lt;t0/&gt;: a container for a variety of objects, including artwork, images, code samples, equations, and tables.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T131133Z" creationid="DSS" creationdate="20200804T131133Z">
+        <seg>图（figure）&lt;t0/&gt;：展示各种对象，包括插图、图像、代码示例、方程式和表格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>First, I define XML for the specific context of &lt;t0/&gt;Creating Intelligent Content with Lightweight DITA&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143620Z" creationid="DSS" creationdate="20200726T153146Z">
