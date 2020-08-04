@@ -4074,8 +4074,8 @@
       <tuv lang="en">
         <seg>The fixed content types that have been a part of DITA XML since its origins at IBM have always been open to evolution: an author can write, for example, a task topic with the default elements and attributes included in the DITA stand&lt;t0/&gt;ard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T074920Z" creationid="lenovo" creationdate="20200804T074920Z">
-        <seg>固定的内容类型一直是DITA XML的一部分，从IBM创建以来就一直拥抱演进：。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T075220Z" creationid="lenovo" creationdate="20200804T074920Z">
+        <seg>固定的内容类型一直是DITA XML的一部分，从IBM创建以来就一直拥抱革新：作者可以利用包含在DITA标准中的默认的元素和属性来写作，比如说撰写任务主题。</seg>
       </tuv>
     </tu>
     <tu>
