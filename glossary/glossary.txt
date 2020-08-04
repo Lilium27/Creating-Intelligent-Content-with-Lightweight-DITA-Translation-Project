@@ -400,3 +400,4 @@ The Nurnberg Funnel	《纽伦堡漏斗》（The Nurnberg Funnel）
 IBM lab in Raleigh	IBM罗利实验室
 technical communicators	技术传播工程师
 Susan Carpenter	苏珊·卡朋特
+Tom Johnson	汤姆•约翰逊
