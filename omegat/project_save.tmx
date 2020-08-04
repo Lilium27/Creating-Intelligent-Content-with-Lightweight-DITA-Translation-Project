@@ -2589,8 +2589,8 @@
       <tuv lang="en">
         <seg>In the 1990s, Carroll's work on minimalist documentation also influenced an IBM technical writer to architect the original DITA schemas for structuring con&lt;t0/&gt;tent.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200802T082309Z" creationid="lenovo" creationdate="20200802T082309Z">
-        <seg>上世纪90年代，卡罗尔在极简文档上的工作还影响了IBM的一位技术写作人员，激发他创建了用于结构化内容的</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T000733Z" creationid="lenovo" creationdate="20200802T082309Z">
+        <seg>上世纪90年代，卡罗尔在极简文档上的工作还影响了IBM的一位技术写作人员，激发他创建了用于结构化内容的原始DITA模式。</seg>
       </tuv>
     </tu>
     <tu>
