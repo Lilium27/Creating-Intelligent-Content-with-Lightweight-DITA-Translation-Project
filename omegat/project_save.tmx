@@ -822,6 +822,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t5/&gt;For any case that requires stricter structured models, the DITA standard will be there as an alternative or a next-level solution.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T162450Z" creationid="DSS" creationdate="20200804T162450Z">
+        <seg>对于需要更严密的结构化模型的情况，DITA 标准可以作为替代方案或下一级解决方案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t5/&gt;In conversations at academic conferences and in social media exchanges, colleagues from other universities tell me they would like to try DITA in the future and make plans to contact me when they are working on their technical communication syllabus.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T090526Z" creationid="DSS" creationdate="20200726T090526Z">
@@ -1074,6 +1082,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144321Z" creationid="DSS" creationdate="20200726T155045Z">
         <seg>此外，从解决部门经理、主管的需求来看， 哈克斯列出了 DITA 的商业优势, 这表明，DITA 将简明迅速地促进信息跨交付物重用能力，降低维护和更新信息的成本，实现不间断出版，在全球企业内共享信息，降低本地化的成本,并减少由错误、不够完善、无法使用的遗留信息引起的技术债务。 （哈克斯，&lt;t1/&gt;2011年，&lt;t2/&gt;第</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Additionally, the Lightweight DITA subcommittee will continue working on new releases of the proposed standard, which can include more content types based on user feedback and interest.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T162452Z" creationid="DSS" creationdate="20200804T162452Z">
+        <seg>此外，轻量级 DITA 小组委员会继续致力于改进提议的标准，根据用户反馈和兴趣点包含更多的内容类型。</seg>
       </tuv>
     </tu>
     <tu>
