@@ -1430,6 +1430,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Based on conversations with former and cur&lt;t0/&gt;rent IBM employees, I determined that the technical communicator could be &lt;t1/&gt;Susan Carpenter, who is now a senior manager of technical documentation at Red Hat and “led the first pilot of DITA with IBM WebSphere Application Server docs” (DITAWriter, &lt;t2/&gt;2016).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T065532Z" creationid="lenovo" creationdate="20200804T065532Z">
+        <seg>根据与IBM前任和在职员工的交流，我认定那位技术传播工程师就是苏珊·卡朋特（Susan Carpenter），如今她是红帽公司技术文档部门的高级经理，并“曾用DITA撰写IBM公司WebSphere Application Server（WAS）的相关文档，引领了首次试点。” (DITAWriter, &lt;t2/&gt;2016).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Based on the LwDITA proposed standard, the principles and strategies included in this book can be effective in a variety of authoring environments.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T094344Z" creationid="DSS" creationdate="20200726T094344Z">
