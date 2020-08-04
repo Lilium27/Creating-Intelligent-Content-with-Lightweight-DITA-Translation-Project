@@ -2267,6 +2267,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, that process of evolution is not necessarily transparent for authors who do not want or do not know how to edit XML schemas.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T081802Z" creationid="lenovo" creationdate="20200804T081802Z">
+        <seg>然而，这个演进过程对于作者而言并非一眼就能看穿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, the subcommittee did not find a champion to continue the &lt;t3/&gt;work on JSON, and the proposed standard continued with three initial authoring formats: XDITA, HDITA, and MDITA.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T095855Z" creationid="DSS" creationdate="20200803T095855Z">
