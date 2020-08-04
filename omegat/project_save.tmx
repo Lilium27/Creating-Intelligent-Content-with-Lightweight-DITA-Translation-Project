@@ -2107,6 +2107,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Footnote&lt;t0/&gt;: text that annotates content with notes that are inappropriate for inline inclusion.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T131244Z" creationid="DSS" creationdate="20200804T131147Z">
+        <seg>脚注（footnote）&lt;t0/&gt;：不适合写在正文内容的注释内容，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For Chef Pedro, adopting a standard like DITA simplifies the process of structuring content and producing information deliverables for human users.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T075213Z" creationid="DSS" creationdate="20200724T123552Z">
@@ -2627,6 +2635,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Image&lt;t0/&gt;: a link to a graphic to be included in the content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T131241Z" creationid="DSS" creationdate="20200804T131241Z">
+        <seg>图像（image）&lt;t0/&gt;：内容中的图像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In 1965, Robert E. Horn initiated the research into and design of the Information Mapping&lt;t0/&gt;®&lt;t1/&gt; method, initially developed as both a way of visually presenting information and a method for analyzing information to make it easier to communicate.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T084145Z" creationid="DSS" creationdate="20200731T084145Z">
@@ -2947,6 +2963,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is also used to indicate the source for facts or other mate&lt;t1/&gt;rial used in content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T131246Z" creationid="DSS" creationdate="20200804T131246Z">
+        <seg>也用来表示内容中引用的事实或其他材料的来源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is not as though the academic side of technical communication is stag&lt;t0/&gt;nant.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140347Z" creationid="DSS" creationdate="20200726T140347Z">
@@ -3135,6 +3159,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T085459Z" creationid="DSS" creationdate="20200731T085459Z">
         <seg>与 DITA 一样，信息映射以特定类型或模板使内容结构化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>List item&lt;t0/&gt;: a single entry in an ordered or unordered list.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T131226Z" creationid="DSS" creationdate="20200804T131211Z">
+        <seg>列表项（list item）&lt;t0/&gt;：有序或无序列表中的单个条目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3443,6 +3475,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note&lt;t0/&gt;: information that expands on or calls attention to a particular point.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T131233Z" creationid="DSS" creationdate="20200804T131233Z">
+        <seg>注解（note）&lt;t0/&gt;：对某一点内容进行扩展或想要引起读者注意的信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Now, if Pedro were to open a text editor in his computer and start typing XML tags to structure his content, he probably would not know where to go after typing for a few minutes.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153541Z" creationid="DSS" creationdate="20200726T153541Z">
@@ -3529,6 +3569,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154515Z" creationid="DSS" creationdate="20200726T154515Z">
         <seg>IBM 探索出来的解决方案之一是DITA，达尔文信息类型架构。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ordered list&lt;t0/&gt;: a series of items sorted by sequence or order of importance.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T131222Z" creationid="DSS" creationdate="20200804T131222Z">
+        <seg>有序列表（ordered list）&lt;t0/&gt;：按顺序或重要性排序的一系列项目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4667,9 +4715,8 @@
       <tuv lang="en">
         <seg>This is commonly used to create text alter&lt;t1/&gt;natives for readers or systems that cannot view the original image.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T130444Z" creationid="DSS" creationdate="20200804T130444Z">
-        <seg>通常用于为无法查看原始图像的读者或系统编写替代文本，显示在图像原来的位置上。
-</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T131137Z" creationid="DSS" creationdate="20200804T130444Z">
+        <seg>通常用于为无法查看原始图像的读者或系统编写替代文本，显示在图像原来的位置上。</seg>
       </tuv>
     </tu>
     <tu>
