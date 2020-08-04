@@ -2563,6 +2563,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In &lt;t1/&gt;Chapter &lt;t2/&gt;1&lt;t3/&gt;, &lt;t4/&gt;I mentioned an example of Chef Pedro, who could &lt;t5/&gt;specialize&lt;t6/&gt; ele&lt;t7/&gt;ments of the DITA task content type into more meaningful components for his intended purpose (i.e., &lt;t8/&gt;&lt;ingredients&gt; &lt;t9/&gt;as a specialization of the default &lt;t10/&gt;&lt;prereq&gt; &lt;t11/&gt;for pre-requisites).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T080138Z" creationid="lenovo" creationdate="20200804T080138Z">
+        <seg>在第一章中In，我提到了佩德罗的例子，他能够根据自己特定的目的将DITA任务内容类型的各类元素专门化成更具意义的组件。（比如说&lt;ingredients&gt;标签是默认元素的专门化，&lt;prereq&gt;是）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In &lt;t5/&gt;Chapter &lt;t6/&gt;1&lt;t7/&gt;, &lt;t8/&gt;I mentioned that Chef Pedro probably needed a DITA-based content model that allowed authors to specialize a &lt;t9/&gt;&lt;task&gt; &lt;t10/&gt;into a &lt;t11/&gt;&lt;recipe&gt;&lt;t12/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095919Z" creationid="DSS" creationdate="20200730T095919Z">
