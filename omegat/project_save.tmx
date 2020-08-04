@@ -1502,6 +1502,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Body&lt;t0/&gt;: a container for the main content of a topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T124857Z" creationid="DSS" creationdate="20200804T124857Z">
+        <seg>主体（body）&lt;t0/&gt;：包含话题的主要内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By &lt;t2/&gt;1999, &lt;t3/&gt;Dave was aware of my participation as IBM's primary representa&lt;t4/&gt;tive with the XSLT and CSS standards activities at the World Wide Web Consortium, and I delivered a presentation at a formative meeting in California that forecast the possibility of XML to solve IBM's still-linger&lt;t5/&gt;ing problems with variant tools and markup usage.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144108Z" creationid="DSS" creationdate="20200726T154657Z">
@@ -3734,6 +3742,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Short description&lt;t0/&gt;: the purpose or main point of a topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T130211Z" creationid="DSS" creationdate="20200804T124852Z">
+        <seg>简短描述（shoort description）&lt;t0/&gt;：描述话题的目的或要点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Short, succinct manuals allow the user to dive into many different tasks and to accomplish them quickly, thereby gaining a sense of control and autonomy that inspires further learning.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T080716Z" creationid="lenovo" creationdate="20200723T080716Z">
@@ -4681,6 +4697,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Title&lt;t0/&gt;: a label that connotes the purpose of the content associated with it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T124844Z" creationid="DSS" creationdate="20200804T124844Z">
+        <seg>标题（title）&lt;t0/&gt;：表示内容目的的标签。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To create information deliverables ready for human consumption, XML files need to go through a process of publishing that, according to O'Keefe, can involve the following roles, which “in a small group, one person may hold any or all” &lt;t0/&gt;(2009, &lt;t1/&gt;p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143833Z" creationid="DSS" creationdate="20200726T153553Z">
@@ -4701,6 +4725,15 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T155631Z" creationid="DSS" creationdate="20200724T155631Z">
         <seg>“Topic”来源于被广泛采用的开放内容标准达尔文信息类型架构（DITA），该标准定义了内容的一般结构，促进了内容创建、共享和复用的一致性。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Topic&lt;t0/&gt;: a coherent unit of content that conveys information.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T124835Z" creationid="DSS" creationdate="20200804T124835Z">
+        <seg>主题（topic）&lt;t0/&gt;：清楚传达信息的内容单元。
 </seg>
       </tuv>
     </tu>
