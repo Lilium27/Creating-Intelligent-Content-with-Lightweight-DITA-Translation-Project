@@ -3467,6 +3467,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Multimedia Components</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T154946Z" creationid="DSS" creationdate="20200804T154946Z">
+        <seg>多媒体组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>My daughter Sofia was born on September &lt;t4/&gt;12, 2014 &lt;t5/&gt;and I couldn't join the subcommittee in time for its call.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T153736Z" creationid="DSS" creationdate="20200802T162743Z">
