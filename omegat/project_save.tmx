@@ -1526,6 +1526,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bold&lt;t0/&gt;, which is used to draw a reader's attention to a phrase without other&lt;t1/&gt;wise adding meaning to the content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T134126Z" creationid="DSS" creationdate="20200804T134126Z">
+        <seg>粗体（bold）&lt;t0/&gt;&lt;t1/&gt;可以使读者的注意力聚焦到某个短语上，而不会增加额外内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By &lt;t2/&gt;1999, &lt;t3/&gt;Dave was aware of my participation as IBM's primary representa&lt;t4/&gt;tive with the XSLT and CSS standards activities at the World Wide Web Consortium, and I delivered a presentation at a formative meeting in California that forecast the possibility of XML to solve IBM's still-linger&lt;t5/&gt;ing problems with variant tools and markup usage.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144108Z" creationid="DSS" creationdate="20200726T154657Z">
@@ -1822,6 +1830,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T152840Z" creationid="DSS" creationdate="20200726T152840Z">
         <seg>答案是</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Data&lt;t0/&gt;: a generic component for metadata.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T134500Z" creationid="DSS" creationdate="20200804T134500Z">
+        <seg>数据（data）&lt;t0/&gt;：元数据通用组件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2311,6 +2327,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T075115Z" creationid="lenovo" creationdate="20200723T075115Z">
         <seg>降低犯错与纠错的伤害，提升教学效率。(p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlighting Components (available in both topic and map)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T134114Z" creationid="DSS" creationdate="20200804T134114Z">
+        <seg>重点组件（话题和地图中都可以使用）</seg>
       </tuv>
     </tu>
     <tu>
@@ -2987,6 +3011,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is frequently used in chemical and mathematical formulas.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T134222Z" creationid="DSS" creationdate="20200804T134222Z">
+        <seg>经常用在化学和数学公式中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is frequently used in chemical and mathematical formulas; it also is used for footnotes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T134159Z" creationid="DSS" creationdate="20200804T134159Z">
+        <seg>经常用在化学和数学公式中，也用于标注脚注。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is not as though the academic side of technical communication is stag&lt;t0/&gt;nant.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140347Z" creationid="DSS" creationdate="20200726T140347Z">
@@ -3031,6 +3071,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T004956Z" creationid="lenovo" creationdate="20200804T004956Z">
         <seg>直到DITA面试，人们才开始质疑这些选择，而在此之前我早已追根溯源并尝试去理解它们的发展历程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Italics&lt;t0/&gt;, which is a way to emphasize key points in a printed text or, when quoting a speaker, a way to show which words the speaker stressed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T134135Z" creationid="DSS" creationdate="20200804T134135Z">
+        <seg>斜体（italics）&lt;t0/&gt;在印刷文本中属于强调重点的一种方式，或者在引用演讲时，显示演讲者重读了哪些词。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3307,6 +3355,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Map Components</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T151530Z" creationid="DSS" creationdate="20200804T151530Z">
+        <seg>地图组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML)” (Gruber, &lt;t0/&gt;2004).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T153534Z" creationid="DSS" creationdate="20200802T124258Z">
@@ -3319,6 +3375,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T124233Z" creationid="DSS" creationdate="20200802T124233Z">
         <seg>Markdown 是一个“为网页端写作者提供将文本转换为 HTML 服务的工具”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Metadata Components</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T134432Z" creationid="DSS" creationdate="20200804T134432Z">
+        <seg>元数据组件</seg>
       </tuv>
     </tu>
     <tu>
@@ -3821,6 +3885,15 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Prolog&lt;t0/&gt;: contains information about a file, for example, author informa&lt;t1/&gt;tion or subject category.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T134451Z" creationid="DSS" creationdate="20200804T134451Z">
+        <seg>序言（prolog）&lt;t0/&gt;：包含有关文件的信息，如作者信息或主题类别。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Properly tagged DITA topics can create or join content collections ready for reuse of material, single-sourcing of whole topics or their elements, and filters as determined by a deliverable's audience or context.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T144738Z" creationid="DSS" creationdate="20200725T144738Z">
@@ -3998,6 +4071,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Subscript&lt;t0/&gt;, which is a letter, number, or figure that is printed lower than the line.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T134220Z" creationid="DSS" creationdate="20200804T134144Z">
+        <seg>下标（subscript）&lt;t0/&gt;，即比所在行位置略低的一个字母、数字或图形，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Superscript&lt;t0/&gt;, which is a letter, number, or figure that is printed above than the line.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T134213Z" creationid="DSS" creationdate="20200804T134154Z">
+        <seg>上标（superscript）&lt;t0/&gt;，即比所在行位置略高的一个字母、数字或图形，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TABLE &lt;t0/&gt;3.2 &lt;t1/&gt;Specialized structural elements in XDITA and their equivalents in HDITA, which use custom data attributes to modify elements in HTML5.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T114921Z" creationid="DSS" creationdate="20200802T114921Z">
@@ -4010,6 +4099,46 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200721T144144Z" creationid="DSS" creationdate="20200721T144144Z">
         <seg>轻量级 DITA 地图组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Table Components</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T132957Z" creationid="DSS" creationdate="20200804T132957Z">
+        <seg>表格组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Table entry&lt;t0/&gt;: a single cell within a table.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T133044Z" creationid="DSS" creationdate="20200804T133044Z">
+        <seg>表条目&lt;t0/&gt;：表格中的单元格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Table header&lt;t0/&gt;: an optional single heading row at the beginning of a table.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T133023Z" creationid="DSS" creationdate="20200804T133023Z">
+        <seg>表头&lt;t0/&gt;：表格头部的可选单行标题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Table row&lt;t0/&gt;: a single row within a table.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T133039Z" creationid="DSS" creationdate="20200804T133039Z">
+        <seg>表格行&lt;t0/&gt;：表格中的行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Table&lt;t0/&gt;: a collection of rows and entries to present organized content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T133011Z" creationid="DSS" creationdate="20200804T133011Z">
+        <seg>表格：&lt;t0/&gt;展示有组织的内容的行和条目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4761,6 +4890,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This information might be entered by an author or maintained by an application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T134455Z" creationid="DSS" creationdate="20200804T134455Z">
+        <seg>这些信息可以由作者输入，也可以由程序维护。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is commonly used to create text alter&lt;t1/&gt;natives for readers or systems that cannot view the original image.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T131137Z" creationid="DSS" creationdate="20200804T130444Z">
@@ -4919,6 +5056,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143301Z" creationid="DSS" creationdate="20200726T140838Z">
         <seg>从传统上来看，也正如在 Adobe 视频中提到的，用于技术传播的智能内容工作流依赖于可扩展标记语言（XML）的结构及其一些特定的语法，如 DocBook、S1000D 和 DITA （考恩，&lt;t1/&gt;2010年；&lt;t2/&gt;格鲁什科&lt;t3/&gt;、&lt;t4/&gt;麦格拉，&lt;t5/&gt;2008年；&lt;t6/&gt;哈克斯， &lt;t7/&gt;2011年）。&lt;t8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Underline&lt;t0/&gt;, also called an underscore, which is a more or less horizontal line immediately below a portion of writing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T134206Z" creationid="DSS" creationdate="20200804T134206Z">
+        <seg>下划线（underline）&lt;t0/&gt;是仅靠文字底部的水平线。</seg>
       </tuv>
     </tu>
     <tu>
