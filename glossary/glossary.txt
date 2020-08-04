@@ -240,7 +240,6 @@ technical authors	技术作者
 technical committee	技术委员会
 Technical Committee	技术委员会
 technical communicator	技术沟通
-technical communicators	技术传播者
 technical content	技术内容
 technical documentation	技术文档
 Technical Documentation	技术文档
@@ -399,3 +398,4 @@ Developing Quality Technical Information	《开发高质量技术信息》
 technical instruction	技术说明
 The Nurnberg Funnel	《纽伦堡漏斗》（The Nurnberg Funnel）
 IBM lab in Raleigh	IBM罗利实验室
+technical communicators	技术传播工程师
