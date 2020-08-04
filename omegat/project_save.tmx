@@ -1150,6 +1150,15 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alternate text&lt;t0/&gt;: a textual description of an image that can be read or displayed in place of the image.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T130232Z" creationid="DSS" creationdate="20200804T130232Z">
+        <seg>替代文本（alternate text）&lt;t0/&gt;：描述图像内容的文本，通常用于为无法查看原始图像的读者或系统编写替代文本，显示在图像原来的位置上。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Although an author does not even need to be familiar with XML in order to create information products in the workflows introduced in this book, the ideas presented in &lt;t0/&gt;Creating Intelligent Content with Lightweight DITA&lt;t1/&gt; are rooted in DITA and XML.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143607Z" creationid="DSS" creationdate="20200726T153105Z">
@@ -1502,6 +1511,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Body Components</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T130219Z" creationid="DSS" creationdate="20200804T130219Z">
+        <seg>主体组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Body&lt;t0/&gt;: a container for the main content of a topic.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T124857Z" creationid="DSS" creationdate="20200804T124857Z">
@@ -1802,6 +1819,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Definition term&lt;t0/&gt;: the text that is defined in a list entry.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T130403Z" creationid="DSS" creationdate="20200804T130337Z">
+        <seg>定义术语（definition term）：列表条目中定义的文本。&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Definition value&lt;t0/&gt;: text that provides the description for a term in a list entry.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T130331Z" creationid="DSS" creationdate="20200804T130331Z">
+        <seg>定义值（definition value）&lt;t0/&gt;：列表条目中用于描述某个术语的文本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Definitions and descriptions of the Extensible Markup Language abound in academic and practitioner publications.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153152Z" creationid="DSS" creationdate="20200726T153152Z">
@@ -1814,6 +1847,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T161247Z" creationid="DSS" creationdate="20200802T161247Z">
         <seg>可交付成果：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Description&lt;t0/&gt;: a statement that describes or contains additional information about an object.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T130321Z" creationid="DSS" creationdate="20200804T130321Z">
+        <seg>描述（description）&lt;t0/&gt;：描述或包含对象的附加信息的语句。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4597,6 +4638,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T033203Z" creationid="lenovo" creationdate="20200804T031344Z">
         <seg>增加元数据以便利文本的模块化复用，我在首次接触这一理念是上世纪90年代早期，一名在IBM的罗利（Raleigh）实验室工作的技术传播工程师向我阐述了这一理念。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is commonly used to create text alter&lt;t1/&gt;natives for readers or systems that cannot view the original image.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T130241Z" creationid="DSS" creationdate="20200804T130241Z">
+        <seg>定义列表（definition list）&lt;t1/&gt;：术语和相关定义列表。</seg>
       </tuv>
     </tu>
     <tu>
