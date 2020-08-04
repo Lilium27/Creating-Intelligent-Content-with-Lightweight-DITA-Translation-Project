@@ -1152,9 +1152,8 @@
       <tuv lang="en">
         <seg>Alternate text&lt;t0/&gt;: a textual description of an image that can be read or displayed in place of the image.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T130232Z" creationid="DSS" creationdate="20200804T130232Z">
-        <seg>替代文本（alternate text）&lt;t0/&gt;：描述图像内容的文本，通常用于为无法查看原始图像的读者或系统编写替代文本，显示在图像原来的位置上。
-</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T130443Z" creationid="DSS" creationdate="20200804T130232Z">
+        <seg>替代文本（alternate text）&lt;t0/&gt;：描述图像内容的文本，</seg>
       </tuv>
     </tu>
     <tu>
@@ -1815,6 +1814,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T152840Z" creationid="DSS" creationdate="20200726T152840Z">
         <seg>答案是</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Definition list entry&lt;t0/&gt;: an entry groups a term and its definition.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T130426Z" creationid="DSS" creationdate="20200804T130426Z">
+        <seg>定义列表条目（definition list entry）：一个条目包括术语及其定义。&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Definition list&lt;t0/&gt;: a list of terms and corresponding definitions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T130438Z" creationid="DSS" creationdate="20200804T130438Z">
+        <seg>定义列表（definition list）&lt;t0/&gt;：术语和相关定义列表。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4644,8 +4659,9 @@
       <tuv lang="en">
         <seg>This is commonly used to create text alter&lt;t1/&gt;natives for readers or systems that cannot view the original image.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T130241Z" creationid="DSS" creationdate="20200804T130241Z">
-        <seg>定义列表（definition list）&lt;t1/&gt;：术语和相关定义列表。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T130444Z" creationid="DSS" creationdate="20200804T130444Z">
+        <seg>通常用于为无法查看原始图像的读者或系统编写替代文本，显示在图像原来的位置上。
+</seg>
       </tuv>
     </tu>
     <tu>
