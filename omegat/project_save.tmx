@@ -2379,6 +2379,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I was leading IBM's production pilot of DITA in &lt;t0/&gt;2001/2, &lt;t1/&gt;and I definitely had contact with him (Carroll) during that time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T070302Z" creationid="lenovo" creationdate="20200804T070302Z">
+        <seg>2001年2月我领导了IBM基于DITA的产品试点工作，那段时间我肯定同他（卡罗尔）有过接触。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I was surprised and gratified by how close the match was, and by how resilient and persistent those principles have proved.” That concept of applied minimalism is an undeniable engine behind the concept of intelligent content, which would not exist if authors were still writing print-based manuals with unstructured sections and chapters.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T020201Z" creationid="lenovo" creationdate="20200804T015154Z">
@@ -2831,6 +2839,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T115618Z" creationid="DSS" creationdate="20200720T160228Z">
         <seg>它本不是这样的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It was probably me.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T065710Z" creationid="lenovo" creationdate="20200804T065710Z">
+        <seg>那可能说的就是我。</seg>
       </tuv>
     </tu>
     <tu>
