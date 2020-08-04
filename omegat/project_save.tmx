@@ -1006,6 +1006,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A few weeks after I interviewed John Carroll, the influential technical com&lt;t0/&gt;munication blogger Tom Johnson talked to him at the Society for Technical Communication Summit.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T071158Z" creationid="lenovo" creationdate="20200804T071158Z">
+        <seg>在我采访约翰·卡罗尔的数周后，颇具影响力的技术传播博主汤姆•约翰逊（Tom Johnson）在技术交流协会峰会上与他进行了交谈。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A learning curve that gets less steep every time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T152818Z" creationid="DSS" creationdate="20200726T152818Z">
