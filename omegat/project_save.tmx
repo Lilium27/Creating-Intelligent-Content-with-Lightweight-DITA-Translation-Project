@@ -2763,6 +2763,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It wasn't until we went public with DITA and people started challenging those choices that I went back and tried to understand where they came from.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T004956Z" creationid="lenovo" creationdate="20200804T004956Z">
+        <seg>直到DITA面试，人们才开始质疑这些选择，而在此之前我早已追根溯源并尝试去理解它们的发展历程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Its element tags are enclosed in angle brackets (&lt;element&gt;This is element text&lt;/element&gt;).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T081356Z" creationid="DSS" creationdate="20200726T154105Z">
