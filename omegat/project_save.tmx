@@ -2331,6 +2331,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I had the opportunity to ask John Carroll what he thought of DITA, since many DITA people claim Carroll's minimalism as foundational to tech comm.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T071445Z" creationid="lenovo" creationdate="20200804T071445Z">
+        <seg>我有幸询问约翰·卡罗尔对DITA的看法，许多DITA拥护者都将卡罗尔的极简主义是做技术传播的基石。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I have added a simple definition, sometimes redundant, to each generic convention, which I adapted from the LwDITA technical specification.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T152454Z" creationid="DSS" creationdate="20200803T152454Z">
@@ -2935,6 +2943,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T093552Z" creationid="lenovo" creationdate="20200722T022425Z">
         <seg>我们如今了解的定义了技术通信学术和专业领域的一些行为和决定都出自约翰·卡罗尔（John Carroll）之手</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Johnson questioned if DITA was a product of mini&lt;t1/&gt;malism in documentation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T071251Z" creationid="lenovo" creationdate="20200804T071251Z">
+        <seg>DITA是否是极简主义应用于文档的产物，约翰逊对这一点提出了质疑。</seg>
       </tuv>
     </tu>
     <tu>
