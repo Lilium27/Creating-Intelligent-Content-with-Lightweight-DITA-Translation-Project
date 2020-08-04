@@ -4553,6 +4553,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This process of specialization is reflected in the “D” of DITA: topics and their elements can evolve in the Darwinian sense of the word.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T081156Z" creationid="lenovo" creationdate="20200804T081156Z">
+        <seg>专门化过程反映在DITA的“D”字母上：主题及其元素能够像达尔文进化论中描述的那样向前进化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This process of tagging, commenting, and nesting data will look familiar to readers who have used HTML or another markup language.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154250Z" creationid="DSS" creationdate="20200726T154250Z">
