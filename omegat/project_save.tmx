@@ -3363,6 +3363,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Map&lt;t0/&gt;: a component that describes the relationships among a set of resources, such as LwDITA topics.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T153616Z" creationid="DSS" creationdate="20200804T153616Z">
+        <seg>地图（map）&lt;t0/&gt;：描述一组资源之间关系的组件，如一组LwDITA话题之间的关系。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML)” (Gruber, &lt;t0/&gt;2004).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T153534Z" creationid="DSS" creationdate="20200802T124258Z">
