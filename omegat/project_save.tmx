@@ -3855,6 +3855,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That same author could, with some tweaking of XML schemas or with help from an information architect, adapt the task topic to make the “fixed pattern or template” mentioned by Johnson into something that works for them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T075532Z" creationid="lenovo" creationdate="20200804T075532Z">
+        <seg>同一作者可以对XML模式进行一些调整，或者在信息架构师的帮助下，调整任务主题，使得约翰逊提到的“固定的模式会模板”能够转换成对他们行之有效的形式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That same colleague would also point out examples of inde&lt;t4/&gt;pendent software companies that still produce lengthy user manuals.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T090636Z" creationid="lenovo" creationdate="20200723T090636Z">
