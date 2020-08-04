@@ -1454,6 +1454,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Audio&lt;t0/&gt;: a link to sound to be included in the content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T154957Z" creationid="DSS" creationdate="20200804T154957Z">
+        <seg>音频（audio）&lt;t0/&gt;：内容中包含的音频链接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Autoplay&lt;t0/&gt;: determines if a multimedia component should play automati&lt;t1/&gt;cally on a deliverable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T155004Z" creationid="DSS" creationdate="20200804T155004Z">
+        <seg>自动播放（autoplay）：控制交付物上的多媒体组件是否应该自动播放。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>BEFORE INTELLIGENT CONTENT,&lt;t0/&gt; THERE WAS THE COMPUTER MANUAL</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200722T021836Z" creationid="lenovo" creationdate="20200722T021836Z">
@@ -1701,6 +1717,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T125628Z" creationid="DSS" creationdate="20200724T125628Z">
         <seg>DITA 中的内容以单元或独立 XML 文件的形式存在，符合预先建立的类型或模型结构。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Controls&lt;t0/&gt;: enables user interfaces for video playback and volume in web- aimed transformations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T155009Z" creationid="DSS" creationdate="20200804T155009Z">
+        <seg>控件（controls）：在网页转换中，提供控制视频重放和视频音量的用户界面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3263,6 +3287,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T154236Z" creationid="DSS" creationdate="20200730T095155Z">
         <seg>例如，在 DITA 标准1.3技术内容版本中有&lt;t0/&gt;17 &lt;t1/&gt;种可用文档类型和&lt;t2/&gt;440 &lt;t3/&gt;种元素类型，我不禁想到约翰•卡罗尔在&lt;t7/&gt;第&lt;t8/&gt;2&lt;t9/&gt;章中提到的采访中所说的话：&lt;t10/&gt;“&lt;t11/&gt;这么看来手册不起作用，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Loop&lt;t0/&gt;: determines if a multimedia component should play constantly.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T155014Z" creationid="DSS" creationdate="20200804T155014Z">
+        <seg>循环（loop）：控制多媒体组件是否应该循环播放。</seg>
       </tuv>
     </tu>
     <tu>
