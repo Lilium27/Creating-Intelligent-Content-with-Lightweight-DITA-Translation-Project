@@ -3421,6 +3421,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Priestley remembers that, a few years ago, someone questioned on a practi&lt;t0/&gt;tioner's blog if DITA was indeed a product of minimalism applied to technical instruction.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T005730Z" creationid="lenovo" creationdate="20200804T005532Z">
+        <seg>普里斯特利还记得，就在几年前，还有人在从业者的博客下质疑DITA是否真的是极简主义应用于技术说明的产物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Priestley's basic topic appears on &lt;t8/&gt;Figure &lt;t9/&gt;3.1&lt;t10/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T082047Z" creationid="DSS" creationdate="20200731T082047Z">
@@ -4885,8 +4893,8 @@
       <tuv lang="en">
         <seg>“John Carroll's work on minimalism was part of the context of DITA,” Priestley told me.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T001921Z" creationid="lenovo" creationdate="20200804T001921Z">
-        <seg>“约翰·卡罗尔在极简主义上的工作，培育了DITA发展的土壤。”普利斯特里告诉我说。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T005540Z" creationid="lenovo" creationdate="20200804T001921Z">
+        <seg>“约翰·卡罗尔在极简主义上的工作，培育了DITA发展的土壤。”普里斯特利告诉我说。</seg>
       </tuv>
     </tu>
     <tu>
