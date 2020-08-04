@@ -3067,6 +3067,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Minimalism was one of the big influences on DITA, but I first received the influence filtered through guidelines written by others, including the editorial standards in the IBM publication Developing Quality Technical Information.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T005324Z" creationid="lenovo" creationdate="20200804T005324Z">
+        <seg>DITA受极简主义的影响极深，但我对这一影响力的初体验是来自于他人撰写的指导方针，其中就包括IBM出版物《开发高质量技术信息》中设定的编辑标准</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Most of the research and development work described in this report was concerned with information-mapped books.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T084848Z" creationid="DSS" creationdate="20200731T084848Z">
