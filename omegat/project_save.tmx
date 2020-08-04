@@ -3590,6 +3590,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>So, how does John Carroll plead when confronted with the claim of DITA ancestry?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T020337Z" creationid="lenovo" creationdate="20200804T020337Z">
+        <seg>因此，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some alternatives briefly considered were acronyms like CAKE (Content Authoring for the Knowledge Ecosystem), PAF (Portable Authoring Framework), XFAS (Cross-format Authoring Specification), or a one-word evocative name, like Helium, Portable, Adapt, or Evolve.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T092009Z" creationid="DSS" creationdate="20200803T092009Z">
