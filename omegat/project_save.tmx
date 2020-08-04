@@ -3469,6 +3469,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Our Obsession with Order and Rules</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T082634Z" creationid="lenovo" creationdate="20200804T082634Z">
+        <seg>痴迷于秩序与规则</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Our work with the preliminary HDITA format was eventually published as the article “Structured Authoring without XML: Evaluating Lightweight DITA for Technical Documentation” in the journal &lt;t7/&gt;Technical Communication&lt;t8/&gt; (Evia &lt;t9/&gt;&amp; &lt;t10/&gt;Priestley, &lt;t11/&gt;2016).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T153439Z" creationid="DSS" creationdate="20200802T122522Z">
@@ -4092,6 +4100,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T153945Z" creationid="DSS" creationdate="20200803T121609Z">
         <seg>白皮书名为《轻量级 DITA 简介》，由我、埃伯莱因和艾伦·豪泽编写。艾伦·豪泽是技术传播协会前主席，于2017年加入 LwDITA 小组委员会。&lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The demise of the manual is an event that affects genre theory and technical com&lt;t0/&gt;munication, as this was the flagship format that the profession produced for decades and, for some, justified its existence as an academic subject and area of practice.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T083315Z" creationid="lenovo" creationdate="20200804T083315Z">
+        <seg>手册的消亡影响了体裁理论和技术传播，</seg>
       </tuv>
     </tu>
     <tu>
