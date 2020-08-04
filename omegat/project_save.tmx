@@ -3171,6 +3171,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Key definition&lt;t0/&gt;: defines a variable at the map level.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T153719Z" creationid="DSS" creationdate="20200804T153632Z">
+        <seg>关键定义（key definition）&lt;t0/&gt;：在地图里定义一个变量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Languages that drop features that aren't used, or aren't used often.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T152824Z" creationid="DSS" creationdate="20200726T152824Z">
@@ -3223,6 +3231,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T085459Z" creationid="DSS" creationdate="20200731T085459Z">
         <seg>与 DITA 一样，信息映射以特定类型或模板使内容结构化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Link text&lt;t0/&gt;: provides a label for a link or resource.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T153714Z" creationid="DSS" creationdate="20200804T153638Z">
+        <seg>链接文本（link text）&lt;t0/&gt;：为链接或资源提供标签。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3479,6 +3495,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T131549Z" creationid="DSS" creationdate="20200801T131549Z">
         <seg>南希·哈里森：我认为可以这样回答“试试轻量级 DITA 吧”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Navigation title&lt;t0/&gt;: provides an alternate title for a topic that becomes a part of navigation resources or tables of contents in deliverables.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T153626Z" creationid="DSS" creationdate="20200804T153626Z">
+        <seg>导航标题（navigation title）&lt;t0/&gt;：为话题提供替代标题，是可交付内容中的导航资源或表格内容的一部分。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5039,6 +5063,22 @@
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T155631Z" creationid="DSS" creationdate="20200724T155631Z">
         <seg>“Topic”来源于被广泛采用的开放内容标准达尔文信息类型架构（DITA），该标准定义了内容的一般结构，促进了内容创建、共享和复用的一致性。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Topic metadata&lt;t0/&gt;: defines the metadata that applies to a topic when it appears in a map.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T153723Z" creationid="DSS" creationdate="20200804T153701Z">
+        <seg>主题元数据（topic metadata）&lt;t0/&gt;：定义地图中用于描述话题的元数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Topic reference&lt;t0/&gt;: identifies and links to a topic or external content source.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T153729Z" creationid="DSS" creationdate="20200804T153729Z">
+        <seg>主题引用（topic reference）&lt;t0/&gt;：话题或外部内容资源相联系的标识或链接。</seg>
       </tuv>
     </tu>
     <tu>
