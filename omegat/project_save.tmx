@@ -3683,6 +3683,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T162547Z" creationid="DSS" creationdate="20200804T162547Z">
+        <seg>注释</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that this proposal included the addition of HTML5 tags (&lt;address&gt; and &lt;aside&gt;) in XDITA to have them available in both authoring formats.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T115616Z" creationid="DSS" creationdate="20200802T115457Z">
@@ -4099,6 +4107,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144900Z" creationid="DSS" creationdate="20200724T162510Z">
         <seg>参考（reference）：描述命令、参数和其他特性（普林格尔&lt;t0/&gt;和&lt;t1/&gt;奥基夫，&lt;t2/&gt;2009年，&lt;t3/&gt;第</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>References</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T162904Z" creationid="DSS" creationdate="20200804T162904Z">
+        <seg>参考</seg>
       </tuv>
     </tu>
     <tu>
