@@ -1464,8 +1464,8 @@
       <tuv lang="en">
         <seg>Autoplay&lt;t0/&gt;: determines if a multimedia component should play automati&lt;t1/&gt;cally on a deliverable.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T155004Z" creationid="DSS" creationdate="20200804T155004Z">
-        <seg>自动播放（autoplay）：控制交付物上的多媒体组件是否应该自动播放。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T155255Z" creationid="DSS" creationdate="20200804T155004Z">
+        <seg>自动播放（autoplay）&lt;t0/&gt;：控制交付物上的多媒体组件是否应该自动播。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1723,8 +1723,8 @@
       <tuv lang="en">
         <seg>Controls&lt;t0/&gt;: enables user interfaces for video playback and volume in web- aimed transformations.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T155009Z" creationid="DSS" creationdate="20200804T155009Z">
-        <seg>控件（controls）：在网页转换中，提供控制视频重放和视频音量的用户界面。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T155112Z" creationid="DSS" creationdate="20200804T155009Z">
+        <seg>控件（controls）&lt;t0/&gt;：在网页转换中，提供控制视频重放和视频音量的用户界面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3293,8 +3293,8 @@
       <tuv lang="en">
         <seg>Loop&lt;t0/&gt;: determines if a multimedia component should play constantly.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T155014Z" creationid="DSS" creationdate="20200804T155014Z">
-        <seg>循环（loop）：控制多媒体组件是否应该循环播放。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T155108Z" creationid="DSS" creationdate="20200804T155014Z">
+        <seg>循环（loop）&lt;t0/&gt;：控制多媒体组件是否应该循环播放。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3503,6 +3503,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T154946Z" creationid="DSS" creationdate="20200804T154946Z">
         <seg>多媒体组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Muted&lt;t0/&gt;: determines if a multimedia component should have audio by default or not.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T155103Z" creationid="DSS" creationdate="20200804T155019Z">
+        <seg>静音（muted）&lt;t0/&gt;：控制多媒体组件在默认情况下是否静音。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3809,6 +3817,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T131849Z" creationid="DSS" creationdate="20200804T131849Z">
         <seg>短语（phrase）&lt;t0/&gt;：与特定主旨相关的短语。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Poster&lt;t0/&gt;: a link to an image or static video frame.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T155059Z" creationid="DSS" creationdate="20200804T155027Z">
+        <seg>海报（poster）&lt;t0/&gt;：图像或静态视频的链接。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4131,6 +4147,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153510Z" creationid="DSS" creationdate="20200726T153510Z">
         <seg>有人提到可以使用  XML 进行结构化创作，这引起了佩德罗的注意。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source&lt;t0/&gt;: a link to media resources of audio or video content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T155056Z" creationid="DSS" creationdate="20200804T155035Z">
+        <seg>来源（source）&lt;t0/&gt;：音频或视频等媒体资源的链接。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5140,6 +5164,15 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Track&lt;t0/&gt;: a link to time-based text data relevant to audio or video content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T155403Z" creationid="DSS" creationdate="20200804T155044Z">
+        <seg>踪迹（track）&lt;t0/&gt;：与音频或视频内容相关的基于时间的文本数据的链接。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Traditionally, and as mentioned in the Adobe video, intelligent content work&lt;t0/&gt;flows for technical communication rely on structure provided by Extensible Markup Language (XML) and some of its specific grammars like DocBook, S1000D, and DITA (Cowan, &lt;t1/&gt;2010; &lt;t2/&gt;Glushko &lt;t3/&gt;&amp; &lt;t4/&gt;McGrath, &lt;t5/&gt;2008; &lt;t6/&gt;Hackos, &lt;t7/&gt;2011, &lt;t8/&gt;among others).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143301Z" creationid="DSS" creationdate="20200726T140838Z">
@@ -5168,6 +5201,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150312Z" creationid="DSS" creationdate="20200725T153832Z">
         <seg>使用 DITA-OT（将在&lt;t7/&gt;第&lt;t8/&gt;5 &lt;t9/&gt;章和第&lt;t10/&gt;6&lt;t11/&gt;&lt;t12/&gt;章详细介绍），我将地图转换成了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Video&lt;t0/&gt;: a link to an audiovisual product to be included in the content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T155051Z" creationid="DSS" creationdate="20200804T155051Z">
+        <seg>视频（video）&lt;t0/&gt;：内容中视听产品的链接。</seg>
       </tuv>
     </tu>
     <tu>
