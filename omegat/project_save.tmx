@@ -4320,6 +4320,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That generic LwDITA topic can also accommodate enough components and attributes to create con&lt;t1/&gt;tent that sticks to the requirements of “modular, structured, reusable, format free, and semantically rich and, as a consequence, discoverable, reconfigurable, and adaptable” presented by Rockley et al.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T162432Z" creationid="DSS" creationdate="20200804T162432Z">
+        <seg>通用的 LwDITA 话题也可以容纳足够多的组件和属性，以创建符合罗克利等人提出的“模块化、结构化、可重用、格式自由、语义丰富，因而可发现、可重构和可修改”的要求的内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That message was followed, on March &lt;t0/&gt;20, 2012 &lt;t1/&gt;by the first Lightweight DITA proposal, also known as proposal &lt;t2/&gt;13076, &lt;t3/&gt;presented by Michael Priestley to the OASIS DITA Technical Committee.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T073338Z" creationid="DSS" creationdate="20200731T073338Z">
