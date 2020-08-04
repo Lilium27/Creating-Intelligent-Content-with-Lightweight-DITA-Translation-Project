@@ -1134,6 +1134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After teaching and researching how to create intelligent content with DITA for more than a decade, I have seen how the majority of my students can adapt the generic DITA topic to a variety of information structures and projects.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T160424Z" creationid="DSS" creationdate="20200804T160424Z">
+        <seg>我教授和研究如何使用 DITA 创建智能内容十多年，知道大多数学生是如何使用通用的 DITA 话题编写各种信息结构和项目的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After years of fielding the question “Is DITA related to Information Mapping?”, the Information Mapping company released a white paper, in 2011, titled “Information Mapping&lt;t0/&gt;® &lt;t1/&gt;and DITA: Two Worlds, One Solution.” The white paper had the objective of explaining “why it does not make sense &lt;t2/&gt;to move from Information Mapping&lt;t3/&gt;® &lt;t4/&gt;to DITA, or vice versa,” and it posited that “Information Mapping&lt;t5/&gt;® &lt;t6/&gt;and DITA both have their strengths and weak&lt;t7/&gt;nesses, and combining them may lead to the best results for an organization” (2011, p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T091810Z" creationid="DSS" creationdate="20200731T091022Z">
@@ -1938,6 +1946,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Does this mean that authors who want to give LwDITA a try have to memo&lt;t0/&gt;rize and use all those content components?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T160405Z" creationid="DSS" creationdate="20200804T160405Z">
+        <seg>这是否意味着想要尝试 LwDITA 的作者必须记住并使用所有的内容组件？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>During the spring of &lt;t1/&gt;2015, &lt;t2/&gt;some members of the subcommittee seriously considered the DITA-related name of FINCH (Fully Intelligent New Content Hierarchy).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T092028Z" creationid="DSS" creationdate="20200803T092028Z">
@@ -2031,6 +2047,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200802T070032Z" creationid="DSS" creationdate="20200730T095339Z">
         <seg>直到今天，手册仍未拆封，徒然留在图书馆中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Even when concept, task, reference, and the other document types from the DITA &lt;t1/&gt;1.3 &lt;t2/&gt;specification are available for more rigorous structure, the generic topic can be powerful for users trained to &lt;t3/&gt;think&lt;t4/&gt; about structured content before writing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T160501Z" creationid="DSS" creationdate="20200804T160501Z">
+        <seg>即使 DITA 标准 &lt;t1/&gt;1.3&lt;t2/&gt;版本中的概念（concept）、任务（task）、引用（referenve）和其他文档类型可以用于构造更严密的结构，对于训练有素、能够在编写之前&lt;t3/&gt;思考&lt;t4/&gt;如何结构化内容的用户来说，通用主题仍然很强大。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3627,6 +3651,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Not at all.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T160409Z" creationid="DSS" creationdate="20200804T160409Z">
+        <seg>不是的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that this proposal included the addition of HTML5 tags (&lt;address&gt; and &lt;aside&gt;) in XDITA to have them available in both authoring formats.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T115616Z" creationid="DSS" creationdate="20200802T115457Z">
@@ -4147,6 +4179,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153510Z" creationid="DSS" creationdate="20200726T153510Z">
         <seg>有人提到可以使用  XML 进行结构化创作，这引起了佩德罗的注意。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sometimes a basic topic with a title and a couple of paragraphs is all a content situation requires.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T160413Z" creationid="DSS" creationdate="20200804T160413Z">
+        <seg>有时，一个基本话题加上一个标题和几个段落就是撰写内容所需要的全部组件。</seg>
       </tuv>
     </tu>
     <tu>
