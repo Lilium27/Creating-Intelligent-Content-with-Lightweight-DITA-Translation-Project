@@ -1510,6 +1510,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By simplifying the core “fixed pattern of template” of DITA, LwDITA embarks on a process of genre evolution that empowers entry-level users while keeping its tools to sup&lt;t12/&gt;port our human obsession with order and rules.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T082616Z" creationid="lenovo" creationdate="20200804T082616Z">
+        <seg>通过简化DITA核心“模板的固定模式”，轻量DITA开启了体裁演进的新征程，使得入门级用户也能轻松使用的同时满足了人类对秩序与规则的痴迷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>CREATING INTELLIGENT CONTENT</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200722T021620Z" creationid="lenovo" creationdate="20200718T120716Z">
@@ -2269,8 +2277,8 @@
       <tuv lang="en">
         <seg>However, that process of evolution is not necessarily transparent for authors who do not want or do not know how to edit XML schemas.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T081802Z" creationid="lenovo" creationdate="20200804T081802Z">
-        <seg>然而，这个演进过程对于作者而言并非一眼就能看穿</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T081932Z" creationid="lenovo" creationdate="20200804T081802Z">
+        <seg>然而，对于不想知道或者压根不知道如何编辑XML模式的作者而言，这一演进过程并非一眼就能看穿。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4563,8 +4571,8 @@
       <tuv lang="en">
         <seg>This process of specialization is reflected in the “D” of DITA: topics and their elements can evolve in the Darwinian sense of the word.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T081552Z" creationid="lenovo" creationdate="20200804T081156Z">
-        <seg>专门化过程反映在DITA的“D”字母上：D代指达尔文进化论，表示主题及其元素能够向前演变。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T081812Z" creationid="lenovo" creationdate="20200804T081156Z">
+        <seg>专门化过程反映在DITA的“D”字母上：D代指达尔文进化论，表示主题及其元素能够向前演进。</seg>
       </tuv>
     </tu>
     <tu>
