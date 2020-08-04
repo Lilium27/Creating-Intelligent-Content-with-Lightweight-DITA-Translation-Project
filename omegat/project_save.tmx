@@ -4513,6 +4513,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The LwDITA topic, even without specialization, can be all that these users need to structure and publish information.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T161455Z" creationid="DSS" creationdate="20200804T161455Z">
+        <seg>即使没有专门化过，LwDITA 话题也可以是这些用户用于结构化内容和发布信息的全部所需。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Markdown DITA plugin for the DITA Open Toolkit&lt;t0/&gt;1&lt;t1/&gt;, developed by the Finland-based programmer Jarno Elovirta, was released on February &lt;t2/&gt;2015 &lt;t3/&gt;and made possible some of the ideas that Priestley and I, and then the whole subcommittee, had been proposing for integrating Markdown into DITA pub&lt;t4/&gt;lishing workflows.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T153823Z" creationid="DSS" creationdate="20200803T115121Z">
