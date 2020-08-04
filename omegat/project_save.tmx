@@ -2787,6 +2787,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It was an interesting idea because people were talking back then about object-oriented soft&lt;t1/&gt;ware, modular units &lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T033326Z" creationid="lenovo" creationdate="20200804T033326Z">
+        <seg>这是个很有意思的想法，因为当时人们都在讨论面向对象的软件和模块化单元。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It was not supposed to be like this.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T115618Z" creationid="DSS" creationdate="20200720T160228Z">
