@@ -1422,6 +1422,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>At the same time, he said any system that traps you into a fixed pattern or template can be detrimental if the content doesn't fit that pattern or template.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T072032Z" creationid="lenovo" creationdate="20200804T072032Z">
+        <seg>与此同时，他也表示如果内容与模式模板不相适却还强制你使用那一套固定的模式或模板，这样的系统是有害的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At the same time, the menus in his restaurants need to reflect some of that content, which is also fea&lt;t1/&gt;tured on a website, mobile app, and an electronic book he sells describing the history and process of his restaurants.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153410Z" creationid="DSS" creationdate="20200726T153410Z">
@@ -3175,6 +3183,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T130627Z" creationid="DSS" creationdate="20200730T130627Z">
         <seg>迈克尔·普里斯特利和我正致力于编写轻量级 DITA 技术规范，我们的目标是在&lt;t1/&gt;2019年将其正式发布。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Michael Priestley claims that the DITA content types of concept, task, and reference are an implementation of Carroll's idea behind the minimal manual.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T072328Z" creationid="lenovo" creationdate="20200804T072328Z">
+        <seg>迈克尔·普里斯特利称DITA中概念、任务和参考这三种内容类型其实是卡罗尔理念的实际应用，同样也是极简手册背后的理念。</seg>
       </tuv>
     </tu>
     <tu>
