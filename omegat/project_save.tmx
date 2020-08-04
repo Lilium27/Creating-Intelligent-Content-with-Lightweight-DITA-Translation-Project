@@ -1665,6 +1665,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DITA just encoded some existing writing standards within IBM, for topic orientation and information typing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T004742Z" creationid="lenovo" creationdate="20200804T004742Z">
+        <seg>DITA只是对IBM现存的写作标准进行编码，用于划分主题和信息类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DITA terminology has been rich in metaphors and analogies about evolu- tion since its development.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T083930Z" creationid="DSS" creationdate="20200730T083930Z">
@@ -4193,6 +4201,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Therefore, Carroll is also “blamed” for the development of DITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T001700Z" creationid="lenovo" creationdate="20200804T001700Z">
+        <seg>因此，卡罗尔也被称为DITA发展的“罪魁祸首”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Therefore, LwDITA can be described as a resource to mend some aspects of the research-to-practice loop in our discipline.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T015817Z" creationid="lenovo" creationdate="20200723T015817Z">
@@ -4847,6 +4863,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T093651Z" creationid="lenovo" creationdate="20200723T091408Z">
         <seg>卡罗尔说，“很多事都变了，”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“John Carroll's work on minimalism was part of the context of DITA,” Priestley told me.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T001921Z" creationid="lenovo" creationdate="20200804T001921Z">
+        <seg>“约翰·卡罗尔在极简主义上的工作，培育了DITA发展的土壤。”普利斯特里告诉我说。</seg>
       </tuv>
     </tu>
     <tu>
