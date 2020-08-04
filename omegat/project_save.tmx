@@ -3688,6 +3688,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That technical writer was Michael Priestley, who a few years later co-wrote (with JoAnn Hackos) the original technical specification for the DITA standard and is currently co-writing (with me) the spec for LwDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T001457Z" creationid="lenovo" creationdate="20200804T001457Z">
+        <seg>这位技术作家就是迈克尔·普里斯特利（Michael Priestley），几年后他与乔安·哈克斯（JoAnn Hackos）共同为DITA标准创建了原始的技术规范，现在则同我一道在为轻量级DITA创建技术规范。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That's when a standard like DITA can help.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153828Z" creationid="DSS" creationdate="20200726T153828Z">
