@@ -710,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t3/&gt;all that kind of object-oriented thinking that was being applied to text in a pretty interesting analogy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T033422Z" creationid="lenovo" creationdate="20200804T033422Z">
+        <seg>讲面向对象的思维运用到文本中，确实是很有意思的类比。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t4/&gt;19).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143047Z" creationid="DSS" creationdate="20200726T090515Z">
@@ -2335,6 +2343,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T153602Z" creationid="DSS" creationdate="20200802T130335Z">
         <seg>我告诉普里斯特利，我将开发一些 HDITA 和MarkDITA 话题示例。在我跟普里斯特利说话的那一刻，我们想到了“MarkDITA”这个名字，MarkDITA 是基于 Markdown 的 LwDITA 创作格式。&lt;t4/&gt;&lt;t5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I tried to identify the technical communicator from the IBM lab in Raleigh who introduced Carroll to DITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T033559Z" creationid="lenovo" creationdate="20200804T033559Z">
+        <seg>我试图确定IBM罗利实验室中</seg>
       </tuv>
     </tu>
     <tu>
