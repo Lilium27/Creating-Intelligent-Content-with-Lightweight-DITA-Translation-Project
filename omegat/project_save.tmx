@@ -2211,6 +2211,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, that mostly happened after me (at IBM).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T024227Z" creationid="lenovo" creationdate="20200804T024227Z">
+        <seg>但事实是，DITA的开创是在我之后（即在IBM中发展起来的）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, the subcommittee did not find a champion to continue the &lt;t3/&gt;work on JSON, and the proposed standard continued with three initial authoring formats: XDITA, HDITA, and MDITA.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T095855Z" creationid="DSS" creationdate="20200803T095855Z">
@@ -2367,6 +2375,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T083935Z" creationid="DSS" creationdate="20200731T083935Z">
         <seg>IM 由罗伯特·霍恩（Robert Horn）开发，是一种构建内容的方法。自20世纪60年代末以来，IM已被用于教育技术、技术写作和许多其他领域。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If DITA was inspired by my work, then thank you.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T024058Z" creationid="lenovo" creationdate="20200804T024058Z">
+        <seg>如果说DITA是受我启发而开创的，那么我想对你们的盛誉表示感谢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3592,8 +3608,8 @@
       <tuv lang="en">
         <seg>So, how does John Carroll plead when confronted with the claim of DITA ancestry?</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T020337Z" creationid="lenovo" creationdate="20200804T020337Z">
-        <seg>因此，</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T024004Z" creationid="lenovo" creationdate="20200804T020337Z">
+        <seg>因此，当面临“DITA的创世主”这一指控时，她是如何辩解的呢？</seg>
       </tuv>
     </tu>
     <tu>
