@@ -1318,6 +1318,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>And for occasional writers &lt;t0/&gt;- &lt;t1/&gt;those whose main job is something else but who are sometimes called on to produce content &lt;t2/&gt;- &lt;t3/&gt;structured writing can be a godsend if implemented properly.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T032006Z" creationid="lenovo" creationdate="20200805T032006Z">
+        <seg>并且对于那些只是偶尔写作的创作者而言——他们的主业并非于此，只是有时应召产出内容——结构化写作如果应用得当，那简直就是神来之笔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>And that became our &lt;t6/&gt;modus operandi&lt;t7/&gt;: we would boast about the potential benefits of LwDITA in conferences and webinars, developers and managers would show interest and ask for a demo, we requested plugin updates from Elovirta and offered a new demo &lt;t8/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T164025Z" creationid="DSS" creationdate="20200803T115902Z">
