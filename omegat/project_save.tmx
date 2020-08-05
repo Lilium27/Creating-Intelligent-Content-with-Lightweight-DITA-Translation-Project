@@ -790,6 +790,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t4/&gt;As she traced the use of evolutionary language when describing genre use in literature, architecture, music, and painting, Miller attributed this appropriation of language from biological sciences to an “obses&lt;t5/&gt;sion with order and rules” &lt;t6/&gt;(2015, &lt;t7/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T011720Z" creationid="lenovo" creationdate="20200805T011720Z">
+        <seg>当她描述文学、建筑、音乐和绘画中的体裁的使用时，她追踪了演进性语言的使用，米勒将这种将生物科学中术语挪为他用的现象归咎为“对秩序和规则的痴迷”。 &lt;t6/&gt;(2015, &lt;t7/&gt;p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t4/&gt;In many technical communication practices, “efficient content reuse does not involve copy-and-pasting; instead it uses &lt;t5/&gt;transclusion&lt;t6/&gt;, whereby content is authored in one location and used by reference in other locations” (Eberlein, &lt;t7/&gt;2016 &lt;t8/&gt;p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T142718Z" creationid="DSS" creationdate="20200720T155448Z">
