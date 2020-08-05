@@ -1392,8 +1392,8 @@
       <tuv lang="en">
         <seg>As a proposed standard for authoring and publishing content that includes technical communication, Lightweight DITA shares a common ancestor with the computer manual of the past.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T015032Z" creationid="lenovo" creationdate="20200723T015021Z">
-        <seg>作为编写和出版内容（包括技术传播）的一种建议标准，轻量DITA与以往的计算机手册同根同源。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T010326Z" creationid="lenovo" creationdate="20200723T015021Z">
+        <seg>作为编写和出版内容（包括技术传播）的一种建议标准，轻量级DITA与以往的计算机手册同根同源。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1592,8 +1592,8 @@
       <tuv lang="en">
         <seg>By simplifying the core “fixed pattern of template” of DITA, LwDITA embarks on a process of genre evolution that empowers entry-level users while keeping its tools to sup&lt;t12/&gt;port our human obsession with order and rules.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T082616Z" creationid="lenovo" creationdate="20200804T082616Z">
-        <seg>通过简化DITA核心“模板的固定模式”，轻量DITA开启了体裁演进的新征程，使得入门级用户也能轻松使用的同时满足了人类对秩序与规则的痴迷。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T010326Z" creationid="lenovo" creationdate="20200804T082616Z">
+        <seg>通过简化DITA核心“模板的固定模式”，轻量级DITA开启了体裁演进的新征程，使得入门级用户也能轻松使用的同时满足了人类对秩序与规则的痴迷。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3951,8 +3951,8 @@
       <tuv lang="en">
         <seg>Priestley has men&lt;t1/&gt;tioned on many occasions the impact and influence of Carroll's work on DITA and LwDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T001620Z" creationid="lenovo" creationdate="20200804T001620Z">
-        <seg>普利斯特利在多个场合都曾提及卡罗尔在DITA和轻量DITA上的工作所产生的巨大影响。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T010323Z" creationid="lenovo" creationdate="20200804T001620Z">
+        <seg>普利斯特利在多个场合都曾提及卡罗尔在DITA和轻量级DITA上的工作所产生的巨大影响。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4988,8 +4988,8 @@
       <tuv lang="en">
         <seg>Therefore, LwDITA can be described as a resource to mend some aspects of the research-to-practice loop in our discipline.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T015817Z" creationid="lenovo" creationdate="20200723T015817Z">
-        <seg>因此，在我们的领域中，轻量DITA能够弥合从研究到实践这一环路上出现一些问题。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T010326Z" creationid="lenovo" creationdate="20200723T015817Z">
+        <seg>因此，在我们的领域中，轻量级DITA能够弥合从研究到实践这一环路上出现一些问题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5343,8 +5343,8 @@
       <tuv lang="en">
         <seg>Using Darwinian terminology that resonates with design principles of the DITA and LwDITA standards, Miller noted that “in trying to understand the process of genre change and the emergence of what seem to be 'new genres' in both new and old media, we have come to rely heavily on the concept of ‘evo&lt;t0/&gt;lution'” &lt;t1/&gt;(2015, &lt;t2/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T010247Z" creationid="lenovo" creationdate="20200805T010247Z">
-        <seg>&lt;t1/&gt;(2015, &lt;t2/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T011155Z" creationid="lenovo" creationdate="20200805T010247Z">
+        <seg>达尔文式这一术语同DITA和轻量级DITA的设计原则不谋而合，米勒用这一术语指出“在试图理解体裁演变历程即新旧媒体中‘新体裁’的涌现时，我们严重依赖‘演进’这一概念。”&lt;t1/&gt;(2015, &lt;t2/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
