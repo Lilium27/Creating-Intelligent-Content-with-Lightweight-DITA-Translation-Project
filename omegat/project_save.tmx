@@ -934,6 +934,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t9/&gt;A positive side comes from the order and consistency in content that structured authoring methodologies enable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T030206Z" creationid="lenovo" creationdate="20200805T030206Z">
+        <seg>积极的一面则来自结构化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t9/&gt;In academia, scholars have praised Extensible Markup Language (XML) as the foundation for information reuse, single sourcing, and, particularly, content management for more than a dec&lt;t10/&gt;ade.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T115831Z" creationid="DSS" creationdate="20200723T160444Z">
