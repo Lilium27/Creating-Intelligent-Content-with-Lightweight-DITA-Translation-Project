@@ -2053,8 +2053,8 @@
       <tuv lang="en">
         <seg>Even after retirement from her faculty position at North Carolina State University, Miller continues her explorations on the human need for genres in culture, literature, and the sciences “to help us make sense of this blooming, buzzing confusion” of new forms of communication and interaction (Miller, &lt;t1/&gt;2015, &lt;t2/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T005942Z" creationid="lenovo" creationdate="20200805T005942Z">
-        <seg>即使是从北卡罗莱纳州立大学的教职岗位退休后，米勒仍在继续探索人类对文化、文学和科学上各种体裁的需求，以“帮助我们理解这种蓬勃发展、喧嚣纷乱困惑”新的交流和互动形式(Miller, &lt;t1/&gt;2015, &lt;t2/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T010007Z" creationid="lenovo" creationdate="20200805T005942Z">
+        <seg>即使是从北卡罗莱纳州立大学的教职岗位退休后，米勒仍在继续探索人类对文化、文学和科学上各种体裁的需求，以“帮助我们理解这种蓬勃发展、喧嚣纷乱、令人困惑”新的传播和交互形式。(Miller, &lt;t1/&gt;2015, &lt;t2/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5337,6 +5337,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T163941Z" creationid="DSS" creationdate="20200804T131917Z">
         <seg>无序列表（unordered list）：无序的一系列项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using Darwinian terminology that resonates with design principles of the DITA and LwDITA standards, Miller noted that “in trying to understand the process of genre change and the emergence of what seem to be 'new genres' in both new and old media, we have come to rely heavily on the concept of ‘evo&lt;t0/&gt;lution'” &lt;t1/&gt;(2015, &lt;t2/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T010247Z" creationid="lenovo" creationdate="20200805T010247Z">
+        <seg>&lt;t1/&gt;(2015, &lt;t2/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
