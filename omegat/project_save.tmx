@@ -3139,6 +3139,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It guides authors and lets them know what is required and when they have completed the task in a satisfactory manner.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T032432Z" creationid="lenovo" creationdate="20200805T032432Z">
+        <seg>它能为创作者提供指导并告知需求与</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is a markup language, which means that content is enclosed by tags.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T081351Z" creationid="DSS" creationdate="20200726T154055Z">
