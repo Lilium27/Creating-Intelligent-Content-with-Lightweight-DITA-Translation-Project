@@ -407,3 +407,5 @@ Note	注释
 Darwinian	达尔文式
 flagship genre	标志性体裁
 information schemas	信息模式
+structured authoring	结构化创作
+writer	创作者
