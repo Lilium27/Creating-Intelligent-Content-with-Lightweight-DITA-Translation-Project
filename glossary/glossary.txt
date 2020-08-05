@@ -246,7 +246,7 @@ Technical Documentation	技术文档
 technical information	技术信息
 technical manual	技术手册
 technical specification	技术规范
-technical writer	技术作家
+technical writer	技术文档工程师
 technical writing	技术写作
 technology strategy	技术战略
 Texas Tech University	德州理工大学
