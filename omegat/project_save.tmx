@@ -936,8 +936,8 @@
       <tuv lang="en">
         <seg>&lt;t9/&gt;A positive side comes from the order and consistency in content that structured authoring methodologies enable.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T030206Z" creationid="lenovo" creationdate="20200805T030206Z">
-        <seg>积极的一面则来自结构化</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T030329Z" creationid="lenovo" creationdate="20200805T030206Z">
+        <seg>积极的一面则是结构化创作带来的内同的有序性和一致性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2933,8 +2933,8 @@
       <tuv lang="en">
         <seg>In his role as Distinguished Technical Marketer at IBM, James, a graduate of the Master of Science in Scientific and Technical Communication from the University of Minnesota-Twin Cities, was looking for interns who could work in a structured authoring environment.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T154938Z" creationid="DSS" creationdate="20200720T133311Z">
-        <seg>他毕业于明尼苏达大学双子城分校（University of Minnesota-Twin Cities），获得了科学与技术传播硕士学位。詹姆斯在 IBM 工作，是出色的一位技术营销人员，曾经一直在寻求能够在结构化写作环境中工作的实习生。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T030252Z" creationid="DSS" creationdate="20200720T133311Z">
+        <seg>他毕业于明尼苏达大学双子城分校（University of Minnesota-Twin Cities），获得了科学与技术传播硕士学位。詹姆斯在 IBM 工作，是出色的一位技术营销人员，曾经一直在寻求能够在结构化创作环境中工作的实习生。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5062,6 +5062,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T092250Z" creationid="DSS" creationdate="20200731T092250Z">
         <seg>因此，当普里斯特利在2012年10月23日向 DITA 技术委员会宣布 DITA 和信息映射将在轻量级 DITA 提案中合并时，大家都感到很惊讶。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Therefore, structured writing is not the enemy of professional writers, but a natural and proper part of their professional tool chest.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T030813Z" creationid="lenovo" creationdate="20200805T030813Z">
+        <seg>因此，结构化写作并非职业创作者的敌人</seg>
       </tuv>
     </tu>
     <tu>
