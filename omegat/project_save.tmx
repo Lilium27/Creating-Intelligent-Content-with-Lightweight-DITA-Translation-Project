@@ -2989,8 +2989,8 @@
       <tuv lang="en">
         <seg>In the 1990s, Carroll's work on minimalist documentation also influenced an IBM technical writer to architect the original DITA schemas for structuring con&lt;t0/&gt;tent.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T000733Z" creationid="lenovo" creationdate="20200802T082309Z">
-        <seg>上世纪90年代，卡罗尔在极简文档上的工作还影响了IBM的一位技术写作人员，激发他创建了用于结构化内容的原始DITA模式。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T031028Z" creationid="lenovo" creationdate="20200802T082309Z">
+        <seg>上世纪90年代，卡罗尔在极简文档上的工作还影响了IBM的一位技术文档工程师，激发他创建了用于结构化内容的原始DITA模式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4491,8 +4491,8 @@
       <tuv lang="en">
         <seg>That technical writer was Michael Priestley, who a few years later co-wrote (with JoAnn Hackos) the original technical specification for the DITA standard and is currently co-writing (with me) the spec for LwDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T001457Z" creationid="lenovo" creationdate="20200804T001457Z">
-        <seg>这位技术作家就是迈克尔·普里斯特利（Michael Priestley），几年后他与乔安·哈克斯（JoAnn Hackos）共同为DITA标准创建了原始的技术规范，现在则同我一道在为轻量级DITA创建技术规范。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T030857Z" creationid="lenovo" creationdate="20200804T001457Z">
+        <seg>这位技术文档工程师就是迈克尔·普里斯特利（Michael Priestley），几年后他与乔安·哈克斯（JoAnn Hackos）共同为DITA标准创建了原始的技术规范，现在则同我一道在为轻量级DITA创建技术规范。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5068,8 +5068,8 @@
       <tuv lang="en">
         <seg>Therefore, structured writing is not the enemy of professional writers, but a natural and proper part of their professional tool chest.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T030813Z" creationid="lenovo" creationdate="20200805T030813Z">
-        <seg>因此，结构化写作并非职业创作者的敌人</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T031320Z" creationid="lenovo" creationdate="20200805T030813Z">
+        <seg>因此，结构化写作并非职业文档工程师的敌人，而是他们职业工具宝箱中自然而恰当的一员。</seg>
       </tuv>
     </tu>
     <tu>
