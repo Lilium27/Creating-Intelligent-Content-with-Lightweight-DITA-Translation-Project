@@ -406,3 +406,4 @@ Radu Coravu	拉杜·科拉夫
 Note	注释
 Darwinian	达尔文式
 flagship genre	标志性体裁
+information schemas	信息模式
