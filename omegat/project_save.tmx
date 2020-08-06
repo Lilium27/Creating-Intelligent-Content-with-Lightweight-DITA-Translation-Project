@@ -1390,6 +1390,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>And, as with LwDITA topics, you can specify a LwDITA map in XDITA, HDITA, or MDITA, as well as possible future authoring formats.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T075936Z" creationid="DSS" creationdate="20200806T075936Z">
+        <seg>并且，与 LwDITA 话题一样，你可以用XDITA、HDITA、MDITA 或未来可能的写作格式来编写 LwDITA 地图映射关系。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As I write this  chapter, the DITA Technical Committee at OASIS is working on the release  of DITA 2.0 as a new standard parallel to LwDITA.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T093944Z" creationid="DSS" creationdate="20200730T093944Z">
@@ -3307,6 +3315,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Just as LwDITA defines a subset of DITA features for topics, it also defines a subset for the DITA map.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T075931Z" creationid="DSS" creationdate="20200806T075931Z">
+        <seg>它可以将话题分组。正如 LwDITA 的话题特性是 DITA 话题特性的子集一样，LwDITA 地图的特性也是 DITA 地图特性的子集。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Just like Chef Pedro, who wants to create a structured template for all entries in his recipe guide, information developers at IBM started looking at XML in the late 1990s to organize technical content.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154509Z" creationid="DSS" creationdate="20200726T154509Z">
@@ -3857,6 +3873,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T093106Z" creationid="DSS" creationdate="20200731T093106Z">
         <seg>一个关键的进展就是与信息映射进行讨论的结果，他们现在正准备将他们的信息类型定义提交给 DITA TC（技术委员会），以便将其包含在轻量级模型的提案中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>One of the major features and advantages of DITA, and LwDITA, is the ability to specify and generate arbitrary collections of topic content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T075858Z" creationid="DSS" creationdate="20200806T075858Z">
+        <seg>DITA 和 LwDITA 的主要特性和优点之一是能够规定并生成话题内容的任意集合，</seg>
       </tuv>
     </tu>
     <tu>
@@ -4721,6 +4745,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The document type of map enables this grouping of topics.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T075903Z" creationid="DSS" creationdate="20200806T075903Z">
+        <seg>这得益于地图（map）文档类型，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The evolution of DITA  is taking shape after several branches, with LwDITA as one of those possible  paths for growth.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T093952Z" creationid="DSS" creationdate="20200730T093952Z">
@@ -5198,6 +5230,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T115759Z" creationid="DSS" creationdate="20200726T152940Z">
         <seg>本章概述了 DITA 的发展&lt;t0/&gt;-——&lt;t1/&gt;一种基于 XML 的“用于创建和交付模块化技术信息的端到端体系结构”（普里斯特利等人，2001年，第</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This chapter provides an overview, with examples, of LwDITA maps.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T075940Z" creationid="DSS" creationdate="20200806T075940Z">
+        <seg>本章将介绍 LwDITA 地图，并提供示例。</seg>
       </tuv>
     </tu>
     <tu>
