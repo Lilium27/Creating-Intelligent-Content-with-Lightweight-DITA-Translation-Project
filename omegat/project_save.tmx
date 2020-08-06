@@ -2907,6 +2907,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If something goes wrong during the transformation process (maybe one of your files had an extra tag, or there was a missing component in your version of the DITA-OT), the Toolkit will report an error.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T133012Z" creationid="DSS" creationdate="20200806T133012Z">
+        <seg>如果在转换过程中出现错误（可能因为某个文件有多余的标记，或者 DITA-OT 版本中缺少一个组件），DITA-OT 将报错。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If that sounds like a commercial, it is because the company behind the method emphasizes its copyright.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T084436Z" creationid="DSS" creationdate="20200731T084436Z">
@@ -5378,6 +5386,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There are jokes in DITA circles about the draconian nature of DITA-OT error messages.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T133027Z" creationid="DSS" creationdate="20200806T133027Z">
+        <seg>在 DITA 圈子里有一些关于 DITA-OT 报错信息的笑话。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There can be some instances of the &lt;t4/&gt;&lt;step&gt; &lt;t5/&gt;ele&lt;t6/&gt;ment with a &lt;t7/&gt;&lt;cmd&gt; &lt;t8/&gt;for a command in each step, but things get quite complicated when Pedro looks at all the available elements in a task topic&lt;t9/&gt;2&lt;t10/&gt;, which include the following: &lt;t11/&gt;&lt;taskbody&gt;&lt;t12/&gt;, &lt;t13/&gt;&lt;prereq&gt;&lt;t14/&gt;, &lt;t15/&gt;&lt;context&gt;&lt;t16/&gt;, &lt;t17/&gt;&lt;steps&gt;&lt;t18/&gt;, &lt;t19/&gt;&lt;steps-informal&gt;&lt;t20/&gt;, &lt;t21/&gt;&lt;steps- unordered&gt;&lt;t22/&gt;, &lt;t23/&gt;&lt;step&gt;&lt;t24/&gt;, &lt;t25/&gt;&lt;stepsection&gt;&lt;t26/&gt;, &lt;t27/&gt;&lt;cmd&gt;&lt;t28/&gt;, &lt;t29/&gt;&lt;info&gt;&lt;t30/&gt;, &lt;t31/&gt;&lt;substeps&gt;&lt;t32/&gt;, &lt;t33/&gt;&lt;substep&gt;&lt;t34/&gt;, &lt;t35/&gt;&lt;stepxmp&gt;&lt;t36/&gt;, &lt;t37/&gt;&lt;choicetable&gt;&lt;t38/&gt;, &lt;t39/&gt;&lt;chhead&gt;&lt;t40/&gt;, &lt;t41/&gt;&lt;choptionhd&gt;&lt;t42/&gt;, &lt;t43/&gt;&lt;chdeschd&gt;&lt;t44/&gt;, &lt;t45/&gt;&lt;chrow&gt;&lt;t46/&gt;, &lt;t47/&gt;&lt;choption&gt;&lt;t48/&gt;, &lt;t49/&gt;&lt;chdesc&gt;&lt;t50/&gt;, &lt;t51/&gt;&lt;choices&gt;&lt;t52/&gt;, &lt;t53/&gt;&lt;steptroubleshooting&gt;&lt;t54/&gt;, &lt;t55/&gt;&lt;stepresult&gt;&lt;t56/&gt;, &lt;t57/&gt;&lt;tutorialinfo&gt;&lt;t58/&gt;, &lt;t59/&gt;&lt;tasktroubleshooting&gt;&lt;t60/&gt;, &lt;t61/&gt;&lt;result&gt;&lt;t62/&gt;, and &lt;t63/&gt;&lt;postreq&gt;&lt;t64/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150607Z" creationid="DSS" creationdate="20200726T073904Z">
@@ -5406,6 +5422,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T010326Z" creationid="lenovo" creationdate="20200723T015817Z">
         <seg>因此，在我们的领域中，轻量级DITA能够弥合从研究到实践这一环路上出现一些问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Therefore, a DITA-aware tool with a graphical user interface (GUI) can be a better experi&lt;t0/&gt;ence for novice DITA authors.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T133034Z" creationid="DSS" creationdate="20200806T133034Z">
+        <seg>因此，对于 DITA 初学者来说，具有图形用户界面（GUI）的 DITA 工具可能带来更好的体验。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5686,6 +5710,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T124844Z" creationid="DSS" creationdate="20200804T124844Z">
         <seg>标题（title）&lt;t0/&gt;：表示内容目的的标签。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To be honest, error messages from the DITA-OT can be complex and ambiguous.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T133018Z" creationid="DSS" creationdate="20200806T133018Z">
+        <seg>坦率地说，DITA-OT 的报错信息可能读起来复杂且难以理解。</seg>
       </tuv>
     </tu>
     <tu>
