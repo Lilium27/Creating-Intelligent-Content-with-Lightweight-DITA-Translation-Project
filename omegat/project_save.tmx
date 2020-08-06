@@ -2283,6 +2283,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE 5.5 &lt;t0/&gt;General structure for a command that builds DITA (and LwDITA)&lt;t1/&gt; deliverables with the DITA-OT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T120139Z" creationid="DSS" creationdate="20200806T120139Z">
+        <seg>图5.5 用 DITA-OT 构建 DITA（和 LwDITA）交付物的通用命令结构。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;1.1 &lt;t1/&gt;Screen capture from the video “The Future of Technical Communication,” by Adobe Technical Communication Suite.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T142810Z" creationid="DSS" creationdate="20200724T121058Z">
@@ -4682,8 +4690,8 @@
       <tuv lang="en">
         <seg>That one-line command combines the map with the topics, processing the hierarchies and relationships established by the topic</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T115801Z" creationid="DSS" creationdate="20200806T115801Z">
-        <seg>该单行命令将地图与话题组合在一起，处理由话题引用建立的层级和关系。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T115936Z" creationid="DSS" creationdate="20200806T115801Z">
+        <seg>该单行命令将地图与话题组合在一起，处理由话题引用建立的</seg>
       </tuv>
     </tu>
     <tu>
@@ -6121,6 +6129,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150128Z" creationid="DSS" creationdate="20200725T145928Z">
         <seg>建议使用 DITA 地图创建一个信息集合，DITA 地图指定了哪些话题应该被包括在用户输出的可交付成果中，使用话题导航定义了信息体系结构，并创建了话题之间的关系（贝拉米等，&lt;t2/&gt;2012年）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>references.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T115938Z" creationid="DSS" creationdate="20200806T115938Z">
+        <seg>层级和关系。</seg>
       </tuv>
     </tu>
     <tu>
