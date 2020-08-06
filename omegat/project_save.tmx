@@ -1622,6 +1622,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Be sure to download the latest version, because the developers are constantly updating the Toolkit and, among other things, improving</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T093315Z" creationid="DSS" creationdate="20200806T093315Z">
+        <seg>一定要下载最新版本的 DITA-OT，因为开发人员在不断更新，提升</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Because LwDITA has not been approved as an official OASIS standard as of this writing, the components presented in these chapters might change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T081310Z" creationid="DSS" creationdate="20200806T081310Z">
@@ -2287,6 +2295,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T092440Z" creationid="DSS" creationdate="20200806T092440Z">
         <seg>图5.1 佩德罗菜谱评论网站的 DITA 地图。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;5.2 &lt;t1/&gt;Marinara sauce recipe as a DITA task.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T093517Z" creationid="DSS" creationdate="20200806T093517Z">
+        <seg>图&lt;t0/&gt;5.2&lt;t1/&gt;改造成 DITA 任务（task）话题的意式番茄罗勒酱菜谱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3985,6 +4001,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153316Z" creationid="DSS" creationdate="20200726T153308Z">
         <seg>一旦这些部件或组件被标记，它们就可以以不同的方式进行“组装”，用于各种交付物和媒介。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once you have downloaded the file that corresponds to your computer's operating system, extract or decompress the file to a directory where you want to install the Open Toolkit.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T093336Z" creationid="DSS" creationdate="20200806T093336Z">
+        <seg>下载与你计算机操作系统相对应的 DITA-OT 文件后，将该文件解压到你希望安装的路径即可。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5993,6 +6017,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T082058Z" creationid="DSS" creationdate="20200727T082058Z">
         <seg>包含实际的内容（例如，&lt;t0/&gt;&lt;Name&gt;&lt;t1/&gt;），另一些子元素又包含其他级别的元素，并最终包含内容（例如，“parsley” 包含于 &lt;t2/&gt;&lt;Item&gt; &lt;t3/&gt; ，&lt;Item&gt; 包含于 &lt;t4/&gt;&lt;Ingredient&lt;t5/&gt;&gt;&lt;t6/&gt; ，&lt;Ingredient&gt;包含于 &lt;t7/&gt;&lt;IngredientList&gt;&lt;t8/&gt;）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>its support for LwDITA topics and maps.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T093329Z" creationid="DSS" creationdate="20200806T093329Z">
+        <seg>其对 LwDITA 话题和地图映射的支持。</seg>
       </tuv>
     </tu>
     <tu>
