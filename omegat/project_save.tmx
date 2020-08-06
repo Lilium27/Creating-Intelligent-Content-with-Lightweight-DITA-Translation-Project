@@ -464,8 +464,8 @@
       <tuv lang="en">
         <seg>&lt;t13/&gt;It is also behind the predetermined content types (e.g. concept, task, and reference) in the DITA standard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T013613Z" creationid="lenovo" creationdate="20200805T013613Z">
-        <seg>DITA标准中预定的内容类型(例如概念、任务和参考)的背后也同样是这种痴迷。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T155830Z" creationid="lenovo" creationdate="20200805T013613Z">
+        <seg>&lt;t13/&gt;DITA标准中预定的内容类型(例如概念、任务和参考)的背后也同样是这种痴迷。</seg>
       </tuv>
     </tu>
     <tu>
@@ -840,8 +840,8 @@
       <tuv lang="en">
         <seg>&lt;t4/&gt;As she traced the use of evolutionary language when describing genre use in literature, architecture, music, and painting, Miller attributed this appropriation of language from biological sciences to an “obses&lt;t5/&gt;sion with order and rules” &lt;t6/&gt;(2015, &lt;t7/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T011725Z" creationid="lenovo" creationdate="20200805T011720Z">
-        <seg>当她描述文学、建筑、音乐和绘画中的体裁的使用时，她追踪了演进性语言的使用，米勒将这种将生物科学中术语挪为他用的现象归结为“对秩序和规则的痴迷”。 &lt;t6/&gt;(2015, &lt;t7/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T155823Z" creationid="lenovo" creationdate="20200805T011720Z">
+        <seg>&lt;t4/&gt;当她描述文学、建筑、音乐和绘画中的体裁的使用时，她追踪了演进性语言的使用，米勒将这种将生物科学中术语挪为他用的现象归结为“对秩序和规则的痴迷”。 &lt;t6/&gt;(2015, &lt;t7/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -976,8 +976,8 @@
       <tuv lang="en">
         <seg>&lt;t9/&gt;A positive side comes from the order and consistency in content that structured authoring methodologies enable.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T030329Z" creationid="lenovo" creationdate="20200805T030206Z">
-        <seg>积极的一面则是结构化创作带来的内同的有序性和一致性。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T155923Z" creationid="lenovo" creationdate="20200805T030206Z">
+        <seg>&lt;t9/&gt;积极的一面则是结构化创作带来的内同的有序性和一致性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3013,8 +3013,8 @@
       <tuv lang="en">
         <seg>In &lt;t1/&gt;Chapter &lt;t2/&gt;1&lt;t3/&gt;, &lt;t4/&gt;I mentioned an example of Chef Pedro, who could &lt;t5/&gt;specialize&lt;t6/&gt; ele&lt;t7/&gt;ments of the DITA task content type into more meaningful components for his intended purpose (i.e., &lt;t8/&gt;&lt;ingredients&gt; &lt;t9/&gt;as a specialization of the default &lt;t10/&gt;&lt;prereq&gt; &lt;t11/&gt;for pre-requisites).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T080922Z" creationid="lenovo" creationdate="20200804T080138Z">
-        <seg>在第一章中In，我提到了佩德罗的例子，他能够根据自己特定的目的将DITA任务内容类型的各类元素专门化成更具意义的组件。（比如说&lt;ingredients&gt;标签是默认元素的专门化，&lt;prereq&gt;则是前期准备元素）</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T160115Z" creationid="lenovo" creationdate="20200804T080138Z">
+        <seg>在&lt;t1/&gt;第&lt;t2/&gt;一&lt;t3/&gt;章中，我提到了佩德罗的例子，&lt;t4/&gt;他能够根据自己特定的目的将DITA任务内容类型的各类元素&lt;t5/&gt;专门化&lt;t6/&gt;成更具意义的组件。（比如说&lt;t8/&gt;&lt;ingredients&gt; &lt;t9/&gt;标签是默认元素的专门化，&lt;t10/&gt;&lt;prereq&gt; &lt;t11/&gt;则是前期准备元素）</seg>
       </tuv>
     </tu>
     <tu>
