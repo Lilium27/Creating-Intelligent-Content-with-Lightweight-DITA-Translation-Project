@@ -616,8 +616,8 @@
       <tuv lang="en">
         <seg>&lt;t2/&gt;the manuals didn't work.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200802T065902Z" creationid="lenovo" creationdate="20200802T065902Z">
-        <seg>手册起不到作用。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T155525Z" creationid="lenovo" creationdate="20200802T065902Z">
+        <seg>&lt;t2/&gt;手册起不到作用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -760,8 +760,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;Through an online introduction by Michael Priestley, I received the following reply from Carpenter:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T065650Z" creationid="lenovo" creationdate="20200804T065650Z">
-        <seg>迈克尔·普里斯特利在线上介绍我和卡朋特认识，以下是我从他那里收到的回复：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T155627Z" creationid="lenovo" creationdate="20200804T065650Z">
+        <seg>&lt;t3/&gt;迈克尔·普里斯特利在线上介绍我和卡朋特认识，以下是我从他那里收到的回复：</seg>
       </tuv>
     </tu>
     <tu>
@@ -776,8 +776,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;all that kind of object-oriented thinking that was being applied to text in a pretty interesting analogy.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T033422Z" creationid="lenovo" creationdate="20200804T033422Z">
-        <seg>讲面向对象的思维运用到文本中，确实是很有意思的类比。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T155558Z" creationid="lenovo" creationdate="20200804T033422Z">
+        <seg>&lt;t3/&gt;讲面向对象的思维运用到文本中，确实是很有意思的类比。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1512,8 +1512,8 @@
       <tuv lang="en">
         <seg>As a result, he went back to Carroll's original writing in &lt;t1/&gt;The Nurnberg Funnel&lt;t2/&gt; and found “the prototypical example, the user guide that Carroll used to test out the principles.” He discovered that “you could write that user guide in DITA today.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T013023Z" creationid="lenovo" creationdate="20200804T012232Z">
-        <seg>因此，他回到卡罗尔的原作《纽伦堡漏斗》中寻找答案，发现“典型的例子就是，卡罗尔用用户指南来测试这些原则，而如今你可以用DITA来撰写用户指南。”</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T155539Z" creationid="lenovo" creationdate="20200804T012232Z">
+        <seg>因此，他回到卡罗尔的原作《&lt;t1/&gt;纽伦堡漏斗&lt;t2/&gt;》中寻找答案，发现“典型的例子就是，卡罗尔用用户指南来测试这些原则，而如今你可以用DITA来撰写用户指南。”</seg>
       </tuv>
     </tu>
     <tu>
@@ -1624,8 +1624,8 @@
       <tuv lang="en">
         <seg>Based on conversations with former and cur&lt;t0/&gt;rent IBM employees, I determined that the technical communicator could be &lt;t1/&gt;Susan Carpenter, who is now a senior manager of technical documentation at Red Hat and “led the first pilot of DITA with IBM WebSphere Application Server docs” (DITAWriter, &lt;t2/&gt;2016).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T065532Z" creationid="lenovo" creationdate="20200804T065532Z">
-        <seg>根据与IBM前任和在职员工的交流，我认定那位技术传播工程师就是苏珊·卡朋特（Susan Carpenter），如今她是红帽公司技术文档部门的高级经理，并“曾用DITA撰写IBM公司WebSphere Application Server（WAS）的相关文档，引领了首次试点。” (DITAWriter, &lt;t2/&gt;2016).</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T155622Z" creationid="lenovo" creationdate="20200804T065532Z">
+        <seg>根据与IBM前任和在职员工的交流，我认定那位技术传播工程师就是&lt;t1/&gt;苏珊·卡朋特（Susan Carpenter），如今她是红帽公司技术文档部门的高级经理，并“曾用DITA撰写IBM公司WebSphere Application Server（WAS）的相关文档，引领了首次试点。” (DITAWriter, &lt;t2/&gt;2016).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2893,8 +2893,8 @@
       <tuv lang="en">
         <seg>If I have a manual, I am as good as the expert: I have the information and if I don't I have to call a help number and admit that someone else is in control.” But then he hammered in the last nail in the manual's coffin: “All this being said &lt;t1/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200802T070841Z" creationid="lenovo" creationdate="20200802T065849Z">
-        <seg>如果我有手册在手，我就拥有了专家的水准：我掌握着相关信息，如果没有这些信息我就得打求助电话，并承认自己正处于他们的掌控之中。”但他给了手册最后致命一击：“尽管说了这么多，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T155358Z" creationid="lenovo" creationdate="20200802T065849Z">
+        <seg>如果我有手册在手，我就拥有了专家的水准：我掌握着相关信息，如果没有这些信息我就得打求助电话，并承认自己正处于他们的掌控之中。”但他给了手册最后致命一击：“尽管说了这么多&lt;t1/&gt;，</seg>
       </tuv>
     </tu>
     <tu>
@@ -3397,8 +3397,8 @@
       <tuv lang="en">
         <seg>It was an interesting idea because people were talking back then about object-oriented soft&lt;t1/&gt;ware, modular units &lt;t2/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T033326Z" creationid="lenovo" creationdate="20200804T033326Z">
-        <seg>这是个很有意思的想法，因为当时人们都在讨论面向对象的软件和模块化单元。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T155548Z" creationid="lenovo" creationdate="20200804T033326Z">
+        <seg>这是个很有意思的想法，因为当时人们都在讨论面向对象的软件和模块化单元&lt;t2/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
