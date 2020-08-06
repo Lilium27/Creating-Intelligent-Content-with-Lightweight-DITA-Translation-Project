@@ -416,8 +416,8 @@
       <tuv lang="en">
         <seg>&lt;t10/&gt;Chapters &lt;t11/&gt;5 &lt;t12/&gt;and &lt;t13/&gt;6&lt;t14/&gt; &lt;t15/&gt;include separate sections for each authoring format; nevertheless, any LwDITA map can reference any LwDITA topic regardless of authoring format.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T082220Z" creationid="DSS" creationdate="20200806T082220Z">
-        <seg>第5章和第6章回单独介绍每种写作格式，不过无论选择何种编写格式， LwDITA 地图都可以引用。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T153455Z" creationid="DSS" creationdate="20200806T082220Z">
+        <seg>&lt;t10/&gt;第&lt;t11/&gt;5 &lt;t12/&gt;章和第&lt;t13/&gt;6&lt;t14/&gt;&lt;t15/&gt;章会单独介绍每种写作格式，不过无论选择何种编写格式， LwDITA 地图都可以引用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -712,8 +712,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;In&lt;t4/&gt; Chapter &lt;t5/&gt;1&lt;t6/&gt; &lt;t7/&gt;I included some examples of DITA maps and promised that I will show you how to process them with DITA-aware tools and generate end user documents.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T085457Z" creationid="DSS" creationdate="20200806T085457Z">
-        <seg>在第1章中，我提供了一些 DITA 地图示例，并承诺将向你展示如何使用 DITA 的相关工具处理它们并生成最终用户文档。现。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T153635Z" creationid="DSS" creationdate="20200806T085457Z">
+        <seg>在&lt;t3/&gt;&lt;t4/&gt;第&lt;t5/&gt;1&lt;t6/&gt;&lt;t7/&gt;章中，我提供了一些 DITA 地图示例，并承诺将向你展示如何使用 DITA 的相关工具处理它们并生成最终用户文档。现。</seg>
       </tuv>
     </tu>
     <tu>
@@ -880,8 +880,8 @@
       <tuv lang="en">
         <seg>&lt;t5/&gt;For any case that requires stricter structured models, the DITA standard will be there as an alternative or a next-level solution.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T162450Z" creationid="DSS" creationdate="20200804T162450Z">
-        <seg>对于需要更严密的结构化模型的情况，DITA 标准可以作为替代方案或下一级解决方案。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T153318Z" creationid="DSS" creationdate="20200804T162450Z">
+        <seg>&lt;t5/&gt;对于需要更严密的结构化模型的情况，DITA 标准可以作为替代方案或下一级解决方案。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2629,8 +2629,8 @@
       <tuv lang="en">
         <seg>However, before I talk about the specifics of the LwDITA map, I need to bring back the DITA map from&lt;t11/&gt; Chapter &lt;t12/&gt;1&lt;t13/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T084525Z" creationid="DSS" creationdate="20200806T084525Z">
-        <seg>不过在介绍 LwDITA 地图的细节之前，我需要先谈谈第1章中的 DITA 地图。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T153609Z" creationid="DSS" creationdate="20200806T084525Z">
+        <seg>不过在介绍 LwDITA 地图的细节之前，我需要先谈谈第&lt;t11/&gt;&lt;t12/&gt;1&lt;t13/&gt;章中的 DITA 地图。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3229,8 +3229,8 @@
       <tuv lang="en">
         <seg>In&lt;t0/&gt; Chapter &lt;t1/&gt;3&lt;t2/&gt;, &lt;t3/&gt;I introduced the content and collection components of LwDITA, which can be represented in the three initial authoring formats of the proposed standard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T084509Z" creationid="DSS" creationdate="20200806T084509Z">
-        <seg>在第3章中，我介绍了 LwDITA 的内容和一系列组件，它们可以在提议的 LwDITA 标准中的三种最初的写作格式中使用。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T153518Z" creationid="DSS" creationdate="20200806T084509Z">
+        <seg>在&lt;t0/&gt;第&lt;t1/&gt;3&lt;t2/&gt;&lt;t3/&gt;章中，我介绍了 LwDITA 的内容和一系列组件，它们可以在提议的 LwDITA 标准中的三种最初的写作格式中使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4987,8 +4987,8 @@
       <tuv lang="en">
         <seg>The descriptions and examples featured in this chapter (and in &lt;t0/&gt;Chapter &lt;t1/&gt;6&lt;t2/&gt;) &lt;t3/&gt;are based on work that I have conducted as lead author of official OASIS publi&lt;t4/&gt;cations, which include the committee note &lt;t5/&gt;Lightweight DITA: An Introduction &lt;t6/&gt;(Evia et al., &lt;t7/&gt;2018) &lt;t8/&gt;and the LwDITA technical specification, which I am cur&lt;t9/&gt;rently editing with Michael Priestley.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T081158Z" creationid="DSS" creationdate="20200806T081158Z">
-        <seg>本章的介绍和示例（第6章中也有部分示例）基于我作为 OASIS 官方出版物第一作者的经历所写，这些出版物包括该委员会文件《轻量级 DITA 简介》(Evia et al., 2018) 和《LwDITA 技术规范》，后者目前正由我与迈克尔·普利斯特里编写。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T153420Z" creationid="DSS" creationdate="20200806T081158Z">
+        <seg>本章的介绍和示例（&lt;t0/&gt;第&lt;t1/&gt;6&lt;t2/&gt;章&lt;t3/&gt;中也有部分示例）基于我作为 OASIS 官方出版物第一作者的经历所写，这些出版物包括该委员会文件《&lt;t5/&gt;轻量级 DITA 简介&lt;t6/&gt;》(Evia et al., &lt;t7/&gt;2018&lt;t8/&gt;) 和《LwDITA 技术规范》，后者目前正由我与迈克尔·普利斯特里编写。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5076,8 +5076,8 @@
       <tuv lang="en">
         <seg>The information contained in&lt;t4/&gt; Chapters &lt;t5/&gt;5&lt;t6/&gt; &lt;t7/&gt;and &lt;t8/&gt;6&lt;t9/&gt; &lt;t10/&gt;does not aim to be a complete tutorial on XML, HTML5, or Markdown.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T084518Z" creationid="DSS" creationdate="20200806T084518Z">
-        <seg>编写第5章和第6章的目的并不是提供一个关于 XML、HTML5 或 Markdown 的完整教程。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T153551Z" creationid="DSS" creationdate="20200806T084518Z">
+        <seg>编写第 &lt;t5/&gt;5&lt;t6/&gt;&lt;t7/&gt;章和第&lt;t7/&gt;&lt;t8/&gt;6&lt;t9/&gt;&lt;t10/&gt;章的目的并不是提供一个关于 XML、HTML5 或 Markdown 的完整教程。</seg>
       </tuv>
     </tu>
     <tu>
