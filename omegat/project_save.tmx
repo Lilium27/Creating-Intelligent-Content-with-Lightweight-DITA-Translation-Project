@@ -3091,6 +3091,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In&lt;t0/&gt; Chapter &lt;t1/&gt;3&lt;t2/&gt;, &lt;t3/&gt;I introduced the content and collection components of LwDITA, which can be represented in the three initial authoring formats of the proposed standard.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T084509Z" creationid="DSS" creationdate="20200806T084509Z">
+        <seg>在第3章中，我介绍了 LwDITA 的内容和一系列组件，它们可以在提议的 LwDITA 标准中的三种最初的写作格式中使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Incidentally, this is the first written instance of the LwDITA (or “lwdita” in this case) acronym for Lightweight DITA.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T082213Z" creationid="DSS" creationdate="20200731T082213Z">
