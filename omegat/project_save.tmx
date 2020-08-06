@@ -5276,8 +5276,8 @@
       <tuv lang="en">
         <seg>The value for the &lt;t8/&gt;--&lt;t9/&gt;input&lt;t10/&gt; argument directs the DITA-OT to the specific folder where you stored the &lt;t11/&gt;marinara-critique.ditamap &lt;t12/&gt;file (the &lt;t13/&gt;path-to-file&lt;t14/&gt; section of the command, which you should replace with the actual path to the file in your computer).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T114857Z" creationid="DSS" creationdate="20200806T114857Z">
-        <seg>&lt;t8/&gt;--&lt;t9/&gt;input&lt;t10/&gt; 参数的值将 DITA-OT 定向到存储&lt;t11/&gt;marinara-critique.ditamap &lt;t12/&gt;文件的特定文件夹（你应该用计算机中文件的实际路径替换命令中的&lt;t13/&gt;path-to-file&lt;t14/&gt;部分）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T115654Z" creationid="DSS" creationdate="20200806T114857Z">
+        <seg>&lt;t8/&gt;--&lt;t9/&gt;input&lt;t10/&gt; 后参数的值将 DITA-OT 定向到存储&lt;t11/&gt;marinara-critique.ditamap &lt;t12/&gt;文件的特定文件夹（你应该用计算机中文件的实际路径替换命令中的&lt;t13/&gt;path-to-file&lt;t14/&gt;部分）。</seg>
       </tuv>
     </tu>
     <tu>
