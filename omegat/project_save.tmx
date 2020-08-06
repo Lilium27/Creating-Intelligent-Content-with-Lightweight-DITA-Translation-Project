@@ -5815,8 +5815,8 @@
       <tuv lang="en">
         <seg>Unordered list&lt;t0/&gt;: a series of items in which the order is not significant.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T163941Z" creationid="DSS" creationdate="20200804T131917Z">
-        <seg>无序列表（unordered list）：无序的一系列项目。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T153256Z" creationid="DSS" creationdate="20200804T131917Z">
+        <seg>无序列表（unordered list）&lt;t0/&gt;：无序的一系列项目。</seg>
       </tuv>
     </tu>
     <tu>
