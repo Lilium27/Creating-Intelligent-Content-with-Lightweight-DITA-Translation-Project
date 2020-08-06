@@ -1518,6 +1518,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As the Scriptorium video “Testing the DITA Open Toolkit” shows, the easiest way to record the correct file location or path is to drag and drop the file into the command line interface immediately after the &lt;t15/&gt;--&lt;t16/&gt;input=&lt;t17/&gt; argument.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T115749Z" creationid="DSS" creationdate="20200806T115749Z">
+        <seg>正如 Scriptorium 视频“测试DITA Open Toolkit”所示，记录正确的文件位置或路径的最简单的方法是在输入&lt;t15/&gt;--&lt;t16/&gt;input=&lt;t17/&gt; 某个参数之后立即将文件拖放到命令行界面中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At one point, Michael Priestley talked about an  audience of people who have an aversion to XML or existing DITA work- flows.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T092032Z" creationid="DSS" creationdate="20200730T092032Z">
@@ -4672,6 +4680,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That one-line command combines the map with the topics, processing the hierarchies and relationships established by the topic</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T115801Z" creationid="DSS" creationdate="20200806T115801Z">
+        <seg>该单行命令将地图与话题组合在一起，处理由话题引用建立的层级和关系。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That process of specialization, with some limitations in HDITA and MDITA, is allowed in LwDITA.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T122052Z" creationid="DSS" creationdate="20200730T122052Z">
@@ -5158,6 +5174,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T153345Z" creationid="DSS" creationdate="20200801T131304Z">
         <seg> DITA 技术委员会电话记录中记录了&lt;t4/&gt;2013&lt;t5/&gt;年10月8日普里斯特利（MP）和南希·哈里森（NH）之间的对话，南希·哈里森来自Infobridge Solutions，目前是技术委员会的秘书：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The resulting HTML5 files should appear automatically (after a few minutes) in the DITA-OT &lt;t0/&gt;out&lt;t1/&gt; folder, although you can specify an alternative folder in the build command with the &lt;t2/&gt;--output&lt;t3/&gt; option.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T115918Z" creationid="DSS" creationdate="20200806T115918Z">
+        <seg>生成的 HTML5 文件应该（几分钟后）自动出现在 DITA-OT 中的 &lt;t0/&gt;out&lt;t1/&gt; 文件夹里，你也可以使用 build 命令中的 &lt;t2/&gt;--output&lt;t3/&gt; 选项指定另一个文件夹。</seg>
       </tuv>
     </tu>
     <tu>
