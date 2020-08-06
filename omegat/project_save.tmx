@@ -992,8 +992,8 @@
       <tuv lang="en">
         <seg>&lt;t9/&gt;all increasing expectation about the proposed standard but working to the detriment of the subcommittee's actual purpose of developing the technical specification for an open standard and not software applications or industry-specific workflows.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T115907Z" creationid="DSS" creationdate="20200803T115907Z">
-        <seg>大家对提议的标准的期望在不断增加，但这却有损小组委员会的实际目的：为开放标准开发技术规范，而不是为了软件程序或特定行业的工作流开发。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T154729Z" creationid="DSS" creationdate="20200803T115907Z">
+        <seg>&lt;t9/&gt;大家对提议的标准的期望在不断增加，但这却有损小组委员会的实际目的：为开放标准开发技术规范，而不是为了软件程序或特定行业的工作流开发。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1376,8 +1376,8 @@
       <tuv lang="en">
         <seg>And that became our &lt;t6/&gt;modus operandi&lt;t7/&gt;: we would boast about the potential benefits of LwDITA in conferences and webinars, developers and managers would show interest and ask for a demo, we requested plugin updates from Elovirta and offered a new demo &lt;t8/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T164025Z" creationid="DSS" creationdate="20200803T115902Z">
-        <seg>这成为了我们的&lt;t6/&gt;工作方式&lt;t7/&gt;：我们会在各种会议和网络研讨会上夸赞 LwDITA 的潜在好处，开发人员和管理人员会表现出兴趣并要求观看演示，我们就会让艾洛维塔更新插件并提供一个新的演示</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T154722Z" creationid="DSS" creationdate="20200803T115902Z">
+        <seg>这成为了我们的&lt;t6/&gt;工作方式&lt;t7/&gt;：我们会在各种会议和网络研讨会上夸赞 LwDITA 的潜在好处，开发人员和管理人员会表现出兴趣并要求观看演示，我们就会让艾洛维塔更新插件并提供一个新的演示&lt;t8/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3069,8 +3069,8 @@
       <tuv lang="en">
         <seg>In October &lt;t0/&gt;2016, &lt;t1/&gt;Kris Eberlein (chair of the DITA Technical Committee) requested a formal deliverable from the subcommittee: a committee note/white paper that would work as a proposal for the LwDITA standard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T121447Z" creationid="DSS" creationdate="20200803T121447Z">
-        <seg>2016年10月，克里斯·埃伯莱因（DITA 技术委员会主席）要求小组委员会提交一份正式的交付文件：一份委员会说明/白皮书，作为 LwDITA 标准的提案。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T154755Z" creationid="DSS" creationdate="20200803T121447Z">
+        <seg>&lt;t0/&gt;2016&lt;t1/&gt;年10月，克里斯·埃伯莱因（DITA 技术委员会主席）要求小组委员会提交一份正式的交付文件：一份委员会说明/白皮书，作为 LwDITA 标准的提案。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4271,8 +4271,8 @@
       <tuv lang="en">
         <seg>Priestley pointed out that the simplified map had &lt;t0/&gt;6 &lt;t1/&gt;elements &lt;t2/&gt;(5 &lt;t3/&gt;if the &lt;t4/&gt;&lt;topicref&gt; &lt;t5/&gt;element was modified to include a title).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T080430Z" creationid="DSS" creationdate="20200731T080324Z">
-        <seg>普里斯特利指出简化后的地图有&lt;t0/&gt;6 &lt;t1/&gt;个元素（如果&lt;topicref&gt;元素包含标题的话，则为&lt;t2/&gt;5&lt;t3/&gt;个)。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T154623Z" creationid="DSS" creationdate="20200731T080324Z">
+        <seg>普里斯特利指出简化后的地图有&lt;t0/&gt;6 &lt;t1/&gt;个元素（如果 &lt;topicref&gt; 元素包含标题的话，则为&lt;t2/&gt;5&lt;t3/&gt;个)。&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4303,8 +4303,8 @@
       <tuv lang="en">
         <seg>Priestley's proposal emphasized that the lightweight topic only included &lt;t0/&gt;16 &lt;t1/&gt;elements, and that all attributes, with the exception of &lt;t2/&gt;@id &lt;t3/&gt;on &lt;t4/&gt;&lt;topic&gt;&lt;t5/&gt;, were optional.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T154306Z" creationid="DSS" creationdate="20200731T075807Z">
-        <seg> 普里斯特利的提案强调轻量级话题只包含&lt;t0/&gt;16 &lt;t1/&gt;个元素，除了&lt;topic&gt;上的&lt;t2/&gt;@id &lt;t3/&gt;属性之外，所有属性都是可选的。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T154545Z" creationid="DSS" creationdate="20200731T075807Z">
+        <seg> 普里斯特利的提案强调轻量级话题只包含&lt;t0/&gt;16 &lt;t1/&gt;个元素，除了&lt;topic&gt;上的&lt;t2/&gt;@id &lt;t3/&gt;属性之外，所有属性都是可选的。&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5220,8 +5220,8 @@
       <tuv lang="en">
         <seg>The second topic reference is the actual critique of the marinara sauce recipe, which can be structured as a DITA concept and look as &lt;t0/&gt;Figure &lt;t1/&gt;5.3&lt;t2/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T114228Z" creationid="DSS" creationdate="20200806T090529Z">
-        <seg>第二个话题引自对意式番茄罗勒酱菜谱的实际评价，它被构造成了DITA 概念（concept）话题，如图5.3所示。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T154811Z" creationid="DSS" creationdate="20200806T090529Z">
+        <seg>第二个话题引自对意式番茄罗勒酱菜谱的实际评价，它被构造成了DITA 概念（concept）话题，如图&lt;t0/&gt;&lt;t1/&gt;5.3&lt;t2/&gt;所示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5292,8 +5292,8 @@
       <tuv lang="en">
         <seg>The third topic reference is the “about” page with Chef Pedro's information, which I introduced in&lt;t0/&gt; Chapter &lt;t1/&gt;2&lt;t2/&gt; &lt;t3/&gt;and reproduce in &lt;t4/&gt;Figure &lt;t5/&gt;5.4&lt;t6/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T090721Z" creationid="DSS" creationdate="20200806T090721Z">
-        <seg>第三个话题引自“关于”页面，展示厨师佩德罗的信息，我在第2章中介绍过该页面，见图5.4。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T154847Z" creationid="DSS" creationdate="20200806T090721Z">
+        <seg>第三个话题引自“关于”页面，展示厨师佩德罗的信息，我在&lt;t0/&gt;第&lt;t1/&gt;2&lt;t2/&gt;&lt;t3/&gt;章中介绍过该页面，见&lt;t4/&gt;图&lt;t5/&gt;5.4&lt;t6/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
