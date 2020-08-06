@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t10/&gt;Chapters &lt;t11/&gt;5 &lt;t12/&gt;and &lt;t13/&gt;6&lt;t14/&gt; &lt;t15/&gt;include separate sections for each authoring format; nevertheless, any LwDITA map can reference any LwDITA topic regardless of authoring format.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T082220Z" creationid="DSS" creationdate="20200806T082220Z">
+        <seg>第5章和第6章回单独介绍每种写作格式，不过无论选择何种编写格式， LwDITA 地图都可以引用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t10/&gt;The “essays from whole cloth” reference is a nod to the book-oriented kind of writing using a word processor that most academic programs in techni&lt;t11/&gt;cal communication and content development teach as standard practice.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T142738Z" creationid="DSS" creationdate="20200723T154723Z">
@@ -1058,6 +1066,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T071158Z" creationid="lenovo" creationdate="20200804T071158Z">
         <seg>在我采访约翰·卡罗尔的数周后，颇具影响力的技术传播博主汤姆•约翰逊（Tom Johnson）在技术交流协会峰会上与他进行了交谈。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A key feature of LwDITA is cross-format collaboration and compatibility.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T082239Z" creationid="DSS" creationdate="20200806T082239Z">
+        <seg>LwDITA 的一个关键特性是跨格式的协作和兼容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2551,6 +2567,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T092815Z" creationid="DSS" creationdate="20200803T092815Z">
         <seg>但是小组委员会最终决定继续使用“轻量级DITA” （Lightweight DITA）这个名称，其缩写为 LwDITA。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, their current format has already been approved by members of the DITA Technical Committee, and the general public, through our introductory committee note.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T082211Z" creationid="DSS" creationdate="20200806T082211Z">
+        <seg>但是，在介绍性的委员会文件《轻量级 DITA 简介》中，组件格式已经得到了 DITA 技术委员会成员和普通用户的认可。</seg>
       </tuv>
     </tu>
     <tu>
