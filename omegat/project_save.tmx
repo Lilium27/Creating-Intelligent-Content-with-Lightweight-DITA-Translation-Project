@@ -4697,6 +4697,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The LwDITA technical specification is the authoritative source for producing and processing content across the LwDITA authoring formats.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T082928Z" creationid="DSS" creationdate="20200806T082928Z">
+        <seg>《LwDITA 技术规范》是跨 LwDITA 写作格式生成和处理内容的权威来源。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The LwDITA topic and map can be represented, with some limitations and substitutions, in three author&lt;t0/&gt;ing formats: XDITA (based on a simplified grammar of DITA XML), HDITA (based on HTML5), and MDITA (based on Markdown).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T151659Z" creationid="DSS" creationdate="20200803T151659Z">
@@ -5270,6 +5278,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T093025Z" creationid="DSS" creationdate="20200731T093025Z">
         <seg>这建立在第13076号提案提出的轻量级模型之上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This chapter does not have the purpose of replacing or mirroring the technical specification (which will contain information and details for developers and information designers) for the proposed LwDITA standard.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T082927Z" creationid="DSS" creationdate="20200806T082927Z">
+        <seg>编写本章的目的不是代替提议的 LwDITA 标准的技术规范（包含适用于开发人员和信息设计人员的信息和细节内容），或者将其复述一遍。</seg>
       </tuv>
     </tu>
     <tu>
