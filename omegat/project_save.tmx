@@ -2883,6 +2883,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you have never interacted with the DITA Open Toolkit, and if you are not familiar with command-line based applications, I recommend a couple of intro&lt;t0/&gt;ductory videos developed by Scriptorium as part of their free “Learning DITA” curriculum&lt;t1/&gt;1&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T092051Z" creationid="DSS" creationdate="20200806T092044Z">
+        <seg>如果你从未使用过 DITA Open Toolkit，也不熟悉基于命令行的应用程序，那么我推荐你观看Scriptorium（提供内容策略咨询服务的公司）免费制作的《学习 DITA》&lt;t1/&gt;1&lt;t2/&gt;课程中的几个介绍性视频。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you're unfamiliar with XML structures, don't worry; the relevant XML elements for this book will be discussed in detail in subsequent chapters.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154443Z" creationid="DSS" creationdate="20200726T154443Z">
@@ -5194,6 +5202,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The video tutorials “Installing the DITA Open Toolkit&lt;t3/&gt;”&lt;t4/&gt;2&lt;t5/&gt; and “Testing the DITA Open Toolkit”&lt;t6/&gt;3&lt;t7/&gt; provide enough information to follow the examples included in this book.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T092132Z" creationid="DSS" creationdate="20200806T092049Z">
+        <seg>视频教程“安装 DITA Open Toolkit”2和“测试 DITA Open Toolkit”&lt;t6/&gt;3&lt;t7/&gt;提供了足够的信息来学习本书接下来展示的示例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The “death” of the manual as the default genre of technical communica&lt;t0/&gt;tion has impacted the field in more than one way.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T081255Z" creationid="lenovo" creationdate="20200723T081255Z">
@@ -5913,6 +5929,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T082945Z" creationid="DSS" creationdate="20200725T082945Z">
         <seg>然而，基于话题的信息和组件内容管理的宏远想法，超出了 DITA 标准和支持 DITA 的工具所提供的话题类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can download the DITA-OT from the website &lt;t8/&gt;https://&lt;t9/&gt; &lt;t10/&gt;www.dita-ot.org/download&lt;t11/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T092225Z" creationid="DSS" creationdate="20200806T092225Z">
+        <seg>你可以从 &lt;t8/&gt;https://&lt;t9/&gt; &lt;t10/&gt;www.dita-ot.org/download&lt;t11/&gt; 上下载 DITA-OT。</seg>
       </tuv>
     </tu>
     <tu>
