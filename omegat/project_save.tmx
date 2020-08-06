@@ -5658,6 +5658,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To generate an HTML5 version of the marinara recipe critique, you would enter the command (one single line) on a command-line environment &lt;t0/&gt;inside the directory or folder where you installed the DITA-OT&lt;t1/&gt; shown in &lt;t2/&gt;Figure &lt;t3/&gt;5.6&lt;t4/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T114103Z" creationid="DSS" creationdate="20200806T113725Z">
+        <seg>如果想要生成一个 HTML 5版本的意式番茄罗勒酱菜谱评论，需要在安装了 DITA-OT 的路径或文件夹下，打开命令行环境输入一行命令，如图5.6所示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Topic derives from the widely adopted open content standard known as Darwin Information Typing Architecture (DITA), which defines a common structure for con&lt;t0/&gt;tent that promotes the consistent creation, sharing, and reuse of content.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T155631Z" creationid="DSS" creationdate="20200724T155631Z">
