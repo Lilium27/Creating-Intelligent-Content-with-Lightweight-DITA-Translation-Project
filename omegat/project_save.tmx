@@ -2531,6 +2531,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, before I talk about the specifics of the LwDITA map, I need to bring back the DITA map from&lt;t11/&gt; Chapter &lt;t12/&gt;1&lt;t13/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T084525Z" creationid="DSS" creationdate="20200806T084525Z">
+        <seg>不过在介绍 LwDITA 地图的细节之前，我需要先谈谈第1章中的 DITA 地图。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, many of its claims were based on an &lt;t9/&gt;us-before-them&lt;t10/&gt; trope, which included sentences like “Before you start your DITA project, train your writers in Information Mapping&lt;t11/&gt;®&lt;t12/&gt;,” or “Becoming familiar with Information Mapping&lt;t13/&gt;® &lt;t14/&gt;is a necessary first step towards a successful DITA implementation” (2011, p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T091934Z" creationid="DSS" creationdate="20200731T091934Z">
@@ -2615,6 +2623,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T094646Z" creationid="DSS" creationdate="20200726T094646Z">
         <seg>但是，我知道一些具有不同用户组的大型内容库确实需要基于XML 的 DITA 构建的健壮环境，这是 DITA 标准非常重要的一部分，不会就此消失。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I assume that readers interested in LwDITA will already be at least slightly familiar with XML, HTML5, or Markdown.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T084523Z" creationid="DSS" creationdate="20200806T084523Z">
+        <seg>我假设对 LwDITA 感兴趣的读者至少已经稍微熟悉 XML、HTML5 或 Markdown 了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4878,6 +4894,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T113004Z" creationid="DSS" creationdate="20200803T113004Z">
         <seg>这些小组围绕学习和培训、机器工业、软件开发和市场营销等领域进行组织。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The information contained in&lt;t4/&gt; Chapters &lt;t5/&gt;5&lt;t6/&gt; &lt;t7/&gt;and &lt;t8/&gt;6&lt;t9/&gt; &lt;t10/&gt;does not aim to be a complete tutorial on XML, HTML5, or Markdown.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T084518Z" creationid="DSS" creationdate="20200806T084518Z">
+        <seg>编写第5章和第6章的目的并不是提供一个关于 XML、HTML5 或 Markdown 的完整教程。</seg>
       </tuv>
     </tu>
     <tu>
