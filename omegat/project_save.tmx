@@ -56,8 +56,8 @@
       <tuv lang="en">
         <seg>(LimitedDitaProfile, &lt;t0/&gt;2011)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T072502Z" creationid="DSS" creationdate="20200731T072502Z">
-        <seg>（限定版 DITA 标准概要，2011年）</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T154523Z" creationid="DSS" creationdate="20200731T072502Z">
+        <seg>（限定版 DITA 标准概要，&lt;t0/&gt;2011年）</seg>
       </tuv>
     </tu>
     <tu>
@@ -3693,8 +3693,8 @@
       <tuv lang="en">
         <seg>LwDITA, like DITA XML, &lt;t0/&gt;can be specialized into custom document and element types &lt;t1/&gt;based on the needs of specific users.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095804Z" creationid="DSS" creationdate="20200730T095804Z">
-        <seg>与 DITA XML 一样，LwDITA 可以 &lt;t1/&gt;根据特定用户的需要专门化为特定的文档和元素类型。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T154513Z" creationid="DSS" creationdate="20200730T095804Z">
+        <seg>与 DITA XML 一样，LwDITA &lt;t0/&gt;可以 &lt;t1/&gt;根据特定用户的需要专门化为特定的文档和元素类型。</seg>
       </tuv>
     </tu>
     <tu>
