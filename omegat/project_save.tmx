@@ -1582,6 +1582,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Because LwDITA has not been approved as an official OASIS standard as of this writing, the components presented in these chapters might change.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T081310Z" creationid="DSS" creationdate="20200806T081310Z">
+        <seg>因为在撰写本文时，LwDITA 还没有被批准为正式的 OASIS 标准，所以章节中介绍的组件可能会发生变化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Because of proprietary practices, it would be impractical to poll private companies, government agencies, and non-profit institutions worldwide to tally a number of DITA and XML users.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T141010Z" creationid="DSS" creationdate="20200726T141010Z">
