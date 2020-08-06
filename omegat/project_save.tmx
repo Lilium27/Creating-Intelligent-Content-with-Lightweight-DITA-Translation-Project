@@ -518,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t2/&gt;10).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T155207Z" creationid="DSS" creationdate="20200806T155207Z">
+        <seg>&lt;t2/&gt;10)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t2/&gt;116).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T142859Z" creationid="DSS" creationdate="20200723T160301Z">
@@ -800,8 +808,8 @@
       <tuv lang="en">
         <seg>&lt;t4/&gt;255)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T155835Z" creationid="DSS" creationdate="20200724T155835Z">
-        <seg>255页）</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T155043Z" creationid="DSS" creationdate="20200724T155835Z">
+        <seg>&lt;t4/&gt;255页）</seg>
       </tuv>
     </tu>
     <tu>
@@ -888,8 +896,8 @@
       <tuv lang="en">
         <seg>&lt;t5/&gt;In conversations at academic conferences and in social media exchanges, colleagues from other universities tell me they would like to try DITA in the future and make plans to contact me when they are working on their technical communication syllabus.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T090526Z" creationid="DSS" creationdate="20200726T090526Z">
-        <seg>在学术会议和社交媒体的交流中，来自其他大学的同事告诉我他们将来想尝试 DITA，并计划在制定技术传播课程大纲时联系我。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T155120Z" creationid="DSS" creationdate="20200726T090526Z">
+        <seg>&lt;t5/&gt;在学术会议和社交媒体的交流中，来自其他大学的同事告诉我他们将来想尝试 DITA，并计划在制定技术传播课程大纲时联系我。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1544,8 +1552,8 @@
       <tuv lang="en">
         <seg>At professional conferences, I occasionally engage in nostalgic conversations with colleagues who continue to state the claim that content developers &lt;t2/&gt;and their readers&lt;t3/&gt; lost something when the manual disappeared.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T082952Z" creationid="lenovo" creationdate="20200723T082952Z">
-        <seg>在专业会议上，我偶尔会和同事们一起缅怀从前，他们不断地宣扬手册消失后内容开发者及读者丢失了一些东西。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T155240Z" creationid="lenovo" creationdate="20200723T082952Z">
+        <seg>在专业会议上，我偶尔会和同事们一起缅怀从前，他们不断地宣扬手册消失后内容开发者及&lt;t2/&gt;读者&lt;t3/&gt;丢失了一些东西。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1800,8 +1808,8 @@
       <tuv lang="en">
         <seg>Carroll's proposed approach was a commit&lt;t7/&gt;ment to “minimizing the obtrusiveness to the learner of training material &lt;t8/&gt;— &lt;t9/&gt;hence the term &lt;t10/&gt;minimalist&lt;t11/&gt;” (p.7, his emphasis).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T074413Z" creationid="lenovo" creationdate="20200723T074413Z">
-        <seg>Carroll建议的方法是&lt;t7/&gt;尽可能减少学习者与培训材料之间的障碍 &lt;t8/&gt;— &lt;t9/&gt;由此提出了极简主义的概念&lt;t11/&gt;” (p.7, his emphasis).</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T155221Z" creationid="lenovo" creationdate="20200723T074413Z">
+        <seg>Carroll建议的方法是&lt;t7/&gt;尽可能减少学习者与培训材料之间的障碍 &lt;t8/&gt;— &lt;t9/&gt;由此提出了&lt;t10/&gt;极简主义的概念&lt;t11/&gt;” (p.7, his emphasis).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5308,8 +5316,8 @@
       <tuv lang="en">
         <seg>The title of Carroll's influential book refers “to the legendary Funnel of Nurnberg, said to make people wise very quickly” &lt;t0/&gt;(1990, &lt;t1/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T093613Z" creationid="lenovo" creationdate="20200723T021125Z">
-        <seg>卡罗尔所著的这本颇有影响力的书享有“传奇《纽伦堡漏斗》能让你瞬间开悟”的盛誉。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T155143Z" creationid="lenovo" creationdate="20200723T021125Z">
+        <seg>卡罗尔所著的这本颇有影响力的书享有“传奇《纽伦堡漏斗》能让你瞬间开悟”的盛誉 &lt;t0/&gt;(1990, &lt;t1/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5580,8 +5588,8 @@
       <tuv lang="en">
         <seg>This exercise in markup flexibility is a direct application of both the extensible part &lt;t17/&gt;of XML and the Darwin element in DITA: XML elements can be extended and DITA information types can evolve to accommodate diverse content and pro&lt;t18/&gt;cessing needs.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T143955Z" creationid="DSS" creationdate="20200725T143955Z">
-        <seg>这种关于标记的灵活实践是对 XML 中的可扩展部分和 DITA 中的达尔文元素的直接应用：XML 元素可以扩展，DITA 中的信息类型可以进行调整以适应不同的内容和处理需要。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T155059Z" creationid="DSS" creationdate="20200725T143955Z">
+        <seg>这种关于标记的灵活实践是对 XML 中的可扩展部分&lt;t17/&gt;和 DITA 中的达尔文元素的直接应用：XML 元素可以扩展，DITA 中的信息类型可以进行调整以适应不同的内容和处理需要。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5887,8 +5895,8 @@
       <tuv lang="en">
         <seg>We reminisced about the Virginia Tech Center for Human-Computer Interaction (CHCI), which Carroll founded in &lt;t0/&gt;1995.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T094927Z" creationid="lenovo" creationdate="20200723T094927Z">
-        <seg>我们想起了卡罗尔在1995年创立的弗吉尼亚理工大学人机交互中心(CHCI)。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T155250Z" creationid="lenovo" creationdate="20200723T094927Z">
+        <seg>我们想起了卡罗尔在&lt;t0/&gt;1995年创立的弗吉尼亚理工大学人机交互中心(CHCI)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6079,8 +6087,8 @@
       <tuv lang="en">
         <seg>Yet, John Carroll and I never worked together, as he left Virginia Tech a few months before I arrived as an assistant professor in &lt;t2/&gt;2004.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200731T134026Z" creationid="lenovo" creationdate="20200731T134026Z">
-        <seg>然而我和约翰·卡罗尔并未共事过，因为2004年我作为助理教授加入弗吉尼亚理工大学时，他就已经离开数月了。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T155258Z" creationid="lenovo" creationdate="20200731T134026Z">
+        <seg>然而我和约翰·卡罗尔并未共事过，因为&lt;t2/&gt;2004年我作为助理教授加入弗吉尼亚理工大学时，他就已经离开数月了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6304,8 +6312,8 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;A fully tested DTD or schema for XML-based authoring</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T082415Z" creationid="DSS" creationdate="20200726T154940Z">
-        <seg>DITA是一种经过充分检验的用于 XML 创作的 DTD 或模式</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T155030Z" creationid="DSS" creationdate="20200726T154940Z">
+        <seg>&lt;t0/&gt;DITA是一种经过充分检验的用于 XML 创作的 DTD 或模式</seg>
       </tuv>
     </tu>
     <tu>
