@@ -2595,6 +2595,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I acknowledge that, as a whole, these chapters contain plenty of dense refer&lt;t0/&gt;ence material, and I have attempted to include examples of the most common topical conventions available in LwDITA, with emphasis on frequent structures used by content creators.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T082635Z" creationid="DSS" creationdate="20200806T082635Z">
+        <seg>总的来说，这些章节包含了大量密集的参考材料，并且我试图展示使用 LwDITA 中最常见的话题规则的例子，重点介绍内容创作者常用的结构。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I am a voting member of the DITA Technical Committee with the Organization for the Adoption of Structured Information Standards (OASIS), which is currently working on version &lt;t0/&gt;2.0 &lt;t1/&gt;of the standard; DITA's present and future are necessary for the lightweight approaches dis&lt;t2/&gt;cussed in this book.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T151058Z" creationid="DSS" creationdate="20200726T134337Z">
