@@ -432,8 +432,8 @@
       <tuv lang="en">
         <seg>&lt;t12/&gt;Figure &lt;t13/&gt;5.1&lt;t14/&gt; &lt;t15/&gt;shows the recipe critiques DITA map, which you can save as &lt;t16/&gt;marinara-critique.ditamap&lt;t17/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T085605Z" creationid="DSS" creationdate="20200806T085605Z">
-        <seg>图5.1即为菜谱评论网站的 DITA 地图，你可以将其保存为 &lt;t16/&gt;marinara- reviews .ditamap&lt;t17/&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T114228Z" creationid="DSS" creationdate="20200806T085605Z">
+        <seg>图5.1即为菜谱评价网站的 DITA 地图，你可以将其保存为 &lt;t16/&gt;marinara- reviews .ditamap&lt;t17/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2253,16 +2253,16 @@
       <tuv lang="en">
         <seg>FIGURE 1.6 &lt;t0/&gt;DITA map for Chef Pedro's recipe critique website.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150323Z" creationid="DSS" creationdate="20200725T153901Z">
-        <seg>图1.6 佩德罗菜谱评论网站的 &lt;t0/&gt;DITA 地图。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T114224Z" creationid="DSS" creationdate="20200725T153901Z">
+        <seg>图1.6 佩德罗菜谱评价网站的 &lt;t0/&gt;DITA 地图。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE 1.7 &lt;t0/&gt;Navigation menu for a web transformation of Chef Pedro's recipe&lt;t1/&gt; critique project.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150649Z" creationid="DSS" creationdate="20200726T080726Z">
-        <seg>图1.7 &lt;t0/&gt;佩德罗菜谱&lt;t1/&gt;评论项目 web 输出物的导航菜单。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T114226Z" creationid="DSS" creationdate="20200726T080726Z">
+        <seg>图1.7 &lt;t0/&gt;佩德罗菜谱&lt;t1/&gt;评价项目 web 输出物的导航菜单。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2301,8 +2301,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;5.1 &lt;t1/&gt;DITA map for Chef Pedro's recipe critique website.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T092440Z" creationid="DSS" creationdate="20200806T092440Z">
-        <seg>图5.1 佩德罗菜谱评论网站的 DITA 地图。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T114229Z" creationid="DSS" creationdate="20200806T092440Z">
+        <seg>图5.1 佩德罗菜谱评价网站的 DITA 地图。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2325,8 +2325,8 @@
       <tuv lang="en">
         <seg>Figure &lt;t0/&gt;1.6&lt;t1/&gt; &lt;t2/&gt;shows a very basic DITA map for Chef Pedro's recipe critique website.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150213Z" creationid="DSS" creationdate="20200725T153515Z">
-        <seg>图&lt;t0/&gt;1.6&lt;t1/&gt; &lt;t2/&gt;展示了佩德罗菜谱评论网站的一个非常基本的 DITA 地图。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T114223Z" creationid="DSS" creationdate="20200725T153515Z">
+        <seg>图&lt;t0/&gt;1.6&lt;t1/&gt; &lt;t2/&gt;展示了佩德罗菜谱评价网站的一个非常基本的 DITA 地图。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2741,7 +2741,7 @@
       <tuv lang="en">
         <seg>I had not interacted with Priestley before, although we followed each other on Twitter based on common friends and our shared interest on DITA, and one of my students conducting a research study had interviewed him in &lt;t0/&gt;2012 &lt;t1/&gt;(and I incorporated some of his comments into my syllabus).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T120218Z" creationid="DSS" creationdate="20200802T120218Z">
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T114254Z" creationid="DSS" creationdate="20200802T120218Z">
         <seg>虽然我和普里斯特利基于共同好友以及对 DITA 的共同兴趣在Twitter 上关注了彼此，但从未有过交流。&lt;t0/&gt;2012 &lt;t1/&gt;年，我的一个学生在进行一项研究时采访了他（我把他的一些评论写进了教学大纲)。</seg>
       </tuv>
     </tu>
@@ -3189,8 +3189,8 @@
       <tuv lang="en">
         <seg>In this section, I will use a software tool to process the DITA map, from&lt;t8/&gt; Chapter &lt;t9/&gt;1&lt;t10/&gt;, &lt;t11/&gt;that Chef Pedro created for his recipe critiques website.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T085539Z" creationid="DSS" creationdate="20200806T085539Z">
-        <seg>在本节中，我将使用一个软件工具来处理来自第1章的DITA地图，该地图是厨师佩德罗为其菜谱评论网站创建的。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T114227Z" creationid="DSS" creationdate="20200806T085539Z">
+        <seg>在本节中，我将使用一个软件工具来处理来自第1章的DITA地图，该地图是厨师佩德罗为其菜谱评价网站创建的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5060,16 +5060,16 @@
       <tuv lang="en">
         <seg>The map includes&lt;t1/&gt; links (or topic references) to the marinara sauce recipe, Chef Pedro's critique of the recipe, and an “about” page with information about the author.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T092741Z" creationid="DSS" creationdate="20200725T154134Z">
-        <seg>地图上有关联到&lt;t2/&gt;意式番茄罗勒酱食谱（或话题参考信息）、厨师佩德罗对菜谱的评论和介绍作者信息的“关于”页面的链接。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T114225Z" creationid="DSS" creationdate="20200725T154134Z">
+        <seg>地图上有关联到&lt;t2/&gt;意式番茄罗勒酱食谱（或话题参考信息）、厨师佩德罗对菜谱的评价和介绍作者信息的“关于”页面的链接。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The map includes&lt;t2/&gt; links (or topic references) to the marinara sauce recipe, Chef Pedro's critique of the recipe, and an “about” page with information about the author.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T093220Z" creationid="DSS" creationdate="20200806T092641Z">
-        <seg>地图上有关联到&lt;t2/&gt;意式番茄罗勒酱食谱（或话题参考信息）、厨师佩德罗对菜谱的评论和介绍作者信息的“关于”页面的链接。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T114230Z" creationid="DSS" creationdate="20200806T092641Z">
+        <seg>地图上有关联到&lt;t2/&gt;意式番茄罗勒酱食谱（或话题参考信息）、厨师佩德罗对菜谱的评价和介绍作者信息的“关于”页面的链接。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5172,8 +5172,8 @@
       <tuv lang="en">
         <seg>The second topic reference is the actual critique of the marinara sauce recipe, which can be structured as a DITA concept and look as &lt;t0/&gt;Figure &lt;t1/&gt;5.3&lt;t2/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T090657Z" creationid="DSS" creationdate="20200806T090529Z">
-        <seg>第二个话题引自对意式番茄罗勒酱菜谱的实际评论，它被构造成了DITA 概念（concept）话题，如图5.3所示。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T114228Z" creationid="DSS" creationdate="20200806T090529Z">
+        <seg>第二个话题引自对意式番茄罗勒酱菜谱的实际评价，它被构造成了DITA 概念（concept）话题，如图5.3所示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5660,8 +5660,8 @@
       <tuv lang="en">
         <seg>To generate an HTML5 version of the marinara recipe critique, you would enter the command (one single line) on a command-line environment &lt;t0/&gt;inside the directory or folder where you installed the DITA-OT&lt;t1/&gt; shown in &lt;t2/&gt;Figure &lt;t3/&gt;5.6&lt;t4/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T114103Z" creationid="DSS" creationdate="20200806T113725Z">
-        <seg>如果想要生成一个 HTML 5版本的意式番茄罗勒酱菜谱评论，需要在安装了 DITA-OT 的路径或文件夹下，打开命令行环境输入一行命令，如图5.6所示。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T114230Z" creationid="DSS" creationdate="20200806T113725Z">
+        <seg>如果想要生成一个 HTML 5版本的意式番茄罗勒酱菜谱评价，需要在安装了 DITA-OT 的路径或文件夹下，打开命令行环境输入一行命令，如图5.6所示。</seg>
       </tuv>
     </tu>
     <tu>
