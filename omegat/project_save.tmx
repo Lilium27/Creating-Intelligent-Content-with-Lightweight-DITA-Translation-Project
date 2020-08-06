@@ -574,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t2/&gt;91).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T084827Z" creationid="DSS" creationdate="20200806T084827Z">
+        <seg>&lt;t2/&gt;91)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t2/&gt;Existing tools can provide UI masking of features that can be enabled later on (license upgrade, etc.)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T070143Z" creationid="DSS" creationdate="20200730T132000Z">
@@ -1618,6 +1626,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T130405Z" creationid="DSS" creationdate="20200730T122831Z">
         <seg>在介绍 LwDITA 话题规则，阐述 LwDITA 的元素是如何从 DITA 标准 &lt;t0/&gt;1.3 &lt;t1/&gt;版本中的元素演变而来，又是如何在 LwDITA 三种核心写作格式中生成它们自己的后代元素之前，下面一节将先回顾 OASIS 公共电子邮件记录和会议纪要中记录的 DITA 的演变过程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bellamy et al.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T084713Z" creationid="DSS" creationdate="20200806T084713Z">
+        <seg>贝拉米等人</seg>
       </tuv>
     </tu>
     <tu>
@@ -5865,6 +5881,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T151649Z" creationid="DSS" creationdate="20200803T151649Z">
         <seg>内容类型：话题（topic）和地图（map）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>describe the DITA map as “the glue that binds your topics together, the driver for producing your output, and the information path for your users to follow” (Bellamy et al., &lt;t0/&gt;2012, &lt;t1/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T084808Z" creationid="DSS" creationdate="20200806T084808Z">
+        <seg>称 DITA 地图是“将话题绑定在一起的粘合剂，是生成输出物的驱动器，也是用户可以遵循的信息路径”(Bellamy et al., &lt;t0/&gt;2012, &lt;t1/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
