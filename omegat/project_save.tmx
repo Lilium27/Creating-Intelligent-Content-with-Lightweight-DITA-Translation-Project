@@ -702,6 +702,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t3/&gt;In&lt;t4/&gt; Chapter &lt;t5/&gt;1&lt;t6/&gt; &lt;t7/&gt;I included some examples of DITA maps and promised that I will show you how to process them with DITA-aware tools and generate end user documents.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T085457Z" creationid="DSS" creationdate="20200806T085457Z">
+        <seg>在第1章中，我提供了一些 DITA 地图示例，并承诺将向你展示如何使用 DITA 的相关工具处理它们并生成最终用户文档。现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t3/&gt;O'Keefe's extended definition includes the following features of XML:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143946Z" creationid="DSS" creationdate="20200726T154032Z">
@@ -3887,6 +3895,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T131233Z" creationid="DSS" creationdate="20200804T131233Z">
         <seg>注解（note）&lt;t0/&gt;：对某一点内容进行扩展或想要引起读者注意的信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Now it's the time to fulfill that promise.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T085501Z" creationid="DSS" creationdate="20200806T085501Z">
+        <seg>在是履行承诺的时候了。</seg>
       </tuv>
     </tu>
     <tu>
