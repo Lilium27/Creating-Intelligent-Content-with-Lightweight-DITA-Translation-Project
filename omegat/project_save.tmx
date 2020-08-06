@@ -4947,8 +4947,8 @@
       <tuv lang="en">
         <seg>The command has the reference to the built-in (&lt;t0/&gt;bin&lt;t1/&gt;) subdirectory and the &lt;t2/&gt;dita&lt;t3/&gt; executable program, with the &lt;t4/&gt;marinara-critique.ditamap&lt;t5/&gt; file as input, and &lt;t6/&gt;html5&lt;t7/&gt; as the delivery format.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T114531Z" creationid="DSS" creationdate="20200806T114531Z">
-        <seg>该命令引用了内置（&lt;t0/&gt;bin&lt;t1/&gt;）子目录和 DITA 可执行程序，将  &lt;t4/&gt;marinara-critique.ditamap&lt;t5/&gt; 文件作为输入，&lt;t6/&gt;html5&lt;t7/&gt;作为输出物格式。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T122058Z" creationid="DSS" creationdate="20200806T114531Z">
+        <seg>该命令引用了内置（&lt;t0/&gt;bin&lt;t1/&gt;）子目录和 &lt;t2/&gt;dita&lt;t3/&gt; 可执行程序，将  &lt;t4/&gt;marinara-critique.ditamap&lt;t5/&gt; 文件作为输入，&lt;t6/&gt;html5&lt;t7/&gt;作为输出物格式。</seg>
       </tuv>
     </tu>
     <tu>
