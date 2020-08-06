@@ -432,8 +432,8 @@
       <tuv lang="en">
         <seg>&lt;t12/&gt;Figure &lt;t13/&gt;5.1&lt;t14/&gt; &lt;t15/&gt;shows the recipe critiques DITA map, which you can save as &lt;t16/&gt;marinara-critique.ditamap&lt;t17/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T114228Z" creationid="DSS" creationdate="20200806T085605Z">
-        <seg>图5.1即为菜谱评价网站的 DITA 地图，你可以将其保存为 &lt;t16/&gt;marinara- reviews .ditamap&lt;t17/&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T153716Z" creationid="DSS" creationdate="20200806T085605Z">
+        <seg>&lt;t12/&gt;图&lt;t13/&gt;5.1&lt;t14/&gt;&lt;t15/&gt;即为菜谱评价网站的 DITA 地图，你可以将其保存为 &lt;t16/&gt;marinara- reviews .ditamap&lt;t17/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3213,8 +3213,8 @@
       <tuv lang="en">
         <seg>In this section, I will use a software tool to process the DITA map, from&lt;t8/&gt; Chapter &lt;t9/&gt;1&lt;t10/&gt;, &lt;t11/&gt;that Chef Pedro created for his recipe critiques website.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T114227Z" creationid="DSS" creationdate="20200806T085539Z">
-        <seg>在本节中，我将使用一个软件工具来处理来自第1章的DITA地图，该地图是厨师佩德罗为其菜谱评价网站创建的。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T153656Z" creationid="DSS" creationdate="20200806T085539Z">
+        <seg>在本节中，我将使用一个软件工具来处理来自&lt;t8/&gt;第&lt;t9/&gt;1&lt;t10/&gt;&lt;t11/&gt;章的DITA地图，该地图是厨师佩德罗为其菜谱评价网站创建的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5011,8 +5011,8 @@
       <tuv lang="en">
         <seg>The first topic reference in the DITA map from &lt;t0/&gt;Figure &lt;t1/&gt;5.1&lt;t2/&gt; &lt;t3/&gt;is the DITA task version of the marinara sauce recipe from&lt;t4/&gt; Chapter &lt;t5/&gt;1&lt;t6/&gt; &lt;t7/&gt;(&lt;t8/&gt;Figure &lt;t9/&gt;5.2&lt;t10/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T090641Z" creationid="DSS" creationdate="20200806T090153Z">
-        <seg>图5.1展示的 DITA 地图的第一个话题引自第1章中的意式番茄罗勒酱菜谱，它是一个 DITA 任务（task）话题（图5.2）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T153800Z" creationid="DSS" creationdate="20200806T090153Z">
+        <seg>&lt;t0/&gt;图&lt;t1/&gt;5.1&lt;t2/&gt;&lt;t3/&gt;展示的 DITA 地图的第一个话题引自&lt;t4/&gt;第&lt;t5/&gt;1&lt;t6/&gt;&lt;t7/&gt;章中的意式番茄罗勒酱菜谱，它是一个 DITA 任务（task）话题（&lt;t8/&gt;图&lt;t9/&gt;5.2&lt;t10/&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
