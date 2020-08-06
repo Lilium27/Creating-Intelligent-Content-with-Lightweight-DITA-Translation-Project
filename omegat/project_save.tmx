@@ -4745,6 +4745,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The descriptions and examples featured in this chapter (and in &lt;t0/&gt;Chapter &lt;t1/&gt;6&lt;t2/&gt;) &lt;t3/&gt;are based on work that I have conducted as lead author of official OASIS publi&lt;t4/&gt;cations, which include the committee note &lt;t5/&gt;Lightweight DITA: An Introduction &lt;t6/&gt;(Evia et al., &lt;t7/&gt;2018) &lt;t8/&gt;and the LwDITA technical specification, which I am cur&lt;t9/&gt;rently editing with Michael Priestley.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T081158Z" creationid="DSS" creationdate="20200806T081158Z">
+        <seg>本章的介绍和示例（第6章中也有部分示例）基于我作为 OASIS 官方出版物第一作者的经历所写，这些出版物包括该委员会文件《轻量级 DITA 简介》(Evia et al., 2018) 和《LwDITA 技术规范》，后者目前正由我与迈克尔·普利斯特里编写。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The document type of map enables this grouping of topics.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T075903Z" creationid="DSS" creationdate="20200806T075903Z">
