@@ -4899,8 +4899,8 @@
       <tuv lang="en">
         <seg>The first topic reference in the DITA map from &lt;t0/&gt;Figure &lt;t1/&gt;5.1&lt;t2/&gt; &lt;t3/&gt;is the DITA task version of the marinara sauce recipe from&lt;t4/&gt; Chapter &lt;t5/&gt;1&lt;t6/&gt; &lt;t7/&gt;(&lt;t8/&gt;Figure &lt;t9/&gt;5.2&lt;t10/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T090534Z" creationid="DSS" creationdate="20200806T090153Z">
-        <seg>图5.1展示的 DITA 地图的第一个话题引自第1章中的意式番茄罗勒酱菜谱，它是一个 DITA 任务话题（图5.2）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T090641Z" creationid="DSS" creationdate="20200806T090153Z">
+        <seg>图5.1展示的 DITA 地图的第一个话题引自第1章中的意式番茄罗勒酱菜谱，它是一个 DITA 任务（task）话题（图5.2）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5092,10 +5092,8 @@
       <tuv lang="en">
         <seg>The second topic reference is the actual critique of the marinara sauce recipe, which can be structured as a DITA concept and look as &lt;t0/&gt;Figure &lt;t1/&gt;5.3&lt;t2/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T090601Z" creationid="DSS" creationdate="20200806T090529Z">
-        <seg>第一个话题引自对意式番茄罗勒酱菜谱的实际评论，它被构造成了DITA 概念（concept）话题，如图5.3所示。
-第三个话题引自“about”页面，展示Chef Pedro的信息，我在第2章中介绍过该页面，见图5.4。
-</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T090657Z" creationid="DSS" creationdate="20200806T090529Z">
+        <seg>第二个话题引自对意式番茄罗勒酱菜谱的实际评论，它被构造成了DITA 概念（concept）话题，如图5.3所示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5160,6 +5158,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T084855Z" creationid="DSS" creationdate="20200731T084840Z">
         <seg>该系统可用于制作自学书籍，也可用于规范计算机辅助教学的数据库。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The third topic reference is the “about” page with Chef Pedro's information, which I introduced in&lt;t0/&gt; Chapter &lt;t1/&gt;2&lt;t2/&gt; &lt;t3/&gt;and reproduce in &lt;t4/&gt;Figure &lt;t5/&gt;5.4&lt;t6/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T090721Z" creationid="DSS" creationdate="20200806T090721Z">
+        <seg>第三个话题引自“关于”页面，展示厨师佩德罗的信息，我在第2章中介绍过该页面，见图5.4。</seg>
       </tuv>
     </tu>
     <tu>
