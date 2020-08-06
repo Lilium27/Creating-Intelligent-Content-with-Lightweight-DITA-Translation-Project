@@ -430,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t12/&gt;Figure &lt;t13/&gt;5.1&lt;t14/&gt; &lt;t15/&gt;shows the recipe critiques DITA map, which you can save as &lt;t16/&gt;marinara-critique.ditamap&lt;t17/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T085605Z" creationid="DSS" creationdate="20200806T085605Z">
+        <seg>图5.1即为菜谱评论网站的 DITA 地图，你可以将其保存为 &lt;t16/&gt;marinara- reviews .ditamap&lt;t17/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t12/&gt;In May of &lt;t13/&gt;2014, &lt;t14/&gt;Priestley presented the XDITA/HDITA proposal in a webinar titled “Does DITA Need XML?” That month, he also submitted a formal proposal to the DITA Technical &lt;t15/&gt;Committee asking for the creation of a dedicated Lightweight DITA subcom&lt;t16/&gt;mittee.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T153525Z" creationid="DSS" creationdate="20200802T122613Z">
@@ -3119,6 +3127,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T082155Z" creationid="DSS" creationdate="20200731T082155Z">
         <seg>在这个例子中，这些指令规定了话题创建自轻量级 DITA 而不是完整的 DITA XML，所以不允许嵌套列表的出现，话题中不能包含子块。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this section, I will use a software tool to process the DITA map, from&lt;t8/&gt; Chapter &lt;t9/&gt;1&lt;t10/&gt;, &lt;t11/&gt;that Chef Pedro created for his recipe critiques website.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T085539Z" creationid="DSS" creationdate="20200806T085539Z">
+        <seg>在本节中，我将使用一个软件工具来处理来自第1章的DITA地图，该地图是厨师佩德罗为其菜谱评论网站创建的。</seg>
       </tuv>
     </tu>
     <tu>
