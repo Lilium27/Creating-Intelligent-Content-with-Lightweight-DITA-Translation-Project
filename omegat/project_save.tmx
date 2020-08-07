@@ -3292,6 +3292,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this specific example, the map will only reference those topics that are needed to build a promotional brochure for the &lt;t4/&gt;Sensei Sushi&lt;t5/&gt; franchise opportunity.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T061002Z" creationid="DSS" creationdate="20200807T061002Z">
+        <seg>在下面这个特定的例子中，地图将只引用那些有助于构建 &lt;t4/&gt;Sensei Sushi&lt;t5/&gt; 品牌加盟宣传手册的话题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In using terminology from evolution to describe  how genres change (or evolve) in society, Miller does not “want to be under- stood as suggesting that our understanding of cultural change must borrow  from biology.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T082834Z" creationid="DSS" creationdate="20200730T082834Z">
@@ -5026,6 +5034,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The brochure will include the following sections (each section will be in a separate LwDITA topic):</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T061009Z" creationid="DSS" creationdate="20200807T061009Z">
+        <seg>手册将包括以下部分（每个部分都是一个单独的 LwDITA 话题）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The combination of XML, HTML5, and Markdown in the initial LwDITA authoring formats enhances the diversity of authors in a DITA- like environment, but it also represents challenges for compatibility and equivalency of models and structures.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T162926Z" creationid="DSS" creationdate="20200804T162926Z">
@@ -5807,6 +5823,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T125644Z" creationid="DSS" creationdate="20200724T125644Z">
         <seg>尽管 DTD 只是用于校验这些文件结构的标记语言之一，这些预先建立的内容类型通常由 DTD 文件执行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Those topics can be present in several combinations grouped in maps.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T060945Z" creationid="DSS" creationdate="20200807T060945Z">
+        <seg>这些话题可以在地图中分为不同的组合。</seg>
       </tuv>
     </tu>
     <tu>
