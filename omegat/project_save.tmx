@@ -744,8 +744,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;The web deliverable that Chef Pedro needs for this project should include the following sections:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150149Z" creationid="DSS" creationdate="20200725T151737Z">
-        <seg>&lt;t3/&gt;对于这个项目佩德罗所需要的 web 交付内容应该包括以下部分：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T035804Z" creationid="DSS" creationdate="20200725T151737Z">
+        <seg>&lt;t3/&gt;对于这个项目佩德罗所需要的网页交付内容应该包括以下部分：</seg>
       </tuv>
     </tu>
     <tu>
@@ -1056,8 +1056,8 @@
       <tuv lang="en">
         <seg>A basic topic can also include a flexible procedure, or even provide pointers for a web-based product tour with some JavaScript processing, among many other applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T091103Z" creationid="DSS" creationdate="20200725T091054Z">
-        <seg>一个基本话题的操作非常灵活，甚至可以用 JavaScrip t脚本为 web 产品的体验提供标识。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T035753Z" creationid="DSS" creationdate="20200725T091054Z">
+        <seg>一个基本话题的操作非常灵活，甚至可以用 JavaScript 脚本为网页产品的体验提供标识。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6215,8 +6215,8 @@
       <tuv lang="en">
         <seg>kitchen team requires a web version of the recipe, the DITA-OT also provides that option and allows the author to link to a Cascading Style Sheet (CSS) file for formatting and design (&lt;t0/&gt;Figure &lt;t1/&gt;1.5&lt;t2/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145346Z" creationid="DSS" creationdate="20200725T074323Z">
-        <seg>需要一份 web 形式的菜谱，DITA-OT 也提供了这个选项，并允许作者为网页的格式和设计嵌入层叠样式表（Cascading Style Sheet, CSS）文件（&lt;t0/&gt;图&lt;t1/&gt;1.5&lt;t2/&gt;）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T035736Z" creationid="DSS" creationdate="20200725T074323Z">
+        <seg>需要一份网页形式的菜谱，DITA-OT 也提供了这个选项，并允许作者为网页的格式和设计嵌入层叠样式表（Cascading Style Sheet, CSS）文件（&lt;t0/&gt;图&lt;t1/&gt;1.5&lt;t2/&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6255,8 +6255,8 @@
       <tuv lang="en">
         <seg>the map to a web deliverable.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T071354Z" creationid="DSS" creationdate="20200726T071354Z">
-        <seg>一个 web 交付物。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T035811Z" creationid="DSS" creationdate="20200726T071354Z">
+        <seg>一个网页交付物。</seg>
       </tuv>
     </tu>
     <tu>
