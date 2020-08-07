@@ -14,22 +14,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>(Day et al., &lt;t0/&gt;2001).</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144125Z" creationid="DSS" creationdate="20200726T154727Z">
-        <seg>（戴等，&lt;t0/&gt;2001年）。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>(Day, quoted in DitaWriter, &lt;t0/&gt;2016)</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144117Z" creationid="DSS" creationdate="20200726T154704Z">
-        <seg>（戴，引自DitaWriter，&lt;t0/&gt;2016年）</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>(Hackos, &lt;t0/&gt;2016, &lt;t1/&gt;p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T124859Z" creationid="DSS" creationdate="20200726T093817Z">
@@ -1728,8 +1712,8 @@
       <tuv lang="en">
         <seg>By &lt;t2/&gt;1999, &lt;t3/&gt;Dave was aware of my participation as IBM's primary representa&lt;t4/&gt;tive with the XSLT and CSS standards activities at the World Wide Web Consortium, and I delivered a presentation at a formative meeting in California that forecast the possibility of XML to solve IBM's still-linger&lt;t5/&gt;ing problems with variant tools and markup usage.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144108Z" creationid="DSS" creationdate="20200726T154657Z">
-        <seg>&lt;t2/&gt;1999年，&lt;t3/&gt;戴夫知道我作为 IBM 的主要代表参与万维网联盟关于 XSLT 和 CSS 标准的活动,，并在加州一个影响重大的会议上做了一次演讲，预言可以使用通过各种工具和标记，借助 XML 来解决 IBM 目前仍然存在的问题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T035949Z" creationid="DSS" creationdate="20200726T154657Z">
+        <seg>&lt;t2/&gt;1999年，&lt;t3/&gt;戴夫知道我作为 IBM 的主要代表参与了万维网联盟关于 XSLT 和 CSS 标准的活动，并在加州一个影响重大的会议上做了一次演讲，预言可以通过使用各种工具和标记，借助 XML 来解决 IBM 目前仍然存在的问题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2285,8 +2269,8 @@
       <tuv lang="en">
         <seg>FIGURE 1.7 &lt;t0/&gt;Navigation menu for a web transformation of Chef Pedro's recipe&lt;t1/&gt; critique project.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T114226Z" creationid="DSS" creationdate="20200726T080726Z">
-        <seg>图1.7 &lt;t0/&gt;佩德罗菜谱&lt;t1/&gt;评价项目 web 输出物的导航菜单。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T035819Z" creationid="DSS" creationdate="20200726T080726Z">
+        <seg>图1.7 &lt;t0/&gt;佩德罗菜谱&lt;t1/&gt;评价项目网页输出物的导航菜单。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4311,8 +4295,8 @@
       <tuv lang="en">
         <seg>Priestley is quoted saying: “In IBM, some folks hate DITA, and they don't even want to use (Microsoft) Word, but (prefer) simple web forms or Markdown syntax.” He added that includ&lt;t0/&gt;ing Markdown in Lightweight DITA could open up “opportunities in both directions, (as it) provides (an) integration point against (the) whole corporate content spectrum” (DITA Technical Committee, 2014).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T154923Z" creationid="DSS" creationdate="20200802T154923Z">
-        <seg>记录里记载了普里斯特利说的话：“在 IBM，有些人讨厌 DITA，甚至不想用（微软的）Word，而（更喜欢）简单的 web 表单或 Markdown 语法。”他还说，在轻量级 DITA中 包括 Markdown 可能会打开“两个方向的机会，（因为） Markdown 是公司所有内容的集成点”（DITA 技术委员会，2014年）。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T035921Z" creationid="DSS" creationdate="20200802T154923Z">
+        <seg>记录里记载了普里斯特利说的话：“在 IBM，有些人讨厌 DITA，甚至不想用（微软的）Word，而（更喜欢）简单的网页表单或 Markdown 语法。”他还说，在轻量级 DITA中 包括 Markdown 可能会打开“两个方向的机会，（因为） Markdown 是公司所有内容的集成点”（DITA 技术委员会，2014年）。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -4875,8 +4859,8 @@
       <tuv lang="en">
         <seg>The DITA-OT generated the menu and took care of basic layout for this web deliverable.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T080923Z" creationid="DSS" creationdate="20200726T080923Z">
-        <seg>DITA-OT 生成了菜单，并负责该 web 交付物的基本布局。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T035843Z" creationid="DSS" creationdate="20200726T080923Z">
+        <seg>DITA-OT 生成了菜单，并负责该网页交付物的基本布局。</seg>
       </tuv>
     </tu>
     <tu>
