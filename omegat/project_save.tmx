@@ -2293,8 +2293,8 @@
       <tuv lang="en">
         <seg>FIGURE 5.6 &lt;t0/&gt;Command for the DITA-OT to generate a web deliverable from the&lt;t1/&gt; marinara sauce critique DITA map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T035726Z" creationid="DSS" creationdate="20200807T035726Z">
-        <seg>图5.6 &lt;t0/&gt;用 DITA-OT 将意式番茄罗勒酱评论的 DITA 地图生成网页交付物所需输入的命令。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T040840Z" creationid="DSS" creationdate="20200807T035726Z">
+        <seg>图5.6 &lt;t0/&gt;利用 DITA-OT 将意式番茄罗勒酱评论的 DITA 地图生成网页交付物所需输入的命令。</seg>
       </tuv>
     </tu>
     <tu>
