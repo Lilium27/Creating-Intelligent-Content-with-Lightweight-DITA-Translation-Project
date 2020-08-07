@@ -695,6 +695,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t3/&gt;Figure &lt;t4/&gt;5.11 &lt;t5/&gt;shows a simple web view of the HDITA map, without any content processing or formatting, as seen on a browser.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T075006Z" creationid="DSS" creationdate="20200807T075006Z">
+        <seg>&lt;t3/&gt;图&lt;t4/&gt;5.11&lt;t5/&gt;展示了由 HDITA 地图生成的简单网页，没有做任何内容处理，也没有添加额外的格式，就像在浏览器上看到的那样。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t3/&gt;I insisted on the potential consequences of losing the flagship genre of technical communication, and Carroll painted a bigger picture: &lt;t4/&gt;“It's not just the manual, but the world has changed, and the software and docu&lt;t5/&gt;mentation business model.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T155312Z" creationid="lenovo" creationdate="20200731T135041Z">
@@ -1179,6 +1187,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200731T140143Z" creationid="lenovo" creationdate="20200731T140143Z">
         <seg>实际上，（手册消失）的原因并不是极简主义而是金钱。”卡罗尔解释道，利用笔记本和智能机等计算系统（价钱要远低于上世纪80年代以前的大型机），“没法生产出既定义明确又价格低廉的手册”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Additionally, Chef Pedro could link the HDITA topics to an external CSS file for formatting.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T074953Z" creationid="DSS" creationdate="20200807T074953Z">
+        <seg>此外，佩德罗还可以将 HDITA 话题与外部 CSS 文件进行关联，将网页格式化。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3064,6 +3080,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145329Z" creationid="DSS" creationdate="20200725T074205Z">
         <seg>如果副厨师长需要一个可打印的 PDF 版本的菜谱，佩德罗可以自己制作生成，不需要聘请任何模板设计师（&lt;t4/&gt;图&lt;t5/&gt;1.4&lt;t6/&gt;）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If all Chef Pedro needed were a basic web version of the brochure, and if all the topics referenced in the map were also created in HDITA, this version of the map could provide the navigation structure for it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T074947Z" creationid="DSS" creationdate="20200807T074947Z">
+        <seg>如果厨师佩德罗需要的只是一个简单的网页版宣传手册，并且地图中引用的所有话题都是由 HDITA 格式创建的，那么地图就可以提供导航结构。</seg>
       </tuv>
     </tu>
     <tu>
