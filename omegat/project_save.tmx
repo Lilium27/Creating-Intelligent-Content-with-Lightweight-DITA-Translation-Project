@@ -5611,6 +5611,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Then, you can save the file as &lt;t4/&gt;sen- sei-brochure.ditamap&lt;t5/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T064919Z" creationid="DSS" creationdate="20200807T064919Z">
+        <seg>然后，你可以将文件保存为 &lt;t4/&gt;sen- sei-brochure.ditamap&lt;t5/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There are jokes in DITA circles about the draconian nature of DITA-OT error messages.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T133155Z" creationid="DSS" creationdate="20200806T133027Z">
@@ -6360,8 +6368,8 @@
       <tuv lang="en">
         <seg>You can create the XDITA map from &lt;t0/&gt;Figure &lt;t1/&gt;5.8&lt;t2/&gt; &lt;t3/&gt;in any text editor or in a LwDITA-aware tool like Oxygen XML Editor.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T064851Z" creationid="DSS" creationdate="20200807T064851Z">
-        <seg>你可以在任何文本编辑器或 Oxygen XML editor 等支持 LwDITA 的工具中创建图5.8中的 XDITA 地图。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T064934Z" creationid="DSS" creationdate="20200807T064851Z">
+        <seg>你可以在任何文本编辑器或 Oxygen XML Editor 等支持 LwDITA 的工具中创建图5.8中的 XDITA 地图。</seg>
       </tuv>
     </tu>
     <tu>
