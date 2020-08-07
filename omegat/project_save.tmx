@@ -2436,6 +2436,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Figure &lt;t0/&gt;5.9&lt;t1/&gt; &lt;t2/&gt;shows the DITA-OT command for processing an XDITA map and producing a PDF deliverable, which looks very similar to the one used for the DITA map transformation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T070824Z" creationid="DSS" creationdate="20200807T070824Z">
+        <seg>图&lt;t0/&gt;5.9&lt;t1/&gt;&lt;t2/&gt;展示了用于处理 XDITA 地图并生成 PDF 交付文件的 DITA-OT 命令，它与转换 DITA 地图的命令非常相似。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Figure&lt;t0/&gt;: a container for a variety of objects, including artwork, images, code samples, equations, and tables.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T131133Z" creationid="DSS" creationdate="20200804T131133Z">
