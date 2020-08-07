@@ -441,8 +441,8 @@
       <tuv lang="en">
         <seg>&lt;t12/&gt;You can download these code samples from the &lt;t13/&gt;Creating Intelligent Content with Lightweight DITA&lt;t14/&gt; GitHub repository (&lt;t15/&gt;https://github.com/carlosevia/lwdita-book&lt;t16/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145109Z" creationid="DSS" creationdate="20200725T064748Z">
-        <seg>&lt;t12/&gt;你可以从&lt;t13/&gt;本书&lt;t14/&gt; Github 仓库中（&lt;t15/&gt;https://github.com/carlosevia/lwdita-book&lt;t16/&gt;）下载这些代码示例。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T065240Z" creationid="DSS" creationdate="20200725T064748Z">
+        <seg>&lt;t12/&gt;你可以从 &lt;t13/&gt;Creating Intelligent Content with Lightweight DITA&lt;t14/&gt; Github 仓库中（&lt;t15/&gt;https://github.com/carlosevia/lwdita-book&lt;t16/&gt;）下载这些代码示例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1611,6 +1611,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150027Z" creationid="DSS" creationdate="20200725T143911Z">
         <seg>在不深入讨论如何定制 DITA 话题的情况下，我们来看一下各种话题。 &lt;t2/&gt;&lt;concept&gt; &lt;t3/&gt;和&lt;t4/&gt;&lt;task&gt; &lt;t5/&gt;是为最初通用的 &lt;t7/&gt;&lt;topic&gt;&lt;t8/&gt; 特别定制的，而为 &lt;t9/&gt;&lt;task&gt; &lt;t10/&gt; 又再具体定制了 &lt;t11/&gt;&lt;recipe&gt;&lt;t12/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>At this point we still won't have any actual topics with content; how&lt;t8/&gt;ever, you can download these sample files from the &lt;t9/&gt;Creating Intelligent Content with Lightweight DITA&lt;t10/&gt; GitHub repository (&lt;t11/&gt;https://github.com/carlosevia/&lt;t12/&gt; &lt;t13/&gt;lwdita-book&lt;t14/&gt;) and generate deliverables following the steps and examples from this chapter.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T065127Z" creationid="DSS" creationdate="20200807T065127Z">
+        <seg>所以目前我们没有包含内容的实际话题。但是你可以从 &lt;t9/&gt;Creating Intelligent Content with Lightweight DITA&lt;t10/&gt; GitHub 存储库 (&lt;t11/&gt;https://github.com/carlosevia/&lt;t12/&gt; &lt;t13/&gt;lwdita-book&lt;t14/&gt;) 下载这些样本文件，并按照本章中的步骤和示例生成交付物。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4169,6 +4177,14 @@
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T081614Z" creationid="DSS" creationdate="20200726T154317Z">
         <seg>奥基夫提供的菜谱示例&lt;t0/&gt;1&lt;t1/&gt;包括一个主包含元素（&lt;t3/&gt;&lt;Recipe&gt;&lt;t4/&gt;），该元素又包含几个子元素（&lt;t5/&gt;&lt;Name&gt;&lt;t6/&gt;， &lt;t7/&gt;&lt;IngredientList&gt;&lt;t8/&gt;和&lt;t9/&gt;&lt;Instructions&gt;&lt;t10/&gt;）。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Of course, you will also need all the topics that the map references (inside each &lt;t6/&gt;&lt;topicref&gt; &lt;t7/&gt;tag), but we will work with those in the next chapter.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T064957Z" creationid="DSS" creationdate="20200807T064957Z">
+        <seg>当然，你还需要创建地图引用的所有话题（即每个 &lt;t6/&gt;&lt;topicref&gt; &lt;t7/&gt;标签里的内容），不过这将在下一章进行讲解，</seg>
       </tuv>
     </tu>
     <tu>
