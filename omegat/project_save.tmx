@@ -2444,6 +2444,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;5.10 &lt;t1/&gt;HDITA version of the map to create the &lt;t2/&gt;Sensei Sushi&lt;t3/&gt; promotional&lt;t4/&gt; brochure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T075207Z" creationid="DSS" creationdate="20200807T075105Z">
+        <seg>图&lt;t0/&gt;5.10 &lt;t1/&gt;用于创建 &lt;t2/&gt;Sensei Sushi&lt;t3/&gt; 宣传手册的 HDITA 格式地图。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;5.2 &lt;t1/&gt;Marinara sauce recipe as a DITA task.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T093517Z" creationid="DSS" creationdate="20200806T093517Z">
@@ -2486,8 +2494,8 @@
       <tuv lang="en">
         <seg>Figure &lt;t0/&gt;5.10 &lt;t1/&gt;shows the HDITA version of the map for creating the brochure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T072510Z" creationid="DSS" creationdate="20200807T072510Z">
-        <seg>图&lt;t0/&gt;5.10 &lt;t1/&gt;用于创建宣传手册的 HDITA 格式地图。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T075131Z" creationid="DSS" creationdate="20200807T072510Z">
+        <seg>图&lt;t0/&gt;5.10&lt;t1/&gt;展示了用于创建宣传手册的 HDITA 格式地图。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5074,10 +5082,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;t5/&gt;&lt;nav&gt; &lt;t6/&gt;element works as a parent for &lt;t7/&gt;&lt;li&gt; &lt;t8/&gt;elements that reference specific topics.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T075311Z" creationid="DSS" creationdate="20200807T075311Z">
+        <seg> &lt;t5/&gt;&lt;nav&gt; &lt;t6/&gt;元素是&lt;t7/&gt; &lt;li&gt; &lt;t8/&gt;元素的父级元素，用于引用特定的话题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;t7/&gt;&lt;topicmeta&gt; &lt;t8/&gt;element at the map level (in bold font) provides the main title (&lt;t9/&gt;&lt;navtitle&gt;&lt;t10/&gt;) for deliverables produced with this specific map.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T070133Z" creationid="DSS" creationdate="20200807T070133Z">
         <seg>地图级别的 &lt;t7/&gt;&lt;topicmeta&gt; &lt;t8/&gt;元素（粗体）为使用该特定地图生成的可交付内容定义了主标题(&lt;t9/&gt; &lt;navtitle&gt;&lt;t10/&gt;)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;t9/&gt;&lt;h1&gt; &lt;t10/&gt;element at the map level (in bold font) provides the main title for deliverables produced with this specific map.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T075506Z" creationid="DSS" creationdate="20200807T075506Z">
+        <seg>地图级别的 &lt;t9/&gt;&lt;h1&gt; &lt;t10/&gt;元素（粗体）为使用该特定地图生成的可交付内容定义了主标题。</seg>
       </tuv>
     </tu>
     <tu>
