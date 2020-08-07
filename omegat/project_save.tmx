@@ -2443,6 +2443,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, Linda Flower explored transferable tasks in professional writing through the use of schemas and writing plans, acknowledging that “many discourse conventions are, in fact, formalizations of rhetorical moves” (Flower, &lt;t0/&gt;1989, &lt;t1/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200807T014143Z" creationid="lenovo" creationdate="20200807T014143Z">
+        <seg>例如， (Flower, &lt;t0/&gt;1989, &lt;t1/&gt;p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, a concept could be an introduction to the sauces section in Chef Pedro's recipe book, while tasks can provide recipes for specific salsas and condiments (he can write a step about dicing tomatoes once and reuse in all the recipes that need it!), and a ref&lt;t0/&gt;erence topic can list common techniques and tools for preparing ingredients.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T075303Z" creationid="DSS" creationdate="20200724T162425Z">
@@ -3341,8 +3349,8 @@
       <tuv lang="en">
         <seg>It guides authors and lets them know what is required and when they have completed the task in a satisfactory manner.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T032432Z" creationid="lenovo" creationdate="20200805T032432Z">
-        <seg>它能为创作者提供指导并告知需求与</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T063744Z" creationid="lenovo" creationdate="20200805T032432Z">
+        <seg>它能为创作者提供指导、告知需求并在需求得到满足时告知创作者任务已完成。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5158,6 +5166,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150112Z" creationid="DSS" creationdate="20200725T144801Z">
         <seg>组合话题集合的过程依赖于 DITA 地图的映射关系，DITA 地图是“将话题绑定在一起的粘合剂，是生成输出物的驱动器，也是用户可以遵循的信息路径”（贝拉米等人，&lt;t1/&gt;2012年，&lt;t2/&gt;第</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The process of identifying, documenting, and implementing common structures to preserve order and rules in the content produced by technical and professional communicators follows a longstanding tradition of applied rhetoric in writing studies.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T070450Z" creationid="lenovo" creationdate="20200805T070450Z">
+        <seg>为了保证职业技术传播工程师创建的内容的秩序和规则，确定、记录和采用通用结构的过程必须遵从一个长期存在的传统，而这个传统即为写作研究中的应用修辞。</seg>
       </tuv>
     </tu>
     <tu>
