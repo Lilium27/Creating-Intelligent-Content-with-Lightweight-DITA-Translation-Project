@@ -6004,10 +6004,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Topic reference (&lt;t0/&gt;&lt;topicref&gt;&lt;t1/&gt;) &lt;t2/&gt;- &lt;t3/&gt;identifies and links to a topic or external content source.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T063520Z" creationid="DSS" creationdate="20200807T063520Z">
+        <seg>话题引用(&lt;t0/&gt;&lt;topicref&gt;&lt;t1/&gt;)&lt;t2/&gt;&lt;t3/&gt;用于标识或链接某个话题或外部内容资源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Topic reference&lt;t0/&gt;: identifies and links to a topic or external content source.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T063048Z" creationid="DSS" creationdate="20200804T153729Z">
-        <seg>话题引用（topic reference）&lt;t0/&gt;：话题或外部内容资源相联系的标识或链接。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T063623Z" creationid="DSS" creationdate="20200804T153729Z">
+        <seg>话题引用（topic reference）&lt;t0/&gt;：标识或链接到某个话题或外部内容资源。</seg>
       </tuv>
     </tu>
     <tu>
