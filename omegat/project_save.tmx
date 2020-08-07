@@ -3092,6 +3092,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In &lt;t0/&gt;Chapter &lt;t1/&gt;3&lt;t2/&gt; &lt;t3/&gt;I introduced the components of a LwDITA map, and those are expressed in XDITA as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T062627Z" creationid="DSS" creationdate="20200807T062627Z">
+        <seg>在&lt;t0/&gt;第&lt;t1/&gt;3&lt;t2/&gt;&lt;t3/&gt;章中，我介绍了构建 LwDITA 地图的组件，这些组件在 XDITA 中可以用如下方式表示：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In &lt;t1/&gt;Chapter &lt;t2/&gt;1&lt;t3/&gt;, &lt;t4/&gt;I mentioned an example of Chef Pedro, who could &lt;t5/&gt;specialize&lt;t6/&gt; ele&lt;t7/&gt;ments of the DITA task content type into more meaningful components for his intended purpose (i.e., &lt;t8/&gt;&lt;ingredients&gt; &lt;t9/&gt;as a specialization of the default &lt;t10/&gt;&lt;prereq&gt; &lt;t11/&gt;for pre-requisites).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T160115Z" creationid="lenovo" creationdate="20200804T080138Z">
@@ -5010,6 +5018,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The LwDITA map to create the &lt;t0/&gt;Sensei Sushi&lt;t1/&gt; brochure can be represented in the three initial LwDITA authoring formats, as I explain in the following sections.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T062420Z" creationid="DSS" creationdate="20200807T062420Z">
+        <seg>用于创建 &lt;t0/&gt;Sensei Sushi&lt;t1/&gt; 手册的 LwDITA 地图可以用三种最初的 LwDITA 写作格式来表示，我将在下面的部分中进行解释。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The LwDITA technical specification is the authoritative source for producing and processing content across the LwDITA authoring formats.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T082928Z" creationid="DSS" creationdate="20200806T082928Z">
@@ -5062,6 +5078,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T122837Z" creationid="DSS" creationdate="20200730T122837Z">
         <seg>LwDITA 缓慢而又井然有序的发展历程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The XDITA Map</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T062442Z" creationid="DSS" creationdate="20200807T062442Z">
+        <seg>XDITA 格式的地图</seg>
       </tuv>
     </tu>
     <tu>
