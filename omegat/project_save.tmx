@@ -5066,6 +5066,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The examples included in the following sections, and con&lt;t0/&gt;tinued in &lt;t1/&gt;Chapter &lt;t2/&gt;6&lt;t3/&gt;, &lt;t4/&gt;are based on this scenario:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T043356Z" creationid="DSS" creationdate="20200807T043356Z">
+        <seg>下面几节以及&lt;t1/&gt;第&lt;t2/&gt;6&lt;t3/&gt;&lt;t4/&gt;章中的示例都是基于此概念而来的:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The first topic reference in the DITA map from &lt;t0/&gt;Figure &lt;t1/&gt;5.1&lt;t2/&gt; &lt;t3/&gt;is the DITA task version of the marinara sauce recipe from&lt;t4/&gt; Chapter &lt;t5/&gt;1&lt;t6/&gt; &lt;t7/&gt;(&lt;t8/&gt;Figure &lt;t9/&gt;5.2&lt;t10/&gt;).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T153800Z" creationid="DSS" creationdate="20200806T090153Z">
@@ -5199,6 +5207,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T123643Z" creationid="DSS" creationdate="20200730T123643Z">
         <seg>著名的约翰·戈弗雷·萨克森（John Godfrey Saxe）曾说过，“法律就像香肠一样，当我们知道它是如何被制造出来的时候，它就不会再得到人们的尊重了。”这句话通常被误传为奥托·冯·俾斯麦（Otto von Bismarck）所说。网页设计师杰弗里·维恩（Jeffrey Veen）在他名为《得体》（&lt;t0/&gt;Presentable&lt;t1/&gt;）的播客中，将各种标准也加入到节目内容当中（维恩，&lt;t2/&gt;2017年）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The process for generating end user deliverables from DITA maps is the same for transforming LwDITA maps (regardless of XDITA, HDITA, or MDITA authoring format).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T042224Z" creationid="DSS" creationdate="20200807T042224Z">
+        <seg>从DITA地图生成用户交付物的过程与从 LwDITA 地图（XDITA、HDITA 或 MDITA 写作格式皆可）生成交付物的过程是一样的。</seg>
       </tuv>
     </tu>
     <tu>
