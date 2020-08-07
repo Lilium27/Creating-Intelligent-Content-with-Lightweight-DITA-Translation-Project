@@ -1617,8 +1617,8 @@
       <tuv lang="en">
         <seg>At this point we still won't have any actual topics with content; how&lt;t8/&gt;ever, you can download these sample files from the &lt;t9/&gt;Creating Intelligent Content with Lightweight DITA&lt;t10/&gt; GitHub repository (&lt;t11/&gt;https://github.com/carlosevia/&lt;t12/&gt; &lt;t13/&gt;lwdita-book&lt;t14/&gt;) and generate deliverables following the steps and examples from this chapter.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T065127Z" creationid="DSS" creationdate="20200807T065127Z">
-        <seg>所以目前我们没有包含内容的实际话题。但是你可以从 &lt;t9/&gt;Creating Intelligent Content with Lightweight DITA&lt;t10/&gt; GitHub 存储库 (&lt;t11/&gt;https://github.com/carlosevia/&lt;t12/&gt; &lt;t13/&gt;lwdita-book&lt;t14/&gt;) 下载这些样本文件，并按照本章中的步骤和示例生成交付物。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T065306Z" creationid="DSS" creationdate="20200807T065127Z">
+        <seg>所以目前我们没有包含内容的实际话题。但是你可以从 &lt;t9/&gt;Creating Intelligent Content with Lightweight DITA&lt;t10/&gt; GitHub 仓库 (&lt;t11/&gt;https://github.com/carlosevia/&lt;t12/&gt; &lt;t13/&gt;lwdita-book&lt;t14/&gt;) 下载这些样本文件，并按照本章中的步骤和示例生成交付物。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2408,6 +2408,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T095526Z" creationid="DSS" creationdate="20200806T095526Z">
         <seg>图&lt;t0/&gt;5.3&lt;t1/&gt;改造成 DITA 概念（concept）话题的意式番茄罗勒酱菜谱评价</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;5.8 &lt;t1/&gt;XDITA version of the map to create the Sensei Sushi promotional&lt;t2/&gt; brochure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T065424Z" creationid="DSS" creationdate="20200807T065351Z">
+        <seg>图&lt;t0/&gt;5.8 &lt;t1/&gt;用于创建 Sensei Sushi 宣传手册的 XDITA 格式地图。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4958,6 +4966,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T045319Z" creationid="DSS" creationdate="20200807T045243Z">
         <seg>&lt;t0/&gt;Sensei Sushi&lt;t1/&gt; 内容库包括许多为不同受众和语境提供信息的文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;t3/&gt;&lt;map&gt; &lt;t4/&gt;element works as a parent for &lt;t5/&gt;&lt;topicref&gt; &lt;t6/&gt;elements that reference specific topics.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T065525Z" creationid="DSS" creationdate="20200807T065525Z">
+        <seg> &lt;t3/&gt;&lt;map&gt; &lt;t4/&gt;元素是&lt;t5/&gt; &lt;topicref&gt; &lt;t6/&gt;元素的父级元素，用于引用特定的话题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;t7/&gt;&lt;topicmeta&gt; &lt;t8/&gt;element at the map level (in bold font) provides the main title (&lt;t9/&gt;&lt;navtitle&gt;&lt;t10/&gt;) for deliverables produced with this specific map.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T070133Z" creationid="DSS" creationdate="20200807T070133Z">
+        <seg>地图级别的 &lt;t7/&gt;&lt;topicmeta&gt; &lt;t8/&gt;元素（粗体）为使用该特定地图生成的可交付内容定义了主标题(&lt;t9/&gt; &lt;navtitle&gt;&lt;t10/&gt;)。</seg>
       </tuv>
     </tu>
     <tu>
