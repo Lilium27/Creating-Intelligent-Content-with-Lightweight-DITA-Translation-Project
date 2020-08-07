@@ -903,6 +903,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t5/&gt;represented in HDITA are the navigation element (&lt;t6/&gt;&lt;nav&gt;&lt;t7/&gt;) for open&lt;t8/&gt;i&lt;t9/&gt;ng a map environment, the title (&lt;t10/&gt;&lt;title&gt; &lt;t11/&gt;and &lt;t12/&gt;&lt;h1&gt;&lt;t13/&gt;5&lt;t14/&gt;) to label the map and its deliverables, and a hyper reference inside a list item (&lt;t15/&gt;&lt;a href&gt; &lt;t16/&gt;inside a &lt;t17/&gt;&lt;li&gt;&lt;t18/&gt;) to express a topic reference.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T072106Z" creationid="DSS" creationdate="20200807T072106Z">
+        <seg>&lt;t5/&gt;有用以创建地图环境的导航元素 (&lt;t6/&gt;&lt;nav&gt;&lt;t7/&gt;)，标记地图及其交付物的标题元素 (&lt;t10/&gt;&lt;title&gt; &lt;t11/&gt;and &lt;t12/&gt;&lt;h1&gt;&lt;t13/&gt;5&lt;t14/&gt;)，以及表示话题引用的超级引用元素，该元素嵌套在列表项元素中 （即&lt;t15/&gt;&lt;a href&gt; &lt;t16/&gt;嵌套在 &lt;t17/&gt;&lt;li&gt;&lt;t18/&gt;中）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t6/&gt;A casualty in the manual's demise, one could argue, was the main line of research that connected prac&lt;t7/&gt;titioners and academics in technical communication.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T013749Z" creationid="lenovo" creationdate="20200722T031615Z">
@@ -5238,6 +5246,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T044232Z" creationid="DSS" creationdate="20200807T043637Z">
         <seg>目前，公司在内容上有很多需求：他们需要制作指导企业餐厅员工的手册，管理品牌特许经营权所有者的指导方针和期望。与此同时，因为餐饮行业的本质所需，他们还要集中管理受顾客喜爱的菜谱和原料，以便在打印版菜单或在线菜单等终端用户产品中复用。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The core components of a LwDITA map that can be</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T071832Z" creationid="DSS" creationdate="20200807T071832Z">
+        <seg>HDITA 中包含的 LwDITA 地图的核心组件</seg>
       </tuv>
     </tu>
     <tu>
