@@ -2436,10 +2436,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;5.9 &lt;t1/&gt;Command for the DITA-OT to generate a PDF deliverable from the&lt;t2/&gt; XDITA version of the &lt;t3/&gt;Sensei Sushi&lt;t4/&gt; brochure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T072411Z" creationid="DSS" creationdate="20200807T072411Z">
+        <seg>图5.9 &lt;t0/&gt;&lt;t1/&gt;利用 DITA-OT 将&lt;t3/&gt;Sensei Sushi&lt;t4/&gt; 手册的 XDITA 地图生成 PDF 交付物所需输入的命令。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Figure &lt;t0/&gt;1.6&lt;t1/&gt; &lt;t2/&gt;shows a very basic DITA map for Chef Pedro's recipe critique website.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T114223Z" creationid="DSS" creationdate="20200725T153515Z">
         <seg>图&lt;t0/&gt;1.6&lt;t1/&gt; &lt;t2/&gt;展示了佩德罗菜谱评价网站的一个非常基本的 DITA 地图。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;t0/&gt;5.10 &lt;t1/&gt;shows the HDITA version of the map for creating the brochure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T072510Z" creationid="DSS" creationdate="20200807T072510Z">
+        <seg>图&lt;t0/&gt;5.10 &lt;t1/&gt;用于创建宣传手册的 HDITA 格式地图。</seg>
       </tuv>
     </tu>
     <tu>
