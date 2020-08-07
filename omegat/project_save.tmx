@@ -1847,6 +1847,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Chef Pedro has been quite successful with his chain of restaurants &lt;t0/&gt;Sensei Sushi&lt;t1/&gt; and he has decided to franchise the brand.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T043421Z" creationid="DSS" creationdate="20200807T043421Z">
+        <seg>厨师佩德罗的 &lt;t0/&gt;Sensei Sushi&lt;t1/&gt; 连锁店经营得非常成功，他决定出售该品牌的特许经营权。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Chef Pedro, like many content owners in this world, has been using Microsoft Word for most of his information prod&lt;t2/&gt;ucts, and the publications department in his company takes some of those Word files and, through long sessions of copy and pasting, produces menus and flyers in Adobe InDesign and maintains the restaurant's website using WordPress.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153439Z" creationid="DSS" creationdate="20200726T153439Z">
@@ -5030,6 +5038,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T153945Z" creationid="DSS" creationdate="20200803T121609Z">
         <seg>白皮书名为《轻量级 DITA 简介》，由我、埃伯莱因和艾伦·豪泽编写。艾伦·豪泽是技术传播协会前主席，于2017年加入 LwDITA 小组委员会。&lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The content needs of the com&lt;t2/&gt;pany now are many: they will need guides for workers in the corporate-owned restaurants, guidelines and expectations for franchise owners, and because of the nature of this business (restaurants), they will also require collections of recipes and acceptable ingredients that can be reused in end-user products like a menu for print and online channels.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T043637Z" creationid="DSS" creationdate="20200807T043637Z">
+        <seg>目前，公司在内容上有很多需求：他们需要制作指导企业餐厅员工的手册，管理品牌特许权所有者的指导方针和期望。与此同时，因为餐饮行业的本质所需，他们还要集中管理受顾客喜爱的菜谱和原料，以便在打印版菜单或在线菜单等终端用户产品中复用。 </seg>
       </tuv>
     </tu>
     <tu>
