@@ -411,3 +411,4 @@ structured authoring	结构化创作
 writer	创作者
 LwDITA technical specification	《LwDITA 技术规范》
 order and rules	秩序和规则
+franchise owner	特许经营权所有者
