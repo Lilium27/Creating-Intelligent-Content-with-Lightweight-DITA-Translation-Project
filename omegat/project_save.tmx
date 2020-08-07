@@ -5723,6 +5723,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Then, they can save the file as &lt;t1/&gt;sensei-brochure.html&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T072847Z" creationid="DSS" creationdate="20200807T072847Z">
+        <seg>然后，他们可以将文件保存为 &lt;t1/&gt;sensei-brochure.html&lt;t2/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Then, you can save the file as &lt;t4/&gt;sen- sei-brochure.ditamap&lt;t5/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T064919Z" creationid="DSS" creationdate="20200807T064919Z">
