@@ -4860,8 +4860,8 @@
       <tuv lang="en">
         <seg>The &lt;t0/&gt;Sensei Sushi&lt;t1/&gt; content repository includes many files that provide infor&lt;t2/&gt;mation for different audiences and contexts.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T045243Z" creationid="DSS" creationdate="20200807T045243Z">
-        <seg>&lt;t0/&gt;Sensei Sushi&lt;t1/&gt; 内容库包括许多为不同受众和语境提供信息的文件。&lt;t0/&gt;Sensei Sushi&lt;t1/&gt; </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T045319Z" creationid="DSS" creationdate="20200807T045243Z">
+        <seg>&lt;t0/&gt;Sensei Sushi&lt;t1/&gt; 内容库包括许多为不同受众和语境提供信息的文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5791,6 +5791,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150816Z" creationid="DSS" creationdate="20200726T085141Z">
         <seg>这些担忧和怀疑围绕着技术传播领域的一个主要差异点而存在：在工业界，XML 和 DITA 被广泛使用，一些批评者甚至认为它们过于复杂，并且已经过时；而在学术界，“尽管 DITA 在从业者编写的文档中扮演着核心角色，教师们却完全忽视了它”（克拉克，&lt;&lt;t2/&gt;2016年，&lt;t3/&gt;第</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Those files include topics with instructions for the corporate staff, restaurant operators, franchise owners, reci&lt;t3/&gt;pes for kitchen workers, and even maintenance guidelines for the engineering team.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T045310Z" creationid="DSS" creationdate="20200807T045310Z">
+        <seg>这些文件包含各种话题，其中有为公司员工、餐厅经营者、特许经营权所有者编写的说明，为厨房员工编写的菜谱，甚至还有为工程团队编写的维护指南。</seg>
       </tuv>
     </tu>
     <tu>
