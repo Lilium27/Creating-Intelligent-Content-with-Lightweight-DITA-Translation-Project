@@ -3860,6 +3860,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Map (&lt;t0/&gt;&lt;map&gt;&lt;t1/&gt;) &lt;t2/&gt;- &lt;t3/&gt;describes the relationships among a set of resources, such as LwDITA topics</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T062825Z" creationid="DSS" creationdate="20200807T062825Z">
+        <seg>地图 (&lt;t0/&gt;&lt;map&gt;&lt;t1/&gt;)&lt;t2/&gt;&lt;t3/&gt;描述了一组资源之间的关系，如一组 LwDITA 话题之间的关系。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Map Components</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T151530Z" creationid="DSS" creationdate="20200804T151530Z">
@@ -4000,6 +4008,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T131549Z" creationid="DSS" creationdate="20200801T131549Z">
         <seg>南希·哈里森：我认为可以这样回答“试试轻量级 DITA 吧”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Navigation title (&lt;t0/&gt;&lt;navtitle&gt;&lt;t1/&gt;) &lt;t2/&gt;- &lt;t3/&gt;provides an alternate title for a topic that becomes a part of navigation resources or tables of contents in deliverables</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T062937Z" creationid="DSS" creationdate="20200807T062937Z">
+        <seg>导航标题 (&lt;t0/&gt;&lt;navtitle&gt;&lt;t1/&gt;)&lt;t2/&gt;&lt;t3/&gt;为话题提供替代标题，是可交付内容中的导航资源或表格内容的一部分。</seg>
       </tuv>
     </tu>
     <tu>
