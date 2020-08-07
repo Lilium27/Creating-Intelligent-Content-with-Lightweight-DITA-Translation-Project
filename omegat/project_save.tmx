@@ -2925,8 +2925,8 @@
       <tuv lang="en">
         <seg>If something goes wrong during the transformation process (maybe one of your files had an extra tag, or there was a missing component in your version of the DITA-OT), the Toolkit will report an error.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T133012Z" creationid="DSS" creationdate="20200806T133012Z">
-        <seg>如果在转换过程中出现错误（可能因为某个文件有多余的标记，或者 DITA-OT 版本中缺少一个组件），DITA-OT 将报错。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T032425Z" creationid="DSS" creationdate="20200806T133012Z">
+        <seg>如果在转换过程中出现错误（可能因为某个文件有多余的标记，或者 DITA-OT 版本中缺少某个组件），DITA-OT 将报错。</seg>
       </tuv>
     </tu>
     <tu>
