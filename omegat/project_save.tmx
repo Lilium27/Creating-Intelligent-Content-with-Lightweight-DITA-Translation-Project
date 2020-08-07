@@ -2406,8 +2406,8 @@
       <tuv lang="en">
         <seg>FIGURE 5.7 &lt;t0/&gt;Navigation menu for a web transformation of Chef Pedro's recipe&lt;t1/&gt; critique project.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T043841Z" creationid="DSS" creationdate="20200807T043841Z">
-        <seg>图5.7 厨师佩德罗菜谱评价项目转换生成的网页版导航菜单。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T075952Z" creationid="DSS" creationdate="20200807T043841Z">
+        <seg>图5.7 &lt;t0/&gt;厨师佩德罗菜谱评价项目转换生成的网页版导航菜单。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6560,8 +6560,8 @@
       <tuv lang="en">
         <seg>You can create the XDITA map from &lt;t0/&gt;Figure &lt;t1/&gt;5.8&lt;t2/&gt; &lt;t3/&gt;in any text editor or in a LwDITA-aware tool like Oxygen XML Editor.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T064934Z" creationid="DSS" creationdate="20200807T064851Z">
-        <seg>你可以在任何文本编辑器或 Oxygen XML Editor 等支持 LwDITA 的工具中创建图5.8中的 XDITA 地图。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T080023Z" creationid="DSS" creationdate="20200807T064851Z">
+        <seg>你可以在任何文本编辑器或 Oxygen XML Editor 等支持 LwDITA 的工具中创建图&lt;t0/&gt;&lt;t1/&gt;5.8&lt;t2/&gt;&lt;t3/&gt;中的 XDITA 地图。</seg>
       </tuv>
     </tu>
     <tu>
