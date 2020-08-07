@@ -1079,6 +1079,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A conventional HTML editor probably will not be able to process the file as an HDITA map, and that's when the authors would need a LwDITA-aware tool or the DITA-OT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T073350Z" creationid="DSS" creationdate="20200807T073350Z">
+        <seg>传统的 HTML 编辑器可能无法解析 HDITA 地图，这时创作者就需要支持 LwDITA 的工具或 DITA-OT 的帮助。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A couple of months after he introduced the first LwDITA topic prototype, which he called the “strawman proposal,” Michael Priestley made an announce&lt;t0/&gt;ment that surprised more than one DITA user or developer: the Information Mapping&lt;t1/&gt;® &lt;t2/&gt;(IM) content types would be available in the LwDITA catalog of content templates.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T083915Z" creationid="DSS" creationdate="20200731T083915Z">
@@ -2768,6 +2776,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T124221Z" creationid="DSS" creationdate="20200802T124221Z">
         <seg>然而，当用户和研究参与者了解到在不使用XML的情况下也可以创建 DITA 内容时，许多人发出了相同的疑问：如果我们可以使用 HTML5 来表示 DITA 话题和元素，是否也可以使用 Markdown ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, because HDITA files are valid HTML5 files, they can be opened in a web browser and produce an instant deliverable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T073352Z" creationid="DSS" creationdate="20200807T073352Z">
+        <seg>不过因为 HDITA 文件是有效的 HTML5 文件，所以它们可以在网页浏览器中打开，并立刻生成可交付物。</seg>
       </tuv>
     </tu>
     <tu>
