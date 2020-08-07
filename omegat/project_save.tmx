@@ -1119,6 +1119,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A sample sushi recipe from the restaurant's cookbook.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T061938Z" creationid="DSS" creationdate="20200807T061938Z">
+        <seg>餐厅菜谱中的寿司食谱样例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A search for “XML” &lt;t2/&gt;on &lt;t3/&gt;amazon.com&lt;t4/&gt; reveals more than &lt;t5/&gt;1,100 &lt;t6/&gt;results under the “Books: Computers &lt;t7/&gt;&amp; &lt;t8/&gt;Technology: Programming Languages” category.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143718Z" creationid="DSS" creationdate="20200726T153159Z">
@@ -1339,6 +1347,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153037Z" creationid="DSS" creationdate="20200726T153037Z">
         <seg>技术传播中的 XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An action plan for potential franchise owners</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T061926Z" creationid="DSS" creationdate="20200807T061926Z">
+        <seg>为潜在的特许经营权所有者制定的行动计划</seg>
       </tuv>
     </tu>
     <tu>
@@ -2103,6 +2119,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T130321Z" creationid="DSS" creationdate="20200804T130321Z">
         <seg>描述（description）&lt;t0/&gt;：描述或包含对象的附加信息的语句。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Details about the franchise offer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T061913Z" creationid="DSS" creationdate="20200807T061913Z">
+        <seg>购买特许经营权的费用明细</seg>
       </tuv>
     </tu>
     <tu>
@@ -3372,6 +3396,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Introduction to the franchise opportunity</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T061907Z" creationid="DSS" creationdate="20200807T061907Z">
+        <seg>品牌加盟介绍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It aims to address concerns and doubts about the adoption and evolution of DITA as a major standard for technical publications.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T085122Z" creationid="DSS" creationdate="20200726T085122Z">
@@ -3624,6 +3656,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153031Z" creationid="DSS" creationdate="20200726T153031Z">
         <seg>最后，本章重点讨论了利用三种简化创作格式制定 DITA 工作流的策略，这些策略与计算思维原则有关，强调了在机器自动化之前人类抽象思维的重要性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Legal terms of the franchise agreement</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T061921Z" creationid="DSS" creationdate="20200807T061921Z">
+        <seg>特许经营权协议的法律条款</seg>
       </tuv>
     </tu>
     <tu>
