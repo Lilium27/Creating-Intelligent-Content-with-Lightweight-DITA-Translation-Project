@@ -3094,8 +3094,8 @@
       <tuv lang="en">
         <seg>In &lt;t0/&gt;Chapter &lt;t1/&gt;3&lt;t2/&gt; &lt;t3/&gt;I introduced the components of a LwDITA map, and those are expressed in XDITA as follows:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T062627Z" creationid="DSS" creationdate="20200807T062627Z">
-        <seg>在&lt;t0/&gt;第&lt;t1/&gt;3&lt;t2/&gt;&lt;t3/&gt;章中，我介绍了构建 LwDITA 地图的组件，这些组件在 XDITA 中可以用如下方式表示：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T063006Z" creationid="DSS" creationdate="20200807T062627Z">
+        <seg>在&lt;t0/&gt;第&lt;t1/&gt;3&lt;t2/&gt;&lt;t3/&gt;章中，我介绍了构建 LwDITA 地图的组件，在 XDITA 中这些组件的使用方式如下：</seg>
       </tuv>
     </tu>
     <tu>
@@ -5988,18 +5988,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Topic metadata (&lt;t0/&gt;&lt;topicmeta&gt;&lt;t1/&gt;) &lt;t2/&gt;- &lt;t3/&gt;defines the metadata that applies to a topic when it appears in a map</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T063236Z" creationid="DSS" creationdate="20200807T063035Z">
+        <seg>话题元数据(&lt;t0/&gt;&lt;topicmeta&gt;&lt;t1/&gt;)&lt;t2/&gt;&lt;t3/&gt;可以定义地图中用于描述话题的元数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Topic metadata&lt;t0/&gt;: defines the metadata that applies to a topic when it appears in a map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T153723Z" creationid="DSS" creationdate="20200804T153701Z">
-        <seg>主题元数据（topic metadata）&lt;t0/&gt;：定义地图中用于描述话题的元数据。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T063041Z" creationid="DSS" creationdate="20200804T153701Z">
+        <seg>话题元数据（topic metadata）&lt;t0/&gt;：定义地图中用于描述话题的元数据。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Topic reference&lt;t0/&gt;: identifies and links to a topic or external content source.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T153729Z" creationid="DSS" creationdate="20200804T153729Z">
-        <seg>主题引用（topic reference）&lt;t0/&gt;：话题或外部内容资源相联系的标识或链接。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T063048Z" creationid="DSS" creationdate="20200804T153729Z">
+        <seg>话题引用（topic reference）&lt;t0/&gt;：话题或外部内容资源相联系的标识或链接。</seg>
       </tuv>
     </tu>
     <tu>
