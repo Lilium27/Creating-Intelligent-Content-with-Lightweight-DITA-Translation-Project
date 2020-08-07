@@ -913,8 +913,8 @@
       <tuv lang="en">
         <seg>&lt;t5/&gt;represented in HDITA are the navigation element (&lt;t6/&gt;&lt;nav&gt;&lt;t7/&gt;) for open&lt;t8/&gt;i&lt;t9/&gt;ng a map environment, the title (&lt;t10/&gt;&lt;title&gt; &lt;t11/&gt;and &lt;t12/&gt;&lt;h1&gt;&lt;t13/&gt;5&lt;t14/&gt;) to label the map and its deliverables, and a hyper reference inside a list item (&lt;t15/&gt;&lt;a href&gt; &lt;t16/&gt;inside a &lt;t17/&gt;&lt;li&gt;&lt;t18/&gt;) to express a topic reference.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T072106Z" creationid="DSS" creationdate="20200807T072106Z">
-        <seg>&lt;t5/&gt;有用以创建地图环境的导航元素 (&lt;t6/&gt;&lt;nav&gt;&lt;t7/&gt;)，标记地图及其交付物的标题元素 (&lt;t10/&gt;&lt;title&gt; &lt;t11/&gt;and &lt;t12/&gt;&lt;h1&gt;&lt;t13/&gt;5&lt;t14/&gt;)，以及表示话题引用的超级引用元素，该元素嵌套在列表项元素中 （即&lt;t15/&gt;&lt;a href&gt; &lt;t16/&gt;嵌套在 &lt;t17/&gt;&lt;li&gt;&lt;t18/&gt;中）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T080238Z" creationid="DSS" creationdate="20200807T072106Z">
+        <seg>&lt;t5/&gt;有用以创建地图环境的导航元素 (&lt;t6/&gt;&lt;nav&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;)，标记地图及其交付物的标题元素 (&lt;t10/&gt;&lt;title&gt; &lt;t11/&gt;and &lt;t12/&gt;&lt;h1&gt;&lt;t13/&gt;5&lt;t14/&gt;)，以及表示话题引用的超级引用元素，该元素嵌套在列表项元素中 （即&lt;t15/&gt;&lt;a href&gt; &lt;t16/&gt;嵌套在 &lt;t17/&gt;&lt;li&gt;&lt;t18/&gt;中）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2446,8 +2446,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;5.10 &lt;t1/&gt;HDITA version of the map to create the &lt;t2/&gt;Sensei Sushi&lt;t3/&gt; promotional&lt;t4/&gt; brochure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T075207Z" creationid="DSS" creationdate="20200807T075105Z">
-        <seg>图&lt;t0/&gt;5.10 &lt;t1/&gt;用于创建 &lt;t2/&gt;Sensei Sushi&lt;t3/&gt; 宣传手册的 HDITA 格式地图。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T080331Z" creationid="DSS" creationdate="20200807T075105Z">
+        <seg>图&lt;t0/&gt;5.10 &lt;t1/&gt;用于创建 &lt;t2/&gt;Sensei Sushi&lt;t3/&gt; 宣传手册的 HDITA 格式地图。&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2470,16 +2470,16 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;5.8 &lt;t1/&gt;XDITA version of the map to create the Sensei Sushi promotional&lt;t2/&gt; brochure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T065424Z" creationid="DSS" creationdate="20200807T065351Z">
-        <seg>图&lt;t0/&gt;5.8 &lt;t1/&gt;用于创建 Sensei Sushi 宣传手册的 XDITA 格式地图。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T080203Z" creationid="DSS" creationdate="20200807T065351Z">
+        <seg>图&lt;t0/&gt;5.8 &lt;t1/&gt;用于创建 Sensei Sushi 宣传手册的 XDITA 格式地图。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;5.9 &lt;t1/&gt;Command for the DITA-OT to generate a PDF deliverable from the&lt;t2/&gt; XDITA version of the &lt;t3/&gt;Sensei Sushi&lt;t4/&gt; brochure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T072411Z" creationid="DSS" creationdate="20200807T072411Z">
-        <seg>图5.9 &lt;t0/&gt;&lt;t1/&gt;利用 DITA-OT 将&lt;t3/&gt;Sensei Sushi&lt;t4/&gt; 手册的 XDITA 地图生成 PDF 交付物所需输入的命令。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T080218Z" creationid="DSS" creationdate="20200807T072411Z">
+        <seg>图5.9 &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;利用 DITA-OT 将&lt;t3/&gt;Sensei Sushi&lt;t4/&gt; 手册的 XDITA 地图生成 PDF 交付物所需输入的命令。</seg>
       </tuv>
     </tu>
     <tu>
