@@ -6358,6 +6358,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can create the XDITA map from &lt;t0/&gt;Figure &lt;t1/&gt;5.8&lt;t2/&gt; &lt;t3/&gt;in any text editor or in a LwDITA-aware tool like Oxygen XML Editor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T064851Z" creationid="DSS" creationdate="20200807T064851Z">
+        <seg>你可以在任何文本编辑器或 Oxygen XML editor 等支持 LwDITA 的工具中创建图5.8中的 XDITA 地图。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can download the DITA-OT from the website &lt;t8/&gt;https://&lt;t9/&gt; &lt;t10/&gt;www.dita-ot.org/download&lt;t11/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T092225Z" creationid="DSS" creationdate="20200806T092225Z">
