@@ -1518,6 +1518,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As an alternative, you can enter the keyboard shortcut of &lt;t1/&gt;Ctrl &lt;t2/&gt;+ &lt;t3/&gt;Shift &lt;t4/&gt;+ &lt;t5/&gt;T &lt;t6/&gt;(for Windows) or &lt;t7/&gt;Command &lt;t8/&gt;+ &lt;t9/&gt;Shift &lt;t10/&gt;+ &lt;t11/&gt;T&lt;t12/&gt; (for macOS).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T035141Z" creationid="DSS" creationdate="20200807T035141Z">
+        <seg>你也可以选择输入键盘快捷键 &lt;t1/&gt;Ctrl &lt;t2/&gt;+ &lt;t3/&gt;Shift &lt;t4/&gt;+ &lt;t5/&gt;T &lt;t6/&gt;(Windows) 或&lt;t7/&gt;Command &lt;t8/&gt;+ &lt;t9/&gt;Shift &lt;t10/&gt;+ &lt;t11/&gt;T&lt;t12/&gt; (for macOS) 来完成上述操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As of summer &lt;t2/&gt;2018, &lt;t3/&gt;the list included &lt;t4/&gt;724 &lt;t5/&gt;companies, excluding consulting and training firms (DITAWriter, n.d.).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143326Z" creationid="DSS" creationdate="20200726T141044Z">
@@ -2923,6 +2931,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If no transformation scenario has been selected, the dialog box will direct you to the “Configure Transformation Scenario(s)” win&lt;t0/&gt;dow.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T035059Z" creationid="DSS" creationdate="20200807T035059Z">
+        <seg>如果没有选择任何地图，对话框将引导你到“Configure Transformation Scenario(s）”窗口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If something goes wrong during the transformation process (maybe one of your files had an extra tag, or there was a missing component in your version of the DITA-OT), the Toolkit will report an error.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T032425Z" creationid="DSS" creationdate="20200806T133012Z">
@@ -2975,6 +2991,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T092051Z" creationid="DSS" creationdate="20200806T092044Z">
         <seg>如果你从未使用过 DITA Open Toolkit，也不熟悉基于命令行的应用程序，那么我推荐你观看Scriptorium（提供内容策略咨询服务的公司）免费制作的《学习 DITA》&lt;t1/&gt;1&lt;t2/&gt;课程中的几个介绍性视频。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want to try a DITA-aware tool with a GUI, you can download a 30-day trial of Oxygen XML Editor from the website &lt;t0/&gt;https://www.oxygenxml.&lt;t1/&gt; &lt;t2/&gt;com/xml_editor&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T035016Z" creationid="DSS" creationdate="20200807T035016Z">
+        <seg>如果你想尝试具有 GUI 的 DITA 工具，可以从网址 &lt;t0/&gt;https://www.oxygenxml.&lt;t1/&gt; &lt;t2/&gt;com/xml_editor&lt;t3/&gt; 下载Oxygen XML Editor，你将拥有30天的试用期。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3087,6 +3111,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T154755Z" creationid="DSS" creationdate="20200803T121447Z">
         <seg>&lt;t0/&gt;2016&lt;t1/&gt;年10月，克里斯·埃伯莱因（DITA 技术委员会主席）要求小组委员会提交一份正式的交付文件：一份委员会说明/白皮书，作为 LwDITA 标准的提案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In Oxygen XML Editor, a basic DITA transformation process requires just one click on the “Apply Transformation Scenario(s)” button (it</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T035046Z" creationid="DSS" creationdate="20200807T035046Z">
+        <seg>在 Oxygen XML Editor 中，一个基本的 DITA 转换过程只需单击主工具栏上的“Apply Transformation Scenario(s)”按钮（该按钮</seg>
       </tuv>
     </tu>
     <tu>
@@ -6177,6 +6209,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145346Z" creationid="DSS" creationdate="20200725T074323Z">
         <seg>需要一份 web 形式的菜谱，DITA-OT 也提供了这个选项，并允许作者为网页的格式和设计嵌入层叠样式表（Cascading Style Sheet, CSS）文件（&lt;t0/&gt;图&lt;t1/&gt;1.5&lt;t2/&gt;）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>looks like a wrench tool with a play button) on the main toolbar while a map is open in the editor window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T035052Z" creationid="DSS" creationdate="20200807T035052Z">
+        <seg>看起来像一个扳手，扳手上面有一个播放按钮），同时在编辑器窗口中打开一个地图。</seg>
       </tuv>
     </tu>
     <tu>
