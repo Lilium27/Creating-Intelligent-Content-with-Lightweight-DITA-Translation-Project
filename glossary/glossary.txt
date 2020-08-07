@@ -272,8 +272,6 @@ video tutorials	视频教程
 Virginia Tech	弗吉尼亚理工大学
 visual communication	视觉传达
 weak verbs	弱动词
-web browser	web 浏览器
-Web browser	Web 浏览器
 web content management system	网页内容管理系统
 web design	网页设计
 web version	网页版
