@@ -3212,6 +3212,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In Oxygen XML Editor, the XDITA map would be processed through the same steps as the DITA map: by clicking on the “Apply Transformation Scenario(s)” button on the main toolbar.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T070844Z" creationid="DSS" creationdate="20200807T070844Z">
+        <seg>在 Oxygen XML Editor 中，处理 XDITA 地图的步骤与处理 DITA 地图的步骤一样：单击主工具栏上的“应用转换选项”按钮。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In Svenvold's account of the events, the manual was doomed when Carroll applied those principles of minimalism to the production of that specific genre of technical communication.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T093638Z" creationid="lenovo" creationdate="20200723T075643Z">
@@ -5030,6 +5038,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T035843Z" creationid="DSS" creationdate="20200726T080923Z">
         <seg>DITA-OT 生成了菜单，并负责该网页交付物的基本布局。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The HDITA Map</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T070854Z" creationid="DSS" creationdate="20200807T070854Z">
+        <seg>HDITA 格式的地图</seg>
       </tuv>
     </tu>
     <tu>
