@@ -6339,6 +6339,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These abstractions hide the layers that authors do not need to know until they move to a more advanced layer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T083808Z" creationid="DSS" creationdate="20200808T083808Z">
+        <seg>抽象隐藏了一些层级，这些层级是创作者在转移到更高层级之前无需知道的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These features and benefits contribute to DITA's popularity and adaptabil&lt;t0/&gt;ity as an intelligent content solution for technical communication.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T073021Z" creationid="DSS" creationdate="20200726T073021Z">
@@ -6639,6 +6647,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T124844Z" creationid="DSS" creationdate="20200804T124844Z">
         <seg>标题（title）&lt;t0/&gt;：表示内容目的的标签。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To a casual observer, the act of writing static content on a word processing application or a presenta&lt;t0/&gt;tion-oriented web content management system might look similar to that of creating intelligent content (in both cases a person is typing on a computer), but the “mental” (abstraction) layers behind those processes go beyond the use of “metal” (automation) tools.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T083815Z" creationid="DSS" creationdate="20200808T083815Z">
+        <seg>对于一个外行而言，在文字处理软件或面向演示的网页内容管理系统里编写静态内容可能看起来与创建智能内容一样（二者都是由一个人在电脑前打字输入内容），但后者所要求的层级“思考”（抽象）能力远超“物理”（自动化）工具的使用能力。</seg>
       </tuv>
     </tu>
     <tu>
