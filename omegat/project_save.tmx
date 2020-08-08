@@ -6942,6 +6942,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Without levels or layers of abstraction, a developer would have to code, for example, a Twitter status update directly into a series of instructions for the computer's proces&lt;t3/&gt;sor and memory.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T075847Z" creationid="DSS" creationdate="20200808T075847Z">
+        <seg>举个例子，如果没有抽象层级或级别的概念的话，假设 Twitter 的状态码更新了，开发人员就必须将其直接编码为一系列指令，交给计算机处理器和内存执行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Would that they taught it in college.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T153605Z" creationid="DSS" creationdate="20200720T134127Z">
