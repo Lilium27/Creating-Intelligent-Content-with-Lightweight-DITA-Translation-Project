@@ -5586,6 +5586,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The examples included in this chapter continue the scenario of Chef Pedro's content requirements for the promotional &lt;t0/&gt;Sensei Sushi&lt;t1/&gt; brochure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T061605Z" creationid="DSS" creationdate="20200808T061312Z">
+        <seg>本章将继续以厨师佩德罗身处的场景为例，围绕&lt;t0/&gt; Sensei Sushi &lt;t1/&gt;宣传手册的内容需求展开。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The first topic reference in the DITA map from &lt;t0/&gt;Figure &lt;t1/&gt;5.1&lt;t2/&gt; &lt;t3/&gt;is the DITA task version of the marinara sauce recipe from&lt;t4/&gt; Chapter &lt;t5/&gt;1&lt;t6/&gt; &lt;t7/&gt;(&lt;t8/&gt;Figure &lt;t9/&gt;5.2&lt;t10/&gt;).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T153800Z" creationid="DSS" creationdate="20200806T090153Z">
@@ -5855,6 +5863,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T082033Z" creationid="DSS" creationdate="20200731T082033Z">
         <seg>修改后的话题类型依赖于一系列约束声明，这些声明将向DITA处理器提供指令。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The sample files are available for download from the &lt;t2/&gt;Creating Intelligent Content with Lightweight DITA&lt;t3/&gt; GitHub repository (&lt;t4/&gt;https://github.com/carlosevia/&lt;t5/&gt; &lt;t6/&gt;lwdita-book&lt;t7/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T061406Z" creationid="DSS" creationdate="20200808T061406Z">
+        <seg>你可以从&lt;t2/&gt;Creating Intelligent Content with Lightweight DITA&lt;t3/&gt; GitHub 仓库 (&lt;t4/&gt;https://github.com/carlosevia/&lt;t5/&gt; &lt;t6/&gt;lwdita-book&lt;t7/&gt;)下载样例文件。</seg>
       </tuv>
     </tu>
     <tu>
