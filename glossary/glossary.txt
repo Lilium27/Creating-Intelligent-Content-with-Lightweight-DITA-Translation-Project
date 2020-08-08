@@ -417,3 +417,5 @@ rhetorical moves	修辞语步
 computing-related	计算相关
 Common Structures	通用结构
 Systems Documentation Newsletter	系统文档通讯
+Diana Patterson	戴安娜·帕特森
+ACM SIGDOC Diana Award	计算机协会计算机文档戴安娜奖
