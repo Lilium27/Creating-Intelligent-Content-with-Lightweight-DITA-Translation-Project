@@ -2532,6 +2532,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;5.14 &lt;t1/&gt;Command for the DITA-OT to generate a PDF deliverable from the&lt;t2/&gt; MDITA version of the &lt;t3/&gt;Sensei Sushi&lt;t4/&gt; brochure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T042617Z" creationid="DSS" creationdate="20200808T042617Z">
+        <seg>图&lt;t0/&gt;5.14 &lt;t1/&gt;利用 DITA-OT 将&lt;t3/&gt;Sensei Sushi&lt;t4/&gt; 手册的 MDITA 地图生成 PDF 交付物所需输入的命令。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;5.2 &lt;t1/&gt;Marinara sauce recipe as a DITA task.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T093517Z" creationid="DSS" creationdate="20200806T093517Z">
@@ -5635,6 +5643,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The list items reference specific topics, and the heading one (in bold font) provides the main title for deliverables produced with this specific map.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T042505Z" creationid="DSS" creationdate="20200808T042505Z">
+        <seg>列表项引用特定话题，一级标题（粗体的部分）为使用此地图生成的交付成果提供主标题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The literature focuses on three topic types that “represent the vast majority of content produced to support users of technical information” (Hackos, &lt;t0/&gt;2011, &lt;t1/&gt;p.7): concept, task, and reference, which Pringle &lt;t2/&gt;&amp; &lt;t3/&gt;O'Keefe define succinctly as follows:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144836Z" creationid="DSS" creationdate="20200724T162056Z">
@@ -5693,8 +5709,8 @@
       <tuv lang="en">
         <seg>The only components included in an MDITA version of the brochure map would be a title (represented by a Markdown &lt;t2/&gt;atx&lt;t3/&gt; heading of &lt;t4/&gt;# &lt;t5/&gt;in this case) and list items &lt;t6/&gt;(&lt;t7/&gt;-&lt;t8/&gt;) &lt;t9/&gt;that include links to each topic and its navigation title.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T040145Z" creationid="DSS" creationdate="20200808T040145Z">
-        <seg>MDITA格式的手册地图中包含的唯一组件是标题（在本例中用 Markdown 中的 &lt;t4/&gt;# &lt;t5/&gt;表示标题）和列表项 &lt;t6/&gt;(&lt;t7/&gt;-&lt;t8/&gt;) &lt;t9/&gt;，列表项包含了每个话题连接和导航标题&lt;。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T042432Z" creationid="DSS" creationdate="20200808T040145Z">
+        <seg>MDITA格式的手册地图中包含的唯一组件是标题（在本例中用 Markdown 中的 &lt;t4/&gt;# &lt;t5/&gt;表示标题）和列表项 &lt;t6/&gt;(&lt;t7/&gt;-&lt;t8/&gt;) &lt;t9/&gt;，列表项将提供关联到到每个话题的连接，并形成导航标题。</seg>
       </tuv>
     </tu>
     <tu>
