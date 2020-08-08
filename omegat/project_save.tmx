@@ -855,6 +855,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t4/&gt;Figure 5.12&lt;t5/&gt; shows the DITA-OT command for process&lt;t6/&gt;ing an HDITA map and producing a PDF deliverable, which looks very similar to the one used for the XDITA map transformation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T033636Z" creationid="DSS" creationdate="20200808T033636Z">
+        <seg>图5.12&lt;t4/&gt;&lt;t5/&gt;展示了利用 DITA-OT 转换 HDITA 格式的地图，并生成 PDF 交付文件所需输入的命令，它与转换 XDITA 格式的地图的命令非常相似。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t4/&gt;In many technical communication practices, “efficient content reuse does not involve copy-and-pasting; instead it uses &lt;t5/&gt;transclusion&lt;t6/&gt;, whereby content is authored in one location and used by reference in other locations” (Eberlein, &lt;t7/&gt;2016 &lt;t8/&gt;p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T142718Z" creationid="DSS" creationdate="20200720T155448Z">
@@ -2416,6 +2424,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T032547Z" creationid="DSS" creationdate="20200808T032547Z">
         <seg>图5.11&lt;t0/&gt;由 HDITA 格式的 Sensei Sushi 手册地图快速生成的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FIGURE 5.12 &lt;t0/&gt;Command for the DITA-OT to generate a PDF deliverable from the&lt;t1/&gt; HDITA version of the &lt;t2/&gt;Sensei Sushi&lt;t3/&gt; brochure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T033938Z" creationid="DSS" creationdate="20200808T033938Z">
+        <seg>图5.12&lt;t0/&gt; 利用 DITA-OT 将 &lt;t2/&gt;Sensei Sushi&lt;t3/&gt; 手册的 HDITA 地图生成 PDF 交付物所需输入的命令。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6239,6 +6255,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T133018Z" creationid="DSS" creationdate="20200806T133018Z">
         <seg>坦率地说，DITA-OT 的报错信息可能读起来复杂且难以理解。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To create a PDF deliverable from the HDITA map, or if the project had any single-sourcing or content reuse requirements, Chef Pedro and his team would need to process it through a LwDITA-aware tool.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T033619Z" creationid="DSS" creationdate="20200808T033619Z">
+        <seg>如果想要利用 HDITA 地图创建 PDF 交付文件，又或者如果项目有任何同源开发或内容复用的需求，厨师佩德罗及其团队需要使用支持 LwDITA 的工具。</seg>
       </tuv>
     </tu>
     <tu>
