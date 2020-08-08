@@ -959,6 +959,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t7/&gt;For a discourse community of technical communicators producing computer manuals before the dawn of minimalism in technical communication, those rhetorical conven&lt;t8/&gt;tions were documented and analyzed in computing-related publications &lt;t9/&gt;- &lt;t10/&gt;and those are the origins of LwDITA and intelligent content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200808T021917Z" creationid="lenovo" creationdate="20200808T021917Z">
+        <seg>&lt;t7/&gt;在极简主义进入技术传播领域前，在撰写计算机手册的技术传播工程师所组成的话语体系中，计算相关的出版物中记录并分析了这些修辞惯例&lt;t9/&gt;- &lt;t10/&gt;并且这些惯例成为了轻量级DITA的起源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t8/&gt;1).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T162101Z" creationid="DSS" creationdate="20200723T160321Z">
