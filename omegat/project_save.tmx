@@ -1007,6 +1007,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t8/&gt;Wing's model of computational thinking, which I introduced in &lt;t9/&gt;Chapter&lt;t10/&gt; &lt;t11/&gt;1&lt;t12/&gt;, &lt;t13/&gt;highlights the importance of abstractions over numerical processes and algo&lt;t14/&gt;rithms.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T071434Z" creationid="DSS" creationdate="20200808T071348Z">
+        <seg>在第一章中我介绍过温的计算思维模型，该模型强调了抽象能力的重要性，数值计算和算法能力都位列其后。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t9/&gt;10).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T154026Z" creationid="DSS" creationdate="20200803T152330Z">
@@ -1739,6 +1747,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T155622Z" creationid="lenovo" creationdate="20200804T065532Z">
         <seg>根据与IBM前任和在职员工的交流，我认定那位技术传播工程师就是&lt;t1/&gt;苏珊·卡朋特（Susan Carpenter），如今她是红帽公司技术文档部门的高级经理，并“曾用DITA撰写IBM公司WebSphere Application Server（WAS）的相关文档，引领了首次试点。” (DITAWriter, &lt;t2/&gt;2016).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Based on that model, this chapter explores the layers of abstraction behind the process of authoring intelligent content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T071435Z" creationid="DSS" creationdate="20200808T071435Z">
+        <seg>基于温的模型，本章探讨了创作智能内容的过程中需要用到的抽象层级。</seg>
       </tuv>
     </tu>
     <tu>
