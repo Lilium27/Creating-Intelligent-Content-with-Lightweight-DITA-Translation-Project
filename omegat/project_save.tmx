@@ -415,6 +415,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t10/&gt;Figure &lt;t11/&gt;5.13&lt;t12/&gt; &lt;t13/&gt;shows a version of the brochure map created in MDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T040247Z" creationid="DSS" creationdate="20200808T040247Z">
+        <seg>&lt;t10/&gt;图&lt;t11/&gt;5.13&lt;t12/&gt;&lt;t13/&gt; 展示了用于创建宣传手册的 MDITA 格式地图。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t10/&gt;The “essays from whole cloth” reference is a nod to the book-oriented kind of writing using a word processor that most academic programs in techni&lt;t11/&gt;cal communication and content development teach as standard practice.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T142738Z" creationid="DSS" creationdate="20200723T154723Z">
@@ -2560,6 +2568,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T075131Z" creationid="DSS" creationdate="20200807T072510Z">
         <seg>图&lt;t0/&gt;5.10&lt;t1/&gt;展示了用于创建宣传手册的 HDITA 格式地图。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;t0/&gt;5.14&lt;t1/&gt; &lt;t2/&gt;shows the DITA-OT command for processing an MDITA map and producing a PDF deliverable, which looks very similar to the one used for the transformations in XDITA and HDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T040618Z" creationid="DSS" creationdate="20200808T040618Z">
+        <seg>图&lt;t0/&gt;5.10&lt;t1/&gt;&lt;t2/&gt;展示了利用 DITA-OT 转换 MDITA 格式的地图，并生成 PDF 交付文件所需输入的命令，它与转换 XDITA 和 HDITA 格式的地图的命令非常相似。。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6730,6 +6746,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T092225Z" creationid="DSS" creationdate="20200806T092225Z">
         <seg>你可以从 &lt;t8/&gt;https://&lt;t9/&gt; &lt;t10/&gt;www.dita-ot.org/download&lt;t11/&gt; 上下载 DITA-OT。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can save the file from &lt;t0/&gt;figure &lt;t1/&gt;5.13&lt;t2/&gt; &lt;t3/&gt;as &lt;t4/&gt;sensei-brochure.md&lt;t5/&gt; and then use a LwDITA-aware tool to produce the PDF deliverable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T040432Z" creationid="DSS" creationdate="20200808T040432Z">
+        <seg>你可以将图&lt;t0/&gt;&lt;t1/&gt;5.13&lt;t2/&gt;&lt;t3/&gt;展示的文件保存为 &lt;t4/&gt;sensei-brochure.md &lt;t5/&gt;，然后使用支持 LwDITA 的工具生成 PDF 交付物。</seg>
       </tuv>
     </tu>
     <tu>
