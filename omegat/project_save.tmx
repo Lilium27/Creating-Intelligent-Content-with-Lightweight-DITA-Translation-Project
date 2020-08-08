@@ -865,8 +865,8 @@
       <tuv lang="en">
         <seg>&lt;t4/&gt;Figure 5.12&lt;t5/&gt; shows the DITA-OT command for process&lt;t6/&gt;ing an HDITA map and producing a PDF deliverable, which looks very similar to the one used for the XDITA map transformation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T033636Z" creationid="DSS" creationdate="20200808T033636Z">
-        <seg>图5.12&lt;t4/&gt;&lt;t5/&gt;展示了利用 DITA-OT 转换 HDITA 格式的地图，并生成 PDF 交付文件所需输入的命令，它与转换 XDITA 格式的地图的命令非常相似。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T041036Z" creationid="DSS" creationdate="20200808T033636Z">
+        <seg>图5.12&lt;t4/&gt;&lt;t5/&gt;展示了利用 DITA-OT 转换 HDITA 格式的地图，并生成 PDF 交付文件所需输入的命令，它与转换 XDITA 格式的地图所需的命令非常相似。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2590,8 +2590,8 @@
       <tuv lang="en">
         <seg>Figure &lt;t0/&gt;5.9&lt;t1/&gt; &lt;t2/&gt;shows the DITA-OT command for processing an XDITA map and producing a PDF deliverable, which looks very similar to the one used for the DITA map transformation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T040807Z" creationid="DSS" creationdate="20200807T070824Z">
-        <seg>图&lt;t0/&gt;5.9&lt;t1/&gt;&lt;t2/&gt;展示了利用 DITA-OT 转换 XDITA 格式的地图，并生成 PDF 交付文件所需输入的命令，它与转换 DITA 格式的地图的命令非常相似。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T041025Z" creationid="DSS" creationdate="20200807T070824Z">
+        <seg>图&lt;t0/&gt;5.9&lt;t1/&gt;&lt;t2/&gt;展示了利用 DITA-OT 转换 XDITA 格式的地图，并生成 PDF 交付文件所需输入的命令，它与转换 DITA 格式的地图所需的命令非常相似。</seg>
       </tuv>
     </tu>
     <tu>
