@@ -3380,6 +3380,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In Oxygen XML Editor, the HDITA map would be processed through the same steps as the XDITA and HDITA maps: by clicking on the “Apply Transformation Scenario(s)” button on the main toolbar.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T041309Z" creationid="DSS" creationdate="20200808T041309Z">
+        <seg>在 Oxygen XML Editor 中，处理 MDITA 地图的步骤与处理 XDITA 和 HDITA 地图的步骤相同：单击主工具栏上的“应用转换选项”按钮。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In Oxygen XML Editor, the HDITA map would be processed through the same steps as the XDITA map: by clicking on the “Apply Transformation Scenario(s)” button on the main toolbar.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T034344Z" creationid="DSS" creationdate="20200808T034344Z">
@@ -3390,8 +3398,8 @@
       <tuv lang="en">
         <seg>In Oxygen XML Editor, the XDITA map would be processed through the same steps as the DITA map: by clicking on the “Apply Transformation Scenario(s)” button on the main toolbar.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T070844Z" creationid="DSS" creationdate="20200807T070844Z">
-        <seg>在 Oxygen XML Editor 中，处理 XDITA 地图的步骤与处理 DITA 地图的步骤一样：单击主工具栏上的“应用转换选项”按钮。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T041136Z" creationid="DSS" creationdate="20200807T070844Z">
+        <seg>在 Oxygen XML Editor 中，处理 XDITA 地图的步骤与处理 DITA 地图的步骤相同：单击主工具栏上的“应用转换选项”按钮。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5530,6 +5538,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The following chapter introduces the main topic components available in LwDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T041513Z" creationid="DSS" creationdate="20200808T041513Z">
+        <seg>下一章将介绍 LwDITA 中主要的话题组件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The following scenario combines the examples I have presented so far: Chef Pedro has a website in which he critiques recipes.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T075320Z" creationid="DSS" creationdate="20200725T151653Z">
@@ -5735,6 +5751,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T115918Z" creationid="DSS" creationdate="20200806T115918Z">
         <seg>生成的 HTML5 文件应该（几分钟后）自动出现在 DITA-OT 中的 &lt;t0/&gt;out&lt;t1/&gt; 文件夹里，你也可以使用 build 命令中的 &lt;t2/&gt;--output&lt;t3/&gt; 选项指定另一个文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The resulting PDF should look very similar to the one produced with the XDITA and HDITA maps, as the end users do not need to know which LwDITA authoring format was used to create the brochure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T041404Z" creationid="DSS" creationdate="20200808T041404Z">
+        <seg>生成的 PDF 应该与使用 XDITA 和 HDITA 地图生成的 PDF 非常相似，因为终端用户不需要知道创建手册到底使用了哪种 LwDITA 写作格式。</seg>
       </tuv>
     </tu>
     <tu>
