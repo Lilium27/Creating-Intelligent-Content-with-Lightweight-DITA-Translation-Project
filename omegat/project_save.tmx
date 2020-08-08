@@ -4912,6 +4912,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sushi&lt;t0/&gt; brochure map.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T032556Z" creationid="DSS" creationdate="20200808T032556Z">
+        <seg>交付物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TABLE &lt;t0/&gt;3.2 &lt;t1/&gt;Specialized structural elements in XDITA and their equivalents in HDITA, which use custom data attributes to modify elements in HTML5.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T114921Z" creationid="DSS" creationdate="20200802T114921Z">
