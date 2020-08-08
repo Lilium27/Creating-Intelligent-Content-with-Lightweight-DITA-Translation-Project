@@ -415,3 +415,5 @@ professional writing	专业写作
 discourse conventions	语篇惯例
 rhetorical moves	修辞语步
 computing-related	计算相关
+Common Structures	通用结构
+Systems Documentation Newsletter	系统文档通讯
