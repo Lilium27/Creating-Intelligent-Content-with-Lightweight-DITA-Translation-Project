@@ -2430,8 +2430,8 @@
       <tuv lang="en">
         <seg>FIGURE 5.12 &lt;t0/&gt;Command for the DITA-OT to generate a PDF deliverable from the&lt;t1/&gt; HDITA version of the &lt;t2/&gt;Sensei Sushi&lt;t3/&gt; brochure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T033938Z" creationid="DSS" creationdate="20200808T033938Z">
-        <seg>图5.12&lt;t0/&gt; 利用 DITA-OT 将 &lt;t2/&gt;Sensei Sushi&lt;t3/&gt; 手册的 HDITA 地图生成 PDF 交付物所需输入的命令。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T034040Z" creationid="DSS" creationdate="20200808T033938Z">
+        <seg>图5.12&lt;t0/&gt;&lt;t1/&gt; 利用 DITA-OT 将 &lt;t2/&gt;Sensei Sushi&lt;t3/&gt; 手册的 HDITA 地图生成 PDF 交付物所需输入的命令。</seg>
       </tuv>
     </tu>
     <tu>
