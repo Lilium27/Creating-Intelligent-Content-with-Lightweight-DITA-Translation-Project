@@ -7119,6 +7119,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>• &lt;t0/&gt;Basic topic components</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T061811Z" creationid="DSS" creationdate="20200808T061811Z">
+        <seg>· &lt;t0/&gt;基本话题类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>• &lt;t0/&gt;Chef Pedro's critique of the recipe (structured as a DITA concept)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150154Z" creationid="DSS" creationdate="20200725T151810Z">
@@ -7140,6 +7148,38 @@
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144206Z" creationid="DSS" creationdate="20200726T154813Z">
         <seg>•&lt;t0/&gt;达尔文&lt;t1/&gt;：代表专业化以及事物如何从一个基础“演化”；&lt;t2/&gt;•&lt;t3/&gt;信息类型化&lt;t4/&gt;：用不同类型单元表示知识； &lt;t5/&gt;• &lt;t6/&gt;架构&lt;t7/&gt;：表示这不仅仅是一个整体设计理念，还是一个可扩展的工具，可以支持多种用途（戴，引自 DitaWriter，&lt;t9/&gt;2016年）。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;Highlight components</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T062058Z" creationid="DSS" creationdate="20200808T062058Z">
+        <seg>· &lt;t0/&gt;高亮组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;Metadata components</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T061845Z" creationid="DSS" creationdate="20200808T061845Z">
+        <seg>· &lt;t0/&gt;元数据组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;Multimedia components.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T061856Z" creationid="DSS" creationdate="20200808T061856Z">
+        <seg>` &lt;t0/&gt;多媒体组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;Table components</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T061831Z" creationid="DSS" creationdate="20200808T061831Z">
+        <seg>· &lt;t0/&gt;表格组件</seg>
       </tuv>
     </tu>
     <tu>
