@@ -6790,6 +6790,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When it came to content, he recommended to “(s)uit the complexity of the manual to the complexity of the subject, and don't belabor the obvious.” He defined intent as the goal to cover the users' needs: “The documentation should be clearly aimed at the prospective user of the system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200808T073213Z" creationid="lenovo" creationdate="20200808T073213Z">
+        <seg>当谈到内容时，他建议“手册的复杂程度要适应主题的复杂程度，显而易见的内容就不要冗余的阐述。”他将意图定义为满足用户需求：“文档应明确针对系统的预期用户。”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When opened on a browser, the map creates a navigation menu for the topic collection.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T032343Z" creationid="DSS" creationdate="20200808T032343Z">
