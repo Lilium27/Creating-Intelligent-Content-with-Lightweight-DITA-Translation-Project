@@ -4348,6 +4348,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Most authors probably will enter an intelligent content workflow unaware of the larger discussions on computational thinking and abstractions behind automating publication and filtering routines.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T081247Z" creationid="DSS" creationdate="20200808T081247Z">
+        <seg>大多数创作者可能在刚开始从事智能内容写作时，都没有意识到在自动化发布和过滤例程之外，业界有更多关于计算思维和抽象能力的讨论。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Most of the research and development work described in this report was concerned with information-mapped books.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T084848Z" creationid="DSS" creationdate="20200731T084848Z">
@@ -5606,6 +5614,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T062442Z" creationid="DSS" creationdate="20200807T062442Z">
         <seg>XDITA 格式的地图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The abstractions relevant to the creation of intelligent content with LwDITA introduced in this chapter are a combination of the semantic (process vs. object) model and the computer architecture levels.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T081310Z" creationid="DSS" creationdate="20200808T081310Z">
+        <seg>本章介绍了与使用 LwDITA 创建智能内容相关的抽象能力，它结合了上文提到的语义（过程 vs. 对象）模型和计算机体系结构层级。</seg>
       </tuv>
     </tu>
     <tu>
