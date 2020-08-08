@@ -943,6 +943,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t6/&gt;84).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T074104Z" creationid="DSS" creationdate="20200808T074104Z">
+        <seg>&lt;t6/&gt;84)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t6/&gt;A casualty in the manual's demise, one could argue, was the main line of research that connected prac&lt;t7/&gt;titioners and academics in technical communication.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T013749Z" creationid="lenovo" creationdate="20200722T031615Z">
@@ -979,6 +987,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145333Z" creationid="DSS" creationdate="20200725T074217Z">
         <seg>&lt;t7/&gt;如果厨房团队的其他成员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t7/&gt;Applying this concept to content development or tech&lt;t8/&gt;nical communication, we can place a deliverable (e.g., a standard operating procedure or a webpage) at that lowest level of abstraction, not as a static object but as a dynamic process.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T074214Z" creationid="DSS" creationdate="20200808T074054Z">
+        <seg>将这一概念应用到内容开发或技术传播中，我们可以将交付内容（如一个标准化操作流程或一个网页）视为最低的抽象层级，并且将其看作动态过程，而不是静态对象。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2868,6 +2884,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hayakawa &lt;t0/&gt;&amp; &lt;t1/&gt;Hayakawa explain the concept of abstraction through the example of “Bessie the cow,” which is described in their influential work on semantics as a dynamic process (with respiratory, nervous, digestive and other systems “constantly changing”) and not just a static object.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T074020Z" creationid="DSS" creationdate="20200808T074020Z">
+        <seg>Hayakawa 以贝西牛（Bessie the cow）为例解释了抽象概念，在他颇具影响力的语义学著作中，抽象概念被描述为一个动态过程（呼吸系统、神经系统、消化系统和其他系统都在“不断变化”），而不仅仅是一个静态对象。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>He described that as a problem of scaling: when there were a handful of important tech companies, their research and develop&lt;t0/&gt;ment departments could work closely with academics, and those partnerships were reciprocal.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200802T080451Z" creationid="lenovo" creationdate="20200802T080451Z">
@@ -3576,6 +3600,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T031028Z" creationid="lenovo" creationdate="20200802T082309Z">
         <seg>上世纪90年代，卡罗尔在极简文档上的工作还影响了IBM的一位技术文档工程师，激发他创建了用于结构化内容的原始DITA模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the Hayakawas' abstraction ladder, the word “Bessie” “is the lowest verbal level of abstraction,” which leaves out the characteristics that Bessie the cow could have in common with other animals, other farm assets, other general assets, and eventually other sources of wealth for a farmer, omitting further characteristics (Hayakawa &lt;t2/&gt;&amp; &lt;t3/&gt;Hayakawa, &lt;t4/&gt;1990; &lt;t5/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T074132Z" creationid="DSS" creationdate="20200808T074049Z">
+        <seg>在Hayakawa的抽象阶梯中，“贝西”这个词“是语言最低阶别的抽象”，因为没有包含贝西牛可能与其他动物、其他农场资产、其他一般资产，以及一个农民最终的财富来源所共同的特性 ，略去了更深层次的特征 (Hayakawa &lt;t2/&gt;&amp; &lt;t3/&gt;Hayakawa, &lt;t4/&gt;1990; &lt;t5/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
