@@ -5026,8 +5026,16 @@
       <tuv lang="en">
         <seg>THE LwDITA MAP COMPONENTS</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200721T144144Z" creationid="DSS" creationdate="20200721T144144Z">
-        <seg>轻量级 DITA 地图组件</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T055514Z" creationid="DSS" creationdate="20200721T144144Z">
+        <seg>LwDITA 地图组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>THE LwDITA TOPIC COMPONENTS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T055526Z" creationid="DSS" creationdate="20200808T055428Z">
+        <seg>LwDITA 话题组件</seg>
       </tuv>
     </tu>
     <tu>
