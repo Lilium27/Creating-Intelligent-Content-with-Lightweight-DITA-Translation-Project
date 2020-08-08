@@ -3820,6 +3820,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It assumes a batch, or similar non-interactive, application” (Rigo, 1976, p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200808T082017Z" creationid="lenovo" creationdate="20200808T082017Z">
+        <seg>它假设服务对象是一个批处理或类似的非交互式的应用。”(Rigo, 1976, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It can also be an on-boarding ramp for full DITA.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T083828Z" creationid="DSS" creationdate="20200726T083828Z">
@@ -3856,6 +3864,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T063744Z" creationid="lenovo" creationdate="20200805T032432Z">
         <seg>它能为创作者提供指导、告知需求并在需求得到满足时告知创作者任务已完成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is a manual of instructions on how to use the program or system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200808T081908Z" creationid="lenovo" creationdate="20200808T081908Z">
+        <seg>它是一本指导用户如何使用程序或系统的说明书。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5026,8 +5042,8 @@
       <tuv lang="en">
         <seg>Rigo's outline was “designed mainly for a software vendor or equivalent system appli&lt;t2/&gt;cation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200808T081817Z" creationid="lenovo" creationdate="20200808T081817Z">
-        <seg>里戈的概要“主要是为软件供应商或等效系统应用设计的。”</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200808T081920Z" creationid="lenovo" creationdate="20200808T081817Z">
+        <seg>里戈的概要“主要是为软件供应商或等效系统应用设计的。</seg>
       </tuv>
     </tu>
     <tu>
