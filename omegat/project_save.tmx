@@ -3492,6 +3492,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this scenario, however, the simple website from &lt;t0/&gt;Figure 5.11&lt;t1/&gt; would not be enough for the printed &lt;t2/&gt;Sensei Sushi&lt;t3/&gt; brochure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T033607Z" creationid="DSS" creationdate="20200808T033607Z">
+        <seg>但是，在这个场景中，图5.11&lt;t0/&gt;&lt;t1/&gt;展示的简单网站不足以制作成纸质版的&lt;t2/&gt; Sensei Sushi &lt;t3/&gt;手册。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this section, I will use a software tool to process the DITA map, from&lt;t8/&gt; Chapter &lt;t9/&gt;1&lt;t10/&gt;, &lt;t11/&gt;that Chef Pedro created for his recipe critiques website.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T153656Z" creationid="DSS" creationdate="20200806T085539Z">
