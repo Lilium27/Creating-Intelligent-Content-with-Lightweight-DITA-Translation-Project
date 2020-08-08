@@ -420,3 +420,4 @@ Diana Patterson	戴安娜·帕特森
 ACM SIGDOC Diana Award	计算机协会计算机文档戴安娜奖
 Jeannette Wing	珍妮特·温
 Wing	温	人名
+Larry Wygant	拉里·怀甘特
