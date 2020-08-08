@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1-2).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T074930Z" creationid="DSS" creationdate="20200808T074930Z">
+        <seg>1-2)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>10).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T091939Z" creationid="DSS" creationdate="20200731T091939Z">
@@ -2688,6 +2696,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T151844Z" creationid="DSS" creationdate="20200803T151844Z">
         <seg>OASIS 轻量级 DITA 小组委员会根据各个工作组的报告（包括来自不同部门和行业的一系列用户画像和使用场景调查），确定了只要一个通用话题就可以代表潜在实践中需要的大多数内容结构。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Following that model, computing engineers can master the com&lt;t2/&gt;plexity of communicating high-level human needs and processes (e.g., check email messages, create a spreadsheet, watch a movie on Netflix) to the low- level electronic signals and components of a computer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T074924Z" creationid="DSS" creationdate="20200808T074924Z">
+        <seg>遵循这个模型，计算机工程师可以掌控高级别的人类需求和流程（如检查电子邮件信息，创建电子表格，在Netflix上观看电影）与低级别的电子信号和计算机组件之间的复杂沟通。</seg>
       </tuv>
     </tu>
     <tu>
