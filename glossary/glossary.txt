@@ -418,3 +418,5 @@ Common Structures	通用结构
 Systems Documentation Newsletter	系统文档通讯
 Diana Patterson	戴安娜·帕特森
 ACM SIGDOC Diana Award	计算机协会计算机文档戴安娜奖
+Jeannette Wing	珍妮特·温
+Wing	温	人名
