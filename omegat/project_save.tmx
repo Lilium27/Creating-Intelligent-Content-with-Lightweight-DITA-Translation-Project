@@ -3540,6 +3540,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In his popular textbook &lt;t0/&gt;Structured Computer Organization&lt;t1/&gt;, Andrew S. Tanenbaum described computers “as a</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T074907Z" creationid="DSS" creationdate="20200808T074907Z">
+        <seg>在安德鲁·斯图尔特·特南鲍姆（Andrew S. Tanenbaum）的畅销书《结构化计算机组织》中，他将计算机描述为“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In his role as Distinguished Technical Marketer at IBM, James, a graduate of the Master of Science in Scientific and Technical Communication from the University of Minnesota-Twin Cities, was looking for interns who could work in a structured authoring environment.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T030252Z" creationid="DSS" creationdate="20200720T133311Z">
@@ -5634,6 +5642,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The concept of abstraction is also quite prevalent in the introductory literature to computing architecture.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T074854Z" creationid="DSS" creationdate="20200808T074854Z">
+        <seg>在关于计算机架构的入门书籍中，抽象的概念也非常普遍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The content needs of the com&lt;t2/&gt;pany now are many: they will need guides for workers in the corporate-owned restaurants, guidelines and expectations for franchise owners, and because of the nature of this business (restaurants), they will also require collections of recipes and acceptable ingredients that can be reused in end-user products like a menu for print and online channels.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T044232Z" creationid="DSS" creationdate="20200807T043637Z">
@@ -7090,6 +7106,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T115938Z" creationid="DSS" creationdate="20200806T115938Z">
         <seg>层级和关系。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>series of abstractions, each abstraction building on the one below it” &lt;t0/&gt;(2006, &lt;t1/&gt;pp.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T074922Z" creationid="DSS" creationdate="20200808T074922Z">
+        <seg>一系列的抽象层级，每个抽象层级建立在下一层级之上” &lt;t0/&gt;(2006, &lt;t1/&gt;pp.</seg>
       </tuv>
     </tu>
     <tu>
