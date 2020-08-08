@@ -414,3 +414,4 @@ Linda Flower	琳达·弗劳尔
 professional writing	专业写作
 discourse conventions	语篇惯例
 rhetorical moves	修辞语步
+computing-related	计算相关
