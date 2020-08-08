@@ -3060,6 +3060,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I feel very strongly that when one opens a manual, the first printed page to fall to the eye should be a very general explanation of exactly what the system is, what problem it was intended to attack, and the reasons for bothering to attack that problem at all.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200808T070622Z" creationid="lenovo" creationdate="20200808T070622Z">
+        <seg>我深信，人们打开手册时，引入眼帘的首页上应该是对系统概括性的精准描述、它可以辅助解决的问题以及解决这些问题的必要性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I find it very flattering that anyone can think I can have that effect on anything.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200802T075332Z" creationid="lenovo" creationdate="20200802T075332Z">
@@ -6355,6 +6363,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is somewhat akin to the ‘hook' at the opening of a novel; if the readers' attention is not captured imme&lt;t0/&gt;diately, he is likely to wander off on any number of tangents and end no better informed than he began.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200808T072311Z" creationid="lenovo" creationdate="20200808T072311Z">
+        <seg>这就有点类似于小说开头的“引子”；如果读者注意力没有被立即吸引，他就很可能会转换到其他一系列事务上，并且任何知识都有没学到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This process of specialization is reflected in the “D” of DITA: topics and their elements can evolve in the Darwinian sense of the word.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T081812Z" creationid="lenovo" creationdate="20200804T081156Z">
@@ -6866,6 +6882,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T133632Z" creationid="DSS" creationdate="20200720T133632Z">
         <seg>创作可重复使用的内容是一种罕见的技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wygant's analysis of a user manual then focused on the criteria behind the extent and cost of documentation: content, intent, and technique.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200808T072751Z" creationid="lenovo" creationdate="20200808T072751Z">
+        <seg>怀甘特对于用户手册分析集中于文档的范围和成本背后的标准:内容、意图和技术。</seg>
       </tuv>
     </tu>
     <tu>
