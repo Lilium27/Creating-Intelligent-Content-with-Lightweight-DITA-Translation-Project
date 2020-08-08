@@ -1239,6 +1239,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Abstraction allows humans to separate the “layers” of a particular problem and work on each one individually without concern for the others.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T080421Z" creationid="DSS" creationdate="20200808T080421Z">
+        <seg>抽象允许人们分离特定问题的“层级”，并单独处理每个层级，而无需关心其他层级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>According to Priestley, “if there are three ways of doing things with full DITA, there will be only one way to do it with Lightweight DITA.”</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T083713Z" creationid="DSS" creationdate="20200726T083713Z">
@@ -6167,6 +6175,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144036Z" creationid="DSS" creationdate="20200726T154404Z">
         <seg>这个&lt;t1/&gt;结构化的菜谱内容组织有序，有助于计算机理解并操作元素和属性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Then, as the layers are recombined, they work together to solve the problem in a process that can be represented as a replicable algorithm.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T080614Z" creationid="DSS" creationdate="20200808T080614Z">
+        <seg>然后当这些层级被重新组合时，它们共同作用来解决问题，这个过程可以用一个算法来表示。</seg>
       </tuv>
     </tu>
     <tu>
