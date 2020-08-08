@@ -713,8 +713,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;In this introductory chapter I will only present the results of transformations using the DITA-OT, but in &lt;t4/&gt;Chapter &lt;t5/&gt;5&lt;t6/&gt; &lt;t7/&gt;I will focus on specific steps for conducting those transformations.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145418Z" creationid="DSS" creationdate="20200725T082636Z">
-        <seg>&lt;t3/&gt;在这个介绍性的第1章中，我将只展示使用 DITA-OT 进行转换的输出物，不过在第&lt;t4/&gt;&lt;t5/&gt;5&lt;t6/&gt;章中，&lt;t7/&gt;我会重点介绍进行这些转换的具体操作步骤。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T031812Z" creationid="DSS" creationdate="20200725T082636Z">
+        <seg>&lt;t3/&gt;在介绍性的第1章中，我将只展示使用 DITA-OT 转换生成的输出物，不过在第&lt;t4/&gt;&lt;t5/&gt;5&lt;t6/&gt;章中，&lt;t7/&gt;我会重点介绍进行转换所需的具体操作步骤。</seg>
       </tuv>
     </tu>
     <tu>
