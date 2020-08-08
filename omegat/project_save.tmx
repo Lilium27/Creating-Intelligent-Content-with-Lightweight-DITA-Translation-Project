@@ -1367,6 +1367,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although in &lt;t1/&gt;Chapter &lt;t2/&gt;3&lt;t3/&gt; &lt;t4/&gt;I introduced the main content components available in LwDITA, here I focus on how to represent each of those topic components in the authoring formats of XDITA, HDITA, and MDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T061043Z" creationid="DSS" creationdate="20200808T061043Z">
+        <seg>在第3章中我介绍了 LwDITA 中主要的内容组件，而本章中的重点是如何用 XDITA、HDITA、MDITA写作格式表示这些主题组件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Although it probably will  How DITA Evolved Into LwDITA 63 not be part of a LwDITA user’s daily routine, the proposed standard allows  document and element type specialization (the Darwin part of DITA) for  information architects interested in creating custom structures.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T094520Z" creationid="DSS" creationdate="20200730T094520Z">
@@ -3524,6 +3532,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the previous chapter I analyzed the LwDITA document type of map, which works as a collection and organization mechanism for content units.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T061026Z" creationid="DSS" creationdate="20200808T061026Z">
+        <seg>在上一章中，我分析了 LwDITA 的地图文档类型，地图的作用是聚合和组织内容单元，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the realm of rhetoric studies, Applen and McDaniel wrote an important text about XML and its implications for rhetorical work.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153211Z" creationid="DSS" creationdate="20200726T153211Z">
@@ -3904,6 +3920,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150635Z" creationid="DSS" creationdate="20200726T074753Z">
         <seg>请记住 DITA 标准&lt;t65/&gt;1.3 &lt;t66/&gt;版本中有&lt;t67/&gt;26 &lt;t68/&gt;种文档类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep in mind that LwDITA is a work in progress and some elements in this chapter might change between the publication of this book and the actual release of the Lightweight DITA standard.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T061053Z" creationid="DSS" creationdate="20200808T061053Z">
+        <seg>请记住，LwDITA 标准还在制定当中，本书的出版和轻量级 DITA 标准的实际发布之间有时间差异，所以本章中提到的一些元素可能会发生改变。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6319,6 +6343,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T081041Z" creationid="DSS" creationdate="20200727T081041Z">
         <seg>这些都是合理的担忧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Those con&lt;t0/&gt;tent units are represented in the document type of topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T061029Z" creationid="DSS" creationdate="20200808T061029Z">
+        <seg>内容单元用话题文档类型来表示。</seg>
       </tuv>
     </tu>
     <tu>
