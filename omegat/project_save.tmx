@@ -3684,6 +3684,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It continues the brochure scenario in the different LwDITA authoring formats.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T041815Z" creationid="DSS" creationdate="20200808T041614Z">
+        <seg>将继续以宣传手册的例子，结合三种不同的 LwDITA 写作格式来介绍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It does not provide a set of predefined tags.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T081359Z" creationid="DSS" creationdate="20200726T154113Z">
@@ -4376,6 +4384,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T131233Z" creationid="DSS" creationdate="20200804T131233Z">
         <seg>注解（note）&lt;t0/&gt;：对某一点内容进行扩展或想要引起读者注意的信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T041620Z" creationid="DSS" creationdate="20200808T041620Z">
+        <seg>注释</seg>
       </tuv>
     </tu>
     <tu>
@@ -5540,8 +5556,8 @@
       <tuv lang="en">
         <seg>The following chapter introduces the main topic components available in LwDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T041513Z" creationid="DSS" creationdate="20200808T041513Z">
-        <seg>下一章将介绍 LwDITA 中主要的话题组件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T041532Z" creationid="DSS" creationdate="20200808T041513Z">
+        <seg>下一章将介绍 LwDITA 中主要的话题组件，</seg>
       </tuv>
     </tu>
     <tu>
