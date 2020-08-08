@@ -1623,6 +1623,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As many levels of docu&lt;t0/&gt;mentation are required as there are levels of users.” Technique was connected to the budget and quality of documentation: “Two elements of documentation &lt;t1/&gt;are indispensable &lt;t2/&gt;一 &lt;t3/&gt;integration with the system implementation and on-line machine-readable generation” (Patterson, 1975, p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200808T074220Z" creationid="lenovo" creationdate="20200808T074220Z">
+        <seg>“用户的级数决定了文档的层数。”技术与文档的预算和质量密切相关：“文档有两大元素不可或缺——与系统实现实现整合、在线生成且机器可读。”(Patterson, 1975, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As of summer &lt;t2/&gt;2018, &lt;t3/&gt;the list included &lt;t4/&gt;724 &lt;t5/&gt;companies, excluding consulting and training firms (DITAWriter, n.d.).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143326Z" creationid="DSS" creationdate="20200726T141044Z">
