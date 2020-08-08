@@ -2524,6 +2524,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;5.13 &lt;t1/&gt;MDITA version of the map to create the &lt;t2/&gt;Sensei Sushi&lt;t3/&gt; promotional&lt;t4/&gt; brochure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T041851Z" creationid="DSS" creationdate="20200808T041851Z">
+        <seg>图&lt;t0/&gt;5.13&lt;t1/&gt; 用于创建 &lt;t2/&gt;Sensei Sushi&lt;t3/&gt; 宣传手册的 HDITA 格式地图。&lt;t4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;5.2 &lt;t1/&gt;Marinara sauce recipe as a DITA task.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T093517Z" creationid="DSS" creationdate="20200806T093517Z">
