@@ -2412,6 +2412,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE 5.11 &lt;t0/&gt;Quick web deliverable created by the HDITA version of the &lt;t1/&gt;Sensei</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T032547Z" creationid="DSS" creationdate="20200808T032547Z">
+        <seg>图5.11&lt;t0/&gt;由 HDITA 格式的 Sensei Sushi 手册地图快速生成的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE 5.4 &lt;t0/&gt;DITA topic including biographical information about Chef Pedro.&lt;t1/&gt; The topic's elements include simple structures like a title, a short description, and a body containing paragraphs.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T031014Z" creationid="DSS" creationdate="20200808T031014Z">
@@ -6115,6 +6123,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This web version does not include any single sourcing or content reuse features and is only for presentational purposes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T032347Z" creationid="DSS" creationdate="20200808T032347Z">
+        <seg>这个网页版本不包括任何同源开发或内容复用的功能，只是为了展示所用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This&lt;t1/&gt; sample output includes a link to an external CSS file for formatting.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145817Z" creationid="DSS" creationdate="20200725T085416Z">
@@ -6474,6 +6490,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T142650Z" creationid="DSS" creationdate="20200720T153908Z">
         <seg>马修森所说的“可重用内容”是指“在多个信息产品中使用内容组件的&lt;t0/&gt;实践”（埃伯莱因，&lt;t1/&gt;2016&lt;t2/&gt;年，第</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When opened on a browser, the map creates a navigation menu for the topic collection.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T032343Z" creationid="DSS" creationdate="20200808T032343Z">
+        <seg>在浏览器上打开该交付物，地图将为话题集合创建一个导航菜单。</seg>
       </tuv>
     </tu>
     <tu>
