@@ -3356,6 +3356,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In Oxygen XML Editor, the HDITA map would be processed through the same steps as the XDITA map: by clicking on the “Apply Transformation Scenario(s)” button on the main toolbar.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T034344Z" creationid="DSS" creationdate="20200808T034344Z">
+        <seg>在 Oxygen XML Editor 中，处理 HDITA 地图的步骤与处理 XDITA 地图的步骤相同：单击主工具栏上的“应用转换选项”按钮。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In Oxygen XML Editor, the XDITA map would be processed through the same steps as the DITA map: by clicking on the “Apply Transformation Scenario(s)” button on the main toolbar.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T070844Z" creationid="DSS" creationdate="20200807T070844Z">
@@ -5338,6 +5346,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The MDITA Map</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T034353Z" creationid="DSS" creationdate="20200808T034353Z">
+        <seg>MDITA 格式的地图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Markdown DITA plugin for the DITA Open Toolkit&lt;t0/&gt;1&lt;t1/&gt;, developed by the Finland-based programmer Jarno Elovirta, was released on February &lt;t2/&gt;2015 &lt;t3/&gt;and made possible some of the ideas that Priestley and I, and then the whole subcommittee, had been proposing for integrating Markdown into DITA pub&lt;t4/&gt;lishing workflows.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T153823Z" creationid="DSS" creationdate="20200803T115121Z">
@@ -5563,6 +5579,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The map for creating the &lt;t0/&gt;Sensei Sush&lt;t1/&gt;i brochure can also be coded in MDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T040051Z" creationid="DSS" creationdate="20200808T040051Z">
+        <seg>创建&lt;t0/&gt; Sensei Sushi &lt;t1/&gt;手册的地图也可以使用 MDITA 格式语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The map includes&lt;t1/&gt; links (or topic references) to the marinara sauce recipe, Chef Pedro's critique of the recipe, and an “about” page with information about the author.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T063702Z" creationid="DSS" creationdate="20200725T154134Z">
@@ -5679,6 +5703,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T115918Z" creationid="DSS" creationdate="20200806T115918Z">
         <seg>生成的 HTML5 文件应该（几分钟后）自动出现在 DITA-OT 中的 &lt;t0/&gt;out&lt;t1/&gt; 文件夹里，你也可以使用 build 命令中的 &lt;t2/&gt;--output&lt;t3/&gt; 选项指定另一个文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The resulting PDF should look very similar to the one produced with the XDITA map, as the end users do not need to know which LwDITA authoring format was used to create the brochure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T034345Z" creationid="DSS" creationdate="20200808T034345Z">
+        <seg>生成的 PDF 应该与使用 XDITA 地图生成的 PDF 非常相似，因为终端用户不需要知道创建手册到底使用了哪种 LwDITA 写作格式。</seg>
       </tuv>
     </tu>
     <tu>
