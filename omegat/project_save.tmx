@@ -3068,6 +3068,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I have organized this chapter according to the following classification of LwDITA content components:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T061756Z" creationid="DSS" creationdate="20200808T061756Z">
+        <seg>我按照以下对 LwDITA 内容组件的分类组织了本章内容：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I honestly think it was much more a matter of a paradigm shift, a change in business model, changing populations, and the fact that the computer became a universal device instead of an elite device.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200802T075656Z" creationid="lenovo" creationdate="20200802T075656Z">
