@@ -2146,6 +2146,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creating the data base (sic)&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T024259Z" creationid="lenovo" creationdate="20200809T024259Z">
+        <seg>创建数据库&lt;t0/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cross reference&lt;t0/&gt;: a labeled link to a piece of information.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T131921Z" creationid="DSS" creationdate="20200804T131921Z">
@@ -2327,6 +2335,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T061913Z" creationid="DSS" creationdate="20200807T061913Z">
         <seg>购买特许经营权的费用明细</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do not assume that a person reading these sections knows anything about the system” (1976, p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T024223Z" creationid="lenovo" creationdate="20200809T024223Z">
+        <seg>不要假定读这些章节的人对系统会有所了解。(1976, p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7483,6 +7499,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T092231Z" creationid="lenovo" creationdate="20200723T091708Z">
         <seg>“其一就是在过去的年代，人们不得不开动脑筋，因为系统笨重且无法运行，你必须了解Unix操作系统并且不对一闪一闪的命令行产生畏惧心理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“This section does not apply to all software packages (sic), and its contents are variable even when it does apply.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T024414Z" creationid="lenovo" creationdate="20200809T024414Z">
+        <seg>“这个章节并不适用于所有软件包，并且在应用的软件上，其内容也千差万别。”</seg>
       </tuv>
     </tu>
     <tu>
