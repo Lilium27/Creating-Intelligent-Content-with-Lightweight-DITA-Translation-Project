@@ -1743,6 +1743,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>At the same time, HTML5 had been released with enhanced semantic tags and capabilities for extended attributes that could replicate fundamental structuring and publishing features of DITA XML.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T115954Z" creationid="DSS" creationdate="20200809T115954Z">
+        <seg>与此同时，HTML5 发布了更强大的语义标签，增强了扩展属性的能力，这些扩展属性可以复刻 DITA XML 的基本结构和发布特性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At the same time, and in a more tongue-in-cheek fashion, Carroll has also been labeled as “the man who killed the manual” (Svenvold, &lt;t5/&gt;2015).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T093523Z" creationid="lenovo" creationdate="20200722T031230Z">
@@ -5284,6 +5292,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154331Z" creationid="DSS" creationdate="20200726T154331Z">
         <seg>其中一些子元素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some of those appli&lt;t8/&gt;cations were based around the needs of authors (e.g., creating marketing content, writing pharmaceutical information, or structuring books for a publishing house) who had no experience with XML.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T120055Z" creationid="DSS" creationdate="20200809T115811Z">
+        <seg>其中一些应用是基于没有 XML 写作经验的创作者的需求而提出的（如创建营销内容、编写药品信息或在出版社编辑结构化图书）。</seg>
       </tuv>
     </tu>
     <tu>
