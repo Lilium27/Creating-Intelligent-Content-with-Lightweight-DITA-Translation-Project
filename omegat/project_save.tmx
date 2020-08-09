@@ -1815,6 +1815,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Basic requirements&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T021727Z" creationid="lenovo" creationdate="20200809T021727Z">
+        <seg>基本要求&lt;t0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Basic topic types</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T123140Z" creationid="DSS" creationdate="20200801T123140Z">
@@ -4662,6 +4670,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On the other hand, they will accept almost any outrageous restriction if it is identified and described clearly” (1976, p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T021715Z" creationid="lenovo" creationdate="20200809T021715Z">
+        <seg>另一方面，只要界定和描述足够清晰，用户愿意接受几乎任何粗暴的限制。” (1976, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once those parts or components are tagged, they can be “assembled” in different ways for use in a variety of deliverables and media.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153316Z" creationid="DSS" creationdate="20200726T153308Z">
@@ -5116,6 +5132,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T013825Z" creationid="lenovo" creationdate="20200808T120302Z">
         <seg>应该做到靠名称就能识别系统、描述手册的目的及目标受众（“通过职称或职业”）或特殊的培训条件、软硬件要求，“版权限制、问答模块、直接相关出版物列表等。”“这些话题都至多在一短段中穷尽。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Should include “any information that the user needs to determine whether he can run the system in his installation or use it for his application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T022717Z" creationid="lenovo" creationdate="20200809T022717Z">
+        <seg>应当包括“所有用户所需的信息，用户能够利用这些信息确定自己能够在安装后运行系统或正常使用应用”</seg>
       </tuv>
     </tu>
     <tu>
