@@ -615,6 +615,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t2/&gt;In a blog post titled “Overview of Lightweight DITA (XDITA and HDITA),” Michael Priestley introduced an idea to liberate the DITA standard from its longstanding dependence on the Extensible Markup Language (XML).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T115111Z" creationid="DSS" creationdate="20200809T115111Z">
+        <seg>在一篇题为《轻量级DITA (XDITA 和 HDITA)概述》（Overview of Lightweight DITA （XDITA and HDITA））的博客文章中，迈克尔·普里斯特利介绍了这样一种想法：将 DITA 标准从长期以来对可扩展标记语言 (XML) 的依赖中解放出来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t2/&gt;This is a long process of evolution that started in &lt;t3/&gt;2012.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T130641Z" creationid="DSS" creationdate="20200730T130641Z">
@@ -6135,6 +6143,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T081256Z" creationid="DSS" creationdate="20200727T081256Z">
         <seg>XML 结构的集中化内容存储库可以作为许多用户交付内容的信息来源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The proposal for a lightweight version of the DITA standard crossed an impor&lt;t0/&gt;tant border in the spring of &lt;t1/&gt;2014.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T115008Z" creationid="DSS" creationdate="20200809T115008Z">
+        <seg>2014年春天，关于开发 DITA 标准轻量级版本的提议迈过了重要一砍。</seg>
       </tuv>
     </tu>
     <tu>
