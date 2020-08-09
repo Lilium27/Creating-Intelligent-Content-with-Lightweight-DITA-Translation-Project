@@ -4268,6 +4268,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LwDITA Expands Beyond XML</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T114959Z" creationid="DSS" creationdate="20200809T114959Z">
+        <seg>LwDITA 不止 XML 一种格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LwDITA Topical Conventions</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T121941Z" creationid="DSS" creationdate="20200803T121941Z">
