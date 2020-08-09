@@ -6491,6 +6491,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The “Learning to Think Like a Computer” article from The New York Times that I mentioned earlier in this chapter included a relevant example provided by Dan Garcia, from the University of California, Berkeley.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T131659Z" creationid="DSS" creationdate="20200809T131659Z">
+        <seg>我在本章前面提到了《纽约时报》上的一篇题为《学会像电脑一样思考》的文章，文章介绍了加州大学伯克利分校的丹·加西亚（Dan Garcia）提供的一个相关例子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The “death” of the manual as the default genre of technical communica&lt;t0/&gt;tion has impacted the field in more than one way.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T081255Z" creationid="lenovo" creationdate="20200723T081255Z">
