@@ -3814,8 +3814,8 @@
       <tuv lang="en">
         <seg>Introduction&lt;t0/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T013919Z" creationid="lenovo" creationdate="20200809T013919Z">
-        <seg>介绍&lt;t0/&gt;.</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T015151Z" creationid="lenovo" creationdate="20200809T013919Z">
+        <seg>简介&lt;t0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5590,6 +5590,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T085450Z" creationid="DSS" creationdate="20200731T085450Z">
         <seg>信息映射官网现在简单地将其定义为“一种以研究为基础的方法，基于受众需求和信息目的，编写清晰的、以用户为中心的信息”（“关于”页面，未注明日期）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Introduction should also note any documen&lt;t1/&gt;tation conventions used in the manual (all caps means that words should be coded exactly as printed, lower case describes a user entry point, braces rep&lt;t2/&gt;resent a mandatory choice, brackets represent optional parameters, etc.) Rigo added that if “the system does not function as described, users will quickly lose faith in the manual.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T021613Z" creationid="lenovo" creationdate="20200809T021613Z">
+        <seg>简介同样应当注明手册中使用的文档惯例（全字母大写意味着该词应同印刷品采用相同的编码格式、小写代表用户入口、花括号代表必选项而方括号代表可选参数等。）里戈补充到，如果“系统没有按照描述的运行，用户很快就会对手册失去信任。”</seg>
       </tuv>
     </tu>
     <tu>
