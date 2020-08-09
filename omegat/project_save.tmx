@@ -1903,6 +1903,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Before implementing any computing tools or developing automation solutions, a user experimenting with a computational thinking methodology or exploring the benefits of intelligent content must break down the process in a series of abstractions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T131219Z" creationid="DSS" creationdate="20200809T131219Z">
+        <seg>在使用任何计算工具或开发自动化解决方案之前，用户要想试验计算思维方法论或探索智能内容的好处，必须将过程分解为一系列抽象层级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bellamy et al.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T084713Z" creationid="DSS" creationdate="20200806T084713Z">
