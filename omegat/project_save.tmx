@@ -983,6 +983,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t6/&gt;Feedback from audiences to conference presentations &lt;t7/&gt;about LwDITA, and comments from members of the DITA Technical Committee, introduced potential applications for the simplified standard outside of the traditional DITA domain of technical documentation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T115716Z" creationid="DSS" creationdate="20200809T115716Z">
+        <seg>之前会议的参与者对会议上演示的 LwDITA 的反馈以及 DITA 技术委员会成员的评价里，提出了轻量级标准在技术文档传统的 DITA 领域之外的潜在应用场景。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t6/&gt;The article went on to mention that Jeannette Wing “gets credit for making it fashionable” (Pappano, &lt;t7/&gt;2017).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T071222Z" creationid="DSS" creationdate="20200808T071222Z">
