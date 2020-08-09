@@ -3268,6 +3268,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Identify its main functions and refer to an appropriate section later in the manual for detailed information.” “The complete introduction should not be more than 1—3 printed pages.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T014907Z" creationid="lenovo" creationdate="20200809T014907Z">
+        <seg>界定它的主要功能，并指定手册后续章节以获取详细信息。”“完整的介绍不应超过1-3页。”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If DITA was inspired by my work, then thank you.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T024058Z" creationid="lenovo" creationdate="20200804T024058Z">
