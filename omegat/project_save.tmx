@@ -4100,6 +4100,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It may be moved to an appendix if the process is performed only once for the entire instal&lt;t1/&gt;lation” (1976, p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T024640Z" creationid="lenovo" creationdate="20200809T024640Z">
+        <seg>如果在整个安装过程中，这一步骤只需执行一次则可以移至附录。“ (1976, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It shows how different elements of the system are used together on an intermediate level” (1976, p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T023937Z" creationid="lenovo" creationdate="20200809T023937Z">
