@@ -2129,6 +2129,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Concepts and practices from user experience research, content strategy, and usability have made it to the technical communication vocabulary in indus&lt;t2/&gt;try and academia, and undoubtedly paved the way for intelligent content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T123525Z" creationid="DSS" creationdate="20200809T123525Z">
+        <seg>用户体验研究、内容策略和可用性已经成为工业界和学术界都知晓的技术传播概念与实践，这无疑为智能内容铺平了道路。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Content components are the building blocks of information products.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T155511Z" creationid="DSS" creationdate="20200724T155511Z">
@@ -3120,6 +3128,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T082211Z" creationid="DSS" creationdate="20200806T082211Z">
         <seg>但是，在介绍性的委员会文件《轻量级 DITA 简介》中，组件格式已经得到了 DITA 技术委员会成员和普通用户的认可。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, whereas a fully-developed lifecycle requires detailed planning and evaluation stages, the specific recommendations from &lt;t0/&gt;Creating Intelligent Content with Lightweight DITA&lt;t1/&gt; focus on the deficit in content-development training and education.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T123521Z" creationid="DSS" creationdate="20200809T123521Z">
+        <seg>但是一个成熟的生命周期需要详细的规划和合理的评估，而本书中的建议是多多关注内容开发培训和教育方面的不足。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6039,6 +6055,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T160612Z" creationid="DSS" creationdate="20200806T084518Z">
         <seg>&lt;t4/&gt;编写第 &lt;t5/&gt;5&lt;t6/&gt;&lt;t7/&gt;章和第&lt;t8/&gt;6&lt;t9/&gt;&lt;t10/&gt;章的目的并不是提供一个关于 XML、HTML5 或 Markdown 的完整教程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The layers of abstraction of authoring in a workflow with LwDITA are related to the stages on a content development lifecycle.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T123513Z" creationid="DSS" creationdate="20200809T123513Z">
+        <seg>在LwDITA工作流中，写作涉及的抽象层级与内容开发生命周期的各个阶段息息相关。</seg>
       </tuv>
     </tu>
     <tu>
