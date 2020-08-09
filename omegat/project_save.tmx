@@ -5082,8 +5082,8 @@
       <tuv lang="en">
         <seg>Should identify the system by name and state its purpose, intended audience (“by job title or profession”) or special training prerequisites, hardware and software requirements, “(c)opyright restrictions, address for questions and comments, list of other directly relevant publications, etc.” “None of these topics should extend beyond a single short paragraph.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200808T120302Z" creationid="lenovo" creationdate="20200808T120302Z">
-        <seg>应该做到靠名称就能识别系统、描述手册的目的及目标受众（“通过职称或职业”）或特殊的培训条件、软硬件要求，“版权限制、”</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T013825Z" creationid="lenovo" creationdate="20200808T120302Z">
+        <seg>应该做到靠名称就能识别系统、描述手册的目的及目标受众（“通过职称或职业”）或特殊的培训条件、软硬件要求，“版权限制、问答模块、直接相关出版物列表等。”“这些话题都至多在一短段中穷尽。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5108,6 +5108,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T092009Z" creationid="DSS" creationdate="20200803T092009Z">
         <seg>一些简单考虑过的替代方案是使用首字母缩略词，如 CAKE（Content Authoring for the Knowledge Ecosystem）、PAF（Portable Authoring Framework）、XFAS（Cross-format Authoring Specification），或者可以引起共鸣的一个单词长度的名字，如 Helium、Portable、Adapt 或 Evolve。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some can be handled with a single sentence.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T013843Z" creationid="lenovo" creationdate="20200809T013843Z">
+        <seg>一些甚至可以用一句话解决。</seg>
       </tuv>
     </tu>
     <tu>
