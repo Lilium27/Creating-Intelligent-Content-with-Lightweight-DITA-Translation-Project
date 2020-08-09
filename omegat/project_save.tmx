@@ -1551,6 +1551,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>And that process is not about tools; actually, only a few of those layers require a computing tool, and some happen inside the author's mind before going to a computing device.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T134851Z" creationid="DSS" creationdate="20200809T134851Z">
+        <seg>这个过程与工具无关。实际上，这些层级中只有少数需要使用计算机工具，部分层级在被计算机设备处理之前是由作者的大脑构思的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>And that's just the task document type!</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T074732Z" creationid="DSS" creationdate="20200726T074732Z">
@@ -5565,6 +5573,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T081315Z" creationid="DSS" creationdate="20200726T153653Z">
         <seg>模板设计师，设计可交付成果的界面和风格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That authors can view content as non-linear and envision more than one outcome based on principles of reuse and single-sourcing might sound like a major innovation to professionals in academia and industry accus&lt;t4/&gt;tomed to using a word processor as their main tool.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T135825Z" creationid="DSS" creationdate="20200809T135825Z">
+        <seg>作者可以将内容视为非线性的，基于内容复用和同源开发的原则设想多个结果，这对于习惯将文字处理软件作为主要工具的学术界和工业界的专业人士来说，可能是一个重大的创新。</seg>
       </tuv>
     </tu>
     <tu>
