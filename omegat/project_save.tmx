@@ -3804,6 +3804,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Introduction&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T013919Z" creationid="lenovo" creationdate="20200809T013919Z">
+        <seg>介绍&lt;t0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It aims to address concerns and doubts about the adoption and evolution of DITA as a major standard for technical publications.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T085122Z" creationid="DSS" creationdate="20200726T085122Z">
@@ -5080,6 +5088,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Should describe “the program or system as it will appear to the user.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T014549Z" creationid="lenovo" creationdate="20200809T014549Z">
+        <seg>应该描述“程序或系统呈现在用户眼前的形态。”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Should identify the system by name and state its purpose, intended audience (“by job title or profession”) or special training prerequisites, hardware and software requirements, “(c)opyright restrictions, address for questions and comments, list of other directly relevant publications, etc.” “None of these topics should extend beyond a single short paragraph.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T013825Z" creationid="lenovo" creationdate="20200808T120302Z">
@@ -6039,6 +6055,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T153345Z" creationid="DSS" creationdate="20200801T131304Z">
         <seg> DITA 技术委员会电话记录中记录了&lt;t4/&gt;2013&lt;t5/&gt;年10月8日普里斯特利（MP）和南希·哈里森（NH）之间的对话，南希·哈里森来自Infobridge Solutions，目前是技术委员会的秘书：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The rest of the manual can be used to expand where necessary” (1976, p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T013908Z" creationid="lenovo" creationdate="20200809T013908Z">
+        <seg>手册剩余的内容则可按需分配。”(1976, p.</seg>
       </tuv>
     </tu>
     <tu>
