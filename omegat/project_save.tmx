@@ -1815,6 +1815,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Basic functions&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T023005Z" creationid="lenovo" creationdate="20200809T023005Z">
+        <seg>基本功能s&lt;t0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Basic requirements&lt;t0/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T021727Z" creationid="lenovo" creationdate="20200809T021727Z">
@@ -5120,6 +5128,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Should contain “step-by-step instructions for performing a task of primary interest to the user.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T023240Z" creationid="lenovo" creationdate="20200809T023240Z">
+        <seg>应该包含“逐步指导”引导用户完成最感兴趣的任务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Should describe “the program or system as it will appear to the user.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T014549Z" creationid="lenovo" creationdate="20200809T014549Z">
@@ -6591,6 +6607,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T033203Z" creationid="lenovo" creationdate="20200804T031344Z">
         <seg>增加元数据以便利文本的模块化复用，我在首次接触这一理念是上世纪90年代早期，一名在IBM的罗利（Raleigh）实验室工作的技术传播工程师向我阐述了这一理念。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This information may be moved to an appendix if it is more than 2—3 pages or is primarily technical in a manual that is intended for people with no programming experience” (1976, p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T022957Z" creationid="lenovo" creationdate="20200809T022957Z">
+        <seg>如果内容超过了2-3页或者对于目标人群是无编程经验的用户而言过于技术性，这些信息就会移至附录中。 (1976, p.</seg>
       </tuv>
     </tu>
     <tu>
