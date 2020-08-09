@@ -6859,6 +6859,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Those teaching practices prevail despite decades of conversation about the ben&lt;t4/&gt;efits of intelligent content enablers like single-sourcing and reuse and industry best practices.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T124031Z" creationid="DSS" creationdate="20200809T124031Z">
+        <seg>尽管智能内容的优势如同源开发、内容复用已经讨论了几十年 ，智能内容也是行业最佳实践，但上文提到的教学实践仍然非常普遍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Those topics can be present in several combinations grouped in maps.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T060945Z" creationid="DSS" creationdate="20200807T060945Z">
@@ -7330,6 +7338,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T153524Z" creationid="DSS" creationdate="20200720T133600Z">
         <seg>是的，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Yet in many technical communication academic programs the preferred author&lt;t3/&gt;ing tools and workflows involve a word processor or a static website platform.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T124029Z" creationid="DSS" creationdate="20200809T124029Z">
+        <seg>然而，在许多与技术传播相关的学术项目中，首选的创作工具和工作流程是文字处理软件或者静态网站平台。</seg>
       </tuv>
     </tu>
     <tu>
