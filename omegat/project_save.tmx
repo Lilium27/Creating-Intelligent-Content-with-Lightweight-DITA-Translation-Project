@@ -617,8 +617,8 @@
       <tuv lang="en">
         <seg>&lt;t2/&gt;In a blog post titled “Overview of Lightweight DITA (XDITA and HDITA),” Michael Priestley introduced an idea to liberate the DITA standard from its longstanding dependence on the Extensible Markup Language (XML).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T115111Z" creationid="DSS" creationdate="20200809T115111Z">
-        <seg>在一篇题为《轻量级DITA (XDITA 和 HDITA)概述》（Overview of Lightweight DITA （XDITA and HDITA））的博客文章中，迈克尔·普里斯特利介绍了这样一种想法：将 DITA 标准从长期以来对可扩展标记语言 (XML) 的依赖中解放出来。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T120514Z" creationid="DSS" creationdate="20200809T115111Z">
+        <seg>在一篇题为《轻量级DITA（XDITA 和 HDITA）概述》（Overview of Lightweight DITA （XDITA and HDITA））的博客文章中，迈克尔·普里斯特利介绍了这样一种想法：长期以来 DITA 标准一直依赖可扩展标记语言 (XML) ，需要将其解放出来。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6245,8 +6245,8 @@
       <tuv lang="en">
         <seg>The revised proposal of April &lt;t3/&gt;2014 &lt;t4/&gt;had the goal “to align a lightweight DITA profile in XML with an equivalent markup specification based on HTML5” (Priestley, &lt;t5/&gt;2014).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T115524Z" creationid="DSS" creationdate="20200809T115524Z">
-        <seg>2014年4月，委员会对提案进行了修订，修订后的提案目标是“使基于 XML 与基于 HTML5 的轻量级 DITA 的标记规范保持一致” (Priestley, &lt;t5/&gt;2014)。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T120218Z" creationid="DSS" creationdate="20200809T115524Z">
+        <seg>2014年4月，委员会对提案进行了修订，修订后的提案目标是“使基于 XML 的轻量级 DITA 的标记规范与基于 HTML5 的标记规范保持一致” (Priestley, &lt;t5/&gt;2014)。</seg>
       </tuv>
     </tu>
     <tu>
