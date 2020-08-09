@@ -5142,6 +5142,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Processing and reporting&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T235127Z" creationid="lenovo" creationdate="20200809T235127Z">
+        <seg>处理和报告&lt;t0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Production editors, who will get involved in defining the transformation files that assign formatting based on structure.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T081326Z" creationid="DSS" creationdate="20200726T153722Z">
@@ -5316,6 +5324,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T023240Z" creationid="lenovo" creationdate="20200809T023240Z">
         <seg>应该包含“逐步指导”引导用户完成最感兴趣的任务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Should describe “all statements, commands, parameters, and options that a user must cope with” &lt;t1/&gt;(1976, &lt;t2/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T235249Z" creationid="lenovo" creationdate="20200809T235249Z">
+        <seg>应该描述“用户必须处理的所有语句、命令、参数和选项。”&lt;t1/&gt;(1976, &lt;t2/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
