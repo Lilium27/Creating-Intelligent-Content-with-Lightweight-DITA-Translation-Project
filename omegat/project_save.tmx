@@ -3270,8 +3270,8 @@
       <tuv lang="en">
         <seg>Identify its main functions and refer to an appropriate section later in the manual for detailed information.” “The complete introduction should not be more than 1—3 printed pages.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T014907Z" creationid="lenovo" creationdate="20200809T014907Z">
-        <seg>界定它的主要功能，并指定手册后续章节以获取详细信息。”“完整的介绍不应超过1-3页。”</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T014918Z" creationid="lenovo" creationdate="20200809T014907Z">
+        <seg>界定它的主要功能，并指定手册后续章节以获取详细信息。”“完整的介绍不应超过1-3页。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3928,6 +3928,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140347Z" creationid="DSS" creationdate="20200726T140347Z">
         <seg>学术界的技术传播发展并不是停滞不前。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is really not much more than a long-winded Topic Index” (1976, p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T014944Z" creationid="lenovo" creationdate="20200809T014914Z">
+        <seg>它不过就是加长版的主题索引。”(1976, p.</seg>
       </tuv>
     </tu>
     <tu>
