@@ -2924,6 +2924,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>From a cautionary or preventive perspective, planning ahead can minimize the future impact of dealing with legacy content siloed in one plat&lt;t4/&gt;form.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T130427Z" creationid="DSS" creationdate="20200809T130427Z">
+        <seg>从警示或预防的角度来看，提前计划可以将以后处理某一平台遗留内容的可能性降到最小。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From an educational perspective, some authors mentioned in the next section claim that making computation, and its potential benefits, available to thinkers of all disciplines is a responsibility in academia.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T130451Z" creationid="DSS" creationdate="20200809T130451Z">
+        <seg>从教育的角度来看，在下一节中将提到的一些作者认为，让所有学科的学生都能掌握计算思维，享受其带来的益处是学术界的责任。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>From the practitioner side of technical communication, O'Keefe points out that XML “defines a standard for storing structured content in text files” &lt;t0/&gt;(2009, &lt;t1/&gt;p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143908Z" creationid="DSS" creationdate="20200726T154021Z">
@@ -3896,6 +3912,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T131128Z" creationid="DSS" creationdate="20200801T131128Z">
         <seg>相反，讨论转向了将 LwDITA 从 DITA 标准中分离出来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Intelligent Content Needs Computational Thinking</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T131215Z" creationid="DSS" creationdate="20200809T131215Z">
+        <seg>创建智能内容需要计算思维</seg>
       </tuv>
     </tu>
     <tu>
@@ -5654,6 +5678,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T075506Z" creationid="DSS" creationdate="20200807T075506Z">
         <seg>地图级别的 &lt;t9/&gt;&lt;h1&gt; &lt;t10/&gt;元素（粗体）为使用该特定地图生成的可交付内容定义了主标题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Abstractions Behind Intelligent Content &lt;t0/&gt;151 &lt;t1/&gt;near future, as even the smallest content unit (a Microsoft Word file today) can grow to become a complex repository &lt;t2/&gt;(1000 &lt;t3/&gt;pages of unstructured content with hundreds of tasks, frequently-asked questions, and product descriptions, for example).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T130422Z" creationid="DSS" creationdate="20200809T130422Z">
+        <seg>&lt;t1/&gt;未来即使是最小的内容单元（今天的 Microsoft Word 文件）也可以发展为复杂的内容库（如包含数百个任务、常见问题和产品描述的1000页非结构化内容），独立作者也是如此。</seg>
       </tuv>
     </tu>
     <tu>
