@@ -424,3 +424,5 @@ Larry Wygant	拉里·怀甘特
 Joe Rigo	乔·里戈
 Introduction	简介
 entry point	入口
+Dan Garcia	丹·加西亚
+Garcia	加西亚
