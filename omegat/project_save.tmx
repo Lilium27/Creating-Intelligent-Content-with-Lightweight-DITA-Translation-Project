@@ -6309,8 +6309,8 @@
       <tuv lang="en">
         <seg>The standard was being split into three different versions for its &lt;t1/&gt;1.3 &lt;t2/&gt;release: base, technical content, and all-inclusive, which were called “packages” or “packaging” in discussions before their offi&lt;t3/&gt;cial release.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T131151Z" creationid="DSS" creationdate="20200801T131151Z">
-        <seg>DITA标准在其&lt;t1/&gt;1.3&lt;t2/&gt;版本中被分为三个不同的版本：基础版本、技术内容版本和完整版本，在正式发布之前的讨论中这三个版本被称为“包”或者“打包”。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T121804Z" creationid="DSS" creationdate="20200801T131151Z">
+        <seg>DITA 标准&lt;t1/&gt;1.3&lt;t2/&gt;版本分为三个不同的分支：基础版本、技术内容版本和完整版本，在正式发布之前的讨论中这三个分支被称为“包”或者“打包”。</seg>
       </tuv>
     </tu>
     <tu>
