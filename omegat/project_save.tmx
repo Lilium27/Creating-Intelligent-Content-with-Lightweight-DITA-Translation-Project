@@ -2484,6 +2484,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Experienced users will refer directly to the reference material in other chapters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T024042Z" creationid="lenovo" creationdate="20200809T024042Z">
+        <seg>老用户会直接跳转到其他章节的参考资料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE 1.2 &lt;t0/&gt;Sarah O'Keefe's sample recipe for marinara sauce in XML.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144027Z" creationid="DSS" creationdate="20200726T154357Z">
@@ -6679,6 +6687,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T155108Z" creationid="DSS" creationdate="20200726T153130Z">
         <seg>对于那些没有领略过智能内容标准和标记语言的读者，本节非常有用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This section “introduces new users to the system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T024007Z" creationid="lenovo" creationdate="20200809T024007Z">
+        <seg>“向新用户介绍系统</seg>
       </tuv>
     </tu>
     <tu>
