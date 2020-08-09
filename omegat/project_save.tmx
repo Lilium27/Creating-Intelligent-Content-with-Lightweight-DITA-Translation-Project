@@ -2996,6 +2996,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Having an understanding of the principles of authoring intelligent content with LwDITA, however, can benefit that lone writer in the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T130347Z" creationid="DSS" creationdate="20200809T130347Z">
+        <seg>不过了解使用 LwDITA 编写智能内容的原则有益无害，因为</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hayakawa &lt;t0/&gt;&amp; &lt;t1/&gt;Hayakawa explain the concept of abstraction through the example of “Bessie the cow,” which is described in their influential work on semantics as a dynamic process (with respiratory, nervous, digestive and other systems “constantly changing”) and not just a static object.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T074020Z" creationid="DSS" creationdate="20200808T074020Z">
