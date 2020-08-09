@@ -4700,6 +4700,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Nine years later, Hart-Davidson &lt;t5/&gt;(2010) &lt;t6/&gt;noted that the technical communication literature focused narrowly on the concept of single-sourcing, to the detriment of other aspects of a content management (CM) workflow that involve technical authors.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T135955Z" creationid="DSS" creationdate="20200809T135955Z">
+        <seg>九年之后，哈特-戴维森 (2010) 注意到技术传播界的文章狭隘地关注同源开发的概念，这损害了与技术作者息息相关的内容管理 (CM) 工作流的其他方面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No more copy and paste!</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153531Z" creationid="DSS" creationdate="20200726T153531Z">
@@ -7502,6 +7510,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Yet, this process is not</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T135837Z" creationid="DSS" creationdate="20200809T135837Z">
+        <seg>然而，这一过程在技术传播领</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can create the XDITA map from &lt;t0/&gt;Figure &lt;t1/&gt;5.8&lt;t2/&gt; &lt;t3/&gt;in any text editor or in a LwDITA-aware tool like Oxygen XML Editor.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T080023Z" creationid="DSS" creationdate="20200807T064851Z">
@@ -7594,6 +7610,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T040929Z" creationid="DSS" creationdate="20200807T035052Z">
         <seg>看起来像一个扳手，扳手下方有一个播放按钮），同时在编辑器窗口中打开一个地图。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>new in the world of technical communication: it has been more than &lt;t0/&gt;17 &lt;t1/&gt;years since Hart-Davidson &lt;t2/&gt;(2001) &lt;t3/&gt;asked scholars and practitioners to see the con&lt;t4/&gt;tent chunks of single-sourcing projects as rhetorical objects and not just mere information.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T135909Z" creationid="DSS" creationdate="20200809T135909Z">
+        <seg>域并不新鲜：自哈特-戴维森 (Hart-Davidson, 2001) 要求学者和从业者将同源开发项目中的内容块视为修辞对象而不仅仅是信息以来，已经超过十七年了。</seg>
       </tuv>
     </tu>
     <tu>
