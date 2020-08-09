@@ -5200,6 +5200,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Rather, there is a recipe for milkshakes that instructs you to add ice cream, milk and fruit of your choice.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T132707Z" creationid="DSS" creationdate="20200809T132707Z">
+        <seg>相反，会有一份奶昔食谱教你用冰淇淋、牛奶和你所选择的那款水果制作奶昔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reducing the amount of reading and other passive activity in training</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T074731Z" creationid="lenovo" creationdate="20200723T074731Z">
@@ -7334,6 +7342,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>While earlier cookbooks may have had separate recipes for strawberry milkshakes, raspberry milk&lt;t1/&gt;shakes and boysenberry milkshakes, eventually, he imagines, someone said, “Why don't we collapse that into one milkshake recipe?”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T132712Z" creationid="DSS" creationdate="20200809T132712Z">
+        <seg>虽然早期的食谱中可能会为草莓奶昔、覆盆子奶昔和波森莓奶昔分别提供食谱，但加西亚猜想，最终有人会说，“为什么不把它们合成一个奶昔食谱呢?”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>While terms such as granules, modules, and units are commonly used to describe these blocks, the term topic has gained the most traction in the past few years, particularly in the trade literature.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T160552Z" creationid="DSS" creationdate="20200724T155531Z">
@@ -7683,6 +7699,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T092231Z" creationid="lenovo" creationdate="20200723T091708Z">
         <seg>“其一就是在过去的年代，人们不得不开动脑筋，因为系统笨重且无法运行，你必须了解Unix操作系统并且不对一闪一闪的命令行产生畏惧心理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“There is a reason when you go to the ‘Joy of Cooking' and you want to make a strawberry milkshake, you don't look under ‘strawberry milk&lt;t0/&gt;shake,'” he said.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T132659Z" creationid="DSS" creationdate="20200809T132659Z">
+        <seg>加西亚表示：“如果你想做草莓奶昔，然后翻看《烹饪的乐趣》一书查找食谱，你不会直接寻找“草莓奶昔”食谱。”</seg>
       </tuv>
     </tu>
     <tu>
