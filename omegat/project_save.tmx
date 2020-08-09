@@ -1263,6 +1263,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A very important disclaimer: Despite the benefits of adopting an intelligent content workflow with LwDITA, there are many situations and contexts that would be better off without it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T124741Z" creationid="DSS" creationdate="20200809T124741Z">
+        <seg>一则非常重要的免责声明：尽管使用LwDITA智能内容工作流有很多好处，但是在许多情况和语境下，有其他更好的选择。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Abstraction allows humans to separate the “layers” of a particular problem and work on each one individually without concern for the others.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T080421Z" creationid="DSS" creationdate="20200808T080421Z">
@@ -3880,6 +3888,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T131128Z" creationid="DSS" creationdate="20200801T131128Z">
         <seg>相反，讨论转向了将 LwDITA 从 DITA 标准中分离出来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Intelligent content requires dedication, commit&lt;t0/&gt;ment, and resources.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T124746Z" creationid="DSS" creationdate="20200809T124746Z">
+        <seg>智能内容需要作者对写作热忱，投入大量精力，同时也需要各种资源。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6879,6 +6895,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200802T075732Z" creationid="lenovo" creationdate="20200802T075732Z">
         <seg>这些因素的影响力远超极简主义。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thus, a lone writer developing deliverables for an audience of one or two readers in one type of deliverable, could still find the ideal solution in a word processor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T125826Z" creationid="DSS" creationdate="20200809T125826Z">
+        <seg>因此，如果一位独立作者要为一两位读者编写某种格式的可交付内容，文字处理软件仍然是理想的解决方案。</seg>
       </tuv>
     </tu>
     <tu>
