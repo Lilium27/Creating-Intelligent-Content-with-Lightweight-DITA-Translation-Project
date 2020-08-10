@@ -855,6 +855,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t4/&gt;9) &lt;t5/&gt;and it should advise the user “that this is all he needs to know about the subject unless he wants to become a computer programmer, in which case he should read some other book”&lt;t6/&gt;(&lt;t7/&gt;1976, pp.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T001222Z" creationid="lenovo" creationdate="20200810T001222Z">
+        <seg>&lt;t4/&gt;9) &lt;t5/&gt;它还应该建议用户“关于这个主题，他所需要知道的全部都在这了，除非他想成为一个计算机程序员，那他应该读一些其他的书”&lt;t6/&gt;(&lt;t7/&gt;1976, pp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t4/&gt;9).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144306Z" creationid="DSS" creationdate="20200726T155008Z">
@@ -2147,6 +2155,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200808T023100Z" creationid="lenovo" creationdate="20200808T023100Z">
         <seg>极简主义之前的通用结构</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Complete examples&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T001253Z" creationid="lenovo" creationdate="20200810T001253Z">
+        <seg>完整示例&lt;t0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5340,6 +5356,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T080716Z" creationid="lenovo" creationdate="20200723T080716Z">
         <seg>简短、简洁的手册能让用户深入并迅速完成不同的任务，从何获得掌控感和自觉性以激发进一步的学习。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Should contain “at least one complete example.” “Do not try to show off every bell and whistle in the system in a single example.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T001733Z" creationid="lenovo" creationdate="20200810T001733Z">
+        <seg>应该包含“至少一个完整的示例。”“不要试图在一个案例中展现系统所有花里胡哨的功能。”</seg>
       </tuv>
     </tu>
     <tu>
