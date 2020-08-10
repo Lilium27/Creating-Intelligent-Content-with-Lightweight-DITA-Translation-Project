@@ -4822,6 +4822,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Many of those moves are captured in the element types of the DITA &lt;t0/&gt;1.3 &lt;t1/&gt;standard (e.g., a task is “what to do” and a concept is “what it means”).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T130240Z" creationid="lenovo" creationdate="20200810T130127Z">
+        <seg>DITA &lt;t0/&gt;1.3 &lt;t1/&gt;标准的元素类型中能看到很多这种文步的身影（例如任务就是“步骤”而概念就是“含义”）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Map (&lt;t0/&gt;&lt;map&gt;&lt;t1/&gt;) &lt;t2/&gt;- &lt;t3/&gt;describes the relationships among a set of resources, such as LwDITA topics</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T062825Z" creationid="DSS" creationdate="20200807T062825Z">
@@ -5764,8 +5772,8 @@
       <tuv lang="en">
         <seg>Separate what to do from what it means</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T124935Z" creationid="lenovo" creationdate="20200810T124935Z">
-        <seg>分离概念与步骤</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T130217Z" creationid="lenovo" creationdate="20200810T124935Z">
+        <seg>分离含义与步骤</seg>
       </tuv>
     </tu>
     <tu>
