@@ -5262,6 +5262,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Price's conventions and recommendations were presented with the ultimate goal of creating “friendly manuals,” which the author posited as the antidote against bad manuals of the past.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T074317Z" creationid="lenovo" creationdate="20200810T074317Z">
+        <seg>普莱斯提出的惯例和建议的最终目的是创造“友好的手册”，作者将其作为解救过去糟糕手册的一剂良药。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Priestley and I continued collecting data for our HDITA authoring research project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T155247Z" creationid="DSS" creationdate="20200802T155247Z">
@@ -8179,6 +8187,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T002111Z" creationid="lenovo" creationdate="20200810T002111Z">
         <seg>“附录是最纯粹、最有用的计算机系统文件形式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“Friendly manuals sell products, expand users' understanding of the extra features, and save everyone's time,” he wrote (Price, &lt;t0/&gt;1984, &lt;t1/&gt;p.7).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T074430Z" creationid="lenovo" creationdate="20200810T074430Z">
+        <seg>“友好的手册能增加产品销量、扩展用户对附加功能的理解，并节省每个人的时间。” 他写到(Price, &lt;t0/&gt;1984, &lt;t1/&gt;p.7).</seg>
       </tuv>
     </tu>
     <tu>
