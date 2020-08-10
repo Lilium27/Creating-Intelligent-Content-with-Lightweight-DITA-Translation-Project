@@ -4308,6 +4308,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Joe Rigo's outline for a computer manual reflects a healthy and confident genre of technical communication in the 1970s.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T004842Z" creationid="lenovo" creationdate="20200810T004842Z">
+        <seg>乔·里戈为计算机手册制定的大纲反映了上世纪70年代技术传播领域一种健康而自信的体裁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>John Carroll Takes the Stand</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200802T074452Z" creationid="lenovo" creationdate="20200802T070634Z">
@@ -5324,6 +5332,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T150322Z" creationid="DSS" creationdate="20200725T064634Z">
         <seg>纯 XML（如意式番茄罗勒酱菜谱示例所示）不会提供已经定义好的标签，但是 DITA 提供了一系列与技术传播相关的元素和属性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Putting the Manual on Life Support</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T003557Z" creationid="lenovo" creationdate="20200810T003557Z">
+        <seg>手册实时维护</seg>
       </tuv>
     </tu>
     <tu>
