@@ -1001,6 +1001,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t5/&gt;In this model, automation can be implemented as a problem-solving approach, but only after abstractions are applied in the development of structures in algorithmic workflows.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T134531Z" creationid="DSS" creationdate="20200810T134531Z">
+        <seg>在罗克利和戈尔纳的模型中，自动化可以视作一种解决问题的方法，但必须在算法工作流的结构开发中应用抽象概念才行。总之，为了实现高效的内容自动化例程，创作者（不一定是程序员或开发人员）需要参与一个包含抽象层级和可复制规则的结构化过程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t5/&gt;Others argue that in the world of computing code verbose languages are becoming obsolete, but intelligent content still relies on XML and its nested tag structures:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143411Z" creationid="DSS" creationdate="20200726T152722Z">
@@ -5838,6 +5846,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T122216Z" creationid="lenovo" creationdate="20200810T003413Z">
         <seg>里戈建议的分节和文步构建了清晰的模式或者说是架构，能利用它来构成技术手册的范例以此作为技术传播的体裁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rockley &lt;t0/&gt;&amp; &lt;t1/&gt;Gollner's portrayal of content automation subject to human thinking structures bears resemblance to the model of computational thinking by Jeannette Wing that I mentioned in &lt;t2/&gt;Chapter &lt;t3/&gt;1&lt;t4/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T133447Z" creationid="DSS" creationdate="20200810T133447Z">
+        <seg>罗克利和戈尔纳对受制于人类思维结构的内容自动化的描述，与我在第1章中提到的珍妮特·温的计算思维模型有相似之处。</seg>
       </tuv>
     </tu>
     <tu>
