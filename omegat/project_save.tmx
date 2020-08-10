@@ -4350,6 +4350,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this book, I follow Guzdial's and Barba's cautious philosophy: develop&lt;t0/&gt;ing intelligent content with LwDITA grounded on principles of computational thinking will help communicators produce future-proof content that is ready for automation and is not restricted to one deliverable and one audience.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T152836Z" creationid="DSS" creationdate="20200810T152814Z">
+        <seg>在本书中，我遵循了古齐亚尔和巴尔巴的谨慎思考，我认为基于计算机思维的原则使用LwDITA开发智能内容，将帮助技术传播者生成未永不过时的内容，为自动化做好准备，同时不局限于某一种交付格式或某一类受众。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this case, they specify that the topic is Lightweight DITA and not full DITA XML, that it should not allow nested lists, and that it should not allow the inclusion of sections inside the topic.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T082155Z" creationid="DSS" creationdate="20200731T082155Z">
@@ -4602,6 +4610,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140347Z" creationid="DSS" creationdate="20200726T140347Z">
         <seg>学术界的技术传播发展并不是停滞不前。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is possible that students introduced to LwDITA methodologies for creating con&lt;t1/&gt;tent will be on an easier path for acquiring skills in programming and other advanced computing topics, or perhaps the students will only apply computing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T152821Z" creationid="DSS" creationdate="20200810T152821Z">
+        <seg>学会使用 LwDITA 编写内容的学生可能更容易掌握编程和其他高级计算机技能，也有可能这些学生只会在作为内容创作者时在工作中应用计算机实践。 </seg>
       </tuv>
     </tu>
     <tu>
