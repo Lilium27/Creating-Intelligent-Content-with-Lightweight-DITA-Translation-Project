@@ -1551,6 +1551,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An “increasing reluctance to read instructions, whether they are on a prod&lt;t0/&gt;uct, on its packaging, or in a manual.” They hypothesized that conditions like “the age of television we live in” or the bad reputation spawned by manuals of the past were to blame.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T023749Z" creationid="lenovo" creationdate="20200810T023749Z">
+        <seg>“无论是印在产品上、包装上或是手册上，人们都越来越不爱读说明书了。”他们都假定罪魁祸首是“我们生活的电视时代”或过去手册造成的坏名声。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>And authors should not underestimate</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T084210Z" creationid="DSS" creationdate="20200725T084210Z">
@@ -6999,6 +7007,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T072825Z" creationid="DSS" creationdate="20200807T072825Z">
         <seg>他们也可以使用更高级的 HTML 编辑器，包括 WYSIWYG 编辑器（只要该编辑器允许用户将内容保存为符合标准的 HTML5 文件），或者支持 LwDITA 的工具，比如 Oxygen XML Editor。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They provided the following causes behind the crisis in manual writing:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T023122Z" creationid="lenovo" creationdate="20200810T023122Z">
+        <seg>以下是他们提出的手册写作危机的原因：</seg>
       </tuv>
     </tu>
     <tu>
