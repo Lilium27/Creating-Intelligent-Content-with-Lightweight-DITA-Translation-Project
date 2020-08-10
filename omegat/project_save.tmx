@@ -1639,6 +1639,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Appendices&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T002019Z" creationid="lenovo" creationdate="20200810T002019Z">
+        <seg>附录&lt;t0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Applying that example to the world of intelligent content, Garcia's versa&lt;t0/&gt;tile milkshake recipe represents the type of authoring process that cannot be achieved with a word processor or a presentational web platform.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T134053Z" creationid="DSS" creationdate="20200809T134053Z">
@@ -1707,6 +1715,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T155539Z" creationid="lenovo" creationdate="20200804T012232Z">
         <seg>因此，他回到卡罗尔的原作《&lt;t1/&gt;纽伦堡漏斗&lt;t2/&gt;》中寻找答案，发现“典型的例子就是，卡罗尔用用户指南来测试这些原则，而如今你可以用DITA来撰写用户指南。”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As a result, it becomes very easy for a user to find exactly the information that he is looking for” (1976, p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T002249Z" creationid="lenovo" creationdate="20200810T002249Z">
+        <seg>因此，用户可以很容易准确地找到他想要的信息。” (1976, p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4148,6 +4164,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is usually well defined and restricted to a single narrow topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T002206Z" creationid="lenovo" creationdate="20200810T002206Z">
+        <seg>它通常定义明确且主题限定在狭小范围内。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It may be moved to an appendix if the process is performed only once for the entire instal&lt;t1/&gt;lation” (1976, p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T024640Z" creationid="lenovo" creationdate="20200809T024640Z">
@@ -4764,6 +4788,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No error message is self explanatory” (1976, p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T002002Z" creationid="lenovo" creationdate="20200810T002002Z">
+        <seg>没有任何错误信息是不言自明的” (1976, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No more copy and paste!</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153531Z" creationid="DSS" creationdate="20200726T153531Z">
@@ -5340,6 +5372,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T000602Z" creationid="lenovo" creationdate="20200810T000602Z">
         <seg>里戈在这一节的末尾称“手册必须包含一个在单个页面上显示所有命令格式的参考图表”&lt;t6/&gt;(1976, &lt;t7/&gt;p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rigo concluded his ode to the appendix with the following: “Appendices are great.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T002343Z" creationid="lenovo" creationdate="20200810T002343Z">
+        <seg>Rigo在对附录的赞歌中总结道:“附录太棒了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7851,6 +7891,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T093651Z" creationid="lenovo" creationdate="20200723T091408Z">
         <seg>卡罗尔说，“很多事都变了，”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“An appendix is the purest, most usable form of computer sys&lt;t1/&gt;tem documentation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T002111Z" creationid="lenovo" creationdate="20200810T002111Z">
+        <seg>“附录是最纯粹、最有用的计算机系统文件形式。</seg>
       </tuv>
     </tu>
     <tu>
