@@ -5698,6 +5698,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Revise it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T125909Z" creationid="lenovo" creationdate="20200810T125909Z">
+        <seg>修改</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Revisiting the DITA Map</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T084603Z" creationid="DSS" creationdate="20200806T084603Z">
@@ -6109,8 +6117,8 @@
       <tuv lang="en">
         <seg>Test it again</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T125415Z" creationid="lenovo" creationdate="20200810T125415Z">
-        <seg>验证</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T125850Z" creationid="lenovo" creationdate="20200810T125415Z">
+        <seg>再次验证</seg>
       </tuv>
     </tu>
     <tu>
@@ -8513,6 +8521,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>• &lt;t0/&gt;Allay anxiety</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T125840Z" creationid="lenovo" creationdate="20200810T125840Z">
+        <seg>• &lt;t0/&gt;减轻焦虑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>• &lt;t0/&gt;Anticipate variations</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T125230Z" creationid="lenovo" creationdate="20200810T125230Z">
@@ -8686,6 +8702,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T061831Z" creationid="DSS" creationdate="20200808T061831Z">
         <seg>· &lt;t0/&gt;表格组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;Tell people where to go next (Price, &lt;t1/&gt;1984).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T125931Z" creationid="lenovo" creationdate="20200810T125931Z">
+        <seg>• &lt;t0/&gt;告知下一步 (Price, &lt;t1/&gt;1984).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;Test it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T125859Z" creationid="lenovo" creationdate="20200810T125859Z">
+        <seg>• &lt;t0/&gt;验证</seg>
       </tuv>
     </tu>
     <tu>
