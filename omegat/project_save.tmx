@@ -1105,6 +1105,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t8/&gt;Gu &lt;t9/&gt;&amp; &lt;t10/&gt;Pullman presented that scenario in &lt;t11/&gt;2009, &lt;t12/&gt;and technical writing jobs have not become assembly-line positions (at least not yet).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T131924Z" creationid="DSS" creationdate="20200810T131924Z">
+        <seg>该设想由古和铂尔曼于2009年提出，而技术写作并没有变成一个流水线上的职位（至少现在还没有)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t8/&gt;Topic-based writing is described as “authoring an information set as a collection of discrete units called &lt;t9/&gt;topics&lt;t10/&gt;, rather than as a whole book or help system” (Baker, &lt;t11/&gt;2016 &lt;t12/&gt;p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144526Z" creationid="DSS" creationdate="20200724T154341Z">
@@ -3550,6 +3558,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I argue that in a model of intelligent content with LwDITA built on principles of computational thinking, &lt;t13/&gt;machine automation cannot happen without human abstraction&lt;t14/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T131930Z" creationid="DSS" creationdate="20200810T131930Z">
+        <seg>我认为，在基于计算机思维原则的LwDITA的智能内容模型中，如果没有人类的抽象能力，就没有机器自动化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I assume that readers interested in LwDITA will already be at least slightly familiar with XML, HTML5, or Markdown.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T084523Z" creationid="DSS" creationdate="20200806T084523Z">
@@ -5794,6 +5810,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Rockley &lt;t15/&gt;&amp; &lt;t16/&gt;Gollner, writing about intelligent con&lt;t17/&gt;tent as a key step in developing a sustainable content strategy, mention that:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T132015Z" creationid="DSS" creationdate="20200810T132015Z">
+        <seg>罗克利和戈尔纳（Gollner）认为智能内容是发展可持续内容战略的关键一步，他们指出：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sample output&lt;t0/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T000627Z" creationid="lenovo" creationdate="20200810T000627Z">
@@ -7193,6 +7217,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T122302Z" creationid="DSS" creationdate="20200806T092049Z">
         <seg>视频教程“安装 DITA Open Toolkit&lt;t3/&gt;”&lt;t4/&gt;2&lt;t5/&gt;和“测试 DITA Open Toolkit”&lt;t6/&gt;3&lt;t7/&gt;提供了足够的信息来学习本书接下来展示的示例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The workplace still needs thinkers and curators of automated content, and technical communication programs in academia should be preparing students for those positions and for conducting research that will advance and improve intelligent content concepts and practices.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T131935Z" creationid="DSS" creationdate="20200810T131935Z">
+        <seg>技术传播领域仍然需要思考者和自动化内容管理者，而学术界的技术传播课程应该让学生为这些职位做好准备，为以推进和改进智能内容的概念和实践的研究做好准备。</seg>
       </tuv>
     </tu>
     <tu>
