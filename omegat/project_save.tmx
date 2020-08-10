@@ -6388,8 +6388,8 @@
       <tuv lang="en">
         <seg>Table &lt;t3/&gt;1 &lt;t4/&gt;shows a list of “weak verbs” and “roundabout expression” compared to “strong, precise verbs” and “concise terms” from the “Write directly and eco&lt;t5/&gt;nomically” recommendation under the requirement of “Clarity.”</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T165205Z" creationid="lenovo" creationdate="20200810T165205Z">
-        <seg>表格 &lt;t3/&gt;1 &lt;t4/&gt;是一个“弱动词”和和“迂回表达”的列表，与之形成对比的是“明确性”要求下的“直接而经济地写作”</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T165247Z" creationid="lenovo" creationdate="20200810T165205Z">
+        <seg>表格 &lt;t3/&gt;1 &lt;t4/&gt;是一个“弱动词”和和“迂回表达”的列表，与之形成对比的是“明确性”要求下的“直接而经济地写作”所使用的“强而精确的动词”和“简洁的术语。”</seg>
       </tuv>
     </tu>
     <tu>
@@ -6912,6 +6912,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T162926Z" creationid="DSS" creationdate="20200804T162926Z">
         <seg>在 LwDITA 最初的写作格式中，XML、HTML5 和 Markdow n的组合提升了类 DITA 环境中作者的多样性，但也带来了对模型和结构的兼容性和对等性的挑战。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The combination of big-picture requirements and concrete recommenda&lt;t0/&gt;tions responds to &lt;t1/&gt;PQTI&lt;t2/&gt;'s dual audience.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T165500Z" creationid="lenovo" creationdate="20200810T165500Z">
+        <seg>全局性的要求与具体的建议相结合使得 &lt;t1/&gt;PQTI&lt;t2/&gt;满足了两类读者的需求。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9018,8 +9026,8 @@
       <tuv lang="en">
         <seg>{ &lt;t0/&gt;Write directly and economically</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T162851Z" creationid="lenovo" creationdate="20200810T162851Z">
-        <seg>{ &lt;t0/&gt;写作应直接了当且注重经济效益</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T165211Z" creationid="lenovo" creationdate="20200810T162851Z">
+        <seg>{ &lt;t0/&gt;直接而经济地写</seg>
       </tuv>
     </tu>
     <tu>
