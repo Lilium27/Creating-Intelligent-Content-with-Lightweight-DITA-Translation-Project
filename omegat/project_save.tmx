@@ -7027,6 +7027,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They advocated for the use of a series of plan sheets that functioned as the manual's blueprint: “Just as a house should not be built without a blueprint, a manual should not be created without a blueprint &lt;t1/&gt;- &lt;t2/&gt;not just an outline, but a blueprint” &lt;t3/&gt;(1984, &lt;t4/&gt;p.12).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T030125Z" creationid="lenovo" creationdate="20200810T030125Z">
+        <seg>他们建议使用一系列计算表作为手册蓝图：“就像建房子不能没有蓝图，手册也不应没有蓝图 &lt;t1/&gt;- &lt;t2/&gt;不只是大纲，而是蓝图。” &lt;t3/&gt;(1984, &lt;t4/&gt;p.12).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They could also use a more advanced HTML editor, including WYSIWYG editors (as long as they allow users to save content as standards- compliant HTML5), or a LwDITA-aware tool like Oxygen XML Editor.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T072825Z" creationid="DSS" creationdate="20200807T072825Z">
