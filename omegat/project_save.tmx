@@ -407,6 +407,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t1/&gt;Those fault lines are still threatening the field's foundation, and even prompted Carolyn Rude to pose the rhetorical question, “In trying to define our field as something more than adjunct to the computer industry engaged in vocational training, have we overcorrected?” &lt;t2/&gt;(2015, &lt;t3/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T140720Z" creationid="DSS" creationdate="20200810T140712Z">
+        <seg>这些断层线仍然威胁着技术传播领域的根基，甚至迫使卡罗琳·路德提反问到：“认为技术传播致力于职业培训，试图将技术传播定义为仅比计算机产业的附属物略微高级的领域，这是否矫枉过正了？”(2015, &lt;t3/&gt;p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t1/&gt;Users perceive lower cost, lower com&lt;t2/&gt;plexity at the range of use they expect, and can move up as requirements dictate (basically playing to progression of needs and investments in the DITA Maturity Model).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T071605Z" creationid="DSS" creationdate="20200731T071605Z">
@@ -849,6 +857,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t4/&gt;10).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T140728Z" creationid="DSS" creationdate="20200810T140728Z">
+        <seg>&lt;t4/&gt;10)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t4/&gt;19).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143047Z" creationid="DSS" creationdate="20200726T090515Z">
@@ -989,6 +1005,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T153318Z" creationid="DSS" creationdate="20200804T162450Z">
         <seg>&lt;t5/&gt;对于需要更严密的结构化模型的情况，DITA 标准可以作为替代方案或下一级解决方案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t5/&gt;I see the blending of computational thinking and writing studies discussed in this chapter as a way to patch that fault line and find ways to teach computing principles in our domain without losing our academic and disciplinary identities.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T140714Z" creationid="DSS" creationdate="20200810T140714Z">
+        <seg>我认为将本章中讨论的计算机思维和写作研究结合起来是一种修补断层线的方法，也有助于在不丢失学术和专业身份的情况下，找到在技术传播教授计算原理的对策。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3274,6 +3298,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T130451Z" creationid="DSS" creationdate="20200809T130451Z">
         <seg>从教育的角度来看，在下一节中将提到的一些作者认为，让所有学科的学生都能掌握计算思维，享受其带来的益处是学术界的责任。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From the perspective of computing education, Mark Guzdial provides a supporting statement for teaching computing principles outside of computer science courses:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T143739Z" creationid="DSS" creationdate="20200810T143739Z">
+        <seg>从计算机教学的角度来看，马克·古齐亚尔（Mark Guzdial）支持在计算机科学课程之外教授计算机原理：</seg>
       </tuv>
     </tu>
     <tu>
