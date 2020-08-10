@@ -5754,6 +5754,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Separate what to do from what it means</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T124935Z" creationid="lenovo" creationdate="20200810T124935Z">
+        <seg>分离概念与步骤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Short description&lt;t0/&gt;: the purpose or main point of a topic.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T130211Z" creationid="DSS" creationdate="20200804T124852Z">
@@ -8606,6 +8614,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T070111Z" creationid="lenovo" creationdate="20200810T070111Z">
         <seg>• &lt;t0/&gt;显示故障排除表 (Cohen &lt;t1/&gt;&amp; &lt;t2/&gt;Cunningham, &lt;t3/&gt;1984).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;Put in lots of displays</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T125056Z" creationid="lenovo" creationdate="20200810T125056Z">
+        <seg>• &lt;t0/&gt;加入大量展示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;Show people how to get out</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T124751Z" creationid="lenovo" creationdate="20200810T124751Z">
+        <seg>• &lt;t0/&gt;向用户展现如何实现</seg>
       </tuv>
     </tu>
     <tu>
