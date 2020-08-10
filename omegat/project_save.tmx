@@ -887,6 +887,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t4/&gt;In Rigo's out&lt;t5/&gt;line, “each statement, command, option, parameter, or similar independent item” requires the name of the statement or command, a paragraph describing its function, a formal definition using the documentation conventions stated in the Introduction, examples of valid commands/statements, summary of rules, and additional examples as needed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T000453Z" creationid="lenovo" creationdate="20200809T235345Z">
+        <seg>里戈的大纲中，“所有语句、命令、参数或类似的独立项”需要标明语句或命令的名称、一段介绍其功能的内容、使用简介中的文档惯例下正式定义、有效命令/语句的示例、规则的总结，以及需要的其他示例。&lt;t4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t4/&gt;In many technical communication practices, “efficient content reuse does not involve copy-and-pasting; instead it uses &lt;t5/&gt;transclusion&lt;t6/&gt;, whereby content is authored in one location and used by reference in other locations” (Eberlein, &lt;t7/&gt;2016 &lt;t8/&gt;p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T142718Z" creationid="DSS" creationdate="20200720T155448Z">
@@ -1217,8 +1225,8 @@
       <tuv lang="en">
         <seg>A later issue of &lt;t0/&gt;Asterisk&lt;t1/&gt; included a more detailed “User Manual Outline,” authored by Joe Rigo (he of the prestigious ACM SIGDOC Rigo Award).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200808T081443Z" creationid="lenovo" creationdate="20200808T081424Z">
-        <seg> &lt;t0/&gt;Asterisk&lt;t1/&gt;后来还出了一期更加详细的“用户手册概要”，作者乔·里戈（Joe Rigo）是计算机协会计算机文档里戈奖创始人。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T235420Z" creationid="lenovo" creationdate="20200808T081424Z">
+        <seg> &lt;t0/&gt;Asterisk&lt;t1/&gt;后来还出了一期更加详细的“用户手册大纲”，作者乔·里戈（Joe Rigo）是计算机协会计算机文档里戈奖创始人。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5290,8 +5298,8 @@
       <tuv lang="en">
         <seg>Rigo's outline was “designed mainly for a software vendor or equivalent system appli&lt;t2/&gt;cation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200808T081920Z" creationid="lenovo" creationdate="20200808T081817Z">
-        <seg>里戈的概要“主要是为软件供应商或等效系统应用设计的。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T235427Z" creationid="lenovo" creationdate="20200808T081817Z">
+        <seg>里戈的大纲“主要是为软件供应商或等效系统应用设计的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6453,8 +6461,8 @@
       <tuv lang="en">
         <seg>The sections identified in Rigo's outline provide a rich description of the genre's rhetorical conventions (or at least those identified by the author), which include the following:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200808T082241Z" creationid="lenovo" creationdate="20200808T082241Z">
-        <seg>里戈在概要中定义的章节详尽地阐述了体裁的修辞惯例（至少是作者定义的那些惯例），包括以下内容：</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T235429Z" creationid="lenovo" creationdate="20200808T082241Z">
+        <seg>里戈在大纲中定义的章节详尽地阐述了体裁的修辞惯例（至少是作者定义的那些惯例），包括以下内容：</seg>
       </tuv>
     </tu>
     <tu>
