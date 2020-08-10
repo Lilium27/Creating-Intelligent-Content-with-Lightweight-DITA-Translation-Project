@@ -7726,6 +7726,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>With the completed plan sheets, you will be able to determine systematically and with reasonable completeness the information you need to write the parts of the manual” &lt;t5/&gt;(1984, &lt;t6/&gt;p.14).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T065323Z" creationid="lenovo" creationdate="20200810T065323Z">
+        <seg>计划表就绪后，你就能做出体系化决策，并且能够获得全面的写作手册各部分所需的信息。&lt;t5/&gt;(1984, &lt;t6/&gt;p.14).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Without a doubt, these features and benefits can also be intimidating for an author new to DITA.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T073030Z" creationid="DSS" creationdate="20200726T073030Z">
