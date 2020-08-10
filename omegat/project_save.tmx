@@ -6636,6 +6636,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The element types in DITA also inherited generic, institutional, and disciplinary conventions from another title that was originally published in the 1980s: IBM's &lt;t2/&gt;Producing Quality Technical Information.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T130833Z" creationid="lenovo" creationdate="20200810T130833Z">
+        <seg>DITA的元素类型同样继承了IBM在上世纪80年代首次出版的《产出高质量技术信息》一书中的通用型、组织型和规范型惯例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The evolution of DITA  is taking shape after several branches, with LwDITA as one of those possible  paths for growth.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T093952Z" creationid="DSS" creationdate="20200730T093952Z">
