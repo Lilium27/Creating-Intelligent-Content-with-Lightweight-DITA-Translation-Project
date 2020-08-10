@@ -8505,6 +8505,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>• &lt;t0/&gt;Anticipate variations</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T125230Z" creationid="lenovo" creationdate="20200810T125230Z">
+        <seg>• &lt;t0/&gt;预估变化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>• &lt;t0/&gt;Basic topic components</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T061811Z" creationid="DSS" creationdate="20200808T061811Z">
@@ -8538,6 +8546,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>• &lt;t0/&gt;Define your terms</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T125113Z" creationid="lenovo" creationdate="20200810T125113Z">
+        <seg>• &lt;t0/&gt;定义术语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>• &lt;t0/&gt;Divide your material into short steps</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T124711Z" creationid="lenovo" creationdate="20200810T124711Z">
@@ -8550,6 +8566,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T065948Z" creationid="lenovo" creationdate="20200810T065948Z">
         <seg>• &lt;t0/&gt;说明产品或流程的显著特征 &lt;t1/&gt;• &lt;t2/&gt;说明旧产品或流程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;Give people a break</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T125333Z" creationid="lenovo" creationdate="20200810T125333Z">
+        <seg>• &lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8626,10 +8650,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>• &lt;t0/&gt;Put in pictures</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T125126Z" creationid="lenovo" creationdate="20200810T125126Z">
+        <seg>• &lt;t0/&gt;加入图片s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>• &lt;t0/&gt;Show people how to get out</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T124751Z" creationid="lenovo" creationdate="20200810T124751Z">
         <seg>• &lt;t0/&gt;向用户展现如何实现</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;Summarize</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T125258Z" creationid="lenovo" creationdate="20200810T125258Z">
+        <seg>• &lt;t0/&gt;总结</seg>
       </tuv>
     </tu>
     <tu>
