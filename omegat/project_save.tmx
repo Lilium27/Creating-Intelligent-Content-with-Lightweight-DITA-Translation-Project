@@ -5424,6 +5424,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Rigo's proposed sections and moves establish a clear pattern or schema for composing an example of the technical manual as a genre of technical com&lt;t0/&gt;munication.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T003413Z" creationid="lenovo" creationdate="20200810T003413Z">
+        <seg>里戈建议的分节和行为构建了清晰的模式或者说是架构，能利用它来构成技术手册的范例以此作为技术传播的体裁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sample output&lt;t0/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T000627Z" creationid="lenovo" creationdate="20200810T000627Z">
