@@ -1681,6 +1681,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An intelligent content strategy establishes a coherent plan under which content will be designed, developed and deployed so as to achieve maximum benefit to the customer and the organization while minimizing the cost to the organization.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T133401Z" creationid="DSS" creationdate="20200810T133401Z">
+        <seg>智能内容策略将建立一个条理清晰的计划，在这个计划之下设计、发开、部署内容，可以为客户和组织带来最大的利益，同时使组织的成本降到最低。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An “increasing reluctance to read instructions, whether they are on a prod&lt;t0/&gt;uct, on its packaging, or in a manual.” They hypothesized that conditions like “the age of television we live in” or the bad reputation spawned by manuals of the past were to blame.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T023749Z" creationid="lenovo" creationdate="20200810T023749Z">
@@ -1997,6 +2005,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T154957Z" creationid="DSS" creationdate="20200804T154957Z">
         <seg>音频（audio）&lt;t0/&gt;：内容中包含的音频链接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Automation can be used to minimize the time, effort and money needed to apply a good content strategy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T132841Z" creationid="DSS" creationdate="20200810T132841Z">
+        <seg>自动化内容可以用来最小化执行内容策略所需的时间、精力和金钱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2400,6 +2416,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T125628Z" creationid="DSS" creationdate="20200724T125628Z">
         <seg>DITA 中的内容以单元或独立 XML 文件的形式存在，符合预先建立的类型或模型结构。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Content must be consciously designed to support it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T132850Z" creationid="DSS" creationdate="20200810T132850Z">
+        <seg>必须要有意识地设计支持自动化的内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3434,6 +3458,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T124221Z" creationid="DSS" creationdate="20200802T124221Z">
         <seg>然而，当用户和研究参与者了解到在不使用XML的情况下也可以创建 DITA 内容时，许多人发出了相同的疑问：如果我们可以使用 HTML5 来表示 DITA 话题和元素，是否也可以使用 Markdown ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, automation doesn't just happen.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T132846Z" creationid="DSS" creationdate="20200810T132846Z">
+        <seg>然而，自动化并不是凭空而来的，</seg>
       </tuv>
     </tu>
     <tu>
