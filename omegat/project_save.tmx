@@ -617,14 +617,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>&lt;t2/&gt;25)</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T124903Z" creationid="DSS" creationdate="20200730T124845Z">
-        <seg>&lt;t2/&gt;25页）</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>&lt;t2/&gt;29)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T151048Z" creationid="DSS" creationdate="20200726T094329Z">
@@ -973,6 +965,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T153656Z" creationid="DSS" creationdate="20200802T155722Z">
         <seg>&lt;t4/&gt;这个话题包含了一些从普里斯特利的介绍性博文中摘取的 HDITA 片段，这些片段为 Markdown 语法中的通用功能创造了一种结构感。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t5/&gt;40).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T145624Z" creationid="DSS" creationdate="20200810T145624Z">
+        <seg>&lt;t5/&gt;40)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2409,6 +2409,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Commenting on Wing's model of computational thinking, Guzdial identi&lt;t0/&gt;fies two sets of examples with different goals.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T145109Z" creationid="DSS" creationdate="20200810T145109Z">
+        <seg>在评价温的计算机思维模型时，古齐亚尔提出了2种不同的目标， 并给出了例子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Common Structures in Technical Content Before Minimalism</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200808T023100Z" creationid="lenovo" creationdate="20200808T023100Z">
@@ -2421,6 +2429,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T001253Z" creationid="lenovo" creationdate="20200810T001253Z">
         <seg>完整示例&lt;t0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Computing professionals and educators have the responsibility to make computation available to thinkers of all disciplines.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T143747Z" creationid="DSS" creationdate="20200810T143747Z">
+        <seg>计算机专业人员和教师有责任让所有学科的学生都学会计算机思维，</seg>
       </tuv>
     </tu>
     <tu>
@@ -3950,6 +3966,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you learn how to sort numbers with recursion, do you also learn how to use recursion when developing a strategy for tiling your kitchen floor?” (Guzdial, &lt;t3/&gt;2016, &lt;t4/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T145145Z" creationid="DSS" creationdate="20200810T145145Z">
+        <seg>如果你学会了如何用递归对数字排序，那么当你思考该如何铺厨房的地板时，你也知道该怎么使用递归吗？”(Guzdial, &lt;t3/&gt;2016, &lt;t4/&gt;p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you want to try a DITA-aware tool with a GUI, you can download a 30-day trial of Oxygen XML Editor from the website &lt;t0/&gt;https://www.oxygenxml.&lt;t1/&gt; &lt;t2/&gt;com/xml_editor&lt;t3/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T082206Z" creationid="DSS" creationdate="20200807T035016Z">
@@ -5424,6 +5448,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>One is about “applying computing ideas to facilitate computing work in other disciplines,” and another is about “applying computing ideas in daily life, completely apart from any use of com&lt;t1/&gt;puting.” He questions the ultimate promise of computational thinking and presents it as a problem of knowledge transfer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T145115Z" creationid="DSS" creationdate="20200810T145115Z">
+        <seg>一个是“应用计算机思想来促进其他学科中的计算工作”，另一个是“在日常生活中应用计算机思维，但是完全不适用计算机”。他对计算机思维的前景提出了质疑，并将其视为一个关于知识迁移的问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>One of the key developments here is the result of ongoing discussions with Information Mapping, who are now at the point of contributing their information type definitions to the DITA TC (technical committee) for inclusion in the lightweight pro&lt;t0/&gt;posal.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T093106Z" creationid="DSS" creationdate="20200731T093106Z">
@@ -5516,6 +5548,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T131839Z" creationid="DSS" creationdate="20200804T131839Z">
         <seg>段落（paragraph）&lt;t0/&gt;：表达某一主要思想的文本单元。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Part of that respon&lt;t0/&gt;sibility will be met through formal education.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T143751Z" creationid="DSS" creationdate="20200810T143751Z">
+        <seg>其中部分通过正规教育教授。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8272,6 +8312,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>While a professional in another field may be able to use an application with little training, the met&lt;t1/&gt;aphors and ways of thinking about computing must be explicitly taught.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T143753Z" creationid="DSS" creationdate="20200810T143753Z">
+        <seg>虽然其他领域的专业人员可能不用训练就可以使用某个应用程序，但必须将明确地教授他们计算机的隐喻和思考方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>While acknowledging DITA's effectiveness as a replacement for large user manuals in complex industries, a few authors lament that “this form of structured content can feel cold and clinical, especially to those from the editorial or marketing side of content” (Wachter-Boettcher, &lt;t2/&gt;2012, &lt;t3/&gt;p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143355Z" creationid="DSS" creationdate="20200726T141301Z">
@@ -8685,6 +8733,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T074430Z" creationid="lenovo" creationdate="20200810T074430Z">
         <seg>“友好的手册能增加产品销量、扩展用户对附加功能的理解，并节省每个人的时间。” 他写到(Price, &lt;t0/&gt;1984, &lt;t1/&gt;p.7).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“If you learn to make a com&lt;t2/&gt;puter repeat steps, does that influence how you think about your co-workers, as Jeannette Wing suggests?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T145125Z" creationid="DSS" creationdate="20200810T145125Z">
+        <seg>“如果你学会了让电脑重复一些步骤，那这会不会如珍妮特·温所说影响你对同事的看法？</seg>
       </tuv>
     </tu>
     <tu>
