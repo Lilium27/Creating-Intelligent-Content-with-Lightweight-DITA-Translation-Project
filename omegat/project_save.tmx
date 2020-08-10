@@ -1239,6 +1239,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A glossary, which defines terms mentioned in the book and is presented at the end of the book.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T075840Z" creationid="lenovo" creationdate="20200810T075840Z">
+        <seg>书的结尾应该有术语表，定义书中提到的所有术语。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A key feature of LwDITA is cross-format collaboration and compatibility.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T082239Z" creationid="DSS" creationdate="20200806T082239Z">
@@ -1305,8 +1313,8 @@
       <tuv lang="en">
         <seg>A table of contents, which lists all the main sections at the beginning of the book.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T075610Z" creationid="lenovo" creationdate="20200810T075610Z">
-        <seg>书的开篇有目录列出了所有主要的章节。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T075649Z" creationid="lenovo" creationdate="20200810T075610Z">
+        <seg>书的开篇应有目录列出所有主要的章节。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1471,6 +1479,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Also, the start of each chapter includes a table of contents.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T075634Z" creationid="lenovo" creationdate="20200810T075634Z">
+        <seg>此外，每一章的开始都包括一个目录。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alternate text&lt;t0/&gt;: a textual description of an image that can be read or displayed in place of the image.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T130443Z" creationid="DSS" creationdate="20200804T130232Z">
@@ -1587,6 +1603,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154230Z" creationid="DSS" creationdate="20200724T154230Z">
         <seg>一个有效的话题只涵盖一个主题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An index, which is organized alphabetically and also presented at the end of the book (Price, &lt;t0/&gt;1984).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T075913Z" creationid="lenovo" creationdate="20200810T075913Z">
+        <seg>书的结尾还应该有按字母顺序排列的索引 (Price, &lt;t0/&gt;1984)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2171,6 +2195,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T092108Z" creationid="DSS" creationdate="20200730T092108Z">
         <seg>第4章介绍了 LwDITA 的三种初始创作格式的其他用户类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Checklists of key points, which are presented at the end of every chapter and then collected at the end of the book.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T075758Z" creationid="lenovo" creationdate="20200810T075758Z">
+        <seg>重点清单，在每一章的结尾，并汇总在书的结尾处。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4592,6 +4624,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T155108Z" creationid="DSS" creationdate="20200804T155014Z">
         <seg>循环（loop）&lt;t0/&gt;：控制多媒体组件是否应该循环播放。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lots of headlines, which allow the reader to “skip to the part of the book you want.”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T075720Z" creationid="lenovo" creationdate="20200810T075720Z">
+        <seg>大量的标题，能让读者“跳到书中想读的部分”。</seg>
       </tuv>
     </tu>
     <tu>
