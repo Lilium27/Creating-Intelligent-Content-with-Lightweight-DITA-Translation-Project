@@ -431,6 +431,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t10/&gt;40).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T145709Z" creationid="DSS" creationdate="20200810T145709Z">
+        <seg>&lt;t10/&gt;40)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t10/&gt;Actually, the all- inclusive edition of the DITA &lt;t11/&gt;1.3 &lt;t12/&gt;standard has &lt;t13/&gt;26 &lt;t14/&gt;document types (predefined document, or even genre, templates) and &lt;t15/&gt;621 &lt;t16/&gt;element types (placeholders or structures for specific content moves).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145654Z" creationid="DSS" creationdate="20200725T083511Z">
@@ -468,6 +476,14 @@
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T120150Z" creationid="DSS" creationdate="20200810T120150Z">
         <seg>
 &lt;t11/&gt;117)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t11/&gt;Lorena Barba has stronger doubts about the ambitious benefits of Wing's computational thinking.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T145828Z" creationid="DSS" creationdate="20200810T145653Z">
+        <seg>洛雷娜·巴尔巴对温提出的计算机思维所带来的巨大好处持更强烈的怀疑态度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1077,6 +1093,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T120808Z" creationid="DSS" creationdate="20200809T115716Z">
         <seg>在之前的会议上，普里斯特利演示了 LwDITA，得到了与会者的反馈，结合 DITA 技术委员会成员评价，挖掘出了轻量级标准在技术文档传统的 DITA 领域之外的潜在应用场景。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t6/&gt;Guzdial adds that “achieving the goals of applying computing ideas to facilitate computing work in other disci&lt;t7/&gt;plines is clearly achievable,” but “applying computing ideas in daily life is less likely” &lt;t8/&gt;(2016, &lt;t9/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T145652Z" creationid="DSS" creationdate="20200810T145652Z">
+        <seg>古齐亚尔补充说，“应用计算机思维来促进其他学科中的计算工作的目标显然是可以实现的，”但是“在日常生活中应用计算机是不太可能的”(2016, &lt;t9/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
