@@ -432,3 +432,5 @@ Producing Quality Technical Information	《产出高质量技术信息》
 Pullman	铂尔曼
 Gu	古	人名
 Gollner	戈尔纳
+David Dayton	大卫·代顿
+Dayton	代顿
