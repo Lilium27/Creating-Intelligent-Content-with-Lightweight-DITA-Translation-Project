@@ -2163,8 +2163,8 @@
       <tuv lang="en">
         <seg>Before &lt;t0/&gt;DQTI&lt;t1/&gt;, however, there was &lt;t2/&gt;PQTI.&lt;t3/&gt; The publication's original title was &lt;t4/&gt;Producing Quality Technical Information&lt;t5/&gt;, and it started as an internal IBM handbook of recommendations for content authors and evaluators.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T144915Z" creationid="lenovo" creationdate="20200810T144048Z">
-        <seg>然而，在 &lt;t0/&gt;DQTI&lt;t1/&gt;出现之前，&lt;t2/&gt;则是PQTI&lt;t3/&gt;。此书出版时书名为&lt;t4/&gt;《产出高质量技术信息》&lt;t5/&gt;， </seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T145201Z" creationid="lenovo" creationdate="20200810T144048Z">
+        <seg>然而，在 &lt;t0/&gt;DQTI&lt;t1/&gt;出现之前，&lt;t2/&gt;则是PQTI&lt;t3/&gt;。此书出版时书名为&lt;t4/&gt;《产出高质量技术信息》&lt;t5/&gt;，它一开始 </seg>
       </tuv>
     </tu>
     <tu>
