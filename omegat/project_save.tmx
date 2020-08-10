@@ -5876,8 +5876,8 @@
       <tuv lang="en">
         <seg>Published in &lt;t6/&gt;1983, &lt;t7/&gt;PQTI&lt;t8/&gt; was credited to Morris Dean and a long list of co-authors (or co- “preparers”) and focused on a list of requirements of quality, presented under the principle of “technical information that meets all the requirements is quality information” (Dean et al., &lt;t9/&gt;1983, &lt;t10/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T155047Z" creationid="lenovo" creationdate="20200810T154906Z">
-        <seg>&lt;t7/&gt;PQTI&lt;t8/&gt;1983年首次面世，归功于莫里斯·迪恩以及一大批合著者，重点关注一系列质量要求，并秉持“满足所有要求的技术信息是才是高质量信息”的原则” (Dean et al., &lt;t9/&gt;1983, &lt;t10/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T155744Z" creationid="lenovo" creationdate="20200810T154906Z">
+        <seg>&lt;t7/&gt;PQTI&lt;t8/&gt;1983年首次面世，归功于莫里斯·迪恩以及一大批合著者，重点关注质量要求列表，并秉持“满足所有要求的技术信息是才是高质量信息”的原则” (Dean et al., &lt;t9/&gt;1983, &lt;t10/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7359,8 +7359,8 @@
       <tuv lang="en">
         <seg>The structure of &lt;t11/&gt;PQTI&lt;t12/&gt; is built around a list of quality requirements, and a standard pattern of presenting two examples when discussing each requirement: one showing a common error and the sec&lt;t13/&gt;ond illustrating a way to correct the error and “improve quality.”</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T155730Z" creationid="lenovo" creationdate="20200810T155730Z">
-        <seg>&lt;t11/&gt;PQTI&lt;t12/&gt; 的结构就是围绕着质量要求构建的，</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T155947Z" creationid="lenovo" creationdate="20200810T155730Z">
+        <seg>&lt;t11/&gt;PQTI&lt;t12/&gt; 的结构就是围绕着质量要求列表构建的，当谈论每个要求时，标准模式都需要展示两个示例：一个是常见错误，另一个则展示如何纠正错误并“提高质量。”</seg>
       </tuv>
     </tu>
     <tu>
