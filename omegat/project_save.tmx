@@ -1303,6 +1303,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A table of contents, which lists all the main sections at the beginning of the book.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T075610Z" creationid="lenovo" creationdate="20200810T075610Z">
+        <seg>书的开篇有目录列出了所有主要的章节。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A topic is “a self-contained unit of information.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154221Z" creationid="DSS" creationdate="20200724T154221Z">
