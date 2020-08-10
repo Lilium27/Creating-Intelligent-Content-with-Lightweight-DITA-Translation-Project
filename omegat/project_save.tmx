@@ -1903,6 +1903,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Be specific.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T001950Z" creationid="lenovo" creationdate="20200810T001950Z">
+        <seg>解释要明确具体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Be sure to download the latest version, because the developers are constantly updating the Toolkit and, among other things, improving</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T093315Z" creationid="DSS" creationdate="20200806T093315Z">
@@ -2524,6 +2532,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error messages&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T001806Z" creationid="lenovo" creationdate="20200810T001806Z">
+        <seg>错误信息&lt;t0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Essays from whole cloth is more the thing.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200721T160159Z" creationid="DSS" creationdate="20200720T134143Z">
@@ -2592,6 +2608,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T024042Z" creationid="lenovo" creationdate="20200809T024042Z">
         <seg>老用户会直接跳转到其他章节的参考资料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Explain what the user must do to eliminate the error condition.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T001911Z" creationid="lenovo" creationdate="20200810T001911Z">
+        <seg>解释用户应当进行何种操作才能消除错误。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7003,6 +7027,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This simply creates confusion” (1976, p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T001755Z" creationid="lenovo" creationdate="20200810T001755Z">
+        <seg>这只会让用户感到困惑。” (1976, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This web version does not include any single sourcing or content reuse features and is only for presentational purposes.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T032347Z" creationid="DSS" creationdate="20200808T032347Z">
@@ -7827,6 +7859,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T005540Z" creationid="lenovo" creationdate="20200804T001921Z">
         <seg>“约翰·卡罗尔在极简主义上的工作，培育了DITA发展的土壤。”普里斯特利告诉我说。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“List each error message that a user may encounter.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T001825Z" creationid="lenovo" creationdate="20200810T001825Z">
+        <seg>“列出用户可能遇到的所有错误信息。</seg>
       </tuv>
     </tu>
     <tu>
