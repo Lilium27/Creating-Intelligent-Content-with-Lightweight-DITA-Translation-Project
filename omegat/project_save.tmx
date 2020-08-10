@@ -953,8 +953,8 @@
       <tuv lang="en">
         <seg>&lt;t5/&gt;Following their model, the rhetorical conventions of a technical manual presented by Cohen and Cunningham can be described as generic &lt;t6/&gt;- &lt;t7/&gt;they were specific to a genre (the technical manual).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T073211Z" creationid="lenovo" creationdate="20200810T073211Z">
-        <seg>&lt;t5/&gt;根据他们的模型，柯亨和坎宁安提出的技术手册的修辞惯例可以说是类属的&lt;t6/&gt;- &lt;t7/&gt;它们属于特定体裁（技术手册）。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T073357Z" creationid="lenovo" creationdate="20200810T073211Z">
+        <seg>&lt;t5/&gt;根据他们的模型，柯亨和坎宁安提出的技术手册的修辞惯例可以说是通用的&lt;t6/&gt;- &lt;t7/&gt;它们适用于特定体裁（技术手册）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6286,6 +6286,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T084124Z" creationid="DSS" creationdate="20200808T071208Z">
         <seg>文章表示，计算思维不是一个新术语，西摩·佩特（Seymour Papert）是一名教育家和数学家，他在1980年就使用计算思维来“构想儿童可以如何使用计算机进行学习” (Pappano, &lt;t5/&gt;2017)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The authors did not present them as, say, the official rhetorical conventions for manuals at IBM. Jonathan Price, however, did move beyond the generic conventions and crossed into the organizational or institutional type of topical convention in his &lt;t8/&gt;1984 &lt;t9/&gt;book &lt;t10/&gt;How to Write a Computer Manual: A Handbook of Software Documentation&lt;t11/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T073648Z" creationid="lenovo" creationdate="20200810T073345Z">
+        <seg>作者并没有把它们作为，比如说，IBM手册的官方修辞惯例。乔纳森·普莱斯（Jonathan Price）在他1984年出版的《如何编写计算机手册：软件文档手册》的确从通用惯例的基础上往前迈了一步，开创了组织机构型主题惯例。&lt;t11/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
