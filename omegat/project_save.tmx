@@ -5326,6 +5326,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Price's separation of a manual's text into content types estab&lt;t0/&gt;lishes a distinction between tutorial (“offers step-by-step training focused on a particular activity”) and reference (“offers procedures that users can apply in many different circumstances”) writing conventions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T080802Z" creationid="lenovo" creationdate="20200810T080802Z">
+        <seg>普莱斯将手册的文本划分成不同的内容类型，在指导型（“针对特定活动提供逐步培训”）和参考型（“提供用户多个不同场景下采用的流程”）写作惯例间做了区分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Priestley and I continued collecting data for our HDITA authoring research project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T155247Z" creationid="DSS" creationdate="20200802T155247Z">
