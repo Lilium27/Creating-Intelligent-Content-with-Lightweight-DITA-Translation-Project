@@ -2940,6 +2940,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Focusing on a different genre of technical writing, Carolyn Miller and Jack Selzer analyzed the structure and argumentation elements of technical reports by detailing their rhetorical conventions, or topical basis of discourse.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T072714Z" creationid="lenovo" creationdate="20200810T072714Z">
+        <seg>卡洛琳·米勒（Carolyn Miller）和杰克·瑟尔泽（Jack Selzer）以技术写作的不同体裁作为研究重点，通过详细分析其修辞惯例或话语主题基础，分析了技术报告的结构和论证要素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Following reports from its working groups, which included a collection of personas and usage scenarios across diverse sectors and industries, the Lightweight DITA subcommittee at OASIS determined that a generic topic could represent most content structures needed across potential implemen&lt;t0/&gt;tations.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T151844Z" creationid="DSS" creationdate="20200803T151844Z">
