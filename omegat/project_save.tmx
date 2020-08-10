@@ -5584,6 +5584,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Other &lt;t2/&gt;recommendations, however, were standard guidelines for technical writers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T164835Z" creationid="lenovo" creationdate="20200810T164835Z">
+        <seg>然而，其他的建议是技术作者的标准指南。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Other lines of discussion in the early months of the subcommittee focused on the authoring formats to include in an initial release of the LwDITA standard.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T094650Z" creationid="DSS" creationdate="20200803T094650Z">
@@ -6374,6 +6382,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T055526Z" creationid="DSS" creationdate="20200808T055428Z">
         <seg>LwDITA 话题组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Table &lt;t3/&gt;1 &lt;t4/&gt;shows a list of “weak verbs” and “roundabout expression” compared to “strong, precise verbs” and “concise terms” from the “Write directly and eco&lt;t5/&gt;nomically” recommendation under the requirement of “Clarity.”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T165205Z" creationid="lenovo" creationdate="20200810T165205Z">
+        <seg>表格 &lt;t3/&gt;1 &lt;t4/&gt;是一个“弱动词”和和“迂回表达”的列表，与之形成对比的是“明确性”要求下的“直接而经济地写作”</seg>
       </tuv>
     </tu>
     <tu>
