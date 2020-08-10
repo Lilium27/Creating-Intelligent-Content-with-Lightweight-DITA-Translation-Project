@@ -5544,6 +5544,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Organization</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T161725Z" creationid="lenovo" creationdate="20200810T161725Z">
+        <seg>组织架构</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Other lines of discussion in the early months of the subcommittee focused on the authoring formats to include in an initial release of the LwDITA standard.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T094650Z" creationid="DSS" creationdate="20200803T094650Z">
@@ -8712,6 +8720,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{ &lt;t0/&gt;Devise titles and headings to reveal the task</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T161716Z" creationid="lenovo" creationdate="20200810T161716Z">
+        <seg>{ &lt;t0/&gt;设计标题和主题以揭示任务内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{ &lt;t0/&gt;Indicate a practical reason for information</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T161458Z" creationid="lenovo" creationdate="20200810T161458Z">
@@ -8720,10 +8736,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{ &lt;t0/&gt;Order the presentation to reflect the order of use</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T161522Z" creationid="lenovo" creationdate="20200810T161522Z">
+        <seg>{ &lt;t0/&gt;按使用顺序排列演示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{ &lt;t0/&gt;Present information from the reader's point of view</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T161412Z" creationid="lenovo" creationdate="20200810T161412Z">
         <seg>{ &lt;t0/&gt;从读者视角展示信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{ &lt;t0/&gt;Reveal how the pieces fit together</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T161851Z" creationid="lenovo" creationdate="20200810T161851Z">
+        <seg>{ &lt;t0/&gt;展现各部分如何彼此配合</seg>
       </tuv>
     </tu>
     <tu>
