@@ -5384,6 +5384,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Price's emphasis on task-orientation established some topical moves that still apply to tutorial/procedural content, with the overall recommendation of focusing on organization.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T122541Z" creationid="lenovo" creationdate="20200810T122541Z">
+        <seg>普莱斯强调任务导向，创建了一些主题文步</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Price's separation of a manual's text into content types estab&lt;t0/&gt;lishes a distinction between tutorial (“offers step-by-step training focused on a particular activity”) and reference (“offers procedures that users can apply in many different circumstances”) writing conventions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T080802Z" creationid="lenovo" creationdate="20200810T080802Z">
