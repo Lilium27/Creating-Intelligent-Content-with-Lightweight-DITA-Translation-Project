@@ -1225,6 +1225,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A computer programmer would take the sum of those abstractions to design an algorithm and automate a routine, but for an author the final outcome is to think and see what the content can accomplish once it is liberated from the word processing or web presentational models.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T123714Z" creationid="DSS" creationdate="20200810T123714Z">
+        <seg>计算机程序员可以利用这些抽象概念来设计算法和编写自动化程序，而对于创作者来说，抽象概念最终将有助于思考和见证一旦内容从文字处理软件或网页演示模型中解放出来，能产出什么成果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A conventional HTML editor probably will not be able to process the file as an HDITA map, and that's when the authors would need a LwDITA-aware tool or the DITA-OT.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T073350Z" creationid="DSS" creationdate="20200807T073350Z">
@@ -1357,6 +1365,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T080421Z" creationid="DSS" creationdate="20200808T080421Z">
         <seg>抽象允许人们分离特定问题的“层级”，并单独处理每个层级，而无需关心其他层级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Abstractions for content creators are ways of thinking before structur&lt;t0/&gt;ing information and seeing its future applications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T123655Z" creationid="DSS" creationdate="20200810T123655Z">
+        <seg>对内容创作者来说，抽象是在构建信息结构和预想软件未来形态之前思考的方式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1949,6 +1965,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T154957Z" creationid="DSS" creationdate="20200804T154957Z">
         <seg>音频（audio）&lt;t0/&gt;：内容中包含的音频链接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Automation “is the mapping of computation to physical systems that perform them” (Perkovic et al., 2010, p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T123840Z" creationid="DSS" creationdate="20200810T123840Z">
+        <seg>自动化“就是将计算机命令映射到执行这些命令的物理系统上” (Perkovic et al., 2010, p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4022,6 +4046,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In previous chapters, I have highlighted the role of LwDITA code as an important component of a content-development workflow built on principles of computational thinking.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T122439Z" creationid="DSS" creationdate="20200810T122439Z">
+        <seg>在前面的章节中，我已经强调了在基于计算思维原则的内容开发工作流中，LwDITA代码组件扮演了重要的角色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In separate conversations with colleagues in academia (including Bill Hart- Davidson from Michigan State University) and industry (like Radu Coravu, from the Romania-based Syncro Soft), we have had unisonous affirmations of “structure starts in your head.” For a specific type of user, the structure of a sim&lt;t0/&gt;ple topic can be in their head as they go through the tasks related to the creation of intelligent.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T161453Z" creationid="DSS" creationdate="20200804T161453Z">
@@ -4994,6 +5026,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T141016Z" creationid="DSS" creationdate="20200726T141016Z">
         <seg>尽管如此，仍存在一些量化和记录用户数量的尝试。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Nevertheless, this is not a “learn code qua code” manifesto, and in some instances (like the use of Oxygen XML Editor as an authoring tool in &lt;t0/&gt;Chapters &lt;t1/&gt;5&lt;t2/&gt; &lt;t3/&gt;and &lt;t4/&gt;6&lt;t5/&gt;) &lt;t6/&gt;the actual code behind an implementation of LwDITA can be hidden in a layer of abstraction that shows a graphical user interface to a writer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T123649Z" creationid="DSS" creationdate="20200810T123649Z">
+        <seg>然而，这不是一个“学习代码”的宣言，并且在某些情况下（如在第5章和第6章中提到的，使用 Oxygen XML Editor 作为写作工具），LwDITA 执行的实际代码可以隐藏在一个抽象层级中，只向创作者显示图形用户界面。</seg>
       </tuv>
     </tu>
     <tu>
