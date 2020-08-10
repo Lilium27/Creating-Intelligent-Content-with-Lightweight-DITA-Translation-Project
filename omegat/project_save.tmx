@@ -2676,6 +2676,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Explaining What the Product or Procedure Does</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T065635Z" creationid="lenovo" creationdate="20200810T065635Z">
+        <seg>解释产品或流程的功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE 1.2 &lt;t0/&gt;Sarah O'Keefe's sample recipe for marinara sauce in XML.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144027Z" creationid="DSS" creationdate="20200726T154357Z">
@@ -4808,6 +4816,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T131549Z" creationid="DSS" creationdate="20200801T131549Z">
         <seg>南希·哈里森：我认为可以这样回答“试试轻量级 DITA 吧”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Naming the Product or Procedure</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T065618Z" creationid="lenovo" creationdate="20200810T065618Z">
+        <seg>给产品或流程命名</seg>
       </tuv>
     </tu>
     <tu>
@@ -7482,6 +7498,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T032331Z" creationid="DSS" creationdate="20200807T041606Z">
         <seg>转换 LwDITA 地图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translating Technical Facts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T065834Z" creationid="lenovo" creationdate="20200810T065834Z">
+        <seg>阐述技术事实</seg>
       </tuv>
     </tu>
     <tu>
