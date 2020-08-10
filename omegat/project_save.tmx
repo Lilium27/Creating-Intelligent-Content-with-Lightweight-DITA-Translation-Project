@@ -5768,6 +5768,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some of Price's recommendations transcended to the third kind of rhetorical convention proposed by Miller and Selzer, as they became disciplinary moves or commonplaces.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T080405Z" creationid="lenovo" creationdate="20200810T080405Z">
+        <seg>普莱斯提出的一些建议成为了金科玉律或者说是规绳矩墨，已然超越了米勒和塞尔泽提倡的第三种修辞惯例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some of the early conversations during the Lightweight DITA subcommit&lt;t0/&gt;tee calls included selecting the right name for the proposed standard.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T091915Z" creationid="DSS" creationdate="20200803T091915Z">
