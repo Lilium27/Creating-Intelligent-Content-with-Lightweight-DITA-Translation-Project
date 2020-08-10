@@ -2161,6 +2161,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Before &lt;t0/&gt;DQTI&lt;t1/&gt;, however, there was &lt;t2/&gt;PQTI.&lt;t3/&gt; The publication's original title was &lt;t4/&gt;Producing Quality Technical Information&lt;t5/&gt;, and it started as an internal IBM handbook of recommendations for content authors and evaluators.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T144048Z" creationid="lenovo" creationdate="20200810T144048Z">
+        <seg>然而，在 &lt;t0/&gt;DQTI&lt;t1/&gt;之前，&lt;t2/&gt;PQTI.&lt;t3/&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before describing the LwDITA topical conventions and tracking how they evolved from DITA &lt;t0/&gt;1.3 &lt;t1/&gt;elements and produced their own offspring in the LwDITA three core authoring formats, the following section looks at the evo&lt;t2/&gt;lution of DITA as documented in the OASIS public email list and meeting minutes archive.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T130405Z" creationid="DSS" creationdate="20200730T122831Z">
@@ -4106,6 +4114,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T093638Z" creationid="lenovo" creationdate="20200723T075643Z">
         <seg>在Svenvold看来，卡罗尔将极简主义原理运用至技术传播这一特殊体裁的写作中，写出来的手册就注定是失败的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In a conversation we had after one of our presentations at a DITA North America conference organized by the Center for Information-Development Management, Priestley pointed out that IBM's &lt;t5/&gt;DQTI&lt;t6/&gt; was “all about DITA with&lt;t7/&gt;out mentioning DITA by its name.”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T143947Z" creationid="lenovo" creationdate="20200810T143947Z">
+        <seg>在一次由信息开发管理中心组织的DITA北美会议展示结束后，我们与普里斯特利进行了交谈，他指出IBM的 &lt;t5/&gt;DQTI&lt;t6/&gt;虽然没有明说时DITA，但其实完全就是DITA。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -8196,6 +8212,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T093735Z" creationid="DSS" creationdate="20200726T093735Z">
         <seg>对于信息开发者来说，这意味着你可以在一个工具中编写 DocBook 或 DITA 话题，然后在另一个工具中打开该话题，而不会丢失任何信息或产生无效标记。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When I tried to measure the impact of John Carroll's theory of minimalism on content development, I remembered that Michael Priestley has acknowl&lt;t0/&gt;edged in several occasions that minimalism, via the IBM publication &lt;t1/&gt;Developing Quality Technical Information&lt;t2/&gt; (&lt;t3/&gt;DQTI&lt;t4/&gt;), was one of the big influences on DITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T143050Z" creationid="lenovo" creationdate="20200810T143050Z">
+        <seg>当我试图衡量约翰·卡罗尔极简主义理论对内容发展的影响时，我想起迈克尔·普里斯特利在多个场合承认，经由IBM出版的《开发高质量技术信息》，极简主义对DITA造成的影响名列前茅。</seg>
       </tuv>
     </tu>
     <tu>
