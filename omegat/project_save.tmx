@@ -8728,6 +8728,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{ &lt;t0/&gt;Emphasize main points; subordinate secondary points</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T162056Z" creationid="lenovo" creationdate="20200810T162056Z">
+        <seg>{ &lt;t0/&gt;强调重点，次重点下移</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{ &lt;t0/&gt;Indicate a practical reason for information</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T161458Z" creationid="lenovo" creationdate="20200810T161458Z">
@@ -8754,8 +8762,8 @@
       <tuv lang="en">
         <seg>{ &lt;t0/&gt;Reveal how the pieces fit together</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T161851Z" creationid="lenovo" creationdate="20200810T161851Z">
-        <seg>{ &lt;t0/&gt;展现各部分如何彼此配合</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T161858Z" creationid="lenovo" creationdate="20200810T161851Z">
+        <seg>{ &lt;t0/&gt;展现各部分如何相互配合</seg>
       </tuv>
     </tu>
     <tu>
