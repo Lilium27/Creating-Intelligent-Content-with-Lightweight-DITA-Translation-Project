@@ -2483,6 +2483,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Detailing the Task</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T070026Z" creationid="lenovo" creationdate="20200810T070026Z">
+        <seg>给任务填充细节</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Details about the franchise offer</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T061913Z" creationid="DSS" creationdate="20200807T061913Z">
@@ -8216,10 +8224,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>• &lt;t0/&gt;Explaining the Distinguishing Characteristics of the Product or Procedure &lt;t1/&gt;• &lt;t2/&gt;Illustrating the Old Product or Procedure</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T065948Z" creationid="lenovo" creationdate="20200810T065948Z">
+        <seg>• &lt;t0/&gt;说明产品或流程的显著特征 &lt;t1/&gt;• &lt;t2/&gt;说明旧产品或流程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>• &lt;t0/&gt;Highlight components</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T062058Z" creationid="DSS" creationdate="20200808T062058Z">
         <seg>· &lt;t0/&gt;高亮组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;Illustrating the New Product or Procedure</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T065957Z" creationid="lenovo" creationdate="20200810T065957Z">
+        <seg>• &lt;t0/&gt;说明新产品或流程</seg>
       </tuv>
     </tu>
     <tu>
@@ -8236,6 +8260,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T061856Z" creationid="DSS" creationdate="20200808T061856Z">
         <seg>` &lt;t0/&gt;多媒体组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;Outlining the Task</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T070012Z" creationid="lenovo" creationdate="20200810T070012Z">
+        <seg>• &lt;t0/&gt;给任务设计大纲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;Presenting the Alternatives Sheet</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T070047Z" creationid="lenovo" creationdate="20200810T070047Z">
+        <seg>• &lt;t0/&gt;展示备选方案表</seg>
       </tuv>
     </tu>
     <tu>
