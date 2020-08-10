@@ -1057,6 +1057,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t7/&gt;5).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T131135Z" creationid="DSS" creationdate="20200810T131135Z">
+        <seg>&lt;t7/&gt;5)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t7/&gt;71).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144433Z" creationid="DSS" creationdate="20200724T154312Z">
@@ -1397,6 +1405,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T122334Z" creationid="DSS" creationdate="20200806T113320Z">
         <seg>参考 DITA-OT 文档，从终端或命令提示符窗口利用话题和地图构建 DITA（和 LwDITA）交付物的命令如&lt;t0/&gt;图&lt;t1/&gt;5.5所示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Across industries and professions, just mentioning the word “automation” can strike fear of humans (and/or their jobs) becoming obsolete, and technical com&lt;t0/&gt;munication is no exception.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T131110Z" creationid="DSS" creationdate="20200810T131110Z">
+        <seg>在各行各业中，只要提到“自动化“这个词，就会让人害怕自己 （和/或自己的工作）被淘汰，技术传播领域也不例外。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3278,6 +3294,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Gu &lt;t1/&gt;&amp; &lt;t2/&gt;Pullman hypothesized that “a systems-based approach to content management may very well result in a devaluing of technical writers and editors and reduce their roles to those of assembly workers, where they are concerned only with producing discrete information chunks” (Gu &lt;t3/&gt;&amp; &lt;t4/&gt;Pullman, &lt;t5/&gt;2009, &lt;t6/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T131123Z" creationid="DSS" creationdate="20200810T131123Z">
+        <seg>古（Gu）和铂尔曼（Pullman）假设，“系统的内容管理方法可能会导致技术写作工程师和编辑的价值降低，使他们沦为和组装工人一样的角色，只需专注产出离散信息块” (Gu &lt;t3/&gt;&amp; &lt;t4/&gt;Pullman, &lt;t5/&gt;2009, &lt;t6/&gt;p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HOW DITA EVOLVED INTO LwDITA</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200721T143908Z" creationid="DSS" creationdate="20200721T143908Z">
@@ -3786,6 +3810,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T093810Z" creationid="DSS" creationdate="20200726T093810Z">
         <seg>如果工具开发者尊重标准的话，他们会允许工具间的互操作性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the webinar is transcribed into text, and if that text is processed through the lay&lt;t0/&gt;ers of abstraction needed to have it structured and tagged for human readers and machine processors, “the main work is done; everything else can be automated” (Rockley, 2016).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T130335Z" creationid="DSS" creationdate="20200810T130335Z">
+        <seg>罗克利以一家公司举办的网络研讨会为例，解释了内容开发的映射过程。如果研讨会的研讨内容被转录成文本，且文本需要通过经过抽象层级的处理，进行结构化，打上标签，以供人类阅读和机器处理，“映射就完成了，万物皆可自动化”  (Rockley, 2016)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5786,6 +5818,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>She provides potential automated outcomes such as extracting questions and answers from the webinar transcription and turning them into blog</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T130348Z" creationid="DSS" creationdate="20200810T130348Z">
+        <seg>罗克利提供了可能的自动化成果，如从网络研讨会转录文本提取问题和答案，编写为博客，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Short description&lt;t0/&gt;: the purpose or main point of a topic.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T130211Z" creationid="DSS" creationdate="20200804T124852Z">
@@ -6304,6 +6344,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T130422Z" creationid="DSS" creationdate="20200809T130422Z">
         <seg>&lt;t1/&gt;未来即使是最小的内容单元（今天的 Microsoft Word 文件）也可以发展为复杂的内容库（如包含数百个任务、常见问题和产品描述的1000页非结构化内容），独立作者也是如此。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Abstractions Behind Intelligent Content &lt;t0/&gt;153 &lt;t1/&gt;posts, compiling “the blog posts into a digest post of the top ‘X' things you need to know,” extracting “key quotes and tweet them,” and taking “the same questions, post them to Facebook, and start a conversation” (Rockley, &lt;t2/&gt;2016).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T131100Z" creationid="DSS" creationdate="20200810T131100Z">
+        <seg>再将“多篇博客汇编为一篇摘要，向读者介绍他们最需要知道的行业洞察”，提取“关键引用发送推特,”以及“将研讨会上的问题发在Facebook上，发起讨论” (Rockley, &lt;t2/&gt;2016)。</seg>
       </tuv>
     </tu>
     <tu>
