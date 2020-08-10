@@ -150,7 +150,6 @@ link structure	链接结构
 list element	列表元素
 list item	列表项
 literature review	文献综述
-machine processing	机械加工
 main element	主要元素
 major fault	主要故障
 management systems	管理系统
@@ -430,3 +429,5 @@ Supplemental	补充材料
 Gerald Cohen	杰拉德·柯亨
 Donald Cunningham	唐纳德·坎宁安
 Producing Quality Technical Information	《产出高质量技术信息》
+Pullman	铂尔曼
+Gu	古	人名
