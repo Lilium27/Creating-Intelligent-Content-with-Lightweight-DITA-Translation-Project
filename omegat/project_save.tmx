@@ -2605,6 +2605,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Developing Quality Technical Information</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T130854Z" creationid="lenovo" creationdate="20200810T130854Z">
+        <seg>开发高质量技术信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do not assume that a person reading these sections knows anything about the system” (1976, p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T024223Z" creationid="lenovo" creationdate="20200809T024223Z">
