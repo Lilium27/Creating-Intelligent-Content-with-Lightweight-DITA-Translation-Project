@@ -437,3 +437,5 @@ Dayton	代顿
 Carolyn	卡罗琳
 Mark Guzdial	马克·古齐亚尔
 Guzdial	古齐亚尔
+Lorena Barba	洛雷娜·巴尔巴
+Barba	巴尔巴
