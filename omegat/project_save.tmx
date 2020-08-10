@@ -1263,6 +1263,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A more discerning audience, aware that users' “inability to understand a manual is &lt;t0/&gt;not&lt;t1/&gt; a reflection on them but on those who created and published the manual.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T024030Z" creationid="lenovo" creationdate="20200810T024030Z">
+        <seg>明眼人则会意识到，用户无法理解手册，问题不出在用户上而是那些创建和出版手册的人身上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A sample sushi recipe from the restaurant's cookbook.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T061938Z" creationid="DSS" creationdate="20200807T061938Z">
