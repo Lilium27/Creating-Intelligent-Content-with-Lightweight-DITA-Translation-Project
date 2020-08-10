@@ -2187,8 +2187,8 @@
       <tuv lang="en">
         <seg>Before &lt;t0/&gt;DQTI&lt;t1/&gt;, however, there was &lt;t2/&gt;PQTI.&lt;t3/&gt; The publication's original title was &lt;t4/&gt;Producing Quality Technical Information&lt;t5/&gt;, and it started as an internal IBM handbook of recommendations for content authors and evaluators.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T145201Z" creationid="lenovo" creationdate="20200810T144048Z">
-        <seg>然而，在 &lt;t0/&gt;DQTI&lt;t1/&gt;出现之前，&lt;t2/&gt;则是PQTI&lt;t3/&gt;。此书出版时书名为&lt;t4/&gt;《产出高质量技术信息》&lt;t5/&gt;，它一开始 </seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T154111Z" creationid="lenovo" creationdate="20200810T144048Z">
+        <seg>然而，在 &lt;t0/&gt;DQTI&lt;t1/&gt;出现之前，&lt;t2/&gt;则是PQTI&lt;t3/&gt;。此书出版时书名为&lt;t4/&gt;《产出高质量技术信息》&lt;t5/&gt;，它一开始时作为为IBM内容创作者和评估者提供建议的内部手册。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -5870,6 +5870,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T161922Z" creationid="DSS" creationdate="20200723T160501Z">
         <seg>2000年代的出版物就预言 “技术传播者可能会迎来所有组织性的文档都保存在 XML 里的一天”（萨皮恩扎， &lt;t12/&gt;2002年，&lt;t13/&gt;第</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Published in &lt;t6/&gt;1983, &lt;t7/&gt;PQTI&lt;t8/&gt; was credited to Morris Dean and a long list of co-authors (or co- “preparers”) and focused on a list of requirements of quality, presented under the principle of “technical information that meets all the requirements is quality information” (Dean et al., &lt;t9/&gt;1983, &lt;t10/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T154906Z" creationid="lenovo" creationdate="20200810T154906Z">
+        <seg>&lt;t7/&gt;PQTI&lt;t8/&gt;1983年首次面世，归功于莫里斯·迪恩以及一大批合著者， (Dean et al., &lt;t9/&gt;1983, &lt;t10/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
