@@ -7387,6 +7387,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This move also planted the seed for disciplinary conventions, as topic-based authoring for online deliverable replaced the long print format of documentation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T120851Z" creationid="lenovo" creationdate="20200810T120851Z">
+        <seg>随着基于主题的在线可交付内容创作取代了长期存在的纸质文档，这一变动也为规范性惯例埋下伏笔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This process of specialization is reflected in the “D” of DITA: topics and their elements can evolve in the Darwinian sense of the word.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T081812Z" creationid="lenovo" creationdate="20200804T081156Z">
@@ -7493,8 +7501,8 @@
       <tuv lang="en">
         <seg>Those moves advanced from the organizational realm (Apple Computer, in his case) and became dis&lt;t1/&gt;ciplinary conventions: task and reference (along with concept) are the main content types associated with the DITA standard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T081628Z" creationid="lenovo" creationdate="20200810T081056Z">
-        <seg>从组织领域（他举的案例是Apple Computer）脱胎的这些操作成为了备受遵从的惯例：任务和参考（以及概念）是与DITA标准密切相关的内容类型。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T120616Z" creationid="lenovo" creationdate="20200810T081056Z">
+        <seg>从组织领域（他举的案例是Apple Computer）脱胎的这些操作成为了规范性惯例：任务和参考（以及概念）是与DITA标准密切相关的内容类型。</seg>
       </tuv>
     </tu>
     <tu>
