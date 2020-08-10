@@ -4078,6 +4078,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In &lt;t0/&gt;1998, &lt;t1/&gt;PQTI&lt;t2/&gt; evolved into &lt;t3/&gt;DQTI&lt;t4/&gt; &lt;t5/&gt;- &lt;t6/&gt;the first edition of &lt;t7/&gt;Developing Quality Technical Information: A Handbook for Writers and Editors&lt;t8/&gt;, authored by Gretchen Hargis and published by IBM/Prentice Hall.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T170641Z" creationid="lenovo" creationdate="20200810T170641Z">
+        <seg>&lt;t0/&gt;1998, &lt;t1/&gt;PQTI&lt;t2/&gt; 演化成 &lt;t3/&gt;DQTI&lt;t4/&gt; &lt;t5/&gt;- &lt;t6/&gt;即第一版 &lt;t7/&gt;《开发高质量技术信息：作者和编辑的参照手册》&lt;t8/&gt;,作者是格雷琴·哈吉斯 （Gretchen Hargis）由IBM/普伦蒂斯·霍尔联合出版。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In &lt;t0/&gt;2012, &lt;t1/&gt;the Adobe Technical Communication Suite (TCS) team distrib&lt;t2/&gt;uted on several social media channels a video titled “The Future of Technical Communication.” The video used stop-motion animation and fast-draw tech&lt;t3/&gt;niques to summarize the features of “Adobe's Tools and Services” for technical communication.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T155229Z" creationid="DSS" creationdate="20200723T155229Z">
@@ -7673,6 +7681,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T133034Z" creationid="DSS" creationdate="20200806T133034Z">
         <seg>因此，对于 DITA 初学者来说，具有图形用户界面（GUI）的 DITA 工具可能带来更好的体验。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Therefore, iden&lt;t5/&gt;tifying genre conventions in this text was not as direct as it was in other how-to titles about creating documentation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T170309Z" creationid="lenovo" creationdate="20200810T170309Z">
+        <seg>因此，在这本书中确定体裁惯例并不像在介绍如何创作文档的标题中那样直接。</seg>
       </tuv>
     </tu>
     <tu>
