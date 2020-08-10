@@ -1271,6 +1271,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A need “to get the reader productive right away,” claiming that a reader “cannot, and will not, spare the time for a long period of learning for a product or procedure that is supposed to be simple and easy to use or do, maintain, or repair” (Cohen &lt;t0/&gt;&amp; &lt;t1/&gt;Cunningham, &lt;t2/&gt;1984, &lt;t3/&gt;p.1).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T024524Z" creationid="lenovo" creationdate="20200810T024524Z">
+        <seg>“读者能立刻上手”这一要求意味着读者“不能也不会花费很长的时间去学习产品或学习本应简单的使用、运行、维护、维修过程” (Cohen &lt;t0/&gt;&amp; &lt;t1/&gt;Cunningham, &lt;t2/&gt;1984, &lt;t3/&gt;p.1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A sample sushi recipe from the restaurant's cookbook.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T061938Z" creationid="DSS" creationdate="20200807T061938Z">
@@ -2195,6 +2203,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T122131Z" creationid="DSS" creationdate="20200730T122131Z">
         <seg>厨师佩德罗（或最有可能是为他工作的信息架构师或XML专业人员）仍然可以将 LwDITA 中的 &lt;t14/&gt;&lt;topic&gt; &lt;t15/&gt; 专门化为 &lt;t16/&gt;&lt;recipe&gt;&lt;t17/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cohen (then a technical writer at IBM) and Cunningham (then a profes&lt;t0/&gt;sor of technical and professional writing at Texas Tech University) were quite prescriptive when documenting rhetorical conventions of the manual.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T025821Z" creationid="lenovo" creationdate="20200810T025821Z">
+        <seg>柯亨（当时是IBM的一技术文档工程师）和坎宁安（当时是德克萨斯理工大学专业技术写作方向的教授）记录手册的修辞惯例相当规范。</seg>
       </tuv>
     </tu>
     <tu>
