@@ -3076,6 +3076,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Gerald Cohen and &lt;t0/&gt;Donald Cunningham, in the introduction to their &lt;t1/&gt;1984 &lt;t2/&gt;book &lt;t3/&gt;Creating Technical Manuals: A Step-by-Step Approach to Writing User-Friendly Instructions&lt;t4/&gt;, already talked about a “crisis in manual writing.” According to these authors, manual readers in the 1980s were “more sophisticated and liberated” than those from before &lt;t5/&gt;1970 &lt;t6/&gt;and would not “tolerate a poorly conceived manual.” Many of their recommendations urged the manual writer “to serve as an agent representing the reader.” One of the greatest failures of manual writing, they wrote, is “the lack of representation from the reader needs” (Cohen &lt;t7/&gt;&amp; &lt;t8/&gt;Cunningham, &lt;t9/&gt;1984, &lt;t10/&gt;p.13).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T023041Z" creationid="lenovo" creationdate="20200810T023041Z">
+        <seg>杰拉德·柯亨（Gerald Cohen ）和唐纳德·坎宁安 （Donald Cunningham）在他们1984年出版的《创建技术手册：一步一步编写用户友好的操作说明》一书中就已经谈论过：“手册写作的危机。”根据这两位作者的说法，上世纪80年代手册读者比70年代以前的“更加成熟和自由”，不会“容忍构思拙劣的手册”。他们很多建议都要求手册作者应当“成为读者的代言人。”手册写作最大的失误之一在于写作“没能很好地代表读者需求” (Cohen &lt;t7/&gt;&amp; &lt;t8/&gt;Cunningham, &lt;t9/&gt;1984, &lt;t10/&gt;p.13).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossaries are rarely worth the effort.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T002711Z" creationid="lenovo" creationdate="20200810T002711Z">
