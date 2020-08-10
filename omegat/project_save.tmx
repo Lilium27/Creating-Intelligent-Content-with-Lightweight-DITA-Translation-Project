@@ -951,6 +951,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t5/&gt;Following their model, the rhetorical conventions of a technical manual presented by Cohen and Cunningham can be described as generic &lt;t6/&gt;- &lt;t7/&gt;they were specific to a genre (the technical manual).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T073211Z" creationid="lenovo" creationdate="20200810T073211Z">
+        <seg>&lt;t5/&gt;根据他们的模型，柯亨和坎宁安提出的技术手册的修辞惯例可以说是类属的&lt;t6/&gt;- &lt;t7/&gt;它们属于特定体裁（技术手册）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t5/&gt;For any case that requires stricter structured models, the DITA standard will be there as an alternative or a next-level solution.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T153318Z" creationid="DSS" creationdate="20200804T162450Z">
