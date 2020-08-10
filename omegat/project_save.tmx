@@ -6859,6 +6859,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Their recommended plan sheets were to be initially completed by subject-matter experts (actually, the authors said that writers should “use” subject-matter experts, with awareness that the experts “are busy people”), who would provide information “in a form that is close to the coherent pattern you will use in writing the manual.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T064115Z" creationid="lenovo" creationdate="20200810T064115Z">
+        <seg>他们推荐的计划表将由主题专家（实际上，作者称创作者应当“善用”主题专家，并意识到专家们“工作繁忙”）起草完成，他们提供信息的形式类似于你运用在手册中的一致性模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Then, as the layers are recombined, they work together to solve the problem in a process that can be represented as a replicable algorithm.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T080614Z" creationid="DSS" creationdate="20200808T080614Z">
