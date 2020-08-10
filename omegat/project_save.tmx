@@ -3284,6 +3284,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>He warned that creating online docu&lt;t2/&gt;mentation generated new demand for skills in the technical writer's repertoire, including learning an authoring language or, “if you don't find an authoring language you enjoy,” collaborating with a programmer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T082020Z" creationid="lenovo" creationdate="20200810T082020Z">
+        <seg>他也警示创建在线文档会对技术文档工程师产生新的技能需求，其中包括</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Helping to make errors and error recovery less traumatic and more peda&lt;t0/&gt;gogically productive (p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T075115Z" creationid="lenovo" creationdate="20200723T075115Z">
@@ -6070,6 +6078,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T030857Z" creationid="lenovo" creationdate="20200804T001457Z">
         <seg>这位技术文档工程师就是迈克尔·普里斯特利（Michael Priestley），几年后他与乔安·哈克斯（JoAnn Hackos）共同为DITA标准创建了原始的技术规范，现在则同我一道在为轻量级DITA创建技术规范。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That's up to you)” (Price, &lt;t0/&gt;1984, &lt;t1/&gt;p.100).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T081832Z" creationid="lenovo" creationdate="20200810T081832Z">
+        <seg>它的效用取决于你)” (Price, &lt;t0/&gt;1984, &lt;t1/&gt;p.100).</seg>
       </tuv>
     </tu>
     <tu>
