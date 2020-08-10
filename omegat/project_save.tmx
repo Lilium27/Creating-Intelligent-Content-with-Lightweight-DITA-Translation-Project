@@ -7171,6 +7171,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This book began at Apple Computer as a guide to the new employees and freelance writers working for the User Education group in the division that produces the Apple II family of computers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T074206Z" creationid="lenovo" creationdate="20200810T074206Z">
+        <seg>在Apple Computer的开发中，生产苹果II系列电脑的部门的用户教育组内，新员工和自由工作者都遵从这本书的指导。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This book is not about a specific tool or software platform: as an open standard in develop&lt;t12/&gt;ment, LwDITA does not depend on a vendor or “app.” Hackos explains the importance of information standards for technical communicators with the following scenario, which also applies to LwDITA:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T093719Z" creationid="DSS" creationdate="20200726T093719Z">
