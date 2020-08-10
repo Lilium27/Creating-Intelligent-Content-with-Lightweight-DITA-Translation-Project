@@ -5876,8 +5876,8 @@
       <tuv lang="en">
         <seg>Published in &lt;t6/&gt;1983, &lt;t7/&gt;PQTI&lt;t8/&gt; was credited to Morris Dean and a long list of co-authors (or co- “preparers”) and focused on a list of requirements of quality, presented under the principle of “technical information that meets all the requirements is quality information” (Dean et al., &lt;t9/&gt;1983, &lt;t10/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T154906Z" creationid="lenovo" creationdate="20200810T154906Z">
-        <seg>&lt;t7/&gt;PQTI&lt;t8/&gt;1983年首次面世，归功于莫里斯·迪恩以及一大批合著者， (Dean et al., &lt;t9/&gt;1983, &lt;t10/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T155047Z" creationid="lenovo" creationdate="20200810T154906Z">
+        <seg>&lt;t7/&gt;PQTI&lt;t8/&gt;1983年首次面世，归功于莫里斯·迪恩以及一大批合著者，重点关注一系列质量要求，并秉持“满足所有要求的技术信息是才是高质量信息”的原则” (Dean et al., &lt;t9/&gt;1983, &lt;t10/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7353,6 +7353,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145247Z" creationid="DSS" creationdate="20200725T071115Z">
         <seg>DITA 标准“是一种经过充分检验的&lt;t2/&gt;用于 XML 创作的 DTD 或模式”的含义表示 DITA 包含了技术出版物中常用的元素或操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The structure of &lt;t11/&gt;PQTI&lt;t12/&gt; is built around a list of quality requirements, and a standard pattern of presenting two examples when discussing each requirement: one showing a common error and the sec&lt;t13/&gt;ond illustrating a way to correct the error and “improve quality.”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T155730Z" creationid="lenovo" creationdate="20200810T155730Z">
+        <seg>&lt;t11/&gt;PQTI&lt;t12/&gt; 的结构就是围绕着质量要求构建的，</seg>
       </tuv>
     </tu>
     <tu>
