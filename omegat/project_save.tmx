@@ -5296,10 +5296,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Rigo closed this section stating that the “manual must then include a reference chart showing all command formats on a single page” &lt;t6/&gt;(1976, &lt;t7/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T000602Z" creationid="lenovo" creationdate="20200810T000602Z">
+        <seg>里戈在这一节的末尾称“手册必须包含一个在单个页面上显示所有命令格式的参考图表”&lt;t6/&gt;(1976, &lt;t7/&gt;p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Rigo's outline was “designed mainly for a software vendor or equivalent system appli&lt;t2/&gt;cation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T235427Z" creationid="lenovo" creationdate="20200808T081817Z">
         <seg>里戈的大纲“主要是为软件供应商或等效系统应用设计的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sample output&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T000627Z" creationid="lenovo" creationdate="20200810T000627Z">
+        <seg>样例输出&lt;t0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5324,6 +5340,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T080716Z" creationid="lenovo" creationdate="20200723T080716Z">
         <seg>简短、简洁的手册能让用户深入并迅速完成不同的任务，从何获得掌控感和自觉性以激发进一步的学习。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Should contain “little more than an annotated listing from a typical run.” Rigo specified that this “section does not have to explain every&lt;t1/&gt;thing” &lt;t2/&gt;(1976, &lt;t3/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T001035Z" creationid="lenovo" creationdate="20200810T001035Z">
+        <seg>“只应包括典型运行场景下的注释清单。”里戈特别指出“这一节不需要包罗万象。” &lt;t2/&gt;(1976, &lt;t3/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
