@@ -434,3 +434,6 @@ Gu	古	人名
 Gollner	戈尔纳
 David Dayton	大卫·代顿
 Dayton	代顿
+Carolyn	卡罗琳
+Mark Guzdial	马克·古齐亚尔
+Guzdial	古齐亚尔
