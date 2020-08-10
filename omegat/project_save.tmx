@@ -5342,6 +5342,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Price's discussion of online deliverables advanced the conversation on topic-based authoring that moved away from the traditional manual-as-book model that dominated the market in the 1970s and before.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T114734Z" creationid="lenovo" creationdate="20200810T114734Z">
+        <seg>普莱斯对在线可交付内容的讨论推动了基于主题的创作的讨论，而后者已经从上世纪79年代及以前占据市场的传统书籍式手册中脱离出来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Price's separation of a manual's text into content types estab&lt;t0/&gt;lishes a distinction between tutorial (“offers step-by-step training focused on a particular activity”) and reference (“offers procedures that users can apply in many different circumstances”) writing conventions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T080802Z" creationid="lenovo" creationdate="20200810T080802Z">
