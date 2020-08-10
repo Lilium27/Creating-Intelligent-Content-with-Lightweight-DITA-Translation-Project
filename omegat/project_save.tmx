@@ -5618,8 +5618,8 @@
       <tuv lang="en">
         <seg>Rigo's proposed sections and moves establish a clear pattern or schema for composing an example of the technical manual as a genre of technical com&lt;t0/&gt;munication.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T003413Z" creationid="lenovo" creationdate="20200810T003413Z">
-        <seg>里戈建议的分节和行为构建了清晰的模式或者说是架构，能利用它来构成技术手册的范例以此作为技术传播的体裁。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T081151Z" creationid="lenovo" creationdate="20200810T003413Z">
+        <seg>里戈建议的分节和操作构建了清晰的模式或者说是架构，能利用它来构成技术手册的范例以此作为技术传播的体裁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7455,6 +7455,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T045310Z" creationid="DSS" creationdate="20200807T045310Z">
         <seg>这些文件包含各种话题，其中有为公司员工、餐厅经营者、特许经营权所有者编写的说明，为厨房员工编写的菜谱，甚至还有为工程团队编写的维护指南。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Those moves advanced from the organizational realm (Apple Computer, in his case) and became dis&lt;t1/&gt;ciplinary conventions: task and reference (along with concept) are the main content types associated with the DITA standard.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T081056Z" creationid="lenovo" creationdate="20200810T081056Z">
+        <seg>这些行为</seg>
       </tuv>
     </tu>
     <tu>
