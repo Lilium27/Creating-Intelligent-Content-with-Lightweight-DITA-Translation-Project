@@ -5472,6 +5472,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Should include a table of contents and an index.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T002532Z" creationid="lenovo" creationdate="20200810T002532Z">
+        <seg>应该包括一个目录和一个索引。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Should include “any information that the user needs to determine whether he can run the system in his installation or use it for his application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T022717Z" creationid="lenovo" creationdate="20200809T022717Z">
@@ -5604,6 +5612,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T134213Z" creationid="DSS" creationdate="20200804T134154Z">
         <seg>上标（superscript）&lt;t0/&gt;，即比所在行位置略高的一个字母、数字或图形，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Supplemental&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T002520Z" creationid="lenovo" creationdate="20200810T002520Z">
+        <seg>补充材料&lt;t0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7342,6 +7358,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use them” (1976, p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T002425Z" creationid="lenovo" creationdate="20200810T002425Z">
+        <seg>一定要善用它” (1976, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Using Darwinian terminology that resonates with design principles of the DITA and LwDITA standards, Miller noted that “in trying to understand the process of genre change and the emergence of what seem to be 'new genres' in both new and old media, we have come to rely heavily on the concept of ‘evo&lt;t0/&gt;lution'” &lt;t1/&gt;(2015, &lt;t2/&gt;p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T011155Z" creationid="lenovo" creationdate="20200805T010247Z">
@@ -7891,6 +7915,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T093651Z" creationid="lenovo" creationdate="20200723T091408Z">
         <seg>卡罗尔说，“很多事都变了，”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“A page of ‘How to .</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T002559Z" creationid="lenovo" creationdate="20200810T002559Z">
+        <seg>“一页有关‘如何做’的内容</seg>
       </tuv>
     </tu>
     <tu>
