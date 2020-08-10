@@ -7685,6 +7685,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These moves included advocating for task-oriented titles and headings in sections and the use of the term “topic” (years before the development of a DITA topic model) as a component in a “library” of infor&lt;t1/&gt;mation units that a writer used to assemble documentation deliverables.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T164759Z" creationid="lenovo" creationdate="20200810T164759Z">
+        <seg>这些文步包括倡导在章节中使用面向任务的标题，并使用术语“主题”(在开发DITA主题模型之前的几年)作为信息单元“库”中的组件，编者使用这些信息单元来组装文档交付物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These professionals are  welcome to try LwDITA as a content-creation alternative; however, they  are not the intended audience for the proposed simplified standard.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T091202Z" creationid="DSS" creationdate="20200730T091202Z">
