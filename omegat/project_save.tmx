@@ -8248,6 +8248,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Visual communication</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T163052Z" creationid="lenovo" creationdate="20200810T163052Z">
+        <seg>视觉传达</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>WITH LIGHTWEIGHT DITA</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200718T121755Z" creationid="lenovo" creationdate="20200718T120730Z">
@@ -8736,6 +8744,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{ &lt;t0/&gt;Define each term new to the intended reader</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T162916Z" creationid="lenovo" creationdate="20200810T162916Z">
+        <seg>{ &lt;t0/&gt;为目标读者定义每个新术语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{ &lt;t0/&gt;Devise titles and headings to reveal the task</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T162521Z" creationid="lenovo" creationdate="20200810T161716Z">
@@ -8792,6 +8808,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{ &lt;t0/&gt;Pace the presentation to be neither too fast nor too slow</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T162803Z" creationid="lenovo" creationdate="20200810T162747Z">
+        <seg>{ &lt;t0/&gt;演示的速度不要太快也不要太慢</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{ &lt;t0/&gt;Present information from the reader's point of view</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T161412Z" creationid="lenovo" creationdate="20200810T161412Z">
@@ -8802,8 +8826,8 @@
       <tuv lang="en">
         <seg>{ &lt;t0/&gt;Present material so readers can understand it the first time</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T162623Z" creationid="lenovo" creationdate="20200810T162623Z">
-        <seg>{ &lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T162753Z" creationid="lenovo" creationdate="20200810T162623Z">
+        <seg>{ &lt;t0/&gt;用读者一眼就能明了的方式演示材料</seg>
       </tuv>
     </tu>
     <tu>
@@ -8812,6 +8836,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T162231Z" creationid="lenovo" creationdate="20200810T162231Z">
         <seg>{ &lt;t0/&gt;类似主题采用类似呈现方式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{ &lt;t0/&gt;Provide appropriate examples to communicate effectively</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T162941Z" creationid="lenovo" creationdate="20200810T162941Z">
+        <seg>{ &lt;t0/&gt;提供适当的例子以便有效沟通</seg>
       </tuv>
     </tu>
     <tu>
@@ -8844,6 +8876,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T162358Z" creationid="lenovo" creationdate="20200810T162358Z">
         <seg>{ &lt;t0/&gt;在索引中为涉及的主题添加可能需要的入口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{ &lt;t0/&gt;Use only technical terms that are necessary and appropriate</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T162903Z" creationid="lenovo" creationdate="20200810T162903Z">
+        <seg>{ &lt;t0/&gt;只使用必要和适当的技术术语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{ &lt;t0/&gt;Write directly and economically</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T162851Z" creationid="lenovo" creationdate="20200810T162851Z">
+        <seg>{ &lt;t0/&gt;写作应直接了当且注重经济效益</seg>
       </tuv>
     </tu>
     <tu>
