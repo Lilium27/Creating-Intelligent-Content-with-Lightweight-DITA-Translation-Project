@@ -1473,6 +1473,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Accuracy</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T163210Z" creationid="lenovo" creationdate="20200810T163151Z">
+        <seg>准确</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Across industries and professions, just mentioning the word “automation” can strike fear of humans (and/or their jobs) becoming obsolete, and technical com&lt;t0/&gt;munication is no exception.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T131110Z" creationid="DSS" creationdate="20200810T131110Z">
@@ -2461,6 +2469,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T001253Z" creationid="lenovo" creationdate="20200810T001253Z">
         <seg>完整示例&lt;t0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Completeness</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T163257Z" creationid="lenovo" creationdate="20200810T163257Z">
+        <seg>完整性Completeness</seg>
       </tuv>
     </tu>
     <tu>
@@ -8744,6 +8760,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{ &lt;t0/&gt;Attract and motivate your readers with graphic techniques</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T163128Z" creationid="lenovo" creationdate="20200810T163128Z">
+        <seg>{ &lt;t0/&gt;用图形技术来吸引和刺激读者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{ &lt;t0/&gt;Define each term new to the intended reader</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T162916Z" creationid="lenovo" creationdate="20200810T162916Z">
@@ -8772,6 +8796,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T162104Z" creationid="lenovo" creationdate="20200810T162056Z">
         <seg>{ &lt;t0/&gt;强调重点，下移次重点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{ &lt;t0/&gt;Employ visual techniques to communicate effectively</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T163142Z" creationid="lenovo" creationdate="20200810T163142Z">
+        <seg>{ &lt;t0/&gt;运用视觉技术进行有效沟通</seg>
       </tuv>
     </tu>
     <tu>
@@ -8840,6 +8872,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{ &lt;t0/&gt;Provide accurate references and other auxiliary information</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T163221Z" creationid="lenovo" creationdate="20200810T163221Z">
+        <seg>{ &lt;t0/&gt;提供准确的参考资料和其他辅助信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{ &lt;t0/&gt;Provide accurate technical information</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T163206Z" creationid="lenovo" creationdate="20200810T163206Z">
+        <seg>{ &lt;t0/&gt;提供准确的技术信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{ &lt;t0/&gt;Provide appropriate examples to communicate effectively</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T162941Z" creationid="lenovo" creationdate="20200810T162941Z">
@@ -8884,6 +8932,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T162903Z" creationid="lenovo" creationdate="20200810T162903Z">
         <seg>{ &lt;t0/&gt;只使用必要和适当的技术术语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{ &lt;t0/&gt;Use sexually neutral terms, unless other terms are appropriate</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T163247Z" creationid="lenovo" creationdate="20200810T163247Z">
+        <seg>{ &lt;t0/&gt;使用中性的术语，除非有其他合适的术语</seg>
       </tuv>
     </tu>
     <tu>
