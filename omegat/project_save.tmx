@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>' references is also helpful.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T002639Z" creationid="lenovo" creationdate="20200810T002639Z">
+        <seg>' 参考也十分有用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(Andersen &lt;t0/&gt;&amp; &lt;t1/&gt;Batova, &lt;t2/&gt;2015, &lt;t3/&gt;p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144755Z" creationid="DSS" creationdate="20200724T155637Z">
@@ -3068,6 +3076,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossaries are rarely worth the effort.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T002711Z" creationid="lenovo" creationdate="20200810T002711Z">
+        <seg>词汇表则不值得花太大功夫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Gone are the days when the manual was binding the academic and practitioner camps of technical com&lt;t1/&gt;munication as they worked towards the advancement of this common genre.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T082040Z" creationid="lenovo" creationdate="20200723T082040Z">
@@ -3368,6 +3384,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T080700Z" creationid="DSS" creationdate="20200803T152454Z">
         <seg>我在每个通用协定中都添加了一个改编自《LwDITA 技术规范》的简单定义，虽然有时是这些定义多余的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I have never yet used one that provided the explanation that I needed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T002810Z" creationid="lenovo" creationdate="20200810T002810Z">
+        <seg>我还没遇到哪个词汇表能够提供我需要的解释信息的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4128,6 +4152,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T131246Z" creationid="DSS" creationdate="20200804T131246Z">
         <seg>也用来表示内容中引用的事实或其他材料的来源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is com&lt;t1/&gt;mon to include a list of illustrations, but no one seems to use them very much” (1976, p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T003104Z" creationid="lenovo" creationdate="20200810T003104Z">
+        <seg>手册中加入插图列表很常见，但似乎没人会怎么用它” (1976, p.</seg>
       </tuv>
     </tu>
     <tu>
