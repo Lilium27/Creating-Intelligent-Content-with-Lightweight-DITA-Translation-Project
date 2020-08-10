@@ -429,3 +429,4 @@ Garcia	加西亚
 Supplemental	补充材料
 Gerald Cohen	杰拉德·柯亨
 Donald Cunningham	唐纳德·坎宁安
+Producing Quality Technical Information	《产出高质量技术信息》
