@@ -2425,6 +2425,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Clarity</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T162612Z" creationid="lenovo" creationdate="20200810T162612Z">
+        <seg>明确</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cohen (then a technical writer at IBM) and Cunningham (then a profes&lt;t0/&gt;sor of technical and professional writing at Texas Tech University) were quite prescriptive when documenting rhetorical conventions of the manual.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T025821Z" creationid="lenovo" creationdate="20200810T025821Z">
@@ -8730,8 +8738,8 @@
       <tuv lang="en">
         <seg>{ &lt;t0/&gt;Devise titles and headings to reveal the task</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T161716Z" creationid="lenovo" creationdate="20200810T161716Z">
-        <seg>{ &lt;t0/&gt;设计标题和主题以揭示任务内容</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T162521Z" creationid="lenovo" creationdate="20200810T161716Z">
+        <seg>{ &lt;t0/&gt;设计标题以揭示任务内容</seg>
       </tuv>
     </tu>
     <tu>
@@ -8748,6 +8756,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T162104Z" creationid="lenovo" creationdate="20200810T162056Z">
         <seg>{ &lt;t0/&gt;强调重点，下移次重点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{ &lt;t0/&gt;Highlight key terms &lt;t1/&gt;- &lt;t2/&gt;including new terms being defined</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T162430Z" creationid="lenovo" creationdate="20200810T162430Z">
+        <seg>{ &lt;t0/&gt;强调关键术语 &lt;t1/&gt;- &lt;t2/&gt;包括新定义的术语</seg>
       </tuv>
     </tu>
     <tu>
@@ -8784,10 +8800,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{ &lt;t0/&gt;Present material so readers can understand it the first time</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T162623Z" creationid="lenovo" creationdate="20200810T162623Z">
+        <seg>{ &lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{ &lt;t0/&gt;Present similar topics in a similar way</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T162231Z" creationid="lenovo" creationdate="20200810T162231Z">
         <seg>{ &lt;t0/&gt;类似主题采用类似呈现方式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{ &lt;t0/&gt;Rarely run a paragraph beyond a dozen lines</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T162554Z" creationid="lenovo" creationdate="20200810T162554Z">
+        <seg>{ &lt;t0/&gt;尽量不要出现一段十几行的情况</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{ &lt;t0/&gt;Rarely run text for half a page without a heading</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T162515Z" creationid="lenovo" creationdate="20200810T162515Z">
+        <seg>{ &lt;t0/&gt;尽量不要出现半页纸都没有标题的情况</seg>
       </tuv>
     </tu>
     <tu>
