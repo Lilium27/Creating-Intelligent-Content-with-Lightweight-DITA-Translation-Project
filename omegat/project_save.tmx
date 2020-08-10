@@ -2829,6 +2829,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Early in the document, the authors specified that “this book is to help writers produce quality technical information and to help reviewers judge the results” (Dean et al., &lt;t3/&gt;1983, &lt;t4/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T170034Z" creationid="lenovo" creationdate="20200810T170034Z">
+        <seg>在文档的开始部分，作者就明确指出“这本书旨在帮助作者产出高质量技术信息并帮助审稿人判断结果”(Dean et al., &lt;t3/&gt;1983, &lt;t4/&gt;p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ease of use.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T152800Z" creationid="DSS" creationdate="20200726T152800Z">
