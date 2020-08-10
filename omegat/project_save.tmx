@@ -447,6 +447,15 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t11/&gt;117).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T120150Z" creationid="DSS" creationdate="20200810T120150Z">
+        <seg>
+&lt;t11/&gt;117)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t12/&gt;Figure &lt;t13/&gt;5.1&lt;t14/&gt; &lt;t15/&gt;shows the recipe critiques DITA map, which you can save as &lt;t16/&gt;marinara-critique.ditamap&lt;t17/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T153716Z" creationid="DSS" creationdate="20200806T085605Z">
@@ -459,6 +468,15 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T153525Z" creationid="DSS" creationdate="20200802T122613Z">
         <seg>&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;2014年5月，普里斯特利在一个名为“DITA 需要 XML吗?”的网络研讨会上提出了 XDITA/HDITA 的提案。同月，他还向 &lt;t15/&gt;DITA 技术委员会提交了一份正式提案，要求创建一个专门的轻量级DITA小组委员会。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t12/&gt;This deficiency presents a unique opportunity for implementing an approach based on principles of computational thinking.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T121248Z" creationid="DSS" creationdate="20200810T121248Z">
+        <seg>这个不足为实现基于计算思维原则的方法提供了一个不可多得的机会。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -2668,6 +2686,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Evaluating the coverage of topics related to CM in academic work, Andersen lamented that technical communication “scholar&lt;t7/&gt;ship on CM to date has almost exclusively taken an academic perspective; when articulating and theorizing trends, methods, and technologies, we tend to situ&lt;t8/&gt;ate our discussions within the existing scholarship rather than the larger CM discourse that is actively shaping CM practice” (Andersen, &lt;t9/&gt;2014, &lt;t10/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T121237Z" creationid="DSS" creationdate="20200810T120142Z">
+        <seg>在评估学术工作中与CM相关的话题的覆盖率时，安德森感叹道：“迄今为止，在技术传播领域，关于CM的研究几乎都是从学术角度出发的，我们倾向于在现有的学术领域内讨论和推断趋势、方法、科技，而非在更大的CM话语范围内讨论，而后者对CM实践有积极作用” (Andersen, &lt;t9/&gt;2014, &lt;t10/&gt;p. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Even after retirement from her faculty position at North Carolina State University, Miller continues her explorations on the human need for genres in culture, literature, and the sciences “to help us make sense of this blooming, buzzing confusion” of new forms of communication and interaction (Miller, &lt;t1/&gt;2015, &lt;t2/&gt;p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T010007Z" creationid="lenovo" creationdate="20200805T005942Z">
@@ -4868,6 +4894,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Much like separating the layers of computing architecture so engineers can focus on one problem at a time, seeing the process behind intelligent content with LwDITA as a series of layers involving important, but separate, abstractions can provide a more navigable path for adoption.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T121314Z" creationid="DSS" creationdate="20200810T121314Z">
+        <seg>就像分离计算机架构层级以便工程师可以一次专注于一个问题一样，将使用LwDITA创作智能内容的过程视为一系列重要但又独立的抽象层级，这样创作会更加顺畅。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Multimedia Components</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T154946Z" creationid="DSS" creationdate="20200804T154946Z">
@@ -6647,6 +6681,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144836Z" creationid="DSS" creationdate="20200724T162056Z">
         <seg>文档主要有三种话题类型，它们“代表了为了帮助用户而产生的技术信息文档里的绝大多数内容”（哈克斯，&lt;t0/&gt;2011&lt;t1/&gt;年，第7页）：概念（concept）、任务（task）和参考（reference），普林格尔（Pringle）&lt;t2/&gt;和&lt;t3/&gt;奥基夫对其的简短定义如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The mandate of “go learn about intelli&lt;t13/&gt;gent content and then bring it back to your classroom and research agenda” has been ineffective for many years as a way to convince technical communication faculty and graduate students about the importance of industry practices.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T121256Z" creationid="DSS" creationdate="20200810T121256Z">
+        <seg>多年来，为了让技术传播学院的教师和研究生相信行业实践的重要性，一直在要求他们“学习创作智能内容，并将其用在课堂上和研究中”，但这个做法收效甚微。</seg>
       </tuv>
     </tu>
     <tu>
