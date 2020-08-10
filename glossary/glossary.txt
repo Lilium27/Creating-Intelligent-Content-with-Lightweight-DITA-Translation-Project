@@ -427,3 +427,5 @@ entry point	入口
 Dan Garcia	丹·加西亚
 Garcia	加西亚
 Supplemental	补充材料
+Gerald Cohen	杰拉德·柯亨
+Donald Cunningham	唐纳德·坎宁安
