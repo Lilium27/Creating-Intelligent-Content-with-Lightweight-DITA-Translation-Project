@@ -1003,8 +1003,8 @@
       <tuv lang="en">
         <seg>&lt;t5/&gt;In this model, automation can be implemented as a problem-solving approach, but only after abstractions are applied in the development of structures in algorithmic workflows.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T134531Z" creationid="DSS" creationdate="20200810T134531Z">
-        <seg>在罗克利和戈尔纳的模型中，自动化可以视作一种解决问题的方法，但必须在算法工作流的结构开发中应用抽象概念才行。总之，为了实现高效的内容自动化例程，创作者（不一定是程序员或开发人员）需要参与一个包含抽象层级和可复制规则的结构化过程。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T134728Z" creationid="DSS" creationdate="20200810T134531Z">
+        <seg>在罗克利和戈尔纳的模型中，自动化可以视作一种解决问题的方法，但必须在算法工作流的结构开发中应用抽象概念才行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2045,6 +2045,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200722T021836Z" creationid="lenovo" creationdate="20200722T021836Z">
         <seg>智能内容出现前,&lt;t0/&gt;计算机手册占据主导</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Back in &lt;t1/&gt;2004, &lt;t2/&gt;David Dayton identified “two major fault lines” creating tension in the profession of technical communication: one between academics and practitioners, and another among academics, with a camp focusing on rhetorical generalism and another identifying</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T134820Z" creationid="DSS" creationdate="20200810T134807Z">
+        <seg>早在2004年，大卫·代顿就提出了“两大断层线”的想法，在技术传播领域制造了紧张气氛：一个断层线在学者和从业者之间，另一个断层线在学术界内部：一个阵营关注一般性修辞，</seg>
       </tuv>
     </tu>
     <tu>
@@ -4174,6 +4182,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In sum, in order to achieve efficient automation routines for content, authors (and not necessarily programmers or developers) need to get involved in a structured process involving layers of abstraction and replicable rules.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T134736Z" creationid="DSS" creationdate="20200810T134736Z">
+        <seg>总之，为了实现高效的内容自动化例程，创作者（不一定是程序员或开发人员）需要参与一个包含抽象层级和可复制规则的结构化过程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In that initial proposal, which was still depending on XML as its only authoring language, the simplified topic content model included the following elements or topical conventions:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T073542Z" creationid="DSS" creationdate="20200731T073542Z">
@@ -5300,6 +5316,14 @@
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T153717Z" creationid="DSS" creationdate="20200802T160101Z">
         <seg>&lt;t0/&gt;2014&lt;t1/&gt;年5月27日，迈克尔·普里斯特利向DITA技术委员会提交了以下提议，要求与 OASIS 一起创立一个专门的轻量级 DITA 小组委员会：
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the academic side of technical communication (and in corporate train&lt;t0/&gt;ing), we have the opportunity to fill this gap in knowledge and teach about the benefits and requirements of developing an intelligent content strategy based on principles and practices of computational thinking.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T134745Z" creationid="DSS" creationdate="20200810T134722Z">
+        <seg>在技术传播领域的学术研究（以及企业培训）方面，我们有机会填补这一知识空白，教授基于计算机思维的原则和实践来开发智能内容策略的优势和要求。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8476,6 +8500,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T074922Z" creationid="DSS" creationdate="20200808T074922Z">
         <seg>一系列的抽象层级，每个抽象层级建立在下一层级之上” &lt;t0/&gt;(2006, &lt;t1/&gt;pp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the field at the intersection of information technology and organizational communication (Dayton, &lt;t0/&gt;2004).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T140632Z" creationid="DSS" creationdate="20200810T140632Z">
+        <seg>另一个阵营站在信息科技和组织传播的十字路口 (Dayton, &lt;t0/&gt;2004)。 </seg>
       </tuv>
     </tu>
     <tu>
