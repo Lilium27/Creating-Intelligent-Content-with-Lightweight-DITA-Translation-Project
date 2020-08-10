@@ -6107,6 +6107,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Test it again</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T125415Z" creationid="lenovo" creationdate="20200810T125415Z">
+        <seg>验证</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That authors can view content as non-linear and envision more than one outcome based on principles of reuse and single-sourcing might sound like a major innovation to professionals in academia and industry accus&lt;t4/&gt;tomed to using a word processor as their main tool.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T135825Z" creationid="DSS" creationdate="20200809T135825Z">
@@ -8572,8 +8580,8 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;Give people a break</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T125333Z" creationid="lenovo" creationdate="20200810T125333Z">
-        <seg>• &lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T125822Z" creationid="lenovo" creationdate="20200810T125333Z">
+        <seg>• &lt;t0/&gt;帮用户分解任务</seg>
       </tuv>
     </tu>
     <tu>
