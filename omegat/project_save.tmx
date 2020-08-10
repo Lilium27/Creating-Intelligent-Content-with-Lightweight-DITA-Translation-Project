@@ -5434,8 +5434,8 @@
       <tuv lang="en">
         <seg>Price's emphasis on task-orientation established some topical moves that still apply to tutorial/procedural content, with the overall recommendation of focusing on organization.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T122541Z" creationid="lenovo" creationdate="20200810T122541Z">
-        <seg>普莱斯强调任务导向，创建了一些主题文步</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T124620Z" creationid="lenovo" creationdate="20200810T122541Z">
+        <seg>普莱斯强调任务导向，创建了一些主题文步，这些文步现仍可以用于指导型/流程型内容，并提出了关注组织架构的整体性建议。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7605,6 +7605,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Those moves included the following:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T124631Z" creationid="lenovo" creationdate="20200810T124631Z">
+        <seg>文步包含以下内容：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Those pre-established content types are enforced by files that are commonly referred to as DTDs, although DTD is only one of the markup languages used to verify the structure of those files.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T125644Z" creationid="DSS" creationdate="20200724T125644Z">
@@ -8522,6 +8530,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>• &lt;t0/&gt;Divide your material into short steps</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T124711Z" creationid="lenovo" creationdate="20200810T124711Z">
+        <seg>• &lt;t0/&gt;将材料划分为精简的步骤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>• &lt;t0/&gt;Explaining the Distinguishing Characteristics of the Product or Procedure &lt;t1/&gt;• &lt;t2/&gt;Illustrating the Old Product or Procedure</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T065948Z" creationid="lenovo" creationdate="20200810T065948Z">
@@ -8542,6 +8558,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T065957Z" creationid="lenovo" creationdate="20200810T065957Z">
         <seg>• &lt;t0/&gt;说明新产品或流程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;Introduce each section</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T124645Z" creationid="lenovo" creationdate="20200810T124645Z">
+        <seg>• &lt;t0/&gt;介绍每节的内容</seg>
       </tuv>
     </tu>
     <tu>
