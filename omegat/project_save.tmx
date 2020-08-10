@@ -8712,6 +8712,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{ &lt;t0/&gt;Indicate a practical reason for information</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T161458Z" creationid="lenovo" creationdate="20200810T161458Z">
+        <seg>{ &lt;t0/&gt;说明信息的应用性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{ &lt;t0/&gt;Present information from the reader's point of view</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T161412Z" creationid="lenovo" creationdate="20200810T161412Z">
+        <seg>{ &lt;t0/&gt;从读者视角展示信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{{ &lt;t0/&gt;Analysis of lightweight DITA implementation options in other for&lt;t1/&gt;mats, including HTML5 and markdown</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T162009Z" creationid="DSS" creationdate="20200802T162009Z">
@@ -9070,6 +9086,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T061831Z" creationid="DSS" creationdate="20200808T061831Z">
         <seg>· &lt;t0/&gt;表格组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;Task orientation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T161353Z" creationid="lenovo" creationdate="20200810T161353Z">
+        <seg>• &lt;t0/&gt;任务导向</seg>
       </tuv>
     </tu>
     <tu>
