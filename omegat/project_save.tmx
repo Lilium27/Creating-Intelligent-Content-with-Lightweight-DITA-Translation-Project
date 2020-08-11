@@ -4696,8 +4696,8 @@
       <tuv lang="en">
         <seg>In this book, I follow Guzdial's and Barba's cautious philosophy: develop&lt;t0/&gt;ing intelligent content with LwDITA grounded on principles of computational thinking will help communicators produce future-proof content that is ready for automation and is not restricted to one deliverable and one audience.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T152836Z" creationid="DSS" creationdate="20200810T152814Z">
-        <seg>在本书中，我遵循了古齐亚尔和巴尔巴的谨慎思考，我认为基于计算机思维的原则使用LwDITA开发智能内容，将帮助技术传播者生成未永不过时的内容，为自动化做好准备，同时不局限于某一种交付格式或某一类受众。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T113810Z" creationid="DSS" creationdate="20200810T152814Z">
+        <seg>在本书中，我遵循古齐亚尔和巴尔巴的谨慎思考，也认为基于计算机思维的原则使用 LwDITA 开发智能内容，将帮助技术传播者生成未永不过时的内容，为自动化做好准备，同时不局限于某一种交付格式或某一类受众。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7040,6 +7040,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T131100Z" creationid="DSS" creationdate="20200810T131100Z">
         <seg>再将“多篇博客汇编为一篇摘要，向读者介绍他们最需要知道的行业洞察”，提取“关键引用发送推特,”以及“将研讨会上的问题发在Facebook上，发起讨论” (Rockley, &lt;t2/&gt;2016)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Abstractions Behind Intelligent Content &lt;t0/&gt;155</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T114312Z" creationid="DSS" creationdate="20200811T114312Z">
+        <seg>智能内容背后的抽象概念</seg>
       </tuv>
     </tu>
     <tu>
