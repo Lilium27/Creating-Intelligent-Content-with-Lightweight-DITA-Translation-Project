@@ -7027,6 +7027,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Similarly, to some extent, we understand the idea of a commonplace without much prompting: A commonplace idea is one which is, quite literally, common to a particular place.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T152528Z" creationid="lenovo" creationdate="20200811T152528Z">
+        <seg>同样地，在某种程度上，我们无需太多提示就能理解常规这个概念：从字面上讲，常规指的是在某个特定领域的常见现象。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Simplification.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T152752Z" creationid="DSS" creationdate="20200726T152743Z">
@@ -8226,6 +8234,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T150139Z" creationid="lenovo" creationdate="20200811T150139Z">
         <seg>最初的DITA引进主题作为信息块，有以下特征：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The perception is that little explanation is needed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T152544Z" creationid="lenovo" creationdate="20200811T152544Z">
+        <seg>人们的看法是，这几乎不需要解释。</seg>
       </tuv>
     </tu>
     <tu>
