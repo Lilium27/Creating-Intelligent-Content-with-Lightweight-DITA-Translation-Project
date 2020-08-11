@@ -5041,8 +5041,8 @@
       <tuv lang="en">
         <seg>Intelligent Content Needs Computational Thinking</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T131215Z" creationid="DSS" creationdate="20200809T131215Z">
-        <seg>创建智能内容需要计算思维</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T142017Z" creationid="DSS" creationdate="20200809T131215Z">
+        <seg>创建智能内容需要计算机思维</seg>
       </tuv>
     </tu>
     <tu>
@@ -6623,6 +6623,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T141536Z" creationid="DSS" creationdate="20200811T141536Z">
         <seg>可复用&lt;t0/&gt;内容使用“现有的模块化内容组件来开发新的内容产品”。在文字处理器中，作者可以使用复制和粘贴功能，但最终会受到人工操作的限制。智能内容中的复用是自动化的，可以在交付内容和模块之间保持一致性，同时还简化了转换过程（并减低了与之相关的成本）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reuse in intelligent content is automated and provides consistency across deliverables and sections, while also simplifying translation pro&lt;t2/&gt;cesses (and costs associated with them).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T141950Z" creationid="DSS" creationdate="20200811T141950Z">
+        <seg>智能内容中的复用是自动化的，可以在交付内容和模块之间保持一致性，同时还简化了转换过程（并减低了与之相关的成本）。</seg>
       </tuv>
     </tu>
     <tu>
