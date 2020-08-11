@@ -8117,6 +8117,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The standard adds the following indicators for assessing students as compu&lt;t0/&gt;tational thinkers:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T130230Z" creationid="DSS" creationdate="20200811T130230Z">
+        <seg>该标准增加了以下指标来评估学生的计算机思维能力:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The standard was being split into three different versions for its &lt;t1/&gt;1.3 &lt;t2/&gt;release: base, technical content, and all-inclusive, which were called “packages” or “packaging” in discussions before their offi&lt;t3/&gt;cial release.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T121804Z" creationid="DSS" creationdate="20200801T131151Z">
