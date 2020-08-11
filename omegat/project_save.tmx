@@ -699,8 +699,8 @@
       <tuv lang="en">
         <seg>&lt;t2/&gt;This highly structured task topic reads like a smoothie that came out of a blender combining generic, organizational, and disciplinary conven&lt;t3/&gt;tions and commonplaces from Carroll, Price, and Hargis and her co-authors, and others who attempted to capture the essence of technical documentation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T134636Z" creationid="lenovo" creationdate="20200811T130951Z">
-        <seg>&lt;t2/&gt;这个高度结构化的任务主题更像是一个融合产物，融合了通用型、组织架构型、和规范型惯例，以及卡罗尔、哈吉斯及合著者以及其他想要抓住技术文档本质的人达成的共识。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T142427Z" creationid="lenovo" creationdate="20200811T130951Z">
+        <seg>&lt;t2/&gt;这个高度结构化的任务主题更像是一个融合产物，融合了通用型、组织架构型、和规范型惯例，以及卡罗尔、哈吉斯及合著者以及其他想要抓住技术文档本质的人的常规做法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8960,8 +8960,8 @@
       <tuv lang="en">
         <seg>Those conventions, or content commonplaces, specific to the genre of task identified by the DITA architects, created quite the strict template that came with many of the benefits I have mentioned in previous chapters.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T142354Z" creationid="lenovo" creationdate="20200811T142354Z">
-        <seg>那些作用于DITA架构师定义的任务体裁的惯例或内容常规</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T142504Z" creationid="lenovo" creationdate="20200811T142354Z">
+        <seg>那些作用于DITA架构师定义的任务体裁的惯例或内容常规，创建了相当严格的模板，带来了我在前几章中提到的许多好处。</seg>
       </tuv>
     </tu>
     <tu>
