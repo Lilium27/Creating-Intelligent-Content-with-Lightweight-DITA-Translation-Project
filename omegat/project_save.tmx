@@ -214,10 +214,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>525).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T122033Z" creationid="DSS" creationdate="20200811T122033Z">
+        <seg>525)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>8).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T092002Z" creationid="DSS" creationdate="20200731T092002Z">
         <seg>8页）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>85).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T121222Z" creationid="DSS" creationdate="20200811T121222Z">
+        <seg>85)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5270,6 +5286,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Likewise, Senske reported from an effort to teach computational thinking to architecture students, based on the idea that “understanding computation and being able to express oneself computationally is not optional” (2017, p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T121232Z" creationid="DSS" creationdate="20200811T121214Z">
+        <seg>类似地，出于希望学生们能“理解计算机原理，学会使用计算机表达自我”的想法，散斯克（Senske）在努力地教建筑学学生计算机思维 (2017, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Link text&lt;t0/&gt;: provides a label for a link or resource.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T153714Z" creationid="DSS" creationdate="20200804T153638Z">
@@ -5568,8 +5592,8 @@
       <tuv lang="en">
         <seg>Musaeus et al., for example, claim that computational thinking “as part of the medical curriculum could help educate novices (medical students and physicians in training) in the analysis and design of complex healthcare organizations, which increasingly rely on computer technology.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T121052Z" creationid="DSS" creationdate="20200811T121052Z">
-        <seg>例如，穆萨乌斯等人称，计算机思维“作为医学课程的一部分，可以帮助新手（医学生和正在接受培训的医生）分析和设计复杂的医疗机构，而这些机构越来越依赖计算机技术。”</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T121204Z" creationid="DSS" creationdate="20200811T121052Z">
+        <seg>例如，穆萨乌斯等人称，计算机思维“作为医学课程的一部分，可以帮助新手（医学生和正在接受培训的医生）分析和设计复杂的医疗机构，而这些机构越来越依赖计算机技术。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6734,6 +6758,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T134220Z" creationid="DSS" creationdate="20200804T134144Z">
         <seg>下标（subscript）&lt;t0/&gt;，即比所在行位置略低的一个字母、数字或图形，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Such teaching should engage novices in information practices where they learn to perceive practices of computer technology as directly involved in the provision of patient care” (Musaeus et al., 2017, p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T121209Z" creationid="DSS" creationdate="20200811T121145Z">
+        <seg>应该让新手医生参与到信息实践中来学习，让他们知道计算机技术实践直接为患者提供护理服务”(Musaeus et al., 2017, p.</seg>
       </tuv>
     </tu>
     <tu>
