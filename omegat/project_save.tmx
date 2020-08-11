@@ -2918,6 +2918,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Elements, however, do have recognizable limits and often have correspond&lt;t7/&gt;ing markup tags” &lt;t8/&gt;(1998, &lt;t9/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T022825Z" creationid="lenovo" creationdate="20200811T022825Z">
+        <seg>然而，元素确实具有可识别界限，并且通常具有相应的标记。 &lt;t8/&gt;(1998, &lt;t9/&gt;p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Elovirta, who is the lead developer of the DITA Open Toolkit, generously contributed many open source hours to incorporating changes and suggestions that Priestley and I requested for our demos and conference pres&lt;t5/&gt;entations.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T115839Z" creationid="DSS" creationdate="20200803T115839Z">
@@ -7833,6 +7841,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T073021Z" creationid="DSS" creationdate="20200726T073021Z">
         <seg>这些特性和优势有助于提升 DITA 作技术传播智能内容解决方案的流行度和适应性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These guidelines apply to the elements.” Further describing the difference between characteristics and elements, Hargis noted that “writers cannot, for example, turn clarity on and off with a markup tag.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T022639Z" creationid="lenovo" creationdate="20200811T022505Z">
+        <seg>这些指导方针适用于元素。”在进一步描述特征和元素之间的区别时，哈吉斯指出:“例如，作者仅靠标记无法决定明确性。”</seg>
       </tuv>
     </tu>
     <tu>
