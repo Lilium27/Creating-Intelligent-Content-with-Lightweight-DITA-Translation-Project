@@ -234,7 +234,6 @@ table format	表格格式
 table row	表行
 take advantage	利用
 target audience	目标受众
-task orientation	任务取向
 technical authors	技术作者
 technical committee	技术委员会
 Technical Committee	技术委员会
@@ -440,3 +439,4 @@ Guzdial	古齐亚尔
 Lorena Barba	洛雷娜·巴尔巴
 Barba	巴尔巴
 Morris Dean	莫里斯·迪恩
+task orientation	任务导向
