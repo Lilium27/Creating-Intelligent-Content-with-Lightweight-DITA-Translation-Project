@@ -1769,6 +1769,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An element can be as small as a word and as large as a tutorial” (Hargis et al., &lt;t1/&gt;2004, &lt;t2/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T025620Z" creationid="lenovo" creationdate="20200811T025620Z">
+        <seg>元素可以小到一个单词，大到一个教程 (Hargis et al., &lt;t1/&gt;2004, &lt;t2/&gt;p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An element can be as small as a word and as large as a tutorial” &lt;t0/&gt;(1998, &lt;t1/&gt;p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T014524Z" creationid="lenovo" creationdate="20200811T014524Z">
@@ -3522,6 +3530,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T082040Z" creationid="lenovo" creationdate="20200723T082040Z">
         <seg>以往技术传播领域的学术人士和从业者携手推动手册这一通用体裁的发展，进而两者绑定在一起，然而这样的日子已经一去不复返了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gretchen Hargis passed away in &lt;t0/&gt;2005, &lt;t1/&gt;and the third edition of &lt;t2/&gt;DQTI&lt;t3/&gt; was published in &lt;t4/&gt;2014, &lt;t5/&gt;with some of the second edition's co-authors.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T025807Z" creationid="lenovo" creationdate="20200811T025807Z">
+        <seg>格雷琴·哈吉斯于&lt;t0/&gt;2005年去世，而&lt;t2/&gt;DQTI&lt;t3/&gt;第三版于&lt;t4/&gt;2014年，作者中也包含了第二版中的一部分人。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6228,8 +6244,8 @@
       <tuv lang="en">
         <seg>She defined elements as “the units that physically make up technical information.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T014441Z" creationid="lenovo" creationdate="20200811T014441Z">
-        <seg>她将元素定义为“构成技术信息的物理单位”。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T025547Z" creationid="lenovo" creationdate="20200811T014441Z">
+        <seg>她将元素定义为“构成技术信息的实体单位”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9500,8 +9516,8 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;Elements are “the units that physically constitute technical information.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T025539Z" creationid="lenovo" creationdate="20200811T025539Z">
-        <seg>• &lt;t0/&gt;元素是“物理上构成技术信息的单元”。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T025603Z" creationid="lenovo" creationdate="20200811T025539Z">
+        <seg>• &lt;t0/&gt;元素是“物理上构成技术信息的实体单元”。</seg>
       </tuv>
     </tu>
     <tu>
