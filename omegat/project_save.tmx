@@ -897,6 +897,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t4/&gt;2) &lt;t5/&gt;and in the most recent edition is presented as: “In the context of a product, a focus on helping users do tasks that support their goals” (Carey et al., &lt;t6/&gt;2014, &lt;t7/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T030236Z" creationid="lenovo" creationdate="20200811T030236Z">
+        <seg>&lt;t4/&gt;2) &lt;t5/&gt; 在最新版本中是这样描述的:“在产品的环境中，关注于帮助用户完成支持他们目标的任务”(Carey et al., &lt;t6/&gt;2014, &lt;t7/&gt;p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t4/&gt;20).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143403Z" creationid="DSS" creationdate="20200726T152707Z">
@@ -1237,6 +1245,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T013026Z" creationid="lenovo" creationdate="20200805T013026Z">
         <seg>技术信息结构化创作方法的背后也蕴藏着同样地痴迷，即对“内容片段的内容、顺序和形式进行捕获、引导和验证的痴迷”。&lt;t9/&gt; (Baker, &lt;t10/&gt;2013, &lt;t11/&gt;p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t9/&gt;The &lt;t10/&gt;DQTI&lt;t11/&gt; quality characteristics, which still show some resemblance to the requirements from &lt;t12/&gt;PQTI&lt;t13/&gt;, are,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T030403Z" creationid="lenovo" creationdate="20200811T030403Z">
+        <seg>&lt;t9/&gt; &lt;t10/&gt;DQTI&lt;t11/&gt;的质量特征与&lt;t12/&gt;PQTI&lt;t13/&gt;的要求仍有一些相似之处，</seg>
       </tuv>
     </tu>
     <tu>
@@ -3410,6 +3426,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T075303Z" creationid="DSS" creationdate="20200724T162425Z">
         <seg>例如，“概念”（concept）可以是对厨师佩德罗菜谱中酱汁部分的介绍，“任务”（task）可以为特定的辛香番茄酱和调味料提供菜谱（佩德罗可以写一个将番茄切成小块的操作步骤，然后在所有需要用到这一步骤食谱中重复使用！），“参考”（reference）可以列出准备食材的常用技术和工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, task orientation was originally defined as: “A focus on helping users complete the tasks associated with a product in relation to their jobs,” (Hargis, &lt;t2/&gt;1998, &lt;t3/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T030220Z" creationid="lenovo" creationdate="20200811T030220Z">
+        <seg>例如，面向任务最初被定义为:“专注于帮助用户完成与其工作相关的产品的任务，” (Hargis, &lt;t2/&gt;1998, &lt;t3/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7156,6 +7180,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The definitions for some characteristics, however, have changed slightly over time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T030143Z" creationid="lenovo" creationdate="20200811T030143Z">
+        <seg>然而，一些特征的定义随着时间的推移略有变化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The demise of the manual is an event that affects genre theory and technical com&lt;t0/&gt;munication, as this was the flagship format that the profession produced for decades and, for some, justified its existence as an academic subject and area of practice.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T005601Z" creationid="lenovo" creationdate="20200804T083315Z">
@@ -7481,6 +7513,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T151644Z" creationid="DSS" creationdate="20200803T151644Z">
         <seg>在最初的版本中，提议的标准只关注两种</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The quality characteristics in all the available editions of &lt;t0/&gt;DQTI&lt;t1/&gt; follow the same structure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T030116Z" creationid="lenovo" creationdate="20200811T030116Z">
+        <seg>&lt;t0/&gt;DQTI&lt;t1/&gt;所有可用版本的质量特征遵循相同的结构。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9710,6 +9750,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T030038Z" creationid="lenovo" creationdate="20200811T030038Z">
         <seg>• &lt;t0/&gt;用户更倾向于在Google和其他搜索引擎上查找信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;Video as a delivery medium for technical information (Carey et al., &lt;t1/&gt;2014, &lt;t2/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T030050Z" creationid="lenovo" creationdate="20200811T030050Z">
+        <seg>• &lt;t0/&gt;视频作为技术信息的传递媒介(Carey et al., &lt;t1/&gt;2014, &lt;t2/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
