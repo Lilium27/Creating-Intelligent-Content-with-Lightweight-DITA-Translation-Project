@@ -4590,6 +4590,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In their analysis of the characteris&lt;t2/&gt;tic of “Style,” under the category of “Easy to understand,” the co-authors of &lt;t3/&gt;DQTI&lt;t4/&gt; asked readers to “use consistent markup tagging.” A few of their specific recommendations for tagging elements focused on the generic, organiza&lt;t5/&gt;tional, and disciplinary implementation of the characteristics into elements: DITA XML.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T072037Z" creationid="lenovo" creationdate="20200811T072037Z">
+        <seg>在分析“易于理解”这一分类下的“风格”特征时，&lt;t3/&gt;DQTI&lt;t4/&gt;的合著者要求读者“使用一致的标记标记。”他们对标记元素的一些具体建议集中于从通用的、组织的和规范三个层面将特征应用至元素上，即DITA XML中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In their textbook &lt;t0/&gt;DITA Best Practices&lt;t1/&gt;, Bellamy et al.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T145845Z" creationid="DSS" creationdate="20200725T145845Z">
