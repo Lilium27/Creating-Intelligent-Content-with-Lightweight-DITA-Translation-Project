@@ -1009,6 +1009,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t4/&gt;Then, it warned readers about the pitfalls of implementing a custom XML solution or adopting a standard: “In other words, when you create a new markup language (using XML to define its markup and rules), you shut your&lt;t5/&gt;self off from interchange with the rest of the world; when you adopt a standard markup language, you lose the benefits promised by content-specific markup” &lt;t6/&gt;(2001, &lt;t7/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T080026Z" creationid="lenovo" creationdate="20200811T080026Z">
+        <seg>&lt;t4/&gt;然后，它警告读者采用自定义XML解决方案或标准的缺陷:“换句话说，当您创建一种新的标记语言(使用XML定义其标记和规则)时，你也就隔绝了与周遭世界的交流；当采用标准标记语言时，就失去了特定内容标记所带来的好处。 &lt;t6/&gt;(2001, &lt;t7/&gt;p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t5/&gt;40).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T145624Z" creationid="DSS" creationdate="20200810T145624Z">
@@ -7224,6 +7232,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T084124Z" creationid="DSS" creationdate="20200808T071208Z">
         <seg>文章表示，计算思维不是一个新术语，西摩·佩特（Seymour Papert）是一名教育家和数学家，他在1980年就使用计算思维来“构想儿童可以如何使用计算机进行学习” (Pappano, &lt;t5/&gt;2017)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The article started by acknowledging that XML “has gained popularity in the technical writing profession by offering us a logical and fairly straightfor&lt;t0/&gt;ward framework for developing structured information” (Priestley et al., &lt;t1/&gt;2001, &lt;t2/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T075810Z" creationid="lenovo" creationdate="20200811T075810Z">
+        <seg>这篇文章首先承认，XML“为开发结构化信息提供了一种逻辑和相当直接的框架，从而在技术写作行业中流行起来”。 (Priestley et al., &lt;t1/&gt;2001, &lt;t2/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
