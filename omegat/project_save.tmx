@@ -5751,6 +5751,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modular &lt;t0/&gt;content is “intentionally designed for reuse.” Instead of page- centric books, authors of intelligent content create modules or components of content (topics) “one at a time.”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T141616Z" creationid="DSS" creationdate="20200811T141616Z">
+        <seg>模块化&lt;t0/&gt;内容是“特地为复用而设计的”。与以页面为中心的书籍不同，智能内容创作者“一次”创建“一个”内容（话题）模块或组件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Most authors probably will enter an intelligent content workflow unaware of the larger discussions on computational thinking and abstractions behind automating publication and filtering routines.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T081247Z" creationid="DSS" creationdate="20200808T081247Z">
@@ -6611,6 +6619,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reusable &lt;t0/&gt;content uses “existing modular content components to develop new content products.” In a word processing environment, an author can use copy and paste functions, but those eventually reach manual limita&lt;t1/&gt;tions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T141536Z" creationid="DSS" creationdate="20200811T141536Z">
+        <seg>可复用&lt;t0/&gt;内容使用“现有的模块化内容组件来开发新的内容产品”。在文字处理器中，作者可以使用复制和粘贴功能，但最终会受到人工操作的限制。智能内容中的复用是自动化的，可以在交付内容和模块之间保持一致性，同时还简化了转换过程（并减低了与之相关的成本）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Revise it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T125909Z" creationid="lenovo" creationdate="20200810T125909Z">
@@ -6943,6 +6959,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015235Z" creationid="lenovo" creationdate="20200811T015235Z">
         <seg>强而精确的动词</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Structured &lt;t0/&gt;content is “designed to be both human and machine readable.” Enablers of that kind of dual readability are the behind-the-scenes labels and notes (i.e., tags and attributes) that made the formula of content &lt;t1/&gt;+ &lt;t2/&gt;code result in a data source.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T141558Z" creationid="DSS" creationdate="20200811T141558Z">
+        <seg>结构化内容&lt;t0/&gt;“甫一设计就决定既要适合人读，也要适合机读”。实现这种双重可读性的是隐藏在背后的标记和注释（例如标签和属性），使内容和代码结合起来产生一个数据源。</seg>
       </tuv>
     </tu>
     <tu>
