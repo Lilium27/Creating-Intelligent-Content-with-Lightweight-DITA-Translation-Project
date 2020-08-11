@@ -3622,6 +3622,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, in &lt;t12/&gt;DQTI&lt;t13/&gt; the quality requirements became “quality characteristics,” presented as a “system for editing and evaluating technical information” (Hargis, &lt;t14/&gt;1998, &lt;t15/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T014155Z" creationid="lenovo" creationdate="20200811T014155Z">
+        <seg>然而，在&lt;t12/&gt;DQTI&lt;t13/&gt;中，质量要求转换成“质量特征”，并以“技术信息编辑和评价系统”的形式出现。 (Hargis, &lt;t14/&gt;1998, &lt;t15/&gt;p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, many of its claims were based on an &lt;t9/&gt;us-before-them&lt;t10/&gt; trope, which included sentences like “Before you start your DITA project, train your writers in Information Mapping&lt;t11/&gt;®&lt;t12/&gt;,” or “Becoming familiar with Information Mapping&lt;t13/&gt;® &lt;t14/&gt;is a necessary first step towards a successful DITA implementation” (2011, p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T091934Z" creationid="DSS" creationdate="20200731T091934Z">
@@ -4080,8 +4088,8 @@
       <tuv lang="en">
         <seg>In &lt;t0/&gt;1998, &lt;t1/&gt;PQTI&lt;t2/&gt; evolved into &lt;t3/&gt;DQTI&lt;t4/&gt; &lt;t5/&gt;- &lt;t6/&gt;the first edition of &lt;t7/&gt;Developing Quality Technical Information: A Handbook for Writers and Editors&lt;t8/&gt;, authored by Gretchen Hargis and published by IBM/Prentice Hall.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T170641Z" creationid="lenovo" creationdate="20200810T170641Z">
-        <seg>&lt;t0/&gt;1998, &lt;t1/&gt;PQTI&lt;t2/&gt; 演化成 &lt;t3/&gt;DQTI&lt;t4/&gt; &lt;t5/&gt;- &lt;t6/&gt;即第一版 &lt;t7/&gt;《开发高质量技术信息：作者和编辑的参照手册》&lt;t8/&gt;,作者是格雷琴·哈吉斯 （Gretchen Hargis）由IBM/普伦蒂斯·霍尔联合出版。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T013852Z" creationid="lenovo" creationdate="20200810T170641Z">
+        <seg>&lt;t0/&gt;1998, &lt;t1/&gt;PQTI&lt;t2/&gt; 演化成 &lt;t3/&gt;DQTI&lt;t4/&gt; &lt;t5/&gt;- &lt;t6/&gt;即第一版 &lt;t7/&gt;《开发高质量技术信息：作者和编辑的参照手册》&lt;t8/&gt;,作者是格雷琴·哈吉斯 （Gretchen Hargis），由IBM/普伦蒂斯·霍尔联合出版。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4834,6 +4842,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T075931Z" creationid="DSS" creationdate="20200806T075931Z">
         <seg>它可以将话题分组。正如 LwDITA 的话题特性是 DITA 话题特性的子集一样，LwDITA 地图的特性也是 DITA 地图特性的子集。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Just as the original publication, &lt;t9/&gt;DQTI&lt;t10/&gt; focused more on recommendations than in specific topi&lt;t11/&gt;cal conventions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T014107Z" creationid="lenovo" creationdate="20200811T014107Z">
+        <seg>同第一版无异， &lt;t9/&gt;DQTI&lt;t10/&gt; 更关注建议而非具体的主题惯例。</seg>
       </tuv>
     </tu>
     <tu>
