@@ -697,6 +697,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t2/&gt;This highly structured task topic reads like a smoothie that came out of a blender combining generic, organizational, and disciplinary conven&lt;t3/&gt;tions and commonplaces from Carroll, Price, and Hargis and her co-authors, and others who attempted to capture the essence of technical documentation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T130951Z" creationid="lenovo" creationdate="20200811T130951Z">
+        <seg>&lt;t2/&gt;这个高度结构化的任务主题更像是一个融合产物，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t2/&gt;This is a long process of evolution that started in &lt;t3/&gt;2012.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T130641Z" creationid="DSS" creationdate="20200730T130641Z">
