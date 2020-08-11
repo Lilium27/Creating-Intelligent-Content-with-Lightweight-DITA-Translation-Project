@@ -2964,6 +2964,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DITA element</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T165110Z" creationid="lenovo" creationdate="20200811T165110Z">
+        <seg>DITA元素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DITA just encoded some existing writing standards within IBM, for topic orientation and information typing.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T004742Z" creationid="lenovo" creationdate="20200804T004742Z">
@@ -3181,6 +3189,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ELI Review curriculum to content elements from the DITA standard</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T165051Z" creationid="lenovo" creationdate="20200811T165051Z">
+        <seg>DITA标准的内容元素间建立映射</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Each group had the charge of developing profiles and establishing the essential DITA content and element types required for each industry or sector represented.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T113011Z" creationid="DSS" creationdate="20200803T113011Z">
@@ -3306,6 +3322,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200721T160159Z" creationid="DSS" creationdate="20200720T134143Z">
         <seg>具有创作完整性文章的能力更加重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Essential move of technical communication</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T165101Z" creationid="lenovo" creationdate="20200811T165101Z">
+        <seg>技术传播基本文步</seg>
       </tuv>
     </tu>
     <tu>
@@ -7227,6 +7251,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Staging&lt;t0/&gt;: explaining the goal to be achieved</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T165230Z" creationid="lenovo" creationdate="20200811T165230Z">
+        <seg>&lt; t0 / &gt;筹划：解释要实现的目标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Statement of purpose: To develop a specification for a lightweight DITA architecture that can ease implementation by vendors and adoption by users.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T160120Z" creationid="DSS" creationdate="20200802T160120Z">
@@ -7341,8 +7373,8 @@
       <tuv lang="en">
         <seg>TABLE &lt;t0/&gt;2.2 &lt;t1/&gt;Attempt to map the essential moves of technical communication from the</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T164943Z" creationid="lenovo" creationdate="20200811T164943Z">
-        <seg>TABLE &lt;t0/&gt;2.2 &lt;t1/&gt;试图在技术传播的基本文步和</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T165031Z" creationid="lenovo" creationdate="20200811T164943Z">
+        <seg>TABLE &lt;t0/&gt;2.2 &lt;t1/&gt;试图在ELI Review课程的技术传播基本文步和</seg>
       </tuv>
     </tu>
     <tu>
