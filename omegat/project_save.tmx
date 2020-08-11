@@ -4254,6 +4254,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If computational thinking should be taught for medical students in the context of provision of patient care, and for architects it should be presented in the context of design principles, for content profession&lt;t1/&gt;als it should be in the processes, tools, and indicators required in an intelligent content workflow.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T122040Z" creationid="DSS" creationdate="20200811T122040Z">
+        <seg>如果应该在护理病人的情景下教医学生计算机思维，在设计原则的背景下教建筑师，那对于内容专员而言，应该在流程、工具和智能内容工作流所需的标记里教。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If no transformation scenario has been selected, the dialog box will direct you to the “Configure Transformation Scenario(s)” win&lt;t0/&gt;dow.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T041048Z" creationid="DSS" creationdate="20200807T035059Z">
@@ -5410,6 +5418,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T093934Z" creationid="DSS" creationdate="20200730T093934Z">
         <seg>创建 LwDITA 的目的并非取代 DITA XML。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LwDITA provides a low-barrier entry point for students in writing programs or humanities departments.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T122107Z" creationid="DSS" creationdate="20200811T122107Z">
+        <seg>LwDITA 为学习写作或人文学科的学生提供了一个低门槛的入口。</seg>
       </tuv>
     </tu>
     <tu>
