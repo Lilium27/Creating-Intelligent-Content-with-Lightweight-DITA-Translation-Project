@@ -4174,6 +4174,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the earlier versions of &lt;t0/&gt;Developing Quality Technical Information&lt;t1/&gt; were, as Michael Priestley said, “all about DITA without mentioning DITA by its name,” that changed in the 3rd edition.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T031404Z" creationid="lenovo" creationdate="20200811T031404Z">
+        <seg>如果像迈克尔·普里斯特利说的那样，&lt;t0/&gt;《开发高质量技术信息》&lt;t1/&gt;的早期版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the tool developers respect the standard, they allow for interoperability among tools.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T093810Z" creationid="DSS" creationdate="20200726T093810Z">
@@ -7593,6 +7601,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T030116Z" creationid="lenovo" creationdate="20200811T030116Z">
         <seg>&lt;t0/&gt;DQTI&lt;t1/&gt;所有可用版本的质量特征遵循相同的结构。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The quality technical information model of nine characteristics is flexible enough to support you as you develop ever smaller chunks of information to address the changing needs of users.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T031220Z" creationid="lenovo" creationdate="20200811T031220Z">
+        <seg>包含九个特征的质量技术信息模型足够灵活，可以在开发更小信息块时给予支持，以便以满足用户不断变化的需求。</seg>
       </tuv>
     </tu>
     <tu>
