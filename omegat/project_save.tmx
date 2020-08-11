@@ -4847,6 +4847,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In a conversation we had a few years ago when he</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T164731Z" creationid="lenovo" creationdate="20200811T164731Z">
+        <seg>在我们几年前的一次谈话中，他</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In a conversation we had after one of our presentations at a DITA North America conference organized by the Center for Information-Development Management, Priestley pointed out that IBM's &lt;t5/&gt;DQTI&lt;t6/&gt; was “all about DITA with&lt;t7/&gt;out mentioning DITA by its name.”</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T031608Z" creationid="lenovo" creationdate="20200810T143947Z">
@@ -7327,6 +7335,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015157Z" creationid="lenovo" creationdate="20200811T015157Z">
         <seg>表格 &lt;t0/&gt;2.1 &lt;t1/&gt; 摘自&lt;t2/&gt;《产出技术信息》&lt;t3/&gt;对“明确性”的要求，将“弱动词”与“强而精确的动词”相比较，将“迂回表达”与“简明术语”相比较(Dean et al., &lt;t4/&gt;1983, &lt;t5/&gt;p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TABLE &lt;t0/&gt;2.2 &lt;t1/&gt;Attempt to map the essential moves of technical communication from the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T164943Z" creationid="lenovo" creationdate="20200811T164943Z">
+        <seg>TABLE &lt;t0/&gt;2.2 &lt;t1/&gt;试图在技术传播的基本文步和</seg>
       </tuv>
     </tu>
     <tu>
