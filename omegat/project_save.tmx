@@ -873,6 +873,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t3/&gt;The technical specifi&lt;t4/&gt;cation for the DITA standard defines topic as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T143258Z" creationid="lenovo" creationdate="20200811T143258Z">
+        <seg>&lt;t3/&gt;DITA标准的技术规范对主题的定义如下:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t3/&gt;The web deliverable that Chef Pedro needs for this project should include the following sections:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T035804Z" creationid="DSS" creationdate="20200725T151737Z">
@@ -1357,6 +1365,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T074521Z" creationid="DSS" creationdate="20200731T074521Z">
         <seg>&lt;xref&gt; &lt;t0/&gt;包含文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A Topic by Any Other Name &lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T143213Z" creationid="lenovo" creationdate="20200811T143213Z">
+        <seg>主题的其他名称 &lt;t0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2896,6 +2912,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095117Z" creationid="DSS" creationdate="20200730T095117Z">
         <seg>自 DITA 发展以来，与 DITA 相关的术语中存在着丰富的关于进化的隐喻和类比。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DITA topics consist of content units that can be as generic as sets of para&lt;t0/&gt;graphs and unordered lists or as specific as sets of instructional steps in a procedure or cautions to be considered before a procedure is performed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T143713Z" creationid="lenovo" creationdate="20200811T143713Z">
+        <seg>DITA主题由内容单元组成，这些内容单元可以是通用的段落和无序列表集合，也可以是特殊的流程指导步骤或执行前需要考虑的注意事项集合。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4891,6 +4915,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T141907Z" creationid="lenovo" creationdate="20200811T125900Z">
         <seg>特殊情况下的任务主题，一些文步会为这个任务提供合理解释（“为什么或者何时用户想要执行这个任务”），任务的先决条件(“在执行这个任务之前用户应该做什么”)，动作响应(“用户完成动作后应该看到的结果”)，示例（输入的信息示例或指导示例）和任务后决条件(这个任务完成后“下一步该做什么”)(Priestley et al.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the world of DITA XML, “a topic is the basic unit of authoring and reuse” &lt;t0/&gt;(2.2.1.1 &lt;t1/&gt;The topic as the basic unit of information, &lt;t2/&gt;2016).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T143235Z" creationid="lenovo" creationdate="20200811T143235Z">
+        <seg>在DITA XML世界中，“主题是创作和复用的基本单元” &lt;t0/&gt;(2.2.1.1 &lt;t1/&gt;The topic as the basic unit of information, &lt;t2/&gt;2016).</seg>
       </tuv>
     </tu>
     <tu>
