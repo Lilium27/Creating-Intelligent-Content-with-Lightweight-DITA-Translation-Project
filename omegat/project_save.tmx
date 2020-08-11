@@ -809,6 +809,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t3/&gt;She presented headings, lists, and tables as examples of those elements, indicating that whereas in works of</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015031Z" creationid="lenovo" creationdate="20200811T015031Z">
+        <seg>&lt;t3/&gt;她将标题、列表和表格作为元素的示例，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t3/&gt;Studies about rhetorical conventions in technical and professional communication genres have not disappeared, as Kim Sydow Campbell and Jefrey S. Naidoo showed on their study of structural moves in marketing white papers (Campbell &lt;t4/&gt;&amp; &lt;t5/&gt;Naidoo, &lt;t6/&gt;2017).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T121911Z" creationid="lenovo" creationdate="20200808T021456Z">
@@ -1741,6 +1749,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154230Z" creationid="DSS" creationdate="20200724T154230Z">
         <seg>一个有效的话题只涵盖一个主题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An element can be as small as a word and as large as a tutorial” &lt;t0/&gt;(1998, &lt;t1/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T014524Z" creationid="lenovo" creationdate="20200811T014524Z">
+        <seg>元素可以小到一个单词，大到一个教程 &lt;t0/&gt;(1998, &lt;t1/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5786,16 +5802,16 @@
       <tuv lang="en">
         <seg>Price's emphasis on task-orientation established some topical moves that still apply to tutorial/procedural content, with the overall recommendation of focusing on organization.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T124620Z" creationid="lenovo" creationdate="20200810T122541Z">
-        <seg>普莱斯强调任务导向，创建了一些主题文步，这些文步现仍可以用于指导型/流程型内容，并提出了关注组织架构的整体性建议。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T014600Z" creationid="lenovo" creationdate="20200810T122541Z">
+        <seg>普莱斯强调任务导向，创建了一些主题文步，这些文步现仍可以用于教程型/流程型内容，并提出了关注组织架构的整体性建议。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Price's separation of a manual's text into content types estab&lt;t0/&gt;lishes a distinction between tutorial (“offers step-by-step training focused on a particular activity”) and reference (“offers procedures that users can apply in many different circumstances”) writing conventions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T080802Z" creationid="lenovo" creationdate="20200810T080802Z">
-        <seg>普莱斯将手册的文本划分成不同的内容类型，在指导型（“针对特定活动提供逐步培训”）和参考型（“提供用户多个不同场景下采用的流程”）写作惯例间做了区分</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T014548Z" creationid="lenovo" creationdate="20200810T080802Z">
+        <seg>普莱斯将手册的文本划分成不同的内容类型，在教程型（“针对特定活动提供逐步培训”）和参考型（“提供用户多个不同场景下采用的流程”）写作惯例间做了区分</seg>
       </tuv>
     </tu>
     <tu>
@@ -6406,6 +6422,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T032556Z" creationid="DSS" creationdate="20200808T032556Z">
         <seg>交付物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TABLE &lt;t0/&gt;2.1 &lt;t1/&gt;Excerpt from the “Clarity” requirement of &lt;t2/&gt;Producing Technical Information&lt;t3/&gt;, which compares “weak verbs” to “strong, precise verbs” and “roundabout expressions” to “concise terms” (Dean et al., &lt;t4/&gt;1983, &lt;t5/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015157Z" creationid="lenovo" creationdate="20200811T015157Z">
+        <seg>表格 &lt;t0/&gt;2.1 &lt;t1/&gt; 摘自&lt;t2/&gt;《产出技术信息》&lt;t3/&gt;对“明确性”的要求，将“弱动词”与“强而精确的动词”相比较，将“迂回表达”与“简明术语”相比较(Dean et al., &lt;t4/&gt;1983, &lt;t5/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
