@@ -1505,6 +1505,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Additionally, Hargis organized the charac&lt;t16/&gt;teristics “by their ability to make information” in the following groups: easy to use, easy to understand, and easy to find (Hargis, &lt;t17/&gt;1998, &lt;t18/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T014349Z" creationid="lenovo" creationdate="20200811T014349Z">
+        <seg>此外，哈吉斯“根据他们制造信息的能力”将特征分为以下几组：易使用、易理解、易查找(Hargis, &lt;t17/&gt;1998, &lt;t18/&gt;p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Additionally, O'Keefe provides a sample XML file that presents a recipe for making marinara sauce.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T155305Z" creationid="DSS" creationdate="20200726T154221Z">
@@ -3498,6 +3506,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154918Z" creationid="DSS" creationdate="20200726T154918Z">
         <seg>哈克斯总结了技术传播从业者使用 DITA 的益处：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hargis specified that the quality characteristics were not presented as generic conventions or, as she called them, “elements”.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T014424Z" creationid="lenovo" creationdate="20200811T014424Z">
+        <seg>哈吉斯指出，质量特征不是作为通用的惯例或她所说的“要素”来呈现的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6126,6 +6142,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T130217Z" creationid="lenovo" creationdate="20200810T124935Z">
         <seg>分离含义与步骤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>She defined elements as “the units that physically make up technical information.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T014441Z" creationid="lenovo" creationdate="20200811T014441Z">
+        <seg>她将元素定义为“构成技术信息的物理单位”。</seg>
       </tuv>
     </tu>
     <tu>
