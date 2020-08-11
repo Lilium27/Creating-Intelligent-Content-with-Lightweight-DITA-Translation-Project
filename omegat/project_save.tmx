@@ -4408,8 +4408,8 @@
       <tuv lang="en">
         <seg>In a conversation we had after one of our presentations at a DITA North America conference organized by the Center for Information-Development Management, Priestley pointed out that IBM's &lt;t5/&gt;DQTI&lt;t6/&gt; was “all about DITA with&lt;t7/&gt;out mentioning DITA by its name.”</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T143947Z" creationid="lenovo" creationdate="20200810T143947Z">
-        <seg>在一次由信息开发管理中心组织的DITA北美会议展示结束后，我们与普里斯特利进行了交谈，他指出IBM的 &lt;t5/&gt;DQTI&lt;t6/&gt;虽然没有明说时DITA，但其实完全就是DITA。 </seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T031608Z" creationid="lenovo" creationdate="20200810T143947Z">
+        <seg>在一次由信息开发管理中心组织的DITA北美会议展示结束后，我们与普里斯特利进行了交谈，他指出IBM的 &lt;t5/&gt;DQTI&lt;t6/&gt;虽然没有提DITA，但实质就是DITA。 </seg>
       </tuv>
     </tu>
     <tu>
