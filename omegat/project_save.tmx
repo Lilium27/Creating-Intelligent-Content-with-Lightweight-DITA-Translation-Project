@@ -1489,6 +1489,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A starting point to assess that knowledge can come from the International Society for Technology in Education (ISTE) Standards for Students, which include a rubric to standardize the assessment of com&lt;t1/&gt;putational thinking across the curriculum.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T124548Z" creationid="DSS" creationdate="20200811T124548Z">
+        <seg>国际教育技术学会 (ISTE) 学生标准能够评估所有学科的计算机思维，可以作为评估学生计算机知识的入门标准。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A table of contents, which lists all the main sections at the beginning of the book.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T075649Z" creationid="lenovo" creationdate="20200810T075610Z">
@@ -2949,6 +2957,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Digital citizen</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T124643Z" creationid="DSS" creationdate="20200811T124643Z">
+        <seg>数字公民</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do not assume that a person reading these sections knows anything about the system” (1976, p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T024223Z" creationid="lenovo" creationdate="20200809T024223Z">
@@ -3082,6 +3098,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T115839Z" creationid="DSS" creationdate="20200803T115839Z">
         <seg>艾洛维塔是 DITA Open Toolkit 的主要开发人员，他慷慨地贡献了大量的时间将我和普里斯特利在样例和会议演示中所要求的改进以及我们的建议都开发出来，集成在现有工具中并且开源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Empowered learner</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T124639Z" creationid="DSS" creationdate="20200811T124639Z">
+        <seg>有能力的学习者</seg>
       </tuv>
     </tu>
     <tu>
@@ -3602,6 +3626,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153808Z" creationid="DSS" creationdate="20200726T153808Z">
         <seg>对于像佩德罗这样的人（甚至对于我的许多正在学习使用技术写作的学生）来说，利用 XML 的标记来创建结构化内容非常容易。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For students and practitioners of content development or technical com&lt;t0/&gt;munication, demonstrating knowledge of computing in the context of their profession is, therefore, a goal when talking about computational thinking or computational literacy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T124540Z" creationid="DSS" creationdate="20200811T124540Z">
+        <seg>因此，对于学习内容开发或技术传播的学生和从业者来说，谈及计算机思维或计算机素养时，他们的目标是在自己的专业背景下展示计算机知识。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7224,6 +7256,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T091954Z" creationid="DSS" creationdate="20200731T091954Z">
         <seg>IM 白皮书暗示，作者必须“学习数百个 DITA 标签和属性，以便正确地将内容结构化，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The ISTE Standards for Students, which have the overall goal to “promote future-ready learning,” focus on the following dimensions:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T124631Z" creationid="DSS" creationdate="20200811T124631Z">
+        <seg>ISTE 学生标准的总体目标是“促进学习，迎接未来”，该标准侧重于以下几个方面： </seg>
       </tuv>
     </tu>
     <tu>
