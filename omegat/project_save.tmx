@@ -6394,6 +6394,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Strong, Precise Verbs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015235Z" creationid="lenovo" creationdate="20200811T015235Z">
+        <seg>强而精确的动词</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Subscript&lt;t0/&gt;, which is a letter, number, or figure that is printed lower than the line.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T134220Z" creationid="DSS" creationdate="20200804T134144Z">
@@ -8480,6 +8488,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Weak Verbs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015226Z" creationid="lenovo" creationdate="20200811T015226Z">
+        <seg>弱动词</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>What are we seeing?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T152747Z" creationid="DSS" creationdate="20200726T152747Z">
@@ -9510,6 +9526,46 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150158Z" creationid="DSS" creationdate="20200725T151756Z">
         <seg>&lt;t0/&gt;• 意式番茄罗勒酱菜谱（以 DITA 任务（task）话题的结构编写）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;can</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015256Z" creationid="lenovo" creationdate="20200811T015256Z">
+        <seg>• &lt;t0/&gt;能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;has a requirement</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015402Z" creationid="lenovo" creationdate="20200811T015402Z">
+        <seg>• &lt;t0/&gt;有……需求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;has the capability</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015246Z" creationid="lenovo" creationdate="20200811T015246Z">
+        <seg>• &lt;t0/&gt;能够</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;is capable</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015304Z" creationid="lenovo" creationdate="20200811T015304Z">
+        <seg>• &lt;t0/&gt;可以</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;requires</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015309Z" creationid="lenovo" creationdate="20200811T015309Z">
+        <seg>• &lt;t0/&gt;需要</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
