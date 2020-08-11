@@ -2804,6 +2804,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Content units in DITA are expressed using XML elements and can be conditionally processed using metadata attributes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T144025Z" creationid="lenovo" creationdate="20200811T144025Z">
+        <seg>DITA中的内容单元使用XML元素表示，并且可以使用元数据属性有条件地进行处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Controls&lt;t0/&gt;: enables user interfaces for video playback and volume in web- aimed transformations.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T155112Z" creationid="DSS" creationdate="20200804T155009Z">
