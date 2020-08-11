@@ -1433,6 +1433,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A second edition of &lt;t0/&gt;DQTI&lt;t1/&gt; came out in &lt;t2/&gt;2004, &lt;t3/&gt;and it added a group of co&lt;t4/&gt;authors after Hargis's name.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T023639Z" creationid="lenovo" creationdate="20200811T023639Z">
+        <seg>&lt;t0/&gt;DQTI&lt;t1/&gt;在2004年出版了第二版，哈吉斯名字后新增了一大批合著者。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A table of contents, which lists all the main sections at the beginning of the book.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T075649Z" creationid="lenovo" creationdate="20200810T075610Z">
@@ -8700,6 +8708,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T071607Z" creationid="DSS" creationdate="20200731T071607Z">
         <seg>这是双赢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With a minimum of information, the user can inde&lt;t1/&gt;pendently explore a product after learning some basic concepts and tasks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T023523Z" creationid="lenovo" creationdate="20200811T023523Z">
+        <seg>实现信息极简化的情形下，用户在学习了一些基本概念和任务后，可以独立探索产品。</seg>
       </tuv>
     </tu>
     <tu>
