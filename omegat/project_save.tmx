@@ -2649,6 +2649,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Computational thinker</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T124736Z" creationid="DSS" creationdate="20200811T124736Z">
+        <seg>拥有计算机思维的思考者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Computing professionals and educators have the responsibility to make computation available to thinkers of all disciplines.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T143747Z" creationid="DSS" creationdate="20200810T143747Z">
@@ -2752,6 +2760,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T024259Z" creationid="lenovo" creationdate="20200809T024259Z">
         <seg>创建数据库&lt;t0/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creative communicator</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T125156Z" creationid="DSS" creationdate="20200811T124804Z">
+        <seg>具有创造力的技术传播人员</seg>
       </tuv>
     </tu>
     <tu>
@@ -3722,6 +3738,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T072237Z" creationid="lenovo" creationdate="20200810T023041Z">
         <seg>杰拉德·柯亨（Gerald Cohen ）和唐纳德·坎宁安 （Donald Cunningham）在他们1984年出版的《创建技术手册：一步一步编写用户友好的操作说明》一书中就已经谈论过：“手册写作的危机。”根据这两位作者的说法，20世纪80年代手册读者比70年代以前的“更加成熟和自由”，不会“容忍构思拙劣的手册”。他们很多建议都要求手册作者应当“成为读者的代言人。”手册写作最大的失误之一在于写作“没能很好地代表读者需求” (Cohen &lt;t7/&gt;&amp; &lt;t8/&gt;Cunningham, &lt;t9/&gt;1984, &lt;t10/&gt;p.13).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Global collaborator</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T124818Z" creationid="DSS" creationdate="20200811T124818Z">
+        <seg>全球合作伙伴</seg>
       </tuv>
     </tu>
     <tu>
@@ -4894,6 +4918,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Innovative designer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T124717Z" creationid="DSS" creationdate="20200811T124717Z">
+        <seg>革新的设计师</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Instead of designing custom tags and depending on a publishing team to design templates and validation tools, he can use DITA's content types and take advan&lt;t0/&gt;tage of the benefits listed by Hackos.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T123656Z" creationid="DSS" creationdate="20200724T123656Z">
@@ -5282,6 +5314,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T153719Z" creationid="DSS" creationdate="20200804T153632Z">
         <seg>关键定义（key definition）&lt;t0/&gt;：在地图里定义一个变量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Knowledge constructor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T124649Z" creationid="DSS" creationdate="20200811T124649Z">
+        <seg>知识缔造者</seg>
       </tuv>
     </tu>
     <tu>
