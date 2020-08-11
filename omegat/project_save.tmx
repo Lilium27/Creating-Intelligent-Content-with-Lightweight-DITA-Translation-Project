@@ -4262,6 +4262,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I would argue that students working on an intelligent content workflow with LwDITA could fulfill many of those standards, but for the purpose of &lt;t0/&gt;Creating Intelligent Content with Lightweight DITA&lt;t1/&gt; I will focus on the “Computational thinker” standard.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T125716Z" creationid="DSS" creationdate="20200811T125716Z">
+        <seg>我认为能够使用 LwDITA 处理智能内容工作流的学生符合其中许多标准，但是基于本书写作目的，我将重点讨论“拥有计算机思维的思考者”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I've been discussing this idea with several vendors and it seems to have traction.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T131350Z" creationid="DSS" creationdate="20200730T131350Z">
@@ -4282,6 +4290,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T083935Z" creationid="DSS" creationdate="20200731T083935Z">
         <seg>IM 由罗伯特·霍恩（Robert Horn）开发，是一种构建内容的方法。自20世纪60年代末以来，IM已被用于教育技术、技术写作和许多其他领域。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ISTE specifies that the “Computational thinker” dimension could be assessed if “students develop and employ strategies for understanding and solving problems in ways that leverage the power of technological methods to develop and test solutions” (ISTE, &lt;t2/&gt;2018).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T125726Z" creationid="DSS" creationdate="20200811T125726Z">
+        <seg>ISTE 规定，如果“学生能用技术的力量开发和测试解决方案，制定和实施策略以理解和解决问题“，就是 “拥有计算机思维的思考者” (ISTE, &lt;t2/&gt;2018)。</seg>
       </tuv>
     </tu>
     <tu>
