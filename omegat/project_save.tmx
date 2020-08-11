@@ -9530,10 +9530,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>• &lt;t0/&gt;agrees</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015525Z" creationid="lenovo" creationdate="20200811T015437Z">
+        <seg>• &lt;t0/&gt;约定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>• &lt;t0/&gt;can</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015256Z" creationid="lenovo" creationdate="20200811T015256Z">
         <seg>• &lt;t0/&gt;能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;draws a conclusion</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015626Z" creationid="lenovo" creationdate="20200811T015626Z">
+        <seg>• &lt;t0/&gt;得出……结论draws a conclusion</seg>
       </tuv>
     </tu>
     <tu>
@@ -9548,8 +9564,24 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;has the capability</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015246Z" creationid="lenovo" creationdate="20200811T015246Z">
-        <seg>• &lt;t0/&gt;能够</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015428Z" creationid="lenovo" creationdate="20200811T015246Z">
+        <seg>• &lt;t0/&gt;有……能力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;helps</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015631Z" creationid="lenovo" creationdate="20200811T015555Z">
+        <seg>• &lt;t0/&gt;帮助</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;infers</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015618Z" creationid="lenovo" creationdate="20200811T015618Z">
+        <seg>• &lt;t0/&gt;推断</seg>
       </tuv>
     </tu>
     <tu>
@@ -9558,6 +9590,38 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015304Z" creationid="lenovo" creationdate="20200811T015304Z">
         <seg>• &lt;t0/&gt;可以</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;is in agreement</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015503Z" creationid="lenovo" creationdate="20200811T015503Z">
+        <seg>• &lt;t0/&gt;与……一致</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;performs the printing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015548Z" creationid="lenovo" creationdate="20200811T015548Z">
+        <seg>• &lt;t0/&gt;完成打印</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;prints</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015531Z" creationid="lenovo" creationdate="20200811T015531Z">
+        <seg>• &lt;t0/&gt;打印</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;provides assistance</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015641Z" creationid="lenovo" creationdate="20200811T015641Z">
+        <seg>• &lt;t0/&gt;提供协助</seg>
       </tuv>
     </tu>
     <tu>
