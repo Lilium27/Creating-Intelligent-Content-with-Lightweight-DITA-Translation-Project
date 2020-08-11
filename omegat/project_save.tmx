@@ -841,6 +841,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t3/&gt;Rhetorically effective &lt;t4/&gt;content can connect topical and authorial intentions with user responses regardless of a deliverable's format or context.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T151643Z" creationid="DSS" creationdate="20200811T151643Z">
+        <seg>而有着良好修辞作用的内容可以将话题和作者的意图与用户的反馈联系起来，无需考虑内容的格式或上下文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t3/&gt;She presented headings, lists, and tables as examples of those elements, indicating that whereas in works of</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015031Z" creationid="lenovo" creationdate="20200811T015031Z">
@@ -1237,6 +1245,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T162101Z" creationid="DSS" creationdate="20200723T160321Z">
         <seg>&lt;t8/&gt;1)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t8/&gt;3-5).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T151553Z" creationid="DSS" creationdate="20200811T151553Z">
+        <seg>&lt;t8/&gt;3-5)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2627,8 +2643,8 @@
       <tuv lang="en">
         <seg>Chapter 4 identifies additional user types for the three ini- tial authoring formats of LwDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T092108Z" creationid="DSS" creationdate="20200730T092108Z">
-        <seg>第4章介绍了 LwDITA 的三种初始创作格式的其他用户类型。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T145209Z" creationid="DSS" creationdate="20200730T092108Z">
+        <seg>第四章介绍了 LwDITA 的三种初始创作格式的其他用户类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4351,6 +4367,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I propose a sixth characteristic of &lt;t0/&gt;rhetorical effectiveness&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T151559Z" creationid="DSS" creationdate="20200811T151559Z">
+        <seg>在此，我提出智能内容的修辞效果的第六个特性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I rarely get a second call and the con&lt;t6/&gt;versation stays in the “someday/maybe” list.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T090534Z" creationid="DSS" creationdate="20200726T090534Z">
@@ -4713,8 +4737,8 @@
       <tuv lang="en">
         <seg>In Chapter 1,  I mentioned that Chef Pedro probably needed a DITA-based content model  that allowed authors to specialize a &lt;task&gt; into a &lt;recipe&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T094522Z" creationid="DSS" creationdate="20200730T094522Z">
-        <seg>在第1章中，我提到厨师佩德罗可能需要一个基于 DITA 的内容模型，该模型允许作者将 &lt;task&gt; 专门化为 &lt;recipe&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T145219Z" creationid="DSS" creationdate="20200730T094522Z">
+        <seg>在第一章中，我提到厨师佩德罗可能需要一个基于 DITA 的内容模型，该模型允许作者将 &lt;task&gt; 专门化为 &lt;recipe&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5155,6 +5179,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T131128Z" creationid="DSS" creationdate="20200801T131128Z">
         <seg>相反，讨论转向了将 LwDITA 从 DITA 标准中分离出来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Intelligence applied to content development and delivery does not guarantee intelligence in recon&lt;t2/&gt;ciling the needs and perspectives of readers and writers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T151611Z" creationid="DSS" creationdate="20200811T151611Z">
+        <seg>应用于内容开发和交付的智能性无法保证能协调好读者和作者双方之间的需求和观点，</seg>
       </tuv>
     </tu>
     <tu>
@@ -5633,8 +5665,8 @@
       <tuv lang="en">
         <seg>Looking, for example, at the 17 document types and 440 element types available  on the technical content edition of the DITA 1.3 standard, I couldn’t stop hear- ing the voice of John Carroll from the interview I reported on Chapter 2: “All  62 How DITA Evolved Into LwDITA this being said, the manuals didn’t work.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T084711Z" creationid="DSS" creationdate="20200730T084711Z">
-        <seg>例如，在 DITA 标准1.3技术内容版本中有17种可用文档类型和440种元素类型，我不禁想到约翰•卡罗尔在第2章中提到的采访中所说的话：“这么看来手册不起作用，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T145200Z" creationid="DSS" creationdate="20200730T084711Z">
+        <seg>例如，在 DITA 标准1.3技术内容版本中有17种可用文档类型和440种元素类型，我不禁想到约翰•卡罗尔在第二章中提到的采访中所说的话：“这么看来手册不起作用，</seg>
       </tuv>
     </tu>
     <tu>
@@ -6877,8 +6909,8 @@
       <tuv lang="en">
         <seg>Semantically rich &lt;t0/&gt;content includes “added extra, machine-readable infor&lt;t1/&gt;mation that describes what the content is, what it's about, and more.” This layer of metadata can specify the type of audience, platform (or cuisine, if we look back at the marinara sauce example from &lt;t2/&gt;Chapter &lt;t3/&gt;1&lt;t4/&gt;) &lt;t5/&gt;for a whole topic of information or for specific paragraph or phrase level elements in that topic (Rockley et al., &lt;t6/&gt;2015, &lt;t7/&gt;pp.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T145152Z" creationid="DSS" creationdate="20200811T143859Z">
-        <seg>语义丰富的内容包括“额外的机器可读信息，用以描述内容详情”。这一层元数据可以指定整个话题信息，或话题信息中的特定段落或短语级元素的受众类型、平台类型（如果我们回顾第一章中的意式番茄罗勒酱例子）</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T145447Z" creationid="DSS" creationdate="20200811T143859Z">
+        <seg>语义丰富的内容包括“额外的机器可读信息，用以描述内容详情”。这一层元数据可以指定整个话题信息，或话题信息中的特定段落或短语级元素的受众类型、平台类型（菜谱类型，如第一章中意式番茄罗勒酱的例子）(Rockley et al., &lt;t6/&gt;2015, &lt;t7/&gt;pp.</seg>
       </tuv>
     </tu>
     <tu>
