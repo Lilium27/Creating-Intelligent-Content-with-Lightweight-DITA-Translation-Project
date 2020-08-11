@@ -6153,6 +6153,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>One of the many approaches I have adopted to introduce the DITA standard in a human- ities-based Professional and Technical Writing curriculum is to present those elements as rhetorical conventions of our specialized discourse community.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T143037Z" creationid="lenovo" creationdate="20200811T143037Z">
+        <seg>我在专业技术写作课程中引入DITA采用的方法之一就是将这些元素作为我们专业话语社区的修辞惯例来呈现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>One of the most notorious characteristics of LwDITA in its initial release  is that it does not include the document types of concept, task, and reference  that many users associate with the Darwin Information Typing Architecture.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T084625Z" creationid="DSS" creationdate="20200730T084625Z">
@@ -8960,8 +8968,8 @@
       <tuv lang="en">
         <seg>Those conventions, or content commonplaces, specific to the genre of task identified by the DITA architects, created quite the strict template that came with many of the benefits I have mentioned in previous chapters.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T142504Z" creationid="lenovo" creationdate="20200811T142354Z">
-        <seg>那些作用于DITA架构师定义的任务体裁的惯例或内容常规，创建了相当严格的模板，带来了我在前几章中提到的许多好处。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T142513Z" creationid="lenovo" creationdate="20200811T142354Z">
+        <seg>那些作用于DITA架构师定义的任务体裁的惯例或内容常规，创建了相当严格的模板，带来了我在前几章中提到的诸多好处。</seg>
       </tuv>
     </tu>
     <tu>
