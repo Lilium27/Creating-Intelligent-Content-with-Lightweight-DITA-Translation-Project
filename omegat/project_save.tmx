@@ -1849,6 +1849,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>And I have not heard from DITA or LwDITA practitioners who used their intelligent content knowledge for tiling the kitchen floor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T114656Z" creationid="DSS" creationdate="20200811T114631Z">
+        <seg>我还没有听过 DITA 或 LwDITA 从业人员用智能内容知识铺厨房地板的故事。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>And authors should not underestimate</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T084210Z" creationid="DSS" creationdate="20200725T084210Z">
@@ -4960,8 +4968,8 @@
       <tuv lang="en">
         <seg>It is possible that students introduced to LwDITA methodologies for creating con&lt;t1/&gt;tent will be on an easier path for acquiring skills in programming and other advanced computing topics, or perhaps the students will only apply computing</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T152821Z" creationid="DSS" creationdate="20200810T152821Z">
-        <seg>学会使用 LwDITA 编写内容的学生可能更容易掌握编程和其他高级计算机技能，也有可能这些学生只会在作为内容创作者时在工作中应用计算机实践。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T114640Z" creationid="DSS" creationdate="20200810T152821Z">
+        <seg>学会使用 LwDITA 编写内容的学生可能更容易掌握编程和其他高级计算机技能，也有可能这些学生只会在</seg>
       </tuv>
     </tu>
     <tu>
@@ -7044,14 +7052,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>The Abstractions Behind Intelligent Content &lt;t0/&gt;155</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T114312Z" creationid="DSS" creationdate="20200811T114312Z">
-        <seg>智能内容背后的抽象概念</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>The April &lt;t0/&gt;4, 2017 &lt;t1/&gt;edition of The New York Times featured a story titled “Learning to Think Like a Computer,” which contributed to introducing the concept of computational thinking to mainstream audiences.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T071151Z" creationid="DSS" creationdate="20200808T071151Z">
@@ -7765,6 +7765,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The recommendations and models pre&lt;t0/&gt;sented in this book come from my experience teaching DITA and LwDITA at the college level and in industry workshops and conferences.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T114711Z" creationid="DSS" creationdate="20200811T114711Z">
+        <seg>本书中提及的建议和模型来自于我在大学以及各种行业会议上教授 DITA 和 LwDITA 的经验，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The recorded minutes of the DITA Technical Committee call held on October &lt;t4/&gt;8, 2013 &lt;t5/&gt;include the following exchange between Priestley (MP) and Nancy Harrison (NH), from Infobridge Solutions, who is currently the Technical Committee's secretary:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T153345Z" creationid="DSS" creationdate="20200801T131304Z">
@@ -8265,6 +8273,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T030125Z" creationid="lenovo" creationdate="20200810T030125Z">
         <seg>他们建议使用一系列计算表作为手册蓝图：“就像建房子不能没有蓝图，手册也不应没有蓝图 &lt;t1/&gt;- &lt;t2/&gt;不只是大纲，而是蓝图。” &lt;t3/&gt;(1984, &lt;t4/&gt;p.12).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They also come from my roles as co-chair of the Lightweight DITA subcommittee with OASIS and co-editor of the technical specification for the LwDITA standard.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T114849Z" creationid="DSS" creationdate="20200811T114849Z">
+        <seg>也来自于我担任 OASIS 轻量级 DITA 小组委员会联合主席和 LwDITA 标准技术规范联合编辑的经验。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9300,6 +9316,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T135909Z" creationid="DSS" creationdate="20200809T135909Z">
         <seg>域并不新鲜：自哈特-戴维森 (Hart-Davidson, 2001) 要求学者和从业者将同源开发项目中的内容块视为修辞对象而不仅仅是信息以来，已经超过十七年了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>practices to work relevant to their identity as content creators.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T114642Z" creationid="DSS" creationdate="20200811T114642Z">
+        <seg>作为内容创作者时在工作中应用计算机实践。 </seg>
       </tuv>
     </tu>
     <tu>
