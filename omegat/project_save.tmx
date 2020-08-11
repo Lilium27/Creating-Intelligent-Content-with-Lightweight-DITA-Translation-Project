@@ -4310,6 +4310,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In &lt;t0/&gt;Chapter&lt;t1/&gt; &lt;t2/&gt;1&lt;t3/&gt;, &lt;t4/&gt;I gave a brief historical overview of the early DITA days at IBM, when the Customer and Service Information (C&amp;SI), with work primarily conducted by Dave Schell, Don Day, and Michael Priestley started exploring XML as a lan&lt;t5/&gt;guage to create tags that would create templates for the genre conventions of commonly used content structures in the company's documentation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T073508Z" creationid="lenovo" creationdate="20200811T073508Z">
+        <seg>在 &lt;t0/&gt;第一&lt;t1/&gt; &lt;t2/&gt;章中&lt;t3/&gt;, &lt;t4/&gt;我简短回顾了DITA在IBM的早期发展史，戴夫·席尔、唐·戴以及迈克尔·普里斯特利做出了杰出贡献，彼时用户与服务信息部门开始探索将XML作为一门语言来创建标签，为通用内容结构的体裁惯例创建模板，并应用至公司的所有文档。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In &lt;t1/&gt;Chapter &lt;t2/&gt;1&lt;t3/&gt;, &lt;t4/&gt;I mentioned an example of Chef Pedro, who could &lt;t5/&gt;specialize&lt;t6/&gt; ele&lt;t7/&gt;ments of the DITA task content type into more meaningful components for his intended purpose (i.e., &lt;t8/&gt;&lt;ingredients&gt; &lt;t9/&gt;as a specialization of the default &lt;t10/&gt;&lt;prereq&gt; &lt;t11/&gt;for pre-requisites).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T160115Z" creationid="lenovo" creationdate="20200804T080138Z">
