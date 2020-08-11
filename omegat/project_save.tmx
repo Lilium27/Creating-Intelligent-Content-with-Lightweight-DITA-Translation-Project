@@ -1465,6 +1465,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A modern content-development lifecycle is an important connector for establish&lt;t0/&gt;ing those relations, and that is the overarching topic of the following sections.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T132426Z" creationid="DSS" creationdate="20200811T132426Z">
+        <seg>现代内容开发的生命周期是建立这些关系的重要连接器，下面几节将重点介绍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A more discerning audience, aware that users' “inability to understand a manual is &lt;t0/&gt;not&lt;t1/&gt; a reflection on them but on those who created and published the manual.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T024030Z" creationid="lenovo" creationdate="20200810T024030Z">
@@ -1549,6 +1557,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T123655Z" creationid="DSS" creationdate="20200810T123655Z">
         <seg>对内容创作者来说，抽象是在构建信息结构和预想软件未来形态之前思考的方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Abstractions in the Intelligent Content Process</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T135746Z" creationid="DSS" creationdate="20200811T135746Z">
+        <seg>创建智能内容过程中的抽象概念</seg>
       </tuv>
     </tu>
     <tu>
@@ -4203,6 +4219,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T080700Z" creationid="DSS" creationdate="20200803T152454Z">
         <seg>我在每个通用协定中都添加了一个改编自《LwDITA 技术规范》的简单定义，虽然有时是这些定义多余的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I have mentioned a few times the definition of intelligent content provided by Rockley et al.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T135806Z" creationid="DSS" creationdate="20200811T135806Z">
+        <seg>之前我已经提过几次在《智能内容入门》一书中罗克利等人对智能内容的定义，</seg>
       </tuv>
     </tu>
     <tu>
@@ -7397,6 +7421,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The ISTE indicators for assessing the dimension of computational thinker can be related to the main characteristics of intelligent content and, eventually, to the layers of abstraction behind content developed in a LwDITA workflow.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T132407Z" creationid="DSS" creationdate="20200811T132407Z">
+        <seg>用于评估计算机思维各维度的ISTE指标与智能内容的主要特征有关，归根结底与智能内容背后的抽象层级有关，而智能内容正是在LwDITA工作流中开发的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Information Mapping web&lt;t4/&gt;site gives the following historical description of the method (and company):</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T084130Z" creationid="DSS" creationdate="20200731T084130Z">
@@ -9601,6 +9633,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>in &lt;t0/&gt;Intelligent Content: A Primer&lt;t1/&gt;, which introduces important keywords that drive the development of those “more than templates” of struc&lt;t2/&gt;tured authoring that allow writers to put into action thought structures built</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T135814Z" creationid="DSS" creationdate="20200811T135814Z">
+        <seg>该定义包含了非常重要的关键词，这些关键词驱动了结构化写作超级模板的开发， 使作者能够将由坚实的抽象概念搭建的结构交付生产，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>in the previous paragraph.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T135246Z" creationid="lenovo" creationdate="20200811T135111Z">
@@ -9637,6 +9677,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T135909Z" creationid="DSS" creationdate="20200809T135909Z">
         <seg>域并不新鲜：自哈特-戴维森 (Hart-Davidson, 2001) 要求学者和从业者将同源开发项目中的内容块视为修辞对象而不仅仅是信息以来，已经超过十七年了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>on solid abstractions that could lead to automated publishing workflows.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T135816Z" creationid="DSS" creationdate="20200811T135816Z">
+        <seg>实现自动化的发布工作流。 </seg>
       </tuv>
     </tu>
     <tu>
