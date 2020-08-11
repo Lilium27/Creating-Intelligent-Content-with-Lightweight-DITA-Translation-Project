@@ -4591,6 +4591,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Imagine being a student in Professional and Technical Writing and reading the books &lt;t1/&gt;Topic-Driven Environmental Rhetoric&lt;t2/&gt; and &lt;t3/&gt;DITA &lt;t4/&gt;- &lt;t5/&gt;the Topic-Based XML Standard&lt;t6/&gt; for different courses on the same semester.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T145922Z" creationid="lenovo" creationdate="20200811T145922Z">
+        <seg>想象一下，作为一名专业技术写作的学生，在同一学期不同的课程中阅读&lt;t1/&gt;《主题驱动的环境修辞》&lt;t2/&gt;和&lt;t3/&gt;《DITA &lt;t4/&gt;- &lt;t5/&gt;基于主题的XML标准》&lt;t6/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Implementation of Elements: DITA is Born</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T072204Z" creationid="lenovo" creationdate="20200811T072204Z">
@@ -4955,6 +4963,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T143235Z" creationid="lenovo" creationdate="20200811T143235Z">
         <seg>在DITA XML世界中，“主题是创作和复用的基本单元” &lt;t0/&gt;(2.2.1.1 &lt;t1/&gt;The topic as the basic unit of information, &lt;t2/&gt;2016).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the world of rhetoric that defines discourse in most academic programs teaching technical communication in the United States, a topic would actu&lt;t0/&gt;ally be one of those content units, and not necessarily the whole “DITA topic.” Confusing?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T145729Z" creationid="lenovo" creationdate="20200811T145729Z">
+        <seg>美国大多数教授技术传播的学术项目中，话语中充斥着修辞，主题实际上可能只是其中一个内容单元，并不一定就是整个“DITA主题”</seg>
       </tuv>
     </tu>
     <tu>
