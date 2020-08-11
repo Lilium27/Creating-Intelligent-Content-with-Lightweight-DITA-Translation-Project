@@ -2737,6 +2737,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Coaching&lt;t0/&gt;: describing steps in a process</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T165427Z" creationid="lenovo" creationdate="20200811T165427Z">
+        <seg>指导&lt;t0/&gt;：描述流程中的步骤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Coaching&lt;t0/&gt;: describing success conditions &lt;t1/&gt;Alerting&lt;t2/&gt;: helping users avoid unwanted outcomes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T165826Z" creationid="lenovo" creationdate="20200811T165826Z">
+        <seg>指导&lt;t0/&gt;：描述成功条件 &lt;t1/&gt;警告&lt;t2/&gt;：帮助用户规避不良结果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cohen (then a technical writer at IBM) and Cunningham (then a profes&lt;t0/&gt;sor of technical and professional writing at Texas Tech University) were quite prescriptive when documenting rhetorical conventions of the manual.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T025821Z" creationid="lenovo" creationdate="20200810T025821Z">
@@ -7251,10 +7267,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Staging&lt;t0/&gt;: explaining conditions necessary to begin</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T165341Z" creationid="lenovo" creationdate="20200811T165341Z">
+        <seg>筹划&lt;t0/&gt;：解释开始所需条件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Staging&lt;t0/&gt;: explaining the goal to be achieved</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T165230Z" creationid="lenovo" creationdate="20200811T165230Z">
-        <seg>&lt; t0 / &gt;筹划：解释要实现的目标</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T165256Z" creationid="lenovo" creationdate="20200811T165230Z">
+        <seg>筹划&lt;t0/&gt;：解释要实现的目标</seg>
       </tuv>
     </tu>
     <tu>
