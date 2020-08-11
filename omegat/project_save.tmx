@@ -7885,6 +7885,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These guidelines apply to the elements.”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T025405Z" creationid="lenovo" creationdate="20200811T025405Z">
+        <seg>这些指导方针适用于元素。”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These guidelines apply to the elements.” Further describing the difference between characteristics and elements, Hargis noted that “writers cannot, for example, turn clarity on and off with a markup tag.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T022951Z" creationid="lenovo" creationdate="20200811T022505Z">
@@ -9490,6 +9498,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>• &lt;t0/&gt;Elements are “the units that physically constitute technical information.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T025539Z" creationid="lenovo" creationdate="20200811T025539Z">
+        <seg>• &lt;t0/&gt;元素是“物理上构成技术信息的单元”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>• &lt;t0/&gt;Explaining the Distinguishing Characteristics of the Product or Procedure &lt;t1/&gt;• &lt;t2/&gt;Illustrating the Old Product or Procedure</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T065948Z" creationid="lenovo" creationdate="20200810T065948Z">
@@ -9502,6 +9518,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T125822Z" creationid="lenovo" creationdate="20200810T125333Z">
         <seg>• &lt;t0/&gt;帮用户分解任务</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;Guidelines are “brief directives about what to do or not to do to achieve the characteristics of quality.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T025352Z" creationid="lenovo" creationdate="20200811T025352Z">
+        <seg>• &lt;t0/&gt;指导方针是“关于为了达到质量特征该做什么或不做什么的简要指示。”</seg>
       </tuv>
     </tu>
     <tu>
