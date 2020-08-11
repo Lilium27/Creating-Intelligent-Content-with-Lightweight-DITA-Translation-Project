@@ -1561,6 +1561,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A word processor successfully abstracts the process of separating computing rules for content and for&lt;t3/&gt;mat, but as a result keeps the content locked in one deliverable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T142753Z" creationid="DSS" creationdate="20200811T142753Z">
+        <seg>文字处理器成功地将分离计算规则的过程进行了抽象，这些规则分别应用在内容和格式上，但其结果是将内容锁定在某个可交付文件中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Abstraction allows humans to separate the “layers” of a particular problem and work on each one individually without concern for the others.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T080421Z" creationid="DSS" creationdate="20200808T080421Z">
@@ -3767,6 +3775,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Format-free &lt;t0/&gt;content “does not include presentation information, such as instructions about fonts, column widths, or text placement.” The sep&lt;t1/&gt;aration of format and content is essential for multichannel publishing, and the layer of abstraction provided by a desktop publishing applica&lt;t2/&gt;tion in this regard can be a dangerous one.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T143333Z" creationid="DSS" creationdate="20200811T142749Z">
+        <seg>无格式&lt;t0/&gt;内容“不包括展示信息，如描述字体、列宽或文本位置的说明” 。格式和内容分离对多渠道发布是至关重要的，而桌面发布应用程序在这方面提供的抽象功能可能并无益处。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>From a cautionary or preventive perspective, planning ahead can minimize the future impact of dealing with legacy content siloed in one plat&lt;t4/&gt;form.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T130427Z" creationid="DSS" creationdate="20200809T130427Z">
@@ -4819,6 +4835,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T030252Z" creationid="DSS" creationdate="20200720T133311Z">
         <seg>他毕业于明尼苏达大学双子城分校（University of Minnesota-Twin Cities），获得了科学与技术传播硕士学位。詹姆斯在 IBM 工作，是出色的一位技术营销人员，曾经一直在寻求能够在结构化创作环境中工作的实习生。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In most cases, human authors would have to modify font-sizes and paragraph structures manually.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T142800Z" creationid="DSS" creationdate="20200811T142800Z">
+        <seg>在大多数情况下，创作者必须手动修改字体大小和段落结构。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6783,6 +6807,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T131929Z" creationid="DSS" creationdate="20200804T131910Z">
         <seg>节（section）&lt;t0/&gt;：话题里结构分明的一部分，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Semantically rich &lt;t0/&gt;content includes “added extra, machine-readable infor&lt;t1/&gt;mation that describes what the content is, what it's about, and more.” This layer of metadata can specify the type of audience, platform (or cuisine, if we look back at the marinara sauce example from &lt;t2/&gt;Chapter &lt;t3/&gt;1&lt;t4/&gt;) &lt;t5/&gt;for a whole topic of information or for specific paragraph or phrase level elements in that topic (Rockley et al., &lt;t6/&gt;2015, &lt;t7/&gt;pp.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T143859Z" creationid="DSS" creationdate="20200811T143859Z">
+        <seg>语义丰富的内容包括“额外的机器可读信息，用以描述内容详情”。这一层元数据可以指定整个话题信息，或话题信息中的特定段落或短语级元素的受众类型、平台类型（如果我们回顾第1章中的意式番茄罗勒酱例子）</seg>
       </tuv>
     </tu>
     <tu>
