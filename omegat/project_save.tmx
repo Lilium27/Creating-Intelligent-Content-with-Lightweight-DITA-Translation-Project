@@ -1545,6 +1545,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Adding to the conversation about turning characteristics into elements or conventions, Carey et al.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T030902Z" creationid="lenovo" creationdate="20200811T030902Z">
+        <seg>凯里（Carey）等人还谈到了如何将特征转化为元素或惯例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Additionally, Chef Pedro could link the HDITA topics to an external CSS file for formatting.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T074953Z" creationid="DSS" creationdate="20200807T074953Z">
@@ -2970,6 +2978,14 @@
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T161055Z" creationid="DSS" creationdate="20200802T161055Z">
         <seg>轻松地创建常见话题类型，开箱即用
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Easy to find</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T030708Z" creationid="lenovo" creationdate="20200811T030708Z">
+        <seg>易查找</seg>
       </tuv>
     </tu>
     <tu>
@@ -6210,6 +6226,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Retrievability</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T030742Z" creationid="lenovo" creationdate="20200811T030742Z">
+        <seg>可检索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Revise it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T125909Z" creationid="lenovo" creationdate="20200810T125909Z">
@@ -6542,6 +6566,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015235Z" creationid="lenovo" creationdate="20200811T015235Z">
         <seg>强而精确的动词</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Style.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T030655Z" creationid="lenovo" creationdate="20200811T030655Z">
+        <seg>风格</seg>
       </tuv>
     </tu>
     <tu>
@@ -8616,6 +8648,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Visual effectiveness (Carey et al., &lt;t0/&gt;2014, &lt;t1/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T030756Z" creationid="lenovo" creationdate="20200811T030756Z">
+        <seg>视觉效率 (Carey et al., &lt;t0/&gt;2014, &lt;t1/&gt;p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>WITH LIGHTWEIGHT DITA</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200718T121755Z" creationid="lenovo" creationdate="20200718T120730Z">
@@ -8968,6 +9008,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can apply the quality characteristics whether you're writing a book, a page, a paragraph, a sentence, or a single word in an interface.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T031101Z" creationid="lenovo" creationdate="20200811T031101Z">
+        <seg>无论你是在写一本、一页、一段、一句话还是界面中的一个词，你都可以应用质量特征。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can create the XDITA map from &lt;t0/&gt;Figure &lt;t1/&gt;5.8&lt;t2/&gt; &lt;t3/&gt;in any text editor or in a LwDITA-aware tool like Oxygen XML Editor.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T080023Z" creationid="DSS" creationdate="20200807T064851Z">
@@ -9124,6 +9172,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T155759Z" creationid="DSS" creationdate="20200802T155759Z">
         <seg>提交到官方的 DITA 技术委员会。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>wrote the following on the 3rd edition of &lt;t0/&gt;DQTI&lt;t1/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T030934Z" creationid="lenovo" creationdate="20200811T030934Z">
+        <seg>第三版&lt;t0/&gt;DQTI&lt;t1/&gt;还有如下内容：</seg>
       </tuv>
     </tu>
     <tu>
