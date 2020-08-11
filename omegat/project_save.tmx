@@ -1523,8 +1523,8 @@
       <tuv lang="en">
         <seg>Accuracy</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T163304Z" creationid="lenovo" creationdate="20200810T163151Z">
-        <seg>准确性</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T030636Z" creationid="lenovo" creationdate="20200810T163151Z">
+        <seg>准确</seg>
       </tuv>
     </tu>
     <tu>
@@ -2515,8 +2515,8 @@
       <tuv lang="en">
         <seg>Clarity</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T163315Z" creationid="lenovo" creationdate="20200810T162612Z">
-        <seg>明确性</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T030642Z" creationid="lenovo" creationdate="20200810T162612Z">
+        <seg>明确</seg>
       </tuv>
     </tu>
     <tu>
@@ -2561,6 +2561,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Completeness.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T030639Z" creationid="lenovo" creationdate="20200811T030611Z">
+        <seg>完整</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Computing professionals and educators have the responsibility to make computation available to thinkers of all disciplines.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T143747Z" creationid="DSS" creationdate="20200810T143747Z">
@@ -2599,6 +2607,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015714Z" creationid="lenovo" creationdate="20200811T015714Z">
         <seg>简明术语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Concreteness</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T030631Z" creationid="lenovo" creationdate="20200811T030631Z">
+        <seg>具体</seg>
       </tuv>
     </tu>
     <tu>
@@ -2954,6 +2970,22 @@
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T161055Z" creationid="DSS" creationdate="20200802T161055Z">
         <seg>轻松地创建常见话题类型，开箱即用
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Easy to understand</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T030618Z" creationid="lenovo" creationdate="20200811T030618Z">
+        <seg>易理解</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Easy to use</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T030410Z" creationid="lenovo" creationdate="20200811T030410Z">
+        <seg>易用</seg>
       </tuv>
     </tu>
     <tu>
@@ -6638,6 +6670,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T160150Z" creationid="lenovo" creationdate="20200805T015347Z">
         <seg>对秩序与规则的痴迷到达危险的极端状态时，可能会导致狄奥多·阿多诺（Theodor Adorno）所预言的文化产品标准化的后果&lt;t0/&gt;(1991) &lt;t1/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Task orientation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T030606Z" creationid="lenovo" creationdate="20200811T030606Z">
+        <seg>任务导向</seg>
       </tuv>
     </tu>
     <tu>
