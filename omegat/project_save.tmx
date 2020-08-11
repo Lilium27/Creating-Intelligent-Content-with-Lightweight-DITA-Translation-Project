@@ -6088,6 +6088,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Priestley and his co-authors addressed the evolution of the manual as it became a collection of topics with “fine-grained” moves to signal or tag specific conventions:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T094144Z" creationid="lenovo" creationdate="20200811T094144Z">
+        <seg>普里斯特利和他的合著者讨论了手册的演变，它变成了一个主题集合，用“细粒度”文步来标志或标记特定惯例：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Priestley had been working with a group from the IBM Cloud project (then called Bluemix), which used Markdown for its documentation and needed to imple&lt;t3/&gt;ment DITA-like reuse and transclusion features.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T131632Z" creationid="DSS" creationdate="20200802T130010Z">
