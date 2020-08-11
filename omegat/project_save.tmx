@@ -2033,6 +2033,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As I mentioned in &lt;t0/&gt;Chapter &lt;t1/&gt;1&lt;t2/&gt;, &lt;t3/&gt;according to Rockley et al.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T140240Z" creationid="DSS" creationdate="20200811T140240Z">
+        <seg>正如我在第1章中提到的，根据罗克利等人的观点，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As I write this  chapter, the DITA Technical Committee at OASIS is working on the release  of DITA 2.0 as a new standard parallel to LwDITA.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T093944Z" creationid="DSS" creationdate="20200730T093944Z">
@@ -7621,6 +7629,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The characteristics of intelligent content set the foundation for assessing compu&lt;t0/&gt;tational thinking, based on the ISTE indicators, in the domains of technical communication and content authoring.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T140217Z" creationid="DSS" creationdate="20200811T140217Z">
+        <seg>智能内容的特性为在技术传播和内容创作领域基于 ISTE 指标评价计算机思维奠定了基础。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The combination of XML, HTML5, and Markdown in the initial LwDITA authoring formats enhances the diversity of authors in a DITA- like environment, but it also represents challenges for compatibility and equivalency of models and structures.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T162926Z" creationid="DSS" creationdate="20200804T162926Z">
@@ -9645,6 +9661,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T135246Z" creationid="lenovo" creationdate="20200811T135111Z">
         <seg>。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>intelligent content should present the following five characteristics:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T141501Z" creationid="DSS" creationdate="20200811T141501Z">
+        <seg>智能内容应该具有以下五个特征:</seg>
       </tuv>
     </tu>
     <tu>
