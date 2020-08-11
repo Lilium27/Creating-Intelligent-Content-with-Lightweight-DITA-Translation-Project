@@ -3734,6 +3734,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Guzdial also sees disciplinary application as an essential step in assessing computational thinking.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T123326Z" creationid="DSS" creationdate="20200811T123326Z">
+        <seg>古齐亚尔还认为学科应用是评估计算机思维的必要一步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HOW DITA EVOLVED INTO LwDITA</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200721T143908Z" creationid="DSS" creationdate="20200721T143908Z">
@@ -3798,6 +3806,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>He adds that demonstrating knowledge of comput&lt;t0/&gt;ing is a necessary, but insufficient part of computational thinking assessment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T123332Z" creationid="DSS" creationdate="20200811T123332Z">
+        <seg>他补充到：展示计算机知识是必要的，但这对于评估计算机思维来说还不够。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>He described that as a problem of scaling: when there were a handful of important tech companies, their research and develop&lt;t0/&gt;ment departments could work closely with academics, and those partnerships were reciprocal.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200802T080451Z" creationid="lenovo" creationdate="20200802T080451Z">
@@ -3818,6 +3834,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153358Z" creationid="DSS" creationdate="20200726T153358Z">
         <seg>他正在寻找一种方法来标准化员工使用的菜谱，菜谱来自于他管理的几家餐馆。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>He proposes that students “must be applying, connecting, or transferring the computing knowledge to other domains to be computational thinking” (Guzdial, 2016a).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T124520Z" creationid="DSS" creationdate="20200811T124520Z">
+        <seg>他提出，学生“必须应用、迁移计算机知识到其他领域，融会贯通，才能形成计算机思维” (Guzdial, 2016a)。</seg>
       </tuv>
     </tu>
     <tu>
