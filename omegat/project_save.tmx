@@ -2433,6 +2433,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By writ&lt;t1/&gt;ing topics, however, you can make finer-grained distinctions about the type of information that a user can expect than just at the level of the whole document.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T094405Z" creationid="lenovo" creationdate="20200811T094405Z">
+        <seg>但是，通过编写主题，您可以对用户期望的信息类型进行更细粒度的区分，而不仅仅是文档级别。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>CREATING INTELLIGENT CONTENT</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200722T021620Z" creationid="lenovo" creationdate="20200718T120716Z">
@@ -4810,6 +4818,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153211Z" creationid="DSS" creationdate="20200726T153211Z">
         <seg>在修辞学领域，埃普伦（Applen）和麦克丹尼尔（McDaniel）写了一篇关于XML及其修辞学启示的重要文章。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the specific case of the task topic type, some of those moves included a rationale for the task (“why or when a user would want to perform this task”), prerequisites for the task (“what a user should do before performing this task”), responses to the actions (“what the user should see as a result of doing the action”), examples (“examples of what information to enter or what to do”), and post&lt;t0/&gt;requisites for the task (“what to do next after this task is completed”) (Priestley et al.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T125900Z" creationid="lenovo" creationdate="20200811T125900Z">
+        <seg>特殊情况下的任务主题，一些文步会为这个任务提供合理解释（“为什么或者何时用户想要执行这个任务”），任务的先决条件(“在执行这个任务之前用户应该做什么”)，动作反馈(“用户完成动作后应该看到的结果”)，示例（输入的信息示例或指导示例）和任务后决条件(这个任务完成后“下一步该做什么”)(Priestley et al.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7564,6 +7580,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The content and organization of a user's guide, for example, is different from the content and organization of a reference manual.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T094311Z" creationid="lenovo" creationdate="20200811T094311Z">
+        <seg>例如，用户指南的内容和组织不同于参考手册。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The content needs of the com&lt;t2/&gt;pany now are many: they will need guides for workers in the corporate-owned restaurants, guidelines and expectations for franchise owners, and because of the nature of this business (restaurants), they will also require collections of recipes and acceptable ingredients that can be reused in end-user products like a menu for print and online channels.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T044232Z" creationid="DSS" creationdate="20200807T043637Z">
@@ -9220,6 +9244,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153848Z" creationid="DSS" creationdate="20200726T153848Z">
         <seg>当开发人员停止更新软件时，这个软件就废弃了，而佩德罗制作的内容也被锁定在软件当中，需要花费巨额才能将内容转换到另一个软件中，并且耗时漫长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When writing software manuals, technical writers have historically distin&lt;t0/&gt;guished task-based instructions (guidance information) from reference information.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T094246Z" creationid="lenovo" creationdate="20200811T094246Z">
+        <seg>在编写软件手册时，技术作者历来将基于任务的指令(指导信息)与参考信息区分开来。</seg>
       </tuv>
     </tu>
     <tu>
