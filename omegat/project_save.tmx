@@ -9016,6 +9016,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When talking about covering concepts of computing outside of computer sci&lt;t0/&gt;ence courses, Perkovic et al.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T115455Z" creationid="DSS" creationdate="20200811T115455Z">
+        <seg>在谈及计算机科学课程之外的计算概念时，佩尔科维奇等人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When the developer stopped updating the application and it became obsolete, Pedro's content was locked and required an expensive and time-consuming process of conversion to be rescued in another program.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153848Z" creationid="DSS" creationdate="20200726T153848Z">
