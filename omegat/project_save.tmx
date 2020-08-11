@@ -8742,6 +8742,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This approach also helped during the process of designing the content and element types of LwDITA, but it all started with understanding the different meanings of the term &lt;t0/&gt;topic&lt;t1/&gt; for the proposed standard's intended audiences of practitioners and academics.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T143147Z" creationid="lenovo" creationdate="20200811T143147Z">
+        <seg>这种方法在设计LwDITA的内容和元素类型的过程中也有帮助，但是首先要理解术语&lt;t0/&gt;主题&lt;t1/&gt;对于提倡的标准的预期受众(从业者和学者)的不同含义。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This bold decision  of decoupling a version of DITA from its popular document types is supported  by claims that can be summarized in the following three points: 1.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T090124Z" creationid="DSS" creationdate="20200730T090124Z">
