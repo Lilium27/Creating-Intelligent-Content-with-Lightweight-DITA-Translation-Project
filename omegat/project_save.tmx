@@ -2073,6 +2073,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aristotle's lack of definition is perhaps not surprising given the seemingly simple concept of “topic.” Even today we think we readily understand what is meant by a “topic”: We know that the “topic” of a conversation, for example, is that thing upon which the conversation hinges.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T150926Z" creationid="lenovo" creationdate="20200811T150926Z">
+        <seg>考虑到“主题”这一概念看似简单，亚里士多德未对其做出定义并不令人惊讶。即使在今天，我们仍然认为自己很容易理解“话题”的含义：例如，我们知道对话视“话题”而定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As I mentioned in &lt;t0/&gt;Chapter &lt;t1/&gt;1&lt;t2/&gt;, &lt;t3/&gt;according to Rockley et al.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T145142Z" creationid="DSS" creationdate="20200811T140240Z">
