@@ -1539,8 +1539,8 @@
       <tuv lang="en">
         <seg>Actually, the answer (for the manual's disappearance) is not minimalism, but money.” Carroll explained that with computing systems like notebook computers and smartphones (which are considerably more affordable than their mainframe ancestors in the 1980s and earlier), “there's no way to economically produce definitive manuals that cheap.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200731T140143Z" creationid="lenovo" creationdate="20200731T140143Z">
-        <seg>实际上，（手册消失）的原因并不是极简主义而是金钱。”卡罗尔解释道，利用笔记本和智能机等计算系统（价钱要远低于上世纪80年代以前的大型机），“没法生产出既定义明确又价格低廉的手册”</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T072237Z" creationid="lenovo" creationdate="20200731T140143Z">
+        <seg>实际上，（手册消失）的原因并不是极简主义而是金钱。”卡罗尔解释道，利用笔记本和智能机等计算系统（价钱要远低于20世纪80年代以前的大型机），“没法生产出既定义明确又价格低廉的手册”</seg>
       </tuv>
     </tu>
     <tu>
@@ -2285,6 +2285,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T022238Z" creationid="lenovo" creationdate="20200811T022238Z">
         <seg>小说的主要元素是段落，而技术信息作者需要“其他区分信息的手段”(p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Before Intelligent Content, There Was the Computer Manual &lt;t0/&gt;49</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T072101Z" creationid="lenovo" creationdate="20200811T072101Z">
+        <seg>智能内容出现前,计算机手册占据主导 &lt;t0/&gt;49</seg>
       </tuv>
     </tu>
     <tu>
@@ -3592,8 +3600,8 @@
       <tuv lang="en">
         <seg>Gerald Cohen and &lt;t0/&gt;Donald Cunningham, in the introduction to their &lt;t1/&gt;1984 &lt;t2/&gt;book &lt;t3/&gt;Creating Technical Manuals: A Step-by-Step Approach to Writing User-Friendly Instructions&lt;t4/&gt;, already talked about a “crisis in manual writing.” According to these authors, manual readers in the 1980s were “more sophisticated and liberated” than those from before &lt;t5/&gt;1970 &lt;t6/&gt;and would not “tolerate a poorly conceived manual.” Many of their recommendations urged the manual writer “to serve as an agent representing the reader.” One of the greatest failures of manual writing, they wrote, is “the lack of representation from the reader needs” (Cohen &lt;t7/&gt;&amp; &lt;t8/&gt;Cunningham, &lt;t9/&gt;1984, &lt;t10/&gt;p.13).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T023041Z" creationid="lenovo" creationdate="20200810T023041Z">
-        <seg>杰拉德·柯亨（Gerald Cohen ）和唐纳德·坎宁安 （Donald Cunningham）在他们1984年出版的《创建技术手册：一步一步编写用户友好的操作说明》一书中就已经谈论过：“手册写作的危机。”根据这两位作者的说法，上世纪80年代手册读者比70年代以前的“更加成熟和自由”，不会“容忍构思拙劣的手册”。他们很多建议都要求手册作者应当“成为读者的代言人。”手册写作最大的失误之一在于写作“没能很好地代表读者需求” (Cohen &lt;t7/&gt;&amp; &lt;t8/&gt;Cunningham, &lt;t9/&gt;1984, &lt;t10/&gt;p.13).</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T072237Z" creationid="lenovo" creationdate="20200810T023041Z">
+        <seg>杰拉德·柯亨（Gerald Cohen ）和唐纳德·坎宁安 （Donald Cunningham）在他们1984年出版的《创建技术手册：一步一步编写用户友好的操作说明》一书中就已经谈论过：“手册写作的危机。”根据这两位作者的说法，20世纪80年代手册读者比70年代以前的“更加成熟和自由”，不会“容忍构思拙劣的手册”。他们很多建议都要求手册作者应当“成为读者的代言人。”手册写作最大的失误之一在于写作“没能很好地代表读者需求” (Cohen &lt;t7/&gt;&amp; &lt;t8/&gt;Cunningham, &lt;t9/&gt;1984, &lt;t10/&gt;p.13).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3832,8 +3840,8 @@
       <tuv lang="en">
         <seg>However, the manual started to lose genre power in the 1980s and was on life support even before John Carroll delivered the final uppercut with the concept of minimalism.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T013649Z" creationid="lenovo" creationdate="20200810T005457Z">
-        <seg>然而，上世纪80年代手册就开始失势，在约翰·卡罗尔带着极简主义理念给予致命一击前，手册就已经垂垂老矣。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T072237Z" creationid="lenovo" creationdate="20200810T005457Z">
+        <seg>然而，20世纪80年代手册就开始失势，在约翰·卡罗尔带着极简主义理念给予致命一击前，手册就已经垂垂老矣。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4254,6 +4262,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Implementation of Elements: DITA is Born</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T072204Z" creationid="lenovo" creationdate="20200811T072204Z">
+        <seg>元素的应用：DITA诞生</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In 1965, Robert E. Horn initiated the research into and design of the Information Mapping&lt;t0/&gt;®&lt;t1/&gt; method, initially developed as both a way of visually presenting information and a method for analyzing information to make it easier to communicate.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T084145Z" creationid="DSS" creationdate="20200731T084145Z">
@@ -4544,8 +4560,8 @@
       <tuv lang="en">
         <seg>In the 1990s, Carroll's work on minimalist documentation also influenced an IBM technical writer to architect the original DITA schemas for structuring con&lt;t0/&gt;tent.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T031028Z" creationid="lenovo" creationdate="20200802T082309Z">
-        <seg>上世纪90年代，卡罗尔在极简文档上的工作还影响了IBM的一位技术文档工程师，激发他创建了用于结构化内容的原始DITA模式。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T072237Z" creationid="lenovo" creationdate="20200802T082309Z">
+        <seg>20世纪90年代，卡罗尔在极简文档上的工作还影响了IBM的一位技术文档工程师，激发他创建了用于结构化内容的原始DITA模式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5000,8 +5016,8 @@
       <tuv lang="en">
         <seg>Joe Rigo's outline for a computer manual reflects a healthy and confident genre of technical communication in the 1970s.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T004842Z" creationid="lenovo" creationdate="20200810T004842Z">
-        <seg>乔·里戈为计算机手册制定的大纲反映了上世纪70年代技术传播领域一种健康而自信的体裁。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T072237Z" creationid="lenovo" creationdate="20200810T004842Z">
+        <seg>乔·里戈为计算机手册制定的大纲反映了20世纪70年代技术传播领域一种健康而自信的体裁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5962,8 +5978,8 @@
       <tuv lang="en">
         <seg>Price's discussion of online deliverables advanced the conversation on topic-based authoring that moved away from the traditional manual-as-book model that dominated the market in the 1970s and before.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T120916Z" creationid="lenovo" creationdate="20200810T114734Z">
-        <seg>普莱斯对在线可交付内容的讨论推动了基于主题的创作的讨论，而后者已经从上世纪70年代及以前占据市场的传统书籍式手册中脱离出来。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T072237Z" creationid="lenovo" creationdate="20200810T114734Z">
+        <seg>普莱斯对在线可交付内容的讨论推动了基于主题的创作的讨论，而后者已经从20世纪70年代及以前占据市场的传统书籍式手册中脱离出来。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7302,8 +7318,8 @@
       <tuv lang="en">
         <seg>The element types in DITA also inherited generic, institutional, and disciplinary conventions from another title that was originally published in the 1980s: IBM's &lt;t2/&gt;Producing Quality Technical Information.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T130833Z" creationid="lenovo" creationdate="20200810T130833Z">
-        <seg>DITA的元素类型同样继承了IBM在上世纪80年代首次出版的《产出高质量技术信息》一书中的通用型、组织型和规范型惯例。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T072237Z" creationid="lenovo" creationdate="20200810T130833Z">
+        <seg>DITA的元素类型同样继承了IBM在20世纪80年代首次出版的《产出高质量技术信息》一书中的通用型、组织型和规范型惯例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7609,6 +7625,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T030116Z" creationid="lenovo" creationdate="20200811T030116Z">
         <seg>&lt;t0/&gt;DQTI&lt;t1/&gt;所有可用版本的质量特征遵循相同的结构。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The quality guidelines for technical information that had been driving the work of authors, editors, and reviewers at IBM since the 1980s were put into practice in the content types and elements included in DITA XML.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T072349Z" creationid="lenovo" creationdate="20200811T072349Z">
+        <seg>自从20世纪80年代以来，技术信息的质量指导原则一直在推动IBM的作者、编辑和审稿人的工作，现在已经在DITA XML中包含的内容类型和元素中付诸实践。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8239,8 +8263,8 @@
       <tuv lang="en">
         <seg>This idea of adding metadata to facilitate modular reuse of text, I first encountered it with a (female) technical com&lt;t0/&gt;municator at IBM, at the Raleigh lab in the early 90s.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T033203Z" creationid="lenovo" creationdate="20200804T031344Z">
-        <seg>增加元数据以便利文本的模块化复用，我在首次接触这一理念是上世纪90年代早期，一名在IBM的罗利（Raleigh）实验室工作的技术传播工程师向我阐述了这一理念。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T072237Z" creationid="lenovo" creationdate="20200804T031344Z">
+        <seg>增加元数据以便利文本的模块化复用，我在首次接触这一理念是20世纪90年代早期，一名在IBM的罗利（Raleigh）实验室工作的技术传播工程师向我阐述了这一理念。</seg>
       </tuv>
     </tu>
     <tu>
