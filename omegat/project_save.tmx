@@ -4342,6 +4342,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In her discussion of the characteristic of completeness, she included the following paragraph:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T023137Z" creationid="lenovo" creationdate="20200811T023137Z">
+        <seg>在讨论完整性的特点时，她阐述了以下内容：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In his popular textbook &lt;t0/&gt;Structured Computer Organization&lt;t1/&gt;, Andrew S. Tanenbaum described computers “as a</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T074907Z" creationid="DSS" creationdate="20200808T074907Z">
@@ -7317,6 +7325,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The minimalist approach not only yields a reduction in page count, but it also results in writing that doesn't get in the user's way.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T023410Z" creationid="lenovo" creationdate="20200811T023410Z">
+        <seg>极简主义方法并不只是减少了页数，而且使得写作顺应用户的需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The next chapter focuses on the features and limitations of XDITA, HDITA, and MDITA &lt;t0/&gt;- &lt;t1/&gt;the initial LwDITA authoring formats.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T162945Z" creationid="DSS" creationdate="20200804T162945Z">
@@ -8317,6 +8333,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Today, the trend in technical writing is toward providing the user with far less informa&lt;t0/&gt;tion, an approach called minimalism.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T023239Z" creationid="lenovo" creationdate="20200811T023239Z">
+        <seg>今天，技术写作的趋势是向用户提供更少的信息，这种方法被称为极简主义。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Topic derives from the widely adopted open content standard known as Darwin Information Typing Architecture (DITA), which defines a common structure for con&lt;t0/&gt;tent that promotes the consistent creation, sharing, and reuse of content.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T155631Z" creationid="DSS" creationdate="20200724T155631Z">
@@ -8724,6 +8748,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T081317Z" creationid="DSS" creationdate="20200726T153701Z">
         <seg>创作者，编写内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writers have often created technical information that is too complete, including everything there is to know about a product.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T023207Z" creationid="lenovo" creationdate="20200811T023207Z">
+        <seg>作者经常创建过于完整的技术信息，包括关于产品的所有需要了解的信息。</seg>
       </tuv>
     </tu>
     <tu>
