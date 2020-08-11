@@ -2065,6 +2065,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Appropriate length to treat the topic adequately yet not require lots of scrolling (Priestley et al., &lt;t0/&gt;2001, &lt;t1/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T150332Z" creationid="lenovo" creationdate="20200811T150332Z">
+        <seg>主题长度适中，不需要大量滚动查看 (Priestley et al., &lt;t0/&gt;2001, &lt;t1/&gt;p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As I mentioned in &lt;t0/&gt;Chapter &lt;t1/&gt;1&lt;t2/&gt;, &lt;t3/&gt;according to Rockley et al.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T145142Z" creationid="DSS" creationdate="20200811T140240Z">
@@ -3041,6 +3049,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T161247Z" creationid="DSS" creationdate="20200802T161247Z">
         <seg>可交付成果：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Derek Ross warns readers about the deceptive simplicity of the terminology for topics in Aristotelian-inspired discourse:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T150634Z" creationid="lenovo" creationdate="20200811T150634Z">
+        <seg>德里克•罗斯（Derek Ross）警告读者，在亚里士多德启发式话语中，有关主题的术语看似简单实则不然：</seg>
       </tuv>
     </tu>
     <tu>
@@ -6273,6 +6289,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>One subject, signified by the title</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T150215Z" creationid="lenovo" creationdate="20200811T150215Z">
+        <seg>一个主题对应一个标题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Or are they?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T150022Z" creationid="lenovo" creationdate="20200811T150022Z">
@@ -9345,6 +9369,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Trying to define the concept of topic in rhetoric is not that easy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T150358Z" creationid="lenovo" creationdate="20200811T150358Z">
+        <seg>试图界定修辞中的主题概念并非易事。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Underline&lt;t0/&gt;, also called an underscore, which is a more or less horizontal line immediately below a portion of writing.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T134206Z" creationid="DSS" creationdate="20200804T134206Z">
@@ -9685,6 +9717,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T075847Z" creationid="DSS" creationdate="20200808T075847Z">
         <seg>举个例子，如果没有抽象层级或级别的概念的话，假设 Twitter 的状态码更新了，开发人员就必须将其直接编码为一系列指令，交给计算机处理器和内存执行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wording that is independent of any other topic</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T150238Z" creationid="lenovo" creationdate="20200811T150238Z">
+        <seg>独立于任何其他主题的措辞</seg>
       </tuv>
     </tu>
     <tu>
