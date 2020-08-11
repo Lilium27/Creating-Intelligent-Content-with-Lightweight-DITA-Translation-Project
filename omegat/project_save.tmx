@@ -3558,6 +3558,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hargis also mentioned minimalism as a principle for writing technical infor&lt;t0/&gt;mation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T023034Z" creationid="lenovo" creationdate="20200811T023034Z">
+        <seg>哈吉斯同样将极简主义是为技术信息写作的一大原则。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hargis specified that the quality characteristics were not presented as generic conventions or, as she called them, “elements”.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T014424Z" creationid="lenovo" creationdate="20200811T014424Z">
@@ -7847,8 +7855,8 @@
       <tuv lang="en">
         <seg>These guidelines apply to the elements.” Further describing the difference between characteristics and elements, Hargis noted that “writers cannot, for example, turn clarity on and off with a markup tag.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T022639Z" creationid="lenovo" creationdate="20200811T022505Z">
-        <seg>这些指导方针适用于元素。”在进一步描述特征和元素之间的区别时，哈吉斯指出:“例如，作者仅靠标记无法决定明确性。”</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T022951Z" creationid="lenovo" creationdate="20200811T022505Z">
+        <seg>这些指导方针适用于元素。”在进一步描述特征和元素之间的区别时，哈吉斯指出:“例如，不是说作者用了标记文档就一定具有明确性。”</seg>
       </tuv>
     </tu>
     <tu>
