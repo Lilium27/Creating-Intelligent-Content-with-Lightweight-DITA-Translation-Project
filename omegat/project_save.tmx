@@ -2433,6 +2433,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Before Intelligent Content, There Was the Computer Manual &lt;t0/&gt;53</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T150147Z" creationid="lenovo" creationdate="20200811T150147Z">
+        <seg>智能内容出现前,计算机手册占据主导  &lt;t0/&gt;53</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before describing the LwDITA topical conventions and tracking how they evolved from DITA &lt;t0/&gt;1.3 &lt;t1/&gt;elements and produced their own offspring in the LwDITA three core authoring formats, the following section looks at the evo&lt;t2/&gt;lution of DITA as documented in the OASIS public email list and meeting minutes archive.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T130405Z" creationid="DSS" creationdate="20200730T122831Z">
@@ -4969,8 +4977,8 @@
       <tuv lang="en">
         <seg>In the world of rhetoric that defines discourse in most academic programs teaching technical communication in the United States, a topic would actu&lt;t0/&gt;ally be one of those content units, and not necessarily the whole “DITA topic.” Confusing?</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T145729Z" creationid="lenovo" creationdate="20200811T145729Z">
-        <seg>美国大多数教授技术传播的学术项目中，话语中充斥着修辞，主题实际上可能只是其中一个内容单元，并不一定就是整个“DITA主题”</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T150008Z" creationid="lenovo" creationdate="20200811T145729Z">
+        <seg>美国大多数教授技术传播的学术项目中，话语中充斥着修辞，主题实际上可能只是其中一个内容单元，并不一定就是整个“DITA主题。”是否感到困惑？</seg>
       </tuv>
     </tu>
     <tu>
@@ -6265,6 +6273,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Or are they?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T150022Z" creationid="lenovo" creationdate="20200811T150022Z">
+        <seg>或者就是一样的？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ordered list&lt;t0/&gt;: a series of items sorted by sequence or order of importance.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T131222Z" creationid="DSS" creationdate="20200804T131222Z">
@@ -7469,6 +7485,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;t7/&gt;top&lt;t8/&gt;ics&lt;t9/&gt; from the first book are not the same &lt;t10/&gt;topics&lt;t11/&gt; in the second book.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T145946Z" creationid="lenovo" creationdate="20200811T145946Z">
+        <seg>第一本书中的&lt;t7/&gt;主题&lt;t9/&gt;与第二本书中的&lt;t10/&gt;主题&lt;t11/&gt;不一样。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;t9/&gt;&lt;h1&gt; &lt;t10/&gt;element at the map level (in bold font) provides the main title for deliverables produced with this specific map.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T075506Z" creationid="DSS" creationdate="20200807T075506Z">
@@ -8130,6 +8154,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T161337Z" creationid="lenovo" creationdate="20200810T161337Z">
         <seg>&lt;t0/&gt;PQTI&lt;t1/&gt;首度提出的质量要求, 都分门别类地组织起来，每个类别下都有具体动作，如下所示：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The origins of DITA introduced the topic as a chunk of information with the following characteristics:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T150139Z" creationid="lenovo" creationdate="20200811T150139Z">
+        <seg>最初的DITA引进主题作为信息块，有以下特征：</seg>
       </tuv>
     </tu>
     <tu>
