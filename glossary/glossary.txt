@@ -441,3 +441,4 @@ Barba	巴尔巴
 Morris Dean	莫里斯·迪恩
 task orientation	任务导向
 Gretchen Hargis	格雷琴·哈吉斯
+moves	文步
