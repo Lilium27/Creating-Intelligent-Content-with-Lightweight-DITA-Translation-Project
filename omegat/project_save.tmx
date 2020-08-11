@@ -1217,6 +1217,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t7/&gt;I added some extra elements (in bold font) to implement the information types mentioned by Priestley et al.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T135021Z" creationid="lenovo" creationdate="20200811T135021Z">
+        <seg>&lt;t7/&gt;我添加了一些额外元素(粗体显示)来实现普里斯特利等人提到的信息类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t8/&gt;1).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T162101Z" creationid="DSS" creationdate="20200723T160321Z">
@@ -9580,6 +9588,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T082058Z" creationid="DSS" creationdate="20200727T082058Z">
         <seg>包含实际的内容（例如，&lt;t0/&gt;&lt;Name&gt;&lt;t1/&gt;），另一些子元素又包含其他级别的元素，并最终包含内容（例如，“parsley” 包含于 &lt;t2/&gt;&lt;Item&gt; &lt;t3/&gt; ，&lt;Item&gt; 包含于 &lt;t4/&gt;&lt;Ingredient&lt;t5/&gt;&gt;&lt;t6/&gt; ，&lt;Ingredient&gt;包含于 &lt;t7/&gt;&lt;IngredientList&gt;&lt;t8/&gt;）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>in the previous paragraph.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T135111Z" creationid="lenovo" creationdate="20200811T135111Z">
+        <seg>在前一段中。</seg>
       </tuv>
     </tu>
     <tu>
