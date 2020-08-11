@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(2010) proposed a model for computational thinking across the curriculum.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T115507Z" creationid="DSS" creationdate="20200811T115507Z">
+        <seg> (2010) 提出了一个贯穿所有课程的计算机思维模型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(Andersen &lt;t0/&gt;&amp; &lt;t1/&gt;Batova, &lt;t2/&gt;2015, &lt;t3/&gt;p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144755Z" creationid="DSS" creationdate="20200724T155637Z">
@@ -3894,6 +3902,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, recent approaches look at specific disciplinary applications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T115511Z" creationid="DSS" creationdate="20200811T115511Z">
+        <seg>然而，最近的方法都着眼于特定学科的应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, that mostly happened after me (at IBM).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T024227Z" creationid="lenovo" creationdate="20200804T024227Z">
@@ -5546,6 +5562,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T154946Z" creationid="DSS" creationdate="20200804T154946Z">
         <seg>多媒体组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Musaeus et al., for example, claim that computational thinking “as part of the medical curriculum could help educate novices (medical students and physicians in training) in the analysis and design of complex healthcare organizations, which increasingly rely on computer technology.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T121052Z" creationid="DSS" creationdate="20200811T121052Z">
+        <seg>例如，穆萨乌斯等人称，计算机思维“作为医学课程的一部分，可以帮助新手（医学生和正在接受培训的医生）分析和设计复杂的医疗机构，而这些机构越来越依赖计算机技术。”</seg>
       </tuv>
     </tu>
     <tu>
