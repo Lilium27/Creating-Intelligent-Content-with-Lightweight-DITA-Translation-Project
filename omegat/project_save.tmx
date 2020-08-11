@@ -3614,6 +3614,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Going back to the Miller and Selzer taxonomy of topical conventions, that early work captured the generic structures of fixed types that included the classical DITA trio of concept, task, and reference.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T073851Z" creationid="lenovo" creationdate="20200811T073851Z">
+        <seg>回到米勒和瑟尔泽对主题惯例的分类，早期工作抓住了固定类型的通用结构，其中包括经典DITA的三大支柱——概念、任务和引用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Gone are the days when the manual was binding the academic and practitioner camps of technical com&lt;t1/&gt;munication as they worked towards the advancement of this common genre.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T082040Z" creationid="lenovo" creationdate="20200723T082040Z">
