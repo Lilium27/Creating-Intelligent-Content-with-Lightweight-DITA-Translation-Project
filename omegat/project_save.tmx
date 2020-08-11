@@ -7885,6 +7885,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The transformation of &lt;t0/&gt;DQTI&lt;t1/&gt; guidelines into DITA elements was subtly documented in a &lt;t2/&gt;2001 &lt;t3/&gt;article published in the “Technology Review” column of the journal &lt;t4/&gt;Technical Communication&lt;t5/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T075510Z" creationid="lenovo" creationdate="20200811T075510Z">
+        <seg>&lt;t4/&gt;《技术传播》&lt;t5/&gt;杂志《技术评论》专栏在 &lt;t2/&gt;2001年 &lt;t3/&gt;发表的一篇的文章中细致地记载了&lt;t0/&gt;DQTI&lt;t1/&gt;指导方针转化为DITA元素的过程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The value for the &lt;t8/&gt;--&lt;t9/&gt;input&lt;t10/&gt; argument directs the DITA-OT to the specific folder where you stored the &lt;t11/&gt;marinara-critique.ditamap &lt;t12/&gt;file (the &lt;t13/&gt;path-to-file&lt;t14/&gt; section of the command, which you should replace with the actual path to the file in your computer).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T115654Z" creationid="DSS" creationdate="20200806T114857Z">
