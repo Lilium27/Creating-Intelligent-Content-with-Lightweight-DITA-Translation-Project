@@ -1441,6 +1441,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A definition of topic from Lawrence Prelli further supports this overlap.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T161502Z" creationid="lenovo" creationdate="20200811T161502Z">
+        <seg>劳伦斯·普雷利 （Lawrence Prelli）对主题的定义进一步支持了这种重叠。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A few days after my initial call with Priestley, the topic of including Markdown as a component of the LwDITA proposal appeared in the minutes of the DITA Technical Committee call from May 10, 2014.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T153620Z" creationid="DSS" creationdate="20200802T153620Z">
@@ -6883,6 +6891,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ross summarizes the discussion by suggesting that topics are shared places common to all debate, which allow rhetors to shape viable argument, and that is where the rhetorical concept of topic meets the DITA topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T160451Z" creationid="lenovo" creationdate="20200811T160451Z">
+        <seg>罗斯对这些讨论进行了总结，表示话题是所有辩论所共有的，演说家可以据此形成可行论据，这也是修辞中的主题概念与DITA主题的交汇之处。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Roundabout Expressions</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015718Z" creationid="lenovo" creationdate="20200811T015659Z">
@@ -8442,6 +8458,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T082033Z" creationid="DSS" creationdate="20200731T082033Z">
         <seg>修改后的话题类型依赖于一系列约束声明，这些声明将向DITA处理器提供指令。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The rhetorical top&lt;t0/&gt;ics are the moves/elements inside a DITA topic: the element of, say, &lt;t1/&gt;&lt;prereq&gt; &lt;t2/&gt;for prerequisites in a task topic suggests a shared model common to all tasks and procedures that allows authors to produce viable how-to information.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T161002Z" creationid="lenovo" creationdate="20200811T161002Z">
+        <seg>修辞主题是DITA主题中的文步/元素：例如，任务主题中的先决条件&lt;t1/&gt;&lt;prereq&gt; &lt;t2/&gt;的元素表示所有任务和流程共有的共享模型，该模型允许作者生成可行的“如何做”信息。</seg>
       </tuv>
     </tu>
     <tu>
