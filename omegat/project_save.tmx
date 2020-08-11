@@ -1265,6 +1265,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t8/&gt;Some DITA XML elements, like &lt;t9/&gt;&lt;p&gt; &lt;t10/&gt;for paragraph or &lt;t11/&gt;&lt;li&gt; &lt;t12/&gt;for list item, are relevant for any type of information and are present in HTML &lt;t13/&gt;-&lt;t14/&gt; &lt;t15/&gt;the &lt;t16/&gt;lingua franca&lt;t17/&gt; of the web.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T162822Z" creationid="lenovo" creationdate="20200811T162822Z">
+        <seg>&lt;t8/&gt;一些DITA XML元素，如段落&lt;t9/&gt;&lt; tb1 &lt;t10/&gt;，列表项&lt;t11/&gt;&lt;li&gt; &lt;t12/&gt;，与任何类型的信息都相关，并且以网络上HTML &lt;t13/&gt;-&lt;t14/&gt; &lt;t15/&gt; &lt;t16/&gt;通用语言&lt;t17/&gt;的形式存在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t8/&gt;Topic-based writing is described as “authoring an information set as a collection of discrete units called &lt;t9/&gt;topics&lt;t10/&gt;, rather than as a whole book or help system” (Baker, &lt;t11/&gt;2016 &lt;t12/&gt;p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144526Z" creationid="DSS" creationdate="20200724T154341Z">
