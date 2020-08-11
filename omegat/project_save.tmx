@@ -4368,8 +4368,8 @@
       <tuv lang="en">
         <seg>If computational thinking should be taught for medical students in the context of provision of patient care, and for architects it should be presented in the context of design principles, for content profession&lt;t1/&gt;als it should be in the processes, tools, and indicators required in an intelligent content workflow.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T122040Z" creationid="DSS" creationdate="20200811T122040Z">
-        <seg>如果应该在护理病人的情景下教医学生计算机思维，在设计原则的背景下教建筑师，那对于内容专员而言，应该在流程、工具和智能内容工作流所需的标记里教。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T131322Z" creationid="DSS" creationdate="20200811T122040Z">
+        <seg>如果应该在护理病人的情景下教医学生计算机思维，在设计原则的背景下教建筑师计算机思维，那么对于内容专员而言，应该在流程、工具和智能内容工作流所需的标记里教他们。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6898,6 +6898,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Students break problems into component parts, extract key informa&lt;t0/&gt;tion, and develop descriptive models to understand complex systems or facilitate problem-solving.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T131350Z" creationid="DSS" creationdate="20200811T131350Z">
+        <seg>学生能够将拆解问题，提取关键信息，建立描述性模型来理解复杂系统或促进问题解决。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Students collect data or identify relevant data sets, use digital tools to analyze them, and represent data in various ways to facilitate problem&lt;t0/&gt;solving and decision-making.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T131344Z" creationid="DSS" creationdate="20200811T131344Z">
+        <seg>学生能够收集数据或识别相关数据集，使用数字工具进行分析，并以各种方式表示数据，促进问题解决，进行决策。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Students formulate problem definitions suited for technology-assisted methods such as data analysis, abstract models and algorithmic thinking in exploring and finding solutions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T131337Z" creationid="DSS" creationdate="20200811T131337Z">
+        <seg>学生能够定义问题，通过数据分析、抽象模型和算法思维等科技手段的辅助，探索和寻找解决方案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Students understand how automation works and use algorithmic think&lt;t0/&gt;ing to develop a sequence of steps to create and test automated solutions (ISTE, &lt;t1/&gt;2018).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T132401Z" creationid="DSS" creationdate="20200811T132401Z">
+        <seg>学生能够理解自动化工作原理，使用算法思维开发步骤严密的程序，制定和测试自动化解决方案 (ISTE, &lt;t1/&gt;2018)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Style.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T030655Z" creationid="lenovo" creationdate="20200811T030655Z">
@@ -6916,8 +6948,8 @@
       <tuv lang="en">
         <seg>Such teaching should engage novices in information practices where they learn to perceive practices of computer technology as directly involved in the provision of patient care” (Musaeus et al., 2017, p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T121209Z" creationid="DSS" creationdate="20200811T121145Z">
-        <seg>应该让新手医生参与到信息实践中来学习，让他们知道计算机技术实践直接为患者提供护理服务”(Musaeus et al., 2017, p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T130312Z" creationid="DSS" creationdate="20200811T121145Z">
+        <seg>应该让新手医生参与到信息实践中来，让他们知道计算机技术实践可以直接为患者提供护理服务”(Musaeus et al., 2017, p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9250,8 +9282,8 @@
       <tuv lang="en">
         <seg>When talking about covering concepts of computing outside of computer sci&lt;t0/&gt;ence courses, Perkovic et al.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T115455Z" creationid="DSS" creationdate="20200811T115455Z">
-        <seg>在谈及计算机科学课程之外的计算概念时，佩尔科维奇等人</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T130241Z" creationid="DSS" creationdate="20200811T115455Z">
+        <seg>在谈及计算机科学课程之外的计算机概念时，佩尔科维奇等人</seg>
       </tuv>
     </tu>
     <tu>
