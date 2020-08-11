@@ -7773,6 +7773,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The element &lt;t12/&gt;&lt;stepresult&gt;&lt;t13/&gt;, which is a child of the element &lt;t14/&gt;&lt;step&gt;&lt;t15/&gt;, provides possible responses to the actions conducted by users.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T141835Z" creationid="lenovo" creationdate="20200811T141835Z">
+        <seg>元素&lt;t12/&gt;&lt;stepresult&gt;&lt;t13/&gt;是元素&lt;t14/&gt;&lt;step&gt;&lt;t15/&gt;的子元素，提供对用户操作的可能响应。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The element types in DITA also inherited generic, institutional, and disciplinary conventions from another title that was originally published in the 1980s: IBM's &lt;t2/&gt;Producing Quality Technical Information.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T072237Z" creationid="lenovo" creationdate="20200810T130833Z">
@@ -8022,6 +8030,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The prerequisites were already present in the example from&lt;t2/&gt; Chapter &lt;t3/&gt;1&lt;t4/&gt;, &lt;t5/&gt;in the &lt;t6/&gt;&lt;prereq&gt; &lt;t7/&gt;element, which includes an unordered list (&lt;t8/&gt;&lt;ul&gt;&lt;t9/&gt;) with list items (&lt;t10/&gt;&lt;li&gt;&lt;t11/&gt;) for all the ingredients the user would need to complete the recipe.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T141804Z" creationid="lenovo" creationdate="20200811T141804Z">
+        <seg>&lt;t2/&gt; 第一 &lt;t3/&gt;章&lt;t4/&gt;的案例已经展示了先决条件，都包含在在&lt;prereq&gt;元素中，其中包括一个无序列表(&lt;t8/&gt;&lt;ul&gt;&lt;t9/&gt;)和列表项(&lt;t10/&gt;&lt;li&gt;&lt;t11/&gt;)，用于用户完成菜谱所需的所有配料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The process for generating end user deliverables from DITA maps is the same for transforming LwDITA maps (regardless of XDITA, HDITA, or MDITA authoring format).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T042224Z" creationid="DSS" creationdate="20200807T042224Z">
@@ -8106,6 +8122,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T031220Z" creationid="lenovo" creationdate="20200811T031220Z">
         <seg>包含九个特征的质量技术信息模型足够灵活，可以在开发更小信息块时给予支持，以便以满足用户不断变化的需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The rationale for the task is in the &lt;t0/&gt;&lt;context&gt; &lt;t1/&gt;element; it represents the conventional move of telling the user when or why to complete the procedure/ recipe.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T141540Z" creationid="lenovo" creationdate="20200811T141540Z">
+        <seg>任务的合理解释包含在&lt;context&gt;元素中；它是一种惯例文步，告诉用户何时或为何要完成这一步骤/食谱。</seg>
       </tuv>
     </tu>
     <tu>
