@@ -2017,6 +2017,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Another child of the &lt;t16/&gt;&lt;step&gt; &lt;t17/&gt;ele&lt;t18/&gt;ment, &lt;t19/&gt;&lt;stepxmp&gt;&lt;t20/&gt;, gives an example of how to conduct a specific command or action.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T141946Z" creationid="lenovo" creationdate="20200811T141946Z">
+        <seg>&lt;t16/&gt;&lt;step&gt; &lt;t17/&gt;元素的另一个子元素&lt;t19/&gt;&lt;stepxmp&gt;&lt;t20/&gt;给出了一个如何执行特定命令或操作的示例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Appendices&lt;t0/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T002019Z" creationid="lenovo" creationdate="20200810T002019Z">
@@ -4881,8 +4889,8 @@
       <tuv lang="en">
         <seg>In the specific case of the task topic type, some of those moves included a rationale for the task (“why or when a user would want to perform this task”), prerequisites for the task (“what a user should do before performing this task”), responses to the actions (“what the user should see as a result of doing the action”), examples (“examples of what information to enter or what to do”), and post&lt;t0/&gt;requisites for the task (“what to do next after this task is completed”) (Priestley et al.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T125900Z" creationid="lenovo" creationdate="20200811T125900Z">
-        <seg>特殊情况下的任务主题，一些文步会为这个任务提供合理解释（“为什么或者何时用户想要执行这个任务”），任务的先决条件(“在执行这个任务之前用户应该做什么”)，动作反馈(“用户完成动作后应该看到的结果”)，示例（输入的信息示例或指导示例）和任务后决条件(这个任务完成后“下一步该做什么”)(Priestley et al.</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T141907Z" creationid="lenovo" creationdate="20200811T125900Z">
+        <seg>特殊情况下的任务主题，一些文步会为这个任务提供合理解释（“为什么或者何时用户想要执行这个任务”），任务的先决条件(“在执行这个任务之前用户应该做什么”)，动作响应(“用户完成动作后应该看到的结果”)，示例（输入的信息示例或指导示例）和任务后决条件(这个任务完成后“下一步该做什么”)(Priestley et al.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5419,6 +5427,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T152824Z" creationid="DSS" creationdate="20200726T152824Z">
         <seg>摒弃完全步用或不常用特性的语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lastly, the &lt;t21/&gt;&lt;postreq&gt; &lt;t22/&gt;element can provide one or more actions that need to be conducted after the core steps of this specific task topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T142027Z" creationid="lenovo" creationdate="20200811T142027Z">
+        <seg>最后，&lt;t21/&gt;&lt;postreq&gt; &lt;t22/&gt;元素可以提供在此特定任务主题的核心步骤之后需要执行的一个或多个操作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8938,6 +8954,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150816Z" creationid="DSS" creationdate="20200726T085141Z">
         <seg>这些担忧和怀疑围绕着技术传播领域的一个主要差异点而存在：在工业界，XML 和 DITA 被广泛使用，一些批评者甚至认为它们过于复杂，并且已经过时；而在学术界，“尽管 DITA 在从业者编写的文档中扮演着核心角色，教师们却完全忽视了它”（克拉克，&lt;&lt;t2/&gt;2016年，&lt;t3/&gt;第</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Those conventions, or content commonplaces, specific to the genre of task identified by the DITA architects, created quite the strict template that came with many of the benefits I have mentioned in previous chapters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T142354Z" creationid="lenovo" creationdate="20200811T142354Z">
+        <seg>那些作用于DITA架构师定义的任务体裁的惯例或内容常规</seg>
       </tuv>
     </tu>
     <tu>
