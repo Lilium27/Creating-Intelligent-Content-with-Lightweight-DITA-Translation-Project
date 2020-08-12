@@ -905,6 +905,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t3/&gt;These models go beyond traditional document-based lifecycles (which are more production- oriented) associated with technical communication practices that work mainly as straightforward maps in a line of progression.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T152349Z" creationid="DSS" creationdate="20200812T152349Z">
+        <seg>这些模型超越了传统的基于文档的生命周期（传统的生命周期更多地面向生产），基于文档的生命周期与在技术传播演进过程中具有指向作用的实践活动息息相关。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t3/&gt;These professionals work in environments that depend on the separation of content in concept, task, reference, and other types.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095458Z" creationid="DSS" creationdate="20200730T095458Z">
@@ -1921,6 +1929,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although there is no generally-adopted process or workflow for authoring intelligent content with DITA or LwDITA, some authors have proposed detailed models for content-development lifecycles that provide a solid foundation for</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T152334Z" creationid="DSS" creationdate="20200812T152334Z">
+        <seg>尽管使用 DITA 或 LwDITA 创作智能内容并没有一个通用的工作流程，但一些作者已经提出了内容开发生命周期的详细模型，为我将在第</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An Element for Every (Content) Occasion</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T021555Z" creationid="lenovo" creationdate="20200812T021555Z">
@@ -2117,6 +2133,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T075936Z" creationid="DSS" creationdate="20200806T075936Z">
         <seg>并且，与 LwDITA 话题一样，你可以用XDITA、HDITA、MDITA 或未来可能的写作格式来编写 LwDITA 地图映射关系。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Andersen claims that “the era of document-based information development (ID), which has shaped all aspects of research on professional and technical communication, training, and practice since the field's inception, is coming to an end” (2014a, p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T152404Z" creationid="DSS" creationdate="20200812T152404Z">
+        <seg>安德森称“自技术传播领域开创以来，基于文件的信息开发(ID)塑造了专业传播和技术传播、培训和实践研究的方方面面，但基于文件开发的时代要结束了” (2014a, p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10789,6 +10813,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T091114Z" creationid="DSS" creationdate="20200725T084639Z">
         <seg>通用话题是“创作和复用的基本单元”（2.2.1.1 话题是信息的基础单元，2016年），也是 DITA 标准基本版中包含的唯一信息类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the layers of abstraction that I will introduce in &lt;t0/&gt;Chapter &lt;t1/&gt;8&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T152337Z" creationid="DSS" creationdate="20200812T152337Z">
+        <seg>八章中介绍的抽象层级奠定了坚实的基础。</seg>
       </tuv>
     </tu>
     <tu>
