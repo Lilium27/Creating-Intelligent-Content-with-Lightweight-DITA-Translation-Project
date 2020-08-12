@@ -3903,6 +3903,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For both of these audience groups, the mandate of “go learn about intelligent content and then bring it back to your work” responds to the call for ways to better align education and research in technical communication with practice that Andersen &lt;t1/&gt;(2014) &lt;t2/&gt;cat&lt;t3/&gt;egorizes as certainly not new but never so urgent.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T145655Z" creationid="DSS" creationdate="20200812T145655Z">
+        <seg>对这两类读者群体而言，“学习智能内容开发，然后把它运用到工作里去”的建议，响应了 对更好地将技术传播的教学和研究与实践结合起来的呼吁，安德森 (2014) 表示这种呼吁当然不是什么新鲜事，但是非常紧迫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For exam&lt;t1/&gt;ple, the website “DITA Writer” maintains a list of companies using DITA based on reports from social media channels.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T141042Z" creationid="DSS" creationdate="20200726T141042Z">
@@ -4539,6 +4547,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T080700Z" creationid="DSS" creationdate="20200803T152454Z">
         <seg>我在每个通用协定中都添加了一个改编自《LwDITA 技术规范》的简单定义，虽然有时是这些定义多余的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I have identified the intended audiences of this book as a) students and instruc&lt;t0/&gt;tors who have been hesitant to learn about intelligent content and DITA because they see those as technologies alien to their work as scholars of writing, and b) practitioners who are interested in DITA or LwDITA from an author perspective and not necessarily as tools developers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T145432Z" creationid="DSS" creationdate="20200812T145432Z">
+        <seg>我认为本书的目标读者有两类，一是一直在犹豫是否要学习智能内容开发和 DITA 的学生和教师，他们和研究写作的学者一样，认为这些技术与他们的工作格格不入，二是从写作的角度出发对 DITA 或 LwDITA 感兴趣的从业者，而不一定是工具开发人员。</seg>
       </tuv>
     </tu>
     <tu>
