@@ -4727,6 +4727,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If content production can be automated, it still depends on humans as authors, information architects, and experience evaluators in order to be rhetorically effective.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T142459Z" creationid="DSS" creationdate="20200812T142459Z">
+        <seg>如果内容生产可以自动化了，其修辞效果依然依赖人类，需要创作者、信息架构师和经验评估师的参与。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If no transformation scenario has been selected, the dialog box will direct you to the “Configure Transformation Scenario(s)” win&lt;t0/&gt;dow.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T041048Z" creationid="DSS" creationdate="20200807T035059Z">
