@@ -3221,6 +3221,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Developing intelligent content with LwDITA is, thus, the most straight&lt;t0/&gt;forward application of computational thinking in structured authoring and technical communication.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T143418Z" creationid="DSS" creationdate="20200812T143418Z">
+        <seg>因此，使用 LwDITA 开发智能内容是结构化写作和技术传播中对计算机思维最直接的应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Digital citizen</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T124643Z" creationid="DSS" creationdate="20200811T124643Z">
@@ -3530,6 +3538,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T065635Z" creationid="lenovo" creationdate="20200810T065635Z">
         <seg>解释产品或流程的功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exploring Intelligent Content-development Lifecycles</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T144657Z" creationid="DSS" creationdate="20200812T144657Z">
+        <seg>探索智能内容开发的生命周期</seg>
       </tuv>
     </tu>
     <tu>
@@ -5503,6 +5519,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It can be used in workplace settings and it can also be taught in academic environments for workforce preparation, but also for advancing knowledge in this area.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T143424Z" creationid="DSS" creationdate="20200812T143424Z">
+        <seg>计算机思维可以在工作环境中使用，也可以在学术环境中教授，以为日后工作做好准备，同时也可以提高领域知识。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It can have an optional title.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T131931Z" creationid="DSS" creationdate="20200804T131931Z">
@@ -6641,6 +6665,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opportunities for practice and research abound across the spectrum of modern content-development lifecycles, which provide the foundation for the layers of abstraction behind authoring and publishing workflows with LwDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T143448Z" creationid="DSS" creationdate="20200812T143448Z">
+        <seg>在现代内容开发的生命周期中，存在大量实践和研究的机会，这为使用 LwDITA 编写和发布工作流背后的抽象层级奠定了基础。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Or are they?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T150022Z" creationid="lenovo" creationdate="20200811T150022Z">
@@ -7255,6 +7287,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T000627Z" creationid="lenovo" creationdate="20200810T000627Z">
         <seg>样例输出&lt;t0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scholars in writing programs and techni&lt;t1/&gt;cal communication are positioned to conduct research in the intersection of computational thinking and content in ways that most computing profession&lt;t2/&gt;als simply are not prepared or motivated to explore.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T143428Z" creationid="DSS" creationdate="20200812T143428Z">
+        <seg>写作和技术传播领域的学者们的目标是研究计算机思维和内容发开的交叉点，这是大多数计算机专业人士根本没有打算或没有动力去探索的。</seg>
       </tuv>
     </tu>
     <tu>
