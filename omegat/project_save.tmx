@@ -7949,6 +7949,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The DITA Technical Committee explained that separating the DITA 1.3 spec in three editions sets “the stage for future developments: Lightweight DITA and DITA 2.0” (Eberlein et al., 2015, p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T040543Z" creationid="lenovo" creationdate="20200812T040543Z">
+        <seg>DITA技术委员会解释说，将DITA 1.3规范划分为三个版本为“未来的开发奠定了基础：轻量级DITA和DITA 2.0” (Eberlein et al., 2015, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The DITA map has a &lt;t3/&gt;&lt;title&gt; &lt;t4/&gt;element for the whole project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150221Z" creationid="DSS" creationdate="20200725T153527Z">
@@ -9130,6 +9138,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T080614Z" creationid="DSS" creationdate="20200808T080614Z">
         <seg>然后当这些层级被重新组合时，它们共同作用来解决问题，这个过程可以用一个算法来表示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Then, some of the topical conventions included in the XML tags are equivalent to the essen&lt;t7/&gt;tial moves of technical communication from Table 2, including &lt;t8/&gt;&lt;shortdesc&gt; &lt;t9/&gt;as a staging move and &lt;t10/&gt;&lt;step&gt; &lt;t11/&gt;as a coaching move.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T040510Z" creationid="lenovo" creationdate="20200812T040510Z">
+        <seg>XML标记中包含的一些主题惯例等同于表2中技术传播中的基本文步，包括作为筹划文步的&lt;t8/&gt;&lt;shortdesc&gt; &lt;t9/&gt;，作为指导文步的&lt;t10/&gt;&lt;step&gt; &lt;t11/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
