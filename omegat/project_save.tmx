@@ -3084,6 +3084,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creating structured content: create new content or convert unstructured to structured content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T170843Z" creationid="DSS" creationdate="20200812T170843Z">
+        <seg>创建结构化内容：创建新内容或将非结构化内容转换为结构化内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creating the data base (sic)&lt;t0/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T024259Z" creationid="lenovo" creationdate="20200809T024259Z">
