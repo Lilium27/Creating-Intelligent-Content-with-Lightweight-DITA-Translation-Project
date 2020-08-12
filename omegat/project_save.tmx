@@ -5535,6 +5535,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It provides a framework for using a learning objects approach to organize and sequence content as a learning deliverable” (Eberlein et al., &lt;t1/&gt;2015, &lt;t2/&gt;pp.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T032607Z" creationid="lenovo" creationdate="20200812T032607Z">
+        <seg>他提供了一种框架，能让用户使用学习对象方法来将内容组织和排序成学习交付物 (Eberlein et al., &lt;t1/&gt;2015, &lt;t2/&gt;pp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It shows how different elements of the system are used together on an intermediate level” (1976, p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T023937Z" creationid="lenovo" creationdate="20200809T023937Z">
@@ -11397,8 +11405,8 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;“The all-inclusive edition is designed for authors and publishers who develop and deliver well-structured, modular instructional materials.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T031644Z" creationid="lenovo" creationdate="20200812T031644Z">
-        <seg>• &lt;t0/&gt;“全能版是为作者和出版商设计的，他们需要开发和交付良好结构模块化的教学材料设计的。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T031731Z" creationid="lenovo" creationdate="20200812T031644Z">
+        <seg>• &lt;t0/&gt;“全能版是为需要开发和交付良好结构、模块化的教学材料的作者和出版商设计的。</seg>
       </tuv>
     </tu>
     <tu>
