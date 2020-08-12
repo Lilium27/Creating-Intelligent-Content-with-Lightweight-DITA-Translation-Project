@@ -6009,8 +6009,8 @@
       <tuv lang="en">
         <seg>LwDITA, thus, can be a truly minimalist version of the standard, giving authors the structuring and publishing capabili&lt;t0/&gt;ties of DITA 1.3 in a reduced set of tags.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T043329Z" creationid="lenovo" creationdate="20200812T043329Z">
-        <seg>因此，轻量级DITA可以成为标准的极简版本，</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T044349Z" creationid="lenovo" creationdate="20200812T043329Z">
+        <seg>因此，轻量级DITA可以成为标准的极简版本，它减少了标记的数量，为作者提供DITA 1.3的结构和发布功能。</seg>
       </tuv>
     </tu>
     <tu>
