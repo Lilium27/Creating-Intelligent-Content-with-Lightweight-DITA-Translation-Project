@@ -8374,6 +8374,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The overlap, despite apparent and actual differences, in the DITA XML and rhetorical discussion of topics and commonplaces highlights the practical applications of topics, and also their perceived limitations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T014348Z" creationid="lenovo" creationdate="20200812T014348Z">
+        <seg>尽管两者存在明显且实际的差异，但DITA XML与有关主题和常规的修辞讨论重叠的部分突出了主题的实际应用，以及它们的局限性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The perception is that little explanation is needed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T152544Z" creationid="lenovo" creationdate="20200811T152544Z">
@@ -10243,8 +10251,8 @@
       <tuv lang="en">
         <seg>visited the Virginia Tech campus to give a talk precisely on rhetorical topics and commonplaces, Hart-Davidson linked those traits or moves to elements from the DITA standard, which I tried to capture in Table &lt;t0/&gt;2.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T170808Z" creationid="lenovo" creationdate="20200811T170808Z">
-        <seg>哈特-戴维森访问了维吉尼亚理工大学校园，就修辞主题和做了一次演讲，他把这些特征或动作与DITA标准中的元素联系起来，我试图在表&lt;t0/&gt;2中捕捉到这些元素。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T011347Z" creationid="lenovo" creationdate="20200811T170808Z">
+        <seg>哈特-戴维森访问了维吉尼亚理工大学校园，就修辞主题和常规做了一次演讲，他把这些特征或文步与DITA标准中的元素联系起来，我试图在表&lt;t0/&gt;2中捕捉到这些元素。</seg>
       </tuv>
     </tu>
     <tu>
