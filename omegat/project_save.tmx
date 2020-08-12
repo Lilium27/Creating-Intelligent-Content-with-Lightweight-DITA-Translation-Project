@@ -8446,6 +8446,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The original DITA &lt;t0/&gt;1.0 &lt;t1/&gt;technical specification is still available on the DITA Technical Committee website&lt;t2/&gt;1&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T023709Z" creationid="lenovo" creationdate="20200812T023709Z">
+        <seg>DITA技术委员会的网站上还能找到原始的DITA &lt;t0/&gt;1.0 &lt;t1/&gt;技术规范&lt;t2/&gt;&lt;t3/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The original quality requirements from &lt;t0/&gt;PQTI&lt;t1/&gt;, organized in categories and specific actions under each category, were the following:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T161337Z" creationid="lenovo" creationdate="20200810T161337Z">
@@ -8738,6 +8746,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T124804Z" creationid="DSS" creationdate="20200730T124804Z">
         <seg>缓慢的步伐为来自世界范围内较大社区的代表们提供了审查和评价的时间保障，他们可以增加观点、提出疑虑，从而提高了标准。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The spec is a well-organized document that presents details and examples of common topic and element types without overwhelming the readers with a force-feed of its &lt;t4/&gt;193 &lt;t5/&gt;XML tags.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T023843Z" creationid="lenovo" creationdate="20200812T023843Z">
+        <seg>该规范是一个组织良好的文档，提供了常见主题和元素类型的详细信息和示例，而没有强制用户了解195种XML标记，不至于让他们接受无能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10919,6 +10935,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T124645Z" creationid="lenovo" creationdate="20200810T124645Z">
         <seg>• &lt;t0/&gt;介绍每节的内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;Map elements: &lt;t1/&gt;10, &lt;t2/&gt;including &lt;t3/&gt;&lt;map&gt;&lt;t4/&gt;, &lt;t5/&gt;&lt;navref&gt;&lt;t6/&gt;, and &lt;t7/&gt;&lt;topicref&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T023500Z" creationid="lenovo" creationdate="20200812T023500Z">
+        <seg>• &lt;t0/&gt;映射元素： &lt;t1/&gt;10, &lt;t2/&gt;包括 &lt;t3/&gt;&lt;map&gt;&lt;t4/&gt;, &lt;t5/&gt;&lt;navref&gt;&lt;t6/&gt;, 和 &lt;t7/&gt;&lt;topicref&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;Map group elements: &lt;t1/&gt;2, &lt;t2/&gt;consisting of &lt;t3/&gt;&lt;topicgroup&gt; &lt;t4/&gt;and &lt;t5/&gt;&lt;topichead&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T023618Z" creationid="lenovo" creationdate="20200812T023618Z">
+        <seg>• &lt;t0/&gt;映射组元素 &lt;t1/&gt;2, &lt;t2/&gt;包括 of &lt;t3/&gt;&lt;topicgroup&gt; &lt;t4/&gt;和 &lt;t5/&gt;&lt;topichead&gt;</seg>
       </tuv>
     </tu>
     <tu>
