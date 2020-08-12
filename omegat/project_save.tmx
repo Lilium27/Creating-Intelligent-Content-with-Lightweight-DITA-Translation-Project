@@ -2025,6 +2025,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Analysis (Examining Business Drivers).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T162540Z" creationid="DSS" creationdate="20200812T162527Z">
+        <seg>分析（检测业务驱动因素）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>And I have not heard from DITA or LwDITA practitioners who used their intelligent content knowledge for tiling the kitchen floor.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T114656Z" creationid="DSS" creationdate="20200811T114631Z">
@@ -2845,6 +2853,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T025821Z" creationid="lenovo" creationdate="20200810T025821Z">
         <seg>柯亨（当时是IBM的一技术文档工程师）和坎宁安（当时是德克萨斯理工大学专业技术写作方向的教授）记录手册的修辞惯例相当规范。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Collection (Creating or Gathering Content).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T162556Z" creationid="DSS" creationdate="20200812T162556Z">
+        <seg>聚合（创建或聚合内容），</seg>
       </tuv>
     </tu>
     <tu>
@@ -5463,6 +5479,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Includes decisions about business requirements, user experience, governance, and budget.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T162547Z" creationid="DSS" creationdate="20200812T162537Z">
+        <seg>包括关于业务需求、用户体验、管理和预算的决策。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Includes decisions about the sources of content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T162603Z" creationid="DSS" creationdate="20200812T162603Z">
+        <seg>包括关于内容来源的决策。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Information Mapping topic types: common topic types made up of IM sec&lt;t0/&gt;tion types (Priestley, 2012a).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T130444Z" creationid="DSS" creationdate="20200801T130444Z">
@@ -6195,6 +6227,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T131529Z" creationid="DSS" creationdate="20200801T131529Z">
         <seg>迈克尔·普里斯特利：当大家说“DITA 太复杂了”时，我们希望可以回答这个问题，“是哪个版本的 DITA?”我们设计了一个相当简单的基础版本，以及有更多的功能技术内容版本和完整版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Management (Improving Production Efficiency).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T162611Z" creationid="DSS" creationdate="20200812T162611Z">
+        <seg>管理（提高生产效率），包括关于选择内容标准和所用技术的决策。</seg>
       </tuv>
     </tu>
     <tu>
