@@ -1579,8 +1579,8 @@
       <tuv lang="en">
         <seg>A simplified ver&lt;t4/&gt;sion of DITA XML (XDITA) was the original LwDITA flavor and, for a few months after Priestley proposed this new standard, the only one.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T051440Z" creationid="lenovo" creationdate="20200812T051440Z">
-        <seg>DITA XML (XDITA)的简化版本是最初的LwDITA形态，在普里斯特利提出这个新标准后的几个月里，它是唯一的标准。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T051606Z" creationid="lenovo" creationdate="20200812T051440Z">
+        <seg>DITA XML (XDITA)的简化版本是最初的LwDITA风格，在普里斯特利提出这个新标准后的几个月里，它是唯一的标准。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9074,6 +9074,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T154847Z" creationid="DSS" creationdate="20200806T090721Z">
         <seg>第三个话题引自“关于”页面，展示厨师佩德罗的信息，我在&lt;t0/&gt;第&lt;t1/&gt;2&lt;t2/&gt;&lt;t3/&gt;章中介绍过该页面，见&lt;t4/&gt;图&lt;t5/&gt;5.4&lt;t6/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The three author&lt;t0/&gt;ing formats, or flavors, included in the initial release of LwDITA are not definitive and could expand to include additional lightweight markup languages based on audience feedback and interest from current or future members of the subcommit&lt;t1/&gt;tee.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T051838Z" creationid="lenovo" creationdate="20200812T051838Z">
+        <seg>LwDITA最初版本中包含的三种创作格式(或风格)并不是最终定版，它可以根据用户反馈和小组委员会当前或未来成员的兴趣扩展到包括其他轻量级标记语言。</seg>
       </tuv>
     </tu>
     <tu>
