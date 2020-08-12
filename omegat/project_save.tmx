@@ -3440,8 +3440,8 @@
       <tuv lang="en">
         <seg>Even before we started using the term “authoring formats” (which came from Eliot Kimber &lt;t0/&gt;一 &lt;t1/&gt;the ultimate expert on XML for technical communica&lt;t2/&gt;tion and a vital member of the DITA Technical Committee), in the Lightweight DITA subcommittee the analogy of flavors drove the development of mappings to represent DITA components in diverse markup languages.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T044956Z" creationid="lenovo" creationdate="20200812T044956Z">
-        <seg>在我们开始使用术语“编写格式”</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T050938Z" creationid="lenovo" creationdate="20200812T044956Z">
+        <seg>在我们开始使用术语“创作格式”前（这一概念由艾略特·金伯 （Eliot Kimber）提出 &lt;t0/&gt;—— &lt;t1/&gt;他是技术传播领域的XML专家同时还是DITA技术委员会的重要成员），在轻量级DITA的下属会议上，冰淇淋口味的比喻推动了映射的发展，以多种标记语言表示DITA组件。</seg>
       </tuv>
     </tu>
     <tu>
