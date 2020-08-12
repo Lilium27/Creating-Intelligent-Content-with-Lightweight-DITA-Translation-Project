@@ -5975,6 +5975,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Miller and Selzer analyzed rhetorical topics as repetitive but useful patterns of speech in the fol&lt;t0/&gt;lowing paragraph:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T014457Z" creationid="lenovo" creationdate="20200812T014457Z">
+        <seg>米勒和塞尔泽将修辞主题分析为一种重复但有用的讲话模式，如下所示：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Minimalism was one of the big influences on DITA, but I first received the influence filtered through guidelines written by others, including the editorial standards in the IBM publication Developing Quality Technical Information.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T005324Z" creationid="lenovo" creationdate="20200804T005324Z">
@@ -9540,6 +9548,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T151721Z" creationid="DSS" creationdate="20200803T151721Z">
         <seg>用 XDITA 编写的话题和地图与根据 DITA 标准&lt;t1/&gt;1.3&lt;t2/&gt;版本创建的内容完全兼容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Topics can thus be conceived, alternatively, as pigeonholes for locating already existing ideas or as patterns of thought or methods of analysis that can be called on in the construction of arguments.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T015329Z" creationid="lenovo" creationdate="20200812T015329Z">
+        <seg>因此，主题可以构思得来，或者说是像鸽笼</seg>
       </tuv>
     </tu>
     <tu>
