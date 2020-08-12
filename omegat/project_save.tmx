@@ -2057,6 +2057,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Analyzing business needs: gather business requirements, analyze content lifecycle, conduct content audit, and analyze existing content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T165243Z" creationid="DSS" creationdate="20200812T165243Z">
+        <seg>分析业务需求：收集业务需求，分析内容生命周期，进行内容审计，分析现有内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Analyzing customer needs: gather user requirements, define personas and scenarios, and identify device constraints.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T165237Z" creationid="DSS" creationdate="20200812T165237Z">
+        <seg>分析用户需求：收集用户需求，定义人物画像和使用场景，发现设备的限制条件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>And I have not heard from DITA or LwDITA practitioners who used their intelligent content knowledge for tiling the kitchen floor.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T114656Z" creationid="DSS" creationdate="20200811T114631Z">
@@ -3076,6 +3092,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creating unified processes (work flow and governance): define workflow and define governance.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T170519Z" creationid="DSS" creationdate="20200812T170519Z">
+        <seg>创建统一的工作流程：定义工作流和管理方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creative communicator</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T125156Z" creationid="DSS" creationdate="20200811T124804Z">
@@ -3321,6 +3345,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T130854Z" creationid="lenovo" creationdate="20200810T130854Z">
         <seg>开发高质量技术信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Developing an information architecture (the content strategy road map): build content models and define metadata that describe the content, define reuse strategy, and define adaptive content strategy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T165248Z" creationid="DSS" creationdate="20200812T165248Z">
+        <seg>开发信息体系结构（内容策略路线图）：建立内容模型，定义描述内容的元数据，定义复用策略，定义自适应内容策略。</seg>
       </tuv>
     </tu>
     <tu>
