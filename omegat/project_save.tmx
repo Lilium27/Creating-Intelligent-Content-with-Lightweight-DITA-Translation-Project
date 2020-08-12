@@ -4047,6 +4047,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Going back to the story of Chef Pedro from &lt;t8/&gt;Chapter &lt;t9/&gt;1&lt;t10/&gt;, &lt;t11/&gt;a topic type from the base edition would look as &lt;t12/&gt;Figure &lt;t13/&gt;2.2&lt;t14/&gt;, &lt;t15/&gt;which includes biographical information on Chef Pedro.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T033153Z" creationid="lenovo" creationdate="20200812T033153Z">
+        <seg>回到 &lt;t8/&gt;第一&lt;t9/&gt;章&lt;t10/&gt;中佩德罗的故事，基本版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Gone are the days when the manual was binding the academic and practitioner camps of technical com&lt;t1/&gt;munication as they worked towards the advancement of this common genre.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T082040Z" creationid="lenovo" creationdate="20200723T082040Z">
@@ -11445,8 +11453,8 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;“The base edition is designed for application developers and people who need only the most fundamental pieces of the DITA framework”</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T031501Z" creationid="lenovo" creationdate="20200812T031501Z">
-        <seg>• &lt;t0/&gt;基本版是为应用程序开发人员和只需要DITA框架最基本部分的人设计的。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T033158Z" creationid="lenovo" creationdate="20200812T031501Z">
+        <seg>• &lt;t0/&gt;基础版是为应用程序开发人员和只需要DITA框架最基本部分的人设计的。</seg>
       </tuv>
     </tu>
     <tu>
