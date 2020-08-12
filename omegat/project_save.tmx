@@ -3552,8 +3552,8 @@
       <tuv lang="en">
         <seg>FIGURE 2.2 &lt;t0/&gt;DITA topic including biographical information about Chef Pedro.&lt;t1/&gt; The topic's elements include simple structures like a title, a short description, and a body containing paragraphs.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T034807Z" creationid="lenovo" creationdate="20200812T034807Z">
-        <seg>图 2.2 &lt;t0/&gt;包含佩德罗传记信息的DITA主题。&lt;t1/&gt;主题的元素包括简单结构，如标题、简短描述和包含段落的主体。 </seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T034825Z" creationid="lenovo" creationdate="20200812T034807Z">
+        <seg>图 2.2 &lt;t0/&gt;包含佩德罗传记信息的DITA主题。&lt;t1/&gt;主题的元素包括简单结构，如标题、简短描述和包含段落的正文。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -10097,6 +10097,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When placed with other topics in a collection and processed by a DITA-aware software tool (I will talk more about tools in &lt;t4/&gt;Chapter 5&lt;t5/&gt;), this biographic introduction can inherit any formatting rules and become a page or section in a print magazine or book, a page or blurb on a website, and many other end-user deliverables depending on the author's publishing goals.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T035409Z" creationid="lenovo" creationdate="20200812T035409Z">
+        <seg>当这一传记介绍同其他主题被放在一个集合中，并由可识别DITA软件工具（ &lt;t4/&gt;第五章&lt;t5/&gt;我会详细阐述）进行处理时，这一介绍信息能继承任意格式规则，可以成为纸质杂志或书籍的一页或一章、网站上的网页或宣传信息以及其他多种终端用户的交付物，呈现形式取决于作者的出版目标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When talking about covering concepts of computing outside of computer sci&lt;t0/&gt;ence courses, Perkovic et al.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T130241Z" creationid="DSS" creationdate="20200811T115455Z">
@@ -10541,6 +10549,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T035811Z" creationid="DSS" creationdate="20200726T071354Z">
         <seg>一个网页交付物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the topic's body (&lt;t0/&gt;&lt;body&gt;), &lt;t1/&gt;and some paragraphs (&lt;t2/&gt;&lt;p&gt;&lt;t3/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T034844Z" creationid="lenovo" creationdate="20200812T034844Z">
+        <seg>主题的正文 (&lt;t0/&gt;&lt;body&gt;), &lt;t1/&gt;以及段落(&lt;t2/&gt;&lt;p&gt;&lt;t3/&gt;).</seg>
       </tuv>
     </tu>
     <tu>
