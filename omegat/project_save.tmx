@@ -2497,6 +2497,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Before Intelligent Content, There Was the Computer Manual &lt;t0/&gt;55 &lt;t1/&gt;needs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T022347Z" creationid="lenovo" creationdate="20200812T022347Z">
+        <seg>智能内容出现前,计算机手册占据主导</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before describing the LwDITA topical conventions and tracking how they evolved from DITA &lt;t0/&gt;1.3 &lt;t1/&gt;elements and produced their own offspring in the LwDITA three core authoring formats, the following section looks at the evo&lt;t2/&gt;lution of DITA as documented in the OASIS public email list and meeting minutes archive.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T130405Z" creationid="DSS" creationdate="20200730T122831Z">
@@ -3390,6 +3398,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Even in its version &lt;t2/&gt;1.0, &lt;t3/&gt;the stand&lt;t4/&gt;ard had a total of &lt;t5/&gt;193 &lt;t6/&gt;element types.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T022527Z" creationid="lenovo" creationdate="20200812T022451Z">
+        <seg>即使是在&lt;t2/&gt;1.0版本中，标准中就已经有了&lt;t5/&gt;193 &lt;t6/&gt;中元素类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Even today,  they still have the plastic on them in libraries.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T084729Z" creationid="DSS" creationdate="20200730T084729Z">
@@ -4171,6 +4187,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200802T075232Z" creationid="lenovo" creationdate="20200802T075232Z">
         <seg>当卡罗尔面临杀死手册的指控时，她是如何自辩的？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, DITA was born a heavy spec.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T022459Z" creationid="lenovo" creationdate="20200812T022359Z">
+        <seg>然而，DITA生来就是一个庞杂的规范。</seg>
       </tuv>
     </tu>
     <tu>
