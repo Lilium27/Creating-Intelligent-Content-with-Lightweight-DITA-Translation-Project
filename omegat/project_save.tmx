@@ -4919,6 +4919,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In &lt;t1/&gt;Chapter &lt;t2/&gt;8&lt;t3/&gt;, &lt;t4/&gt;I introduce a model for content development with LwDITA that fosters rhe&lt;t5/&gt;torical effectiveness through context-setting metadata and human-in-the-loop (HITL) requirements for automation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T143406Z" creationid="DSS" creationdate="20200812T143406Z">
+        <seg>在第八章中，我将介绍一个使用 LwDITA 进行内容开发的模型，该模型通过上下文元数据和人类参与机器自动化循环训练（HITL）来提升修辞效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In &lt;t5/&gt;Chapter &lt;t6/&gt;1&lt;t7/&gt;, &lt;t8/&gt;I mentioned that Chef Pedro probably needed a DITA-based content model that allowed authors to specialize a &lt;t9/&gt;&lt;task&gt; &lt;t10/&gt;into a &lt;t11/&gt;&lt;recipe&gt;&lt;t12/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095919Z" creationid="DSS" creationdate="20200730T095919Z">
@@ -5187,6 +5195,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T131358Z" creationid="DSS" creationdate="20200730T131358Z">
         <seg>简而言之，一些新用户（特别是那些职业不是技术写作人员的用户）不一定需要体验完整版 DITA 的功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In some cases, LwDITA authors cannot control all the use and reuse cases of their con&lt;t0/&gt;tent, but rhetorical effectiveness should be an aspirational value in intelligent content workflows at the planning, authoring and evaluating levels.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T142527Z" creationid="DSS" creationdate="20200812T142527Z">
+        <seg>在某些情况下，LwDITA 作者无法控制内容所有的使用和复用情境，但修辞效果应该对智能内容工作流中的规划、写作和评估阶段有着振奋人心的价值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7151,6 +7167,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T084603Z" creationid="DSS" creationdate="20200806T084603Z">
         <seg>重新讨论 DITA 地图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rhetorical effectiveness establishes successful context and also helps to envision the future of a content repository.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T142521Z" creationid="DSS" creationdate="20200812T142521Z">
+        <seg>修辞效果建立了有效的上下文信息，也有助于展望内容存储库的未来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rhetorical effectiveness plays an important role in the application of LwDITA as an agent of intelligent content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T142515Z" creationid="DSS" creationdate="20200812T142515Z">
+        <seg>LwDITA 是创建智能内容的媒介，而修辞效果在 LwDITA 的应用中扮演着重要角色。</seg>
       </tuv>
     </tu>
     <tu>
