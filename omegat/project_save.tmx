@@ -2449,6 +2449,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bailie &lt;t0/&gt;&amp; &lt;t1/&gt;Urbina's content lifecycle model, for example, is built on a structure of four quadrants that represent the stages of &lt;t2/&gt;1) &lt;t3/&gt;analysis, &lt;t4/&gt;2) &lt;t5/&gt;collection, &lt;t6/&gt;3) &lt;t7/&gt;management, and &lt;t8/&gt;4) &lt;t9/&gt;publication (which includes “post-publication maintenance”) followed by a loop back to analysis for the next cycle.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T161443Z" creationid="DSS" creationdate="20200812T161443Z">
+        <seg>例如，拜利和厄比纳提出的内容生命周期模型构建在一个四象限结构上，四个象限分别表示以下阶段：1）分析、2）收集、3）管理和4）发布（包括“发布后的维护”阶段），经历完四个阶段后再从头分析，为下一个生命周期做准备。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Based on conversations with former and cur&lt;t0/&gt;rent IBM employees, I determined that the technical communicator could be &lt;t1/&gt;Susan Carpenter, who is now a senior manager of technical documentation at Red Hat and “led the first pilot of DITA with IBM WebSphere Application Server docs” (DITAWriter, &lt;t2/&gt;2016).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T155622Z" creationid="lenovo" creationdate="20200804T065532Z">
@@ -3321,6 +3329,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T113011Z" creationid="DSS" creationdate="20200803T113011Z">
         <seg>每个小组都要负责撰写简介，并建立自己所代表的行业或部门所需的基本 DITA 内容和元素类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each quadrant involves some deci&lt;t10/&gt;sions for humans behind the content-development process.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T161503Z" creationid="DSS" creationdate="20200812T161503Z">
+        <seg>每个象限都包含了内容开发过程中的人类决策。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8930,6 +8946,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T151644Z" creationid="DSS" creationdate="20200803T151644Z">
         <seg>在最初的版本中，提议的标准只关注两种</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The quadrants, and related decisions, included in Bailie &lt;t0/&gt;&amp; &lt;t1/&gt;Urbina's content lifecycle are as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T161848Z" creationid="DSS" creationdate="20200812T161848Z">
+        <seg>拜利和厄比纳提出的内容生命周期模型所包含的象限和相关决策如下：</seg>
       </tuv>
     </tu>
     <tu>
