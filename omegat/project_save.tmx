@@ -174,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>237-241).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T162649Z" creationid="DSS" creationdate="20200812T162649Z">
+        <seg>237-241)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>3)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T084924Z" creationid="DSS" creationdate="20200731T084924Z">
@@ -5487,10 +5495,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Includes decisions about the adoption of content standards and technologies.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T163639Z" creationid="DSS" creationdate="20200812T163639Z">
+        <seg>包括关于选择内容标准和所用技术的决策。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Includes decisions about the sources of content.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T162603Z" creationid="DSS" creationdate="20200812T162603Z">
         <seg>包括关于内容来源的决策。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Includes decisions related to “all the aspects of content that happen after the authoring is done and the content is ready to be sent to its destination”&lt;t0/&gt;(&lt;t1/&gt;Bailie &lt;t2/&gt;&amp; &lt;t3/&gt;Urbina, 2013, pp.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T162642Z" creationid="DSS" creationdate="20200812T162642Z">
+        <seg>包括“在创作完成后，准备将内容发送给目标用户时”与内容的方方面面相关的决策 &lt;t0/&gt;(&lt;t1/&gt;Bailie &lt;t2/&gt;&amp; &lt;t3/&gt;Urbina, 2013, pp.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6233,8 +6257,8 @@
       <tuv lang="en">
         <seg>Management (Improving Production Efficiency).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T162611Z" creationid="DSS" creationdate="20200812T162611Z">
-        <seg>管理（提高生产效率），包括关于选择内容标准和所用技术的决策。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T162652Z" creationid="DSS" creationdate="20200812T162611Z">
+        <seg>管理（提高生产效率），</seg>
       </tuv>
     </tu>
     <tu>
@@ -7175,6 +7199,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T032649Z" creationid="lenovo" creationdate="20200812T032649Z">
         <seg>提供DITA &lt;t0/&gt;1.3 &lt;t1/&gt;中包含的内容和元素类型的详细解释或教程已经超出了使用轻量级DITA创建智能内容的范围</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Publication (More than Presentation).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T162623Z" creationid="DSS" creationdate="20200812T162623Z">
+        <seg>发布（不仅仅是呈现内容），</seg>
       </tuv>
     </tu>
     <tu>
