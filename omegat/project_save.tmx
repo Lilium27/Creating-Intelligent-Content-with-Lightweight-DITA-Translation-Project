@@ -5007,6 +5007,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In practice, these alternative versions are conjoined: by learning a mechanical system of pigeonholes, one masters patterns of thought that then become habitual and spontaneous.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T020640Z" creationid="lenovo" creationdate="20200812T020640Z">
+        <seg>再实践中，这些方式常组合使用：通过学习文件格的机械系统</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In previous chapters, I have highlighted the role of LwDITA code as an important component of a content-development workflow built on principles of computational thinking.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T122439Z" creationid="DSS" creationdate="20200810T122439Z">
