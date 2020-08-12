@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>243).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T164322Z" creationid="DSS" creationdate="20200812T164322Z">
+        <seg>243)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>3)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T084924Z" creationid="DSS" creationdate="20200731T084924Z">
@@ -2461,6 +2469,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T134820Z" creationid="DSS" creationdate="20200810T134807Z">
         <seg>早在2004年，大卫·代顿就提出了“两大断层线”的想法，在技术传播领域制造了紧张气氛：一个断层线在学者和从业者之间，另一个断层线在学术界内部：一个阵营关注一般性修辞，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bailie &amp; Urbina emphasize that their model is software-agnostic (“The stages of the lifecycle address a comprehensive set of issues that must be addressed no matter what software is adopted”), extensible (“The cycle is not limited to content within a silo, whether a departmental silo or genre silo), and iterative (“Content lives on through multiple iterations, whether the iteration is a trans&lt;t0/&gt;lation, a revision, or other type of variant”) (2013, p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T163651Z" creationid="DSS" creationdate="20200812T163651Z">
+        <seg>拜利和厄比纳强盗他们的模型与软件无关（“无论采用什么软件，生命周期的各个阶段会处理一系列必须要处理的综合问题”），是可扩展的（“生命周期并不局限于某一个存储库里的内容，不管是是部门存储库还是类型存储库都适用”），可迭代的（“内容通过多次迭代保持活力，迭代方式包括翻译、修订以及其他变体”）(2013, p.</seg>
       </tuv>
     </tu>
     <tu>
