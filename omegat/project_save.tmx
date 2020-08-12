@@ -3903,6 +3903,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For version &lt;t0/&gt;1.3 &lt;t1/&gt;of the DITA spec, the Technical Committee actually sepa&lt;t2/&gt;rated the standard's &lt;t3/&gt;621 &lt;t4/&gt;available elements in three editions: base (with &lt;t5/&gt;189 &lt;t6/&gt;elements), technical content (including the elements from the base edition and &lt;t7/&gt;251 &lt;t8/&gt;additional elements), and all inclusive (including the elements from base, technical content, and &lt;t9/&gt;181 &lt;t10/&gt;additional elements).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T030839Z" creationid="lenovo" creationdate="20200812T030839Z">
+        <seg>在1.3版本&lt; t0 / &gt; &lt; t1 / &gt;的DITA规范中，技术委员会将标准中可用的621中可用元素划分成了三版：基础版（含&lt;t5/&gt;189 &lt;t6/&gt;个元素），技术内容版（含基础版的元素及&lt;t7/&gt;251 &lt;t8/&gt;个额外元素），全包版（包括基础版和技术内容版的元素及&lt;t9/&gt;181 &lt;t10/&gt;个额外元素）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Format-free &lt;t0/&gt;content “does not include presentation information, such as instructions about fonts, column widths, or text placement.” The sep&lt;t1/&gt;aration of format and content is essential for multichannel publishing, and the layer of abstraction provided by a desktop publishing applica&lt;t2/&gt;tion in this regard can be a dangerous one.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T143333Z" creationid="DSS" creationdate="20200811T142749Z">
@@ -8752,8 +8760,8 @@
       <tuv lang="en">
         <seg>The spec is a well-organized document that presents details and examples of common topic and element types without overwhelming the readers with a force-feed of its &lt;t4/&gt;193 &lt;t5/&gt;XML tags.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T023843Z" creationid="lenovo" creationdate="20200812T023843Z">
-        <seg>该规范是一个组织良好的文档，提供了常见主题和元素类型的详细信息和示例，而没有强制用户了解195种XML标记，不至于让他们接受无能。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T023920Z" creationid="lenovo" creationdate="20200812T023843Z">
+        <seg>该规范是一个组织良好的文档，提供了常见主题和元素类型的详细信息和示例，而没有强制用户了解195种XML标记，不至于让他们被大量标签淹没。</seg>
       </tuv>
     </tu>
     <tu>
