@@ -7315,6 +7315,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some of those original element types are now deprecated, but the specification for DITA &lt;t7/&gt;1.0, &lt;t8/&gt;edited by Michael Priestley and JoAnn Hackos, included the following elements and categories:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T022636Z" creationid="lenovo" creationdate="20200812T022636Z">
+        <seg>其中一些原始的元素类型现在已经过时了，但是由迈克尔·普里斯特利和乔安·哈克斯编辑的DITA &lt;t7/&gt;1.0&lt;t8/&gt;规范包含了以下元素和类别：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Someone mentioned structured authoring with XML and that caught Chef Pedro's attention.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153510Z" creationid="DSS" creationdate="20200726T153510Z">
@@ -10794,6 +10802,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>• &lt;t0/&gt;Body elements: &lt;t1/&gt;29, &lt;t2/&gt;including &lt;t3/&gt;&lt;ol&gt;&lt;t4/&gt;, &lt;t5/&gt;&lt;p&gt;, &lt;t6/&gt;and &lt;t7/&gt;&lt;ul&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T022829Z" creationid="lenovo" creationdate="20200812T022829Z">
+        <seg>• &lt;t0/&gt;正文元素：&lt;t1/&gt;29, &lt;t2/&gt;包括 &lt;t3/&gt;&lt;ol&gt;&lt;t4/&gt;, &lt;t5/&gt;&lt;p&gt;, &lt;t6/&gt;和 &lt;t7/&gt;&lt;ul&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>• &lt;t0/&gt;Chef Pedro's critique of the recipe (structured as a DITA concept)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150154Z" creationid="DSS" creationdate="20200725T151810Z">
@@ -10806,6 +10822,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150204Z" creationid="DSS" creationdate="20200725T151843Z">
         <seg>&lt;t0/&gt;• 介绍厨师佩德罗的“关于”页面，包含人生经历和专业信息（以 DITA 概念（concept）话题的结构编写）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;Concept elements: &lt;t1/&gt;2, &lt;t2/&gt;consisting of &lt;t3/&gt;&lt;concept&gt; &lt;t4/&gt;and &lt;t5/&gt;&lt;conbody&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T022722Z" creationid="lenovo" creationdate="20200812T022722Z">
+        <seg>• &lt;t0/&gt;概念元素： &lt;t1/&gt;2, &lt;t2/&gt; 包括 &lt;t3/&gt;&lt;concept&gt; &lt;t4/&gt;和 &lt;t5/&gt;&lt;conbody&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10955,6 +10979,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>• &lt;t0/&gt;Reference elements: &lt;t1/&gt;12, &lt;t2/&gt;including &lt;t3/&gt;&lt;reference&gt;&lt;t4/&gt;, &lt;t5/&gt;&lt;refbody&gt;&lt;t6/&gt;, and &lt;t7/&gt;&lt;refsyn&gt; &lt;t8/&gt;• &lt;t9/&gt;Task elements: &lt;t10/&gt;25, &lt;t11/&gt;including &lt;t12/&gt;&lt;task&gt;&lt;t13/&gt;, &lt;t14/&gt;&lt;taskbody&gt;&lt;t15/&gt;, and &lt;t16/&gt;&lt;steps&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T022803Z" creationid="lenovo" creationdate="20200812T022803Z">
+        <seg>• &lt;t0/&gt;参考元素：&lt;t1/&gt;12, &lt;t2/&gt;包括 &lt;t3/&gt;&lt;reference&gt;&lt;t4/&gt;, &lt;t5/&gt;&lt;refbody&gt;&lt;t6/&gt;, 和 &lt;t7/&gt;&lt;refsyn&gt; &lt;t8/&gt;• &lt;t9/&gt;任务元素： &lt;t10/&gt;25, &lt;t11/&gt;包括 &lt;t12/&gt;&lt;task&gt;&lt;t13/&gt;, &lt;t14/&gt;&lt;taskbody&gt;&lt;t15/&gt;, 和 &lt;t16/&gt;&lt;steps&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>• &lt;t0/&gt;Show people how to get out</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T124751Z" creationid="lenovo" creationdate="20200810T124751Z">
@@ -11023,6 +11055,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T030038Z" creationid="lenovo" creationdate="20200811T030038Z">
         <seg>• &lt;t0/&gt;用户更倾向于在Google和其他搜索引擎上查找信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;Topic elements: &lt;t1/&gt;11, &lt;t2/&gt;including &lt;t3/&gt;&lt;dita&gt;, &lt;topic&gt;&lt;t4/&gt;, and &lt;t5/&gt;&lt;title&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T022726Z" creationid="lenovo" creationdate="20200812T022654Z">
+        <seg>• &lt;t0/&gt;主题元素：&lt;t1/&gt;11, &lt;t2/&gt;包括 &lt;t3/&gt;&lt;dita&gt;, &lt;topic&gt;&lt;t4/&gt;, 和 &lt;t5/&gt;&lt;title&gt;</seg>
       </tuv>
     </tu>
     <tu>
