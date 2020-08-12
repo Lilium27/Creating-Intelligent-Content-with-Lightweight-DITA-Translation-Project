@@ -3440,8 +3440,8 @@
       <tuv lang="en">
         <seg>Even before we started using the term “authoring formats” (which came from Eliot Kimber &lt;t0/&gt;一 &lt;t1/&gt;the ultimate expert on XML for technical communica&lt;t2/&gt;tion and a vital member of the DITA Technical Committee), in the Lightweight DITA subcommittee the analogy of flavors drove the development of mappings to represent DITA components in diverse markup languages.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T050938Z" creationid="lenovo" creationdate="20200812T044956Z">
-        <seg>在我们开始使用术语“创作格式”前（这一概念由艾略特·金伯 （Eliot Kimber）提出 &lt;t0/&gt;—— &lt;t1/&gt;他是技术传播领域的XML专家同时还是DITA技术委员会的重要成员），在轻量级DITA的下属会议上，冰淇淋口味的比喻推动了映射的发展，以多种标记语言表示DITA组件。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T051016Z" creationid="lenovo" creationdate="20200812T044956Z">
+        <seg>在我们开始使用术语“创作格式”前（这一概念由艾略特·金伯 （Eliot Kimber）提出 &lt;t0/&gt;—— &lt;t1/&gt;他是技术传播领域的XML专家同时还是DITA技术委员会的重要成员），在轻量级DITA的小组委员会上，冰淇淋口味的比喻推动了映射的发展，以多种标记语言表示DITA组件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8994,6 +8994,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T155947Z" creationid="lenovo" creationdate="20200810T155730Z">
         <seg>&lt;t11/&gt;PQTI&lt;t12/&gt; 的结构就是围绕着质量要求列表构建的，当谈论每个要求时，标准模式都需要展示两个示例：一个是常见错误，另一个则展示如何纠正错误并“提高质量。”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The subcommit&lt;t3/&gt;tee evaluated the possibility of presenting several ways to represent the most useful DITA components for broader categories of authors.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T051307Z" creationid="lenovo" creationdate="20200812T051125Z">
+        <seg>小组委员会评估了为更多种类作者提供几种代表最实用DITA组件方法的可能性。</seg>
       </tuv>
     </tu>
     <tu>
