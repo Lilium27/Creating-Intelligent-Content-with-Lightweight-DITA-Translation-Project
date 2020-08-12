@@ -1577,6 +1577,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A simplified ver&lt;t4/&gt;sion of DITA XML (XDITA) was the original LwDITA flavor and, for a few months after Priestley proposed this new standard, the only one.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T051440Z" creationid="lenovo" creationdate="20200812T051440Z">
+        <seg>DITA XML (XDITA)的简化版本是最初的LwDITA形态，在普里斯特利提出这个新标准后的几个月里，它是唯一的标准。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A starting point to assess that knowledge can come from the International Society for Technology in Education (ISTE) Standards for Students, which include a rubric to standardize the assessment of com&lt;t1/&gt;putational thinking across the curriculum.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T124548Z" creationid="DSS" creationdate="20200811T124548Z">
@@ -8441,6 +8449,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T081206Z" creationid="lenovo" creationdate="20200804T074920Z">
         <seg>固定的内容类型一直是DITA XML的一部分，从IBM创建以来就一直拥抱进化：作者可以利用包含在DITA标准中的默认的元素和属性来写作，比如说撰写任务主题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The flavors mapping DITA components to HTML5 and Markdown (HDITA and MDITA, respectively) followed, but the committee also considered mappings to JSON, AsciiDoc, reStructuredText, and even Microsoft Word.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T051517Z" creationid="lenovo" creationdate="20200812T051517Z">
+        <seg>接着是DITA组件到HTML5和Markdown(分别是HDITA和MDITA)的映射，但是委员会也考虑了到JSON、AsciiDoc、reStructuredText，甚至Microsoft Word的映射。</seg>
       </tuv>
     </tu>
     <tu>
