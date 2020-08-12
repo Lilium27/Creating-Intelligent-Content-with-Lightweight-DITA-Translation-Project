@@ -10931,6 +10931,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>• &lt;t0/&gt;Miscellaneous elements: &lt;t1/&gt;5, &lt;t2/&gt;including &lt;t3/&gt;&lt;draft-comment&gt;&lt;t4/&gt;, &lt;t5/&gt;&lt;fn&gt;&lt;t6/&gt;, and &lt;t7/&gt;&lt;indexterm&gt; &lt;t8/&gt;• &lt;t9/&gt;Prolog elements: &lt;t10/&gt;27, &lt;t11/&gt;including &lt;t12/&gt;&lt;audience&gt;&lt;t13/&gt;, &lt;t14/&gt;&lt;author&gt;&lt;t15/&gt;, and &lt;t16/&gt;&lt;platform&gt; &lt;t17/&gt;• &lt;t18/&gt;Related links elements: &lt;t19/&gt;5, &lt;t20/&gt;including &lt;t21/&gt;&lt;link&gt;&lt;t22/&gt;, &lt;t23/&gt;&lt;linkinfo&gt;&lt;t24/&gt;, and &lt;t25/&gt;&lt;linktext&gt; &lt;t26/&gt;• &lt;t27/&gt;Specialization elements: &lt;t28/&gt;6, &lt;t29/&gt;including &lt;t30/&gt;&lt;boolean&gt;&lt;t31/&gt;, &lt;t32/&gt;&lt;no-topic-nesting&gt;&lt;t33/&gt;, and &lt;t34/&gt;&lt;required-cleanup&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T023436Z" creationid="lenovo" creationdate="20200812T023436Z">
+        <seg>• &lt;t0/&gt;其他元素：&lt;t1/&gt;5, &lt;t2/&gt;包括 &lt;t3/&gt;&lt;draft-comment&gt;&lt;t4/&gt;, &lt;t5/&gt;&lt;fn&gt;&lt;t6/&gt;, 和 &lt;t7/&gt;&lt;indexterm&gt; &lt;t8/&gt;• &lt;t9/&gt;Prolog元素： &lt;t10/&gt;27, &lt;t11/&gt;包括 &lt;t12/&gt;&lt;audience&gt;&lt;t13/&gt;, &lt;t14/&gt;&lt;author&gt;&lt;t15/&gt;, 和 &lt;t16/&gt;&lt;platform&gt; &lt;t17/&gt;• &lt;t18/&gt; 相关链接元素：&lt;t19/&gt;5, &lt;t20/&gt;包括 &lt;t21/&gt;&lt;link&gt;&lt;t22/&gt;, &lt;t23/&gt;&lt;linkinfo&gt;&lt;t24/&gt;, 和 &lt;t25/&gt;&lt;linktext&gt; &lt;t26/&gt;• &lt;t27/&gt; 专门化元素：&lt;t28/&gt;6, &lt;t29/&gt;包括 &lt;t30/&gt;&lt;boolean&gt;&lt;t31/&gt;, &lt;t32/&gt;&lt;no-topic-nesting&gt;&lt;t33/&gt;, 和 &lt;t34/&gt;&lt;required-cleanup&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>• &lt;t0/&gt;Multimedia components.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T061856Z" creationid="DSS" creationdate="20200808T061856Z">
@@ -10959,6 +10967,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T070111Z" creationid="lenovo" creationdate="20200810T070111Z">
         <seg>• &lt;t0/&gt;显示故障排除表 (Cohen &lt;t1/&gt;&amp; &lt;t2/&gt;Cunningham, &lt;t3/&gt;1984).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;Programming elements: &lt;t1/&gt;25, &lt;t2/&gt;including &lt;t3/&gt;&lt;codeblock&gt;&lt;t4/&gt;, &lt;t5/&gt;&lt;apiname&gt;&lt;t6/&gt;, and &lt;t7/&gt;&lt;syntaxdiagram&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T023012Z" creationid="lenovo" creationdate="20200812T023012Z">
+        <seg>• &lt;t0/&gt;编程元素：&lt;t1/&gt;25, &lt;t2/&gt;包括 &lt;t3/&gt;&lt;codeblock&gt;&lt;t4/&gt;, &lt;t5/&gt;&lt;apiname&gt;&lt;t6/&gt;, 和 &lt;t7/&gt;&lt;syntaxdiagram&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10995,6 +11011,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>• &lt;t0/&gt;Software elements: &lt;t1/&gt;8, &lt;t2/&gt;including &lt;t3/&gt;&lt;varname&gt;&lt;t4/&gt;, &lt;t5/&gt;&lt;userinput&gt;&lt;t6/&gt;, and &lt;t7/&gt;&lt;systemoutput&gt; &lt;t8/&gt;• &lt;t9/&gt;User interface elements: &lt;t10/&gt;5, &lt;t11/&gt;including &lt;t12/&gt;&lt;wintitle&gt;&lt;t13/&gt;, &lt;t14/&gt;&lt;menucascade&gt;&lt;t15/&gt;, and &lt;t16/&gt;&lt;screen&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T023043Z" creationid="lenovo" creationdate="20200812T023043Z">
+        <seg>• &lt;t0/&gt;软件元素：&lt;t1/&gt;8, &lt;t2/&gt;包括 &lt;t3/&gt;&lt;varname&gt;&lt;t4/&gt;, &lt;t5/&gt;&lt;userinput&gt;&lt;t6/&gt;, 和 &lt;t7/&gt;&lt;systemoutput&gt; &lt;t8/&gt;• &lt;t9/&gt;用户界面元素： &lt;t10/&gt;5, &lt;t11/&gt;包括 &lt;t12/&gt;&lt;wintitle&gt;&lt;t13/&gt;, &lt;t14/&gt;&lt;menucascade&gt;&lt;t15/&gt;, 和 &lt;t16/&gt;&lt;screen&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>• &lt;t0/&gt;Summarize</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T125258Z" creationid="lenovo" creationdate="20200810T125258Z">
@@ -11007,6 +11031,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T061831Z" creationid="DSS" creationdate="20200808T061831Z">
         <seg>· &lt;t0/&gt;表格组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;Table elements: &lt;t1/&gt;11, &lt;t2/&gt;including &lt;t3/&gt;&lt;table&gt;&lt;t4/&gt;, &lt;t5/&gt;&lt;row&gt;&lt;t6/&gt;, and &lt;t7/&gt;&lt;entry&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T022846Z" creationid="lenovo" creationdate="20200812T022846Z">
+        <seg>• &lt;t0/&gt;表格元素： &lt;t1/&gt;11, &lt;t2/&gt;包括 &lt;t3/&gt;&lt;table&gt;&lt;t4/&gt;, &lt;t5/&gt;&lt;row&gt;&lt;t6/&gt;, 和 &lt;t7/&gt;&lt;entry&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11063,6 +11095,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T022726Z" creationid="lenovo" creationdate="20200812T022654Z">
         <seg>• &lt;t0/&gt;主题元素：&lt;t1/&gt;11, &lt;t2/&gt;包括 &lt;t3/&gt;&lt;dita&gt;, &lt;topic&gt;&lt;t4/&gt;, 和 &lt;t5/&gt;&lt;title&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;Typographic elements: &lt;t1/&gt;6, &lt;t2/&gt;including &lt;t3/&gt;&lt;b&gt;&lt;t4/&gt;,&lt;t5/&gt;&lt;i&gt;&lt;t6/&gt;, and &lt;t7/&gt;&lt;u&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T022925Z" creationid="lenovo" creationdate="20200812T022925Z">
+        <seg>• &lt;t0/&gt; 排版元素：&lt;t1/&gt;6, &lt;t2/&gt;包括 &lt;t3/&gt;&lt;b&gt;&lt;t4/&gt;,&lt;t5/&gt;&lt;i&gt;&lt;t6/&gt;, 和 &lt;t7/&gt;&lt;u&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;Utilities elements: &lt;t1/&gt;4, &lt;t2/&gt;including &lt;t3/&gt;&lt;imagemap&gt;&lt;t4/&gt;, &lt;t5/&gt;&lt;area&gt;&lt;t6/&gt;, and &lt;t7/&gt;&lt;shape&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T023102Z" creationid="lenovo" creationdate="20200812T023102Z">
+        <seg>• &lt;t0/&gt;实用程序元素：&lt;t1/&gt;4, &lt;t2/&gt;包括 &lt;t3/&gt;&lt;imagemap&gt;&lt;t4/&gt;, &lt;t5/&gt;&lt;area&gt;&lt;t6/&gt;, 和 &lt;t7/&gt;&lt;shape&gt;</seg>
       </tuv>
     </tu>
     <tu>
