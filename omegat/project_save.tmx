@@ -5103,6 +5103,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In most of our conference presentations and webinars about LwDITA, Michael Priestley and I have described the authoring formats of this proposed content standard as ice cream flavors.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T044714Z" creationid="lenovo" creationdate="20200812T044714Z">
+        <seg>在我们关于LwDITA的大多数会议演示和网络研讨会中，我和迈克尔·普里斯特利将提议的内容标准的创作格式描述为冰淇淋的口味。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In my introductory technical writing courses, my students were using Markdown as a shorthand form for web writing.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T130017Z" creationid="DSS" creationdate="20200802T130017Z">
@@ -5955,6 +5963,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095411Z" creationid="DSS" creationdate="20200730T095411Z">
         <seg>LwDITA 的目标是提供轻量级 DITA 小组委员会成员研究出的对各部门和行业有用的最小数量的内容组件，以简化 DITA 创作和发布流程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LwDITA also makes DITA publishing workflows more inclusive and accessible, as it accommodates non-XML author&lt;t1/&gt;ing formats to address the needs of authors outside of the traditional technical documentation audience of DITA 1.0.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T044424Z" creationid="lenovo" creationdate="20200812T044424Z">
+        <seg>LwDITA还使DITA发布工作流更具包容性和可访问性，因为它适应了非XML创作格式，以满足DITA 1.0的传统技术文档读者之外的作者的需求。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7615,6 +7631,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T062845Z" creationid="DSS" creationdate="20200808T062834Z">
         <seg>智能内容背后的&lt;t0/&gt;抽象概念</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>THE LwDITA INITIAL AUTHORING&lt;t0/&gt; FORMATS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T044544Z" creationid="lenovo" creationdate="20200812T044544Z">
+        <seg>LwDITA初始创作&lt;t0/&gt;格式</seg>
       </tuv>
     </tu>
     <tu>
@@ -9626,6 +9650,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145802Z" creationid="DSS" creationdate="20200725T085014Z">
         <seg>该&lt;t1/&gt;输出物非常简洁，不需要专门的样式表，也不需要标定页码和排版。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Those are strong selling points that drive the next chapter.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T044525Z" creationid="lenovo" creationdate="20200812T044525Z">
+        <seg>这些都是下一章的强大卖点。</seg>
       </tuv>
     </tu>
     <tu>
