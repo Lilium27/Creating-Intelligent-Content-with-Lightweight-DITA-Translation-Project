@@ -8822,6 +8822,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The second line points out that the topic is not just a regular XML file, but that is complies with the structuring rules described in the docu&lt;t0/&gt;ment type definition (DTD) of “topic” from the DITA standard.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T034347Z" creationid="lenovo" creationdate="20200812T034347Z">
+        <seg>第二行指出，主题不仅仅是一个常规XML文件，而且它符合DITA标准中“主题”的文档类型定义(DTD)中描述的结构规则。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The second topic reference is the actual critique of the marinara sauce recipe, which can be structured as a DITA concept and look as &lt;t0/&gt;Figure &lt;t1/&gt;5.3&lt;t2/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T154811Z" creationid="DSS" creationdate="20200806T090529Z">
@@ -8954,6 +8962,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T155143Z" creationid="lenovo" creationdate="20200723T021125Z">
         <seg>卡罗尔所著的这本颇有影响力的书享有“传奇《纽伦堡漏斗》能让你瞬间开悟”的盛誉 &lt;t0/&gt;(1990, &lt;t1/&gt;p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The topic works as a simple template that separates content from presentation and leaves it ready to join a topic collection and be integrated into information products.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T034205Z" creationid="lenovo" creationdate="20200812T034205Z">
+        <seg>主题是一个简单的模板，将内容与形式分离，并且随时可以加入主题集从而集成进信息产品中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The topic's first line is the XML declaration that, as I tell my students, announces to the computing processors that the topic is an XML file and should be treated as such.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T034320Z" creationid="lenovo" creationdate="20200812T034320Z">
+        <seg>正如我告诉我的学生的那样，主题的首行XML声明，它告诉计算机此主题是一个XML文件，并且应该按XML文件处理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9434,6 +9458,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200808T072311Z" creationid="lenovo" creationdate="20200808T072311Z">
         <seg>这就有点类似于小说开头的“引子”；如果读者注意力没有被立即吸引，他就很可能会转换到其他一系列事务上，并且任何知识都有没学到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This means that if an author decides to include an XML tag that does not belong in the DITA topic DTD, the file will not validate and will report an error when processed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T034436Z" creationid="lenovo" creationdate="20200812T034436Z">
+        <seg>这意味着，如果作者在文件中包含不属于DITA主题DTD的XML标记，该文件将无效，并在处理时报错。</seg>
       </tuv>
     </tu>
     <tu>
