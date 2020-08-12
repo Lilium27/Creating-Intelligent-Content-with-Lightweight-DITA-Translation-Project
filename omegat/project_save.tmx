@@ -7187,6 +7187,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Recent models have proposed less linear and more iterative frameworks that focus on developing and implementing a recursive and overall content strategy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T161342Z" creationid="DSS" creationdate="20200812T161342Z">
+        <seg>最近的模型提出了更多的可迭代框架，这些框架关注于开发、实现可以不断发展的全面的内容策略，而线性框架已经越来越少。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reducing the amount of reading and other passive activity in training</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T074731Z" creationid="lenovo" creationdate="20200723T074731Z">
