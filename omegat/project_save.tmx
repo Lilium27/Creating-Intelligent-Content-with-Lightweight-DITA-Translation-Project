@@ -1897,6 +1897,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An Element for Every (Content) Occasion</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T021555Z" creationid="lenovo" creationdate="20200812T021555Z">
+        <seg>（内容）场景需要用到的元素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An Introduction to XML in Technical Communication</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153037Z" creationid="DSS" creationdate="20200726T153037Z">
@@ -6365,6 +6373,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T093336Z" creationid="DSS" creationdate="20200806T093336Z">
         <seg>下载与你计算机操作系统相对应的 DITA-OT 文件后，将该文件解压到你希望安装的路径即可。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>One could point out that the number of XML tags available in the DITA stand&lt;t0/&gt;ard is the result of years of committee-based development with active members representing different sectors and industries with unique content-structuring</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T022331Z" creationid="lenovo" creationdate="20200812T022331Z">
+        <seg>DITA标准中可用的XML标记的数量是以委员会为基础开发的结果，其活跃成员代表了不同行业和部分独特的内容架构。</seg>
       </tuv>
     </tu>
     <tu>
