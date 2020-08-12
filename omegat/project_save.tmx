@@ -6015,6 +6015,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LwDITA is a work in progress.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T051916Z" creationid="lenovo" creationdate="20200812T051916Z">
+        <seg>轻量级DITA仍在不断演化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LwDITA provides a low-barrier entry point for students in writing programs or humanities departments.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T122107Z" creationid="DSS" creationdate="20200811T122107Z">
