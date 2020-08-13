@@ -481,8 +481,8 @@
       <tuv lang="en">
         <seg>&lt;t1/&gt;Those fault lines are still threatening the field's foundation, and even prompted Carolyn Rude to pose the rhetorical question, “In trying to define our field as something more than adjunct to the computer industry engaged in vocational training, have we overcorrected?” &lt;t2/&gt;(2015, &lt;t3/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T140720Z" creationid="DSS" creationdate="20200810T140712Z">
-        <seg>这些断层线仍然威胁着技术传播领域的根基，甚至迫使卡罗琳·路德提反问到：“认为技术传播致力于职业培训，试图将技术传播定义为仅比计算机产业的附属物略微高级的领域，这是否矫枉过正了？”(2015, &lt;t3/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160521Z" creationid="DSS" creationdate="20200810T140712Z">
+        <seg>这些断层线仍然威胁着技术传播领域的根基，甚至迫使卡罗琳·路德提反问到：“认为技术传播致力于职业培训，试图将技术传播定义为仅比计算机产业的附属物略微高级的领域，这是否矫枉过正了？”&lt;t2/&gt;(2015, &lt;t3/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1299,8 +1299,8 @@
       <tuv lang="en">
         <seg>&lt;t6/&gt;Guzdial adds that “achieving the goals of applying computing ideas to facilitate computing work in other disci&lt;t7/&gt;plines is clearly achievable,” but “applying computing ideas in daily life is less likely” &lt;t8/&gt;(2016, &lt;t9/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T145652Z" creationid="DSS" creationdate="20200810T145652Z">
-        <seg>古齐亚尔补充说，“应用计算机思维来促进其他学科中的计算工作的目标显然是可以实现的，”但是“在日常生活中应用计算机是不太可能的”(2016, &lt;t9/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160534Z" creationid="DSS" creationdate="20200810T145652Z">
+        <seg>古齐亚尔补充说，“应用计算机思维来促进其他学科中的计算工作的目标显然是可以实现的，”但是“在日常生活中应用计算机是不太可能的”&lt;t8/&gt; (2016, &lt;t9/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2387,8 +2387,8 @@
       <tuv lang="en">
         <seg>As I mentioned in &lt;t0/&gt;Chapter &lt;t1/&gt;1&lt;t2/&gt;, &lt;t3/&gt;according to Rockley et al.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T145142Z" creationid="DSS" creationdate="20200811T140240Z">
-        <seg>正如我在第一章中提到的，根据罗克利等人的观点，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160705Z" creationid="DSS" creationdate="20200811T140240Z">
+        <seg>正如我在&lt;t0/&gt;第&lt;t1/&gt;一&lt;t2/&gt;&lt;t3/&gt;章中提到的，根据罗克利等人的观点，</seg>
       </tuv>
     </tu>
     <tu>
@@ -2683,8 +2683,8 @@
       <tuv lang="en">
         <seg>Back in &lt;t1/&gt;2004, &lt;t2/&gt;David Dayton identified “two major fault lines” creating tension in the profession of technical communication: one between academics and practitioners, and another among academics, with a camp focusing on rhetorical generalism and another identifying</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T134820Z" creationid="DSS" creationdate="20200810T134807Z">
-        <seg>早在2004年，大卫·代顿就提出了“两大断层线”的想法，在技术传播领域制造了紧张气氛：一个断层线在学者和从业者之间，另一个断层线在学术界内部：一个阵营关注一般性修辞，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160500Z" creationid="DSS" creationdate="20200810T134807Z">
+        <seg>早在&lt;t1/&gt;2004&lt;t2/&gt;年，大卫·代顿就提出了“两大断层线”的想法，在技术传播领域制造了紧张气氛：一个断层线在学者和从业者之间，另一个断层线在学术界内部：一个阵营关注一般性修辞，</seg>
       </tuv>
     </tu>
     <tu>
@@ -5065,8 +5065,8 @@
       <tuv lang="en">
         <seg>I argue that in a model of intelligent content with LwDITA built on principles of computational thinking, &lt;t13/&gt;machine automation cannot happen without human abstraction&lt;t14/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T131930Z" creationid="DSS" creationdate="20200810T131930Z">
-        <seg>我认为，在基于计算机思维原则的LwDITA的智能内容模型中，如果没有人类的抽象能力，就没有机器自动化。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160412Z" creationid="DSS" creationdate="20200810T131930Z">
+        <seg>我认为，在基于计算机思维原则的LwDITA的智能内容模型中，&lt;t13/&gt;如果没有人类的抽象能力，就没有机器自动化&lt;t14/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5257,8 +5257,8 @@
       <tuv lang="en">
         <seg>I would argue that students working on an intelligent content workflow with LwDITA could fulfill many of those standards, but for the purpose of &lt;t0/&gt;Creating Intelligent Content with Lightweight DITA&lt;t1/&gt; I will focus on the “Computational thinker” standard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T125716Z" creationid="DSS" creationdate="20200811T125716Z">
-        <seg>我认为能够使用 LwDITA 处理智能内容工作流的学生符合其中许多标准，但是基于本书写作目的，我将重点讨论“拥有计算机思维的思考者”。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160629Z" creationid="DSS" creationdate="20200811T125716Z">
+        <seg>我认为能够使用 LwDITA 处理智能内容工作流的学生符合其中许多标准，但是基于&lt;t0/&gt;本书&lt;t1/&gt;写作目的，我将重点讨论“拥有计算机思维的思考者”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8277,16 +8277,16 @@
       <tuv lang="en">
         <seg>Rockley &lt;t0/&gt;&amp; &lt;t1/&gt;Gollner's portrayal of content automation subject to human thinking structures bears resemblance to the model of computational thinking by Jeannette Wing that I mentioned in &lt;t2/&gt;Chapter &lt;t3/&gt;1&lt;t4/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T145134Z" creationid="DSS" creationdate="20200810T133447Z">
-        <seg>罗克利和戈尔纳对受制于人类思维结构的内容自动化的描述，与我在第一章中提到的珍妮特·温的计算思维模型有相似之处。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160449Z" creationid="DSS" creationdate="20200810T133447Z">
+        <seg>罗克利&lt;t0/&gt;和&lt;t1/&gt;戈尔纳对受制于人类思维结构的内容自动化的描述，与我在第&lt;t2/&gt;&lt;t3/&gt;一&lt;t4/&gt;章中提到的珍妮特·温的计算思维模型有相似之处。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Rockley &lt;t15/&gt;&amp; &lt;t16/&gt;Gollner, writing about intelligent con&lt;t17/&gt;tent as a key step in developing a sustainable content strategy, mention that:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T132015Z" creationid="DSS" creationdate="20200810T132015Z">
-        <seg>罗克利和戈尔纳（Gollner）认为智能内容是发展可持续内容战略的关键一步，他们指出：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160422Z" creationid="DSS" creationdate="20200810T132015Z">
+        <seg>罗克利&lt;t15/&gt;和&lt;t16/&gt;戈尔纳（Gollner）认为智能内容是发展可持续内容战略的关键一步，他们指出：</seg>
       </tuv>
     </tu>
     <tu>
@@ -8357,8 +8357,8 @@
       <tuv lang="en">
         <seg>She points out that “most people don't want to be a computer scientist, but everyone can use computers as an extension of our minds, to experience the world and create things that matter to us” (Barba, &lt;t12/&gt;2016).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T152806Z" creationid="DSS" creationdate="20200810T152806Z">
-        <seg>她指出，“大多数人并不想成为计算机科学家，但每个人都可以使用计算机拓展思维，体验世界，创造对我们来说重要的东西” (Barba, 2016)。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160554Z" creationid="DSS" creationdate="20200810T152806Z">
+        <seg>她指出，“大多数人并不想成为计算机科学家，但每个人都可以使用计算机拓展思维，体验世界，创造对我们来说重要的东西” (Barba, &lt;t12/&gt;2016)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12164,8 +12164,8 @@
       <tuv lang="en">
         <seg>in &lt;t0/&gt;Intelligent Content: A Primer&lt;t1/&gt;, which introduces important keywords that drive the development of those “more than templates” of struc&lt;t2/&gt;tured authoring that allow writers to put into action thought structures built</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T135814Z" creationid="DSS" creationdate="20200811T135814Z">
-        <seg>该定义包含了非常重要的关键词，这些关键词驱动了结构化写作超级模板的开发， 使作者能够将由坚实的抽象概念搭建的结构交付生产，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160646Z" creationid="DSS" creationdate="20200811T135814Z">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;该定义包含了非常重要的关键词，这些关键词驱动了结构化写作超级模板的开发， 使作者能够将由坚实的抽象概念搭建的结构交付生产，</seg>
       </tuv>
     </tu>
     <tu>
