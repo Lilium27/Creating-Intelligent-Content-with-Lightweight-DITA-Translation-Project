@@ -763,8 +763,8 @@
       <tuv lang="en">
         <seg>&lt;t2/&gt;The generic topic is the only document type available for creating content in the initial release of the LwDITA specification.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T131133Z" creationid="DSS" creationdate="20200813T131133Z">
-        <seg>在LwDITA规范最初的版本中，通用话题是用于创建内容的惟一文档类型。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T154124Z" creationid="DSS" creationdate="20200813T131133Z">
+        <seg>&lt;t2/&gt;在LwDITA规范最初的版本中，通用话题是用于创建内容的惟一文档类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4249,8 +4249,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;6.1 &lt;t1/&gt;Minimal XDITA topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T151045Z" creationid="DSS" creationdate="20200813T151045Z">
-        <seg>图6.1 最简化的 XDITA 话题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T154311Z" creationid="DSS" creationdate="20200813T151045Z">
+        <seg>图&lt;t0/&gt;6.1 &lt;t1/&gt; 最简化的 XDITA 话题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4369,8 +4369,8 @@
       <tuv lang="en">
         <seg>For Chef Pedro's content needs, a very simple topic would look as the example in &lt;t3/&gt;Figure &lt;t4/&gt;6.1&lt;t5/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T131145Z" creationid="DSS" creationdate="20200813T131145Z">
-        <seg>厨师佩德罗的内容需求可以编写成一个非常简单的话题，如图6.1所示。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T154136Z" creationid="DSS" creationdate="20200813T131145Z">
+        <seg>厨师佩德罗的内容需求可以编写成一个非常简单的话题，如图&lt;t3/&gt;&lt;t4/&gt;6.1&lt;t5/&gt;所示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5681,8 +5681,8 @@
       <tuv lang="en">
         <seg>In XDITA, the attribute for a unique identifier at the topic level (the &lt;t0/&gt;id &lt;t1/&gt;por&lt;t2/&gt;tion of the &lt;t3/&gt;&lt;topic id=“franchise-intro”&gt; &lt;t4/&gt;line) is required.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T150323Z" creationid="DSS" creationdate="20200813T150323Z">
-        <seg>在 XDITA 中，需要为话题级别的惟一标识符提供属性（即 &lt;topic id=“franchise-intro”&gt; 中的&lt;t0/&gt; id&lt;t1/&gt; 部分），</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T154249Z" creationid="DSS" creationdate="20200813T150323Z">
+        <seg>在 XDITA 中，需要为话题级别的惟一标识符提供属性（即 &lt;topic id=“franchise-intro”&gt; 中的&lt;t0/&gt; id&lt;t1/&gt; 部分），&lt;t3/&gt;&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8581,8 +8581,8 @@
       <tuv lang="en">
         <seg>Some of my students call the Oxygen validation error notifier the “red squiggly of doom” (&lt;t3/&gt;Figure 6.2&lt;t4/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T153411Z" creationid="DSS" creationdate="20200813T153206Z">
-        <seg>我的一些学生称 Oxygen 验证错误提示是“预示着坏消息的红色曲线”（图6.2）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T154347Z" creationid="DSS" creationdate="20200813T153206Z">
+        <seg>我的一些学生称 Oxygen 验证错误提示是“预示着坏消息的红色曲线”（&lt;t3/&gt;图6.2&lt;t4/&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11908,8 +11908,8 @@
       <tuv lang="en">
         <seg>Without it, the topic would just be a regular XML file (like the first marinara sauce recipe from &lt;t7/&gt;Chapter &lt;t8/&gt;1&lt;t9/&gt;), &lt;t10/&gt;and would need its own stylesheets and schemas to produce deliverables for end users.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T150200Z" creationid="DSS" creationdate="20200813T150200Z">
-        <seg>如果没有这行代码，该话题将只是一个普通 XML 文件（就像第一章中的第一个意式番茄罗勒酱菜谱示例那样），并且需要特定的样式表和模型来为终端用户生成可交付内容。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T154234Z" creationid="DSS" creationdate="20200813T150200Z">
+        <seg>如果没有这行代码，该话题将只是一个普通 XML 文件（就像第&lt;t7/&gt;&lt;t8/&gt;一&lt;t9/&gt;章中的第一个意式番茄罗勒酱菜谱示例那样）&lt;t10/&gt;，并且需要特定的样式表和模型来为终端用户生成可交付内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12100,8 +12100,8 @@
       <tuv lang="en">
         <seg>You can type the code from &lt;t0/&gt;Figure &lt;t1/&gt;6.1 &lt;t2/&gt;in any text editor, but working in a LwDITA-aware application like Oxygen XML Editor brings benefits like auto&lt;t3/&gt;completion of tags and templates, which can reduce spelling errors and typos.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T144901Z" creationid="DSS" creationdate="20200813T144901Z">
-        <seg>你可以在任何文本编辑器中输入图6.1中的代码，但是如果使用支持 LwDITA 的应用程序（如Oxygen XML Editor）可以带来诸如益处，如自动填写标签和模板，这可以减少拼写和打字错误。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T154159Z" creationid="DSS" creationdate="20200813T144901Z">
+        <seg>你可以在任何文本编辑器中输入图&lt;t0/&gt;&lt;t1/&gt;6.1 &lt;t2/&gt;中的代码，但是如果使用支持 LwDITA 的应用程序（如 Oxygen XML Editor）可以带来诸如益处，如自动填写标签和模板，这可以减少拼写和打字错误。</seg>
       </tuv>
     </tu>
     <tu>
