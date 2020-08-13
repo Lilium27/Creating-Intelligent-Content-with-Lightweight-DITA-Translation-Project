@@ -5383,6 +5383,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In a previous publication (Evia et al., 2015), I described the approach imple&lt;t0/&gt;mented in the undergraduate course &lt;t1/&gt;Creating User Documentation&lt;t2/&gt; at Virginia Tech to teach concepts of intelligent content, DITA, and computational thinking combined with rhetorical problem solving.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T035727Z" creationid="DSS" creationdate="20200813T035727Z">
+        <seg>在之前的一篇文章中 (Evia et al., 2015)，我介绍了在弗吉尼亚理工大学的本科课程《用户文档写作》中，将智能内容、DITA和计算机思维等概念与修辞问题解决能力结合起来教授的教学方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In an interview for the website “DITAWriter,” Don Day, one of the original developers of the DITA standard, chronicled the origins of his XML experi&lt;t0/&gt;ments while working for IBM in the last decade of the 20th century as follows:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154552Z" creationid="DSS" creationdate="20200726T154552Z">
@@ -8336,6 +8344,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T125850Z" creationid="lenovo" creationdate="20200810T125415Z">
         <seg>再次验证</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That approach is based on a sequence of layers of abstraction that supersede (and actually include) a technical writing process focused on document production.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T040724Z" creationid="DSS" creationdate="20200813T040724Z">
+        <seg>该方法基于一系列抽象层级，这些抽象层取代（实际上是包括）了专注于文档生产的技术写作过程。</seg>
       </tuv>
     </tu>
     <tu>
