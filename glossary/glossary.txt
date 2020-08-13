@@ -456,3 +456,7 @@ Bailie	拜利
 Urbina	厄比纳
 non-XML version of DITA	非XML版DITA
 Intended Audiences	目标受众
+North Carolina, Charlotte	北卡罗莱纳大学夏洛特分校
+Matthew Sharp	马修·夏普
+Embry-Riddle Aeronautical University	安博瑞德航空航天大学
+Manuel Perez-Quinones	曼努埃尔·佩雷斯-奎诺恩
