@@ -2723,8 +2723,8 @@
       <tuv lang="en">
         <seg>Based on the LwDITA proposed standard, the principles and strategies included in this book can be effective in a variety of authoring environments.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T094344Z" creationid="DSS" creationdate="20200726T094344Z">
-        <seg>基于 LwDITA 提出的标准，本书中包含的原则和策略在各种创作环境中都是有效的。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T154429Z" creationid="DSS" creationdate="20200726T094344Z">
+        <seg>基于 LwDITA 拟议标准，本书中包含的原则和策略在各种创作环境中都是有效的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8533,8 +8533,8 @@
       <tuv lang="en">
         <seg>Some experience with HTML or Markdown would also help, but the book provides enough context and information about those languages to understand and use the LwDITA proposed standard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T123458Z" creationid="DSS" creationdate="20200726T140252Z">
-        <seg>如果读者具有使用 HTML 或 Markdown 的经验会有所帮助，但是本书对这些语言提供了足够的上下文和信息，以便帮助读者理解和使用 LwDITA 标准。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T154520Z" creationid="DSS" creationdate="20200726T140252Z">
+        <seg>如果读者具有使用 HTML 或 Markdown 的经验会有所帮助，但是本书对这些语言提供了足够的上下文和信息，以便帮助读者理解和使用 LwDITA 拟议标准。</seg>
       </tuv>
     </tu>
     <tu>
