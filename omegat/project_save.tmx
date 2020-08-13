@@ -4999,6 +4999,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I am a fan of using the same text for the topic identifier attribute and the file name: e.g., the &lt;t5/&gt;@id &lt;t6/&gt;of this topic is “franchise-intro,” and I would save it as &lt;t7/&gt;franchise-intro.dita&lt;t8/&gt; (XDITA topics can be saved with the file extensions &lt;t9/&gt;.xml&lt;t10/&gt; or &lt;t11/&gt;.dita&lt;t12/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T150723Z" creationid="DSS" creationdate="20200813T150723Z">
+        <seg>我喜欢将话题标识符属性和文件名称设置为一样的内容：例如，此话题的&lt;t5/&gt; @id &lt;t6/&gt;是“franchise-intro”，我会将文件命名为 &lt;t7/&gt;franchise-intro.dita&lt;t8/&gt;（XDITA 格式的话题可以保存为扩展名为 &lt;t9/&gt;.xml&lt;t10/&gt; 或 &lt;t11/&gt;.dita&lt;t12/&gt;的文件）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I am a voting member of the DITA Technical Committee with the Organization for the Adoption of Structured Information Standards (OASIS), which is currently working on version &lt;t0/&gt;2.0 &lt;t1/&gt;of the standard; DITA's present and future are necessary for the lightweight approaches dis&lt;t2/&gt;cussed in this book.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T151058Z" creationid="DSS" creationdate="20200726T134337Z">
@@ -5627,6 +5635,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T135633Z" creationid="lenovo" creationdate="20200813T135633Z">
         <seg>在XDITA和</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In XDITA, the attribute for a unique identifier at the topic level (the &lt;t0/&gt;id &lt;t1/&gt;por&lt;t2/&gt;tion of the &lt;t3/&gt;&lt;topic id=“franchise-intro”&gt; &lt;t4/&gt;line) is required.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T150323Z" creationid="DSS" creationdate="20200813T150323Z">
+        <seg>在 XDITA 中，需要为话题级别的惟一标识符提供属性（即 &lt;topic id=“franchise-intro”&gt; 中的&lt;t0/&gt; id&lt;t1/&gt; 部分），</seg>
       </tuv>
     </tu>
     <tu>
@@ -11774,6 +11790,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T073030Z" creationid="DSS" creationdate="20200726T073030Z">
         <seg>毫无疑问，对于 DITA 新手来说，这些特性和优势也可能令人生畏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Without it, the topic will not validate as standards-based XDITA content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T150349Z" creationid="DSS" creationdate="20200813T150349Z">
+        <seg>没有它，话题将不能被识别为基于标准的 XDITA 格式的内容。</seg>
       </tuv>
     </tu>
     <tu>
