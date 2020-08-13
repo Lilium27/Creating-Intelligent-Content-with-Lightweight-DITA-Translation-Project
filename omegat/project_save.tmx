@@ -5895,6 +5895,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Intended Audiences for HDITA</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T081109Z" creationid="lenovo" creationdate="20200813T081109Z">
+        <seg>HDITA的目标受众</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Intended Audiences for XDITA</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T023543Z" creationid="lenovo" creationdate="20200813T021907Z">
@@ -7097,6 +7105,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>One of the greater challenges to the Lightweight DITA subcommittee, as it develops the LwDITA technical specification, is to define how LwDITA tools should handle the presence of non-LwDITA HTML5 tags.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T081033Z" creationid="lenovo" creationdate="20200813T081033Z">
+        <seg>轻量级DITA小组委员会在开发LwDITA技术规范时面临的一个更大的挑战是，定义LwDITA工具应该如何处理非LwDITA HTML5标记。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>One of the key developments here is the result of ongoing discussions with Information Mapping, who are now at the point of contributing their information type definitions to the DITA TC (technical committee) for inclusion in the lightweight pro&lt;t0/&gt;posal.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T093106Z" creationid="DSS" creationdate="20200731T093106Z">
@@ -7229,6 +7245,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T161108Z" creationid="DSS" creationdate="20200802T161108Z">
         <seg>轻松地实现其他格式（如 HTML5 或 Markdown）的话题类型的映射和专门化，开箱即用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Over the years, since Michael Priestley developed the original idea for HDITA in &lt;t0/&gt;2014, &lt;t1/&gt;the Lightweight DITA subcommittee at OASIS has iden&lt;t2/&gt;tified the following potential users for an HTML5-based version of the proposed standard:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T081311Z" creationid="lenovo" creationdate="20200813T081311Z">
+        <seg>自2014年迈克尔·普里斯特利提出了HDITA的最初想法以来，OASIS的轻量级DITA小组委员会已经为基于HTML5版的提议标准确定了以下潜在用户：</seg>
       </tuv>
     </tu>
     <tu>
