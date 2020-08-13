@@ -4120,8 +4120,8 @@
       <tuv lang="en">
         <seg>FIGURE 6.2 &lt;t0/&gt;Validation error reported by Oxygen XML Editor.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T151548Z" creationid="DSS" creationdate="20200813T151548Z">
-        <seg>图6.2 Oxygen XML Editor 发送的错误验证报告。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T153106Z" creationid="DSS" creationdate="20200813T151548Z">
+        <seg>图6.2 Oxygen XML Editor 的错误验证提示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4579,6 +4579,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T094541Z" creationid="DSS" creationdate="20200803T094541Z">
         <seg>此外，没有哪一个标记语言叫轻量级 DITA，而 LwDITA 框架中包含的标记语言被称作 XDITA、HDITA 和 MDITA。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Furthermore, this sample topic stub is not yet valid XDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T153152Z" creationid="DSS" creationdate="20200813T153152Z">
+        <seg>而且，示例中的话题片段还不是有效的 XDITA 格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9553,6 +9561,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T074854Z" creationid="DSS" creationdate="20200808T074854Z">
         <seg>在关于计算机架构的入门书籍中，抽象的概念也非常普遍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The concept of “what you see is what you get” (WYSIWYG) from many web developing editors does not trans&lt;t2/&gt;late to topic-based authoring in XML because a topic is just a component in a larger collection of chunks that need to be processed to create deliverables.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T153121Z" creationid="DSS" creationdate="20200813T153121Z">
+        <seg>许多网页开发编辑器提出的“所见即所得” (WYSIWYG) 的概念并不能应用到基于话题的 XML 写作中来，因为话题只是用于生成可交付成果的大块信息集合中的一个组件。</seg>
       </tuv>
     </tu>
     <tu>
