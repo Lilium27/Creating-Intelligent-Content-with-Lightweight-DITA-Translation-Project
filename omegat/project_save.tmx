@@ -7843,6 +7843,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some current DITA users may find XDITA to be appropriate, but the XDITA authoring format of LwDITA is primarily aimed at content creators who either do not know about DITA or perceive the standard as too robust for their information needs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T024619Z" creationid="lenovo" creationdate="20200813T024619Z">
+        <seg>一些DITA用户可能认为XDITA十分合适，但是LwDITA的XDITA创作格式主要针对的是那些不了解DITA或认为该标准对于他们的信息需求过于健壮的内容创建者。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some experience with HTML or Markdown would also help, but the book provides enough context and information about those languages to understand and use the LwDITA proposed standard.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T123458Z" creationid="DSS" creationdate="20200726T140252Z">
@@ -10941,6 +10949,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T022106Z" creationid="lenovo" creationdate="20200813T022106Z">
         <seg>XDITA向更多的组织开源结构化创作和自动化发布工作流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XDITA targets authors who are probably not DITA experts but could benefit from the structuring and publishing mechanism of a DITA-like work&lt;t1/&gt;flow.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T024215Z" creationid="lenovo" creationdate="20200813T024215Z">
+        <seg>XDITA的目标用户可能不是DITA专家，但可以从类似于DITA工作流的结构和发布机制中获益的人群。</seg>
       </tuv>
     </tu>
     <tu>
