@@ -10919,6 +10919,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This restriction of mixed content in block elements has the intention of simplifying LwDITA processing in software tools that will need to combine XML, HTML5, and Markdown topics to produce LwDITA deliverables.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T142827Z" creationid="lenovo" creationdate="20200813T142827Z">
+        <seg>块元素中混合内容的这种限制旨在简化软件工具中的LwDITA处理，这些软件工具需要结合XML、HTML5和Markdown主题来生成LwDITA交付品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This section will be especially useful to readers who have not ventured into standards and markup languages for intelligent content.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T155108Z" creationid="DSS" creationdate="20200726T153130Z">
