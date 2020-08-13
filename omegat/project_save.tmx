@@ -10489,8 +10489,8 @@
       <tuv lang="en">
         <seg>The transformation of &lt;t0/&gt;DQTI&lt;t1/&gt; guidelines into DITA elements was subtly documented in a &lt;t2/&gt;2001 &lt;t3/&gt;article published in the “Technology Review” column of the journal &lt;t4/&gt;Technical Communication&lt;t5/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T075510Z" creationid="lenovo" creationdate="20200811T075510Z">
-        <seg>&lt;t4/&gt;《技术传播》&lt;t5/&gt;杂志《技术评论》专栏在 &lt;t2/&gt;2001年 &lt;t3/&gt;发表的一篇的文章中细致地记载了&lt;t0/&gt;DQTI&lt;t1/&gt;指导方针转化为DITA元素的过程。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T154027Z" creationid="lenovo" creationdate="20200811T075510Z">
+        <seg>&lt;t4/&gt;《技术传播》&lt;t5/&gt;杂志《技术评论》专栏在2001年发表的一篇的文章中细致地记载了DQTI指导方针转化为DITA元素的过程。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11732,8 +11732,8 @@
       <tuv lang="en">
         <seg>When other companies heard about DITA and tried to create their own archi&lt;t11/&gt;tectures for authoring and publishing, the topical conventions moved to the disciplinary category, which started when IBM announced, on March &lt;t12/&gt;15, 2001 &lt;t13/&gt;that they “were going public with an architecture for technical documentation using XML” (Priestley, 2001a), and then culminated with the release of DITA &lt;t14/&gt;1.0 &lt;t15/&gt;as an open standard in &lt;t16/&gt;2005.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T075309Z" creationid="lenovo" creationdate="20200811T075309Z">
-        <seg>当其他公司听说DITA，并试图拆功能键自己的创作和出版架构时，主题惯例转向了规范性惯例。起点是IBM在2001年 &lt;t12/&gt;3月 15日 &lt;t13/&gt;宣布他们“要公开一个使用XML的技术文档架构”(Priestley, 2001a)，最后，在&lt;t16/&gt;2005年，DITA &lt;t14/&gt;1.0 &lt;t15/&gt;作为开放标准发布。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T153902Z" creationid="lenovo" creationdate="20200811T075309Z">
+        <seg>当其他公司听说DITA，并试图拆功能键自己的创作和出版架构时，主题惯例转向了规范性惯例。起点是IBM在2001年 &lt;t12/&gt;3月 15日 &lt;t13/&gt;宣布他们“要公开一个使用XML的技术文档架构”(Priestley, 2001a)，最后，在2005年，DITA &lt;t14/&gt;1.0 &lt;t15/&gt;作为开放标准发布。</seg>
       </tuv>
     </tu>
     <tu>
