@@ -1241,6 +1241,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t6/&gt;The same can be said about LwDITA work: creating content using the available authoring flavors is easy and even fun.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T013708Z" creationid="lenovo" creationdate="20200813T013708Z">
+        <seg>&lt;t6/&gt;对于LwDITA工作也是一样的:使用可用的创作风格来创建内容很简单，甚至可以说很有趣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t7/&gt;5).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T131135Z" creationid="DSS" creationdate="20200810T131135Z">
@@ -4519,6 +4527,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, in contrast to desktop-publishing workflows, automating and format&lt;t7/&gt;ting deliverables (topics that I will cover in future chapters) are not necessarily ice cream parties, but those are not routine tasks for most content authors.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T014023Z" creationid="lenovo" creationdate="20200813T014023Z">
+        <seg>然而，与桌面发布工作流相比，自动化和格式化可交付成果(我将在以后的章节中讨论的主题)并不一定都能选用提前设定的冰淇淋风味，但对于大多数内容作者来说，这些并非常规任务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, many of its claims were based on an &lt;t9/&gt;us-before-them&lt;t10/&gt; trope, which included sentences like “Before you start your DITA project, train your writers in Information Mapping&lt;t11/&gt;®&lt;t12/&gt;,” or “Becoming familiar with Information Mapping&lt;t13/&gt;® &lt;t14/&gt;is a necessary first step towards a successful DITA implementation” (2011, p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T091934Z" creationid="DSS" creationdate="20200731T091934Z">
@@ -5227,6 +5243,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T093638Z" creationid="lenovo" creationdate="20200723T075643Z">
         <seg>在Svenvold看来，卡罗尔将极简主义原理运用至技术传播这一特殊体裁的写作中，写出来的手册就注定是失败的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In a &lt;t0/&gt;2015 &lt;t1/&gt;teaching case based on the work I did with some colleagues for the course ENGL &lt;t2/&gt;3814: &lt;t3/&gt;Creating User Documentation&lt;t4/&gt;, we mentioned that whereas “basic XML syntax and tags are relatively easy to teach and learn, the automation of deliverables via XSLT and the DITA Open Toolkit is much more complicated” (Evia et al.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T013556Z" creationid="lenovo" creationdate="20200813T013556Z">
+        <seg>基于我与同事为课程ENGL &lt;t2/&gt;3814: &lt;t3/&gt;创建用户文档&lt;t4/&gt; 所做的工作，在&lt;t0/&gt;2015 &lt;t1/&gt;的教学案例中，我们提到,而“基本XML语法和标记相对容易教和学,通过XSLT和DITA Open Toolkit实现的可交付成果自动化则要复杂得多”(Evia et al.</seg>
       </tuv>
     </tu>
     <tu>
