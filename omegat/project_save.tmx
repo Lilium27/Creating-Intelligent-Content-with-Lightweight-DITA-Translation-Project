@@ -4110,6 +4110,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE 6.2 &lt;t0/&gt;Validation error reported by Oxygen XML Editor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T151548Z" creationid="DSS" creationdate="20200813T151548Z">
+        <seg>图6.2 Oxygen XML Editor 发送的错误验证报告。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;1.1 &lt;t1/&gt;Screen capture from the video “The Future of Technical Communication,” by Adobe Technical Communication Suite.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T142810Z" creationid="DSS" creationdate="20200724T121058Z">
@@ -5999,6 +6007,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this case, the “red squiggly of doom” error tells the authors that the topic is not valid and must be fixed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T151606Z" creationid="DSS" creationdate="20200813T151606Z">
+        <seg>在本例中，“预示着坏消息的红色曲线”错误报告告诉写作者，这个话题是无效的，需要修正。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this case, they specify that the topic is Lightweight DITA and not full DITA XML, that it should not allow nested lists, and that it should not allow the inclusion of sections inside the topic.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T082155Z" creationid="DSS" creationdate="20200731T082155Z">
@@ -7669,6 +7685,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T081311Z" creationid="lenovo" creationdate="20200813T081311Z">
         <seg>自2014年迈克尔·普里斯特利提出了HDITA的最初想法以来，OASIS的轻量级DITA小组委员会已经为基于HTML5版的提议标准确定了以下潜在用户：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Oxygen validates&lt;t1/&gt; the XDITA topics as the authors develop them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T151600Z" creationid="DSS" creationdate="20200813T151600Z">
+        <seg>Oxygen 在写作者创建 XDITA 话题时进行验证，</seg>
       </tuv>
     </tu>
     <tu>
