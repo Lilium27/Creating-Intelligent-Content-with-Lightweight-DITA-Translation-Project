@@ -10063,6 +10063,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The simplified structures in LwDITA have the intention of minimizing authorial decisions when creating content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T135532Z" creationid="lenovo" creationdate="20200813T135532Z">
+        <seg>LwDITA中简化的结构旨在最大程度减少创建内容时的作者决策。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The slow pace ensures that representatives from the larger community worldwide have time to review and comment, adding their perspectives and concerns and, as a consequence, improving the standard.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T124804Z" creationid="DSS" creationdate="20200730T124804Z">
@@ -10963,6 +10971,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T152038Z" creationid="DSS" creationdate="20200803T152038Z">
         <seg>因此，尽管 LwDITA 的主要目标是减少 DITA 标准中包含的内容组件的数量，但小组委员会提出了 &lt;t8/&gt;9&lt;t9/&gt;个新组件来表示多媒体内容，复刻了 HTML5 中可用的通用结构。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thus, if in DITA &lt;t0/&gt;1.3 &lt;t1/&gt;and HTML5 an author had to decide if their components should include character data, child elements, or a combination of those, in some of the LwDITA authoring formats there is only one valid way t create certain elements.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T135612Z" creationid="lenovo" creationdate="20200813T135612Z">
+        <seg>因此，如果在DITA 1.3和HTML5中，作者必须决定他们的组件是否应该包括字符数据、子元素或这些元素的组合，那么在一些LwDITA创作格式中，创建元素只有唯一的有效方法。</seg>
       </tuv>
     </tu>
     <tu>
