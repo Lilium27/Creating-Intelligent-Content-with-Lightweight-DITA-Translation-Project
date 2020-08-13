@@ -5975,6 +5975,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It was not until Priestley's blog post of April &lt;t2/&gt;2014 &lt;t3/&gt;that Lightweight DITA became an umbrella term for different authoring formats &lt;t4/&gt;一 &lt;t5/&gt;initially XML and HTML5, and then Markdown.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T020405Z" creationid="lenovo" creationdate="20200813T020405Z">
+        <seg>直到 &lt;t2/&gt;2014年 &lt;t3/&gt;4月普里斯特利发表了一篇博客文章，轻量级DITA才成为不同创作格式的统称——最初是XML和HTML5，后来是Markdown。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It was probably me.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T065710Z" creationid="lenovo" creationdate="20200804T065710Z">
