@@ -10937,6 +10937,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>XDITA opens structured authoring and automated publishing workflows to a greater number of organi&lt;t0/&gt;zations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T022106Z" creationid="lenovo" creationdate="20200813T022106Z">
+        <seg>XDITA向更多的组织开源结构化创作和自动化发布工作流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>XML, and as a consequence DITA, files can also be validated by XML Schema and RELAX NG (Regular Language for XML Next Generation) files.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154154Z" creationid="DSS" creationdate="20200724T125751Z">
