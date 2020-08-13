@@ -8548,6 +8548,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That means that including a Markdown component that is not allowed in MDITA extended profile, like the level-three heading I mentioned earlier, would produce a validation error in LwDITA- aware tools.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T083517Z" creationid="lenovo" creationdate="20200813T083517Z">
+        <seg>这意味着包含MDITA扩展配置文件中禁用的Markdown组件(如我前面提到的第三级标题)在支持 LwDITA的工具中将产生验证错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That message was followed, on March &lt;t0/&gt;20, 2012 &lt;t1/&gt;by the first Lightweight DITA proposal, also known as proposal &lt;t2/&gt;13076, &lt;t3/&gt;presented by Michael Priestley to the OASIS DITA Technical Committee.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T073338Z" creationid="DSS" creationdate="20200731T073338Z">
@@ -8857,6 +8865,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T155804Z" creationid="DSS" creationdate="20200802T155804Z">
         <seg>轻量级 DITA 小组委员会</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Lightweight DITA subcommittee at OASIS is, as of this writing, working on recommendations for handling instances of non-MDITA Markdown structures in MDITA core profile.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T083907Z" creationid="lenovo" creationdate="20200813T083907Z">
+        <seg>在撰稿时，OASIS的轻量级DITA小组委员会正致力于研究如何在MDITA核心概要中处理非MDITA的Markdown结构实例。</seg>
       </tuv>
     </tu>
     <tu>
