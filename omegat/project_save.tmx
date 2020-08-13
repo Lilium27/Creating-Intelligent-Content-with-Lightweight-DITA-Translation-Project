@@ -10702,6 +10702,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Those layers of abstraction focus, one by one, on practical and separate con&lt;t0/&gt;cepts related to the characteristics of intelligent content and competencies and skills that, based on industry conversation and formal interviews with practi&lt;t1/&gt;tioners and academics (see Evia et al., 2015 for details on the methodology), are expected of technical communicators working in content management envi&lt;t2/&gt;ronments.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T122732Z" creationid="DSS" creationdate="20200813T122732Z">
+        <seg>这些抽象层级主要关注与智能内容的特性，以及从业者的能力和技能相关的实际和独立概念，而后者提炼自行业对话以及对工业界和学术界的正式访谈（更多方法论细节可参见艾维亚等人 2015 年 所著书籍），也是在内容管理环境中工作的技术传播人员所需要的掌握的能力和技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Those moves advanced from the organizational realm (Apple Computer, in his case) and became dis&lt;t1/&gt;ciplinary conventions: task and reference (along with concept) are the main content types associated with the DITA standard.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T122244Z" creationid="lenovo" creationdate="20200810T081056Z">
