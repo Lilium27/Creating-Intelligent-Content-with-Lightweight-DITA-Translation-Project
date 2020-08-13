@@ -1521,6 +1521,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A LwDITA-aware tool like Oxygen XML would inform the author that the topic is incomplete.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T153156Z" creationid="DSS" creationdate="20200813T153156Z">
+        <seg>支持 LwDITA 的工具（如 Oxygen XML）会提示创作者该话题不完整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A Topic by Any Other Name &lt;t0/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T143213Z" creationid="lenovo" creationdate="20200811T143213Z">
@@ -8567,6 +8575,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T080405Z" creationid="lenovo" creationdate="20200810T080405Z">
         <seg>普莱斯提出的一些建议成为了金科玉律或者说是规绳矩墨，已然超越了米勒和塞尔泽提倡的第三种修辞惯例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some of my students call the Oxygen validation error notifier the “red squiggly of doom” (&lt;t3/&gt;Figure 6.2&lt;t4/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T153206Z" creationid="DSS" creationdate="20200813T153206Z">
+        <seg>我的一些学生称 Oxygen 验证错误通知是“预示着坏消息的红色曲线”（图6.2）。</seg>
       </tuv>
     </tu>
     <tu>
