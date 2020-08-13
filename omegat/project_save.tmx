@@ -4545,8 +4545,8 @@
       <tuv lang="en">
         <seg>Hackos summarizes the key benefits of DITA for technical communicators as follows:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154918Z" creationid="DSS" creationdate="20200726T154918Z">
-        <seg>哈克斯总结了技术传播从业者使用 DITA 的益处：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T122948Z" creationid="DSS" creationdate="20200726T154918Z">
+        <seg>哈克斯总结了技术传播工程师使用 DITA 的益处：</seg>
       </tuv>
     </tu>
     <tu>
@@ -10464,8 +10464,8 @@
       <tuv lang="en">
         <seg>This book is not about a specific tool or software platform: as an open standard in develop&lt;t12/&gt;ment, LwDITA does not depend on a vendor or “app.” Hackos explains the importance of information standards for technical communicators with the following scenario, which also applies to LwDITA:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T122912Z" creationid="DSS" creationdate="20200726T093719Z">
-        <seg>这本书并关于某一个特定的工具或软件平台：LwDITA 作为一个仍在法阵中的开放标准，不依赖于任何代理商或“应用程序”。哈克斯用以下场景解释了信息标准对技术传播从业者的重要性，该解释同样适用于 LwDITA：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T123103Z" creationid="DSS" creationdate="20200726T093719Z">
+        <seg>这本书并关于某一个特定的工具或软件平台：LwDITA 作为一个仍在法阵中的开放标准，不依赖于任何代理商或“应用程序”。哈克斯用以下场景解释了信息标准对技术传播工程师的重要性，该解释同样适用于 LwDITA：</seg>
       </tuv>
     </tu>
     <tu>
@@ -10704,8 +10704,8 @@
       <tuv lang="en">
         <seg>Those layers of abstraction focus, one by one, on practical and separate con&lt;t0/&gt;cepts related to the characteristics of intelligent content and competencies and skills that, based on industry conversation and formal interviews with practi&lt;t1/&gt;tioners and academics (see Evia et al., 2015 for details on the methodology), are expected of technical communicators working in content management envi&lt;t2/&gt;ronments.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T122732Z" creationid="DSS" creationdate="20200813T122732Z">
-        <seg>这些抽象层级主要关注与智能内容的特性，以及从业者的能力和技能相关的实际和独立概念，而后者提炼自行业对话以及对工业界和学术界的正式访谈（更多方法论细节可参见艾维亚等人 2015 年 所著书籍），也是在内容管理环境中工作的技术传播人员所需要的掌握的能力和技能。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T123724Z" creationid="DSS" creationdate="20200813T122732Z">
+        <seg>这些抽象层级主要关注与智能内容的特性，以及从业者的能力和技能相关的实际和独立概念，而后者提炼自行业对话以及对工业界和学术界的正式访谈（更多方法论细节可参见艾维亚等人2015年所著书籍），也是在内容管理环境中工作的技术传播工程师所需要的掌握的能力和技能。</seg>
       </tuv>
     </tu>
     <tu>
