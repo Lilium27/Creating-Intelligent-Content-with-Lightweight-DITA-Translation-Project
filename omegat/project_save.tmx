@@ -8556,6 +8556,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Technical editors who need to incorporate Markdown files in DITA or XDITA topic collections</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T090143Z" creationid="lenovo" creationdate="20200813T090143Z">
+        <seg>需要合并使用DITA或XDITA主题集的 Markdown文件的技术编辑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Technical editors, who can focus on word choice, grammar, and overall organization</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T081323Z" creationid="DSS" creationdate="20200726T153716Z">
