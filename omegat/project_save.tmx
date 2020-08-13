@@ -5471,6 +5471,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In sum, XDITA was designed for users who could benefit from a DITA-like experience for content creation and publication, but who do not need (or want) the full power of DITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T024710Z" creationid="lenovo" creationdate="20200813T024710Z">
+        <seg>总之，XDITA是为那些可以从类似于DITA的内容创建和发布体验中获益，但不需要(或想要)DITA的全部功能的用户设计的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In sum, in order to achieve efficient automation routines for content, authors (and not necessarily programmers or developers) need to get involved in a structured process involving layers of abstraction and replicable rules.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T134736Z" creationid="DSS" creationdate="20200810T134736Z">
