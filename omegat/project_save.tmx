@@ -5959,6 +5959,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Intended audiences for MDITA</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T083916Z" creationid="lenovo" creationdate="20200813T083916Z">
+        <seg>MDITA的目标受众</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Introduction to the franchise opportunity</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T061907Z" creationid="DSS" creationdate="20200807T061907Z">
@@ -6619,6 +6627,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T044349Z" creationid="lenovo" creationdate="20200812T043329Z">
         <seg>因此，轻量级DITA可以成为标准的极简版本，它减少了标记的数量，为作者提供DITA 1.3的结构和发布功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MDITA is designed for users who want to write structured content with the minimum of overhead, but who also want to take advantage of the reuse mech&lt;t0/&gt;anisms associated with the DITA standard and the multi-channel publishing afforded by standard DITA tooling.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T085106Z" creationid="lenovo" creationdate="20200813T085106Z">
+        <seg>MDITA的目标用户希望以最小的开销编写结构化内容，但同时也希望利用与DITA标准相关的复用机制以及标准DITA工具提供的多渠道发布。</seg>
       </tuv>
     </tu>
     <tu>
