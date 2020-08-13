@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>334)” represent those broader rhetorical strategies, and are as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T042259Z" creationid="DSS" creationdate="20200813T041919Z">
+        <seg>引入组件内容管理、结构化创作和 DITA 写作的概念” (Evia et al., 2015, p.334)，这句话代表着上文提到的更广泛的修辞策略，具体情况如下所示：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>354).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T152947Z" creationid="DSS" creationdate="20200726T152947Z">
@@ -9770,6 +9778,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T160348Z" creationid="DSS" creationdate="20200723T160253Z">
         <seg>Adobe 视频中所描述的技术传播的“未来”关注的是瑞贝卡·安德森（Rebekka Andersen）所描述的“具有高度适应性和可移植性，并且可以根据用户的具体要求随时进行配置的结构化内容” &lt;t0/&gt;（2014年， &lt;t1/&gt;第</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The “layers of abstraction identified to introduce concepts of component content management, structured authoring, and DITA from a computational thinking and genre theory perspective (Evia et al., 2015, p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T041924Z" creationid="DSS" creationdate="20200813T041858Z">
+        <seg>“抽象层级从计算机思维和体裁理论的角度出发</seg>
       </tuv>
     </tu>
     <tu>
