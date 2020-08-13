@@ -5689,8 +5689,8 @@
       <tuv lang="en">
         <seg>In a &lt;t0/&gt;2015 &lt;t1/&gt;teaching case based on the work I did with some colleagues for the course ENGL &lt;t2/&gt;3814: &lt;t3/&gt;Creating User Documentation&lt;t4/&gt;, we mentioned that whereas “basic XML syntax and tags are relatively easy to teach and learn, the automation of deliverables via XSLT and the DITA Open Toolkit is much more complicated” (Evia et al.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T013556Z" creationid="lenovo" creationdate="20200813T013556Z">
-        <seg>基于我与同事为课程ENGL &lt;t2/&gt;3814: &lt;t3/&gt;创建用户文档&lt;t4/&gt; 所做的工作，在&lt;t0/&gt;2015 &lt;t1/&gt;的教学案例中，我们提到,而“基本XML语法和标记相对容易教和学,通过XSLT和DITA Open Toolkit实现的可交付成果自动化则要复杂得多”(Evia et al.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T153822Z" creationid="lenovo" creationdate="20200813T013556Z">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;基于我与同事为课程ENGL &lt;t2/&gt;3814: &lt;t3/&gt;创建用户文档&lt;t4/&gt; 所做的工作，在2015的教学案例中，我们提到,而“基本XML语法和标记相对容易教和学,通过XSLT和DITA Open Toolkit实现的可交付成果自动化则要复杂得多”(Evia et al.</seg>
       </tuv>
     </tu>
     <tu>
