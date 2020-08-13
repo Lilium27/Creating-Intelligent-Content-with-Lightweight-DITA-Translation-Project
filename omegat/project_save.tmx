@@ -5767,6 +5767,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Intended Audiences for XDITA</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T021907Z" creationid="lenovo" creationdate="20200813T021907Z">
+        <seg>XDITA的预期受众</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Introduction to the franchise opportunity</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T061907Z" creationid="DSS" creationdate="20200807T061907Z">
