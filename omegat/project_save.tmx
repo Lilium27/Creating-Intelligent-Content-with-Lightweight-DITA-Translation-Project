@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>335-339).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T120553Z" creationid="DSS" creationdate="20200813T120553Z">
+        <seg>335-339)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>354).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T152947Z" creationid="DSS" creationdate="20200726T152947Z">
@@ -6463,6 +6471,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Layer &lt;t0/&gt;3: &lt;t1/&gt;Authoring granular content with XML.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T115347Z" creationid="DSS" creationdate="20200813T115347Z">
+        <seg>第三层级：用 XML 编写细粒度内容，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Layer &lt;t0/&gt;4: &lt;t1/&gt;Authoring and linking Component Content Management mod&lt;t2/&gt;ules with DITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T115359Z" creationid="DSS" creationdate="20200813T115359Z">
+        <seg>第四层级：使用 DITA 编写、链接组件内容管理模块，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Layer &lt;t0/&gt;5: &lt;t1/&gt;Single sourcing and content reuse.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T115409Z" creationid="DSS" creationdate="20200813T115409Z">
+        <seg>第五层级：同源开发和内容复用，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Legal terms of the franchise agreement</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T061921Z" creationid="DSS" creationdate="20200807T061921Z">
@@ -12074,6 +12106,15 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>“In this layer, students write content once, and then create multiple deliverables for different audi&lt;t2/&gt;ences, using some unique topics and some reused topics” (Evia et al., &lt;t3/&gt;2015, &lt;t4/&gt;pp.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T115429Z" creationid="DSS" creationdate="20200813T115429Z">
+        <seg>“在这一层级中，学生只需编写一次内容，就可以使用自己编写的独特话题和可复用话题，为不同的受众创建多种可交付成果” (Evia et al., &lt;t3/&gt;2015, &lt;t4/&gt;pp.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>“John Carroll's work on minimalism was part of the context of DITA,” Priestley told me.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T005540Z" creationid="lenovo" creationdate="20200804T001921Z">
@@ -12106,10 +12147,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>“The overall objective of this layer is to make students comfortable with topic-based writing and the functions and responsibili&lt;t3/&gt;ties of a DITA author.”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T115406Z" creationid="DSS" creationdate="20200813T115406Z">
+        <seg>“这一层级的总体目标是让学生适应基于话题的写作方式，了解 DITA 写作者的作用和职责。”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>“There is a reason when you go to the ‘Joy of Cooking' and you want to make a strawberry milkshake, you don't look under ‘strawberry milk&lt;t0/&gt;shake,'” he said.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T132659Z" creationid="DSS" creationdate="20200809T132659Z">
         <seg>加西亚表示：“如果你想做草莓奶昔，然后翻看《烹饪的乐趣》一书查找食谱，你不会直接寻找“草莓奶昔”食谱。”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“This layer has the objec&lt;t2/&gt;tive of introducing component-based XML authoring and filtering with the purpose of presenting modules created in XML as equivalents of more tra&lt;t3/&gt;ditional technical and professional writing genres.”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T115353Z" creationid="DSS" creationdate="20200813T115353Z">
+        <seg>“这一层级的目标是介绍基于组件的 XML 写作和过滤过程，将用 XML 创建的模块表示为更传统的技术和专业写作体裁的等价内容。”</seg>
       </tuv>
     </tu>
     <tu>
