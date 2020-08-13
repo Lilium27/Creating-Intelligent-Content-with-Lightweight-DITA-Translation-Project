@@ -3148,6 +3148,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Content curators who receive occasional contributions from developers written in Markdown</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T085949Z" creationid="lenovo" creationdate="20200813T085949Z">
+        <seg>偶尔从开发人员那里收到用Markdown编写的贡献的内容管理员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Content in DITA is presented as units or individual XML files that conform to pre-established types or models.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T125628Z" creationid="DSS" creationdate="20200724T125628Z">
@@ -5863,6 +5871,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Individuals authoring content quickly that must be later refactored as structured content</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T085807Z" creationid="lenovo" creationdate="20200813T085807Z">
+        <seg>快速创作内容并需要后续重构为结构化内容的个人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Individuals authoring content using a platform, such as a mobile device, that does not support an XML editor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T085623Z" creationid="lenovo" creationdate="20200813T085623Z">
+        <seg>使用不支持XML编辑器的平台(如移动设备)创作内容的个人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Information Mapping topic types: common topic types made up of IM sec&lt;t0/&gt;tion types (Priestley, 2012a).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T130444Z" creationid="DSS" creationdate="20200801T130444Z">
@@ -7027,6 +7051,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095407Z" creationid="DSS" creationdate="20200730T095407Z">
         <seg>根本没有人读它们。”如上所述，同时也很想统计下世界上所有使用DITA的公司的数据，在这&lt;t12/&gt;17 &lt;t13/&gt;种文档类型和 &lt;t14/&gt;440 &lt;t15/&gt;种元素类型中，有多少 DITA 技术内容文档的塑封还没有被拆过？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Non-English-speaking authors who want to take advantage of DITA reuse and publishing without depending on XML tags written in English</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T085824Z" creationid="lenovo" creationdate="20200813T085824Z">
+        <seg>希望利用DITA重用和发布而不依赖于用英语编写的XML标记的非英语作者</seg>
       </tuv>
     </tu>
     <tu>
