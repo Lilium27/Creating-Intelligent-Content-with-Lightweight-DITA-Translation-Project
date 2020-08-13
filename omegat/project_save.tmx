@@ -7417,6 +7417,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Potential users of MDITA include the following:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T085141Z" creationid="lenovo" creationdate="20200813T085141Z">
+        <seg>MDITA的潜在用户如下所示：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Preface &lt;t0/&gt;(“less than 1 page”).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200808T082318Z" creationid="lenovo" creationdate="20200808T082318Z">
@@ -8071,6 +8079,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T024004Z" creationid="lenovo" creationdate="20200804T020337Z">
         <seg>因此，当面临“DITA的创世主”这一指控时，她是如何辩解的呢？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Software developers who want to contribute to DITA-based product docu&lt;t0/&gt;mentation without using an XML editor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T085444Z" creationid="lenovo" creationdate="20200813T085444Z">
+        <seg>希望不借助XML编辑器为基于DITA的文档做出贡献的软件开发人员</seg>
       </tuv>
     </tu>
     <tu>
