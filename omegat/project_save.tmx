@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>135-136).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T032819Z" creationid="DSS" creationdate="20200813T032819Z">
+        <seg>135-136)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>156–157).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T082811Z" creationid="DSS" creationdate="20200730T082811Z">
@@ -2099,8 +2107,8 @@
       <tuv lang="en">
         <seg>Analyzing customer needs: gather user requirements, define personas and scenarios, and identify device constraints.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T165237Z" creationid="DSS" creationdate="20200812T165237Z">
-        <seg>分析用户需求：收集用户需求，定义人物画像和使用场景，发现设备的限制条件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T032826Z" creationid="DSS" creationdate="20200812T165237Z">
+        <seg>分析用户需求：收集用户需求，定义用户画像和使用场景，发现设备的限制条件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3441,6 +3449,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T143418Z" creationid="DSS" creationdate="20200812T143418Z">
         <seg>因此，使用 LwDITA 开发智能内容是结构化写作和技术传播中对计算机思维最直接的应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Developing the technology strategy: define technology requirements, evalu&lt;t0/&gt;ate tool options, work with content management system (CMS) integrators to implement the content model, and implement tools.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T035657Z" creationid="DSS" creationdate="20200813T035657Z">
+        <seg>制定技术方案：定义技术需求，评估待选工具，与内容管理系统 (CMS) 集成商合作，将内容模型和工具投入使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6507,6 +6523,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T162652Z" creationid="DSS" creationdate="20200812T162611Z">
         <seg>管理（提高生产效率），</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Managing change: create change-management plan, including a communi&lt;t0/&gt;cation plan, enlist change agents and champions, and define new roles and modify existing ones (Andersen, 2014, pp.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T032624Z" creationid="DSS" creationdate="20200813T032624Z">
+        <seg>管理变动：制定包括沟通计划在内的变动管理计划，谋取变动代理人和拥护者的帮助，确定新的定位并改变原有定位 (Andersen, 2014, pp.</seg>
       </tuv>
     </tu>
     <tu>
