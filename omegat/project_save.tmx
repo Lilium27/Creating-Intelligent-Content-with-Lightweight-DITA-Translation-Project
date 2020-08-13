@@ -2889,6 +2889,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bold</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T141148Z" creationid="lenovo" creationdate="20200813T141148Z">
+        <seg>粗体Bold</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bold&lt;t0/&gt;, which is used to draw a reader's attention to a phrase without other&lt;t1/&gt;wise adding meaning to the content.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T134126Z" creationid="DSS" creationdate="20200804T134126Z">
@@ -6455,6 +6463,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Italics</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T141152Z" creationid="lenovo" creationdate="20200813T141152Z">
+        <seg>斜体Italics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Italics&lt;t0/&gt;, which is a way to emphasize key points in a printed text or, when quoting a speaker, a way to show which words the speaker stressed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T134135Z" creationid="DSS" creationdate="20200804T134135Z">
@@ -7669,6 +7685,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T084715Z" creationid="DSS" creationdate="20200730T084715Z">
         <seg>用户并没有阅读手册。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Phrase</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T141513Z" creationid="lenovo" creationdate="20200813T141513Z">
+        <seg>词组</seg>
       </tuv>
     </tu>
     <tu>
