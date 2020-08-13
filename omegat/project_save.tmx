@@ -10497,6 +10497,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Undeniably, DITA XML has an audience that has made the standard a very popular approach for structuring information.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T022030Z" creationid="lenovo" creationdate="20200813T022030Z">
+        <seg>不可否认的是，DITA XML的受众使该标准成为结构化信息的一种广泛流行的方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Underline&lt;t0/&gt;, also called an underscore, which is a more or less horizontal line immediately below a portion of writing.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T134206Z" creationid="DSS" creationdate="20200804T134206Z">
