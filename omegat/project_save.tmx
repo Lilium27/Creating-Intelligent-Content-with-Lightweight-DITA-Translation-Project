@@ -1833,6 +1833,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Adventurous novice content creators.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T030159Z" creationid="lenovo" creationdate="20200813T030159Z">
+        <seg>具有探险精神的内容创作新手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After a few years of preparing prototypes and drafts, receiving audience feed&lt;t0/&gt;back and managing anticipation, LwDITA started &lt;t1/&gt;2017 &lt;t2/&gt;with the official format that would be documented on the first formal deliverable of the Lightweight DITA subcommittee at OASIS.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T151633Z" creationid="DSS" creationdate="20200803T151633Z">
@@ -3172,6 +3180,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Current XML (or DITA) users</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T030032Z" creationid="lenovo" creationdate="20200813T030032Z">
+        <seg>XML(或DITA)用户</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DITA 1.3 also includes topic types designed for learning and training projects: learning plan, learning overview, learning content, learning summary, and learning assessment.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T091132Z" creationid="DSS" creationdate="20200725T091132Z">
@@ -3361,6 +3377,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T161247Z" creationid="DSS" creationdate="20200802T161247Z">
         <seg>可交付成果：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Departments who want to reduce the cost of developing and maintaining style sheets</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T030003Z" creationid="lenovo" creationdate="20200813T030003Z">
+        <seg>希望降低开发和维护样式表成本的部门</seg>
       </tuv>
     </tu>
     <tu>
@@ -4355,6 +4379,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T123326Z" creationid="DSS" creationdate="20200811T123326Z">
         <seg>古齐亚尔还认为学科应用是评估计算机思维的必要一步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>HDITA is the authoring format of LwDITA that uses HTML5 to structure information.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T030230Z" creationid="lenovo" creationdate="20200813T030230Z">
+        <seg>HDITA是LwDITA的一种创作格式，它利用HTML5来构造信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8011,6 +8043,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Structure purists</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T030048Z" creationid="lenovo" creationdate="20200813T030048Z">
+        <seg>追求结构化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Structured &lt;t0/&gt;content is “designed to be both human and machine readable.” Enablers of that kind of dual readability are the behind-the-scenes labels and notes (i.e., tags and attributes) that made the formula of content &lt;t1/&gt;+ &lt;t2/&gt;code result in a data source.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T141558Z" creationid="DSS" creationdate="20200811T141558Z">
@@ -8248,6 +8288,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T081323Z" creationid="DSS" creationdate="20200726T153716Z">
         <seg>技术编辑，关注选词，语法和整体架构</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Technical writers with some XML experience</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T030015Z" creationid="lenovo" creationdate="20200813T030015Z">
+        <seg>有一些XML经验的技术作者</seg>
       </tuv>
     </tu>
     <tu>
