@@ -11322,6 +11322,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When I introduce LwDITA in university courses and industry workshops, many authors who have previous experience with DITA XML, and even some who are not familiar with DITA but have worked with HTML, are initially confused by the “minimize mixed content” rule that defines some compo&lt;t0/&gt;nents in this proposed standard.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T133344Z" creationid="lenovo" creationdate="20200813T133344Z">
+        <seg>当我在大学课程和行业研讨会中介绍LwDITA时，许多曾经使用过DITA XML的作者，甚至一些不熟悉DITA但使用过HTML的作者，一开始都对“最小化混合内容”规则所迷惑，这一规则定义了这一提议规则的一些组件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When I tried to measure the impact of John Carroll's theory of minimalism on content development, I remembered that Michael Priestley has acknowl&lt;t0/&gt;edged in several occasions that minimalism, via the IBM publication &lt;t1/&gt;Developing Quality Technical Information&lt;t2/&gt; (&lt;t3/&gt;DQTI&lt;t4/&gt;), was one of the big influences on DITA.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T143050Z" creationid="lenovo" creationdate="20200810T143050Z">
