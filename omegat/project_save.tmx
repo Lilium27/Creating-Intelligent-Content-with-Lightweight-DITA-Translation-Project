@@ -1961,6 +1961,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All three list items are valid in HTML5</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T140233Z" creationid="lenovo" creationdate="20200813T140233Z">
+        <seg>这三个列表项在HTML5都有效</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allowing learners to start immediately on meaningfully realistic tasks</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T074649Z" creationid="lenovo" creationdate="20200723T074649Z">
@@ -4123,6 +4131,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T140000Z" creationid="lenovo" creationdate="20200813T140000Z">
         <seg>图&lt;t0/&gt;4.1 &lt;t1/&gt;DITA主题示例显示含混合内容的元素与只包含字符数据或子元素的元素之间的差异。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;4.2 &lt;t1/&gt;Sample HTML5 file with a combination of list items including&lt;t2/&gt; character data and child elements.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T140509Z" creationid="lenovo" creationdate="20200813T140509Z">
+        <seg>图&lt;t0/&gt;4.2 &lt;t1/&gt;HTML5示例文件是列表项的组合，其中包括字符数据和子元素。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10043,6 +10059,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T161002Z" creationid="lenovo" creationdate="20200811T161002Z">
         <seg>修辞主题是DITA主题中的文步/元素：例如，任务主题中的先决条件&lt;t1/&gt;&lt;prereq&gt; &lt;t2/&gt;的元素表示所有任务和流程共有的共享模型，该模型允许作者生成可行的“如何做”信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The sample file includes an unordered list (&lt;t3/&gt;&lt;ul&gt;&lt;t4/&gt;) that contains three list items (&lt;t5/&gt;&lt;li&gt;&lt;t6/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T140537Z" creationid="lenovo" creationdate="20200813T140537Z">
+        <seg>示例文件包括一个无序列表（&lt;t3/&gt;&lt;ul&gt;&lt;t4/&gt;）其中包含三个列表项（&lt;t5/&gt;&lt;li&gt;&lt;t6/&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
