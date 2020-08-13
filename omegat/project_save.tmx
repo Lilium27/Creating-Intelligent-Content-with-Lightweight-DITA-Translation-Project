@@ -10769,6 +10769,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When we were designing the XDITA content and collection components, the Lightweight DITA subcommittee at OASIS developed user personas and scenarios based on the following intended audiences:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T025631Z" creationid="lenovo" creationdate="20200813T025631Z">
+        <seg>当我们设计XDITA内容和组件集时，OASIS的轻量级DITA小组委员会基于以下目标受众开发了用户角色和场景:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When writing software manuals, technical writers have historically distin&lt;t0/&gt;guished task-based instructions (guidance information) from reference information.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T094246Z" creationid="lenovo" creationdate="20200811T094246Z">
