@@ -10431,6 +10431,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The “minimize mixed content” rule also relaxes the content reuse mechanisms of DITA XML: In DITA, for example, content from a command (&lt;t0/&gt;&lt;cmd&gt;&lt;t1/&gt;) inside a task step (&lt;t2/&gt;&lt;step&gt;&lt;t3/&gt;) can only be reused in another command inside a step, but in XDITA and HDITA a command is expressed as a simple paragraph (&lt;t4/&gt;&lt;p&gt;&lt;t5/&gt;) that can be reused wherever paragraphs are allowed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T143013Z" creationid="lenovo" creationdate="20200813T143013Z">
+        <seg>“最小化混合内容”规则也简化DITA XML的内容复用机制：例如，在DITA中来自一个命令 （&lt;t0/&gt;&lt;cmd&gt;&lt;t1/&gt;）的内容在一个任务的步骤(步骤&gt; &lt;)只能使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The&lt;t1/&gt; structured recipe keeps content organized and should help computers understand and manipulate elements and attributes.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144036Z" creationid="DSS" creationdate="20200726T154404Z">
