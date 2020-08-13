@@ -6663,6 +6663,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Marketing writers who want to contribute to DITA-based product docu&lt;t0/&gt;mentation without using an XML editor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T081433Z" creationid="lenovo" creationdate="20200813T081433Z">
+        <seg>希望在不使用XML编辑器的情况下对基于DITA的产品文档做出贡献的市场营销作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Metadata Components</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T134432Z" creationid="DSS" creationdate="20200804T134432Z">
@@ -7991,6 +7999,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T024004Z" creationid="lenovo" creationdate="20200804T020337Z">
         <seg>因此，当面临“DITA的创世主”这一指控时，她是如何辩解的呢？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Software developers who want to contribute to documentation using HTML-authoring tools</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T081450Z" creationid="lenovo" creationdate="20200813T081330Z">
+        <seg>希望使用HTML创作工具为文档做出贡献的软件开发人员</seg>
       </tuv>
     </tu>
     <tu>
