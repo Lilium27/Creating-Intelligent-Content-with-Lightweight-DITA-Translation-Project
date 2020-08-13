@@ -1833,6 +1833,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After all, XML-based DITA had been quite successful at IBM since the late 1990s and then became an internationally- adopted standard for structuring and publishing content in &lt;t2/&gt;2005.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T015559Z" creationid="lenovo" creationdate="20200813T015559Z">
+        <seg>毕竟，自20世纪90年代末基于XML的DITA以来在IBM非常成功，并在2005年成为一种用于结构和发布内容的国际通用标准。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After receiving feedback from the DITA Technical Committee, Priestley revised the proposal and, in the summer of &lt;t0/&gt;2012, &lt;t1/&gt;updated the list of topical elements to include &lt;t2/&gt;27 &lt;t3/&gt;XML tags (&lt;t4/&gt;&lt;object&gt;&lt;t5/&gt;, &lt;t6/&gt;&lt;note&gt;&lt;t7/&gt;, and elements related to definition lists were among those added to the original proposal).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T082027Z" creationid="DSS" creationdate="20200731T080530Z">
@@ -5207,6 +5215,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In March of &lt;t0/&gt;2012, &lt;t1/&gt;when Michael Priestley officially proposed the development of a “lightweight framework for representing DITA topics,” it was a given that Lightweight DITA would be based on XML.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T015444Z" creationid="lenovo" creationdate="20200813T015444Z">
+        <seg>2012年3月，当迈克尔·普里斯特利正式提议开发“用于表示DITA主题的轻量级框架”时，轻量级DITA是基于XML的，这是可以确定的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In October &lt;t0/&gt;2016, &lt;t1/&gt;Kris Eberlein (chair of the DITA Technical Committee) requested a formal deliverable from the subcommittee: a committee note/white paper that would work as a proposal for the LwDITA standard.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T154755Z" creationid="DSS" creationdate="20200803T121447Z">
@@ -6115,6 +6131,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T152824Z" creationid="DSS" creationdate="20200726T152824Z">
         <seg>摒弃完全步用或不常用特性的语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lastly, I discuss the tools support available, and in progress, for authors who want to create and structure content with LwDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T015311Z" creationid="lenovo" creationdate="20200813T015311Z">
+        <seg>最后，我将为想用LwDITA创建和构造内容的作者探讨可用的和开发中的工具支持。</seg>
       </tuv>
     </tu>
     <tu>
