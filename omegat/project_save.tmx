@@ -6295,6 +6295,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Layer 2: Separating content from design.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T042337Z" creationid="DSS" creationdate="20200813T042337Z">
+        <seg>第二层级：分离内容与样式，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Legal terms of the franchise agreement</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T061921Z" creationid="DSS" creationdate="20200807T061921Z">
@@ -11814,6 +11822,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T132659Z" creationid="DSS" creationdate="20200809T132659Z">
         <seg>加西亚表示：“如果你想做草莓奶昔，然后翻看《烹饪的乐趣》一书查找食谱，你不会直接寻找“草莓奶昔”食谱。”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“This layer requires (students) to relinquish control of format in order to create content within an XML and template-based environment.”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T042351Z" creationid="DSS" creationdate="20200813T042351Z">
+        <seg>“这一层级要求（学生）放弃使用格式，以便在基于XML和模板的环境中创建内容”。</seg>
       </tuv>
     </tu>
     <tu>
