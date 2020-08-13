@@ -10286,6 +10286,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Therefore, instead of following a rigid content development workflow (e.g., Bailie &amp; Urbina's model), students focused on the quadrant of &lt;t5/&gt;collection&lt;t6/&gt; (creating or gathering content), while we assumed that elements of information technology (tools support, processing), management (deadlines and supervision), and design (templates and stylesheets) were the instructors' responsibility and were just briefly discussed in class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T125018Z" creationid="DSS" creationdate="20200813T125018Z">
+        <seg>因此，学生的关注点聚焦在“聚合”象限（创建或聚合内容），而不是遵循僵硬的内容开发工作流（如拜利和厄比纳的模型）。同时我们认为教授信息技术元素（使用工具、处理文件）、管理技能（管理时限和监管进程）、设计技能（制作模板和样式表）是教师的责任，但这些内容只在课堂进行了简要地讨论。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Therefore, it was a surprise when Priestley sent a message to the DITA Technical Committee on October 23, 2012 announcing a merger of sorts between DITA and Information Mapping for the Lightweight DITA proposal.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T092250Z" creationid="DSS" creationdate="20200731T092250Z">
