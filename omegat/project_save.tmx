@@ -7025,6 +7025,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please note that details might change between this writing and the actual release of the Lightweight DITA standard.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T012421Z" creationid="lenovo" creationdate="20200813T012421Z">
+        <seg>值得注意的是本书与实际发布的轻量级DITA标准在细节上存在差异。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Poster&lt;t0/&gt;: a link to an image or static video frame.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T155059Z" creationid="DSS" creationdate="20200804T155027Z">
