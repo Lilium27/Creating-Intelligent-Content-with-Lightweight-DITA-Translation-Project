@@ -10159,6 +10159,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The second line indicates that this is not just any XML file, and that it must be validated against the document type definition (DTD) of &lt;t4/&gt;lw-topic.dtd&lt;t5/&gt;, which is a grammar file that includes the XDITA syntax rules and was created by the Lightweight DITA subcommittee at OASIS.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T145747Z" creationid="DSS" creationdate="20200813T145747Z">
+        <seg>第二行代码表明这不是普通的 XML 文件，它必须按照 &lt;t4/&gt;lw-topic.dtd&lt;t5/&gt; 文档类型定义 (DTD) 进行验证。lw-topic.dtd 是一个语法文件，由 OASIS 的轻量级 DITA 小组委员制定，包含 XDITA 语法规则。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The second line points out that the topic is not just a regular XML file, but that is complies with the structuring rules described in the docu&lt;t0/&gt;ment type definition (DTD) of “topic” from the DITA standard.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T034347Z" creationid="lenovo" creationdate="20200812T034347Z">
