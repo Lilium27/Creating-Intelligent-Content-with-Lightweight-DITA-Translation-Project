@@ -5631,10 +5631,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the OASIS publication &lt;t6/&gt;Lightweight DITA: An Introduction&lt;t7/&gt;, we define the MDITA core and extended profiles as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T082344Z" creationid="lenovo" creationdate="20200813T082344Z">
+        <seg>在OASIS出版的 &lt;t6/&gt;《轻量级DITA:简介》&lt;t7/&gt;中，我们定义了MDITA核心和扩展概要如下:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the committee note &lt;t0/&gt;Lightweight DITA: An Introduction&lt;t1/&gt; we point out that the “XDITA and HDITA content models are designed to be functionally equiv&lt;t2/&gt;alent to each other” (Evia et al., &lt;t3/&gt;2018, &lt;t4/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T075621Z" creationid="lenovo" creationdate="20200813T075621Z">
-        <seg>在委员会资料《轻量级DITA:引言》中，我们指出“XDITA和HDITA内容模型在功能上是对等的” (Evia et al., &lt;t3/&gt;2018, &lt;t4/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T082349Z" creationid="lenovo" creationdate="20200813T075621Z">
+        <seg>在委员会资料《轻量级DITA:简介》中，我们指出“XDITA和HDITA内容模型在功能上是对等的” (Evia et al., &lt;t3/&gt;2018, &lt;t4/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5771,6 +5779,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T150637Z" creationid="DSS" creationdate="20200812T150637Z">
         <seg>在写作研究中，关于过程和产品的争论在珍妮特·米格 (1977) 的时代就已经基本解决了。因此，期望来自学术界或工业界的专业人员像拥抱某个产品或实践一样拥抱智能内容，而又不给出实现它的详细过程，是不公平的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In&lt;t0/&gt; Chapter &lt;t1/&gt;1&lt;t2/&gt; &lt;t3/&gt;I briefly introduced MDITA, the LwDITA authoring format based on Markdown, and its two content-development profiles &lt;t4/&gt;一 &lt;t5/&gt;core and extended.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T082321Z" creationid="lenovo" creationdate="20200813T082321Z">
+        <seg>在第一章中，我简要介绍了MDITA，一种基于Markdown的LwDITA创作格式，以及它的两个内容开发概要&lt;t4/&gt;——&lt;t5/&gt;核心和扩展。</seg>
       </tuv>
     </tu>
     <tu>
