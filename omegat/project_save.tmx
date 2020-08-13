@@ -4439,6 +4439,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Furthermore, those revised layers are connected to specific stages in the content-development lifecycles introduced in this chapter and the ISTE stand&lt;t0/&gt;ards for evaluating students as computational thinkers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T130004Z" creationid="DSS" creationdate="20200813T130004Z">
+        <seg>此外，经过修订的抽象层级与本章介绍的内容开发生命周期中的特定阶段，以及评估学生计算机思维能力的ISTE标准息息相关。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Garcia explained abstraction as a foundational element in computational thinking with the following scenario:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T132644Z" creationid="DSS" creationdate="20200809T132644Z">
@@ -10454,6 +10462,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They are also based on the LwDITA authoring formats described in &lt;t1/&gt;Chapter 4&lt;t2/&gt;, which embrace the diversity of tools used by content creators across disciplines and professional</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T130013Z" creationid="DSS" creationdate="20200813T130002Z">
+        <seg>它们还支持第四章中介绍的LwDITA写作格式，涵盖了跨学科和跨专业的内容创建者使用的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They could also use a more advanced HTML editor, including WYSIWYG editors (as long as they allow users to save content as standards- compliant HTML5), or a LwDITA-aware tool like Oxygen XML Editor.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T072825Z" creationid="DSS" creationdate="20200807T072825Z">
@@ -11757,6 +11773,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T074922Z" creationid="DSS" creationdate="20200808T074922Z">
         <seg>一系列的抽象层级，每个抽象层级建立在下一层级之上” &lt;t0/&gt;(2006, &lt;t1/&gt;pp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>silos.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T130057Z" creationid="DSS" creationdate="20200813T130057Z">
+        <seg>多种工具。</seg>
       </tuv>
     </tu>
     <tu>
