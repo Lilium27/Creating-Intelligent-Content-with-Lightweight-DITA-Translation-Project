@@ -10374,6 +10374,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Those original layers of abstraction for teaching content development with DITA to students in a department of English are the result of years of collaboration with my former colleagues Matthew Sharp, who is now assistant professor of communication at Embry-Riddle Aeronautical University, and Manuel Perez-Quinones, who is now professor and associate dean of computing and informatics at the University of North Carolina, Charlotte.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T041232Z" creationid="DSS" creationdate="20200813T041232Z">
+        <seg>教英语专业学生用 DITA 进行内容开发背后所涉及的抽象层级，是我与前同事马修·夏普、曼努埃尔·佩雷斯-奎诺恩合作多年的成果。马修·夏普现在是安博瑞德航空航天大学传播专业助理教授，曼努埃尔·佩雷斯-奎诺恩现在是北卡罗莱纳大学夏洛特分校计算机和信息学院的教授和副院长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Those pre-established content types are enforced by files that are commonly referred to as DTDs, although DTD is only one of the markup languages used to verify the structure of those files.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T125644Z" creationid="DSS" creationdate="20200724T125644Z">
