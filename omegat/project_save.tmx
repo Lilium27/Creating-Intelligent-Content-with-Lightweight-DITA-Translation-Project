@@ -9936,8 +9936,8 @@
       <tuv lang="en">
         <seg>These models of a content-development process establish concrete stages, decisions, and activities that can be linked to the ISTE indicators for assessing computational thinking and describing the layers of abstraction in the process of creating intelligent content with LwDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T170854Z" creationid="DSS" creationdate="20200812T170854Z">
-        <seg>内容开发过程模型包括与 ISTE 指标相联系的具体阶段、决策和活动，可以用于评估计算机思维能力，描述使用 LwDITA 创建智能内容过程中出现的抽象层级。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T032611Z" creationid="DSS" creationdate="20200812T170854Z">
+        <seg>内容开发过程模型包括与 ISTE 指标相联系的具体阶段、决策过程和实践活动，可以用于评估计算机思维能力，描述使用 LwDITA 创建智能内容过程中出现的抽象层级。</seg>
       </tuv>
     </tu>
     <tu>
