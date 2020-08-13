@@ -9839,6 +9839,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The next line of code in the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T150731Z" creationid="DSS" creationdate="20200813T150731Z">
+        <seg>示例中的下一行代码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The next section focuses on the number of elements included in the DITA standard across its releases.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T021203Z" creationid="lenovo" creationdate="20200812T021203Z">
@@ -12038,6 +12046,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T084808Z" creationid="DSS" creationdate="20200806T084808Z">
         <seg>称 DITA 地图是“将话题绑定在一起的粘合剂，是生成输出物的驱动器，也是用户可以遵循的信息路径”(Bellamy et al., &lt;t0/&gt;2012, &lt;t1/&gt;p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>example is an XML comment (enclosed within the characters &lt;&lt;t0/&gt;!-- &lt;t1/&gt;and &lt;t2/&gt;--&gt;&lt;t3/&gt;) that I am using as a temporary placeholder for actual content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T151036Z" creationid="DSS" creationdate="20200813T151036Z">
+        <seg>是一行 XML 注释（包含在字符 &lt;&lt;t0/&gt;!-- &lt;t1/&gt;和 &lt;t2/&gt;--&gt;&lt;t3/&gt; 之间），我把它作为实际内容的临时占位符。</seg>
       </tuv>
     </tu>
     <tu>
