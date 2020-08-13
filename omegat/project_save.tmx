@@ -2921,6 +2921,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Casual content contributors.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T091251Z" creationid="lenovo" creationdate="20200813T091251Z">
+        <seg>非正式内容贡献者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Chapter 4 identifies additional user types for the three ini- tial authoring formats of LwDITA.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T145209Z" creationid="DSS" creationdate="20200730T092108Z">
@@ -3152,6 +3160,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T085949Z" creationid="lenovo" creationdate="20200813T085949Z">
         <seg>偶尔从开发人员那里收到用Markdown编写的贡献的内容管理员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Content developers familiar with DITA or XDITA who want to use Markdown as an authoring language on devices that do not support XML editors</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T091203Z" creationid="lenovo" creationdate="20200813T091203Z">
+        <seg>熟悉DITA或XDITA的内容开发人员希望在不支持XML编辑器的设备上使用Markdown作为创作语言</seg>
       </tuv>
     </tu>
     <tu>
@@ -3505,6 +3521,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T085609Z" creationid="lenovo" creationdate="20200813T085609Z">
         <seg>需要与技术出版物或市场内容共享内容的应用程序编程接口(APIs)的开发人员和作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Developers who perceive XML as too verbose or even obsolete.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T091213Z" creationid="lenovo" creationdate="20200813T091213Z">
+        <seg>认为XML过于冗长甚至过时的开发人员。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7441,6 +7465,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Plain-text aficionados</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T091229Z" creationid="lenovo" creationdate="20200813T091229Z">
+        <seg>纯文本爱好者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please note that details might change between this writing and the actual release of the Lightweight DITA standard.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T012421Z" creationid="lenovo" creationdate="20200813T012421Z">
@@ -11181,6 +11213,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T094246Z" creationid="lenovo" creationdate="20200811T094246Z">
         <seg>在编写软件手册时，技术作者历来将基于任务的指令(指导信息)与参考信息区分开来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whereas XDITA and MDITA were designed to be functionally equivalent to each other, MDITA was created as a compatible subset that allows authors to represent basic DITA-like components in Markdown syntax.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T091349Z" creationid="lenovo" creationdate="20200813T091349Z">
+        <seg>虽然XDITA和MDITA被设计为功能上等价的，但MDITA是作为一个兼容子集创建的，它允许作者用Markdown语法表示类似于DITA的基础组件。</seg>
       </tuv>
     </tu>
     <tu>
