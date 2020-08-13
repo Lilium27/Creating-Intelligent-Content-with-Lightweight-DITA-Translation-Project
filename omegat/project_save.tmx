@@ -1307,8 +1307,8 @@
       <tuv lang="en">
         <seg>&lt;t6/&gt;The article went on to mention that Jeannette Wing “gets credit for making it fashionable” (Pappano, &lt;t7/&gt;2017).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T071222Z" creationid="DSS" creationdate="20200808T071222Z">
-        <seg>文章接着提到，珍妮特·温 (Jeannette Wing) “使计算思维变得流行起来，因而饱受赞扬” (Pappano, 2017)。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T155851Z" creationid="DSS" creationdate="20200808T071222Z">
+        <seg>&lt;t6/&gt;文章接着提到，珍妮特·温 (Jeannette Wing) “使计算思维变得流行起来，因而饱受赞扬” (Pappano, &lt;t7/&gt;2017)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1347,8 +1347,8 @@
       <tuv lang="en">
         <seg>&lt;t7/&gt;Applying this concept to content development or tech&lt;t8/&gt;nical communication, we can place a deliverable (e.g., a standard operating procedure or a webpage) at that lowest level of abstraction, not as a static object but as a dynamic process.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T114641Z" creationid="DSS" creationdate="20200808T074054Z">
-        <seg>将这一概念应用到内容开发或技术传播中，我们可以将可交付内容（如一个标准化操作流程或一个网页）视为最低的抽象层级，并且将其看作一个动态过程，而非静态对象。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T155947Z" creationid="DSS" creationdate="20200808T074054Z">
+        <seg>&lt;t7/&gt;将这一概念应用到内容开发或技术传播中，我们可以将可交付内容（如一个标准化操作流程或一个网页）视为最低的抽象层级，并且将其看作一个动态过程，而非静态对象。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1411,8 +1411,8 @@
       <tuv lang="en">
         <seg>&lt;t8/&gt;Wing's model of computational thinking, which I introduced in &lt;t9/&gt;Chapter&lt;t10/&gt; &lt;t11/&gt;1&lt;t12/&gt;, &lt;t13/&gt;highlights the importance of abstractions over numerical processes and algo&lt;t14/&gt;rithms.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T071434Z" creationid="DSS" creationdate="20200808T071348Z">
-        <seg>在第一章中我介绍过温的计算思维模型，该模型强调了抽象能力的重要性，数值计算和算法能力都位列其后。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T155926Z" creationid="DSS" creationdate="20200808T071348Z">
+        <seg>&lt;t8/&gt;在第&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;一&lt;t12/&gt;&lt;t13/&gt;章中我介绍过温的计算思维模型，该模型强调了抽象能力的重要性，数值计算和算法能力都位列其后。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4769,8 +4769,8 @@
       <tuv lang="en">
         <seg>Hayakawa &lt;t0/&gt;&amp; &lt;t1/&gt;Hayakawa explain the concept of abstraction through the example of “Bessie the cow,” which is described in their influential work on semantics as a dynamic process (with respiratory, nervous, digestive and other systems “constantly changing”) and not just a static object.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T074020Z" creationid="DSS" creationdate="20200808T074020Z">
-        <seg>Hayakawa 以贝西牛（Bessie the cow）为例解释了抽象概念，在他颇具影响力的语义学著作中，抽象概念被描述为一个动态过程（呼吸系统、神经系统、消化系统和其他系统都在“不断变化”），而不仅仅是一个静态对象。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T155938Z" creationid="DSS" creationdate="20200808T074020Z">
+        <seg>Hayakawa 以贝西牛（Bessie the cow）为例解释了抽象概念，在他颇具影响力的语义学著作中，抽象概念被描述为一个动态过程（呼吸系统、神经系统、消化系统和其他系统都在“不断变化”），而不仅仅是一个静态对象。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5009,8 +5009,8 @@
       <tuv lang="en">
         <seg>However, whereas a fully-developed lifecycle requires detailed planning and evaluation stages, the specific recommendations from &lt;t0/&gt;Creating Intelligent Content with Lightweight DITA&lt;t1/&gt; focus on the deficit in content-development training and education.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T123521Z" creationid="DSS" creationdate="20200809T123521Z">
-        <seg>但是一个成熟的生命周期需要详细的规划和合理的评估，而本书中的建议是多多关注内容开发培训和教育方面的不足。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160023Z" creationid="DSS" creationdate="20200809T123521Z">
+        <seg>但是一个成熟的生命周期需要详细的规划和合理的评估，而&lt;t0/&gt;本书&lt;t1/&gt;中的建议是多多关注内容开发培训和教育方面的不足。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5777,8 +5777,8 @@
       <tuv lang="en">
         <seg>In his popular textbook &lt;t0/&gt;Structured Computer Organization&lt;t1/&gt;, Andrew S. Tanenbaum described computers “as a</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T074907Z" creationid="DSS" creationdate="20200808T074907Z">
-        <seg>在安德鲁·斯图尔特·特南鲍姆（Andrew S. Tanenbaum）的畅销书《结构化计算机组织》中，他将计算机描述为“</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160005Z" creationid="DSS" creationdate="20200808T074907Z">
+        <seg>在安德鲁·斯图尔特·特南鲍姆（Andrew S. Tanenbaum）的畅销书《&lt;t0/&gt;结构化计算机组织&lt;t1/&gt;》中，他将计算机描述为“</seg>
       </tuv>
     </tu>
     <tu>
@@ -9183,8 +9183,8 @@
       <tuv lang="en">
         <seg>The Abstractions Behind Intelligent Content &lt;t0/&gt;151 &lt;t1/&gt;near future, as even the smallest content unit (a Microsoft Word file today) can grow to become a complex repository &lt;t2/&gt;(1000 &lt;t3/&gt;pages of unstructured content with hundreds of tasks, frequently-asked questions, and product descriptions, for example).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T130422Z" creationid="DSS" creationdate="20200809T130422Z">
-        <seg>&lt;t1/&gt;未来即使是最小的内容单元（今天的 Microsoft Word 文件）也可以发展为复杂的内容库（如包含数百个任务、常见问题和产品描述的1000页非结构化内容），独立作者也是如此。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160056Z" creationid="DSS" creationdate="20200809T130422Z">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;未来即使是最小的内容单元（今天的 Microsoft Word 文件）也可以发展为复杂的内容库（如包含数百个任务、常见问题和产品描述的&lt;t2/&gt;1000&lt;t3/&gt;页非结构化内容），独立作者也是如此。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9199,8 +9199,8 @@
       <tuv lang="en">
         <seg>The April &lt;t0/&gt;4, 2017 &lt;t1/&gt;edition of The New York Times featured a story titled “Learning to Think Like a Computer,” which contributed to introducing the concept of computational thinking to mainstream audiences.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T071151Z" creationid="DSS" creationdate="20200808T071151Z">
-        <seg>2017年4月4日，《纽约时报》刊登了一篇题为《学会像电脑一样思考》（Learning to Think Like a Computer）的文章，向主流观众介绍计算思维。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T155805Z" creationid="DSS" creationdate="20200808T071151Z">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;2017年4月4日，《纽约时报》刊登了一篇题为《学会像电脑一样思考》（Learning to Think Like a Computer）的文章，向主流观众介绍计算思维。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9487,8 +9487,8 @@
       <tuv lang="en">
         <seg>The article acknowledged that computational thinking is not necessarily a new term, and that it was used by educator and mathematician Seymour Papert “in &lt;t2/&gt;1980 &lt;t3/&gt;to envision how chil&lt;t4/&gt;dren could use computers to learn” (Pappano, &lt;t5/&gt;2017).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T084124Z" creationid="DSS" creationdate="20200808T071208Z">
-        <seg>文章表示，计算思维不是一个新术语，西摩·佩特（Seymour Papert）是一名教育家和数学家，他在1980年就使用计算思维来“构想儿童可以如何使用计算机进行学习” (Pappano, &lt;t5/&gt;2017)。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T155834Z" creationid="DSS" creationdate="20200808T071208Z">
+        <seg>文章表示，计算思维不是一个新术语，西摩·佩特（Seymour Papert）是一名教育家和数学家，他在&lt;t2/&gt;1980&lt;t3/&gt;年就使用计算思维来“构想儿童可以如何使用计算机进行学习” (Pappano, &lt;t5/&gt;2017)。</seg>
       </tuv>
     </tu>
     <tu>
