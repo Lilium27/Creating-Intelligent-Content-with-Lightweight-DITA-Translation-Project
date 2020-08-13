@@ -4431,6 +4431,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Furthermore, those layers of abstraction from the 2015 publication are XML-centric, because we used them to teach DITA XML.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T125027Z" creationid="DSS" creationdate="20200813T125027Z">
+        <seg>此外，2015年发布的抽象层级是以 XML 为中心的，因为我们使用它们来教授 DITA XML。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Garcia explained abstraction as a foundational element in computational thinking with the following scenario:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T132644Z" creationid="DSS" creationdate="20200809T132644Z">
@@ -6843,6 +6851,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T130627Z" creationid="DSS" creationdate="20200730T130627Z">
         <seg>迈克尔·普里斯特利和我正致力于编写轻量级 DITA 技术规范，我们的目标是在&lt;t1/&gt;2019年将其正式发布。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Michael Priestley and I created our first LwDITA demos and test files after that article was submitted for publication; as a result, those initial five layers of abstraction are all about DITA XML.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T125353Z" creationid="DSS" creationdate="20200813T125353Z">
+        <seg>在那篇文章提交发表后，我和迈克尔·普里斯特利才创建了第一个 LwDITA 演示样本和测试文件，因此，最初的五个抽象层级都是关于 DITA XML的。</seg>
       </tuv>
     </tu>
     <tu>
