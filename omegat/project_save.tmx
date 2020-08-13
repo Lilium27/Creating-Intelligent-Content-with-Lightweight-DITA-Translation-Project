@@ -2041,6 +2041,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An Important Rule About “Mixed Content” in LwDITA</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T132142Z" creationid="lenovo" creationdate="20200813T132142Z">
+        <seg>关于LwDITA中的“混合内容”的重要规则</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An Introduction to XML in Technical Communication</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153037Z" creationid="DSS" creationdate="20200726T153037Z">
@@ -2773,6 +2781,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T130405Z" creationid="DSS" creationdate="20200730T122831Z">
         <seg>在介绍 LwDITA 话题规则，阐述 LwDITA 的元素是如何从 DITA 标准 &lt;t0/&gt;1.3 &lt;t1/&gt;版本中的元素演变而来，又是如何在 LwDITA 三种核心写作格式中生成它们自己的后代元素之前，下面一节将先回顾 OASIS 公共电子邮件记录和会议纪要中记录的 DITA 的演变过程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Before getting into the specific tools and rules for creating content, the next section addresses an important authoring difference between DITA XML and some of the LwDITA authoring formats.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T132111Z" creationid="lenovo" creationdate="20200813T132111Z">
+        <seg>在讨论创建内容的特定工具和规则之前，下一节将讨论DITA XML和一些LwDITA创作格式之间的一个重要创作差异。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5875,6 +5891,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T033607Z" creationid="DSS" creationdate="20200808T033607Z">
         <seg>但是，在这个场景中，图5.11&lt;t0/&gt;&lt;t1/&gt;展示的简单网站不足以制作成纸质版的&lt;t2/&gt; Sensei Sushi &lt;t3/&gt;手册。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this section, I explain an authoring requirement that affects the LwDITA formats based on XML and HTML5.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T132215Z" creationid="lenovo" creationdate="20200813T132215Z">
+        <seg>在本节中，我将解释影响基于XML和HTML5的LwDITA格式的创作需求。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11388,8 +11412,8 @@
       <tuv lang="en">
         <seg>Whereas XDITA and MDITA were designed to be functionally equivalent to each other, MDITA was created as a compatible subset that allows authors to represent basic DITA-like components in Markdown syntax.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T091349Z" creationid="lenovo" creationdate="20200813T091349Z">
-        <seg>虽然XDITA和MDITA被设计为功能上等价的，但MDITA是作为一个兼容子集创建的，它允许作者用Markdown语法表示类似于DITA的基础组件。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T130924Z" creationid="lenovo" creationdate="20200813T091349Z">
+        <seg>虽然XDITA和MDITA被设计为功能上等价的，但MDITA是作为一个兼容子集创建的，它允许作者用Markdown语法表示类似于DITA的基础组件。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -11446,6 +11470,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T160552Z" creationid="DSS" creationdate="20200724T155531Z">
         <seg>当“颗粒”、“模块”、“单位”等术语都普遍被用来描述构建块，“主题”（topic）这个术语在过去的几年里获得了最大关注度，特别是在贸易文档领域。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>While this requirement initially surprises some authors, it provides benefits for both authors and LwDITA stylesheet developers, and is an important foundational feature of LwDITA</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T132800Z" creationid="lenovo" creationdate="20200813T132800Z">
+        <seg>虽然这个需求最初让一些作者感到惊讶，但它为作者和LwDITA样式表开发人员都提供了好处，而且是LwDITA的一个重要的基本特性</seg>
       </tuv>
     </tu>
     <tu>
