@@ -923,8 +923,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;Rhetorically effective &lt;t4/&gt;content can connect topical and authorial intentions with user responses regardless of a deliverable's format or context.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T151643Z" creationid="DSS" creationdate="20200811T151643Z">
-        <seg>而有着良好修辞作用的内容可以将话题和作者的意图与用户的反馈联系起来，无需考虑内容的格式或上下文。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160845Z" creationid="DSS" creationdate="20200811T151643Z">
+        <seg>而有着良好&lt;t3/&gt;修辞效果&lt;t4/&gt;的内容可以将话题和作者的意图与用户的反馈联系起来，无需考虑内容的格式或上下文。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4417,8 +4417,8 @@
       <tuv lang="en">
         <seg>For both of these audience groups, the mandate of “go learn about intelligent content and then bring it back to your work” responds to the call for ways to better align education and research in technical communication with practice that Andersen &lt;t1/&gt;(2014) &lt;t2/&gt;cat&lt;t3/&gt;egorizes as certainly not new but never so urgent.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T145655Z" creationid="DSS" creationdate="20200812T145655Z">
-        <seg>对这两类读者群体而言，“学习智能内容开发，然后把它运用到工作里去”的建议，响应了 对更好地将技术传播的教学和研究与实践结合起来的呼吁，安德森 (2014) 表示这种呼吁当然不是什么新鲜事，但是非常紧迫。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160920Z" creationid="DSS" creationdate="20200812T145655Z">
+        <seg>对这两类读者群体而言，“学习智能内容开发，然后把它运用到工作里去”的建议，响应了 对更好地将技术传播的教学和研究与实践结合起来的呼吁，安德森 (&lt;t1/&gt;2014&lt;t2/&gt;) 表示这种呼吁当然不是什么新鲜事，但是非常紧迫。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5177,8 +5177,8 @@
       <tuv lang="en">
         <seg>I propose a sixth characteristic of &lt;t0/&gt;rhetorical effectiveness&lt;t1/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T151559Z" creationid="DSS" creationdate="20200811T151559Z">
-        <seg>在此，我提出智能内容的修辞效果的第六个特性。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160826Z" creationid="DSS" creationdate="20200811T151559Z">
+        <seg>在此，我提出智能内容的&lt;t0/&gt;修辞效果&lt;t1/&gt;的第六个特性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5545,8 +5545,8 @@
       <tuv lang="en">
         <seg>In &lt;t1/&gt;Chapter &lt;t2/&gt;8&lt;t3/&gt;, &lt;t4/&gt;I introduce a model for content development with LwDITA that fosters rhe&lt;t5/&gt;torical effectiveness through context-setting metadata and human-in-the-loop (HITL) requirements for automation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T143406Z" creationid="DSS" creationdate="20200812T143406Z">
-        <seg>在第八章中，我将介绍一个使用 LwDITA 进行内容开发的模型，该模型通过上下文元数据和人类参与机器自动化循环训练（HITL）来提升修辞效果。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160909Z" creationid="DSS" creationdate="20200812T143406Z">
+        <seg>在&lt;t1/&gt;第&lt;t2/&gt;八&lt;t3/&gt;章&lt;t4/&gt;中，我将介绍一个使用 LwDITA 进行内容开发的模型，该模型通过上下文元数据和人类参与机器自动化循环训练（HITL）来提升修辞效果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8333,8 +8333,8 @@
       <tuv lang="en">
         <seg>Semantically rich &lt;t0/&gt;content includes “added extra, machine-readable infor&lt;t1/&gt;mation that describes what the content is, what it's about, and more.” This layer of metadata can specify the type of audience, platform (or cuisine, if we look back at the marinara sauce example from &lt;t2/&gt;Chapter &lt;t3/&gt;1&lt;t4/&gt;) &lt;t5/&gt;for a whole topic of information or for specific paragraph or phrase level elements in that topic (Rockley et al., &lt;t6/&gt;2015, &lt;t7/&gt;pp.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T145447Z" creationid="DSS" creationdate="20200811T143859Z">
-        <seg>语义丰富的内容包括“额外的机器可读信息，用以描述内容详情”。这一层元数据可以指定整个话题信息，或话题信息中的特定段落或短语级元素的受众类型、平台类型（菜谱类型，如第一章中意式番茄罗勒酱的例子）(Rockley et al., &lt;t6/&gt;2015, &lt;t7/&gt;pp.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160810Z" creationid="DSS" creationdate="20200811T143859Z">
+        <seg>语义丰富的内容包括&lt;t0/&gt;“额外的机器可读信息，用以描述内容详情”。这一层元数据可以指定整个话题信息，或话题信息中的特定段落或短语级元素的受众类型、平台类型（菜谱类型，如&lt;t2/&gt;第&lt;t3/&gt;一&lt;t4/&gt;&lt;t5/&gt;章中意式番茄罗勒酱的例子）(Rockley et al., &lt;t6/&gt;2015, &lt;t7/&gt;pp.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8685,8 +8685,8 @@
       <tuv lang="en">
         <seg>Structured &lt;t0/&gt;content is “designed to be both human and machine readable.” Enablers of that kind of dual readability are the behind-the-scenes labels and notes (i.e., tags and attributes) that made the formula of content &lt;t1/&gt;+ &lt;t2/&gt;code result in a data source.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T141558Z" creationid="DSS" creationdate="20200811T141558Z">
-        <seg>结构化内容&lt;t0/&gt;“甫一设计就决定既要适合人读，也要适合机读”。实现这种双重可读性的是隐藏在背后的标记和注释（例如标签和属性），使内容和代码结合起来产生一个数据源。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160720Z" creationid="DSS" creationdate="20200811T141558Z">
+        <seg>结构化内容&lt;t0/&gt;“甫一设计就决定既要适合人读，也要适合机读”。实现这种双重可读性的是隐藏在背后的标记和注释（例如标签和属性），使内容和代码结合起来产生一个数据源。&lt;t1/&gt;&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
