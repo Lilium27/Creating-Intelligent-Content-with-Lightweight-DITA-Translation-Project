@@ -3084,6 +3084,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Content structured with XDITA is also compatible with DITA; i.e., all XDITA topical compo&lt;t0/&gt;nents share syntax conventions with DITA, and collections of DITA topics can include XDITA files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T021402Z" creationid="lenovo" creationdate="20200813T021402Z">
+        <seg>使用XDITA构造的内容也与DITA兼容；例如，XDITA的所有主题组件与DITA都适用相同的语法惯例，XDITA文件能够使用DITA主题集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Content units in DITA are expressed using XML elements and can be conditionally processed using metadata attributes.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T144025Z" creationid="lenovo" creationdate="20200811T144025Z">
