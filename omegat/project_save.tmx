@@ -578,8 +578,8 @@
       <tuv lang="en">
         <seg>&lt;t12/&gt;This deficiency presents a unique opportunity for implementing an approach based on principles of computational thinking.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T121248Z" creationid="DSS" creationdate="20200810T121248Z">
-        <seg>这个不足为实现基于计算思维原则的方法提供了一个不可多得的机会。
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160156Z" creationid="DSS" creationdate="20200810T121248Z">
+        <seg>&lt;t12/&gt;这个不足为实现基于计算思维原则的方法提供了一个不可多得的机会。
 </seg>
       </tuv>
     </tu>
@@ -1387,8 +1387,8 @@
       <tuv lang="en">
         <seg>&lt;t8/&gt;Gu &lt;t9/&gt;&amp; &lt;t10/&gt;Pullman presented that scenario in &lt;t11/&gt;2009, &lt;t12/&gt;and technical writing jobs have not become assembly-line positions (at least not yet).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T131924Z" creationid="DSS" creationdate="20200810T131924Z">
-        <seg>该设想由古和铂尔曼于2009年提出，而技术写作并没有变成一个流水线上的职位（至少现在还没有)。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160351Z" creationid="DSS" creationdate="20200810T131924Z">
+        <seg>该设想由&lt;t8/&gt;古&lt;t9/&gt;和&lt;t10/&gt;铂尔曼于&lt;t11/&gt;2009&lt;t12/&gt;年提出，而技术写作并没有变成一个流水线上的职位（至少现在还没有)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4681,8 +4681,8 @@
       <tuv lang="en">
         <seg>Gu &lt;t1/&gt;&amp; &lt;t2/&gt;Pullman hypothesized that “a systems-based approach to content management may very well result in a devaluing of technical writers and editors and reduce their roles to those of assembly workers, where they are concerned only with producing discrete information chunks” (Gu &lt;t3/&gt;&amp; &lt;t4/&gt;Pullman, &lt;t5/&gt;2009, &lt;t6/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T131123Z" creationid="DSS" creationdate="20200810T131123Z">
-        <seg>古（Gu）和铂尔曼（Pullman）假设，“系统的内容管理方法可能会导致技术写作工程师和编辑的价值降低，使他们沦为和组装工人一样的角色，只需专注产出离散信息块” (Gu &lt;t3/&gt;&amp; &lt;t4/&gt;Pullman, &lt;t5/&gt;2009, &lt;t6/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160328Z" creationid="DSS" creationdate="20200810T131123Z">
+        <seg>古（Gu）&lt;t1/&gt;和&lt;t2/&gt;铂尔曼（Pullman）假设，“系统的内容管理方法可能会导致技术写作工程师和编辑的价值降低，使他们沦为和组装工人一样的角色，只需专注产出离散信息块” (Gu &lt;t3/&gt;&amp; &lt;t4/&gt;Pullman, &lt;t5/&gt;2009, &lt;t6/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7313,8 +7313,8 @@
       <tuv lang="en">
         <seg>Nevertheless, this is not a “learn code qua code” manifesto, and in some instances (like the use of Oxygen XML Editor as an authoring tool in &lt;t0/&gt;Chapters &lt;t1/&gt;5&lt;t2/&gt; &lt;t3/&gt;and &lt;t4/&gt;6&lt;t5/&gt;) &lt;t6/&gt;the actual code behind an implementation of LwDITA can be hidden in a layer of abstraction that shows a graphical user interface to a writer.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T145127Z" creationid="DSS" creationdate="20200810T123649Z">
-        <seg>然而，这不是一个“学习代码”的宣言，并且在某些情况下（如在第五章和第六章中提到的，使用 Oxygen XML Editor 作为写作工具），LwDITA 执行的实际代码可以隐藏在一个抽象层级中，只向创作者显示图形用户界面。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160305Z" creationid="DSS" creationdate="20200810T123649Z">
+        <seg>然而，这不是一个“学习代码”的宣言，并且在某些情况下（如在第&lt;t0/&gt;&lt;t1/&gt;五&lt;t2/&gt;&lt;t3/&gt;章和第&lt;t4/&gt;六&lt;t5/&gt;&lt;t6/&gt;章中提到的，使用 Oxygen XML Editor 作为写作工具），LwDITA 执行的实际代码可以隐藏在一个抽象层级中，只向创作者显示图形用户界面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7337,8 +7337,8 @@
       <tuv lang="en">
         <seg>Nine years later, Hart-Davidson &lt;t5/&gt;(2010) &lt;t6/&gt;noted that the technical communication literature focused narrowly on the concept of single-sourcing, to the detriment of other aspects of a content management (CM) workflow that involve technical authors.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T135955Z" creationid="DSS" creationdate="20200809T135955Z">
-        <seg>九年之后，哈特-戴维森 (2010) 注意到技术传播界的文章狭隘地关注同源开发的概念，这损害了与技术作者息息相关的内容管理 (CM) 工作流的其他方面。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160149Z" creationid="DSS" creationdate="20200809T135955Z">
+        <seg>九年之后，哈特-戴维森 (&lt;t5/&gt;2010&lt;t6/&gt;) 注意到技术传播界的文章狭隘地关注同源开发的概念，这损害了与技术作者息息相关的内容管理 (CM) 工作流的其他方面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9191,8 +9191,8 @@
       <tuv lang="en">
         <seg>The Abstractions Behind Intelligent Content &lt;t0/&gt;153 &lt;t1/&gt;posts, compiling “the blog posts into a digest post of the top ‘X' things you need to know,” extracting “key quotes and tweet them,” and taking “the same questions, post them to Facebook, and start a conversation” (Rockley, &lt;t2/&gt;2016).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T131100Z" creationid="DSS" creationdate="20200810T131100Z">
-        <seg>再将“多篇博客汇编为一篇摘要，向读者介绍他们最需要知道的行业洞察”，提取“关键引用发送推特,”以及“将研讨会上的问题发在Facebook上，发起讨论” (Rockley, &lt;t2/&gt;2016)。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160319Z" creationid="DSS" creationdate="20200810T131100Z">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;再将“多篇博客汇编为一篇摘要，向读者介绍他们最需要知道的行业洞察”，提取“关键引用发送推特,”以及“将研讨会上的问题发在Facebook上，发起讨论” (Rockley, &lt;t2/&gt;2016)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12220,8 +12220,8 @@
       <tuv lang="en">
         <seg>new in the world of technical communication: it has been more than &lt;t0/&gt;17 &lt;t1/&gt;years since Hart-Davidson &lt;t2/&gt;(2001) &lt;t3/&gt;asked scholars and practitioners to see the con&lt;t4/&gt;tent chunks of single-sourcing projects as rhetorical objects and not just mere information.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T135909Z" creationid="DSS" creationdate="20200809T135909Z">
-        <seg>域并不新鲜：自哈特-戴维森 (Hart-Davidson, 2001) 要求学者和从业者将同源开发项目中的内容块视为修辞对象而不仅仅是信息以来，已经超过十七年了。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160135Z" creationid="DSS" creationdate="20200809T135909Z">
+        <seg>域并不新鲜：自哈特-戴维森 (Hart-Davidson, &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;2001&lt;t3/&gt;) 要求学者和从业者将同源开发项目中的内容块视为修辞对象而不仅仅是信息以来，已经超过十七年了。</seg>
       </tuv>
     </tu>
     <tu>
