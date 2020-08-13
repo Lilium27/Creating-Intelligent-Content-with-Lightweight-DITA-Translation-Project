@@ -3606,6 +3606,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Even before LwDITA existed, when my courses were based on full DITA XML, authoring was the “easy” part.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T013307Z" creationid="lenovo" creationdate="20200813T013307Z">
+        <seg>即使在LwDITA出现之前，当我的课程基于完整的DITA XML时，创作也是“容易”的部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Even before we started using the term “authoring formats” (which came from Eliot Kimber &lt;t0/&gt;一 &lt;t1/&gt;the ultimate expert on XML for technical communica&lt;t2/&gt;tion and a vital member of the DITA Technical Committee), in the Lightweight DITA subcommittee the analogy of flavors drove the development of mappings to represent DITA components in diverse markup languages.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T051016Z" creationid="lenovo" creationdate="20200812T044956Z">
@@ -10625,6 +10633,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Which leads us to an important distinction in DITA (or LwDITA)-based workflows.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T013338Z" creationid="lenovo" creationdate="20200813T013338Z">
+        <seg>这就引出了基于DITA(或LwDITA)的工作流中的一个重要区别。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>While a professional in another field may be able to use an application with little training, the met&lt;t1/&gt;aphors and ways of thinking about computing must be explicitly taught.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T143753Z" creationid="DSS" creationdate="20200810T143753Z">
@@ -10885,6 +10901,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T151649Z" creationid="DSS" creationdate="20200803T151649Z">
         <seg>内容类型：话题（topic）和地图（map）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>content using the LwDITA flavors.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T013057Z" creationid="lenovo" creationdate="20200813T013057Z">
+        <seg>。</seg>
       </tuv>
     </tu>
     <tu>
