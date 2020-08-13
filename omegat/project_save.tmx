@@ -5721,8 +5721,8 @@
       <tuv lang="en">
         <seg>In a previous publication (Evia et al., 2015), I described the approach imple&lt;t0/&gt;mented in the undergraduate course &lt;t1/&gt;Creating User Documentation&lt;t2/&gt; at Virginia Tech to teach concepts of intelligent content, DITA, and computational thinking combined with rhetorical problem solving.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T035727Z" creationid="DSS" creationdate="20200813T035727Z">
-        <seg>在之前的一篇文章中 (Evia et al., 2015)，我介绍了在弗吉尼亚理工大学的本科课程《用户文档写作》中，将智能内容、DITA和计算机思维等概念与修辞问题解决能力结合起来教授的教学方法。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T154835Z" creationid="DSS" creationdate="20200813T035727Z">
+        <seg>在之前的一篇文章中 (Evia et al., 2015)，我介绍了在弗吉尼亚理工大学的本科课程《&lt;t1/&gt;用户文档写作&lt;t2/&gt;》中，将智能内容、DITA和计算机思维等概念与修辞问题解决能力结合起来教授的教学方法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6745,24 +6745,24 @@
       <tuv lang="en">
         <seg>Layer &lt;t0/&gt;3: &lt;t1/&gt;Authoring granular content with XML.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T115347Z" creationid="DSS" creationdate="20200813T115347Z">
-        <seg>第三层级：用 XML 编写细粒度内容，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T154847Z" creationid="DSS" creationdate="20200813T115347Z">
+        <seg>第&lt;t0/&gt;三&lt;t1/&gt;层级：用 XML 编写细粒度内容，</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Layer &lt;t0/&gt;4: &lt;t1/&gt;Authoring and linking Component Content Management mod&lt;t2/&gt;ules with DITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T115359Z" creationid="DSS" creationdate="20200813T115359Z">
-        <seg>第四层级：使用 DITA 编写、链接组件内容管理模块，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T154859Z" creationid="DSS" creationdate="20200813T115359Z">
+        <seg>第&lt;t0/&gt;四&lt;t1/&gt;层级：使用 DITA 编写、链接组件内容管理模块，</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Layer &lt;t0/&gt;5: &lt;t1/&gt;Single sourcing and content reuse.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T115409Z" creationid="DSS" creationdate="20200813T115409Z">
-        <seg>第五层级：同源开发和内容复用，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T154934Z" creationid="DSS" creationdate="20200813T115409Z">
+        <seg>第&lt;t0/&gt;五&lt;t1/&gt;层级：同源开发和内容复用，</seg>
       </tuv>
     </tu>
     <tu>
@@ -10721,8 +10721,8 @@
       <tuv lang="en">
         <seg>Therefore, instead of following a rigid content development workflow (e.g., Bailie &amp; Urbina's model), students focused on the quadrant of &lt;t5/&gt;collection&lt;t6/&gt; (creating or gathering content), while we assumed that elements of information technology (tools support, processing), management (deadlines and supervision), and design (templates and stylesheets) were the instructors' responsibility and were just briefly discussed in class.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T125018Z" creationid="DSS" creationdate="20200813T125018Z">
-        <seg>因此，学生的关注点聚焦在“聚合”象限（创建或聚合内容），而不是遵循僵硬的内容开发工作流（如拜利和厄比纳的模型）。同时我们认为教授信息技术元素（使用工具、处理文件）、管理技能（管理时限和监管进程）、设计技能（制作模板和样式表）是教师的责任，但这些内容只在课堂进行了简要地讨论。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T154949Z" creationid="DSS" creationdate="20200813T125018Z">
+        <seg>因此，学生的关注点聚焦在“&lt;t5/&gt;聚合&lt;t6/&gt;”象限（创建或聚合内容），而不是遵循僵硬的内容开发工作流（如拜利和厄比纳的模型）。同时我们认为教授信息技术元素（使用工具、处理文件）、管理技能（管理时限和监管进程）、设计技能（制作模板和样式表）是教师的责任，但这些内容只在课堂进行了简要地讨论。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10857,8 +10857,8 @@
       <tuv lang="en">
         <seg>They are also based on the LwDITA authoring formats described in &lt;t1/&gt;Chapter 4&lt;t2/&gt;, which embrace the diversity of tools used by content creators across disciplines and professional</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T130013Z" creationid="DSS" creationdate="20200813T130002Z">
-        <seg>它们还支持第四章中介绍的LwDITA写作格式，涵盖了跨学科和跨专业的内容创建者使用的</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T155011Z" creationid="DSS" creationdate="20200813T130002Z">
+        <seg>它们还支持第&lt;t1/&gt;&lt;t2/&gt;四章中介绍的 LwDITA 写作格式，涵盖了跨学科和跨专业的内容创建者使用的</seg>
       </tuv>
     </tu>
     <tu>
