@@ -5743,6 +5743,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the last section of this chapter I highlight one of the most promising LwDITA features: the ability to create coherent and consistent user deliverables from cross-format sources developed by diverse groups of content creators.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T130622Z" creationid="DSS" creationdate="20200813T130622Z">
+        <seg>在本章的最后一节中，我重点介绍了LwDITA最具前景的特性之一：使用不同内容创建团队开发的不同格式的资源，生成统一的用户交付物的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the previous chapter I analyzed the LwDITA document type of map, which works as a collection and organization mechanism for content units.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T061026Z" creationid="DSS" creationdate="20200808T061026Z">
@@ -12494,8 +12502,8 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;Multimedia components.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T061856Z" creationid="DSS" creationdate="20200808T061856Z">
-        <seg>` &lt;t0/&gt;多媒体组件</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T130226Z" creationid="DSS" creationdate="20200808T061856Z">
+        <seg>· &lt;t0/&gt;多媒体组件</seg>
       </tuv>
     </tu>
     <tu>
