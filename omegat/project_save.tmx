@@ -745,6 +745,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t2/&gt;The generic topic is the only document type available for creating content in the initial release of the LwDITA specification.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T131133Z" creationid="DSS" creationdate="20200813T131133Z">
+        <seg>在LwDITA规范最初的版本中，通用话题是用于创建内容的惟一文档类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t2/&gt;This highly structured task topic reads like a smoothie that came out of a blender combining generic, organizational, and disciplinary conven&lt;t3/&gt;tions and commonplaces from Carroll, Price, and Hargis and her co-authors, and others who attempted to capture the essence of technical documentation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T142427Z" creationid="lenovo" creationdate="20200811T130951Z">
@@ -4227,6 +4235,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T131244Z" creationid="DSS" creationdate="20200804T131147Z">
         <seg>脚注（footnote）&lt;t0/&gt;：不适合写在正文内容的注释内容，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For Chef Pedro's content needs, a very simple topic would look as the example in &lt;t3/&gt;Figure &lt;t4/&gt;6.1&lt;t5/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T131145Z" creationid="DSS" creationdate="20200813T131145Z">
+        <seg>厨师佩德罗的内容需求可以编写成一个非常简单的话题，如图6.1所示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9385,6 +9401,15 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T072237Z" creationid="lenovo" creationdate="20200810T130833Z">
         <seg>DITA的元素类型同样继承了IBM在20世纪80年代首次出版的《产出高质量技术信息》一书中的通用型、组织型和规范型惯例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The essential unit of content in LwDITA is a topic, which is represented in XDITA with the XML tag &lt;t0/&gt;&lt;topic&gt; &lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T131124Z" creationid="DSS" creationdate="20200813T131124Z">
+        <seg>LwDITA的基本内容单元是话题，话题在 XDITA 中用 XML 标签 &lt;t0/&gt;&lt;topic&gt; &lt;t1/&gt;表示。
+</seg>
       </tuv>
     </tu>
     <tu>
