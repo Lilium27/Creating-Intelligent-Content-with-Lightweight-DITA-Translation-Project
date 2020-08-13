@@ -4223,6 +4223,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;6.1 &lt;t1/&gt;Minimal XDITA topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T151045Z" creationid="DSS" creationdate="20200813T151045Z">
+        <seg>图6.1 最简化的 XDITA 话题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Figure &lt;t0/&gt;1.6&lt;t1/&gt; &lt;t2/&gt;shows a very basic DITA map for Chef Pedro's recipe critique website.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T114223Z" creationid="DSS" creationdate="20200725T153515Z">
@@ -6003,6 +6011,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T014214Z" creationid="lenovo" creationdate="20200813T014214Z">
         <seg>在本章中，我将概述三种LwDITA风格(XDITA、HDITA和MDITA)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this example, the only content is a placeholder XML comment (marked by the characters &lt;t3/&gt;&lt;!-- &lt;t4/&gt;and &lt;t5/&gt;--&gt;&lt;t6/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T151536Z" creationid="DSS" creationdate="20200813T151536Z">
+        <seg>在本例中，唯一的内容是用于占位的 XML 注释（&lt;t3/&gt;&lt;!-- &lt;t4/&gt;和 &lt;t5/&gt;--&gt;&lt;t6/&gt; 之间的部分）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9875,6 +9891,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T042432Z" creationid="DSS" creationdate="20200808T040145Z">
         <seg>MDITA格式的手册地图中包含的唯一组件是标题（在本例中用 Markdown 中的 &lt;t4/&gt;# &lt;t5/&gt;表示标题）和列表项 &lt;t6/&gt;(&lt;t7/&gt;-&lt;t8/&gt;) &lt;t9/&gt;，列表项将提供关联到到每个话题的连接，并形成导航标题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The opening and closing XML tags for topic&lt;t2/&gt; (in bold font) create an environment for content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T151052Z" creationid="DSS" creationdate="20200813T151052Z">
+        <seg>用于标记话题开始和结束 XML 标记（图中粗体部分）创建了内容写作环境。</seg>
       </tuv>
     </tu>
     <tu>
