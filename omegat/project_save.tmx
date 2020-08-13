@@ -7891,6 +7891,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Students in Professional and Technical Writing courses from the Virginia Tech Department of English have fun creating</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T013052Z" creationid="lenovo" creationdate="20200813T013052Z">
+        <seg>来自弗吉尼亚理工学院英语专业的学生在专业技术写作课上使用LwDITA风格创作内容时觉得很有趣味性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Students understand how automation works and use algorithmic think&lt;t0/&gt;ing to develop a sequence of steps to create and test automated solutions (ISTE, &lt;t1/&gt;2018).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T132401Z" creationid="DSS" creationdate="20200811T132401Z">
@@ -8842,6 +8850,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T113004Z" creationid="DSS" creationdate="20200803T113004Z">
         <seg>这些小组围绕学习和培训、机器工业、软件开发和市场营销等领域进行组织。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The ice cream analogy also implies that authoring content is the fun part of a LwDITA-based publishing workflow.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T012917Z" creationid="lenovo" creationdate="20200813T012808Z">
+        <seg>冰淇淋比喻还表明创作内容是基于轻量级DITA发布工作流有趣的组成部分。</seg>
       </tuv>
     </tu>
     <tu>
