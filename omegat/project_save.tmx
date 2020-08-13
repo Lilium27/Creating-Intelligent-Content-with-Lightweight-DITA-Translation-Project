@@ -2425,6 +2425,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>At its core, HDITA uses some HTML5 elements and attributes (particularly custom data attributes) to reproduce some of the content structur&lt;t0/&gt;ing, reuse, and publishing capabilities of DITA without depending on XML.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T075421Z" creationid="lenovo" creationdate="20200813T075421Z">
+        <seg>HDITA的核心会使用一些HTML5元素和属性(特别是自定义数据属性)来再现DITA的一些内容结构、复用和发布功能，而不依赖于XML。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At its core, XDITA is a simplified version of DITA, with a limited set of elements (tags) and options but similar capabilities for content structure, reuse, and publication.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T021215Z" creationid="lenovo" creationdate="20200813T021215Z">
@@ -5579,6 +5587,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T114221Z" creationid="DSS" creationdate="20200808T074049Z">
         <seg>在Hayakawa的抽象阶梯中，“贝西”这个词“是语言最低阶别的抽象”，因为它没有包含贝西牛可能与其他动物、其他农场资产、其他一般资产，以及一个农民最终的财富来源所共同的特性 ，略去了更深层次的特征 (Hayakawa &lt;t2/&gt;&amp; &lt;t3/&gt;Hayakawa, &lt;t4/&gt;1990; &lt;t5/&gt;p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the committee note &lt;t0/&gt;Lightweight DITA: An Introduction&lt;t1/&gt; we point out that the “XDITA and HDITA content models are designed to be functionally equiv&lt;t2/&gt;alent to each other” (Evia et al., &lt;t3/&gt;2018, &lt;t4/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T075621Z" creationid="lenovo" creationdate="20200813T075621Z">
+        <seg>在委员会资料《轻量级DITA:引言》中，我们指出“XDITA和HDITA内容模型在功能上是对等的” (Evia et al., &lt;t3/&gt;2018, &lt;t4/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
