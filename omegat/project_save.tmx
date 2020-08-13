@@ -6495,6 +6495,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Michael Priestley created the acronym XDITA in &lt;t0/&gt;2014, &lt;t1/&gt;and until then all Lightweight DITA prototypes resembled what we now know as XDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T020132Z" creationid="lenovo" creationdate="20200813T020132Z">
+        <seg>迈克尔·普里斯特利在2014年创造了XDITA这一缩写，至此所有轻量级DITA原型才集成成我们今天所熟知的XDITA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Michael Priestley reiterated this expanded collection of lightweight topics at a presentation during the DITA North America/Content Management Solutions in Providence, Rhode Island.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T130650Z" creationid="DSS" creationdate="20200801T130650Z">
