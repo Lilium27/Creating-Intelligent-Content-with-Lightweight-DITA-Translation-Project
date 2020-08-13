@@ -2657,6 +2657,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Basic topic components</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T130633Z" creationid="DSS" creationdate="20200813T130633Z">
+        <seg>基本话题组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Basic topic types</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T123140Z" creationid="DSS" creationdate="20200801T123140Z">
@@ -10950,6 +10958,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Topic</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T130636Z" creationid="DSS" creationdate="20200813T130636Z">
+        <seg>话题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Topic derives from the widely adopted open content standard known as Darwin Information Typing Architecture (DITA), which defines a common structure for con&lt;t0/&gt;tent that promotes the consistent creation, sharing, and reuse of content.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T155631Z" creationid="DSS" creationdate="20200724T155631Z">
@@ -11509,6 +11525,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200808T072751Z" creationid="lenovo" creationdate="20200808T072751Z">
         <seg>怀甘特对于用户手册分析集中于文档的范围和成本背后的标准:内容、意图和技术。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XDITA</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T131108Z" creationid="DSS" creationdate="20200813T131108Z">
+        <seg>XDITA 格式</seg>
       </tuv>
     </tu>
     <tu>
