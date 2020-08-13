@@ -2545,6 +2545,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Authors who want to write simple content for the web that does not require a transformation process</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T081622Z" creationid="lenovo" creationdate="20200813T081622Z">
+        <seg>希望为web编写简单内容而无需进行转换的作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Automation can be used to minimize the time, effort and money needed to apply a good content strategy.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T132841Z" creationid="DSS" creationdate="20200810T132841Z">
@@ -2757,6 +2765,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T090505Z" creationid="DSS" creationdate="20200801T132448Z">
         <seg>除了将LwDITA作为一个标准发布，与DITA标准&lt;t0/&gt;1.3&lt;t1/&gt;版本的三个版本分开之外，普里斯特利还考虑打破 DITA 对 XML（其唯一语言）的依赖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bloggers and content strategists who want to be able to create and edit con&lt;t0/&gt;tent using mobile devices</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T081548Z" creationid="lenovo" creationdate="20200813T081548Z">
+        <seg>希望能够使用移动设备创建和编辑内容的博主和内容策略师</seg>
       </tuv>
     </tu>
     <tu>
@@ -6959,6 +6975,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Non-English-speaking content creators who are comfortable with HTML5 semantic elements.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T082242Z" creationid="lenovo" creationdate="20200813T082242Z">
+        <seg>熟悉HTML5语义元素的非英语内容创作者。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Not at all.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T160409Z" creationid="DSS" creationdate="20200804T160409Z">
@@ -8408,6 +8432,14 @@
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T162501Z" creationid="DSS" creationdate="20200724T162450Z">
         <seg>任务（task）：包括步骤（指南信息）
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Teachers and trainers who want to create course content for a web site or learning management system (LMS)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T081510Z" creationid="lenovo" creationdate="20200813T081510Z">
+        <seg>希望为web站点或学习管理系统(LMS)创建课程内容的教师和培训师</seg>
       </tuv>
     </tu>
     <tu>
