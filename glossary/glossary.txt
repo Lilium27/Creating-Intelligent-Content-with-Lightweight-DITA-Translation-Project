@@ -454,3 +454,4 @@ DITA-aware	可识别DITA
 Janet Emig	珍妮特·米格
 Bailie	拜利
 Urbina	厄比纳
+non-XML version of DITA	非XML版DITA
