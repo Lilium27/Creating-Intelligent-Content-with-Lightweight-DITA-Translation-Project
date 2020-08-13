@@ -6287,6 +6287,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Layer 1: Developing quality documentation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T042304Z" creationid="DSS" creationdate="20200813T042304Z">
+        <seg>第一层级：开发质量文档，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Legal terms of the franchise agreement</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T061921Z" creationid="DSS" creationdate="20200807T061921Z">
@@ -11790,6 +11798,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T092231Z" creationid="lenovo" creationdate="20200723T091708Z">
         <seg>“其一就是在过去的年代，人们不得不开动脑筋，因为系统笨重且无法运行，你必须了解Unix操作系统并且不对一闪一闪的命令行产生畏惧心理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“The main objective in this layer is to introduce technical documentation as a process and not just a product.”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T042324Z" creationid="DSS" creationdate="20200813T042324Z">
+        <seg>“这一层级的主要目标是将技术文档开发视为一个过程，而非产品”。</seg>
       </tuv>
     </tu>
     <tu>
