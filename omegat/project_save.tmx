@@ -1241,6 +1241,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t6/&gt;As a result, every content component available in XDITA has a counterpart in HDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T075657Z" creationid="lenovo" creationdate="20200813T075657Z">
+        <seg>&lt;t6/&gt;因此，XDITA中每个可用的内容组件在HDITA中都有对应的组件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t6/&gt;Feedback from audiences to conference presentations &lt;t7/&gt;about LwDITA, and comments from members of the DITA Technical Committee, introduced potential applications for the simplified standard outside of the traditional DITA domain of technical documentation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T120808Z" creationid="DSS" creationdate="20200809T115716Z">
@@ -2673,6 +2681,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Because the HDITA content components represent a subset of all the avail&lt;t0/&gt;able elements in the HTML5 standard&lt;t1/&gt;1&lt;t2/&gt;, not all tags that are valid HTML5 are allowed in HDITA (e.g., there's no &lt;t3/&gt;&lt;h3&gt; &lt;t4/&gt;element to express a level-three head&lt;t5/&gt;ing in HDITA, although it exists in the HTML5 standard).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T080628Z" creationid="lenovo" creationdate="20200813T080628Z">
+        <seg>因为HDITA内容组件是HTML5标准1中所有可用元素的子集，并不是所有在HTML5中有效的标签都能在HDITA中使用（例如，在HDITA中没有&lt;h3&gt;元素来表示三级标题，尽管它在HTML5标准中存在）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before &lt;t0/&gt;DQTI&lt;t1/&gt;, however, there was &lt;t2/&gt;PQTI.&lt;t3/&gt; The publication's original title was &lt;t4/&gt;Producing Quality Technical Information&lt;t5/&gt;, and it started as an internal IBM handbook of recommendations for content authors and evaluators.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T154111Z" creationid="lenovo" creationdate="20200810T144048Z">
@@ -3248,6 +3264,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T144023Z" creationid="DSS" creationdate="20200725T144023Z">
         <seg>DITA 地图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DITA and XDITA topic col&lt;t7/&gt;lections can include HDITA topics, and vice versa.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T075804Z" creationid="lenovo" creationdate="20200813T075804Z">
+        <seg>DITA和XDITA主题集合可以包含HDITA主题，反之亦然。</seg>
       </tuv>
     </tu>
     <tu>
