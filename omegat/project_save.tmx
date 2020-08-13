@@ -2609,6 +2609,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>At this point, an author new to structured content should resist the urge to preview the topic in a deliverable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T152209Z" creationid="DSS" creationdate="20200813T152209Z">
+        <seg>一个刚接触结构化内容写作的创作者应该遏制住在交付文件中预览话题的冲动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Audio&lt;t0/&gt;: a link to sound to be included in the content.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T154957Z" creationid="DSS" creationdate="20200804T154957Z">
@@ -10499,6 +10507,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T081255Z" creationid="lenovo" creationdate="20200723T081255Z">
         <seg>手册不再作为技术传播的默认体裁对这一领域造成的影响是多方面的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The “format free” characteristic of intel&lt;t0/&gt;ligent content (Rockley et al., 2015) depends on the separation of content and presentation; after all, this sample topic can be transformed to different deliv&lt;t1/&gt;erables with a variety of formats and stylesheets.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T153041Z" creationid="DSS" creationdate="20200813T153041Z">
+        <seg>智能内容的“无格式”特征 (Rockley et al., 2015) 依赖内容与形式的分离，同样的话题可以转换为具有各种格式和样式的交付文件。</seg>
       </tuv>
     </tu>
     <tu>
