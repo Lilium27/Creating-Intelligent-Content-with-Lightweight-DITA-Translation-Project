@@ -1953,6 +1953,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All three list items are valid in DITA &lt;t7/&gt;1.3.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T140212Z" creationid="lenovo" creationdate="20200813T140212Z">
+        <seg>这三个列表项在DITA &lt;t7/&gt;1.3中都有效。&lt;片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allowing learners to start immediately on meaningfully realistic tasks</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T074649Z" creationid="lenovo" creationdate="20200723T074649Z">
@@ -4111,6 +4119,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;4.1 &lt;t1/&gt;Sample DITA topic showing the difference among elements with&lt;t2/&gt; mixed content and those with just character data or just child elements.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T140000Z" creationid="lenovo" creationdate="20200813T140000Z">
+        <seg>图&lt;t0/&gt;4.1 &lt;t1/&gt;DITA主题示例显示含混合内容的元素与只包含字符数据或子元素的元素之间的差异。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;5.1 &lt;t1/&gt;DITA map for Chef Pedro's recipe critique website.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T122316Z" creationid="DSS" creationdate="20200806T092440Z">
@@ -4371,6 +4387,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T075303Z" creationid="DSS" creationdate="20200724T162425Z">
         <seg>例如，“概念”（concept）可以是对厨师佩德罗菜谱中酱汁部分的介绍，“任务”（task）可以为特定的辛香番茄酱和调味料提供菜谱（佩德罗可以写一个将番茄切成小块的操作步骤，然后在所有需要用到这一步骤食谱中重复使用！），“参考”（reference）可以列出准备食材的常用技术和工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, in XDITA and HDITA only a handful of elements allow character data.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T135620Z" creationid="lenovo" creationdate="20200813T135620Z">
+        <seg>例如，在XDITA和HDITA中，只有少数元素允许字符数据。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5555,6 +5579,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T093638Z" creationid="lenovo" creationdate="20200723T075643Z">
         <seg>在Svenvold看来，卡罗尔将极简主义原理运用至技术传播这一特殊体裁的写作中，写出来的手册就注定是失败的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In XDITA and</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T135633Z" creationid="lenovo" creationdate="20200813T135633Z">
+        <seg>在XDITA和</seg>
       </tuv>
     </tu>
     <tu>
@@ -9502,6 +9534,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The first list item mixes character data with a child element (a paragraph in this case).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T140133Z" creationid="lenovo" creationdate="20200813T140133Z">
+        <seg>第一个列表项将字符数据与子元素(本例中为段落)混合在一起。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The first topic reference in the DITA map from &lt;t0/&gt;Figure &lt;t1/&gt;5.1&lt;t2/&gt; &lt;t3/&gt;is the DITA task version of the marinara sauce recipe from&lt;t4/&gt; Chapter &lt;t5/&gt;1&lt;t6/&gt; &lt;t7/&gt;(&lt;t8/&gt;Figure &lt;t9/&gt;5.2&lt;t10/&gt;).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T153800Z" creationid="DSS" creationdate="20200806T090153Z">
@@ -9759,6 +9799,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The other list items do not mix character data with elements.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T140140Z" creationid="lenovo" creationdate="20200813T140140Z">
+        <seg>其他列表项不会将字符数据与元素混合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The overlap, despite apparent and actual differences, in the DITA XML and rhetorical discussion of topics and commonplaces highlights the practical applications of topics, and also their perceived limitations.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T014348Z" creationid="lenovo" creationdate="20200812T014348Z">
@@ -10003,6 +10051,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T061406Z" creationid="DSS" creationdate="20200808T061406Z">
         <seg>你可以从&lt;t2/&gt;Creating Intelligent Content with Lightweight DITA&lt;t3/&gt; GitHub 仓库 (&lt;t4/&gt;https://github.com/carlosevia/&lt;t5/&gt; &lt;t6/&gt;lwdita-book&lt;t7/&gt;)下载样例文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The sample topic includes an unordered list (&lt;t3/&gt;&lt;ul&gt;&lt;t4/&gt;) that contains three list items (&lt;t5/&gt;&lt;li&gt;&lt;t6/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T140122Z" creationid="lenovo" creationdate="20200813T140122Z">
+        <seg>示例主题包括一个无序列表（(&lt;t3/&gt;&lt;ul&gt;&lt;t4/&gt;），其中包含三个列表项（&lt;t5/&gt;&lt;li&gt;&lt;t6/&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
