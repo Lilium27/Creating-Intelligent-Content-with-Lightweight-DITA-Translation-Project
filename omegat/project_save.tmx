@@ -4799,6 +4799,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, they were loosely based on the College Board's AP Computer Science Principles “big ideas” (2017).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T123737Z" creationid="DSS" creationdate="20200813T123737Z">
+        <seg>不过，抽象层级受到了美国大学理事会开设计算机科学原理预修课程的“伟大思想”的些微影响 (2017)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, to put the three editions in context I include here some examples of representative topic types.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T033031Z" creationid="lenovo" creationdate="20200812T033031Z">
@@ -8708,6 +8716,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That model also reflects our academic privilege as college professors whose students did not have real workplace expectations and deadlines: as we taught these lay&lt;t3/&gt;ers in fictional scenarios, our students did not have the pressure from actual customers/users, managers, and subject matter experts that technical commu&lt;t4/&gt;nicators face in the workplace.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T124225Z" creationid="DSS" creationdate="20200813T124225Z">
+        <seg>这种模式也反映了学术特权，作为大学教授，我们的学生不受工作要求和时间的限制，当我们在虚构的场景中教授抽象层级时，学生不用面对来自客户/用户、主管、主题专家的实际压力，而这是技术传播工程师在工作中必须要面对的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That one-line command combines the map with the topics, processing the hierarchies and relationships established by the topic</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T115936Z" creationid="DSS" creationdate="20200806T115801Z">
@@ -9458,6 +9474,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T160612Z" creationid="DSS" creationdate="20200806T084518Z">
         <seg>&lt;t4/&gt;编写第 &lt;t5/&gt;5&lt;t6/&gt;&lt;t7/&gt;章和第&lt;t8/&gt;6&lt;t9/&gt;&lt;t10/&gt;章的目的并不是提供一个关于 XML、HTML5 或 Markdown 的完整教程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The layers of abstraction did not have the specific goal of assessing if students became computational thinkers; thus, they were not directly inspired by a strict rubric like the ISTE standards.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T123732Z" creationid="DSS" creationdate="20200813T123732Z">
+        <seg>抽象层级并不旨在评估学生是否具有计算机思维能力，因此，抽象层级不是因为直接受到像ISTE那样严格的标准的启发而出现的。</seg>
       </tuv>
     </tu>
     <tu>
