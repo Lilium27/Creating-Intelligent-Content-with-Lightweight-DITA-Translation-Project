@@ -2697,6 +2697,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Because the MDITA components represent a subset of the GitHub Flavored Markdown (GFM) syntax&lt;t0/&gt;2&lt;t1/&gt;, not all moves that are valid in GFM or another Markdown flavor are allowed in MDITA extended profile (e.g., there's no &lt;t2/&gt;### &lt;t3/&gt;syntax to express a level-three heading in MDITA extended profile, although &lt;t4/&gt;it exists in most Markdown flavors).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T083447Z" creationid="lenovo" creationdate="20200813T083447Z">
+        <seg>因为MDITA组件是GitHub风格的Markdown(GFM) syntax&lt;t0/&gt;2&lt;t1/&gt;的一个子集，并非所有在GFM或其他Markdown风格中有效的文步都能用于MDITA扩展配置文件（例如,MDITA扩展配置文件中没有 &lt;t2/&gt;### &lt;t3/&gt;syntax 语法来表示第三级标题，尽管这一语法在大多数Markdown风格中都存在）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before &lt;t0/&gt;DQTI&lt;t1/&gt;, however, there was &lt;t2/&gt;PQTI.&lt;t3/&gt; The publication's original title was &lt;t4/&gt;Producing Quality Technical Information&lt;t5/&gt;, and it started as an internal IBM handbook of recommendations for content authors and evaluators.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T154111Z" creationid="lenovo" creationdate="20200810T144048Z">
@@ -5507,6 +5515,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T030252Z" creationid="DSS" creationdate="20200720T133311Z">
         <seg>他毕业于明尼苏达大学双子城分校（University of Minnesota-Twin Cities），获得了科学与技术传播硕士学位。詹姆斯在 IBM 工作，是出色的一位技术营销人员，曾经一直在寻求能够在结构化创作环境中工作的实习生。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In its extended profile, MDITA can incorporate YAML front matter headers and HDITA elements and attributes to overcome Markdown limitations as a language for authoring structured and reusable content&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T082726Z" creationid="lenovo" creationdate="20200813T082726Z">
+        <seg>在其扩展的概要文件中，MDITA可以兼容YAML前端内容标题和HDITA元素和属性，以克服Markdown作为创作结构化和可复用内容的语言的限制。</seg>
       </tuv>
     </tu>
     <tu>
