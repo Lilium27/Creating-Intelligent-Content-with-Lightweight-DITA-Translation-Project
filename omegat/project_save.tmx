@@ -8436,6 +8436,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That means that &lt;t6/&gt;including an HTML5 element that is not allowed in HDITA, like &lt;t7/&gt;&lt;aside&gt; &lt;t8/&gt;or &lt;t9/&gt;&lt;details&gt;&lt;t10/&gt;, would produce a validation error in LwDITA-aware tools.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T080949Z" creationid="lenovo" creationdate="20200813T080743Z">
+        <seg>这意味着如果在HDITA中包含禁用的HTML5元素，如 &lt;t7/&gt;&lt;aside&gt; &lt;t8/&gt;or &lt;t9/&gt;&lt;details&gt;&lt;t10/&gt;，会支持LwDITA的工具会产生验证错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That message was followed, on March &lt;t0/&gt;20, 2012 &lt;t1/&gt;by the first Lightweight DITA proposal, also known as proposal &lt;t2/&gt;13076, &lt;t3/&gt;presented by Michael Priestley to the OASIS DITA Technical Committee.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T073338Z" creationid="DSS" creationdate="20200731T073338Z">
@@ -10939,8 +10947,8 @@
       <tuv lang="en">
         <seg>When placed with other topics in a collection and processed by a DITA-aware software tool (I will talk more about tools in &lt;t4/&gt;Chapter 5&lt;t5/&gt;), this biographic introduction can inherit any formatting rules and become a page or section in a print magazine or book, a page or blurb on a website, and many other end-user deliverables depending on the author's publishing goals.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T035409Z" creationid="lenovo" creationdate="20200812T035409Z">
-        <seg>当这一传记介绍同其他主题被放在一个集合中，并由可识别DITA软件工具（ &lt;t4/&gt;第五章&lt;t5/&gt;我会详细阐述）进行处理时，这一介绍信息能继承任意格式规则，可以成为纸质杂志或书籍的一页或一章、网站上的网页或宣传信息以及其他多种终端用户的交付物，呈现形式取决于作者的出版目标。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T080825Z" creationid="lenovo" creationdate="20200812T035409Z">
+        <seg>当这一传记介绍同其他主题被放在一个集合中，并由支持DITA软件工具（ &lt;t4/&gt;第五章&lt;t5/&gt;我会详细阐述）进行处理时，这一介绍信息能继承任意格式规则，可以成为纸质杂志或书籍的一页或一章、网站上的网页或宣传信息以及其他多种终端用户的交付物，呈现形式取决于作者的出版目标。</seg>
       </tuv>
     </tu>
     <tu>
