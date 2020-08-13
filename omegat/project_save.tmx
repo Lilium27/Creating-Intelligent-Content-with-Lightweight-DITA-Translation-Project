@@ -2401,6 +2401,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>At its core, XDITA is a simplified version of DITA, with a limited set of elements (tags) and options but similar capabilities for content structure, reuse, and publication.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T021215Z" creationid="lenovo" creationdate="20200813T021215Z">
+        <seg>XDITA的核心是DITA的简化版本，只有一组有限的元素(标记)和选项，但在内容结构、重用和发布方面具有类似的功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At one point, Michael Priestley talked about an  audience of people who have an aversion to XML or existing DITA work- flows.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T092032Z" creationid="DSS" creationdate="20200730T092032Z">
@@ -10893,6 +10901,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T094654Z" creationid="DSS" creationdate="20200803T094654Z">
         <seg>当时已经确定要加入 XDITA 和 HDITA 格式，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XDITA is similar to DITA XML by design.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T020458Z" creationid="lenovo" creationdate="20200813T020458Z">
+        <seg>XDITA在设计上类似于DITA XML。</seg>
       </tuv>
     </tu>
     <tu>
