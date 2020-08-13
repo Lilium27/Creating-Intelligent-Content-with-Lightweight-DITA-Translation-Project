@@ -4775,6 +4775,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I provide background information and identify the intended audiences for the three initial authoring formats of the LwDITA proposed standard.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T014310Z" creationid="lenovo" creationdate="20200813T014310Z">
+        <seg>我提供了LwDITA拟议标准的三种原始创作格式的背景信息并界定了目标受众。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I rarely get a second call and the con&lt;t6/&gt;versation stays in the “someday/maybe” list.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T090534Z" creationid="DSS" creationdate="20200726T090534Z">
@@ -5539,6 +5547,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T082155Z" creationid="DSS" creationdate="20200731T082155Z">
         <seg>在这个例子中，这些指令规定了话题创建自轻量级 DITA 而不是完整的 DITA XML，所以不允许嵌套列表的出现，话题中不能包含子块。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this chapter, I give an overview of each of the three LwDITA flavors (XDITA, HDITA, and MDITA).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T014214Z" creationid="lenovo" creationdate="20200813T014214Z">
+        <seg>在本章中，我将概述三种LwDITA风格(XDITA、HDITA和MDITA)。</seg>
       </tuv>
     </tu>
     <tu>
