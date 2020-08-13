@@ -2497,6 +2497,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Authors who want their XML content to be subsumed by a content set based on HTML5 or Markdown</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T025802Z" creationid="lenovo" creationdate="20200813T025802Z">
+        <seg>希望在基于HTML5或Markdown的内容集中包含XML内容的作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Automation can be used to minimize the time, effort and money needed to apply a good content strategy.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T132841Z" creationid="DSS" creationdate="20200810T132841Z">
@@ -5699,6 +5707,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T130444Z" creationid="DSS" creationdate="20200801T130444Z">
         <seg>信息映射话题类型：由 IM 节（section）类型组成的常见话题类型（普里斯特利，2012年）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Information developers who use an XML editor but want a smaller set of elements and attributes (compared to DITA) with which to work</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T025659Z" creationid="lenovo" creationdate="20200813T025659Z">
+        <seg>使用XML编辑器但希望元素和属性集(与DITA相比)更少的信息开发人员</seg>
       </tuv>
     </tu>
     <tu>
