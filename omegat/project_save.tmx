@@ -865,6 +865,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t3/&gt;Priestley's original proposal responded to complaints about the “many tags” included in the standard, but a non-XML version of DITA was not yet a part of those early con&lt;t4/&gt;versations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T015717Z" creationid="lenovo" creationdate="20200813T015717Z">
+        <seg>&lt;t3/&gt;普里斯特利最初的提议是为了回应人们对标准中包含“标签太多”的抱怨，但非XML版DITA还没有出现在早期讨论之列。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t3/&gt;Rhetorically effective &lt;t4/&gt;content can connect topical and authorial intentions with user responses regardless of a deliverable's format or context.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T151643Z" creationid="DSS" creationdate="20200811T151643Z">
@@ -10437,6 +10445,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T150358Z" creationid="lenovo" creationdate="20200811T150358Z">
         <seg>试图界定修辞中的主题概念并非易事。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Two years after that initial proposal, Priestley started working on the idea of an HTML5-based version of the lightweight framework for representing DITA topics; however, LwDITA does not hide its origins in the XML language.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T015916Z" creationid="lenovo" creationdate="20200813T015916Z">
+        <seg>在最初提议的两年后，普里斯特利开始着手构思一个基于HTML5的轻量级框架版本，用于表示DITA主题；但是，LwDITA仍有XML语言的明显印记。</seg>
       </tuv>
     </tu>
     <tu>
