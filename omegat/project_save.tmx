@@ -611,8 +611,8 @@
       <tuv lang="en">
         <seg>&lt;t14/&gt;156) &lt;t15/&gt;and argued that “technical communicators should be able to write, edit, and manage XML documentation, including XML tags, &lt;t16/&gt;document type definitions (DTDs), XML schemas, and Darwin Information Typing Architecture (DITA)” (Gesteland McShane, &lt;t17/&gt;2009, &lt;t18/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T142958Z" creationid="DSS" creationdate="20200723T161903Z">
-        <seg>&lt;t14/&gt;156页）&lt;t15/&gt;，并认为“技术传播者应该具备编写、编辑和管理XML文档的能力，这包括 XML 标记，&lt;t16/&gt;文档类型定义（DTD）,，XML 体系结构和 DITA”（杰斯特兰德·麦柯肖恩，&lt;t17/&gt;2009年， &lt;t18/&gt;第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T122758Z" creationid="DSS" creationdate="20200723T161903Z">
+        <seg>&lt;t14/&gt;156页）&lt;t15/&gt;，并认为“技术传播工程师应该具备编写、编辑和管理XML文档的能力，这包括 XML 标记，&lt;t16/&gt;文档类型定义（DTD）,，XML 体系结构和 DITA”（杰斯特兰德·麦柯肖恩，&lt;t17/&gt;2009年， &lt;t18/&gt;第</seg>
       </tuv>
     </tu>
     <tu>
@@ -7789,8 +7789,8 @@
       <tuv lang="en">
         <seg>Publications from the 2000s heralded that “technical communicators will probably face a day when all organizational documents are saved in XML for&lt;t11/&gt;mat” (Sapienza, &lt;t12/&gt;2002, &lt;t13/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T161922Z" creationid="DSS" creationdate="20200723T160501Z">
-        <seg>2000年代的出版物就预言 “技术传播者可能会迎来所有组织性的文档都保存在 XML 里的一天”（萨皮恩扎， &lt;t12/&gt;2002年，&lt;t13/&gt;第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T122746Z" creationid="DSS" creationdate="20200723T160501Z">
+        <seg>2000年代的出版物就预言 “技术传播工程师可能会迎来所有组织性的文档都保存在 XML 里的一天”（萨皮恩扎， &lt;t12/&gt;2002年，&lt;t13/&gt;第</seg>
       </tuv>
     </tu>
     <tu>
@@ -10464,8 +10464,8 @@
       <tuv lang="en">
         <seg>This book is not about a specific tool or software platform: as an open standard in develop&lt;t12/&gt;ment, LwDITA does not depend on a vendor or “app.” Hackos explains the importance of information standards for technical communicators with the following scenario, which also applies to LwDITA:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T093719Z" creationid="DSS" creationdate="20200726T093719Z">
-        <seg>这本书并关于某一个特定的工具或软件平台：LwDITA 作为一个仍在法阵中的开放标准，不依赖于任何代理商或“应用程序”。哈克斯用以下场景解释了信息标准对技术传播人员的重要性，该解释同样适用于 LwDITA：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T122912Z" creationid="DSS" creationdate="20200726T093719Z">
+        <seg>这本书并关于某一个特定的工具或软件平台：LwDITA 作为一个仍在法阵中的开放标准，不依赖于任何代理商或“应用程序”。哈克斯用以下场景解释了信息标准对技术传播从业者的重要性，该解释同样适用于 LwDITA：</seg>
       </tuv>
     </tu>
     <tu>
