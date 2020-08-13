@@ -9598,6 +9598,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The first line of code in the example is the XML declaration, which announces to the computer processor that this is an XML file and should be treated as such.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T145652Z" creationid="DSS" creationdate="20200813T145652Z">
+        <seg>示例中的第一行代码是 XML 声明，告诉计算机处理器这是一个 XML 文件，应该按 XML 文件处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The first list item mixes character data with a child element (a paragraph in this case).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T140133Z" creationid="lenovo" creationdate="20200813T140133Z">
@@ -11926,6 +11934,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T041407Z" creationid="DSS" creationdate="20200807T041407Z">
         <seg>你也可以在转换选项对话框窗口中指定另一个文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can type the code from &lt;t0/&gt;Figure &lt;t1/&gt;6.1 &lt;t2/&gt;in any text editor, but working in a LwDITA-aware application like Oxygen XML Editor brings benefits like auto&lt;t3/&gt;completion of tags and templates, which can reduce spelling errors and typos.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T144901Z" creationid="DSS" creationdate="20200813T144901Z">
+        <seg>你可以在任何文本编辑器中输入图6.1中的代码，但是如果使用支持 LwDITA 的应用程序（如Oxygen XML Editor）可以带来诸如益处，如自动填写标签和模板，这可以减少拼写和打字错误。</seg>
       </tuv>
     </tu>
     <tu>
