@@ -2329,6 +2329,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Another benefit of using an LwDITA-aware app to create content is that it will probably include the gram&lt;t6/&gt;mar files and provide validation as you type.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T145753Z" creationid="DSS" creationdate="20200813T145753Z">
+        <seg>使用支持 LwDITA 的应用程序编写内容的另一个好处是，此类应用程序可能会包含语法文件，并在你输入信息时提供验证。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Another child of the &lt;t16/&gt;&lt;step&gt; &lt;t17/&gt;ele&lt;t18/&gt;ment, &lt;t19/&gt;&lt;stepxmp&gt;&lt;t20/&gt;, gives an example of how to conduct a specific command or action.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T141946Z" creationid="lenovo" creationdate="20200811T141946Z">
@@ -10951,6 +10959,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This second line of code enforces the XDITA authoring format.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T145756Z" creationid="DSS" creationdate="20200813T145756Z">
+        <seg>第二行代码表示此文件强制使用 XDITA 写作格式，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This section will be especially useful to readers who have not ventured into standards and markup languages for intelligent content.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T155108Z" creationid="DSS" creationdate="20200726T153130Z">
@@ -11758,6 +11774,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T073030Z" creationid="DSS" creationdate="20200726T073030Z">
         <seg>毫无疑问，对于 DITA 新手来说，这些特性和优势也可能令人生畏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Without it, the topic would just be a regular XML file (like the first marinara sauce recipe from &lt;t7/&gt;Chapter &lt;t8/&gt;1&lt;t9/&gt;), &lt;t10/&gt;and would need its own stylesheets and schemas to produce deliverables for end users.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T150200Z" creationid="DSS" creationdate="20200813T150200Z">
+        <seg>如果没有这行代码，该话题将只是一个普通 XML 文件（就像第一章中的第一个意式番茄罗勒酱菜谱示例那样），并且需要特定的样式表和模型来为终端用户生成可交付内容。</seg>
       </tuv>
     </tu>
     <tu>
