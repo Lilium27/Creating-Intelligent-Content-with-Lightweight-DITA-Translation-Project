@@ -4647,6 +4647,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>HDITA, the &lt;t0/&gt;paragraph &lt;t1/&gt;element (&lt;t2/&gt;&lt;p&gt; &lt;t3/&gt;in both cases) can contain the following child elements:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T141143Z" creationid="lenovo" creationdate="20200813T141143Z">
+        <seg>HDITA， &lt;t0/&gt;段落 &lt;t1/&gt;元素(在DITA和HTML中都是&lt;t2/&gt;&lt;p&gt; &lt;t3/&gt;)可以包含以下子元素：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HOW DITA EVOLVED INTO LwDITA</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200721T143908Z" creationid="DSS" creationdate="20200721T143908Z">
