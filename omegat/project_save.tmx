@@ -2891,8 +2891,8 @@
       <tuv lang="en">
         <seg>Bold</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T141148Z" creationid="lenovo" creationdate="20200813T141148Z">
-        <seg>粗体Bold</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T141551Z" creationid="lenovo" creationdate="20200813T141148Z">
+        <seg>粗体</seg>
       </tuv>
     </tu>
     <tu>
@@ -6465,8 +6465,8 @@
       <tuv lang="en">
         <seg>Italics</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T141152Z" creationid="lenovo" creationdate="20200813T141152Z">
-        <seg>斜体Italics</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T141742Z" creationid="lenovo" creationdate="20200813T141152Z">
+        <seg>斜体</seg>
       </tuv>
     </tu>
     <tu>
@@ -8643,6 +8643,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Subscript</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T141542Z" creationid="lenovo" creationdate="20200813T141542Z">
+        <seg>下标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Subscript&lt;t0/&gt;, which is a letter, number, or figure that is printed lower than the line.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T134220Z" creationid="DSS" creationdate="20200804T134144Z">
@@ -8655,6 +8663,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T130312Z" creationid="DSS" creationdate="20200811T121145Z">
         <seg>应该让新手医生参与到信息实践中来，让他们知道计算机技术实践可以直接为患者提供护理服务”(Musaeus et al., 2017, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Superscript</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T141535Z" creationid="lenovo" creationdate="20200813T141535Z">
+        <seg>上标</seg>
       </tuv>
     </tu>
     <tu>
@@ -11302,6 +11318,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T022030Z" creationid="lenovo" creationdate="20200813T022030Z">
         <seg>不可否认的是，DITA XML的受众使该标准成为结构化信息的一种广泛流行的方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Underline.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T141747Z" creationid="lenovo" creationdate="20200813T141548Z">
+        <seg>下划线</seg>
       </tuv>
     </tu>
     <tu>
