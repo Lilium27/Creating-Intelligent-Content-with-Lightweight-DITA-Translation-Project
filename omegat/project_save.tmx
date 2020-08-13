@@ -3493,6 +3493,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Developers and writers in charge of documenting application programming interfaces (APIs) that need to share content with technical publications or marketing content</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T085609Z" creationid="lenovo" creationdate="20200813T085609Z">
+        <seg>需要与技术出版物或市场内容共享内容的应用程序编程接口(APIs)的开发人员和作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Developing Quality Technical Information</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T130854Z" creationid="lenovo" creationdate="20200810T130854Z">
