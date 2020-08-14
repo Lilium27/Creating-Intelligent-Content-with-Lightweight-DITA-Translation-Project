@@ -785,6 +785,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t2/&gt;a WordPress plugin for HDITA or a GitHub-based MDITA &lt;t3/&gt;processor for GitHub Pages?).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T142113Z" creationid="lenovo" creationdate="20200814T142113Z">
+        <seg>&lt;t2/&gt;是HDITA的WordPress插件，还是GitHub页面基于GitHub的MDITA处理器?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t2/&gt;the manuals didn't work.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T155525Z" creationid="lenovo" creationdate="20200802T065902Z">
@@ -9449,6 +9457,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T155804Z" creationid="DSS" creationdate="20200802T155804Z">
         <seg>轻量级 DITA 小组委员会</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Lightweight DITA subcommittee at OASIS expects that after the stand&lt;t0/&gt;ard is released more tool developers will incorporate LwDITA workflows and templates into existing platforms for writing in XML, HTML5, and Markdown (who knows &lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T141956Z" creationid="lenovo" creationdate="20200814T141956Z">
+        <seg>OASIS的轻量级DITA小组委员会希望在该标准发布后，更多的工具开发人员将把LwDITA工作流和模板合并到现有的平台中，以便用XML、HTML5和Markdown编写（谁知道 &lt;t1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
