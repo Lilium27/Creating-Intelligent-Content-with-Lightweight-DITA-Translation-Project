@@ -2649,6 +2649,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Authors with previous DITA or HTML experience question why the list item must include a paragraph to hold its content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T131133Z" creationid="lenovo" creationdate="20200814T131133Z">
+        <seg>有DITA或HTML经验的作者会问，为什么列表项必须包含一个段落来容纳其内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Automation can be used to minimize the time, effort and money needed to apply a good content strategy.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T132841Z" creationid="DSS" creationdate="20200810T132841Z">
@@ -4831,6 +4839,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Here I go back to the initial reaction of some authors that encounter this rule when they are introduced to LwDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T130905Z" creationid="lenovo" creationdate="20200814T130905Z">
+        <seg>再回到一些作者在接触LwDITA时遇到这个规则的初反应。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Highlighting Components (available in both topic and map)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T134114Z" creationid="DSS" creationdate="20200804T134114Z">
@@ -5575,6 +5591,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In DITA &lt;t0/&gt;1.3 &lt;t1/&gt;and HTML5 (the markup foundations for XDITA and HDITA, respectively) the following ordered list is valid:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T131030Z" creationid="lenovo" creationdate="20200814T131030Z">
+        <seg>在DITA &lt;t0/&gt;1.3 &lt;t1/&gt;和HTML5 （分别是XDITA和HDITA的标记基础）中，以下有序列表是有效的：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In DITA XML, that “system of pigeonholes” (the standard's elements and content types) allows authors to master specific forms of communication that enable the type of intelligent content discussed in this book.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T021142Z" creationid="lenovo" creationdate="20200812T021142Z">
@@ -5675,6 +5699,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T135633Z" creationid="lenovo" creationdate="20200813T135633Z">
         <seg>在XDITA和</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In XDITA and HDITA, the same list must be represented as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T131106Z" creationid="lenovo" creationdate="20200814T131106Z">
+        <seg>在XDITA和HDITA中，相同的列表必须表示如下：</seg>
       </tuv>
     </tu>
     <tu>
@@ -7171,6 +7203,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T141616Z" creationid="DSS" creationdate="20200811T141616Z">
         <seg>模块化&lt;t0/&gt;内容是“特地为复用而设计的”。与以页面为中心的书籍不同，智能内容创作者“一次”创建“一个”内容（话题）模块或组件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>More than once, I have received feedback, on the initial minutes of training after introducing this rule, saying that this rule is “slightly annoying,” but authors can see its benefits once they reuse the paragraph with the identifier of “first” in any other place where paragraphs are allowed, and not just where list items are allowed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T131246Z" creationid="lenovo" creationdate="20200814T131246Z">
+        <seg>我不止一次收到反馈是在介绍这条规则后最初的几分钟的培训里，说这个规则是“有点烦人,但是作者可以看到它的好处,一旦他们重用段与“第一”的标识符段落被允许在任何其他地方,而不仅仅是在允许列表项。</seg>
       </tuv>
     </tu>
     <tu>
