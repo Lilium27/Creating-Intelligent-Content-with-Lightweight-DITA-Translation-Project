@@ -2065,6 +2065,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although the DITA-OT is closely associated with the DITA specification, it is not a standard approved by the OASIS DITA Technical Committee and therefore should be considered as only one option for transforming DITA content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T144916Z" creationid="lenovo" creationdate="20200814T144916Z">
+        <seg>尽管DITA-OT与DITA规范密切相关，但它不是OASIS DITA技术委员会批准的标准，因此只应将其视为转换DITA内容的选项之一。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Although the benefits of a well-planned and implemented intel&lt;t9/&gt;ligent content workflow built on XML or DITA are undeniable, this type of solution presents significant challenges that have repercussions in the academic and workplace facets of the profession.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140905Z" creationid="DSS" creationdate="20200726T140905Z">
@@ -9357,6 +9365,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The DITA Open Toolkit (DITA-OT) is an implementation of the OASIS DITA Technical Committee's specification for DITA DTDs and sche&lt;t0/&gt;mas.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T144402Z" creationid="lenovo" creationdate="20200814T144402Z">
+        <seg>DITA Open Toolkit (DITA-OT)是OASIS DITA技术委员会的DITA DTDs和模式规范的一个具现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The DITA Technical Committee at OASIS released a white paper/committee note titled DITA &lt;t0/&gt;1.3: &lt;t1/&gt;Why Three Editions?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T031118Z" creationid="lenovo" creationdate="20200812T031118Z">
@@ -9593,6 +9609,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T122837Z" creationid="DSS" creationdate="20200730T122837Z">
         <seg>LwDITA 缓慢而又井然有序的发展历程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Toolkit transforms DITA XML source content into deliverable formats such as PDF, HTML, and help systems.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T144431Z" creationid="lenovo" creationdate="20200814T144431Z">
+        <seg>Toolkit将DITA XML源内容转换为可交付的格式，如PDF、HTML和帮助系统。</seg>
       </tuv>
     </tu>
     <tu>
