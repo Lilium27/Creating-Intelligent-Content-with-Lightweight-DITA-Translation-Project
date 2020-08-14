@@ -2121,6 +2121,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An advanced option is the commercial editor Oxygen XML Editor, from Syncro Soft.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T141554Z" creationid="lenovo" creationdate="20200814T141554Z">
+        <seg>来自Syncro Soft的商业编辑器Oxygen XML Editor是更高阶的选择。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An appropriate reaction to this urgency should separate that mandate in manageable layers of abstraction that can be addressed individually by working on a progression of activities and ideas by focusing on some concepts while ignoring others that would be revealed after completing the current layer.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T152319Z" creationid="DSS" creationdate="20200812T152319Z">
@@ -4487,6 +4495,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For introductory experiments like the marinara recipe from &lt;t0/&gt;Chapter &lt;t1/&gt;1&lt;t2/&gt;, &lt;t3/&gt;Notepad for Windows or TextEdit in macOS (be sure to select &lt;t4/&gt;Format&lt;t5/&gt;/&lt;t6/&gt;Make Plain Text &lt;t7/&gt;before saving your files) can work.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T141411Z" creationid="lenovo" creationdate="20200814T141411Z">
+        <seg>对于介绍性试验，比如第一章中的意式番茄罗勒酱的食谱，Windows中的记事本或macOS中的TextEdit(确保在保存文件之前选择&lt;t4/&gt;格式&lt;t5/&gt;/&lt;t6/&gt;纯文本格式 &lt;t7/&gt;)都可以。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For now, just focus on the fact that XML uses tags to identify the types of rhetorical “moves” that the content on the page represents.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154454Z" creationid="DSS" creationdate="20200726T154454Z">
@@ -4907,6 +4923,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T124221Z" creationid="DSS" creationdate="20200802T124221Z">
         <seg>然而，当用户和研究参与者了解到在不使用XML的情况下也可以创建 DITA 内容时，许多人发出了相同的疑问：如果我们可以使用 HTML5 来表示 DITA 话题和元素，是否也可以使用 Markdown ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, authors need to use software tools to create and process LwDITA content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T141140Z" creationid="lenovo" creationdate="20200814T141140Z">
+        <seg>但是，作者需要使用软件工具来创建和处理LwDITA内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12150,6 +12174,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T031101Z" creationid="lenovo" creationdate="20200811T031101Z">
         <seg>无论你是在写一本、一页、一段、一句话还是界面中的一个词，你都可以应用质量特征。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can create LwDITA content in any text editor, but probably should avoid using a word processor or a desktop publishing solution (because those embed behind-the-scenes code for format and layout that an author cannot control).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T141206Z" creationid="lenovo" creationdate="20200814T141206Z">
+        <seg>您可以在任何文本编辑器中创建LwDITA内容，但是可能应该避免使用文字处理程序或桌面发布解决方案(因为那些用于格式和布局的嵌入后台代码是作者无法控制的)。</seg>
       </tuv>
     </tu>
     <tu>
