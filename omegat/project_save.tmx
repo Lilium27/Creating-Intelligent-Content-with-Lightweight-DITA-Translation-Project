@@ -5119,6 +5119,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I am not affiliated with Syncro Soft and my recommendation is based on Oxygen's relative affordability for academic audiences (compared with enterprise-level editors with similar capabilities) and their developers' genuine interest and attention for the development of LwDITA as an open standard.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T141909Z" creationid="lenovo" creationdate="20200814T141909Z">
+        <seg>我并不隶属于Syncro-Soft，我推荐它是基于Oxygen对学术受众而言相对负担较轻（与具有类似功能的企业级编辑器相比），以及他们的开发人员是真心实意地对将LwDITA作为开放标准进行开发。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I argue that in a model of intelligent content with LwDITA built on principles of computational thinking, &lt;t13/&gt;machine automation cannot happen without human abstraction&lt;t14/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160412Z" creationid="DSS" creationdate="20200810T131930Z">
