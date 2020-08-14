@@ -4535,6 +4535,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For years, some technical communicators in academia and industry have seen DITA as a tool, and some perceive it as an alternative to software applications like Microsoft Word or Adobe FrameMaker.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T140747Z" creationid="lenovo" creationdate="20200814T140747Z">
+        <seg>多年来，学术界和业界的一些技术传播工程师已将DITA视为一种工具，有些人还将其视为Microsoft Word或Adobe FrameMaker等软件应用程序的替代品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Format-free &lt;t0/&gt;content “does not include presentation information, such as instructions about fonts, column widths, or text placement.” The sep&lt;t1/&gt;aration of format and content is essential for multichannel publishing, and the layer of abstraction provided by a desktop publishing applica&lt;t2/&gt;tion in this regard can be a dangerous one.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T143333Z" creationid="DSS" creationdate="20200811T142749Z">
@@ -5895,6 +5903,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In reality, DITA is a tool as much as HTML is a tool: as open standards, they can have tools built based on them, but the standards are not the tools.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T140915Z" creationid="lenovo" creationdate="20200814T140915Z">
+        <seg>实际上，DITA和HTML一样是一种工具：作为开放标准，它们可以有基于这些标准构建的工具，但这些标准并非工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In separate conversations with colleagues in academia (including Bill Hart- Davidson from Michigan State University) and industry (like Radu Coravu, from the Romania-based Syncro Soft), we have had unisonous affirmations of “structure starts in your head.” For a specific type of user, the structure of a sim&lt;t0/&gt;ple topic can be in their head as they go through the tasks related to the creation of intelligent.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T161453Z" creationid="DSS" creationdate="20200804T161453Z">
@@ -6347,6 +6363,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T015151Z" creationid="lenovo" creationdate="20200809T013919Z">
         <seg>简介&lt;t0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Is there a LwDITA App?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T140619Z" creationid="lenovo" creationdate="20200814T140619Z">
+        <seg>有LwDITA应用程序吗?</seg>
       </tuv>
     </tu>
     <tu>
