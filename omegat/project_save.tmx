@@ -5855,6 +5855,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In her &lt;t5/&gt;Introduction to DITA&lt;t6/&gt;, JoAnn Hackos described the DITA Open Toolkit as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T143011Z" creationid="lenovo" creationdate="20200814T143011Z">
+        <seg>在&lt;t5/&gt;《DITA入门》&lt;t6/&gt;中, 乔安·哈克斯这样描述DITA Open Toolkit：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In her discussion of the characteristic of completeness, she included the following paragraph:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T023137Z" creationid="lenovo" creationdate="20200811T023137Z">
