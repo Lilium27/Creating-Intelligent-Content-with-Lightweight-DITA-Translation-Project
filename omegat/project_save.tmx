@@ -7295,6 +7295,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Most LwDITA-aware tools, including Oxygen XML Editor, should take care both of the editing and processing tasks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T142538Z" creationid="lenovo" creationdate="20200814T142538Z">
+        <seg>大多数支持LwDITA的工具，包括Oxygen XML编辑器，应该同时负责编辑和处理任务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Most authors probably will enter an intelligent content workflow unaware of the larger discussions on computational thinking and abstractions behind automating publication and filtering routines.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T081247Z" creationid="DSS" creationdate="20200808T081247Z">
@@ -7645,6 +7653,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153316Z" creationid="DSS" creationdate="20200726T153308Z">
         <seg>一旦这些部件或组件被标记，它们就可以以不同的方式进行“组装”，用于各种交付物和媒介。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once you have created content units in any LwDITA authoring format, you will need a software processor to transform those LwDITA topics into deliv&lt;t0/&gt;erables for human users.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T142521Z" creationid="lenovo" creationdate="20200814T142521Z">
+        <seg>在以任何LwDITA创作格式创建了内容单元后，你将需要软件处理器来将这些LwDITA主题转换为供人类用户使用的可交付内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12030,6 +12046,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T065323Z" creationid="lenovo" creationdate="20200810T065323Z">
         <seg>计划表就绪后，你就能做出体系化决策，并且能够获得全面的写作手册各部分所需的信息。&lt;t5/&gt;(1984, &lt;t6/&gt;p.14).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Without a LwDITA-aware editor, you probably would need to use the open source DITA Open Toolkit, as Chef Pedro did in &lt;t1/&gt;Chapter &lt;t2/&gt;1&lt;t3/&gt;, &lt;t4/&gt;to process LwDITA content and produce end-user deliverables.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T142852Z" creationid="lenovo" creationdate="20200814T142852Z">
+        <seg>如果没有支持LwDITA的编辑器，您可能需要像第一章佩德罗那样使用开源的的DITA Open Toolkit来处理LwDITA内容并生成最终用户交付的内容。</seg>
       </tuv>
     </tu>
     <tu>
