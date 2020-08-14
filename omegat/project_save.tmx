@@ -9365,6 +9365,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The DITA DTDs (Document Type Definitions) and schemas mentioned in Hackos's description are files that validate (i.e., verify that a topic conforms with the DITA syntax rules) content created according to the DITA standard.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T152824Z" creationid="lenovo" creationdate="20200814T152824Z">
+        <seg>在Hackos的描述中提到的DITA DTDs（文档类型定义）和模式是验证（验证）的文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The DITA Open Toolkit (DITA-OT) is an implementation of the OASIS DITA Technical Committee's specification for DITA DTDs and sche&lt;t0/&gt;mas.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T144402Z" creationid="lenovo" creationdate="20200814T144402Z">
