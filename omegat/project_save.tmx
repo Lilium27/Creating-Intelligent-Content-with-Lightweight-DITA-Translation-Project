@@ -10535,6 +10535,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The subcommittee maintains a wiki page with a growing list of LwDITA-aware tools (i.e., tools that can validate and enforce the syntax guidelines and rules presented in this book and/or include templates for creating content in the LwDITA authoring formats)&lt;t4/&gt;4&lt;t5/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T142401Z" creationid="lenovo" creationdate="20200814T142401Z">
+        <seg>小组委员会维护一个包含支持LwDITA的工具的维基页面，这个列表还在不断增长(例如，能够验证和执行本书中介绍的语法指导方针和规则的工具，以及/或包含用于创建LwDITA创作格式内容的模板。)&lt;t4/&gt;4&lt;t5/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The subcommittee was approved by the OASIS leadership on July &lt;t0/&gt;22, 2014 &lt;t1/&gt;and Priestley was appointed as chair.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T162415Z" creationid="DSS" creationdate="20200802T162415Z">
