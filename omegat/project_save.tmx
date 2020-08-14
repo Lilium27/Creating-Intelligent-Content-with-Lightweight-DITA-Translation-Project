@@ -4951,6 +4951,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, one person's annoyance is another's enjoyment: Patrick Bosek, co-founder of the &lt;t0/&gt;easyDITA &lt;t1/&gt;component content management solution, once told me that, in his opinion, the “minimize mixed content” rule is one of the best features of XDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T140550Z" creationid="lenovo" creationdate="20200814T140550Z">
+        <seg>然而，甲之砒霜乙之蜜糖：easyDITA组件内容管理解决方案的联合创始人帕特里克·博塞克曾经告诉我，在他看来，“最小化混合内容”规则是XDITA的最佳特性之一。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, recent approaches look at specific disciplinary applications.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T115511Z" creationid="DSS" creationdate="20200811T115511Z">
