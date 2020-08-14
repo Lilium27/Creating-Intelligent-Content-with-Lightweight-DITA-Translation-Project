@@ -460,3 +460,4 @@ Matthew Sharp	马修·夏普
 Embry-Riddle Aeronautical University	安博瑞德航空航天大学
 Manuel Perez-Quinones	曼努埃尔·佩雷斯-奎诺恩
 DITA-aware	支持DITA
+Patrick Bosek	帕特里克·博塞克
