@@ -7047,6 +7047,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LwDITA, likewise, is not a piece of soft&lt;t0/&gt;ware and does not come with an official “app,” and &lt;t1/&gt;Creating Intelligent Content with Lightweight DITA&lt;t2/&gt; does not require a specific software platform.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T141111Z" creationid="lenovo" creationdate="20200814T141111Z">
+        <seg>LwDITA也同样不是一款软件，也没有官方的“应用程序”，《使用轻量级DITA创建智能内容》没有指定特定的软件平台。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LwDITA, thus, can be a truly minimalist version of the standard, giving authors the structuring and publishing capabili&lt;t0/&gt;ties of DITA 1.3 in a reduced set of tags.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T044349Z" creationid="lenovo" creationdate="20200812T043329Z">
@@ -10443,6 +10451,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145247Z" creationid="DSS" creationdate="20200725T071115Z">
         <seg>DITA 标准“是一种经过充分检验的&lt;t2/&gt;用于 XML 创作的 DTD 或模式”的含义表示 DITA 包含了技术出版物中常用的元素或操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The standards set guidelines and rules for structuring and processing content or information.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T140959Z" creationid="lenovo" creationdate="20200814T140959Z">
+        <seg>这些标准为组织和处理内容或信息设定了指导方针和规则。</seg>
       </tuv>
     </tu>
     <tu>
