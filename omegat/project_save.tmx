@@ -440,8 +440,8 @@
       <tuv lang="en">
         <seg>&lt;t0/&gt;Figure 6.4&lt;t1/&gt; reproduces the essential topic with a placeholder com&lt;t2/&gt;ment for content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T135822Z" creationid="DSS" creationdate="20200816T133739Z">
-        <seg>&lt;t0/&gt;图6.4&lt;t1/&gt;展示了一个重新生成的基础话题，并用注释为内容占位。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T140553Z" creationid="DSS" creationdate="20200816T133739Z">
+        <seg>&lt;t0/&gt;图6.4&lt;t1/&gt;&lt;t2/&gt;展示了一个重新生成的基础话题，并用注释为内容占位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -570,8 +570,8 @@
       <tuv lang="en">
         <seg>&lt;t12/&gt;Figure 6.8&lt;t13/&gt; shows the franchise introduction topic with a title and a heading 1.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T140358Z" creationid="DSS" creationdate="20200816T140358Z">
-        <seg>图&lt;t12/&gt;6.8&lt;t13/&gt;展示了特许经营权介绍话题，该话题包含标题元素和一级标题元素。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T140551Z" creationid="DSS" creationdate="20200816T140358Z">
+        <seg>图&lt;t12/&gt;6.8&lt;t13/&gt;展示了一个关于特许经营权的介绍的话题，该话题包含标题元素和一级标题元素。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2499,8 +2499,8 @@
       <tuv lang="en">
         <seg>As a result, HDITA topics need both a title (&lt;t2/&gt;&lt;title&gt;&lt;t3/&gt;) ele&lt;t4/&gt;ment and a heading 1 (&lt;t5/&gt;&lt;h1&gt;&lt;t6/&gt;) element to signal the document's first heading.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T140218Z" creationid="DSS" creationdate="20200816T140218Z">
-        <seg>因此，HDITA主题不仅需要标题 (&lt;t2/&gt;&lt;title&gt;&lt;t3/&gt;) 元素，还需要一级标题(&lt;t5/&gt;&lt;h1&gt;&lt;t6/&gt;) 元素来表示文档内容中的第一个标题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T140622Z" creationid="DSS" creationdate="20200816T140218Z">
+        <seg>因此，HDITA主题不仅需要标题 (&lt;t2/&gt;&lt;title&gt;&lt;t3/&gt;&lt;t4/&gt;) 元素，还需要一级标题(&lt;t5/&gt;&lt;h1&gt;&lt;t6/&gt;) 元素来表示文档内容中的第一个标题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5737,8 +5737,8 @@
       <tuv lang="en">
         <seg>In &lt;t21/&gt;Lightweight DITA: An Introduction&lt;t22/&gt;, we wrote the fol&lt;t23/&gt;lowing about the optional YAML header for MDITA topics:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T134311Z" creationid="DSS" creationdate="20200816T134311Z">
-        <seg>在《&lt;t21/&gt;轻量级 DITA 简介&lt;t22/&gt;》中，我们对 MDITA 话题的可选 YAML 头进行了以下介绍：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T140606Z" creationid="DSS" creationdate="20200816T134311Z">
+        <seg>在《&lt;t21/&gt;轻量级 DITA 简介&lt;t22/&gt;&lt;t23/&gt;》中，我们对 MDITA 话题的可选 YAML 头进行了以下介绍：</seg>
       </tuv>
     </tu>
     <tu>
@@ -5857,8 +5857,8 @@
       <tuv lang="en">
         <seg>In Markdown, a title is not required, so this one-line example can work as a valid basic (but useless for practical reasons) topic, even if its con&lt;t3/&gt;tent is just a commented annotation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T133755Z" creationid="DSS" creationdate="20200816T133755Z">
-        <seg>Markdown不需要标题，因此即使示例只有一行注释，也是一个有效的基础话题（但该话题在实际应用中毫无用处）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T140558Z" creationid="DSS" creationdate="20200816T133755Z">
+        <seg>Markdown不需要标题，因此即使示例只有一行注释，也是一个有效的基础话题（但该话题在实际应用中毫无用处）。&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6833,8 +6833,8 @@
       <tuv lang="en">
         <seg>It&lt;t1/&gt; does not need a title either, and it could only include a placeholder comment for future content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T134520Z" creationid="DSS" creationdate="20200816T134520Z">
-        <seg>只有一行为日后写作内容占位的注释。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T140608Z" creationid="DSS" creationdate="20200816T134520Z">
+        <seg>只有一行为日后写作内容占位的注释。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7305,8 +7305,8 @@
       <tuv lang="en">
         <seg>LwDITA-aware tools could automate the process of generating a &lt;t7/&gt;&lt;h1&gt; &lt;t8/&gt;from a &lt;t9/&gt;&lt;title&gt; &lt;t10/&gt;and reduce repe&lt;t11/&gt;tition for human authors.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T140301Z" creationid="DSS" creationdate="20200816T140301Z">
-        <seg>支持 LwDITA 的工具可以自动利用&lt;title&gt;标签生成&lt;t7/&gt;&lt;h1&gt; &lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;，并减少创作者的重复劳动。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T140623Z" creationid="DSS" creationdate="20200816T140301Z">
+        <seg>支持 LwDITA 的工具可以自动利用&lt;title&gt;标签生成&lt;t7/&gt;&lt;h1&gt; &lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;，并减少创作者的重复劳动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10023,8 +10023,8 @@
       <tuv lang="en">
         <seg>The content embraced by the XML tags requires proper capitali&lt;t3/&gt;zation and correct spelling according to any style guide developed or adopted by Chef Pedro and his team.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T135405Z" creationid="DSS" creationdate="20200816T135314Z">
-        <seg>这些内容需要根据厨师佩德罗及其团队制定或采用的风格指南适当修改，调整大小写以及修正拼写问题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T140619Z" creationid="DSS" creationdate="20200816T135314Z">
+        <seg>这些内容需要根据厨师佩德罗及其团队制定或采用的风格指南适当修改，调整大小写以及修正拼写问题。&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10136,8 +10136,8 @@
       <tuv lang="en">
         <seg>The file will now clear&lt;t1/&gt; validation in LwDITA-aware apps and also shows actual content for human readers.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T135524Z" creationid="DSS" creationdate="20200816T135524Z">
-        <seg>该文件将清除支持 LwDITA 工具显示的验证错误提示，然后为读者展示实际内容。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T140621Z" creationid="DSS" creationdate="20200816T135524Z">
+        <seg>该文件将清除支持 LwDITA 工具显示的验证错误提示，然后为读者展示实际内容。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10937,8 +10937,8 @@
       <tuv lang="en">
         <seg>The title component in this revised example includes the XML tags that rep&lt;t0/&gt;resent the &lt;t1/&gt;&lt;title&gt; &lt;t2/&gt;element and the actual content for human users that appears inside the tags.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T135320Z" creationid="DSS" creationdate="20200816T135246Z">
-        <seg>在经过修正的示例中，标题组件包括表示&lt;t1/&gt; &lt;title&gt; &lt;t2/&gt;元素的 XML 标签，提供给用户的实际内容包含在标签之内， </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T140617Z" creationid="DSS" creationdate="20200816T135246Z">
+        <seg>在经过修正的示例中，标题组件包括表示&lt;t0/&gt;&lt;t1/&gt; &lt;title&gt; &lt;t2/&gt;元素的 XML 标签，提供给用户的实际内容包含在标签之内， </seg>
       </tuv>
     </tu>
     <tu>
