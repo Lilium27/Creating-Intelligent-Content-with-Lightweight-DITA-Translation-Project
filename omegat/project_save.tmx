@@ -432,8 +432,8 @@
       <tuv lang="en">
         <seg>&lt;t0/&gt;Creating Intelligent Content with Lightweight DITA&lt;t1/&gt; shows structured authoring in practice with&lt;t2/&gt;out the need for sophisticated software tools.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150925Z" creationid="DSS" creationdate="20200726T091855Z">
-        <seg>&lt;t0/&gt;&lt;t1/&gt;在实践中展现了结构化创作，无需复杂的软件工具。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130812Z" creationid="DSS" creationdate="20200726T091855Z">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;在实践中展现了结构化创作，无需复杂的软件工具。</seg>
       </tuv>
     </tu>
     <tu>
@@ -603,8 +603,8 @@
       <tuv lang="en">
         <seg>&lt;t13/&gt;It is also behind the predetermined content types (e.g. concept, task, and reference) in the DITA standard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200807T081742Z" creationid="lenovo" creationdate="20200805T013613Z">
-        <seg>DITA标准中预定的内容类型(例如概念、任务和参考)的背后也同样是这种痴迷。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130844Z" creationid="lenovo" creationdate="20200805T013613Z">
+        <seg>DITA标准中预定的内容类型(例如概念、任务和参考)的背后也同样是这种痴迷。&lt;t13/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -627,8 +627,8 @@
       <tuv lang="en">
         <seg>&lt;t14/&gt;This kind of writing is the basis of several technical communication and intelligent content practices and techniques, including component content management systems (CCMS), which are “a centralized system that helps organizations cap&lt;t15/&gt;ture, manage, store, preserve, and deliver topic-based content (components)” (Kerzreho, &lt;t16/&gt;2016 &lt;t17/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144559Z" creationid="DSS" creationdate="20200724T154401Z">
-        <seg>&lt;t14/&gt;这种写作类型是几种技术传播和智能内容实践和技术的基础，包括组件内容管理系统（CCMS），CCMS 是“一个集中化系统，可以帮助组织获取、管理、存储、维护、发布基于主题的内容（组件）”（科兹热霍， &lt;t16/&gt;2016&lt;t17/&gt;年，第</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130759Z" creationid="DSS" creationdate="20200724T154401Z">
+        <seg>&lt;t14/&gt;&lt;t15/&gt;这种写作类型是几种技术传播和智能内容实践和技术的基础，包括组件内容管理系统（CCMS），CCMS 是“一个集中化系统，可以帮助组织获取、管理、存储、维护、发布基于主题的内容（组件）”（科兹热霍， &lt;t16/&gt;2016&lt;t17/&gt;年，第</seg>
       </tuv>
     </tu>
     <tu>
@@ -851,16 +851,16 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;Andersen adds that this type of con&lt;t4/&gt;tent supported by topic-based information design “has been given various names, including intelligent content, nimble content, smart content, portable content, and future-ready content.” Rockley, Cooper, and Abel describe intel&lt;t5/&gt;ligent content as “designed to be modular, structured, reusable, format free, and semantically rich and, as a consequence, discoverable, reconfigurable, and adaptable” (Rockley et al., &lt;t6/&gt;2015, &lt;t7/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T162052Z" creationid="DSS" creationdate="20200723T160314Z">
-        <seg>&lt;t3/&gt;安德森补充说，这种基于主题信息设计的内容类型 “已经有了各种叫法，包括智慧内容、敏捷内容、智能内容、可移植内容和面向未来的内容。”罗克利（Rockley）、库珀（Cooper）和亚伯（Abel）认为智能内容是“甫一设计就是模块化、结构化、可重用、格式自由、语义丰富的，因此它们也具备可发现、可重构和可修改的特质”(Rockley et al., &lt;t6/&gt;2015, &lt;t7/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130728Z" creationid="DSS" creationdate="20200723T160314Z">
+        <seg>&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;安德森补充说，这种基于主题信息设计的内容类型 “已经有了各种叫法，包括智慧内容、敏捷内容、智能内容、可移植内容和面向未来的内容。”罗克利（Rockley）、库珀（Cooper）和亚伯（Abel）认为智能内容是“甫一设计就是模块化、结构化、可重用、格式自由、语义丰富的，因此它们也具备可发现、可重构和可修改的特质”(Rockley et al., &lt;t6/&gt;2015, &lt;t7/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;t3/&gt;Carroll used the term to describe approaches to self-instruction related to computing that expected that a user would consume content at their own pace and then come out com&lt;t4/&gt;petent, after returning to “varying levels of incompetence” (p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T093622Z" creationid="lenovo" creationdate="20200723T073135Z">
-        <seg>&lt;t3/&gt;卡罗尔使用这一术语来描述与计算机相关的自学方法，希望藉由这些方法使得用户能以自己的节奏学习相关内容，并获得相应技能，因为用户使用特定硬件或软件系统的能力水平不一。(p.</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130815Z" creationid="lenovo" creationdate="20200723T073135Z">
+        <seg>&lt;t3/&gt;&lt;t4/&gt;卡罗尔使用这一术语来描述与计算机相关的自学方法，希望藉由这些方法使得用户能以自己的节奏学习相关内容，并获得相应技能，因为用户使用特定硬件或软件系统的能力水平不一。(p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -891,8 +891,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;I insisted on the potential consequences of losing the flagship genre of technical communication, and Carroll painted a bigger picture: &lt;t4/&gt;“It's not just the manual, but the world has changed, and the software and docu&lt;t5/&gt;mentation business model.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T155312Z" creationid="lenovo" creationdate="20200731T135041Z">
-        <seg>&lt;t3/&gt;我坚称丢弃技术传播的标志性体裁将导致一系列潜在的后果，但卡罗尔描绘了一幅更为宏伟的蓝图：&lt;t4/&gt;“不只是手册发生了变化，而是世界变了，软件和文档商业模式都改变了。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130823Z" creationid="lenovo" creationdate="20200731T135041Z">
+        <seg>&lt;t3/&gt;我坚称丢弃技术传播的标志性体裁将导致一系列潜在的后果，但卡罗尔描绘了一幅更为宏伟的蓝图：&lt;t4/&gt;&lt;t5/&gt;“不只是手册发生了变化，而是世界变了，软件和文档商业模式都改变了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1115,8 +1115,8 @@
       <tuv lang="en">
         <seg>&lt;t4/&gt;As she traced the use of evolutionary language when describing genre use in literature, architecture, music, and painting, Miller attributed this appropriation of language from biological sciences to an “obses&lt;t5/&gt;sion with order and rules” &lt;t6/&gt;(2015, &lt;t7/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T155823Z" creationid="lenovo" creationdate="20200805T011720Z">
-        <seg>&lt;t4/&gt;当她描述文学、建筑、音乐和绘画中的体裁的使用时，她追踪了演进性语言的使用，米勒将这种将生物科学中术语挪为他用的现象归结为“对秩序和规则的痴迷”。 &lt;t6/&gt;(2015, &lt;t7/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130844Z" creationid="lenovo" creationdate="20200805T011720Z">
+        <seg>&lt;t4/&gt;&lt;t5/&gt;当她描述文学、建筑、音乐和绘画中的体裁的使用时，她追踪了演进性语言的使用，米勒将这种将生物科学中术语挪为他用的现象归结为“对秩序和规则的痴迷”。 &lt;t6/&gt;(2015, &lt;t7/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1131,8 +1131,8 @@
       <tuv lang="en">
         <seg>&lt;t4/&gt;In Rigo's out&lt;t5/&gt;line, “each statement, command, option, parameter, or similar independent item” requires the name of the statement or command, a paragraph describing its function, a formal definition using the documentation conventions stated in the Introduction, examples of valid commands/statements, summary of rules, and additional examples as needed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T000453Z" creationid="lenovo" creationdate="20200809T235345Z">
-        <seg>里戈的大纲中，“所有语句、命令、参数或类似的独立项”需要标明语句或命令的名称、一段介绍其功能的内容、使用简介中的文档惯例下正式定义、有效命令/语句的示例、规则的总结，以及需要的其他示例。&lt;t4/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130858Z" creationid="lenovo" creationdate="20200809T235345Z">
+        <seg>里戈的大纲中，“所有语句、命令、参数或类似的独立项”需要标明语句或命令的名称、一段介绍其功能的内容、使用简介中的文档惯例下正式定义、有效命令/语句的示例、规则的总结，以及需要的其他示例。&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1267,8 +1267,8 @@
       <tuv lang="en">
         <seg>&lt;t6/&gt;A casualty in the manual's demise, one could argue, was the main line of research that connected prac&lt;t7/&gt;titioners and academics in technical communication.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T013749Z" creationid="lenovo" creationdate="20200722T031615Z">
-        <seg>&lt;t6/&gt;可能有人会说，技术传播领域中将实践者和学者联系起来这一研究的主线随手册的消亡而被废弃。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130815Z" creationid="lenovo" creationdate="20200722T031615Z">
+        <seg>&lt;t6/&gt;&lt;t7/&gt;可能有人会说，技术传播领域中将实践者和学者联系起来这一研究的主线随手册的消亡而被废弃。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1363,8 +1363,8 @@
       <tuv lang="en">
         <seg>&lt;t7/&gt;For a discourse community of technical communicators producing computer manuals before the dawn of minimalism in technical communication, those rhetorical conven&lt;t8/&gt;tions were documented and analyzed in computing-related publications &lt;t9/&gt;- &lt;t10/&gt;and those are the origins of LwDITA and intelligent content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200808T021917Z" creationid="lenovo" creationdate="20200808T021917Z">
-        <seg>&lt;t7/&gt;在极简主义进入技术传播领域前，在撰写计算机手册的技术传播工程师所组成的话语体系中，计算相关的出版物中记录并分析了这些修辞惯例&lt;t9/&gt;- &lt;t10/&gt;并且这些惯例成为了轻量级DITA的起源。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130846Z" creationid="lenovo" creationdate="20200808T021917Z">
+        <seg>&lt;t7/&gt;&lt;t8/&gt;在极简主义进入技术传播领域前，在撰写计算机手册的技术传播工程师所组成的话语体系中，计算相关的出版物中记录并分析了这些修辞惯例&lt;t9/&gt;- &lt;t10/&gt;并且这些惯例成为了轻量级DITA的起源。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1451,8 +1451,8 @@
       <tuv lang="en">
         <seg>&lt;t9/&gt;In academia, scholars have praised Extensible Markup Language (XML) as the foundation for information reuse, single sourcing, and, particularly, content management for more than a dec&lt;t10/&gt;ade.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T032738Z" creationid="DSS" creationdate="20200723T160444Z">
-        <seg>&lt;t9/&gt;在学术界，学者们一直赞誉可扩展标记语言（Extensible Markup Language，XML）是一个多世纪以来信息重用、同源开发、特别是内容管理的基础。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130730Z" creationid="DSS" creationdate="20200723T160444Z">
+        <seg>&lt;t9/&gt;&lt;t10/&gt;在学术界，学者们一直赞誉可扩展标记语言（Extensible Markup Language，XML）是一个多世纪以来信息重用、同源开发、特别是内容管理的基础。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1611,8 +1611,8 @@
       <tuv lang="en">
         <seg>A few weeks after I interviewed John Carroll, the influential technical com&lt;t0/&gt;munication blogger Tom Johnson talked to him at the Society for Technical Communication Summit.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T071158Z" creationid="lenovo" creationdate="20200804T071158Z">
-        <seg>在我采访约翰·卡罗尔的数周后，颇具影响力的技术传播博主汤姆•约翰逊（Tom Johnson）在技术交流协会峰会上与他进行了交谈。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130840Z" creationid="lenovo" creationdate="20200804T071158Z">
+        <seg>在我采访约翰·卡罗尔的数周后，颇具影响力的技术传播博主汤姆•约翰逊（Tom Johnson）在技术交流协会峰会上与他进行了交谈。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1667,8 +1667,8 @@
       <tuv lang="en">
         <seg>A more discerning audience, aware that users' “inability to understand a manual is &lt;t0/&gt;not&lt;t1/&gt; a reflection on them but on those who created and published the manual.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T024030Z" creationid="lenovo" creationdate="20200810T024030Z">
-        <seg>明眼人则会意识到，用户无法理解手册，问题不出在用户上而是那些创建和出版手册的人身上。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130901Z" creationid="lenovo" creationdate="20200810T024030Z">
+        <seg>明眼人则会意识到，用户无法理解手册，问题不出在用户上而是那些创建和出版手册的人身上。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1867,8 +1867,8 @@
       <tuv lang="en">
         <seg>Additionally, from a perspective addressing the needs of managers and supervisors, Hackos presents a list of DITA's business advantages, which sug&lt;t0/&gt;gest that the standard will (promote) the reuse of information quickly and easily across multiple deliverables, reduce the cost of maintaining and updating information, enable continuous publishing, share information across the global enterprise, reduce the cost of localization, and reduce the technical debt caused by inadequate, incorrect, and unusable legacy information (Hackos, &lt;t1/&gt;2011, &lt;t2/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144321Z" creationid="DSS" creationdate="20200726T155045Z">
-        <seg>此外，从解决部门经理、主管的需求来看， 哈克斯列出了 DITA 的商业优势, 这表明，DITA 将简明迅速地促进信息跨交付物重用能力，降低维护和更新信息的成本，实现不间断出版，在全球企业内共享信息，降低本地化的成本,并减少由错误、不够完善、无法使用的遗留信息引起的技术债务。 （哈克斯，&lt;t1/&gt;2011年，&lt;t2/&gt;第</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130753Z" creationid="DSS" creationdate="20200726T155045Z">
+        <seg>此外，从解决部门经理、主管的需求来看， 哈克斯列出了 DITA 的商业优势, 这表明，DITA 将简明迅速地促进信息跨交付物重用能力，降低维护和更新信息的成本，实现不间断出版，在全球企业内共享信息，降低本地化的成本,并减少由错误、不够完善、无法使用的遗留信息引起的技术债务。 （哈克斯，&lt;t0/&gt;&lt;t1/&gt;2011年，&lt;t2/&gt;第</seg>
       </tuv>
     </tu>
     <tu>
@@ -2019,16 +2019,16 @@
       <tuv lang="en">
         <seg>Although concept, task, and ref&lt;t0/&gt;erence are still defined types in the DITA standard, the official specification for DITA &lt;t1/&gt;1.3 &lt;t2/&gt;also includes topic types for troubleshooting, which “provides markup for corrective action information such as troubleshooting and alarm clearing” &lt;t3/&gt;(2.7.1.6 &lt;t4/&gt;Troubleshooting topic, &lt;t5/&gt;2016) &lt;t6/&gt;and glossary, which “defines a single sense of one term” &lt;t7/&gt;(2.7.1.7 &lt;t8/&gt;Glossary entry topic, &lt;t9/&gt;2016).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145625Z" creationid="DSS" creationdate="20200725T083311Z">
-        <seg>虽然概念（concept）、任务（task）和参考（reference）仍是 DITA 标准中定义好的类型，DITA官方规范&lt;t1/&gt;1.3&lt;t2/&gt;版本还包括了关于排除故障的话题类型，这些话题类型“提供编写纠正行为信息的标记，比如‘故障排除’（troubleshooting）和‘警示清除（alarm clearing）’”&lt;t3/&gt;（2.7.1.6 话题“&lt;t4/&gt;故障排除&lt;t5/&gt;”（troubleshooting），2016&lt;t6/&gt;年），还包括了术语表，术语表“定义了每个术语的含义”&lt;t7/&gt;（2.7.1.7 话题“&lt;t8/&gt;术语表条目&lt;t9/&gt;”（glossary entry），2016年）。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130807Z" creationid="DSS" creationdate="20200725T083311Z">
+        <seg>虽然概念（concept）、任务（task）和参考（reference）仍是 DITA 标准中定义好的类型，DITA官方规范&lt;t0/&gt;&lt;t1/&gt;1.3&lt;t2/&gt;版本还包括了关于排除故障的话题类型，这些话题类型“提供编写纠正行为信息的标记，比如‘故障排除’（troubleshooting）和‘警示清除（alarm clearing）’”&lt;t3/&gt;（2.7.1.6 话题“&lt;t4/&gt;故障排除&lt;t5/&gt;”（troubleshooting），2016&lt;t6/&gt;年），还包括了术语表，术语表“定义了每个术语的含义”&lt;t7/&gt;（2.7.1.7 话题“&lt;t8/&gt;术语表条目&lt;t9/&gt;”（glossary entry），2016年）。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Although in &lt;t0/&gt;Chapters&lt;t1/&gt; &lt;t2/&gt;5&lt;t3/&gt; &lt;t4/&gt;and &lt;t5/&gt;6&lt;t6/&gt; &lt;t7/&gt;I will further analyze the DITA tags and attributes, for the scope of this introductory section, I structured and tagged O'Keefe's recipe for mari&lt;t8/&gt;nara sauce as a DITA task (&lt;t9/&gt;Figure &lt;t10/&gt;1.3&lt;t11/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145042Z" creationid="DSS" creationdate="20200725T064726Z">
-        <seg>在第&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;5&lt;t3/&gt;章&lt;t4/&gt;和第&lt;t5/&gt;6&lt;t6/&gt;章中，&lt;t7/&gt;我将进一步分析 DITA 的标签和属性。在本部分的简介中，我会将奥基夫的马里纳拉酱料菜谱结构化，打上标签，作为一个 DITA 任务（task）话题的示范（&lt;t9/&gt;图&lt;t10/&gt;1.3&lt;t11/&gt;）。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130804Z" creationid="DSS" creationdate="20200725T064726Z">
+        <seg>在第&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;5&lt;t3/&gt;章&lt;t4/&gt;和第&lt;t5/&gt;6&lt;t6/&gt;章中，&lt;t7/&gt;&lt;t8/&gt;我将进一步分析 DITA 的标签和属性。在本部分的简介中，我会将奥基夫的马里纳拉酱料菜谱结构化，打上标签，作为一个 DITA 任务（task）话题的示范（&lt;t9/&gt;图&lt;t10/&gt;1.3&lt;t11/&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2075,8 +2075,8 @@
       <tuv lang="en">
         <seg>Although the benefits of a well-planned and implemented intel&lt;t9/&gt;ligent content workflow built on XML or DITA are undeniable, this type of solution presents significant challenges that have repercussions in the academic and workplace facets of the profession.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140905Z" creationid="DSS" creationdate="20200726T140905Z">
-        <seg>虽然基于 XML 或 DITA 的智能内容工作流经过精心规划、部署带来的好处不可否认，但这种解决方案也带来了重大挑战，对该领域的学术研究和职场工作都产生了影响。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130734Z" creationid="DSS" creationdate="20200726T140905Z">
+        <seg>虽然基于 XML 或 DITA 的智能内容工作流经过精心规划、部署带来的好处不可否认，但这种解决方案也带来了重大挑战，对该领域的学术研究和职场工作都产生了影响。&lt;t9/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2203,8 +2203,8 @@
       <tuv lang="en">
         <seg>An “increasing reluctance to read instructions, whether they are on a prod&lt;t0/&gt;uct, on its packaging, or in a manual.” They hypothesized that conditions like “the age of television we live in” or the bad reputation spawned by manuals of the past were to blame.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T023749Z" creationid="lenovo" creationdate="20200810T023749Z">
-        <seg>“无论是印在产品上、包装上或是手册上，人们都越来越不爱读说明书了。”他们都假定罪魁祸首是“我们生活的电视时代”或过去手册造成的坏名声。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130901Z" creationid="lenovo" creationdate="20200810T023749Z">
+        <seg>“无论是印在产品上、包装上或是手册上，人们都越来越不爱读说明书了。”他们都假定罪魁祸首是“我们生活的电视时代”或过去手册造成的坏名声。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2443,8 +2443,8 @@
       <tuv lang="en">
         <seg>As a franchise owner, he wants to ensure that the food in his restau&lt;t0/&gt;rants is consistent, and his kitchen staff needs up-to-date documentation with recipes and techniques adopted in all of his restaurants.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153403Z" creationid="DSS" creationdate="20200726T153403Z">
-        <seg>作为餐馆老板，他希望能够确保所有餐馆里的食物是一致的，厨房员工也需要知晓佩德罗所有餐馆的最新菜谱和采用的技艺。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130736Z" creationid="DSS" creationdate="20200726T153403Z">
+        <seg>作为餐馆老板，他希望能够确保所有餐馆里的食物是一致的，厨房员工也需要知晓佩德罗所有餐馆的最新菜谱和采用的技艺。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2499,8 +2499,8 @@
       <tuv lang="en">
         <seg>As many levels of docu&lt;t0/&gt;mentation are required as there are levels of users.” Technique was connected to the budget and quality of documentation: “Two elements of documentation &lt;t1/&gt;are indispensable &lt;t2/&gt;一 &lt;t3/&gt;integration with the system implementation and on-line machine-readable generation” (Patterson, 1975, p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200808T074220Z" creationid="lenovo" creationdate="20200808T074220Z">
-        <seg>“用户的级数决定了文档的层数。”技术与文档的预算和质量密切相关：“文档有两大元素不可或缺——与系统实现实现整合、在线生成且机器可读。”(Patterson, 1975, p.</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130856Z" creationid="lenovo" creationdate="20200808T074220Z">
+        <seg>“用户的级数决定了文档的层数。”技术与文档的预算和质量密切相关：“文档有两大元素不可或缺——与系统实现实现整合、在线生成且机器可读。”(Patterson, 1975, p.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2619,16 +2619,16 @@
       <tuv lang="en">
         <seg>At the same time, the menus in his restaurants need to reflect some of that content, which is also fea&lt;t1/&gt;tured on a website, mobile app, and an electronic book he sells describing the history and process of his restaurants.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153410Z" creationid="DSS" creationdate="20200726T153410Z">
-        <seg>与此同时，餐馆菜单需要反映一些网站、移动软件、介绍餐馆历史和发展过程的电子书上的内容。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130737Z" creationid="DSS" creationdate="20200726T153410Z">
+        <seg>与此同时，餐馆菜单需要反映一些网站、移动软件、介绍餐馆历史和发展过程的电子书上的内容。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>At the topic level, and without getting too deep into the process of DITA specialization, just as &lt;t2/&gt;&lt;concept&gt; &lt;t3/&gt;and &lt;t4/&gt;&lt;task&gt; &lt;t5/&gt;are spe&lt;t6/&gt;cialized from the original generic &lt;t7/&gt;&lt;topic&gt;&lt;t8/&gt;, &lt;t9/&gt;&lt;task&gt; &lt;t10/&gt;could specialize into &lt;t11/&gt;&lt;recipe&gt;&lt;t12/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150027Z" creationid="DSS" creationdate="20200725T143911Z">
-        <seg>在不深入讨论如何定制 DITA 话题的情况下，我们来看一下各种话题。 &lt;t2/&gt;&lt;concept&gt; &lt;t3/&gt;和&lt;t4/&gt;&lt;task&gt; &lt;t5/&gt;是为最初通用的 &lt;t7/&gt;&lt;topic&gt;&lt;t8/&gt; 特别定制的，而为 &lt;t9/&gt;&lt;task&gt; &lt;t10/&gt; 又再具体定制了 &lt;t11/&gt;&lt;recipe&gt;&lt;t12/&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130808Z" creationid="DSS" creationdate="20200725T143911Z">
+        <seg>在不深入讨论如何定制 DITA 话题的情况下，我们来看一下各种话题。 &lt;t2/&gt;&lt;concept&gt; &lt;t3/&gt;和&lt;t4/&gt;&lt;task&gt; &lt;t5/&gt;&lt;t6/&gt;是为最初通用的 &lt;t7/&gt;&lt;topic&gt;&lt;t8/&gt; 特别定制的，而为 &lt;t9/&gt;&lt;task&gt; &lt;t10/&gt; 又再具体定制了 &lt;t11/&gt;&lt;recipe&gt;&lt;t12/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2739,8 +2739,8 @@
       <tuv lang="en">
         <seg>Based on conversations with former and cur&lt;t0/&gt;rent IBM employees, I determined that the technical communicator could be &lt;t1/&gt;Susan Carpenter, who is now a senior manager of technical documentation at Red Hat and “led the first pilot of DITA with IBM WebSphere Application Server docs” (DITAWriter, &lt;t2/&gt;2016).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T155622Z" creationid="lenovo" creationdate="20200804T065532Z">
-        <seg>根据与IBM前任和在职员工的交流，我认定那位技术传播工程师就是&lt;t1/&gt;苏珊·卡朋特（Susan Carpenter），如今她是红帽公司技术文档部门的高级经理，并“曾用DITA撰写IBM公司WebSphere Application Server（WAS）的相关文档，引领了首次试点。” (DITAWriter, &lt;t2/&gt;2016).</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130835Z" creationid="lenovo" creationdate="20200804T065532Z">
+        <seg>根据与IBM前任和在职员工的交流，我认定那位技术传播工程师就是&lt;t0/&gt;&lt;t1/&gt;苏珊·卡朋特（Susan Carpenter），如今她是红帽公司技术文档部门的高级经理，并“曾用DITA撰写IBM公司WebSphere Application Server（WAS）的相关文档，引领了首次试点。” (DITAWriter, &lt;t2/&gt;2016).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2963,16 +2963,16 @@
       <tuv lang="en">
         <seg>By &lt;t2/&gt;1999, &lt;t3/&gt;Dave was aware of my participation as IBM's primary representa&lt;t4/&gt;tive with the XSLT and CSS standards activities at the World Wide Web Consortium, and I delivered a presentation at a formative meeting in California that forecast the possibility of XML to solve IBM's still-linger&lt;t5/&gt;ing problems with variant tools and markup usage.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T035949Z" creationid="DSS" creationdate="20200726T154657Z">
-        <seg>&lt;t2/&gt;1999年，&lt;t3/&gt;戴夫知道我作为 IBM 的主要代表参与了万维网联盟关于 XSLT 和 CSS 标准的活动，并在加州一个影响重大的会议上做了一次演讲，预言可以通过使用各种工具和标记，借助 XML 来解决 IBM 目前仍然存在的问题。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130739Z" creationid="DSS" creationdate="20200726T154657Z">
+        <seg>&lt;t2/&gt;1999年，&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;戴夫知道我作为 IBM 的主要代表参与了万维网联盟关于 XSLT 和 CSS 标准的活动，并在加州一个影响重大的会议上做了一次演讲，预言可以通过使用各种工具和标记，借助 XML 来解决 IBM 目前仍然存在的问题。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>By simplifying the core “fixed pattern of template” of DITA, LwDITA embarks on a process of genre evolution that empowers entry-level users while keeping its tools to sup&lt;t12/&gt;port our human obsession with order and rules.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T010326Z" creationid="lenovo" creationdate="20200804T082616Z">
-        <seg>通过简化DITA核心“模板的固定模式”，轻量级DITA开启了体裁演进的新征程，使得入门级用户也能轻松使用的同时满足了人类对秩序与规则的痴迷。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130843Z" creationid="lenovo" creationdate="20200804T082616Z">
+        <seg>通过简化DITA核心“模板的固定模式”，轻量级DITA开启了体裁演进的新征程，使得入门级用户也能轻松使用的同时满足了人类对秩序与规则的痴迷。&lt;t12/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3043,8 +3043,8 @@
       <tuv lang="en">
         <seg>Carroll identified the same pat&lt;t1/&gt;tern of disparities in computing-related fields: “People who build interfaces and build products don't go to ACM (Association for Computing Machinery) conferences like they used to.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200802T081708Z" creationid="lenovo" creationdate="20200802T081708Z">
-        <seg>卡罗尔发现计算机相关的领域都存在学界与业界脱节的问题：“开发界面和产品的人不再像以前那样参加ACM(计算机协会)会议。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130826Z" creationid="lenovo" creationdate="20200802T081708Z">
+        <seg>卡罗尔发现计算机相关的领域都存在学界与业界脱节的问题：“开发界面和产品的人不再像以前那样参加ACM(计算机协会)会议。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3139,8 +3139,8 @@
       <tuv lang="en">
         <seg>Chef Pedro, like many content owners in this world, has been using Microsoft Word for most of his information prod&lt;t2/&gt;ucts, and the publications department in his company takes some of those Word files and, through long sessions of copy and pasting, produces menus and flyers in Adobe InDesign and maintains the restaurant's website using WordPress.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153439Z" creationid="DSS" creationdate="20200726T153439Z">
-        <seg>厨师佩德罗像世界上许多内容创作者一样，一直在使用 Microsoft Word 来编写他的信息产品。佩德罗公司的出版部门通过漫长的复制和粘贴部分 Word 文件，利用 Adobe InDesign 制作菜单和传单，并用 WordPress 维护餐馆的网站。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130737Z" creationid="DSS" creationdate="20200726T153439Z">
+        <seg>厨师佩德罗像世界上许多内容创作者一样，一直在使用 Microsoft Word 来编写他的信息产品。佩德罗公司的出版部门通过漫长的复制和粘贴部分 Word 文件，利用 Adobe InDesign 制作菜单和传单，并用 WordPress 维护餐馆的网站。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3179,8 +3179,8 @@
       <tuv lang="en">
         <seg>Cohen (then a technical writer at IBM) and Cunningham (then a profes&lt;t0/&gt;sor of technical and professional writing at Texas Tech University) were quite prescriptive when documenting rhetorical conventions of the manual.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T025821Z" creationid="lenovo" creationdate="20200810T025821Z">
-        <seg>柯亨（当时是IBM的一技术文档工程师）和坎宁安（当时是德克萨斯理工大学专业技术写作方向的教授）记录手册的修辞惯例相当规范。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130912Z" creationid="lenovo" creationdate="20200810T025821Z">
+        <seg>柯亨（当时是IBM的一技术文档工程师）和坎宁安（当时是德克萨斯理工大学专业技术写作方向的教授）记录手册的修辞惯例相当规范。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3374,8 +3374,8 @@
       <tuv lang="en">
         <seg>Creating Intelligent Content with Lightweight DITA&lt;t0/&gt; introduces and ana&lt;t1/&gt;lyzes LwDITA as an approach for developing intelligent content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150808Z" creationid="DSS" creationdate="20200726T085113Z">
-        <seg>本书&lt;t0/&gt;介绍并分析了可以用于开发智能内容的 LwDITA，</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130812Z" creationid="DSS" creationdate="20200726T085113Z">
+        <seg>本书&lt;t0/&gt;&lt;t1/&gt;介绍并分析了可以用于开发智能内容的 LwDITA，</seg>
       </tuv>
     </tu>
     <tu>
@@ -3559,8 +3559,8 @@
       <tuv lang="en">
         <seg>DITA, however, “has evolved substantially since that initial donation to encompass a very wide scope of require&lt;t1/&gt;ments indeed” (Kimber, &lt;t2/&gt;2012, &lt;t3/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144221Z" creationid="DSS" creationdate="20200726T154851Z">
-        <seg>不过 DITA “自捐赠后，已经有了很大的发展，涵盖了非常广泛的需求”（金柏，&lt;t2/&gt;2012&lt;t3/&gt;年，第</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130748Z" creationid="DSS" creationdate="20200726T154851Z">
+        <seg>不过 DITA “自捐赠后，已经有了很大的发展，涵盖了非常广泛的需求”（金柏，&lt;t1/&gt;&lt;t2/&gt;2012&lt;t3/&gt;年，第</seg>
       </tuv>
     </tu>
     <tu>
@@ -3791,8 +3791,8 @@
       <tuv lang="en">
         <seg>Each topic is long enough to make sense on its own, but short enough to stick to one point without expanding into other sub&lt;t0/&gt;jects” (Bellamy et al.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154251Z" creationid="DSS" creationdate="20200724T154251Z">
-        <seg>每个话题都要内容充足，能站得住脚跟，同时也要精简干练，只围绕一个中心点展开，而不扩展到其他主题”（贝拉米等，</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130757Z" creationid="DSS" creationdate="20200724T154251Z">
+        <seg>每个话题都要内容充足，能站得住脚跟，同时也要精简干练，只围绕一个中心点展开，而不扩展到其他主题”（贝拉米等，&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4433,8 +4433,8 @@
       <tuv lang="en">
         <seg>For any reader, &lt;t6/&gt;Creating Intelligent Content with Lightweight DITA&lt;t7/&gt; places human authors at the center of intelli&lt;t8/&gt;gent content workflows, proposing that adopting LwDITA as a thought process and authoring schema will provide writers with some of the benefits associated with other information standards (DITA included) while &lt;t9/&gt;emphasizing think&lt;t10/&gt;ing and abstraction over automation and machine processing&lt;t11/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T151020Z" creationid="DSS" creationdate="20200726T093228Z">
-        <seg>对任何读者来说，&lt;t6/&gt;本书&lt;t7/&gt;将人类作者置于创作智能内容工作流的中心，认为采用 LwDITA 作为思维过程和创作模式将为作者提供一些其他信息标准（包括 DITA）也有的优势，与此同时强调&lt;t9/&gt;思考能力和抽象能力，而不是自动化和机器处理能力。&lt;t11/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130814Z" creationid="DSS" creationdate="20200726T093228Z">
+        <seg>对任何读者来说，&lt;t6/&gt;本书&lt;t7/&gt;&lt;t8/&gt;将人类作者置于创作智能内容工作流的中心，认为采用 LwDITA 作为思维过程和创作模式将为作者提供一些其他信息标准（包括 DITA）也有的优势，与此同时强调&lt;t9/&gt;&lt;t10/&gt;思考能力和抽象能力，而不是自动化和机器处理能力。&lt;t11/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4457,8 +4457,8 @@
       <tuv lang="en">
         <seg>For exam&lt;t1/&gt;ple, the website “DITA Writer” maintains a list of companies using DITA based on reports from social media channels.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T141042Z" creationid="DSS" creationdate="20200726T141042Z">
-        <seg>例如，网站 DITA Writer 根据社交媒体统计的报告，维护了一份使用 DITA 的公司名单。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130735Z" creationid="DSS" creationdate="20200726T141042Z">
+        <seg>例如，网站 DITA Writer 根据社交媒体统计的报告，维护了一份使用 DITA 的公司名单。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4481,8 +4481,8 @@
       <tuv lang="en">
         <seg>For example, a concept could be an introduction to the sauces section in Chef Pedro's recipe book, while tasks can provide recipes for specific salsas and condiments (he can write a step about dicing tomatoes once and reuse in all the recipes that need it!), and a ref&lt;t0/&gt;erence topic can list common techniques and tools for preparing ingredients.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T075303Z" creationid="DSS" creationdate="20200724T162425Z">
-        <seg>例如，“概念”（concept）可以是对厨师佩德罗菜谱中酱汁部分的介绍，“任务”（task）可以为特定的辛香番茄酱和调味料提供菜谱（佩德罗可以写一个将番茄切成小块的操作步骤，然后在所有需要用到这一步骤食谱中重复使用！），“参考”（reference）可以列出准备食材的常用技术和工具。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130802Z" creationid="DSS" creationdate="20200724T162425Z">
+        <seg>例如，“概念”（concept）可以是对厨师佩德罗菜谱中酱汁部分的介绍，“任务”（task）可以为特定的辛香番茄酱和调味料提供菜谱（佩德罗可以写一个将番茄切成小块的操作步骤，然后在所有需要用到这一步骤食谱中重复使用！），“参考”（reference）可以列出准备食材的常用技术和工具。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4505,8 +4505,8 @@
       <tuv lang="en">
         <seg>For interested practitioners, this book presents the logical and computational essence of changes and improve&lt;t5/&gt;ments on a major documentation standard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T093203Z" creationid="DSS" creationdate="20200726T093203Z">
-        <seg>对于感兴趣的从业者来说，这本书展现了对一个重要文档标准进行改动和提升的逻辑和计算本质。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130813Z" creationid="DSS" creationdate="20200726T093203Z">
+        <seg>对于感兴趣的从业者来说，这本书展现了对一个重要文档标准进行改动和提升的逻辑和计算本质。&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4545,8 +4545,8 @@
       <tuv lang="en">
         <seg>For techni&lt;t4/&gt;cal communicators creating intelligent content, the negative side of schemas (probably presented as XML files) is in the “perception that XML forces writ&lt;t5/&gt;ers into creating cookie-cutter topics rather than useful technical information” (O'Keefe, &lt;t6/&gt;2010, &lt;t7/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T025959Z" creationid="lenovo" creationdate="20200805T025959Z">
-        <seg>对于创建智能内容的技术传播工程师来说，模式(可能以XML文件的形式呈现)的负面影响是“XML格式迫使作者创建千篇一律的主题，而非有用的技术信息”。(O'Keefe, &lt;t6/&gt;2010, &lt;t7/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130845Z" creationid="lenovo" creationdate="20200805T025959Z">
+        <seg>对于创建智能内容的技术传播工程师来说，模式(可能以XML文件的形式呈现)的负面影响是“XML格式迫使作者创建千篇一律的主题，而非有用的技术信息”。(O'Keefe, 2010, p.&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4625,8 +4625,8 @@
       <tuv lang="en">
         <seg>Furthermore, blogs and social media postings from content professionals create and maintain an active online community of dis&lt;t0/&gt;cussion and recommendations.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140951Z" creationid="DSS" creationdate="20200726T140951Z">
-        <seg>此外，内容专家的博文和社交媒体帖子创建并维持了一个活跃的在线讨论推荐社区。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130734Z" creationid="DSS" creationdate="20200726T140951Z">
+        <seg>此外，内容专家的博文和社交媒体帖子创建并维持了一个活跃的在线讨论推荐社区。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4673,8 +4673,8 @@
       <tuv lang="en">
         <seg>Gerald Cohen and &lt;t0/&gt;Donald Cunningham, in the introduction to their &lt;t1/&gt;1984 &lt;t2/&gt;book &lt;t3/&gt;Creating Technical Manuals: A Step-by-Step Approach to Writing User-Friendly Instructions&lt;t4/&gt;, already talked about a “crisis in manual writing.” According to these authors, manual readers in the 1980s were “more sophisticated and liberated” than those from before &lt;t5/&gt;1970 &lt;t6/&gt;and would not “tolerate a poorly conceived manual.” Many of their recommendations urged the manual writer “to serve as an agent representing the reader.” One of the greatest failures of manual writing, they wrote, is “the lack of representation from the reader needs” (Cohen &lt;t7/&gt;&amp; &lt;t8/&gt;Cunningham, &lt;t9/&gt;1984, &lt;t10/&gt;p.13).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T072237Z" creationid="lenovo" creationdate="20200810T023041Z">
-        <seg>杰拉德·柯亨（Gerald Cohen ）和唐纳德·坎宁安 （Donald Cunningham）在他们1984年出版的《创建技术手册：一步一步编写用户友好的操作说明》一书中就已经谈论过：“手册写作的危机。”根据这两位作者的说法，20世纪80年代手册读者比70年代以前的“更加成熟和自由”，不会“容忍构思拙劣的手册”。他们很多建议都要求手册作者应当“成为读者的代言人。”手册写作最大的失误之一在于写作“没能很好地代表读者需求” (Cohen &lt;t7/&gt;&amp; &lt;t8/&gt;Cunningham, &lt;t9/&gt;1984, &lt;t10/&gt;p.13).</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130901Z" creationid="lenovo" creationdate="20200810T023041Z">
+        <seg>杰拉德·柯亨（Gerald Cohen ）和唐纳德·坎宁安 （Donald Cunningham）在他们1984年出版的《创建技术手册：一步一步编写用户友好的操作说明》一书中就已经谈论过：“手册写作的危机。”根据这两位作者的说法，20世纪80年代手册读者比70年代以前的“更加成熟和自由”，不会“容忍构思拙劣的手册”。他们很多建议都要求手册作者应当“成为读者的代言人。”手册写作最大的失误之一在于写作“没能很好地代表读者需求” (Cohen &amp; Cunningham, 1984, p.13).&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4713,8 +4713,8 @@
       <tuv lang="en">
         <seg>Gone are the days when the manual was binding the academic and practitioner camps of technical com&lt;t1/&gt;munication as they worked towards the advancement of this common genre.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T082040Z" creationid="lenovo" creationdate="20200723T082040Z">
-        <seg>以往技术传播领域的学术人士和从业者携手推动手册这一通用体裁的发展，进而两者绑定在一起，然而这样的日子已经一去不复返了。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130818Z" creationid="lenovo" creationdate="20200723T082040Z">
+        <seg>以往技术传播领域的学术人士和从业者携手推动手册这一通用体裁的发展，进而两者绑定在一起，然而这样的日子已经一去不复返了。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4833,8 +4833,8 @@
       <tuv lang="en">
         <seg>He described that as a problem of scaling: when there were a handful of important tech companies, their research and develop&lt;t0/&gt;ment departments could work closely with academics, and those partnerships were reciprocal.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200802T080451Z" creationid="lenovo" creationdate="20200802T080451Z">
-        <seg>他将其描述成规模问题：当只存在少数几件重要的科技公司，并且其研发部门能够与学界密切合作时，他们之间存在互惠互利的关系。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130826Z" creationid="lenovo" creationdate="20200802T080451Z">
+        <seg>他将其描述成规模问题：当只存在少数几件重要的科技公司，并且其研发部门能够与学界密切合作时，他们之间存在互惠互利的关系。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4865,16 +4865,16 @@
       <tuv lang="en">
         <seg>He warned that creating online docu&lt;t2/&gt;mentation generated new demand for skills in the technical writer's repertoire, including learning an authoring language or, “if you don't find an authoring language you enjoy,” collaborating with a programmer.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T083412Z" creationid="lenovo" creationdate="20200810T082020Z">
-        <seg>他也警示创建在线文档会对技术文档工程师产生新的技能需求，其中包括学习一门创作语言或者，“如果你没有找到一门满意的创作语言”，就得与程序员通力合作。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130915Z" creationid="lenovo" creationdate="20200810T082020Z">
+        <seg>他也警示创建在线文档会对技术文档工程师产生新的技能需求，其中包括学习一门创作语言或者，“如果你没有找到一门满意的创作语言”，就得与程序员通力合作。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Helping to make errors and error recovery less traumatic and more peda&lt;t0/&gt;gogically productive (p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T075115Z" creationid="lenovo" creationdate="20200723T075115Z">
-        <seg>降低犯错与纠错的伤害，提升教学效率。(p.</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130815Z" creationid="lenovo" creationdate="20200723T075115Z">
+        <seg>降低犯错与纠错的伤害，提升教学效率。(p.&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4913,8 +4913,8 @@
       <tuv lang="en">
         <seg>How does Carroll plead when facing the accusa&lt;t0/&gt;tion of killing the manual?</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200802T075232Z" creationid="lenovo" creationdate="20200802T075232Z">
-        <seg>当卡罗尔面临杀死手册的指控时，她是如何自辩的？</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130825Z" creationid="lenovo" creationdate="20200802T075232Z">
+        <seg>当卡罗尔面临杀死手册的指控时，她是如何自辩的？&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5121,8 +5121,8 @@
       <tuv lang="en">
         <seg>I am a voting member of the DITA Technical Committee with the Organization for the Adoption of Structured Information Standards (OASIS), which is currently working on version &lt;t0/&gt;2.0 &lt;t1/&gt;of the standard; DITA's present and future are necessary for the lightweight approaches dis&lt;t2/&gt;cussed in this book.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T151058Z" creationid="DSS" creationdate="20200726T134337Z">
-        <seg>我是 OASIS 的 DITA 技术委员会的投票成员，OASIS 目前正在制定 DITA 标准的&lt;t0/&gt;2.0 &lt;t1/&gt;版本，DITA 的现在和未来对于本书中讨论的轻量级方法都是非常重要的。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130814Z" creationid="DSS" creationdate="20200726T134337Z">
+        <seg>我是 OASIS 的 DITA 技术委员会的投票成员，OASIS 目前正在制定 DITA 标准的&lt;t0/&gt;2.0 &lt;t1/&gt;&lt;t2/&gt;版本，DITA 的现在和未来对于本书中讨论的轻量级方法都是非常重要的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5273,8 +5273,8 @@
       <tuv lang="en">
         <seg>I rarely get a second call and the con&lt;t6/&gt;versation stays in the “someday/maybe” list.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T090534Z" creationid="DSS" creationdate="20200726T090534Z">
-        <seg>但是我很少再次接到他们的电话，谈话也都停留在“以后/可能”之词上。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130812Z" creationid="DSS" creationdate="20200726T090534Z">
+        <seg>但是我很少再次接到他们的电话，谈话也都停留在“以后/可能”之词上。&lt;t6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5321,8 +5321,8 @@
       <tuv lang="en">
         <seg>I was leading IBM's production pilot of DITA in &lt;t0/&gt;2001/2, &lt;t1/&gt;and I definitely had contact with him (Carroll) during that time.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T070302Z" creationid="lenovo" creationdate="20200804T070302Z">
-        <seg>2001年2月我领导了IBM基于DITA的产品试点工作，那段时间我肯定同他（卡罗尔）有过接触。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130839Z" creationid="lenovo" creationdate="20200804T070302Z">
+        <seg>2001年2月我领导了IBM基于DITA的产品试点工作，那段时间我肯定同他（卡罗尔）有过接触。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5353,8 +5353,8 @@
       <tuv lang="en">
         <seg>IBM eventually donated DITA as an open standard, which is currently main&lt;t0/&gt;tained by the non-profit consortium OASIS.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154833Z" creationid="DSS" creationdate="20200726T154833Z">
-        <seg>IBM 最终捐赠出 DITA，将其作为一种开放标准，目前该标准由非营利组织 OASIS 维护。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130746Z" creationid="DSS" creationdate="20200726T154833Z">
+        <seg>IBM 最终捐赠出 DITA，将其作为一种开放标准，目前该标准由非营利组织 OASIS 维护。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5593,8 +5593,8 @@
       <tuv lang="en">
         <seg>In &lt;t0/&gt;2012, &lt;t1/&gt;the Adobe Technical Communication Suite (TCS) team distrib&lt;t2/&gt;uted on several social media channels a video titled “The Future of Technical Communication.” The video used stop-motion animation and fast-draw tech&lt;t3/&gt;niques to summarize the features of “Adobe's Tools and Services” for technical communication.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T155229Z" creationid="DSS" creationdate="20200723T155229Z">
-        <seg> &lt;t0/&gt;2012年，&lt;t1/&gt;Adobe 技术传播套件（TCS）团队在几个社交媒体渠道发布了一段名为“技术传播的未来”的视频。该视频使用定格动画和快速绘制技术，总结了用于技术传播的“Adobe 工具和服务”的特点。  </seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130725Z" creationid="DSS" creationdate="20200723T155229Z">
+        <seg> &lt;t0/&gt;2012年，&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;Adobe 技术传播套件（TCS）团队在几个社交媒体渠道发布了一段名为“技术传播的未来”的视频。该视频使用定格动画和快速绘制技术，总结了用于技术传播的“Adobe 工具和服务”的特点。  </seg>
       </tuv>
     </tu>
     <tu>
@@ -5617,8 +5617,8 @@
       <tuv lang="en">
         <seg>In &lt;t1/&gt;Chapter &lt;t2/&gt;1&lt;t3/&gt;, &lt;t4/&gt;I mentioned an example of Chef Pedro, who could &lt;t5/&gt;specialize&lt;t6/&gt; ele&lt;t7/&gt;ments of the DITA task content type into more meaningful components for his intended purpose (i.e., &lt;t8/&gt;&lt;ingredients&gt; &lt;t9/&gt;as a specialization of the default &lt;t10/&gt;&lt;prereq&gt; &lt;t11/&gt;for pre-requisites).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T160115Z" creationid="lenovo" creationdate="20200804T080138Z">
-        <seg>在&lt;t1/&gt;第&lt;t2/&gt;一&lt;t3/&gt;章中，我提到了佩德罗的例子，&lt;t4/&gt;他能够根据自己特定的目的将DITA任务内容类型的各类元素&lt;t5/&gt;专门化&lt;t6/&gt;成更具意义的组件。（比如说&lt;t8/&gt;&lt;ingredients&gt; &lt;t9/&gt;标签是默认元素的专门化，&lt;t10/&gt;&lt;prereq&gt; &lt;t11/&gt;则是前期准备元素）</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130843Z" creationid="lenovo" creationdate="20200804T080138Z">
+        <seg>在&lt;t1/&gt;第&lt;t2/&gt;一&lt;t3/&gt;章中，我提到了佩德罗的例子，&lt;t4/&gt;他能够根据自己特定的目的将DITA任务内容类型的各类元素&lt;t5/&gt;专门化&lt;t6/&gt;&lt;t7/&gt;成更具意义的组件。（比如说&lt;t8/&gt;&lt;ingredients&gt; &lt;t9/&gt;标签是默认元素的专门化，&lt;t10/&gt;&lt;prereq&gt; &lt;t11/&gt;则是前期准备元素）</seg>
       </tuv>
     </tu>
     <tu>
@@ -5689,8 +5689,8 @@
       <tuv lang="en">
         <seg>In John Carroll's opinion, today's developers and users have not really lost the itch to tinker with systems because the manuals disap&lt;t0/&gt;peared.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T093646Z" creationid="lenovo" creationdate="20200723T091333Z">
-        <seg>在约翰·卡罗尔看来，如今的开发者和用户并未因为手册的消失而真正丧失改进系统的渴望。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130819Z" creationid="lenovo" creationdate="20200723T091333Z">
+        <seg>在约翰·卡罗尔看来，如今的开发者和用户并未因为手册的消失而真正丧失改进系统的渴望。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5801,16 +5801,16 @@
       <tuv lang="en">
         <seg>In a conversation we had after one of our presentations at a DITA North America conference organized by the Center for Information-Development Management, Priestley pointed out that IBM's &lt;t5/&gt;DQTI&lt;t6/&gt; was “all about DITA with&lt;t7/&gt;out mentioning DITA by its name.”</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T031608Z" creationid="lenovo" creationdate="20200810T143947Z">
-        <seg>在一次由信息开发管理中心组织的DITA北美会议展示结束后，我们与普里斯特利进行了交谈，他指出IBM的 &lt;t5/&gt;DQTI&lt;t6/&gt;虽然没有提DITA，但实质就是DITA。 </seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130917Z" creationid="lenovo" creationdate="20200810T143947Z">
+        <seg>在一次由信息开发管理中心组织的DITA北美会议展示结束后，我们与普里斯特利进行了交谈，他指出IBM的 &lt;t5/&gt;DQTI&lt;t6/&gt;&lt;t7/&gt;虽然没有提DITA，但实质就是DITA。 </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>In a meta application of his own recommendations, Price's description of the features in &lt;t2/&gt;How to Write a Computer Manual: A Handbook of Software Documentation&lt;t3/&gt; reflected the organizational patterns of the type of friendly manual promoted in the book.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T075523Z" creationid="lenovo" creationdate="20200810T075523Z">
-        <seg>在实现他提出的建议的元应用场景中，普莱斯在《如何编写计算机手册：软件文档手册》描述的特征反映了书中推荐的友好手册类型的组织模式。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130913Z" creationid="lenovo" creationdate="20200810T075523Z">
+        <seg>在实现他提出的建议的元应用场景中，普莱斯在《如何编写计算机手册：软件文档手册》描述的特征反映了书中推荐的友好手册类型的组织模式。&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5825,16 +5825,16 @@
       <tuv lang="en">
         <seg>In an interview for the website “DITAWriter,” Don Day, one of the original developers of the DITA standard, chronicled the origins of his XML experi&lt;t0/&gt;ments while working for IBM in the last decade of the 20th century as follows:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154552Z" creationid="DSS" creationdate="20200726T154552Z">
-        <seg>在 DITAWriter 网站的一个采访中，DITA 标准的最初开发人员之一 唐·戴回忆了20世纪末期他在 IBM 工作时进行 XML 探索的缘由：</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130738Z" creationid="DSS" creationdate="20200726T154552Z">
+        <seg>在 DITAWriter 网站的一个采访中，DITA 标准的最初开发人员之一 唐·戴回忆了20世纪末期他在 IBM 工作时进行 XML 探索的缘由：&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>In blogs and social media exchanges, some practitioners have &lt;t0/&gt;questioned the status of XML, and DITA, as the main markup language for infor&lt;t1/&gt;mation products.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143344Z" creationid="DSS" creationdate="20200726T141200Z">
-        <seg>在博客和社交媒体的推文中，有的从业者表现出了&lt;t0/&gt;对 XML 和 DITA 作为信息产品的主要标记语言的质疑。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130735Z" creationid="DSS" creationdate="20200726T141200Z">
+        <seg>在博客和社交媒体的推文中，有的从业者表现出了&lt;t0/&gt;&lt;t1/&gt;对 XML 和 DITA 作为信息产品的主要标记语言的质疑。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6017,8 +6017,8 @@
       <tuv lang="en">
         <seg>In the 1990s, Carroll's work on minimalist documentation also influenced an IBM technical writer to architect the original DITA schemas for structuring con&lt;t0/&gt;tent.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T072237Z" creationid="lenovo" creationdate="20200802T082309Z">
-        <seg>20世纪90年代，卡罗尔在极简文档上的工作还影响了IBM的一位技术文档工程师，激发他创建了用于结构化内容的原始DITA模式。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130827Z" creationid="lenovo" creationdate="20200802T082309Z">
+        <seg>20世纪90年代，卡罗尔在极简文档上的工作还影响了IBM的一位技术文档工程师，激发他创建了用于结构化内容的原始DITA模式。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6113,8 +6113,8 @@
       <tuv lang="en">
         <seg>In the “Technical Writing” column, edited by Diana Patterson (she of the prestigious ACM SIGDOC Diana Award), Larry Wygant, of CAPONE &lt;t5/&gt;- &lt;t6/&gt;Chicago Area Programmers of Novas and Eclipses, rec&lt;t7/&gt;ommended some sections for user manuals aimed at attracting the attention of a reader, who was expected to be male in the “highly selective environment” of old computing described by John Carroll earlier in this chapter.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200808T081438Z" creationid="lenovo" creationdate="20200808T030007Z">
-        <seg>“技术写作”专栏中，来自Novas and Eclipses芝加哥程序员协会的编辑戴安娜·帕特森(著名计算机协会计算机文档戴安娜奖的创始人)和拉里·怀甘特（Larry Wygant）为用户手册的一些章节做了注释以吸引读者的注意，这里的读者指的是约翰·卡罗尔在本章先前部分描述的旧计算时代“苛刻就业环境下”的男性。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130856Z" creationid="lenovo" creationdate="20200808T030007Z">
+        <seg>“技术写作”专栏中，来自Novas and Eclipses芝加哥程序员协会的编辑戴安娜·帕特森(著名计算机协会计算机文档戴安娜奖的创始人)和拉里·怀甘特（Larry Wygant）为用户手册的一些章节做了注释以吸引读者的注意，这里的读者指的是约翰·卡罗尔在本章先前部分描述的旧计算时代“苛刻就业环境下”的男性。&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6337,8 +6337,8 @@
       <tuv lang="en">
         <seg>Instead of designing custom tags and depending on a publishing team to design templates and validation tools, he can use DITA's content types and take advan&lt;t0/&gt;tage of the benefits listed by Hackos.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T123656Z" creationid="DSS" creationdate="20200724T123656Z">
-        <seg>他可以利用 DITA 提供的内容类型和哈克斯列出的各项优势功能，而无需自己设计特定标签或依赖发布团队来设计模板和检验工具。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130755Z" creationid="DSS" creationdate="20200724T123656Z">
+        <seg>他可以利用 DITA 提供的内容类型和哈克斯列出的各项优势功能，而无需自己设计特定标签或依赖发布团队来设计模板和检验工具。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6441,8 +6441,8 @@
       <tuv lang="en">
         <seg>It also connects the rhetorical &lt;t3/&gt;structures that drive the evolution of DITA as a standard for technical infor&lt;t4/&gt;mation to foundational concepts from the field's academic background and to common structures in computing education.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150938Z" creationid="DSS" creationdate="20200726T093150Z">
-        <seg>本书还将推动 DITA 发展为技术信息标准的修辞&lt;t3/&gt;结构和该领域的基本学术概念、计算机教学中的常见结构联系起来。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130813Z" creationid="DSS" creationdate="20200726T093150Z">
+        <seg>本书还将推动 DITA 发展为技术信息标准的修辞&lt;t3/&gt;&lt;t4/&gt;结构和该领域的基本学术概念、计算机教学中的常见结构联系起来。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6537,8 +6537,8 @@
       <tuv lang="en">
         <seg>It is com&lt;t1/&gt;mon to include a list of illustrations, but no one seems to use them very much” (1976, p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T003104Z" creationid="lenovo" creationdate="20200810T003104Z">
-        <seg>手册中加入插图列表很常见，但似乎没人会怎么用它” (1976, p.</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130859Z" creationid="lenovo" creationdate="20200810T003104Z">
+        <seg>手册中加入插图列表很常见，但似乎没人会怎么用它” (1976, p.&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6561,8 +6561,8 @@
       <tuv lang="en">
         <seg>It is not as though the academic side of technical communication is stag&lt;t0/&gt;nant.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140347Z" creationid="DSS" creationdate="20200726T140347Z">
-        <seg>学术界的技术传播发展并不是停滞不前。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130732Z" creationid="DSS" creationdate="20200726T140347Z">
+        <seg>学术界的技术传播发展并不是停滞不前。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6593,8 +6593,8 @@
       <tuv lang="en">
         <seg>It may be moved to an appendix if the process is performed only once for the entire instal&lt;t1/&gt;lation” (1976, p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T024640Z" creationid="lenovo" creationdate="20200809T024640Z">
-        <seg>如果在整个安装过程中，这一步骤只需执行一次则可以移至附录。“ (1976, p.</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130858Z" creationid="lenovo" creationdate="20200809T024640Z">
+        <seg>如果在整个安装过程中，这一步骤只需执行一次则可以移至附录。“ (1976, p.&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6625,8 +6625,8 @@
       <tuv lang="en">
         <seg>It was an interesting idea because people were talking back then about object-oriented soft&lt;t1/&gt;ware, modular units &lt;t2/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T155548Z" creationid="lenovo" creationdate="20200804T033326Z">
-        <seg>这是个很有意思的想法，因为当时人们都在讨论面向对象的软件和模块化单元&lt;t2/&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130833Z" creationid="lenovo" creationdate="20200804T033326Z">
+        <seg>这是个很有意思的想法，因为当时人们都在讨论面向对象的软件和模块化单元&lt;t1/&gt;&lt;t2/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6753,8 +6753,8 @@
       <tuv lang="en">
         <seg>Johnson questioned if DITA was a product of mini&lt;t1/&gt;malism in documentation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T071251Z" creationid="lenovo" creationdate="20200804T071251Z">
-        <seg>DITA是否是极简主义应用于文档的产物，约翰逊对这一点提出了质疑。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130841Z" creationid="lenovo" creationdate="20200804T071251Z">
+        <seg>DITA是否是极简主义应用于文档的产物，约翰逊对这一点提出了质疑。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6913,8 +6913,8 @@
       <tuv lang="en">
         <seg>Lightweight DITA can be the glue that ties together many different authoring plat&lt;t2/&gt;forms across a company.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T083825Z" creationid="DSS" creationdate="20200726T083800Z">
-        <seg>轻量级 DITA 可以将公司内不同的创作平台连接在一起，</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130811Z" creationid="DSS" creationdate="20200726T083800Z">
+        <seg>轻量级 DITA 可以将公司内不同的创作平台连接在一起，&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7273,8 +7273,8 @@
       <tuv lang="en">
         <seg>Michael Priestley, Senior Technical Staff Member and Enterprise Content Technology Strategist at IBM and known as one of DITA's “founding fathers” (Etheridge, &lt;t0/&gt;2016), &lt;t1/&gt;defines Lightweight DITA (LwDITA, which should be read as “Lightweight DITA”) as a simplified schema for structuring content, with fewer elements, tighter content models and a simplified specialization archi&lt;t2/&gt;tecture to define new types compared to those of DITA XML.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150708Z" creationid="DSS" creationdate="20200726T082353Z">
-        <seg>迈克尔·普里斯特利是 IBM 高级技术人员和企业内容技术策略师，被誉为 DITA 的“创始人”（埃瑟里奇，&lt;t0/&gt;2016&lt;t1/&gt;年），他认为轻量级 DITA （LwDITA，全称为“Lightweight DITA”）一种创建结构化内容的简单方式，与基于 XML 的 DITA  相比，可以用更少的元素、更紧凑的内容模型和简化的专有体系结构来定义新类型。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130810Z" creationid="DSS" creationdate="20200726T082353Z">
+        <seg>迈克尔·普里斯特利是 IBM 高级技术人员和企业内容技术策略师，被誉为 DITA 的“创始人”（埃瑟里奇，&lt;t0/&gt;2016&lt;t1/&gt;&lt;t2/&gt;年），他认为轻量级 DITA （LwDITA，全称为“Lightweight DITA”）一种创建结构化内容的简单方式，与基于 XML 的 DITA  相比，可以用更少的元素、更紧凑的内容模型和简化的专有体系结构来定义新类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7465,8 +7465,8 @@
       <tuv lang="en">
         <seg>New documents need not be written for each purpose, and one single change can be reflected accu&lt;t16/&gt;rately across all the information materials produced by a given company.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153330Z" creationid="DSS" creationdate="20200726T153330Z">
-        <seg>如今，不需要为每一个任务都编写新的文件，一个简单的改动就可以在公司产出的所有信息材料中得到精确体现。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130736Z" creationid="DSS" creationdate="20200726T153330Z">
+        <seg>如今，不需要为每一个任务都编写新的文件，一个简单的改动就可以在公司产出的所有信息材料中得到精确体现。&lt;t16/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7609,8 +7609,8 @@
       <tuv lang="en">
         <seg>O'Keefe's recipe&lt;t0/&gt;1&lt;t1/&gt; fea&lt;t2/&gt;tures a main container element (&lt;t3/&gt;&lt;Recipe&gt;&lt;t4/&gt;), which includes several sub-elements (&lt;t5/&gt;&lt;Name&gt;&lt;t6/&gt;, &lt;t7/&gt;&lt;IngredientList&gt;&lt;t8/&gt;, and &lt;t9/&gt;&lt;Instructions&gt;&lt;t10/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T081614Z" creationid="DSS" creationdate="20200726T154317Z">
-        <seg>奥基夫提供的菜谱示例&lt;t0/&gt;1&lt;t1/&gt;包括一个主包含元素（&lt;t3/&gt;&lt;Recipe&gt;&lt;t4/&gt;），该元素又包含几个子元素（&lt;t5/&gt;&lt;Name&gt;&lt;t6/&gt;， &lt;t7/&gt;&lt;IngredientList&gt;&lt;t8/&gt;和&lt;t9/&gt;&lt;Instructions&gt;&lt;t10/&gt;）。
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130737Z" creationid="DSS" creationdate="20200726T154317Z">
+        <seg>奥基夫提供的菜谱示例&lt;t0/&gt;1&lt;t1/&gt;&lt;t2/&gt;包括一个主包含元素（&lt;t3/&gt;&lt;Recipe&gt;&lt;t4/&gt;），该元素又包含几个子元素（&lt;t5/&gt;&lt;Name&gt;&lt;t6/&gt;， &lt;t7/&gt;&lt;IngredientList&gt;&lt;t8/&gt;和&lt;t9/&gt;&lt;Instructions&gt;&lt;t10/&gt;）。
 </seg>
       </tuv>
     </tu>
@@ -8043,8 +8043,8 @@
       <tuv lang="en">
         <seg>Price's separation of a manual's text into content types estab&lt;t0/&gt;lishes a distinction between tutorial (“offers step-by-step training focused on a particular activity”) and reference (“offers procedures that users can apply in many different circumstances”) writing conventions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T014548Z" creationid="lenovo" creationdate="20200810T080802Z">
-        <seg>普莱斯将手册的文本划分成不同的内容类型，在教程型（“针对特定活动提供逐步培训”）和参考型（“提供用户多个不同场景下采用的流程”）写作惯例间做了区分</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130914Z" creationid="lenovo" creationdate="20200810T080802Z">
+        <seg>普莱斯将手册的文本划分成不同的内容类型，在教程型（“针对特定活动提供逐步培训”）和参考型（“提供用户多个不同场景下采用的流程”）写作惯例间做了区分&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8083,8 +8083,8 @@
       <tuv lang="en">
         <seg>Priestley has men&lt;t1/&gt;tioned on many occasions the impact and influence of Carroll's work on DITA and LwDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T010323Z" creationid="lenovo" creationdate="20200804T001620Z">
-        <seg>普利斯特利在多个场合都曾提及卡罗尔在DITA和轻量级DITA上的工作所产生的巨大影响。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130829Z" creationid="lenovo" creationdate="20200804T001620Z">
+        <seg>普利斯特利在多个场合都曾提及卡罗尔在DITA和轻量级DITA上的工作所产生的巨大影响。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8131,8 +8131,8 @@
       <tuv lang="en">
         <seg>Priestley remembers that, a few years ago, someone questioned on a practi&lt;t0/&gt;tioner's blog if DITA was indeed a product of minimalism applied to technical instruction.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T005730Z" creationid="lenovo" creationdate="20200804T005532Z">
-        <seg>普里斯特利还记得，就在几年前，还有人在从业者的博客下质疑DITA是否真的是极简主义应用于技术说明的产物。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130831Z" creationid="lenovo" creationdate="20200804T005532Z">
+        <seg>普里斯特利还记得，就在几年前，还有人在从业者的博客下质疑DITA是否真的是极简主义应用于技术说明的产物。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8237,16 +8237,16 @@
       <tuv lang="en">
         <seg>Publications from the 2000s heralded that “technical communicators will probably face a day when all organizational documents are saved in XML for&lt;t11/&gt;mat” (Sapienza, &lt;t12/&gt;2002, &lt;t13/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T122746Z" creationid="DSS" creationdate="20200723T160501Z">
-        <seg>2000年代的出版物就预言 “技术传播工程师可能会迎来所有组织性的文档都保存在 XML 里的一天”（萨皮恩扎， &lt;t12/&gt;2002年，&lt;t13/&gt;第</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130731Z" creationid="DSS" creationdate="20200723T160501Z">
+        <seg>2000年代的出版物就预言 “技术传播工程师可能会迎来所有组织性的文档都保存在 XML 里的一天”（萨皮恩扎， &lt;t11/&gt;&lt;t12/&gt;2002年，&lt;t13/&gt;第</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Published in &lt;t6/&gt;1983, &lt;t7/&gt;PQTI&lt;t8/&gt; was credited to Morris Dean and a long list of co-authors (or co- “preparers”) and focused on a list of requirements of quality, presented under the principle of “technical information that meets all the requirements is quality information” (Dean et al., &lt;t9/&gt;1983, &lt;t10/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T155744Z" creationid="lenovo" creationdate="20200810T154906Z">
-        <seg>&lt;t7/&gt;PQTI&lt;t8/&gt;1983年首次面世，归功于莫里斯·迪恩以及一大批合著者，重点关注质量要求列表，并秉持“满足所有要求的技术信息是才是高质量信息”的原则” (Dean et al., &lt;t9/&gt;1983, &lt;t10/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130919Z" creationid="lenovo" creationdate="20200810T154906Z">
+        <seg>&lt;t6/&gt;&lt;t7/&gt;PQTI&lt;t8/&gt;1983年首次面世，归功于莫里斯·迪恩以及一大批合著者，重点关注质量要求列表，并秉持“满足所有要求的技术信息是才是高质量信息”的原则” (Dean et al., &lt;t9/&gt;1983, &lt;t10/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8333,8 +8333,8 @@
       <tuv lang="en">
         <seg>Researchers work with practitioners that include community partners, government officials, and med&lt;t1/&gt;ics.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140501Z" creationid="DSS" creationdate="20200726T140501Z">
-        <seg>研究人员与包括社区合作伙伴、政府官员和医疗人员在内的众多从业者合作。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130733Z" creationid="DSS" creationdate="20200726T140501Z">
+        <seg>研究人员与包括社区合作伙伴、政府官员和医疗人员在内的众多从业者合作。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8413,16 +8413,16 @@
       <tuv lang="en">
         <seg>Rigo's outline was “designed mainly for a software vendor or equivalent system appli&lt;t2/&gt;cation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T235427Z" creationid="lenovo" creationdate="20200808T081817Z">
-        <seg>里戈的大纲“主要是为软件供应商或等效系统应用设计的。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130857Z" creationid="lenovo" creationdate="20200808T081817Z">
+        <seg>里戈的大纲“主要是为软件供应商或等效系统应用设计的。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Rigo's proposed sections and moves establish a clear pattern or schema for composing an example of the technical manual as a genre of technical com&lt;t0/&gt;munication.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T122216Z" creationid="lenovo" creationdate="20200810T003413Z">
-        <seg>里戈建议的分节和文步构建了清晰的模式或者说是架构，能利用它来构成技术手册的范例以此作为技术传播的体裁。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130900Z" creationid="lenovo" creationdate="20200810T003413Z">
+        <seg>里戈建议的分节和文步构建了清晰的模式或者说是架构，能利用它来构成技术手册的范例以此作为技术传播的体裁。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8549,8 +8549,8 @@
       <tuv lang="en">
         <seg>Should contain “little more than an annotated listing from a typical run.” Rigo specified that this “section does not have to explain every&lt;t1/&gt;thing” &lt;t2/&gt;(1976, &lt;t3/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T001035Z" creationid="lenovo" creationdate="20200810T001035Z">
-        <seg>“只应包括典型运行场景下的注释清单。”里戈特别指出“这一节不需要包罗万象。” &lt;t2/&gt;(1976, &lt;t3/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130859Z" creationid="lenovo" creationdate="20200810T001035Z">
+        <seg>“只应包括典型运行场景下的注释清单。”里戈特别指出“这一节不需要包罗万象。” &lt;t1/&gt;&lt;t2/&gt;(1976, &lt;t3/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8709,8 +8709,8 @@
       <tuv lang="en">
         <seg>Some of Dean et al.'s recommendations reflected major changes for docu&lt;t0/&gt;mentation from that period.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T164339Z" creationid="lenovo" creationdate="20200810T164339Z">
-        <seg>迪恩等人的建议反映了文档在这一时期发生的主要变化。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130922Z" creationid="lenovo" creationdate="20200810T164339Z">
+        <seg>迪恩等人的建议反映了文档在这一时期发生的主要变化。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9214,8 +9214,8 @@
       <tuv lang="en">
         <seg>That same colleague would also point out examples of inde&lt;t4/&gt;pendent software companies that still produce lengthy user manuals.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T090636Z" creationid="lenovo" creationdate="20200723T090636Z">
-        <seg>这批同时还会指出一些实例，证明现在仍有独立的软件公司会制作篇幅冗长的用户手册。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130819Z" creationid="lenovo" creationdate="20200723T090636Z">
+        <seg>这批同时还会指出一些实例，证明现在仍有独立的软件公司会制作篇幅冗长的用户手册。&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9495,8 +9495,8 @@
       <tuv lang="en">
         <seg>The Introduction should also note any documen&lt;t1/&gt;tation conventions used in the manual (all caps means that words should be coded exactly as printed, lower case describes a user entry point, braces rep&lt;t2/&gt;resent a mandatory choice, brackets represent optional parameters, etc.) Rigo added that if “the system does not function as described, users will quickly lose faith in the manual.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T021613Z" creationid="lenovo" creationdate="20200809T021613Z">
-        <seg>简介同样应当注明手册中使用的文档惯例（全字母大写意味着该词应同印刷品采用相同的编码格式、小写代表用户入口、花括号代表必选项而方括号代表可选参数等。）里戈补充到，如果“系统没有按照描述的运行，用户很快就会对手册失去信任。”</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130857Z" creationid="lenovo" creationdate="20200809T021613Z">
+        <seg>简介同样应当注明手册中使用的文档惯例（全字母大写意味着该词应同印刷品采用相同的编码格式、小写代表用户入口、花括号代表必选项而方括号代表可选参数等。）里戈补充到，如果“系统没有按照描述的运行，用户很快就会对手册失去信任。”&lt;t1/&gt;&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9607,8 +9607,8 @@
       <tuv lang="en">
         <seg>The October &lt;t0/&gt;1975 &lt;t1/&gt;edition of &lt;t2/&gt;Asterisk&lt;t3/&gt; (the “Systems Documentation Newsletter” from the Association for Computing Machinery) included a glimpse of a techni&lt;t4/&gt;cal manual's rhetorical conventions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200808T025124Z" creationid="lenovo" creationdate="20200808T024955Z">
-        <seg>1975年 &lt;t0/&gt;10月 &lt;t1/&gt;版的 &lt;t2/&gt;Asterisk&lt;t3/&gt; (计算机协会的“系统文档通讯”) 中就对修辞惯例做了简要的描述。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130855Z" creationid="lenovo" creationdate="20200808T024955Z">
+        <seg>1975年 &lt;t0/&gt;10月 &lt;t1/&gt;版的 &lt;t2/&gt;Asterisk&lt;t3/&gt;&lt;t4/&gt; (计算机协会的“系统文档通讯”) 中就对修辞惯例做了简要的描述。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9695,8 +9695,8 @@
       <tuv lang="en">
         <seg>The authors did not present them as, say, the official rhetorical conventions for manuals at IBM. Jonathan Price, however, did move beyond the generic conventions and crossed into the organizational or institutional type of topical convention in his &lt;t8/&gt;1984 &lt;t9/&gt;book &lt;t10/&gt;How to Write a Computer Manual: A Handbook of Software Documentation&lt;t11/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T073648Z" creationid="lenovo" creationdate="20200810T073345Z">
-        <seg>作者并没有把它们作为，比如说，IBM手册的官方修辞惯例。乔纳森·普莱斯（Jonathan Price）在他1984年出版的《如何编写计算机手册：软件文档手册》的确从通用惯例的基础上往前迈了一步，开创了组织机构型主题惯例。&lt;t11/&gt;.</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130913Z" creationid="lenovo" creationdate="20200810T073345Z">
+        <seg>作者并没有把它们作为，比如说，IBM手册的官方修辞惯例。乔纳森·普莱斯（Jonathan Price）在他1984年出版的《如何编写计算机手册：软件文档手册》的确从通用惯例的基础上往前迈了一步，开创了组织机构型主题惯例。.&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9815,8 +9815,8 @@
       <tuv lang="en">
         <seg>The demise of the manual is an event that affects genre theory and technical com&lt;t0/&gt;munication, as this was the flagship format that the profession produced for decades and, for some, justified its existence as an academic subject and area of practice.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T005601Z" creationid="lenovo" creationdate="20200804T083315Z">
-        <seg>手册的消亡影响了体裁理论和技术传播，因为手册是这一职业使用了数十年的标志性形式，对于一些人而言，捍卫手册可以作为学术主题和实践领域而存在。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130843Z" creationid="lenovo" creationdate="20200804T083315Z">
+        <seg>手册的消亡影响了体裁理论和技术传播，因为手册是这一职业使用了数十年的标志性形式，对于一些人而言，捍卫手册可以作为学术主题和实践领域而存在。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9847,8 +9847,8 @@
       <tuv lang="en">
         <seg>The element types in DITA also inherited generic, institutional, and disciplinary conventions from another title that was originally published in the 1980s: IBM's &lt;t2/&gt;Producing Quality Technical Information.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T072237Z" creationid="lenovo" creationdate="20200810T130833Z">
-        <seg>DITA的元素类型同样继承了IBM在20世纪80年代首次出版的《产出高质量技术信息》一书中的通用型、组织型和规范型惯例。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130916Z" creationid="lenovo" creationdate="20200810T130833Z">
+        <seg>DITA的元素类型同样继承了IBM在20世纪80年代首次出版的《产出高质量技术信息》一书中的通用型、组织型和规范型惯例。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9912,8 +9912,8 @@
       <tuv lang="en">
         <seg>The fixed content types that have been a part of DITA XML since its origins at IBM have always been open to evolution: an author can write, for example, a task topic with the default elements and attributes included in the DITA stand&lt;t0/&gt;ard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T081206Z" creationid="lenovo" creationdate="20200804T074920Z">
-        <seg>固定的内容类型一直是DITA XML的一部分，从IBM创建以来就一直拥抱进化：作者可以利用包含在DITA标准中的默认的元素和属性来写作，比如说撰写任务主题。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130842Z" creationid="lenovo" creationdate="20200804T074920Z">
+        <seg>固定的内容类型一直是DITA XML的一部分，从IBM创建以来就一直拥抱进化：作者可以利用包含在DITA标准中的默认的元素和属性来写作，比如说撰写任务主题。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9944,25 +9944,25 @@
       <tuv lang="en">
         <seg>The future of technical communication still involves XML; therefore, the follow&lt;t2/&gt;ing sections include brief introductions to Extensible Markup Language and the Darwin Information Typing Architecture, providing examples of the main content and collection types included in the latter.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153005Z" creationid="DSS" creationdate="20200726T153005Z">
-        <seg>未来技术传播的发展仍然与 XML 有关，因此，接下来本章首先会对 XML 和 DITA 作简要介绍，并提供 DITA 所包含的主要内容和集合类型的示例。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130735Z" creationid="DSS" creationdate="20200726T153005Z">
+        <seg>未来技术传播的发展仍然与 XML 有关，因此，接下来本章首先会对 XML 和 DITA 作简要介绍，并提供 DITA 所包含的主要内容和集合类型的示例。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The future of technical communication, as seen from industry and aca&lt;t0/&gt;demia, was supposed to cover the type of structured writing for reuse that James Mathewson was looking for.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T160846Z" creationid="DSS" creationdate="20200725T160846Z">
-        <seg>从工业界和学术界的角度来看，技术传播的未来应该包括詹姆斯•马修森所追寻的可重用的结构化写作类型。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130732Z" creationid="DSS" creationdate="20200725T160846Z">
+        <seg>从工业界和学术界的角度来看，技术传播的未来应该包括詹姆斯•马修森所追寻的可重用的结构化写作类型。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The generic topic, with its simple tags for paragraphs and lists, can mark up a mar&lt;t0/&gt;keting blog post.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T091045Z" creationid="DSS" creationdate="20200725T091045Z">
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130807Z" creationid="DSS" creationdate="20200725T091045Z">
         <seg>通用话题包含关于段落和列表的简单标签，可以标记一篇营销博文。
-</seg>
+&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10121,8 +10121,8 @@
       <tuv lang="en">
         <seg>The next section introduces a DITA-based approach to intelligent content that has the potential of minimizing the standard's learning curve and pro&lt;t0/&gt;moting its adoption in small and medium scale information authoring and processing environments as well as classrooms.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T074846Z" creationid="DSS" creationdate="20200726T074846Z">
-        <seg>下一节将介绍一种基于 DITA 的智能内容创建方法，该方法具有最小化 DITA 标准学习成本的潜力，并可以促进创作者在中小规模的信息创作和处理环境（如课堂）中使用 DITA。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130809Z" creationid="DSS" creationdate="20200726T074846Z">
+        <seg>下一节将介绍一种基于 DITA 的智能内容创建方法，该方法具有最小化 DITA 标准学习成本的潜力，并可以促进创作者在中小规模的信息创作和处理环境（如课堂）中使用 DITA。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10233,8 +10233,8 @@
       <tuv lang="en">
         <seg>The process of assembling topic collections depends on DITA maps, which are defined as “the glue that binds your topics together, the driver for producing your output, and the infor&lt;t0/&gt;mation path for your users to follow” (Bellamy et al., &lt;t1/&gt;2012, &lt;t2/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150112Z" creationid="DSS" creationdate="20200725T144801Z">
-        <seg>组合话题集合的过程依赖于 DITA 地图的映射关系，DITA 地图是“将话题绑定在一起的粘合剂，是生成输出物的驱动器，也是用户可以遵循的信息路径”（贝拉米等人，&lt;t1/&gt;2012年，&lt;t2/&gt;第</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130809Z" creationid="DSS" creationdate="20200725T144801Z">
+        <seg>组合话题集合的过程依赖于 DITA 地图的映射关系，DITA 地图是“将话题绑定在一起的粘合剂，是生成输出物的驱动器，也是用户可以遵循的信息路径”（贝拉米等人，&lt;t0/&gt;&lt;t1/&gt;2012年，&lt;t2/&gt;第</seg>
       </tuv>
     </tu>
     <tu>
@@ -10569,8 +10569,8 @@
       <tuv lang="en">
         <seg>The structure of &lt;t11/&gt;PQTI&lt;t12/&gt; is built around a list of quality requirements, and a standard pattern of presenting two examples when discussing each requirement: one showing a common error and the sec&lt;t13/&gt;ond illustrating a way to correct the error and “improve quality.”</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T155947Z" creationid="lenovo" creationdate="20200810T155730Z">
-        <seg>&lt;t11/&gt;PQTI&lt;t12/&gt; 的结构就是围绕着质量要求列表构建的，当谈论每个要求时，标准模式都需要展示两个示例：一个是常见错误，另一个则展示如何纠正错误并“提高质量。”</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130921Z" creationid="lenovo" creationdate="20200810T155730Z">
+        <seg>&lt;t11/&gt;PQTI&lt;t12/&gt;&lt;t13/&gt; 的结构就是围绕着质量要求列表构建的，当谈论每个要求时，标准模式都需要展示两个示例：一个是常见错误，另一个则展示如何纠正错误并“提高质量。”</seg>
       </tuv>
     </tu>
     <tu>
@@ -10737,8 +10737,8 @@
       <tuv lang="en">
         <seg>The “death” of the manual as the default genre of technical communica&lt;t0/&gt;tion has impacted the field in more than one way.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T081255Z" creationid="lenovo" creationdate="20200723T081255Z">
-        <seg>手册不再作为技术传播的默认体裁对这一领域造成的影响是多方面的。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130816Z" creationid="lenovo" creationdate="20200723T081255Z">
+        <seg>手册不再作为技术传播的默认体裁对这一领域造成的影响是多方面的。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10961,8 +10961,8 @@
       <tuv lang="en">
         <seg>These features and benefits contribute to DITA's popularity and adaptabil&lt;t0/&gt;ity as an intelligent content solution for technical communication.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T073021Z" creationid="DSS" creationdate="20200726T073021Z">
-        <seg>这些特性和优势有助于提升 DITA 作技术传播智能内容解决方案的流行度和适应性。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130809Z" creationid="DSS" creationdate="20200726T073021Z">
+        <seg>这些特性和优势有助于提升 DITA 作技术传播智能内容解决方案的流行度和适应性。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10993,8 +10993,8 @@
       <tuv lang="en">
         <seg>These moves included advocating for task-oriented titles and headings in sections and the use of the term “topic” (years before the development of a DITA topic model) as a component in a “library” of infor&lt;t1/&gt;mation units that a writer used to assemble documentation deliverables.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T164759Z" creationid="lenovo" creationdate="20200810T164759Z">
-        <seg>这些文步包括倡导在章节中使用面向任务的标题，并使用术语“主题”(在开发DITA主题模型之前的几年)作为信息单元“库”中的组件，编者使用这些信息单元来组装文档交付物。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130923Z" creationid="lenovo" creationdate="20200810T164759Z">
+        <seg>这些文步包括倡导在章节中使用面向任务的标题，并使用术语“主题”(在开发DITA主题模型之前的几年)作为信息单元“库”中的组件，编者使用这些信息单元来组装文档交付物。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11137,8 +11137,8 @@
       <tuv lang="en">
         <seg>This book is not about a specific tool or software platform: as an open standard in develop&lt;t12/&gt;ment, LwDITA does not depend on a vendor or “app.” Hackos explains the importance of information standards for technical communicators with the following scenario, which also applies to LwDITA:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T123103Z" creationid="DSS" creationdate="20200726T093719Z">
-        <seg>这本书并关于某一个特定的工具或软件平台：LwDITA 作为一个仍在法阵中的开放标准，不依赖于任何代理商或“应用程序”。哈克斯用以下场景解释了信息标准对技术传播工程师的重要性，该解释同样适用于 LwDITA：</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130814Z" creationid="DSS" creationdate="20200726T093719Z">
+        <seg>这本书并关于某一个特定的工具或软件平台：LwDITA 作为一个仍在法阵中的开放标准，不依赖于任何代理商或“应用程序”。哈克斯用以下场景解释了信息标准对技术传播工程师的重要性，该解释同样适用于 LwDITA：&lt;t12/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11185,16 +11185,16 @@
       <tuv lang="en">
         <seg>This exercise in markup flexibility is a direct application of both the extensible part &lt;t17/&gt;of XML and the Darwin element in DITA: XML elements can be extended and DITA information types can evolve to accommodate diverse content and pro&lt;t18/&gt;cessing needs.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T155059Z" creationid="DSS" creationdate="20200725T143955Z">
-        <seg>这种关于标记的灵活实践是对 XML 中的可扩展部分&lt;t17/&gt;和 DITA 中的达尔文元素的直接应用：XML 元素可以扩展，DITA 中的信息类型可以进行调整以适应不同的内容和处理需要。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130808Z" creationid="DSS" creationdate="20200725T143955Z">
+        <seg>这种关于标记的灵活实践是对 XML 中的可扩展部分&lt;t17/&gt;&lt;t18/&gt;和 DITA 中的达尔文元素的直接应用：XML 元素可以扩展，DITA 中的信息类型可以进行调整以适应不同的内容和处理需要。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>This idea of adding metadata to facilitate modular reuse of text, I first encountered it with a (female) technical com&lt;t0/&gt;municator at IBM, at the Raleigh lab in the early 90s.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T072237Z" creationid="lenovo" creationdate="20200804T031344Z">
-        <seg>增加元数据以便利文本的模块化复用，我在首次接触这一理念是20世纪90年代早期，一名在IBM的罗利（Raleigh）实验室工作的技术传播工程师向我阐述了这一理念。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130832Z" creationid="lenovo" creationdate="20200804T031344Z">
+        <seg>增加元数据以便利文本的模块化复用，我在首次接触这一理念是20世纪90年代早期，一名在IBM的罗利（Raleigh）实验室工作的技术传播工程师向我阐述了这一理念。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11225,8 +11225,8 @@
       <tuv lang="en">
         <seg>This is somewhat akin to the ‘hook' at the opening of a novel; if the readers' attention is not captured imme&lt;t0/&gt;diately, he is likely to wander off on any number of tangents and end no better informed than he began.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200808T072311Z" creationid="lenovo" creationdate="20200808T072311Z">
-        <seg>这就有点类似于小说开头的“引子”；如果读者注意力没有被立即吸引，他就很可能会转换到其他一系列事务上，并且任何知识都有没学到。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130856Z" creationid="lenovo" creationdate="20200808T072311Z">
+        <seg>这就有点类似于小说开头的“引子”；如果读者注意力没有被立即吸引，他就很可能会转换到其他一系列事务上，并且任何知识都有没学到。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11401,8 +11401,8 @@
       <tuv lang="en">
         <seg>Those moves advanced from the organizational realm (Apple Computer, in his case) and became dis&lt;t1/&gt;ciplinary conventions: task and reference (along with concept) are the main content types associated with the DITA standard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T122244Z" creationid="lenovo" creationdate="20200810T081056Z">
-        <seg>从组织领域（他举的案例是Apple Computer）脱胎的这些文步成为了规范性惯例：任务和参考（以及概念）是与DITA标准密切相关的内容类型。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130914Z" creationid="lenovo" creationdate="20200810T081056Z">
+        <seg>从组织领域（他举的案例是Apple Computer）脱胎的这些文步成为了规范性惯例：任务和参考（以及概念）是与DITA标准密切相关的内容类型。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11569,9 +11569,9 @@
       <tuv lang="en">
         <seg>Topic derives from the widely adopted open content standard known as Darwin Information Typing Architecture (DITA), which defines a common structure for con&lt;t0/&gt;tent that promotes the consistent creation, sharing, and reuse of content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T155631Z" creationid="DSS" creationdate="20200724T155631Z">
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130801Z" creationid="DSS" creationdate="20200724T155631Z">
         <seg>“Topic”来源于被广泛采用的开放内容标准达尔文信息类型架构（DITA），该标准定义了内容的一般结构，促进了内容创建、共享和复用的一致性。
-</seg>
+&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11644,8 +11644,8 @@
       <tuv lang="en">
         <seg>Traditionally, and as mentioned in the Adobe video, intelligent content work&lt;t0/&gt;flows for technical communication rely on structure provided by Extensible Markup Language (XML) and some of its specific grammars like DocBook, S1000D, and DITA (Cowan, &lt;t1/&gt;2010; &lt;t2/&gt;Glushko &lt;t3/&gt;&amp; &lt;t4/&gt;McGrath, &lt;t5/&gt;2008; &lt;t6/&gt;Hackos, &lt;t7/&gt;2011, &lt;t8/&gt;among others).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143301Z" creationid="DSS" creationdate="20200726T140838Z">
-        <seg>从传统上来看，也正如在 Adobe 视频中提到的，用于技术传播的智能内容工作流依赖于可扩展标记语言（XML）的结构及其一些特定的语法，如 DocBook、S1000D 和 DITA （考恩，&lt;t1/&gt;2010年；&lt;t2/&gt;格鲁什科&lt;t3/&gt;、&lt;t4/&gt;麦格拉，&lt;t5/&gt;2008年；&lt;t6/&gt;哈克斯， &lt;t7/&gt;2011年）。&lt;t8/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130734Z" creationid="DSS" creationdate="20200726T140838Z">
+        <seg>从传统上来看，也正如在 Adobe 视频中提到的，用于技术传播的智能内容工作流依赖于可扩展标记语言（XML）的结构及其一些特定的语法，如 DocBook、S1000D 和 DITA （考恩，&lt;t0/&gt;&lt;t1/&gt;2010年；&lt;t2/&gt;格鲁什科&lt;t3/&gt;、&lt;t4/&gt;麦格拉，&lt;t5/&gt;2008年；&lt;t6/&gt;哈克斯， &lt;t7/&gt;2011年）。&lt;t8/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11724,8 +11724,8 @@
       <tuv lang="en">
         <seg>Using Darwinian terminology that resonates with design principles of the DITA and LwDITA standards, Miller noted that “in trying to understand the process of genre change and the emergence of what seem to be 'new genres' in both new and old media, we have come to rely heavily on the concept of ‘evo&lt;t0/&gt;lution'” &lt;t1/&gt;(2015, &lt;t2/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T011155Z" creationid="lenovo" creationdate="20200805T010247Z">
-        <seg>达尔文式这一术语同DITA和轻量级DITA的设计原则不谋而合，米勒用这一术语指出“在试图理解体裁演变历程即新旧媒体中‘新体裁’的涌现时，我们严重依赖‘演进’这一概念。”&lt;t1/&gt;(2015, &lt;t2/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130844Z" creationid="lenovo" creationdate="20200805T010247Z">
+        <seg>达尔文式这一术语同DITA和轻量级DITA的设计原则不谋而合，米勒用这一术语指出“在试图理解体裁演变历程即新旧媒体中‘新体裁’的涌现时，我们严重依赖‘演进’这一概念。”&lt;t0/&gt;&lt;t1/&gt;(2015, &lt;t2/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11796,8 +11796,8 @@
       <tuv lang="en">
         <seg>We live in a much better world.” Carroll pointed out that those early days of computing were dominated by data-processing professionals in a highly selec&lt;t2/&gt;tive environment: “They were mostly white men, and now computers are used by everybody in the world” (J.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T093658Z" creationid="lenovo" creationdate="20200723T092843Z">
-        <seg>我们生活的世界变好了。”卡罗尔指出计算机发展早期，数据处理的专业人员占据了主导地位，并且当时的从业环境非常苛刻：“大部分人员都是白人男性，而现在全球范围内人人都用上了电脑。”(J.</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130822Z" creationid="lenovo" creationdate="20200723T092843Z">
+        <seg>我们生活的世界变好了。”卡罗尔指出计算机发展早期，数据处理的专业人员占据了主导地位，并且当时的从业环境非常苛刻：“大部分人员都是白人男性，而现在全球范围内人人都用上了电脑。”(J.&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11892,8 +11892,8 @@
       <tuv lang="en">
         <seg>When I tried to measure the impact of John Carroll's theory of minimalism on content development, I remembered that Michael Priestley has acknowl&lt;t0/&gt;edged in several occasions that minimalism, via the IBM publication &lt;t1/&gt;Developing Quality Technical Information&lt;t2/&gt; (&lt;t3/&gt;DQTI&lt;t4/&gt;), was one of the big influences on DITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T143050Z" creationid="lenovo" creationdate="20200810T143050Z">
-        <seg>当我试图衡量约翰·卡罗尔极简主义理论对内容发展的影响时，我想起迈克尔·普里斯特利在多个场合承认，经由IBM出版的《开发高质量技术信息》，极简主义对DITA造成的影响名列前茅。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130916Z" creationid="lenovo" creationdate="20200810T143050Z">
+        <seg>当我试图衡量约翰·卡罗尔极简主义理论对内容发展的影响时，我想起迈克尔·普里斯特利在多个场合承认，经由IBM出版的《开发高质量技术信息》，极简主义对DITA造成的影响名列前茅。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12877,8 +12877,8 @@
       <tuv lang="en">
         <seg>“An appendix is the purest, most usable form of computer sys&lt;t1/&gt;tem documentation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T002111Z" creationid="lenovo" creationdate="20200810T002111Z">
-        <seg>“附录是最纯粹、最有用的计算机系统文件形式。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130859Z" creationid="lenovo" creationdate="20200810T002111Z">
+        <seg>“附录是最纯粹、最有用的计算机系统文件形式。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12934,8 +12934,8 @@
       <tuv lang="en">
         <seg>“One thing is that back in the day, people had to be tinkerers because things didn't work and they were clunky and you had to know your Unix and not be scared of the command line blink&lt;t1/&gt;ing.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T092231Z" creationid="lenovo" creationdate="20200723T091708Z">
-        <seg>“其一就是在过去的年代，人们不得不开动脑筋，因为系统笨重且无法运行，你必须了解Unix操作系统并且不对一闪一闪的命令行产生畏惧心理。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130820Z" creationid="lenovo" creationdate="20200723T091708Z">
+        <seg>“其一就是在过去的年代，人们不得不开动脑筋，因为系统笨重且无法运行，你必须了解Unix操作系统并且不对一闪一闪的命令行产生畏惧心理。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12990,8 +12990,8 @@
       <tuv lang="en">
         <seg>“When I open a box, and I take something out and there's no manual, that's my first thought: Where's the manual?” For a moment, he acknowl&lt;t0/&gt;edged that readers lost something when the manual became an extinct genre: “The instruction manual was also a symbol of empowerment, almost democratic; that's another source of the nostalgia.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200802T064850Z" creationid="lenovo" creationdate="20200731T145907Z">
-        <seg>“当我打开一个箱子并从中拿出一些东西，却发现里面没有手册，我的第一反应是：手册去哪了？”在这一瞬间，他承认当手册成为绝迹的体裁后，读者失去了一些东西：“说明书也是种授权的象征，可以说几乎是随心所欲；这也是引发怀旧之情的原因之一。”</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130824Z" creationid="lenovo" creationdate="20200731T145907Z">
+        <seg>“当我打开一个箱子并从中拿出一些东西，却发现里面没有手册，我的第一反应是：手册去哪了？”在这一瞬间，他承认当手册成为绝迹的体裁后，读者失去了一些东西：“说明书也是种授权的象征，可以说几乎是随心所欲；这也是引发怀旧之情的原因之一。”&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13014,8 +13014,8 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;A thoroughly developed approach to information development originat&lt;t1/&gt;ing with OASIS and now encompassing many other companies, large and small, that find value in a standards-based approach &lt;t2/&gt;(2011, &lt;t3/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144259Z" creationid="DSS" creationdate="20200726T155002Z">
-        <seg>• &lt;t0/&gt;DITA 是一种深入发展的信息开发方法，起源于 OASIS，使用于大大小小各种公司，这些公司发现了 DITA 的价值 &lt;t2/&gt;（2011年，&lt;t3/&gt;第</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130751Z" creationid="DSS" creationdate="20200726T155002Z">
+        <seg>• &lt;t0/&gt;&lt;t1/&gt;DITA 是一种深入发展的信息开发方法，起源于 OASIS，使用于大大小小各种公司，这些公司发现了 DITA 的价值 &lt;t2/&gt;（2011年，&lt;t3/&gt;第</seg>
       </tuv>
     </tu>
     <tu>
@@ -13078,8 +13078,8 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;Darwin&lt;t1/&gt;: for specialization and how things could “evolve” from a base &lt;t2/&gt;• &lt;t3/&gt;Information Typing&lt;t4/&gt;: for representation of knowledge as typed units &lt;t5/&gt;• &lt;t6/&gt;Architecture&lt;t7/&gt;: a statement that this was not just a monolithic design but an exten&lt;t8/&gt;sible tool that could support many uses (Day, quoted in DITAWriter, &lt;t9/&gt;2016).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144206Z" creationid="DSS" creationdate="20200726T154813Z">
-        <seg>•&lt;t0/&gt;达尔文&lt;t1/&gt;：代表专业化以及事物如何从一个基础“演化”；&lt;t2/&gt;•&lt;t3/&gt;信息类型化&lt;t4/&gt;：用不同类型单元表示知识； &lt;t5/&gt;• &lt;t6/&gt;架构&lt;t7/&gt;：表示这不仅仅是一个整体设计理念，还是一个可扩展的工具，可以支持多种用途（戴，引自 DitaWriter，&lt;t9/&gt;2016年）。
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130739Z" creationid="DSS" creationdate="20200726T154813Z">
+        <seg>•&lt;t0/&gt;达尔文&lt;t1/&gt;：代表专业化以及事物如何从一个基础“演化”；&lt;t2/&gt;•&lt;t3/&gt;信息类型化&lt;t4/&gt;：用不同类型单元表示知识； &lt;t5/&gt;• &lt;t6/&gt;架构&lt;t7/&gt;&lt;t8/&gt;：表示这不仅仅是一个整体设计理念，还是一个可扩展的工具，可以支持多种用途（戴，引自 DitaWriter，&lt;t9/&gt;2016年）。
 </seg>
       </tuv>
     </tu>
