@@ -4190,6 +4190,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE 6.4 &lt;t0/&gt;Minimal MDITA topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T134442Z" creationid="DSS" creationdate="20200816T134442Z">
+        <seg>图6.4最简化的MDITA话题，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FIGURE 6.5 &lt;t0/&gt;Sample MDITA extended profile topic with an assigned &lt;t1/&gt;@id &lt;t2/&gt;in a&lt;t3/&gt; YAML header.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T134542Z" creationid="DSS" creationdate="20200816T134542Z">
+        <seg>图6.5 包含扩展配置的 MDITA 话题示例，该示例在 YAML 头中指定了 &lt;t1/&gt;@id &lt;t2/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;1.1 &lt;t1/&gt;Screen capture from the video “The Future of Technical Communication,” by Adobe Technical Communication Suite.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T142810Z" creationid="DSS" creationdate="20200724T121058Z">
@@ -6771,6 +6787,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T004956Z" creationid="lenovo" creationdate="20200804T004956Z">
         <seg>直到DITA面试，人们才开始质疑这些选择，而在此之前我早已追根溯源并尝试去理解它们的发展历程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It&lt;t1/&gt; does not need a title either, and it could only include a placeholder comment for future content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T134520Z" creationid="DSS" creationdate="20200816T134520Z">
+        <seg>只有一行为日后写作内容占位的注释。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9837,6 +9861,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The assigned &lt;t4/&gt;@id &lt;t5/&gt;will be attached to the topic even if the authors rename the source file (with the default “slugify” process of MDITA core profile, renaming a file will change its automatically- generated &lt;t6/&gt;@id&lt;t7/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T134636Z" creationid="DSS" creationdate="20200816T134636Z">
+        <seg>即使作者重命名源文件，指定的 &lt;t4/&gt;@id &lt;t5/&gt;不会改变 （按照 MDITA 核心规定，如果是自动解析生成的 &lt;t6/&gt;@id&lt;t7/&gt;，重命名文件将改变其名称）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The authors did not present them as, say, the official rhetorical conventions for manuals at IBM. Jonathan Price, however, did move beyond the generic conventions and crossed into the organizational or institutional type of topical convention in his &lt;t8/&gt;1984 &lt;t9/&gt;book &lt;t10/&gt;How to Write a Computer Manual: A Handbook of Software Documentation&lt;t11/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130913Z" creationid="lenovo" creationdate="20200810T073345Z">
@@ -10847,6 +10879,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The validation of Markdown files as MDITA topics will also be application-specific.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T134723Z" creationid="DSS" creationdate="20200816T134723Z">
+        <seg>验证 Markdown 格式的 MDITA 话题，也需要使用特定软件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The validation process of an HTML5 file as an HDITA topic will be application-specific, as HTML does not have a customizable document type definition or schema syntax.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T133555Z" creationid="DSS" creationdate="20200816T133555Z">
@@ -11499,6 +11539,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T001755Z" creationid="lenovo" creationdate="20200810T001755Z">
         <seg>这只会让用户感到困惑。” (1976, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This topic does not need a body element.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T134447Z" creationid="DSS" creationdate="20200816T134447Z">
+        <seg>该话题不包含主体（body）元素和标题，</seg>
       </tuv>
     </tu>
     <tu>
