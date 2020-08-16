@@ -12386,6 +12386,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>With this new title component, the topic stub now can clear validation warnings in a LwDITA-aware tool like Oxygen XML Editor, and it can be seen in &lt;t4/&gt;author&lt;t5/&gt; mode, which &lt;t6/&gt;hides&lt;t7/&gt; the XML code and allows editing in an environment similar to a WYSIWYG editor (&lt;t8/&gt;Figure 6.7&lt;t9/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T135457Z" creationid="DSS" creationdate="20200816T135457Z">
+        <seg>有了这个全新的标题组件，Oxygen XML Editor 等支持 LwDITA 的工具中的验证错误提示就可以清除了。&lt;t4/&gt;作者&lt;t5/&gt;模式也可以清楚地显示话题结构，该模式会&lt;t6/&gt;隐藏&lt;t7/&gt; XML 代码，允许创作者在类似 WYSIWYG 编辑器的环境中进行编辑（图6.7）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Without a LwDITA-aware editor, you probably would need to use the open source DITA Open Toolkit, as Chef Pedro did in &lt;t1/&gt;Chapter &lt;t2/&gt;1&lt;t3/&gt;, &lt;t4/&gt;to process LwDITA content and produce end-user deliverables.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131300Z" creationid="lenovo" creationdate="20200814T142852Z">
