@@ -9973,6 +9973,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The content embraced by the XML tags requires proper capitali&lt;t3/&gt;zation and correct spelling according to any style guide developed or adopted by Chef Pedro and his team.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T135405Z" creationid="DSS" creationdate="20200816T135314Z">
+        <seg>这些内容需要根据厨师佩德罗及其团队制定或采用的风格指南适当修改，调整大小写以及修正拼写问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The content needs of the com&lt;t2/&gt;pany now are many: they will need guides for workers in the corporate-owned restaurants, guidelines and expectations for franchise owners, and because of the nature of this business (restaurants), they will also require collections of recipes and acceptable ingredients that can be reused in end-user products like a menu for print and online channels.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131305Z" creationid="DSS" creationdate="20200807T043637Z">
@@ -10867,6 +10875,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T074515Z" creationid="lenovo" creationdate="20200723T074515Z">
         <seg>Carroll的极简主义方法&lt;t12/&gt;有如下三个方面：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The title component in this revised example includes the XML tags that rep&lt;t0/&gt;resent the &lt;t1/&gt;&lt;title&gt; &lt;t2/&gt;element and the actual content for human users that appears inside the tags.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T135320Z" creationid="DSS" creationdate="20200816T135246Z">
+        <seg>在经过修正的示例中，标题组件包括表示&lt;t1/&gt; &lt;title&gt; &lt;t2/&gt;元素的 XML 标签，提供给用户的实际内容包含在标签之内， </seg>
       </tuv>
     </tu>
     <tu>
