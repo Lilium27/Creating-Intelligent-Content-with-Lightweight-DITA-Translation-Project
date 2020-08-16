@@ -112,8 +112,8 @@
       <tuv lang="en">
         <seg>(“the true structured text format”)&lt;t0/&gt;2&lt;t1/&gt; or &lt;t2/&gt;setext&lt;t3/&gt; (Structure Enhanced Text)&lt;t4/&gt;3&lt;t5/&gt; head&lt;t6/&gt;ing.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T140955Z" creationid="DSS" creationdate="20200816T140955Z">
-        <seg>（“真正的结构化文本格式”）&lt;t0/&gt;2&lt;t1/&gt;格式，也可以使用&lt;t2/&gt; setext &lt;t3/&gt;（增强结构文本格式）&lt;t4/&gt;3 &lt;t5/&gt; 格式来表示。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T142108Z" creationid="DSS" creationdate="20200816T140955Z">
+        <seg>（“真正的结构化文本格式”）&lt;t0/&gt;2&lt;t1/&gt;格式，也可以使用&lt;t2/&gt; setext &lt;t3/&gt;（增强结构文本格式）&lt;t4/&gt;3 &lt;t5/&gt; 格式来表示。&lt;t6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -456,8 +456,8 @@
       <tuv lang="en">
         <seg>&lt;t0/&gt;Figure &lt;t1/&gt;6.12&lt;t2/&gt; &lt;t3/&gt;shows the introductory topic with a short description paragraph in HDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141549Z" creationid="DSS" creationdate="20200816T141549Z">
-        <seg>图&lt;t0/&gt;6.12&lt;t1/&gt;展示了 HDITA 基础组件中用于简短描述的段落。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T142142Z" creationid="DSS" creationdate="20200816T141549Z">
+        <seg>图&lt;t0/&gt;6.12&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;展示了 HDITA 基础组件中用于简短描述的段落。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4304,8 +4304,8 @@
       <tuv lang="en">
         <seg>FIGURE 6.9 &lt;t0/&gt;Sample MDITA core profile topic with a title component.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141316Z" creationid="DSS" creationdate="20200816T141239Z">
-        <seg>图6.9包含标题组件的 MDITA 话题示例，其中标题使用一级标题表示，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T142120Z" creationid="DSS" creationdate="20200816T141239Z">
+        <seg>图6.9 &lt;t0/&gt;包含标题组件的 MDITA 话题示例，其中标题使用一级标题表示，</seg>
       </tuv>
     </tu>
     <tu>
@@ -4505,8 +4505,8 @@
       <tuv lang="en">
         <seg>Figure &lt;t0/&gt;6.13&lt;t1/&gt; &lt;t2/&gt;presents the same topic in MDITA extended profile, which includes the YAML header with an assigned &lt;t3/&gt;@id&lt;t4/&gt;, an &lt;t5/&gt;atx&lt;t6/&gt; heading for the title, and the short description implied in the first paragraph.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141621Z" creationid="DSS" creationdate="20200816T141621Z">
-        <seg>图&lt;t0/&gt;6.13&lt;t1/&gt;展示含有扩展配置的MDITA话题示例，包含指定 &lt;t3/&gt;@id&lt;t4/&gt; 的YAML头、 &lt;t5/&gt;atx&lt;t6/&gt; 语法格式的标题，以及隐藏在第一段中的简短描述。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T142150Z" creationid="DSS" creationdate="20200816T141621Z">
+        <seg>图&lt;t0/&gt;6.13&lt;t1/&gt;&lt;t2/&gt;展示含有扩展配置的MDITA话题示例，包含指定 &lt;t3/&gt;@id&lt;t4/&gt; 的YAML头、 &lt;t5/&gt;atx&lt;t6/&gt; 语法格式的标题，以及隐藏在第一段中的简短描述。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10296,8 +10296,8 @@
       <tuv lang="en">
         <seg>The example in &lt;t3/&gt;Figure &lt;t4/&gt;6.14&lt;t5/&gt; &lt;t6/&gt;adds a body component, with a paragraph, to the franchise introduction topic in XDITA:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T142010Z" creationid="DSS" creationdate="20200816T142010Z">
-        <seg>图&lt;t3/&gt;6.14&lt;t4/&gt;展示的 XIDTA 格式的特许经营权简介话题，示例包含主体组件和段落组件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T142208Z" creationid="DSS" creationdate="20200816T142010Z">
+        <seg>图&lt;t3/&gt;6.14&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;展示的 XIDTA 格式的特许经营权简介话题，示例包含主体组件和段落组件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10625,8 +10625,8 @@
       <tuv lang="en">
         <seg>The opening and&lt;t2/&gt; closing tags of &lt;t3/&gt;&lt;shortdesc&gt; &lt;t4/&gt;hold content that the authors can use as a staging rhetorical move in the topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141437Z" creationid="DSS" creationdate="20200816T141437Z">
-        <seg>创作者可以使用简短描述组件作为话题阶段过渡的修辞文步，过度内容嵌套在 &lt;t3/&gt;&lt;shortdesc&gt; &lt;t4/&gt;的开始和结束标签之内。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T142129Z" creationid="DSS" creationdate="20200816T141437Z">
+        <seg>&lt;t2/&gt;创作者可以使用简短描述组件作为话题阶段过渡的修辞文步，过度内容嵌套在 &lt;t3/&gt;&lt;shortdesc&gt; &lt;t4/&gt;的开始和结束标签之内。</seg>
       </tuv>
     </tu>
     <tu>
