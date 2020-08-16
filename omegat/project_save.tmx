@@ -3025,6 +3025,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Body and Paragraph</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141834Z" creationid="DSS" creationdate="20200816T141744Z">
+        <seg>主体组件和段落组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Body&lt;t0/&gt;: a container for the main content of a topic.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T124857Z" creationid="DSS" creationdate="20200804T124857Z">
@@ -4439,6 +4447,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;6.13 &lt;t1/&gt;MDITA topic with a short description component.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141714Z" creationid="DSS" creationdate="20200816T141714Z">
+        <seg>图&lt;t0/&gt;6.13 &lt;t1/&gt;包含简短描述组件的 MDITA 话题，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Figure 6.5&lt;t0/&gt; shows the &lt;t1/&gt;franchise.intro.md&lt;t2/&gt; topic with an assigned &lt;t3/&gt;@id &lt;t4/&gt;of &lt;t5/&gt;sensei- &lt;t6/&gt;intro&lt;t7/&gt; &lt;t8/&gt;that would override the &lt;t9/&gt;@id &lt;t10/&gt;generated with the file's name.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T135906Z" creationid="DSS" creationdate="20200816T134439Z">
@@ -5647,6 +5663,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If so, the topics could end here and join a content collection to produce deliverables for end users.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141853Z" creationid="DSS" creationdate="20200816T141853Z">
+        <seg>那么话题写作的部分就结束了，将这些话题内容聚合起来，就可以为终端用户生成可交付内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If something goes wrong during the transformation process (maybe one of your files had an extra tag, or there was a missing component in your version of the DITA-OT), the Toolkit will report an error.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T032425Z" creationid="DSS" creationdate="20200806T133012Z">
@@ -6615,6 +6639,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Inside the body component, the most common unit for small pieces of con&lt;t0/&gt;tent is a paragraph (&lt;t1/&gt;&lt;p&gt;&lt;t2/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141942Z" creationid="DSS" creationdate="20200816T141942Z">
+        <seg>在主体组件中，最常用来表示短小内容块的单元是段落（&lt;t1/&gt;&lt;p&gt;&lt;t2/&gt;）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Instead of designing custom tags and depending on a publishing team to design templates and validation tools, he can use DITA's content types and take advan&lt;t0/&gt;tage of the benefits listed by Hackos.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130755Z" creationid="DSS" creationdate="20200724T123656Z">
@@ -7535,6 +7567,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Maybe Chef Pedro only needs a brief blurb for this information.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141848Z" creationid="DSS" creationdate="20200816T141848Z">
+        <seg>厨师佩德罗也许只需要对特许经营权等信息做一个简短的介绍，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Metadata Components</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T134432Z" creationid="DSS" creationdate="20200804T134432Z">
@@ -7739,6 +7779,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T153626Z" creationid="DSS" creationdate="20200804T153626Z">
         <seg>导航标题（navigation title）&lt;t0/&gt;：为话题提供替代标题，是可交付内容中的导航资源或表格内容的一部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Nevertheless, despite the potential uses of such a content blurb, the component that contains the majority of conventions for content is the body &lt;t0/&gt;- &lt;t1/&gt;represented in XDITA and HDITA by the tag &lt;t2/&gt;&lt;body&gt;&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141913Z" creationid="DSS" creationdate="20200816T141913Z">
+        <seg>尽管这种内容简介有许多潜在用途，用来包裹大多数内容组件的是主体&lt;t0/&gt;——&lt;t1/&gt;主体在 XDITA 和 HDITA 中由标签 &lt;t2/&gt;&lt;body&gt;&lt;t3/&gt; 表示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8845,8 +8893,8 @@
       <tuv lang="en">
         <seg>Short description</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141132Z" creationid="DSS" creationdate="20200816T141132Z">
-        <seg>简短描述</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141758Z" creationid="DSS" creationdate="20200816T141132Z">
+        <seg>简短描述组件</seg>
       </tuv>
     </tu>
     <tu>
@@ -9773,6 +9821,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The HDITA version of the paragraph, seen in &lt;t0/&gt;Figure &lt;t1/&gt;6.15&lt;t2/&gt;, &lt;t3/&gt;looks pretty simi&lt;t4/&gt;lar to its&lt;t5/&gt; XDITA &lt;t6/&gt;counterpart.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T142058Z" creationid="DSS" creationdate="20200816T142058Z">
+        <seg>图 &lt;t0/&gt;&lt;t1/&gt;6.15&lt;t2/&gt;&lt;t3/&gt;中展示了HDITA版的段落组件，与&lt;t5/&gt; XDITA &lt;t6/&gt;中的非常相似。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The HTML5 semantic tag of &lt;t0/&gt;&lt;article&gt; &lt;t1/&gt;provides a content environment similar to the &lt;t2/&gt;&lt;topic&gt; &lt;t3/&gt;component from XDITA.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T133231Z" creationid="DSS" creationdate="20200816T133231Z">
@@ -10238,6 +10294,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The example in &lt;t3/&gt;Figure &lt;t4/&gt;6.14&lt;t5/&gt; &lt;t6/&gt;adds a body component, with a paragraph, to the franchise introduction topic in XDITA:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T142010Z" creationid="DSS" creationdate="20200816T142010Z">
+        <seg>图&lt;t3/&gt;6.14&lt;t4/&gt;展示的 XIDTA 格式的特许经营权简介话题，示例包含主体组件和段落组件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The examples included in the following sections, and con&lt;t0/&gt;tinued in &lt;t1/&gt;Chapter &lt;t2/&gt;6&lt;t3/&gt;, &lt;t4/&gt;are based on this scenario:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131304Z" creationid="DSS" creationdate="20200807T043356Z">
@@ -10322,6 +10386,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T075320Z" creationid="DSS" creationdate="20200725T151653Z">
         <seg>下面的场景结合了到目前为止我展示的所有示例：厨师佩德罗拥有一个评价菜谱的网站。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following section introduces additional topic components that can be included inside the body environment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141927Z" creationid="DSS" creationdate="20200816T141927Z">
+        <seg>下面将介绍可以嵌套在主体标签内的其他话题组件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10631,6 +10703,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The previous examples did not have much content but are all valid LwDITA topics.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141844Z" creationid="DSS" creationdate="20200816T141844Z">
+        <seg>前面展示的示例虽然内容不多，但都是有效的 LwDITA 主题，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The process for generating end user deliverables from DITA maps is the same for transforming LwDITA maps (regardless of XDITA, HDITA, or MDITA authoring format).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T042224Z" creationid="DSS" creationdate="20200807T042224Z">
@@ -10915,6 +10995,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141650Z" creationid="DSS" creationdate="20200816T141650Z">
         <seg>&lt;t2/&gt;简短描述的默认位置为 HTML 文件的第一个段落，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The short&lt;t2/&gt; description is implied in the first paragraph of a Markdown file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141727Z" creationid="DSS" creationdate="20200816T141727Z">
+        <seg>简短描述隐藏在 Markdown 文件的第一格段落中。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12009,8 +12097,8 @@
       <tuv lang="en">
         <seg>Title</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T134741Z" creationid="DSS" creationdate="20200816T134741Z">
-        <seg>标题</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141813Z" creationid="DSS" creationdate="20200816T134741Z">
+        <seg>标题组件</seg>
       </tuv>
     </tu>
     <tu>
@@ -12089,8 +12177,8 @@
       <tuv lang="en">
         <seg>Topic</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T130636Z" creationid="DSS" creationdate="20200813T130636Z">
-        <seg>话题</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141823Z" creationid="DSS" creationdate="20200813T130636Z">
+        <seg>话题组件</seg>
       </tuv>
     </tu>
     <tu>
