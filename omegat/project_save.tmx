@@ -568,6 +568,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t12/&gt;Figure 6.8&lt;t13/&gt; shows the franchise introduction topic with a title and a heading 1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T140358Z" creationid="DSS" creationdate="20200816T140358Z">
+        <seg>图&lt;t12/&gt;6.8&lt;t13/&gt;展示了特许经营权介绍话题，该话题包含标题元素和一级标题元素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t12/&gt;Figure &lt;t13/&gt;5.1&lt;t14/&gt; &lt;t15/&gt;shows the recipe critiques DITA map, which you can save as &lt;t16/&gt;marinara-critique.ditamap&lt;t17/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T153716Z" creationid="DSS" creationdate="20200806T085605Z">
@@ -1825,6 +1833,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>According to the W3C recommendation for HTML5, the “document's title is often different from its first heading, since the first heading does not have to stand alone when taken out of context.” (W3C, 2017).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T140128Z" creationid="DSS" creationdate="20200816T140128Z">
+        <seg>根据 W3C 对该如何使用 HTML5 提出的建议，“文档的标题通常与文档内容中的第一个标题不同，因为文档内容中的第一个标题在脱离上下文时不一定要独立存在。”(W3C, 2017)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Accuracy</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T030636Z" creationid="lenovo" creationdate="20200810T163151Z">
@@ -2477,6 +2493,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T010326Z" creationid="lenovo" creationdate="20200723T015021Z">
         <seg>作为编写和出版内容（包括技术传播）的一种建议标准，轻量级DITA与以往的计算机手册同根同源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As a result, HDITA topics need both a title (&lt;t2/&gt;&lt;title&gt;&lt;t3/&gt;) ele&lt;t4/&gt;ment and a heading 1 (&lt;t5/&gt;&lt;h1&gt;&lt;t6/&gt;) element to signal the document's first heading.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T140218Z" creationid="DSS" creationdate="20200816T140218Z">
+        <seg>因此，HDITA主题不仅需要标题 (&lt;t2/&gt;&lt;title&gt;&lt;t3/&gt;) 元素，还需要一级标题(&lt;t5/&gt;&lt;h1&gt;&lt;t6/&gt;) 元素来表示文档内容中的第一个标题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7279,6 +7303,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LwDITA-aware tools could automate the process of generating a &lt;t7/&gt;&lt;h1&gt; &lt;t8/&gt;from a &lt;t9/&gt;&lt;title&gt; &lt;t10/&gt;and reduce repe&lt;t11/&gt;tition for human authors.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T140301Z" creationid="DSS" creationdate="20200816T140301Z">
+        <seg>支持 LwDITA 的工具可以自动利用&lt;title&gt;标签生成&lt;t7/&gt;&lt;h1&gt; &lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;，并减少创作者的重复劳动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MDITA</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T133727Z" creationid="DSS" creationdate="20200816T133727Z">
@@ -8479,6 +8511,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T074731Z" creationid="lenovo" creationdate="20200723T074731Z">
         <seg>减少培训中所需的阅读量和其他被动活动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Redundantly, both elements should contain the same information in order to comply with syntax rules from HTML5 and LwDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T140230Z" creationid="DSS" creationdate="20200816T140230Z">
+        <seg>不过冗余的是，为了符合 HTML5 和 LwDITA 的语法规则，两个元素应该包含相同的信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11219,6 +11259,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T151119Z" creationid="DSS" creationdate="20200726T135202Z">
         <seg>因此毫无疑问，本书是一本关于 DITA 的书，但是书中没有详细介绍被广泛使用的基于 XML 的 DITA 标准（全面介绍基于 XML 的 DITA 的文本，请参阅哈克斯，&lt;t3/&gt;2011&lt;t4/&gt;年；&lt;t5/&gt;贝拉米等，2012年）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Therefore, whereas a valid HTML5 file requires a &lt;t0/&gt;&lt;title&gt; &lt;t1/&gt;element, this component won't perform as the topic's first heading.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T140143Z" creationid="DSS" creationdate="20200816T140143Z">
+        <seg>因此，尽管一个有效的 HTML5 文件需要一个 &lt;t0/&gt;&lt;title&gt; &lt;t1/&gt;元素，但该组件不会成为话题内容的第一个标题。</seg>
       </tuv>
     </tu>
     <tu>
