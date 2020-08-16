@@ -440,8 +440,8 @@
       <tuv lang="en">
         <seg>&lt;t0/&gt;Figure 6.4&lt;t1/&gt; reproduces the essential topic with a placeholder com&lt;t2/&gt;ment for content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T133739Z" creationid="DSS" creationdate="20200816T133739Z">
-        <seg>图6.4展示了一个重新生成的基础话题，并用注释为内容占位。Markdown不需要标题，因此即使示例只有一行注释，也是一个有效的基础话题（但该话题在实际应用中毫无用处）。你可以在任何文本编辑器或支持LwDITA的工具中创建该文件，并将其保存为franchise-intro.md.。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T133749Z" creationid="DSS" creationdate="20200816T133739Z">
+        <seg>图6.4展示了一个重新生成的基础话题，并用注释为内容占位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5751,10 +5751,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In MDITA, the required &lt;t6/&gt;@id &lt;t7/&gt;should be automatically generated when the topic is saved, through a “slug”-generation process.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T133911Z" creationid="DSS" creationdate="20200816T133911Z">
+        <seg>在 MDITA 中， &lt;t6/&gt;@id &lt;t7/&gt;会在保存话题时通过解析文件名称自动生成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In March of &lt;t0/&gt;2012, &lt;t1/&gt;when Michael Priestley officially proposed the development of a “lightweight framework for representing DITA topics,” it was a given that Lightweight DITA would be based on XML.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131233Z" creationid="lenovo" creationdate="20200813T015444Z">
         <seg>2012年3月，当迈克尔·普里斯特利正式提议开发“用于表示DITA主题的轻量级框架”时，轻量级DITA是基于XML的，这是可以确定的。&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In Markdown, a title is not required, so this one-line example can work as a valid basic (but useless for practical reasons) topic, even if its con&lt;t3/&gt;tent is just a commented annotation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T133755Z" creationid="DSS" creationdate="20200816T133755Z">
+        <seg>Markdown不需要标题，因此即使示例只有一行注释，也是一个有效的基础话题（但该话题在实际应用中毫无用处）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5819,6 +5835,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T131106Z" creationid="lenovo" creationdate="20200814T131106Z">
         <seg>在XDITA和HDITA中，相同的列表必须表示如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In XDITA and MDITA, a topic requires an &lt;t0/&gt;@id&lt;t1/&gt;, which is provided as an attribute of the components &lt;t2/&gt;&lt;topic&gt; &lt;t3/&gt;and &lt;t4/&gt;&lt;article&gt;&lt;t5/&gt;, respectively.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T133900Z" creationid="DSS" creationdate="20200816T133900Z">
+        <seg>在 XDITA 和 MDITA 中，一个话题需要一个 &lt;t0/&gt;@id&lt;t1/&gt;，@id将分别作为 &lt;t2/&gt;&lt;topic&gt; &lt;t3/&gt;和 &lt;t4/&gt;&lt;article&gt;&lt;t5/&gt;组件的属性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11039,6 +11063,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Therefore, the &lt;t8/&gt;@id &lt;t9/&gt;for &lt;t10/&gt;franchise-intro.md&lt;t11/&gt;, if needed for future topic linking and reuse, will be &lt;t12/&gt;franchise-intro&lt;t13/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T134058Z" creationid="DSS" creationdate="20200816T134058Z">
+        <seg>因此，为了在以后链接和复用文件， &lt;t10/&gt;franchise-intro.md&lt;t11/&gt;文件的@id会自动设置为&lt;t12/&gt; franchise-intro&lt;t13/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Therefore, this is unequivocally a book about DITA, but it is not a detailed introduction and how-to to the widely adopted XML-based DITA standard (for comprehensive introductory texts to DITA XML, see Hackos, &lt;t3/&gt;2011; &lt;t4/&gt;Bellamy et al., &lt;t5/&gt;2012).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T151119Z" creationid="DSS" creationdate="20200726T135202Z">
@@ -12406,6 +12438,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T133551Z" creationid="DSS" creationdate="20200816T133551Z">
         <seg>你可以使用任何文本编辑器、更高级的 HTML 编辑器或支持 LwDITA 的工具(如Oxygen XML)创建示例中的 HDITA 话题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can create this file in any text editor or a LwDITA-aware tool, and save it as &lt;t4/&gt;franchise-intro.md&lt;t5/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T133825Z" creationid="DSS" creationdate="20200816T133825Z">
+        <seg>你可以在任何文本编辑器或支持 LwDITA 的工具中创建该文件，并将其保存为&lt;t4/&gt; franchise-intro.md&lt;t5/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
