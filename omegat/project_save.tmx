@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(“the true structured text format”)&lt;t0/&gt;2&lt;t1/&gt; or &lt;t2/&gt;setext&lt;t3/&gt; (Structure Enhanced Text)&lt;t4/&gt;3&lt;t5/&gt; head&lt;t6/&gt;ing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T140955Z" creationid="DSS" creationdate="20200816T140955Z">
+        <seg>（“真正的结构化文本格式”）&lt;t0/&gt;2&lt;t1/&gt;格式，也可以使用&lt;t2/&gt; setext &lt;t3/&gt;（增强结构文本格式）&lt;t4/&gt;3 &lt;t5/&gt; 格式来表示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T164017Z" creationid="DSS" creationdate="20200804T164017Z">
@@ -570,8 +578,8 @@
       <tuv lang="en">
         <seg>&lt;t12/&gt;Figure 6.8&lt;t13/&gt; shows the franchise introduction topic with a title and a heading 1.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T140551Z" creationid="DSS" creationdate="20200816T140358Z">
-        <seg>图&lt;t12/&gt;6.8&lt;t13/&gt;展示了一个关于特许经营权的介绍的话题，该话题包含标题元素和一级标题元素。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T140840Z" creationid="DSS" creationdate="20200816T140358Z">
+        <seg>图&lt;t12/&gt;6.8&lt;t13/&gt;展示了一个介绍特许经营权的话题，该话题包含标题元素和一级标题元素。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10291,6 +10299,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T123513Z" creationid="DSS" creationdate="20200809T123513Z">
         <seg>在LwDITA工作流中，写作涉及的抽象层级与内容开发生命周期的各个阶段息息相关。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The level-one heading that provides a title for an MDITA topic can be expressed, according to the GitHub Flavored Markdown (GFM) spec, both with an &lt;t0/&gt;atx</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T140914Z" creationid="DSS" creationdate="20200816T140914Z">
+        <seg>根据 GitHub 风格的 Markdown 规范 (GFM)，MDITA 话题中的一级标题，既可以使用 &lt;t0/&gt;atx</seg>
       </tuv>
     </tu>
     <tu>
