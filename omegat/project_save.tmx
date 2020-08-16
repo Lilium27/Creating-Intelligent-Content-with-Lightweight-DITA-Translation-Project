@@ -7447,6 +7447,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LwDITA includes components for representing the following types of lists:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T155242Z" creationid="DSS" creationdate="20200816T155242Z">
+        <seg>LwDITA 的列表组件包含以下类型：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LwDITA is a work in progress.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T051916Z" creationid="lenovo" creationdate="20200812T051916Z">
@@ -10169,6 +10177,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130913Z" creationid="lenovo" creationdate="20200810T073345Z">
         <seg>作者并没有把它们作为，比如说，IBM手册的官方修辞惯例。乔纳森·普莱斯（Jonathan Price）在他1984年出版的《如何编写计算机手册：软件文档手册》的确从通用惯例的基础上往前迈了一步，开创了组织机构型主题惯例。.&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The body of a LwDITA topic can also contain topical conventions for lists.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T142516Z" creationid="DSS" creationdate="20200816T142516Z">
+        <seg>LwDITA 话题主体还可以嵌套话题协定中的列表组件，</seg>
       </tuv>
     </tu>
     <tu>
