@@ -4311,6 +4311,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Figure 6.5&lt;t0/&gt; shows the &lt;t1/&gt;franchise.intro.md&lt;t2/&gt; topic with an assigned &lt;t3/&gt;@id &lt;t4/&gt;of &lt;t5/&gt;sensei- &lt;t6/&gt;intro&lt;t7/&gt; &lt;t8/&gt;that would override the &lt;t9/&gt;@id &lt;t10/&gt;generated with the file's name.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T134439Z" creationid="DSS" creationdate="20200816T134439Z">
+        <seg>图6.5展示了&lt;t1/&gt; franchise.intro.md &lt;t2/&gt;话题，其指定&lt;t3/&gt; @id &lt;t4/&gt;为 &lt;t5/&gt;sensei- &lt;t6/&gt;intro&lt;t7/&gt; &lt;t8/&gt;，它将覆盖用文件名称自动生成的 &lt;t9/&gt;@id &lt;t10/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Figure &lt;t0/&gt;1.6&lt;t1/&gt; &lt;t2/&gt;shows a very basic DITA map for Chef Pedro's recipe critique website.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T114223Z" creationid="DSS" creationdate="20200725T153515Z">
@@ -5471,6 +5479,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If included in a topic, the YAML front matter header must be the first thing in the MDITA file and must be set between triple-dashed lines.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T134335Z" creationid="DSS" creationdate="20200816T134335Z">
+        <seg>如果 MDITA 文件有 YAML 前置块的话，则 YAML 前置块必须写在文件开头，位于两行三格虚线之间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If no transformation scenario has been selected, the dialog box will direct you to the “Configure Transformation Scenario(s)” win&lt;t0/&gt;dow.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131303Z" creationid="DSS" creationdate="20200807T035059Z">
@@ -5663,6 +5679,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In &lt;t21/&gt;Lightweight DITA: An Introduction&lt;t22/&gt;, we wrote the fol&lt;t23/&gt;lowing about the optional YAML header for MDITA topics:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T134311Z" creationid="DSS" creationdate="20200816T134311Z">
+        <seg>在《&lt;t21/&gt;轻量级 DITA 简介&lt;t22/&gt;》中，我们对 MDITA 话题的可选 YAML 头进行了以下介绍：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In &lt;t5/&gt;Chapter &lt;t6/&gt;1&lt;t7/&gt;, &lt;t8/&gt;I mentioned that Chef Pedro probably needed a DITA-based content model that allowed authors to specialize a &lt;t9/&gt;&lt;task&gt; &lt;t10/&gt;into a &lt;t11/&gt;&lt;recipe&gt;&lt;t12/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095919Z" creationid="DSS" creationdate="20200730T095919Z">
@@ -5747,6 +5771,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T133737Z" creationid="DSS" creationdate="20200816T133737Z">
         <seg>在 MDITA 的核心规定中，任何保存为 Markdown 格式的结构都可以作为基础话题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In MDITA extended profile, authors can specify an &lt;t14/&gt;@id &lt;t15/&gt;for the topic that overrides the “slugify” process.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T134214Z" creationid="DSS" creationdate="20200816T134214Z">
+        <seg>在 MDITA 扩展配置中，作者可以指定 &lt;t14/&gt;@id &lt;t15/&gt;名称，覆盖自动解析生成的@id。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9797,6 +9829,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The assigned &lt;t16/&gt;@id &lt;t17/&gt;should be included in an optional YAML&lt;t18/&gt;1&lt;t19/&gt; &lt;t20/&gt;front matter header.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T134234Z" creationid="DSS" creationdate="20200816T134234Z">
+        <seg>话题的指定 &lt;t16/&gt;@id &lt;t17/&gt;应该包含在可选YAML&lt;t18/&gt;1&lt;t19/&gt;前置块头部。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The authors did not present them as, say, the official rhetorical conventions for manuals at IBM. Jonathan Price, however, did move beyond the generic conventions and crossed into the organizational or institutional type of topical convention in his &lt;t8/&gt;1984 &lt;t9/&gt;book &lt;t10/&gt;How to Write a Computer Manual: A Handbook of Software Documentation&lt;t11/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130913Z" creationid="lenovo" creationdate="20200810T073345Z">
@@ -11227,6 +11267,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T142849Z" creationid="DSS" creationdate="20200724T121417Z">
         <seg>这一帧&lt;t2/&gt;画面显示着行业的未来所在，即“越来越结构化的内容，以及更快、更智能地&lt;t3/&gt; 使用 XML 和 DITA 结构的能力”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This YAML header can supply a direct value for the @id attribute that is required on the root element of a DITA topic; it can also include prolog metadata about who authored the DITA topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T134333Z" creationid="DSS" creationdate="20200816T134333Z">
+        <seg>YAML 头可以直接提供 DITA 话题根元素所需的 @id 属性，它还包含关于 DITA 话题作者的元数据。</seg>
       </tuv>
     </tu>
     <tu>
