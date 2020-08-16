@@ -3701,6 +3701,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Definition lists</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T155253Z" creationid="DSS" creationdate="20200816T155253Z">
+        <seg>定义列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Definition term&lt;t0/&gt;: the text that is defined in a list entry.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T130403Z" creationid="DSS" creationdate="20200804T130337Z">
@@ -6119,6 +6127,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In XDITA, the definition list (&lt;t0/&gt;&lt;dl&gt;&lt;t1/&gt;) is a content environment that includes a definition list entry (&lt;t2/&gt;&lt;dlentry&gt;&lt;t3/&gt;), a definition term (&lt;t4/&gt;&lt;dt&gt;&lt;t5/&gt;), and a definition description (&lt;t6/&gt;&lt;dd&gt;&lt;t7/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T155423Z" creationid="DSS" creationdate="20200816T155423Z">
+        <seg>在 XDITA 中，定义列表标签 (&lt;t0/&gt;&lt;dl&gt;&lt;t1/&gt;) 可以创建一个内容环境，环境中包括定义列表条目标签 (&lt;t2/&gt;&lt;dlentry&gt; &lt;t3/&gt;)、定义术语标签 (&lt;t4/&gt;&lt;dt&gt;&lt;t5/&gt;)和定义描述标签 (&lt;t6/&gt;&lt;dd&gt;&lt;t7/&gt;)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In a &lt;t0/&gt;2015 &lt;t1/&gt;teaching case based on the work I did with some colleagues for the course ENGL &lt;t2/&gt;3814: &lt;t3/&gt;Creating User Documentation&lt;t4/&gt;, we mentioned that whereas “basic XML syntax and tags are relatively easy to teach and learn, the automation of deliverables via XSLT and the DITA Open Toolkit is much more complicated” (Evia et al.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T153822Z" creationid="lenovo" creationdate="20200813T013556Z">
@@ -6507,6 +6523,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T014214Z" creationid="lenovo" creationdate="20200813T014214Z">
         <seg>在本章中，我将概述三种LwDITA风格(XDITA、HDITA和MDITA)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this example (&lt;t8/&gt;Figure &lt;t9/&gt;6.17&lt;t10/&gt;), &lt;t11/&gt;Chef Pedro and his team use a definition list to describe the terms that apply to franchise owners of &lt;t12/&gt;Sensei Sushi&lt;t13/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T155500Z" creationid="DSS" creationdate="20200816T155500Z">
+        <seg>在图&lt;t9/&gt;6.17&lt;t10/&gt;展示的示例中，厨师佩德罗及其团队使用了定义列表来描述关于&lt;t12/&gt; Sensei Sushi&lt;t13/&gt; 特许经营的术语。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8213,6 +8237,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T131222Z" creationid="DSS" creationdate="20200804T131222Z">
         <seg>有序列表（ordered list）&lt;t0/&gt;：按顺序或重要性排序的一系列项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ordered lists</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T155301Z" creationid="DSS" creationdate="20200816T155301Z">
+        <seg>有序列表</seg>
       </tuv>
     </tu>
     <tu>
@@ -10775,6 +10807,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The previous example shows the “minimize mixed content” rule in action.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T155509Z" creationid="DSS" creationdate="20200816T155509Z">
+        <seg>前面的示例展示了“最小化混合内容”的规则。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The previous examples did not have much content but are all valid LwDITA topics.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141844Z" creationid="DSS" creationdate="20200816T141844Z">
@@ -12410,6 +12450,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unordered lists.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T155316Z" creationid="DSS" creationdate="20200816T155316Z">
+        <seg>无序列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use them” (1976, p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T002425Z" creationid="lenovo" creationdate="20200810T002425Z">
@@ -12682,6 +12730,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Whereas in DITA &lt;t0/&gt;1.3 &lt;t1/&gt;a definition description can contain character data or additional XML elements, in XDITA it must include a paragraph (&lt;t2/&gt;&lt;p&gt;&lt;t3/&gt;) hous&lt;t4/&gt;ing any text.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T155526Z" creationid="DSS" creationdate="20200816T155526Z">
+        <seg>在 DITA 标准1.3版本中，定义描述可以包含字符数据或其他 XML 元素，而在 XDITA 中，必须用段落标签 (&lt;t2/&gt;&lt;p&gt;&lt;t3/&gt;) 来包裹文本内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Whereas the traditional topic types associated with DITA XML are concept, task, and reference, Information Mapping's core six information types are principle, pro&lt;t1/&gt;cess, procedure, concept, fact, and structure.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131052Z" creationid="DSS" creationdate="20200731T085513Z">
@@ -12806,6 +12862,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131300Z" creationid="lenovo" creationdate="20200814T142852Z">
         <seg>如果没有支持LwDITA的编辑器，您可能需要像第一章佩德罗那样使用开源的的DITA Open Toolkit来处理LwDITA内容并生成最终用户交付的内容。&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Without a doubt, the definition list is one of the most verbose XDITA environments.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T155535Z" creationid="DSS" creationdate="20200816T155535Z">
+        <seg>毫无疑问，定义列表是最繁冗的 XDITA 内容环境之一，</seg>
       </tuv>
     </tu>
     <tu>
