@@ -11577,8 +11577,8 @@
       <tuv lang="en">
         <seg>This mode provides a quick&lt;t1/&gt; preview of a topic, similar to a WYSIWYG editor.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T135612Z" creationid="DSS" creationdate="20200816T135612Z">
-        <seg>在此模式下，可以快速预览话题，就像 WYSIWYG 编辑器一样。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T140412Z" creationid="DSS" creationdate="20200816T135612Z">
+        <seg>在此模式下，可以快速预览话题，就像 WYSIWYG 编辑器一样。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
