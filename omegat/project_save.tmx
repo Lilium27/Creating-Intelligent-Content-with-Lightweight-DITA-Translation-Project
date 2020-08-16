@@ -1753,6 +1753,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A valid XDITA topic needs, at least, a title, which is represented by the XML element &lt;t2/&gt;&lt;title&gt;&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T134815Z" creationid="DSS" creationdate="20200816T134815Z">
+        <seg>一个有效的 XDITA 话题至少需要一个标题，由 XML 元素 &lt;t2/&gt;&lt;title&gt;&lt;t3/&gt; 表示。。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A very important disclaimer: Despite the benefits of adopting an intelligent content workflow with LwDITA, there are many situations and contexts that would be better off without it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T124741Z" creationid="DSS" creationdate="20200809T124741Z">
@@ -9685,6 +9693,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Lightweight DITA subcommittee at OASIS will release recommendations and standards for that validation, but will not produce tools or files to enforce it, leaving the implementation to interested vendors and developers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T135005Z" creationid="DSS" creationdate="20200816T134729Z">
+        <seg>OASIS 轻量级 DITA 小组委员会将发布验证标准，并给出建议，但不会开发用于验证的工具或文件，其具体实现将留给对此感兴趣的供应商和开发人员。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Lightweight DITA subcommittee had its first teleconference call on September &lt;t2/&gt;15, 2014.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T162425Z" creationid="DSS" creationdate="20200802T162425Z">
@@ -10275,6 +10291,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T023410Z" creationid="lenovo" creationdate="20200811T023410Z">
         <seg>极简主义方法并不只是减少了页数，而且使得写作顺应用户的需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The new version of the basic XDITA topic should look as &lt;t4/&gt;Figure 6.6&lt;t5/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T134834Z" creationid="DSS" creationdate="20200816T134834Z">
+        <seg>新标准中的 XDITA 基本话题如图6.6所示</seg>
       </tuv>
     </tu>
     <tu>
@@ -10979,6 +11003,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131258Z" creationid="lenovo" creationdate="20200813T143013Z">
         <seg>“最小化混合内容”规则也简化DITA XML的内容复用机制：例如，在DITA中来自一个命令 （&lt;t0/&gt;&lt;cmd&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;）的内容在一个任务的步骤(步骤&gt; &lt;)只能使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The “red squiggly of doom” from &lt;t0/&gt;Figure 6.2&lt;t1/&gt; indicates that, according to the XDITA grammar rules, a topic cannot be empty.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T134754Z" creationid="DSS" creationdate="20200816T134754Z">
+        <seg>根据 XDITA 语法规则，图6.2中的“预示着坏消息的红色曲线”表示话题内容不能为空。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11723,6 +11755,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T073541Z" creationid="DSS" creationdate="20200725T071136Z">
         <seg>因此，菜谱编辑者不必创建自定义标签。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Title</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T134741Z" creationid="DSS" creationdate="20200816T134741Z">
+        <seg>标题</seg>
       </tuv>
     </tu>
     <tu>
