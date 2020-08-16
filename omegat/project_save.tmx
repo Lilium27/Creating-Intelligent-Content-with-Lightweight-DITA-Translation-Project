@@ -511,6 +511,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t1/&gt;Thus, an MDITA paragraph does not require any tags, as seen in &lt;t2/&gt;Figure &lt;t3/&gt;6.16&lt;t4/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T142356Z" creationid="DSS" creationdate="20200816T142356Z">
+        <seg>&lt;t1/&gt;因此，在 MDITA 中使用段落组件不需要任何标签，如图&lt;t2/&gt;6.16&lt;t3/&gt;&lt;t4/&gt;所示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t1/&gt;Users perceive lower cost, lower com&lt;t2/&gt;plexity at the range of use they expect, and can move up as requirements dictate (basically playing to progression of needs and investments in the DITA Maturity Model).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131042Z" creationid="DSS" creationdate="20200731T071605Z">
@@ -4262,6 +4270,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE 6.14 &lt;t0/&gt;XDITA topic with a body component.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T142230Z" creationid="DSS" creationdate="20200816T142230Z">
+        <seg>图6.14 &lt;t0/&gt;包含主体组件的 XDITA 话题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FIGURE 6.15 &lt;t0/&gt;HDITA topic with paragraph components.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T142302Z" creationid="DSS" creationdate="20200816T142302Z">
+        <seg>图6.15 &lt;t0/&gt;包含段落组件的 HDITA 话题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE 6.2 &lt;t0/&gt;Validation error reported by Oxygen XML Editor.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T153432Z" creationid="DSS" creationdate="20200813T151548Z">
@@ -5943,6 +5967,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In HDITA, a paragraph&lt;t1/&gt; is also represented by opening and closing &lt;t2/&gt;&lt;p&gt; &lt;t3/&gt;tags, and paragraphs should be inside a body environment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T142440Z" creationid="DSS" creationdate="20200816T142318Z">
+        <seg>在 HDITA 中，段落也是由一对 &lt;t1/&gt;&lt;t2/&gt;&lt;p&gt; &lt;t3/&gt;标签表示，并且段落包含在主主体组件中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In John Carroll's opinion, today's developers and users have not really lost the itch to tinker with systems because the manuals disap&lt;t0/&gt;peared.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130819Z" creationid="lenovo" creationdate="20200723T091333Z">
@@ -6075,6 +6107,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131311Z" creationid="DSS" creationdate="20200813T150323Z">
         <seg>在 XDITA 中，需要为话题级别的惟一标识符提供属性（即 &lt;topic id=“franchise-intro”&gt; 中的&lt;t0/&gt; id&lt;t1/&gt;&lt;t2/&gt; 部分），&lt;t3/&gt;&lt;t4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In XDITA, the body&lt;t1/&gt; environment can hold several topic components.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T142436Z" creationid="DSS" creationdate="20200816T142237Z">
+        <seg>在 XDITA 中，主体组件可以包含多个话题组件。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6641,8 +6681,8 @@
       <tuv lang="en">
         <seg>Inside the body component, the most common unit for small pieces of con&lt;t0/&gt;tent is a paragraph (&lt;t1/&gt;&lt;p&gt;&lt;t2/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141942Z" creationid="DSS" creationdate="20200816T141942Z">
-        <seg>在主体组件中，最常用来表示短小内容块的单元是段落（&lt;t1/&gt;&lt;p&gt;&lt;t2/&gt;）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T142424Z" creationid="DSS" creationdate="20200816T141942Z">
+        <seg>在主体组件中，最常用来表示短小内容块的单元是段落（&lt;t0/&gt;&lt;t1/&gt;&lt;p&gt;&lt;t2/&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7283,6 +7323,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T131226Z" creationid="DSS" creationdate="20200804T131211Z">
         <seg>列表项（list item）&lt;t0/&gt;：有序或无序列表中的单个条目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lists</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T142421Z" creationid="DSS" creationdate="20200816T142421Z">
+        <seg>列表组件</seg>
       </tuv>
     </tu>
     <tu>
@@ -9813,6 +9861,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The GFM spec defines paragraph as a “sequence of non-blank lines” (GitHub Flavored Markdown Spec, &lt;t0/&gt;2017).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T142334Z" creationid="DSS" creationdate="20200816T142334Z">
+        <seg>GFM 规范将段落定义为“非空行序列”（GitHub 风格 Markdown 规范，&lt;t0/&gt;2017）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The HDITA Map</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T070854Z" creationid="DSS" creationdate="20200807T070854Z">
@@ -9823,8 +9879,8 @@
       <tuv lang="en">
         <seg>The HDITA version of the paragraph, seen in &lt;t0/&gt;Figure &lt;t1/&gt;6.15&lt;t2/&gt;, &lt;t3/&gt;looks pretty simi&lt;t4/&gt;lar to its&lt;t5/&gt; XDITA &lt;t6/&gt;counterpart.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T142058Z" creationid="DSS" creationdate="20200816T142058Z">
-        <seg>图 &lt;t0/&gt;&lt;t1/&gt;6.15&lt;t2/&gt;&lt;t3/&gt;中展示了HDITA版的段落组件，与&lt;t5/&gt; XDITA &lt;t6/&gt;中的非常相似。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T142431Z" creationid="DSS" creationdate="20200816T142058Z">
+        <seg>图 &lt;t0/&gt;&lt;t1/&gt;6.15&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;中展示了HDITA版的段落组件，与&lt;t5/&gt; XDITA &lt;t6/&gt;中的非常相似。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10707,6 +10763,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141844Z" creationid="DSS" creationdate="20200816T141844Z">
         <seg>前面展示的示例虽然内容不多，但都是有效的 LwDITA 主题，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The primary component inside a body is a paragraph, which should be represented by opening and closing &lt;t2/&gt;&lt;p&gt; &lt;t3/&gt;tags.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T142254Z" creationid="DSS" creationdate="20200816T142254Z">
+        <seg>主体组件内部主要是段落组件，段落组件由一对 &lt;t2/&gt;&lt;p&gt; &lt;t3/&gt;标签表示。</seg>
       </tuv>
     </tu>
     <tu>
