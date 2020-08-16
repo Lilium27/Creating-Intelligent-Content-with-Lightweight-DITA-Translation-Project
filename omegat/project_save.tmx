@@ -1153,6 +1153,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t4/&gt;Figure 6.11&lt;t5/&gt; shows a short description in the introductory XDITA topic for the &lt;t6/&gt;Sensei Sushi&lt;t7/&gt; franchise brochure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141228Z" creationid="DSS" creationdate="20200816T141228Z">
+        <seg>图&lt;t4/&gt;6.11&lt;t5/&gt;展示了用 XDITA 编写的关于&lt;t6/&gt;Sensei Sushi&lt;t7/&gt;特许经营权手册的基础话题，其中包含简短描述组件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t4/&gt;In Rigo's out&lt;t5/&gt;line, “each statement, command, option, parameter, or similar independent item” requires the name of the statement or command, a paragraph describing its function, a formal definition using the documentation conventions stated in the Introduction, examples of valid commands/statements, summary of rules, and additional examples as needed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130858Z" creationid="lenovo" creationdate="20200809T235345Z">
@@ -1381,6 +1389,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131358Z" creationid="DSS" creationdate="20200808T074054Z">
         <seg>&lt;t7/&gt;&lt;t8/&gt;将这一概念应用到内容开发或技术传播中，我们可以将可交付内容（如一个标准化操作流程或一个网页）视为最低的抽象层级，并且将其看作一个动态过程，而非静态对象。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t7/&gt;Figure 6.9&lt;t8/&gt; shows the franchise introductory topic in MDITA core profile with an &lt;t9/&gt;atx&lt;t10/&gt; heading for its title.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141024Z" creationid="DSS" creationdate="20200816T141024Z">
+        <seg>图&lt;t7/&gt;6.9&lt;t8/&gt; 展示了根据 MDITA 核心规定编写的特许经营权的基础话题，其标题使用&lt;t9/&gt; atx&lt;t10/&gt; 语法格式编写。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2237,6 +2253,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T133401Z" creationid="DSS" creationdate="20200810T133401Z">
         <seg>智能内容策略将建立一个条理清晰的计划，在这个计划之下设计、发开、部署内容，可以为客户和组织带来最大的利益，同时使组织的成本降到最低。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An optional topic component that I have addressed in previous chapters is the multipurpose short description (&lt;t0/&gt;&lt;shortdesc&gt; &lt;t1/&gt;in XDITA), which performs a staging move (see Table 2 in &lt;t2/&gt;Chapter 2&lt;t3/&gt;) before a topic goes into detail about a specific subject.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141201Z" creationid="DSS" creationdate="20200816T141201Z">
+        <seg>我在前几章中提过一个可选话题组件：多用途简短描述(XDITA中的&lt;t0/&gt;&lt;shortdesc&gt; &lt;t1/&gt;)，该组件在某话题深入探讨主题细节之前进行阶段过度（参见第&lt;t2/&gt;2&lt;t3/&gt;章中的表2）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4254,6 +4278,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE 6.9 &lt;t0/&gt;Sample MDITA core profile topic with a title component.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141316Z" creationid="DSS" creationdate="20200816T141239Z">
+        <seg>图6.9包含标题组件的 MDITA 话题示例，其中标题使用一级标题表示，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;1.1 &lt;t1/&gt;Screen capture from the video “The Future of Technical Communication,” by Adobe Technical Communication Suite.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T142810Z" creationid="DSS" creationdate="20200724T121058Z">
@@ -5723,6 +5755,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130931Z" creationid="lenovo" creationdate="20200811T073508Z">
         <seg>在 &lt;t0/&gt;第一&lt;t1/&gt; &lt;t2/&gt;章中&lt;t3/&gt;, &lt;t4/&gt;&lt;t5/&gt;我简短回顾了DITA在IBM的早期发展史，戴夫·席尔、唐·戴以及迈克尔·普里斯特利做出了杰出贡献，彼时用户与服务信息部门开始探索将XML作为一门语言来创建标签，为通用内容结构的体裁惯例创建模板，并应用至公司的所有文档。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In &lt;t0/&gt;Figure 6.10&lt;t1/&gt;, an MDITA extended profile with an assigned &lt;t2/&gt;@id &lt;t3/&gt;of “&lt;t4/&gt;franchise- intro”&lt;t5/&gt; uses a &lt;t6/&gt;setext&lt;t7/&gt; heading for its title component.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141118Z" creationid="DSS" creationdate="20200816T141118Z">
+        <seg>图&lt;t0/&gt;6.10&lt;t1/&gt;展示了指定 &lt;t2/&gt;@id &lt;t3/&gt;为“&lt;t4/&gt;franchise- intro&lt;t5/&gt; ”扩展配置的 MDITA 话题，该话题文件使用 &lt;t6/&gt;setext&lt;t7/&gt; 语法格式编写标题组件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8739,6 +8779,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Short description</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141132Z" creationid="DSS" creationdate="20200816T141132Z">
+        <seg>简短描述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Short description&lt;t0/&gt;: the purpose or main point of a topic.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T130211Z" creationid="DSS" creationdate="20200804T124852Z">
@@ -10955,6 +11003,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T140617Z" creationid="DSS" creationdate="20200816T135246Z">
         <seg>在经过修正的示例中，标题组件包括表示&lt;t0/&gt;&lt;t1/&gt; &lt;title&gt; &lt;t2/&gt;元素的 XML 标签，提供给用户的实际内容包含在标签之内， </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The title is&lt;t1/&gt; &lt;t2/&gt;marked by a heading 1 in &lt;t3/&gt;atx&lt;t4/&gt; syntax.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141256Z" creationid="DSS" creationdate="20200816T141256Z">
+        <seg>其中标题使用一级标题表示，由&lt;t1/&gt;&lt;t2/&gt; &lt;t3/&gt;atx&lt;t4/&gt; 语法编写。</seg>
       </tuv>
     </tu>
     <tu>
