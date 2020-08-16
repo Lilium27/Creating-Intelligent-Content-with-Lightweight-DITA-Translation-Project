@@ -481,8 +481,8 @@
       <tuv lang="en">
         <seg>&lt;t1/&gt;Those fault lines are still threatening the field's foundation, and even prompted Carolyn Rude to pose the rhetorical question, “In trying to define our field as something more than adjunct to the computer industry engaged in vocational training, have we overcorrected?” &lt;t2/&gt;(2015, &lt;t3/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160521Z" creationid="DSS" creationdate="20200810T140712Z">
-        <seg>这些断层线仍然威胁着技术传播领域的根基，甚至迫使卡罗琳·路德提反问到：“认为技术传播致力于职业培训，试图将技术传播定义为仅比计算机产业的附属物略微高级的领域，这是否矫枉过正了？”&lt;t2/&gt;(2015, &lt;t3/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T100105Z" creationid="DSS" creationdate="20200810T140712Z">
+        <seg>&lt;t1/&gt;这些断层线仍然威胁着技术传播领域的根基，甚至迫使卡罗琳·路德提反问到：“认为技术传播致力于职业培训，试图将技术传播定义为仅比计算机产业的附属物略微高级的领域，这是否矫枉过正了？”&lt;t2/&gt;(2015, &lt;t3/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -554,8 +554,8 @@
       <tuv lang="en">
         <seg>&lt;t11/&gt;Lorena Barba has stronger doubts about the ambitious benefits of Wing's computational thinking.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T145828Z" creationid="DSS" creationdate="20200810T145653Z">
-        <seg>洛雷娜·巴尔巴对温提出的计算机思维所带来的巨大好处持更强烈的怀疑态度。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T100350Z" creationid="DSS" creationdate="20200810T145653Z">
+        <seg>&lt;t11/&gt;洛雷娜·巴尔巴对温提出的计算机思维所带来的巨大好处持更强烈的怀疑态度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1219,8 +1219,8 @@
       <tuv lang="en">
         <seg>&lt;t5/&gt;I see the blending of computational thinking and writing studies discussed in this chapter as a way to patch that fault line and find ways to teach computing principles in our domain without losing our academic and disciplinary identities.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T140714Z" creationid="DSS" creationdate="20200810T140714Z">
-        <seg>我认为将本章中讨论的计算机思维和写作研究结合起来是一种修补断层线的方法，也有助于在不丢失学术和专业身份的情况下，找到在技术传播教授计算原理的对策。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T100206Z" creationid="DSS" creationdate="20200810T140714Z">
+        <seg>&lt;t5/&gt;我认为将本章中讨论的计算机思维和写作研究结合起来是一种修补断层线的方法，也有助于在不丢失学术和专业身份的情况下，找到在技术传播领域教授计算机原理的对策。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1235,8 +1235,8 @@
       <tuv lang="en">
         <seg>&lt;t5/&gt;In this model, automation can be implemented as a problem-solving approach, but only after abstractions are applied in the development of structures in algorithmic workflows.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T134728Z" creationid="DSS" creationdate="20200810T134531Z">
-        <seg>在罗克利和戈尔纳的模型中，自动化可以视作一种解决问题的方法，但必须在算法工作流的结构开发中应用抽象概念才行。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T100056Z" creationid="DSS" creationdate="20200810T134531Z">
+        <seg>&lt;t5/&gt;在罗克利和戈尔纳的模型中，自动化可以视作一种解决问题的方法，但必须在算法工作流的结构开发中应用抽象概念才行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1307,8 +1307,8 @@
       <tuv lang="en">
         <seg>&lt;t6/&gt;Guzdial adds that “achieving the goals of applying computing ideas to facilitate computing work in other disci&lt;t7/&gt;plines is clearly achievable,” but “applying computing ideas in daily life is less likely” &lt;t8/&gt;(2016, &lt;t9/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160534Z" creationid="DSS" creationdate="20200810T145652Z">
-        <seg>古齐亚尔补充说，“应用计算机思维来促进其他学科中的计算工作的目标显然是可以实现的，”但是“在日常生活中应用计算机是不太可能的”&lt;t8/&gt; (2016, &lt;t9/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T100217Z" creationid="DSS" creationdate="20200810T145652Z">
+        <seg>&lt;t6/&gt;古齐亚尔补充说，“应用计算机思维来促进其他学科中的计算工作的目标显然是可以实现的，”但是“在日常生活中应用计算机是不太可能的”&lt;t8/&gt; (2016, &lt;t9/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
