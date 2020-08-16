@@ -1179,8 +1179,8 @@
       <tuv lang="en">
         <seg>&lt;t4/&gt;Figure 6.11&lt;t5/&gt; shows a short description in the introductory XDITA topic for the &lt;t6/&gt;Sensei Sushi&lt;t7/&gt; franchise brochure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141228Z" creationid="DSS" creationdate="20200816T141228Z">
-        <seg>图&lt;t4/&gt;6.11&lt;t5/&gt;展示了用 XDITA 编写的关于&lt;t6/&gt;Sensei Sushi&lt;t7/&gt;特许经营权手册的基础话题，其中包含简短描述组件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T160730Z" creationid="DSS" creationdate="20200816T141228Z">
+        <seg>图&lt;t4/&gt;6.11&lt;t5/&gt;展示了用 XDITA 编写的介绍 &lt;t6/&gt;Sensei Sushi&lt;t7/&gt; 特许经营权的话题，其中包含简短描述组件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1427,8 +1427,8 @@
       <tuv lang="en">
         <seg>&lt;t7/&gt;Figure 6.9&lt;t8/&gt; shows the franchise introductory topic in MDITA core profile with an &lt;t9/&gt;atx&lt;t10/&gt; heading for its title.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141024Z" creationid="DSS" creationdate="20200816T141024Z">
-        <seg>图&lt;t7/&gt;6.9&lt;t8/&gt; 展示了根据 MDITA 核心规定编写的特许经营权的基础话题，其标题使用&lt;t9/&gt; atx&lt;t10/&gt; 语法格式编写。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T160512Z" creationid="DSS" creationdate="20200816T141024Z">
+        <seg>图&lt;t7/&gt;6.9&lt;t8/&gt; 展示了根据 MDITA 核心规定编写的介绍特许经营权的话题，其标题使用&lt;t9/&gt; atx&lt;t10/&gt; 语法格式编写。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10512,8 +10512,8 @@
       <tuv lang="en">
         <seg>The example in &lt;t3/&gt;Figure &lt;t4/&gt;6.14&lt;t5/&gt; &lt;t6/&gt;adds a body component, with a paragraph, to the franchise introduction topic in XDITA:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T142208Z" creationid="DSS" creationdate="20200816T142010Z">
-        <seg>图&lt;t3/&gt;6.14&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;展示的 XIDTA 格式的特许经营权简介话题，示例包含主体组件和段落组件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T161416Z" creationid="DSS" creationdate="20200816T142010Z">
+        <seg>图&lt;t3/&gt;6.14&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;展示一个 XIDTA 格式的话题示例，介绍了特许经济区，该示例包含主体组件和段落组件。</seg>
       </tuv>
     </tu>
     <tu>
