@@ -4527,6 +4527,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;6.18 &lt;t1/&gt;Definition list environment in HDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T160018Z" creationid="DSS" creationdate="20200816T160018Z">
+        <seg>图&lt;t0/&gt;6.18&lt;t1/&gt; HDITA 中的定义列表组件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Figure 6.5&lt;t0/&gt; shows the &lt;t1/&gt;franchise.intro.md&lt;t2/&gt; topic with an assigned &lt;t3/&gt;@id &lt;t4/&gt;of &lt;t5/&gt;sensei- &lt;t6/&gt;intro&lt;t7/&gt; &lt;t8/&gt;that would override the &lt;t9/&gt;@id &lt;t10/&gt;generated with the file's name.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T135906Z" creationid="DSS" creationdate="20200816T134439Z">
@@ -5691,6 +5699,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T074947Z" creationid="DSS" creationdate="20200807T074947Z">
         <seg>如果厨师佩德罗需要的只是一个简单的网页版宣传手册，并且地图中引用的所有话题都是由 HDITA 格式创建的，那么地图就可以提供导航结构。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If an author needs to include a definition list in MDITA, the recommendation is to take advantage of the MDITA extended profile and express the definition list with a raw code block of HDITA syntax.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T155933Z" creationid="DSS" creationdate="20200816T155933Z">
+        <seg>如果创作者需要在 MDITA 中使用定义列表，建议利用 MDITA 的扩展配置，并用 HDITA 语法的原始代码块表示定义列表。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10341,6 +10357,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The component includes&lt;t2/&gt; one or more definition list entries, each with a definition term and a definition description.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T155908Z" creationid="DSS" creationdate="20200816T155908Z">
+        <seg>该组件包括一个或多个定义列表条目，每个条目都有一个定义术语和一个定义描述。&lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The concept of abstraction is also quite prevalent in the introductory literature to computing architecture.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T074854Z" creationid="DSS" creationdate="20200808T074854Z">
@@ -10546,6 +10570,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T041532Z" creationid="DSS" creationdate="20200808T041513Z">
         <seg>下一章将介绍 LwDITA 中主要的话题组件，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following example (&lt;t0/&gt;Figure &lt;t1/&gt;6.19)&lt;t2/&gt; &lt;t3/&gt;shows the definition list in MDITA extended profile with an HDITA code snippet.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T160004Z" creationid="DSS" creationdate="20200816T160004Z">
+        <seg>图&lt;t0/&gt;&lt;t1/&gt;6.19&lt;t2/&gt;&lt;t3/&gt;的所示示例包含一段 HDITA 代码片段，该示例展示了如何在 MDITA 扩展配置中使用定义列表。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11623,6 +11655,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There is no direct equivalent for a definition list in MDITA core profile, although some Markdown flavors do have a way to represent this component.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T155921Z" creationid="DSS" creationdate="20200816T155921Z">
+        <seg>尽管使用 Markdown 语法确实可以表示出定义列表，但在 MDITA 的核心定义中，没有与定义列表直接对应的组件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There's no business model for that.”</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200731T140246Z" creationid="lenovo" creationdate="20200731T140213Z">
@@ -12510,6 +12550,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T134206Z" creationid="DSS" creationdate="20200804T134206Z">
         <seg>下划线（underline）&lt;t0/&gt;是仅靠文字底部的水平线。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unlike its counterpart in&lt;t2/&gt; XDITA, this definition list does not need the holding definition entry environment to contain pairs of definition term and definition description.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T160224Z" creationid="DSS" creationdate="20200816T160224Z">
+        <seg>与 XDITA 中的定义列表组件不同的是，本例中定义列表不需要定义条目来包裹成对的定义术语和定义描述。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
