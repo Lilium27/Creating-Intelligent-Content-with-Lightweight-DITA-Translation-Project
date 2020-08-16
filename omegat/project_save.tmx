@@ -454,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t0/&gt;Figure &lt;t1/&gt;6.12&lt;t2/&gt; &lt;t3/&gt;shows the introductory topic with a short description paragraph in HDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141549Z" creationid="DSS" creationdate="20200816T141549Z">
+        <seg>图&lt;t0/&gt;6.12&lt;t1/&gt;展示了 HDITA 基础组件中用于简短描述的段落。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t1/&gt;2012, &lt;t2/&gt;p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144403Z" creationid="DSS" creationdate="20200724T154301Z">
@@ -4238,6 +4246,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE 6.10 &lt;t0/&gt;Sample MDITA extended profile topic with a title component.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141344Z" creationid="DSS" creationdate="20200816T141344Z">
+        <seg>图6.10 &lt;t0/&gt;包含标题组件和扩展配置的 MDITA 话题示例，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE 6.2 &lt;t0/&gt;Validation error reported by Oxygen XML Editor.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T153432Z" creationid="DSS" creationdate="20200813T151548Z">
@@ -4407,6 +4423,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;6.11 &lt;t1/&gt;XDITA topic with a short description component.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141420Z" creationid="DSS" creationdate="20200816T141420Z">
+        <seg>图&lt;t0/&gt;6.11&lt;t1/&gt; 包含简短描述组件的 XDITA 话题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Figure 6.5&lt;t0/&gt; shows the &lt;t1/&gt;franchise.intro.md&lt;t2/&gt; topic with an assigned &lt;t3/&gt;@id &lt;t4/&gt;of &lt;t5/&gt;sensei- &lt;t6/&gt;intro&lt;t7/&gt; &lt;t8/&gt;that would override the &lt;t9/&gt;@id &lt;t10/&gt;generated with the file's name.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T135906Z" creationid="DSS" creationdate="20200816T134439Z">
@@ -4451,6 +4475,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T041025Z" creationid="DSS" creationdate="20200807T070824Z">
         <seg>图&lt;t0/&gt;5.9&lt;t1/&gt;&lt;t2/&gt;展示了利用 DITA-OT 转换 XDITA 格式的地图，并生成 PDF 交付文件所需输入的命令，它与转换 DITA 格式的地图所需的命令非常相似。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;t0/&gt;6.13&lt;t1/&gt; &lt;t2/&gt;presents the same topic in MDITA extended profile, which includes the YAML header with an assigned &lt;t3/&gt;@id&lt;t4/&gt;, an &lt;t5/&gt;atx&lt;t6/&gt; heading for the title, and the short description implied in the first paragraph.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141621Z" creationid="DSS" creationdate="20200816T141621Z">
+        <seg>图&lt;t0/&gt;6.13&lt;t1/&gt;展示含有扩展配置的MDITA话题示例，包含指定 &lt;t3/&gt;@id&lt;t4/&gt; 的YAML头、 &lt;t5/&gt;atx&lt;t6/&gt; 语法格式的标题，以及隐藏在第一段中的简短描述。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4875,6 +4907,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T133200Z" creationid="DSS" creationdate="20200816T133200Z">
         <seg>HDITA 格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>HDITA and MDITA</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141455Z" creationid="DSS" creationdate="20200816T141455Z">
+        <seg>HDITA 和 MDITA 格式</seg>
       </tuv>
     </tu>
     <tu>
@@ -5843,6 +5883,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T152423Z" creationid="DSS" creationdate="20200803T152324Z">
         <seg>在 DITA 中，每个内容&lt;t0/&gt;组件&lt;t1/&gt;都对应着 XML 中的一个&lt;t2/&gt;元素&lt;t3/&gt;（例如，段落对应&lt;t4/&gt;&lt;p&gt;&lt;t5/&gt;，短描述对应&lt;t6/&gt;&lt;shortdesc&gt;&lt;t7/&gt;）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In HDITA and MDITA topics, the optional short description is implied in the first paragraph of content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141502Z" creationid="DSS" creationdate="20200816T141502Z">
+        <seg>在 HDITA 和 MDITA 话题中，可选的简短描述组件隐含在内容的第一个段落中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10487,6 +10535,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The opening and&lt;t2/&gt; closing tags of &lt;t3/&gt;&lt;shortdesc&gt; &lt;t4/&gt;hold content that the authors can use as a staging rhetorical move in the topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141437Z" creationid="DSS" creationdate="20200816T141437Z">
+        <seg>创作者可以使用简短描述组件作为话题阶段过渡的修辞文步，过度内容嵌套在 &lt;t3/&gt;&lt;shortdesc&gt; &lt;t4/&gt;的开始和结束标签之内。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The original DITA &lt;t0/&gt;1.0 &lt;t1/&gt;technical specification is still available on the DITA Technical Committee website&lt;t2/&gt;1&lt;t3/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T023709Z" creationid="lenovo" creationdate="20200812T023709Z">
@@ -11009,8 +11065,8 @@
       <tuv lang="en">
         <seg>The title is&lt;t1/&gt; &lt;t2/&gt;marked by a heading 1 in &lt;t3/&gt;atx&lt;t4/&gt; syntax.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141256Z" creationid="DSS" creationdate="20200816T141256Z">
-        <seg>其中标题使用一级标题表示，由&lt;t1/&gt;&lt;t2/&gt; &lt;t3/&gt;atx&lt;t4/&gt; 语法编写。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141329Z" creationid="DSS" creationdate="20200816T141256Z">
+        <seg>由&lt;t1/&gt;&lt;t2/&gt; &lt;t3/&gt;atx&lt;t4/&gt; 语法编写。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11163,6 +11219,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144036Z" creationid="DSS" creationdate="20200726T154404Z">
         <seg>这个&lt;t1/&gt;结构化的菜谱内容组织有序，有助于计算机理解并操作元素和属性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The&lt;t1/&gt; title is marked by a heading 1 in &lt;t2/&gt;setext&lt;t3/&gt; syntax.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141403Z" creationid="DSS" creationdate="20200816T141403Z">
+        <seg>&lt;t1/&gt;其中标题使用一级标题表示，由 &lt;t2/&gt;setext&lt;t3/&gt; 语法编写。</seg>
       </tuv>
     </tu>
     <tu>
