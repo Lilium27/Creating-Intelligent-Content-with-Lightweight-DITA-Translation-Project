@@ -1057,6 +1057,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t3/&gt;Thus, in HDITA the definition list environment looks as shown in &lt;t4/&gt;Figure &lt;t5/&gt;6.18&lt;t6/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T155706Z" creationid="DSS" creationdate="20200816T155706Z">
+        <seg>&lt;t3/&gt;因此，在 HDITA  中，定义列表组件如图&lt;t4/&gt;&lt;t5/&gt;6.18&lt;t6/&gt;所示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t3/&gt;Using that toolkit, known as the DITA Open Toolkit (OT), or a software tool that uses the Open Toolkit, Chef Pedro can produce quick information deliverables.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145316Z" creationid="DSS" creationdate="20200725T073835Z">
@@ -1429,6 +1437,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T135117Z" creationid="lenovo" creationdate="20200811T135021Z">
         <seg>&lt;t7/&gt;我添加了一些额外元素(粗体显示)来实现普里斯特利等人在前一段中提到的信息类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t7/&gt;Note that the “minimize elements that allow mixed content” also applies to HDITA topics.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T155722Z" creationid="DSS" creationdate="20200816T155722Z">
+        <seg>&lt;t7/&gt;请注意，“包含混合内容的最小化元素”原则也适用于  HDITA 话题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3901,6 +3917,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Each term-description group consists of one or more terms (represented by &lt;dt&gt; elements), and one or more descriptions (represented by &lt;dd&gt; elements)” (W3C, &lt;t2/&gt;2017).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T155624Z" creationid="DSS" creationdate="20200816T155624Z">
+        <seg>每个术语描述组由一个或多个术语 (由&lt;dt&gt;元素表示) 和一个或多个描述 (由&lt;dd&gt;元素表示)  组成”(W3C, 2017)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Each topic is long enough to make sense on its own, but short enough to stick to one point without expanding into other sub&lt;t0/&gt;jects” (Bellamy et al.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130757Z" creationid="DSS" creationdate="20200724T154251Z">
@@ -4483,6 +4507,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141714Z" creationid="DSS" creationdate="20200816T141714Z">
         <seg>图&lt;t0/&gt;6.13 &lt;t1/&gt;包含简短描述组件的 MDITA 话题，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;6.16 &lt;t1/&gt;MDITA topic with paragraph components.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T155736Z" creationid="DSS" creationdate="20200816T155736Z">
+        <seg>图&lt;t0/&gt;6.16&lt;t1/&gt;包含段落组件的 MDITA 话题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;6.17 &lt;t1/&gt;Definition list environment in XDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T155837Z" creationid="DSS" creationdate="20200816T155837Z">
+        <seg>图&lt;t0/&gt;6.17&lt;t1/&gt; XDITA 中的定义列表组件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6015,6 +6055,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In MDITA, a paragraph&lt;t2/&gt; is a sequence of non-blank lines and should be visually separated from other content components by a return or enter.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T155816Z" creationid="DSS" creationdate="20200816T155816Z">
+        <seg>在 MDITA 中，段落是非空行序列，应该使用回车将段落和其他内容组件划分开来。&lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In MDITA, the required &lt;t6/&gt;@id &lt;t7/&gt;should be automatically generated when the topic is saved, through a “slug”-generation process.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T133911Z" creationid="DSS" creationdate="20200816T133911Z">
@@ -6187,6 +6235,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130735Z" creationid="DSS" creationdate="20200726T141200Z">
         <seg>在博客和社交媒体的推文中，有的从业者表现出了&lt;t0/&gt;&lt;t1/&gt;对 XML 和 DITA 作为信息产品的主要标记语言的质疑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In cases like this one, an LwDITA-aware editor can help with tag autocompletion and authorial guidance.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T155553Z" creationid="DSS" creationdate="20200816T155553Z">
+        <seg>在这种情况下，支持 LwDITA 的编辑器可以提供一些帮助，包括自动填充标签和提供写作指引。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10133,6 +10189,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The W3C recommendation for HTML explains the &lt;t0/&gt;&lt;dl&gt; &lt;t1/&gt;element as a “description list of zero or more term-description groups.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T155610Z" creationid="DSS" creationdate="20200816T155610Z">
+        <seg>在 W3C 对 HTML 的介绍中，W3C 将 &lt;t0/&gt;&lt;dl&gt; &lt;t1/&gt;元素定义为 “由零个或多个术语述组组成的描述列表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The XDITA Map</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T062442Z" creationid="DSS" creationdate="20200807T062442Z">
@@ -11243,6 +11307,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131051Z" creationid="DSS" creationdate="20200731T084840Z">
         <seg>该系统可用于制作自学书籍，也可用于规范计算机辅助教学的数据库。&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The tags required for declaring the list, its entries, terms, and descriptions do not look extremely lightweight.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T155544Z" creationid="DSS" creationdate="20200816T155544Z">
+        <seg>声明列表及其条目、术语和描述所学的标签并不轻量。</seg>
       </tuv>
     </tu>
     <tu>
