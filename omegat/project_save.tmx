@@ -2849,6 +2849,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Before I fix the XDITA topic to remove the error messages, I will present the mapping of the XDITA element of topic to the HDITA and MDITA authoring formats.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T133150Z" creationid="DSS" creationdate="20200816T133150Z">
+        <seg>在修正上文展示的 XDITA 话题，清除验证错误提示之前，我将展示如何把 XDITA 格式的话题元素映射到 HDITA 和 MDITA 格式上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before Intelligent Content, There Was the Computer Manual &lt;t0/&gt;47 &lt;t1/&gt;fiction a paragraph might be the main element, in technical information authors required “other means of differentiating information” (p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130926Z" creationid="lenovo" creationdate="20200811T022238Z">
@@ -4743,6 +4751,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>HDITA</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T133200Z" creationid="DSS" creationdate="20200816T133200Z">
+        <seg>HDITA 格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HDITA is the authoring format of LwDITA that uses HTML5 to structure information.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T030230Z" creationid="lenovo" creationdate="20200813T030230Z">
@@ -5683,6 +5699,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T152423Z" creationid="DSS" creationdate="20200803T152324Z">
         <seg>在 DITA 中，每个内容&lt;t0/&gt;组件&lt;t1/&gt;都对应着 XML 中的一个&lt;t2/&gt;元素&lt;t3/&gt;（例如，段落对应&lt;t4/&gt;&lt;p&gt;&lt;t5/&gt;，短描述对应&lt;t6/&gt;&lt;shortdesc&gt;&lt;t7/&gt;）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In HDITA, &lt;t4/&gt;&lt;article&gt; &lt;t5/&gt;has a required &lt;t6/&gt;@id&lt;t7/&gt;, that could have the same value as the file's name.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T133254Z" creationid="DSS" creationdate="20200816T133254Z">
+        <seg>在HDITA中，&lt;t4/&gt;&lt;article&gt; &lt;t5/&gt;有必须要有 &lt;t6/&gt;@id&lt;t7/&gt;属性，其值可以和文件名相同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9441,6 +9465,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T070854Z" creationid="DSS" creationdate="20200807T070854Z">
         <seg>HDITA 格式的地图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The HTML5 semantic tag of &lt;t0/&gt;&lt;article&gt; &lt;t1/&gt;provides a content environment similar to the &lt;t2/&gt;&lt;topic&gt; &lt;t3/&gt;component from XDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T133231Z" creationid="DSS" creationdate="20200816T133231Z">
+        <seg>HTML5 的语义标签 &lt;t0/&gt;&lt;article&gt; &lt;t1/&gt;的提供了类似于 XDITA 中 &lt;t2/&gt;&lt;topic&gt; &lt;t3/&gt;组件的内容环境。</seg>
       </tuv>
     </tu>
     <tu>
