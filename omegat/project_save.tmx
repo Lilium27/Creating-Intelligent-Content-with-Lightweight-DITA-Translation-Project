@@ -438,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t0/&gt;Figure 6.4&lt;t1/&gt; reproduces the essential topic with a placeholder com&lt;t2/&gt;ment for content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T133739Z" creationid="DSS" creationdate="20200816T133739Z">
+        <seg>图6.4展示了一个重新生成的基础话题，并用注释为内容占位。Markdown不需要标题，因此即使示例只有一行注释，也是一个有效的基础话题（但该话题在实际应用中毫无用处）。你可以在任何文本编辑器或支持LwDITA的工具中创建该文件，并将其保存为franchise-intro.md.。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t1/&gt;2012, &lt;t2/&gt;p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144403Z" creationid="DSS" creationdate="20200724T154301Z">
@@ -4174,6 +4182,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE 6.3 &lt;t0/&gt;Minimal HDITA topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T133626Z" creationid="DSS" creationdate="20200816T133626Z">
+        <seg>图6.3 最简化的 HDITA 话题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;1.1 &lt;t1/&gt;Screen capture from the video “The Future of Technical Communication,” by Adobe Technical Communication Suite.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T142810Z" creationid="DSS" creationdate="20200724T121058Z">
@@ -5727,6 +5743,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In MDITA core profile, any structure saved as Markdown format can work as a basic topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T133737Z" creationid="DSS" creationdate="20200816T133737Z">
+        <seg>在 MDITA 的核心规定中，任何保存为 Markdown 格式的结构都可以作为基础话题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In March of &lt;t0/&gt;2012, &lt;t1/&gt;when Michael Priestley officially proposed the development of a “lightweight framework for representing DITA topics,” it was a given that Lightweight DITA would be based on XML.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131233Z" creationid="lenovo" creationdate="20200813T015444Z">
@@ -6081,8 +6105,8 @@
       <tuv lang="en">
         <seg>In the following example, the &lt;t8/&gt;@id &lt;t9/&gt;attribute on &lt;t10/&gt;&lt;article&gt; &lt;t11/&gt;is “&lt;t12/&gt;franchise-intro”&lt;t13/&gt;, and the file can be saved as &lt;t14/&gt;franchise-intro.html&lt;t15/&gt; (&lt;t16/&gt;Figure 6.3&lt;t17/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T133525Z" creationid="DSS" creationdate="20200816T133525Z">
-        <seg>在下例中，&lt;article&gt;的 &lt;t8/&gt;@id &lt;t9/&gt;属性值是"&lt;t12/&gt;franchise-intro&lt;t13/&gt;"，文件保存为&lt;t14/&gt;franchise-intro.html&lt;t15/&gt;(图&lt;t16/&gt;6.3&lt;t17/&gt;)。文件中的第一行代码表明应该按照HTML格式识别HDITA话题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T133558Z" creationid="DSS" creationdate="20200816T133525Z">
+        <seg>在下例中，&lt;article&gt;的 &lt;t8/&gt;@id &lt;t9/&gt;属性值是"&lt;t12/&gt;franchise-intro&lt;t13/&gt;"，文件保存为&lt;t14/&gt;franchise-intro.html&lt;t15/&gt;(图&lt;t16/&gt;6.3&lt;t17/&gt;)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6815,6 +6839,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Just like the XDITA example in &lt;t4/&gt;Figure 6.1&lt;t5/&gt;, the HDITA topic requires a &lt;t6/&gt;&lt;title&gt; &lt;t7/&gt;element, which I will add in the following section.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T133656Z" creationid="DSS" creationdate="20200816T133656Z">
+        <seg>与图6.1中的XDITA示例一样，HDITA话题需要 &lt;t6/&gt;&lt;title&gt; &lt;t7/&gt;元素，我将在下一节中添加该元素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keep in mind that DITA &lt;t65/&gt;1.3 &lt;t66/&gt;has &lt;t67/&gt;26 &lt;t68/&gt;document types.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150635Z" creationid="DSS" creationdate="20200726T074753Z">
@@ -7147,6 +7179,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131019Z" creationid="lenovo" creationdate="20200812T043329Z">
         <seg>因此，轻量级DITA可以成为标准的极简版本，它减少了标记的数量，为作者提供DITA 1.3的结构和发布功能。&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MDITA</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T133727Z" creationid="DSS" creationdate="20200816T133727Z">
+        <seg>MDITA 格式</seg>
       </tuv>
     </tu>
     <tu>
@@ -9934,6 +9974,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The first line of code in the file is establishing that the HDITA topic should be validated as HTML.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T133616Z" creationid="DSS" creationdate="20200816T133616Z">
+        <seg>文件中的第一行代码表明应该按照HTML格式识别HDITA话题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The first list item mixes character data with a child element (a paragraph in this case).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T140133Z" creationid="lenovo" creationdate="20200813T140133Z">
@@ -10735,6 +10783,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The validation process of an HTML5 file as an HDITA topic will be application-specific, as HTML does not have a customizable document type definition or schema syntax.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T133555Z" creationid="DSS" creationdate="20200816T133555Z">
+        <seg>验证 HTML5 格式的 HDITA 话题，需要使用特定软件，因为 HTML 没有特定的文档类型定义和模式语法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The value for the &lt;t8/&gt;--&lt;t9/&gt;input&lt;t10/&gt; argument directs the DITA-OT to the specific folder where you stored the &lt;t11/&gt;marinara-critique.ditamap &lt;t12/&gt;file (the &lt;t13/&gt;path-to-file&lt;t14/&gt; section of the command, which you should replace with the actual path to the file in your computer).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T115654Z" creationid="DSS" creationdate="20200806T114857Z">
@@ -11231,6 +11287,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file, however, is not valid HTML5.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T133644Z" creationid="DSS" creationdate="20200816T133644Z">
+        <seg>但是这个文件不是有效的 HTML5 文件，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This idea of adding metadata to facilitate modular reuse of text, I first encountered it with a (female) technical com&lt;t0/&gt;municator at IBM, at the Raleigh lab in the early 90s.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130832Z" creationid="lenovo" creationdate="20200804T031344Z">
@@ -11355,6 +11419,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T001755Z" creationid="lenovo" creationdate="20200810T001755Z">
         <seg>这只会让用户感到困惑。” (1976, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This topic needs the HTML5 element of&lt;t1/&gt; &lt;t2/&gt;&lt;article&gt; &lt;t3/&gt;to create an environment for content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T133639Z" creationid="DSS" creationdate="20200816T133639Z">
+        <seg>本话题使用HTML5的&lt;t1/&gt; &lt;t2/&gt;&lt;article&gt; &lt;t3/&gt;元素创建内容环境，</seg>
       </tuv>
     </tu>
     <tu>
