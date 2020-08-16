@@ -4431,6 +4431,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;6.12 &lt;t1/&gt;HDITA topic with a short description component.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141637Z" creationid="DSS" creationdate="20200816T141637Z">
+        <seg>图 &lt;t0/&gt;6.12 &lt;t1/&gt;包含简短描述组件的 HDITA 话题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Figure 6.5&lt;t0/&gt; shows the &lt;t1/&gt;franchise.intro.md&lt;t2/&gt; topic with an assigned &lt;t3/&gt;@id &lt;t4/&gt;of &lt;t5/&gt;sensei- &lt;t6/&gt;intro&lt;t7/&gt; &lt;t8/&gt;that would override the &lt;t9/&gt;@id &lt;t10/&gt;generated with the file's name.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T135906Z" creationid="DSS" creationdate="20200816T134439Z">
@@ -5595,6 +5603,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T074947Z" creationid="DSS" creationdate="20200807T074947Z">
         <seg>如果厨师佩德罗需要的只是一个简单的网页版宣传手册，并且地图中引用的所有话题都是由 HDITA 格式创建的，那么地图就可以提供导航结构。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If authors need more structure and their workflows require identifying a first paragraph as a short description, they should use the XDITA syntax instead.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141653Z" creationid="DSS" creationdate="20200816T141653Z">
+        <seg>如果作者需要使用更多结构，并且其工作流需要将第一格段标识为简短描述的话，应该使用 XDITA 语法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10891,6 +10907,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T235429Z" creationid="lenovo" creationdate="20200808T082241Z">
         <seg>里戈在大纲中定义的章节详尽地阐述了体裁的修辞惯例（至少是作者定义的那些惯例），包括以下内容：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The short&lt;t2/&gt; description defaults to the first paragraph in an HTML file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141650Z" creationid="DSS" creationdate="20200816T141650Z">
+        <seg>&lt;t2/&gt;简短描述的默认位置为 HTML 文件的第一个段落，</seg>
       </tuv>
     </tu>
     <tu>
