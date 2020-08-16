@@ -785,6 +785,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t2/&gt;Figure &lt;t3/&gt;6.22&lt;t4/&gt; &lt;t5/&gt;shows an unordered, or bulleted, list with features of the &lt;t6/&gt;Sensei Sushi&lt;t7/&gt; franchise in an XDITA topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T161602Z" creationid="DSS" creationdate="20200816T161602Z">
+        <seg>&lt;t2/&gt;&lt;t3/&gt;图6.22&lt;t4/&gt;&lt;t5/&gt;展示了一个 XDITA 话题中的无序列表，或者说项目符号列表，该列表包含了&lt;t6/&gt; Sensei Sushi&lt;t7/&gt; 特许经营权的各项特性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t2/&gt;In DITA &lt;t3/&gt;1.3, &lt;t4/&gt;for example, a list item can have mixed content (e.g., child ele&lt;t5/&gt;ments like a paragraph combined with non-whitespace character data like text).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131254Z" creationid="lenovo" creationdate="20200813T134623Z">
@@ -1259,8 +1267,8 @@
       <tuv lang="en">
         <seg>&lt;t5/&gt;Figure &lt;t6/&gt;6.20&lt;t7/&gt; &lt;t8/&gt;includes an ordered list in XDITA giving steps that a potential investor should go through to obtain the franchise license.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T160501Z" creationid="DSS" creationdate="20200816T160501Z">
-        <seg>图&lt;t5/&gt;&lt;t6/&gt;6.20&lt;t7/&gt;&lt;t8/&gt;展示了 XDITA 中的一个有序列表，该列表表示潜在投资者购买特许经营权许可证的步骤。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T161444Z" creationid="DSS" creationdate="20200816T160501Z">
+        <seg>图&lt;t5/&gt;&lt;t6/&gt;6.20&lt;t7/&gt;&lt;t8/&gt;展示了 XDITA 中的一个有序列表，该列表描述了潜在投资者购买特许经营权许可证的步骤。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2765,6 +2773,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T154957Z" creationid="DSS" creationdate="20200804T154957Z">
         <seg>音频（audio）&lt;t0/&gt;：内容中包含的音频链接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Authors coming to XDITA from HTML5 might find that unusual, but this can simplify content reuse in more advanced situations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T161504Z" creationid="DSS" creationdate="20200816T161504Z">
+        <seg>从 HTML5 转到 XDITA 的创作者可能会觉得这有些奇怪，但这可以在更复杂的情况下简化内容复用过程。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4334,6 +4350,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE 6.21</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T161631Z" creationid="DSS" creationdate="20200816T161631Z">
+        <seg>图6.21 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE 6.3 &lt;t0/&gt;Minimal HDITA topic.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T135758Z" creationid="DSS" creationdate="20200816T133626Z">
@@ -4551,6 +4575,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;6.20 &lt;t1/&gt;Ordered list environment in XDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T161616Z" creationid="DSS" creationdate="20200816T161616Z">
+        <seg>图&lt;t0/&gt;6.20&lt;t1/&gt; XDITA 中的有序列表组件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Figure 6.5&lt;t0/&gt; shows the &lt;t1/&gt;franchise.intro.md&lt;t2/&gt; topic with an assigned &lt;t3/&gt;@id &lt;t4/&gt;of &lt;t5/&gt;sensei- &lt;t6/&gt;intro&lt;t7/&gt; &lt;t8/&gt;that would override the &lt;t9/&gt;@id &lt;t10/&gt;generated with the file's name.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T135906Z" creationid="DSS" creationdate="20200816T134439Z">
@@ -4603,6 +4635,15 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T142150Z" creationid="DSS" creationdate="20200816T141621Z">
         <seg>图&lt;t0/&gt;6.13&lt;t1/&gt;&lt;t2/&gt;展示含有扩展配置的MDITA话题示例，包含指定 &lt;t3/&gt;@id&lt;t4/&gt; 的YAML头、 &lt;t5/&gt;atx&lt;t6/&gt; 语法格式的标题，以及隐藏在第一段中的简短描述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;t0/&gt;6.23&lt;t1/&gt; &lt;t2/&gt;shows the same topic in HDITA syntax.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T161704Z" creationid="DSS" creationdate="20200816T161704Z">
+        <seg>图&lt;t0/&gt;&lt;t1/&gt;6.23&lt;t2/&gt;展示了用 HDITA 语法编写的同一话题。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -8329,6 +8370,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ordered list environment in HDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T161636Z" creationid="DSS" creationdate="20200816T161636Z">
+        <seg>HDITA 中的有序列表组件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ordered list&lt;t0/&gt;: a series of items sorted by sequence or order of importance.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T131222Z" creationid="DSS" creationdate="20200804T131222Z">
@@ -10381,6 +10430,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The component follows the&lt;t0/&gt; same structure as its counterpart in XDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T161643Z" creationid="DSS" creationdate="20200816T161643Z">
+        <seg>该组件与 XDITA 中的有序列表组件有着相同的结构。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The component includes&lt;t2/&gt; one or more definition list entries, each with a definition term and a definition description.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T155908Z" creationid="DSS" creationdate="20200816T155908Z">
@@ -10851,6 +10908,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T142129Z" creationid="DSS" creationdate="20200816T141437Z">
         <seg>&lt;t2/&gt;创作者可以使用简短描述组件作为话题阶段过渡的修辞文步，过度内容嵌套在 &lt;t3/&gt;&lt;shortdesc&gt; &lt;t4/&gt;的开始和结束标签之内。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The ordered list would look as follows (&lt;t0/&gt;Figure &lt;t1/&gt;6.21&lt;t2/&gt;) &lt;t3/&gt;in HDITA:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T161522Z" creationid="DSS" creationdate="20200816T161522Z">
+        <seg>在 HDITA 中，有序列表看起来如图&lt;t0/&gt;&lt;t1/&gt;6.21&lt;t2/&gt;&lt;t3/&gt;所示：</seg>
       </tuv>
     </tu>
     <tu>
@@ -11463,6 +11528,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The unordered list (&lt;t0/&gt;&lt;ul&gt;&lt;t1/&gt;) is a very similar component.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T161533Z" creationid="DSS" creationdate="20200816T161533Z">
+        <seg>无序列表组件 (&lt;t0/&gt;&lt;ul&gt;&lt;t1/&gt;) 与有序列表组件类似。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The validation of Markdown files as MDITA topics will also be application-specific.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T134723Z" creationid="DSS" creationdate="20200816T134723Z">
@@ -11563,6 +11636,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131258Z" creationid="lenovo" creationdate="20200813T143013Z">
         <seg>“最小化混合内容”规则也简化DITA XML的内容复用机制：例如，在DITA中来自一个命令 （&lt;t0/&gt;&lt;cmd&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;）的内容在一个任务的步骤(步骤&gt; &lt;)只能使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The “minimize mixed content” rule in LwDITA wraps content from the list items in paragraphs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T161451Z" creationid="DSS" creationdate="20200816T161451Z">
+        <seg>根据 LwDITA 中“最小化混合内容”的原则，列表项内容会被包裹在段落标签中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The “minimize mixed content”&lt;t2/&gt; rule forces authors to wrap the content of each list item in paragraphs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T161627Z" creationid="DSS" creationdate="20200816T161627Z">
+        <seg>“最小化混合内容”原则要求创作者将每个列表项内容都包裹在段落标签中。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
