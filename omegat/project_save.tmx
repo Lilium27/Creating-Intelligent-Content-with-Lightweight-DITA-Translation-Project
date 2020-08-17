@@ -5368,6 +5368,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For readers already familiar with the DITA standard, a concise version would say that LwDITA is “like DITA but with fewer XML tags.” A publishing work&lt;t0/&gt;flow based on LwDITA can benefit from many of the popular content reuse and structuring mechanisms available in DITA, but without the long catalog of ele&lt;t1/&gt;ment structures (or pigeonholes, as &lt;t2/&gt;Chapter &lt;t3/&gt;2&lt;t4/&gt; &lt;t5/&gt;described them) that has given the DITA standard a reputation for being overwhelming to authors &lt;t6/&gt;- &lt;t7/&gt;particularly those who are new to structured authoring.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T090831Z" creationid="DSS" creationdate="20200817T090831Z">
+        <seg>对于已经熟悉 DITA 标准的读者来说，简化版的 LwDITA “类似于 DITA，但是使用到的 XML 标签更少”。基于 LwDITA 的发布工作流得益于 DITA 中许多受欢迎的内容复用和内容搭建机制，同时又没有了冗长的元素结构（或者第二章里提到的鸽笼式结构），这些元素结构让作者们觉得 DITA 标准负担过重，尤其对那些刚开始接触结构化创作的创作者来说。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For some, technical communi&lt;t2/&gt;cation is still about structured information and intelligent content that adapts to users' needs.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T085343Z" creationid="DSS" creationdate="20200817T085343Z">
@@ -6993,6 +7001,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In comparison to DITA &lt;t0/&gt;1.3, &lt;t1/&gt;LwDITA has a smaller element type and attribute set, stricter con&lt;t2/&gt;tent models, and a reduced feature set.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T090650Z" creationid="DSS" creationdate="20200817T090650Z">
+        <seg>与 DITA 标准1.3版本相比，LwDITA 拥有更小的元素类型和属性集、更严格的内容模型和更小的特征集。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In conference presentations and publications (Priestley et al., &lt;t7/&gt;2001; &lt;t8/&gt;Priestley, &lt;t9/&gt;2001), &lt;t10/&gt;members of that pioneer team were introducing DITA as the IBM way of authoring and publishing technical documentation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T074445Z" creationid="lenovo" creationdate="20200811T074445Z">
@@ -8177,6 +8193,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Lightweight DITA (LwDITA) is a simplified version of the Darwin Information Typing Architecture (DITA).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T090644Z" creationid="DSS" creationdate="20200817T090644Z">
+        <seg>轻量级 DITA (LwDITA) 是达尔文信息类型体系结构 (DITA) 的简化版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Lightweight DITA aims to streamline the DITA authoring experience by presenting three formats for content creation:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T042213Z" creationid="DSS" creationdate="20200817T042213Z">
@@ -8317,6 +8341,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095411Z" creationid="DSS" creationdate="20200730T095411Z">
         <seg>LwDITA 的目标是提供轻量级 DITA 小组委员会成员研究出的对各部门和行业有用的最小数量的内容组件，以简化 DITA 创作和发布流程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LwDITA also defines mappings between XML, HTML5, and Markdown, enabling authoring, collabora&lt;t3/&gt;tion, and publishing across different markup languages.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T090716Z" creationid="DSS" creationdate="20200817T090716Z">
+        <seg>LwDITA 还定义了 XML、HTML5 和 Markdown 之间的映射干系，支持跨不同标记语言的创作、协作和发布。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11407,6 +11439,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The concept of evolu&lt;t0/&gt;tion, and particularly themes related to Darwin's Theory of Evolution, has been a component of DITA terminology since its origins at IBM. The &lt;t1/&gt;D&lt;t2/&gt; for &lt;t3/&gt;Darwin &lt;t4/&gt;is the first letter in the standard's acronym, and some additional Darwinian terms appear in the &lt;t5/&gt;Technical Communication&lt;t6/&gt; article from &lt;t7/&gt;2001 &lt;t8/&gt;that intro&lt;t9/&gt;duced DITA to the world outside IBM. When describing the process of topic specialization, for example, Michael Priestley and his co-authors noted in that article that “specialization also lets you manage groups of related types by mak&lt;t10/&gt;ing changes to their common ancestor, instead of maintaining each instance separately” (Priestley et al., &lt;t11/&gt;2001, &lt;t12/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T090958Z" creationid="DSS" creationdate="20200817T090958Z">
+        <seg>进化（evolution）的概念，特别是与达尔文进化论相关的主题，自 DITA 从 IBM 诞生以来就一直是 DITA 术语的组成部分。表示“达尔文”（Darwin）的“D”是 DITA 标准首字母缩略词中的第一个字母，另外一些与“达尔文”相关的术语出现在了发表于2001年的《技术传播》一文中，该文章向 IBM 之外的世界介绍了DITA。例如，在描述话题专门化的过程时，迈克尔·普里斯特利及其合作者在文章中指出，“话题专门化还允许管理相关类型的组合，更改他们共同的祖先元素，而不是单独维护每个实例”(Priestley et al., &lt;t11/&gt;2001, &lt;t12/&gt;p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The concept of “what you see is what you get” (WYSIWYG) from many web developing editors does not trans&lt;t2/&gt;late to topic-based authoring in XML because a topic is just a component in a larger collection of chunks that need to be processed to create deliverables.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131312Z" creationid="DSS" creationdate="20200813T153121Z">
@@ -11475,6 +11515,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131301Z" creationid="DSS" creationdate="20200806T081158Z">
         <seg>本章的介绍和示例（&lt;t0/&gt;第&lt;t1/&gt;6&lt;t2/&gt;章&lt;t3/&gt;&lt;t4/&gt;中也有部分示例）基于我作为 OASIS 官方出版物第一作者的经历所写，这些出版物包括该委员会文件《&lt;t5/&gt;轻量级 DITA 简介&lt;t6/&gt;》(Evia et al., &lt;t7/&gt;2018&lt;t8/&gt;&lt;t9/&gt;) 和《LwDITA 技术规范》，后者目前正由我与迈克尔·普利斯特里编写。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The development of LwDITA is a process of evolution.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T090838Z" creationid="DSS" creationdate="20200817T090838Z">
+        <seg>LwDITA 的发展是一个不断演进的过程。</seg>
       </tuv>
     </tu>
     <tu>
