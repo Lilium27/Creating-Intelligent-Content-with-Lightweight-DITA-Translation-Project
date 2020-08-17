@@ -535,6 +535,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t10/&gt;3717).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T034851Z" creationid="DSS" creationdate="20200817T034851Z">
+        <seg>&lt;t10/&gt;3717)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t10/&gt;40).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T145709Z" creationid="DSS" creationdate="20200810T145709Z">
@@ -749,6 +757,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T151048Z" creationid="DSS" creationdate="20200726T094329Z">
         <seg>&lt;t2/&gt;29页）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t2/&gt;33), &lt;t3/&gt;and that it is more about conceptualizing than programming.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T034618Z" creationid="DSS" creationdate="20200817T034618Z">
+        <seg>&lt;t2/&gt;33)，比起编程化，它更关注的是概念化。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1329,6 +1345,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t6/&gt;35).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T034656Z" creationid="DSS" creationdate="20200817T034656Z">
+        <seg>&lt;t6/&gt;35)，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t6/&gt;84).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T074104Z" creationid="DSS" creationdate="20200808T074104Z">
@@ -1461,6 +1485,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T155722Z" creationid="DSS" creationdate="20200816T155722Z">
         <seg>&lt;t7/&gt;请注意，“包含混合内容的最小化元素”原则也适用于  HDITA 话题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t7/&gt;She succinctly defines abstraction as “the essence of computational thinking” &lt;t8/&gt;(2008, &lt;t9/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T034711Z" creationid="DSS" creationdate="20200817T034648Z">
+        <seg>她简洁地将抽象定义为“计算机思维的本质” &lt;t8/&gt;(2008, &lt;t9/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3397,6 +3429,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T124736Z" creationid="DSS" creationdate="20200811T124736Z">
         <seg>拥有计算机思维的思考者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Computational thinking (CT) has been connected in scholarship and media to initiatives for learning to code and programming.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T034548Z" creationid="DSS" creationdate="20200817T034548Z">
+        <seg>在学术界和媒体界一提到计算思维（CT），就会联想到编程学习。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6400,6 +6440,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In her seminal essay on this topic, Wing explains that computational thinking takes an approach to “solving problems, designing systems and understanding human behavior by drawing on concepts fundamental to computer science” (Wing, &lt;t0/&gt;2006, &lt;t1/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T034607Z" creationid="DSS" creationdate="20200817T034607Z">
+        <seg>在温一篇关于计算机思维的开创性文章中，她解释到：计算机思维采取了一种“利用计算机科学的基本概念来解决问题、设计系统和理解人类行为”的方法 (Wing, &lt;t0/&gt;2006, &lt;t1/&gt;p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In his popular textbook &lt;t0/&gt;Structured Computer Organization&lt;t1/&gt;, Andrew S. Tanenbaum described computers “as a</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160005Z" creationid="DSS" creationdate="20200808T074907Z">
@@ -7148,6 +7196,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T032607Z" creationid="lenovo" creationdate="20200812T032607Z">
         <seg>他提供了一种框架，能让用户使用学习对象方法来将内容组织和排序成学习交付物 (Eberlein et al., &lt;t1/&gt;2015, &lt;t2/&gt;pp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It requires thinking at multiple levels of abstraction” &lt;t4/&gt;(2006, &lt;t5/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T034646Z" creationid="DSS" creationdate="20200817T034646Z">
+        <seg>还需要在多个抽象层次上进行思考” &lt;t4/&gt;(2006, &lt;t5/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9128,6 +9184,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T130217Z" creationid="lenovo" creationdate="20200810T124935Z">
         <seg>分离含义与步骤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>She adds that “thinking like a computer scientist means more than being able to program a computer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T034630Z" creationid="DSS" creationdate="20200817T034630Z">
+        <seg>她补充说：“像计算机科学家一样思考不仅仅意味着能够编写程序，</seg>
       </tuv>
     </tu>
     <tu>
