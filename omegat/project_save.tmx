@@ -4654,6 +4654,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE 1.13 &lt;t0/&gt;DITA map aggregating different LwDITA formats.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T085106Z" creationid="DSS" creationdate="20200817T085106Z">
+        <seg>图1.13 聚合力不同 LwDITA 格式的 DITA 地图。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE 1.2 &lt;t0/&gt;Sarah O'Keefe's sample recipe for marinara sauce in XML.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144027Z" creationid="DSS" creationdate="20200726T154357Z">
@@ -5404,6 +5412,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131431Z" creationid="DSS" creationdate="20200811T142749Z">
         <seg>无格式&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;内容“不包括展示信息，如描述字体、列宽或文本位置的说明” 。格式和内容分离对多渠道发布是至关重要的，而桌面发布应用程序在这方面提供的抽象功能可能并无益处。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fortunately, DITA is still evolving and its tech&lt;t0/&gt;nical committee at OASIS is at the time of this writing planning version &lt;t1/&gt;2.0 &lt;t2/&gt;of this content standard.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T085242Z" creationid="DSS" creationdate="20200817T085242Z">
+        <seg>幸运的是，DITA 仍在发展中，OASIS DITA 技术委员会正在编写 DITA 内容标准的2.0版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6881,6 +6897,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In a large organization with limited resources to train authors, the content integrity and structural consistency provided by DITA XML might be the best solution.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T085229Z" creationid="DSS" creationdate="20200817T085229Z">
+        <seg>在资源有限的大型组织中想要培训员工，DITA XML 可能是最好的解决方案，因为它做到了内容完整和结构统一。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In a meta application of his own recommendations, Price's description of the features in &lt;t2/&gt;How to Write a Computer Manual: A Handbook of Software Documentation&lt;t3/&gt; reflected the organizational patterns of the type of friendly manual promoted in the book.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130913Z" creationid="lenovo" creationdate="20200810T075523Z">
@@ -8273,6 +8297,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LwDITA does not have the objective of replacing DITA, which is still available for authors and teams who need its full capabilities.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T085259Z" creationid="DSS" creationdate="20200817T085259Z">
+        <seg>LwDITA 并没有打算取代 DITA，DITA 仍然可以供需要其全部功能的创作者和团队使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LwDITA does not have the purpose of replacing DITA XML.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T093934Z" creationid="DSS" creationdate="20200730T093934Z">
@@ -8301,6 +8333,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T051916Z" creationid="lenovo" creationdate="20200812T051916Z">
         <seg>轻量级DITA仍在不断演化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LwDITA is not for everyone.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T085220Z" creationid="DSS" creationdate="20200817T085220Z">
+        <seg>LwDITA 并不适合所有人。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11119,6 +11159,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The abstraction tasks from this framework, however, will enable critical users to apply computational thinking and technical communication principles in a series of layers that reveal intelligent content structure beyond what a software tool allows.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T085321Z" creationid="DSS" creationdate="20200817T085321Z">
+        <seg>DITA 框架的抽象任务将使用户在一系列抽象层级中应用计算机思维和技术传播原则，抽象层级在软件功能所能及之外揭示了智能内容的结构。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The abstractions relevant to the creation of intelligent content with LwDITA introduced in this chapter are a combination of the semantic (process vs. object) model and the computer architecture levels.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T081310Z" creationid="DSS" creationdate="20200808T081310Z">
@@ -11371,6 +11419,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130916Z" creationid="lenovo" creationdate="20200810T130833Z">
         <seg>DITA的元素类型同样继承了IBM在20世纪80年代首次出版的《产出高质量技术信息》一书中的通用型、组织型和规范型惯例。&lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The end users&lt;t1/&gt; will see all the recipes with the same structure regardless of authoring process.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T085215Z" creationid="DSS" creationdate="20200817T085215Z">
+        <seg>无论写作过程时怎样的，终端用户都将看到具有相同结构的菜谱。</seg>
       </tuv>
     </tu>
     <tu>
