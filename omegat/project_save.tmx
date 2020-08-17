@@ -891,8 +891,8 @@
       <tuv lang="en">
         <seg>&lt;t2/&gt;Figure &lt;t3/&gt;6.26&lt;t4/&gt; &lt;t5/&gt;includes both an inline image and a block figure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T133517Z" creationid="DSS" creationdate="20200817T133517Z">
-        <seg>&lt;t2/&gt;图&lt;t4/&gt;6.26&lt;t5/&gt;&lt;t3/&gt;包含一个内联图像组件和一个块级图形组件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T151112Z" creationid="DSS" creationdate="20200817T133517Z">
+        <seg>&lt;t2/&gt;&lt;t3/&gt;图6.26&lt;t4/&gt;&lt;t5/&gt;包含一个内联图像组件和一个块级图形组件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3563,8 +3563,8 @@
       <tuv lang="en">
         <seg>Both contain&lt;t2/&gt; alternate text for human or machine readers that cannot process a visual element.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T134502Z" creationid="DSS" creationdate="20200817T134323Z">
-        <seg>两者都包含替代文本，替代文本可以辅助无法看见视觉元素的用户或处理视觉元素的机器。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T151150Z" creationid="DSS" creationdate="20200817T134323Z">
+        <seg>两者都包含替代文本，替代文本可以辅助无法看见视觉元素的用户或处理视觉元素的机器。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4495,8 +4495,8 @@
       <tuv lang="en">
         <seg>Each term-description group consists of one or more terms (represented by &lt;dt&gt; elements), and one or more descriptions (represented by &lt;dd&gt; elements)” (W3C, &lt;t2/&gt;2017).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T155624Z" creationid="DSS" creationdate="20200816T155624Z">
-        <seg>每个术语描述组由一个或多个术语 (由&lt;dt&gt;元素表示) 和一个或多个描述 (由&lt;dd&gt;元素表示)  组成”(W3C, 2017)。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T151046Z" creationid="DSS" creationdate="20200816T155624Z">
+        <seg>每个术语描述组由一个或多个术语 (由&lt;dt&gt;元素表示) 和一个或多个描述 (由&lt;dd&gt;元素表示)  组成”(W3C, 2017)。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4944,8 +4944,8 @@
       <tuv lang="en">
         <seg>FIGURE 6.27 &lt;t0/&gt;Preview of the XDITA topic with image and figure environments in&lt;t1/&gt; Oxygen XML &lt;t2/&gt;author&lt;t3/&gt; mode.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T134645Z" creationid="DSS" creationdate="20200817T134645Z">
-        <seg>图6.27 在 Oxygen XML 作者模式下，包含图像和图形组件的 XDITA话题的预览。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T151204Z" creationid="DSS" creationdate="20200817T134645Z">
+        <seg>图6.27 在 Oxygen XML 作者模式下，包含图像和图形组件的 XDITA话题的预览。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5217,8 +5217,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;6.23 &lt;t1/&gt;Unordered list environment in HDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T125308Z" creationid="DSS" creationdate="20200817T125308Z">
-        <seg>图6.23 HDITA 中的无序列表组件，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T151055Z" creationid="DSS" creationdate="20200817T125308Z">
+        <seg>图6.23 HDITA 中的无序列表组件，&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5241,8 +5241,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;6.26 &lt;t1/&gt;Image and figure components in an XDITA topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T134327Z" creationid="DSS" creationdate="20200817T134320Z">
-        <seg>图6.26 XDITA 话题中的图像和图形组件，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T151147Z" creationid="DSS" creationdate="20200817T134320Z">
+        <seg>图6.26 XDITA 话题中的图像和图形组件，&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7612,8 +7612,8 @@
       <tuv lang="en">
         <seg>In the spring of &lt;t0/&gt;2014, &lt;t1/&gt;I was teaching a section of the course ENGL &lt;t2/&gt;3814: &lt;t3/&gt;Creating User Documentation&lt;t4/&gt; at Virginia Tech.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150919Z" creationid="DSS" creationdate="20200817T092245Z">
-        <seg>2014年春天，我在弗吉尼亚理工大学教授课程 ENGL 3814：《&lt;t3/&gt;用户文档写作&lt;t4/&gt;》这门课程的部分内容，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150954Z" creationid="DSS" creationdate="20200817T092245Z">
+        <seg>2014年春天，我在弗吉尼亚理工大学教授课程 ENGL 3814：&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;《&lt;t3/&gt;用户文档写作&lt;t4/&gt;》这门课程的部分内容，</seg>
       </tuv>
     </tu>
     <tu>
@@ -7708,8 +7708,8 @@
       <tuv lang="en">
         <seg>In this example (&lt;t8/&gt;Figure &lt;t9/&gt;6.17&lt;t10/&gt;), &lt;t11/&gt;Chef Pedro and his team use a definition list to describe the terms that apply to franchise owners of &lt;t12/&gt;Sensei Sushi&lt;t13/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T155500Z" creationid="DSS" creationdate="20200816T155500Z">
-        <seg>在图&lt;t9/&gt;6.17&lt;t10/&gt;展示的示例中，厨师佩德罗及其团队使用了定义列表来描述关于&lt;t12/&gt; Sensei Sushi&lt;t13/&gt; 特许经营的术语。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T151025Z" creationid="DSS" creationdate="20200816T155500Z">
+        <seg>在图&lt;t8/&gt;&lt;t9/&gt;6.17&lt;t10/&gt;&lt;t11/&gt;展示的示例中，厨师佩德罗及其团队使用了定义列表来描述关于&lt;t12/&gt; Sensei Sushi&lt;t13/&gt; 特许经营的术语。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11418,8 +11418,8 @@
       <tuv lang="en">
         <seg>The GFM spec allows the use&lt;t2/&gt; of the characters &lt;t3/&gt;-&lt;t4/&gt;, &lt;t5/&gt;+&lt;t6/&gt;, &lt;t7/&gt;or &lt;t8/&gt;* &lt;t9/&gt;as unordered list item markers.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T132222Z" creationid="DSS" creationdate="20200817T132222Z">
-        <seg>GFM 规定可以使 &lt;t3/&gt;-&lt;t4/&gt;， &lt;t5/&gt;+&lt;t6/&gt;， &lt;t7/&gt;或 &lt;t8/&gt;* &lt;t9/&gt;作为无序列表项标记。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T151106Z" creationid="DSS" creationdate="20200817T132222Z">
+        <seg>GFM 规定可以使 &lt;t2/&gt;&lt;t3/&gt;-&lt;t4/&gt;， &lt;t5/&gt;+&lt;t6/&gt;， &lt;t7/&gt;或 &lt;t8/&gt;* &lt;t9/&gt;作为无序列表项标记。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11874,16 +11874,16 @@
       <tuv lang="en">
         <seg>The component follows the&lt;t0/&gt; same structure as its counterpart in XDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T125246Z" creationid="DSS" creationdate="20200816T161643Z">
-        <seg>该组件与 XDITA 中的有序列表组件结构相同。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T151052Z" creationid="DSS" creationdate="20200816T161643Z">
+        <seg>该组件与 XDITA 中的有序列表组件结构相同。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The component follows the&lt;t2/&gt; same structure as its counterpart in XDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T125329Z" creationid="DSS" creationdate="20200817T125238Z">
-        <seg>该组件与 XDITA 中的有序列表组件结构相同。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T151058Z" creationid="DSS" creationdate="20200817T125238Z">
+        <seg>该组件与 XDITA 中的有序列表组件结构相同。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12228,8 +12228,8 @@
       <tuv lang="en">
         <seg>The heart of a command-line interface is a &lt;t0/&gt;read-evaluate-print loop &lt;t1/&gt;(REPL) called so because when you type a command and press Return.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200817T141707Z" creationid="lenovo" creationdate="20200817T141617Z">
-        <seg>命令行界面的核心是读取-计算-打印循环(REPL)，之所以这么说是因为当你输入一行命令并按下回车键时，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T151015Z" creationid="lenovo" creationdate="20200817T141617Z">
+        <seg>命令行界面的核心是&lt;t0/&gt;读取-计算-打印循环&lt;t1/&gt; (REPL)，之所以这么说是因为当你输入一行命令并按下回车键时，</seg>
       </tuv>
     </tu>
     <tu>
@@ -14140,8 +14140,8 @@
       <tuv lang="en">
         <seg>Those same students tend to sigh collectively in relief when they find out that some LwDITA-aware tools like Oxygen XML Editor include a version of the &lt;t0/&gt;DITA-OT.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200817T142240Z" creationid="lenovo" creationdate="20200817T142240Z">
-        <seg>当这些学生发现一些支持LwDITA的工具(如Oxygen XML Editor)包含某个版本的DITA-OT时，他们往往会松一口气。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T151016Z" creationid="lenovo" creationdate="20200817T142240Z">
+        <seg>当这些学生发现一些支持LwDITA的工具(如Oxygen XML Editor)包含某个版本的DITA-OT时，他们往往会松一口气。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14300,8 +14300,8 @@
       <tuv lang="en">
         <seg>To put the previous example in context, the &lt;t5/&gt;author&lt;t6/&gt; mode in Oxygen XML can provide a simple “preview” of the topic and its visual elements (&lt;t7/&gt;Figure &lt;t8/&gt;6.27&lt;t9/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T134308Z" creationid="DSS" creationdate="20200817T134308Z">
-        <seg>为了将前面的示例放在语境中说明，可以使用 Oxygen XML 中的作者模式，作者模式可以提供话题及其可视化元素的简单“预览”(图&lt;t8/&gt;6.27&lt;t9/&gt;)。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T151146Z" creationid="DSS" creationdate="20200817T134308Z">
+        <seg>为了将前面的示例放在语境中说明，可以使用 Oxygen XML 中的&lt;t5/&gt;作者&lt;t6/&gt;模式，作者模式可以提供话题及其可视化元素的简单“预览”(图&lt;t7/&gt;&lt;t8/&gt;6.27&lt;t9/&gt;)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14471,8 +14471,8 @@
       <tuv lang="en">
         <seg>Unordered list markers can be a &lt;t0/&gt;-, +, &lt;t1/&gt;or &lt;t2/&gt;* &lt;t3/&gt;character, as shown in &lt;t4/&gt;Figure &lt;t5/&gt;6.25&lt;t6/&gt; &lt;t7/&gt;of an MDITA topic with a list of what the &lt;t8/&gt;Sensei Sushi&lt;t9/&gt; franchise package offers.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T131954Z" creationid="DSS" creationdate="20200817T131954Z">
-        <seg>无序列表标记可以是 &lt;t0/&gt;-, +, &lt;t1/&gt;或 &lt;t2/&gt;* &lt;t3/&gt;，图6.25展示了一个包含列表的 MDITA 话题，列表罗列了购买 &lt;t8/&gt;Sensei Sushi&lt;t9/&gt; 特许经营选可以获得的权利。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T151101Z" creationid="DSS" creationdate="20200817T131954Z">
+        <seg>无序列表标记可以是 &lt;t0/&gt;-, +, &lt;t1/&gt;或 &lt;t2/&gt;* &lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;，图6.25展示了一个包含列表的 MDITA 话题，列表罗列了购买 &lt;t8/&gt;Sensei Sushi&lt;t9/&gt; 特许经营选可以获得的权利。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14703,8 +14703,8 @@
       <tuv lang="en">
         <seg>When introducing the DITA-OT to undergraduate techni&lt;t1/&gt;cal communication students who have never seen a command line program, I have found some good resources in the Software Carpentry curriculum for “The Unix Shell,”&lt;t2/&gt;5&lt;t3/&gt; which describes the command-line as follows:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200817T141357Z" creationid="lenovo" creationdate="20200817T141357Z">
-        <seg>在向从未见过命令行程序的技术传播专业本科生介绍DITA-OT时，我在Software Carpentry课程中找到了一些有关“The Unix Shell”极佳资源，对命令行的描述如下:</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150920Z" creationid="lenovo" creationdate="20200817T141357Z">
+        <seg>在向从未见过命令行程序的技术传播专业本科生介绍DITA-OT时，我在Software Carpentry课程中找到了一些有关“The Unix Shell”极佳资源，对命令行的描述如下:&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14759,8 +14759,8 @@
       <tuv lang="en">
         <seg>When the topic is processed,&lt;t2/&gt; the list items will be automatically numbered in a logical sequence established by the number assigned to the first list item.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T133143Z" creationid="DSS" creationdate="20200817T133143Z">
-        <seg>在话题处理过程中，将按照分配给第一个列表项的数字建立的逻辑顺序，给所有列表项自动编号。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T151103Z" creationid="DSS" creationdate="20200817T133143Z">
+        <seg>在话题处理过程中，将按照分配给第一个列表项的数字建立的逻辑顺序，给所有列表项自动编号。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14791,8 +14791,8 @@
       <tuv lang="en">
         <seg>Whereas in DITA &lt;t0/&gt;1.3 &lt;t1/&gt;a definition description can contain character data or additional XML elements, in XDITA it must include a paragraph (&lt;t2/&gt;&lt;p&gt;&lt;t3/&gt;) hous&lt;t4/&gt;ing any text.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T155526Z" creationid="DSS" creationdate="20200816T155526Z">
-        <seg>在 DITA 标准1.3版本中，定义描述可以包含字符数据或其他 XML 元素，而在 XDITA 中，必须用段落标签 (&lt;t2/&gt;&lt;p&gt;&lt;t3/&gt;) 来包裹文本内容。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T151046Z" creationid="DSS" creationdate="20200816T155526Z">
+        <seg>在 DITA 标准&lt;t0/&gt;1.3&lt;t1/&gt;版本中，定义描述可以包含字符数据或其他 XML 元素，而在 XDITA 中，必须用段落标签 (&lt;t2/&gt;&lt;p&gt;&lt;t3/&gt;) 来包裹文本内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15327,8 +15327,8 @@
       <tuv lang="en">
         <seg>included some sample LwDITA topics and maps in &lt;t0/&gt;Chapter &lt;t1/&gt;1&lt;t2/&gt;, &lt;t3/&gt;and I also showed how those files would look when processed and transformed into PDF and HTML deliverables.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200817T142639Z" creationid="lenovo" creationdate="20200817T142639Z">
-        <seg>我在第一章中包含了一些LwDITA主题和映射的示例，还展示了这些文件在处理和转换为PDF和HTML交付物时的形态。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T151020Z" creationid="lenovo" creationdate="20200817T142639Z">
+        <seg>我在第一章中包含了一些LwDITA主题和映射的示例，还展示了这些文件在处理和转换为PDF和HTML交付物时的形态。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
