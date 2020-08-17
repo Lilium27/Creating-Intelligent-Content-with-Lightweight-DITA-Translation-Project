@@ -6504,6 +6504,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you are more interested in workflows and recommendations for producing content than in LwDITA history, this chapter may feel like “inside baseball” accounts of who did what in the DITA technical committee and the Lightweight DITA subcom&lt;t1/&gt;mittee with the Organization for the Advancement of Structured Information Standards.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T090400Z" creationid="DSS" creationdate="20200817T090400Z">
+        <seg>如果相比 LwDITA 的历史，你对工作流和内容写作的建议更感兴趣，那么本章详细描述了结构化信息标准推进组织里的 DITA 技术委员会和轻量级 DITA 小组委员会中的每位成员都做了什么，包括许多不为人知的细节。评价。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have never interacted with the DITA Open Toolkit, and if you are not familiar with command-line based applications, I recommend a couple of intro&lt;t0/&gt;ductory videos developed by Scriptorium as part of their free “Learning DITA” curriculum&lt;t1/&gt;1&lt;t2/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131302Z" creationid="DSS" creationdate="20200806T092044Z">
@@ -8793,6 +8801,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Nevertheless, I have interacted with many users, observers, and crit&lt;t2/&gt;ics who are quick to ask “How come DITA does not have this or that feature?” or “Who came up with this idea in DITA or LwDITA?” This chapter, then, has a goal of reminding readers that the DITA and LwDITA standards are designed, tested, and revised over years by working groups comprised of mostly volun&lt;t3/&gt;teers who follow strict guidelines and protocols.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T090459Z" creationid="DSS" creationdate="20200817T090459Z">
+        <seg>然而，我与许多用户、观察者和评论家都进行过交流，他们总是迫不及待地问我“为什么 DITA 没有这个或那个特性？”或者“是谁提出了 DITA 或 LwDITA 标准中的某个想法？”本章旨在告诉读者，DITA 和 LwDITA 标准是由工作小组经过多年的设计、测试和修订完成的，工作小组里大多是志愿者，他们在工作时遵循严格的指导方针和协议。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Nevertheless, despite the potential uses of such a content blurb, the component that contains the majority of conventions for content is the body &lt;t0/&gt;- &lt;t1/&gt;represented in XDITA and HDITA by the tag &lt;t2/&gt;&lt;body&gt;&lt;t3/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141913Z" creationid="DSS" creationdate="20200816T141913Z">
@@ -10670,6 +10686,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That makes the committees human and fallible, but also open to feedback and input on their constant pro&lt;t4/&gt;cess of revision and improvement.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T090524Z" creationid="DSS" creationdate="20200817T090524Z">
+        <seg>委员会的成员也是人，会犯错误，但他们也在不断修订和改进标准，并乐于接受各种反馈和评价。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That means that &lt;t6/&gt;including an HTML5 element that is not allowed in HDITA, like &lt;t7/&gt;&lt;aside&gt; &lt;t8/&gt;or &lt;t9/&gt;&lt;details&gt;&lt;t10/&gt;, would produce a validation error in LwDITA-aware tools.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131241Z" creationid="lenovo" creationdate="20200813T080743Z">
@@ -11846,6 +11870,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T013902Z" creationid="lenovo" creationdate="20200805T013902Z">
         <seg>这种痴迷塑造了旧的标志性体裁，厚重的计算机手册为数据处理设定了标准、根据产品特征规定了部分划分并迫使读者遵循特定的指导和咨询模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The official definition of Lightweight DITA, which is included in the OASIS committee note/white paper titled &lt;t0/&gt;Lightweight DITA: An Introduction&lt;t1/&gt; that I co&lt;t2/&gt;edited with Kris Eberlein and Alan Houser, is as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T090621Z" creationid="DSS" creationdate="20200817T090621Z">
+        <seg>OASIS 委员会在《轻量级 DITA 简介》白皮书中定义了轻量级 DITA，该白皮书由我与克里斯·埃伯莱因、艾伦·豪共同编写完成，轻量级 DITA 的官方定义如下：</seg>
       </tuv>
     </tu>
     <tu>
