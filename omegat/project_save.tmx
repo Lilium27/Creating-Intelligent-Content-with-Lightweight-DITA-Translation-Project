@@ -454,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t0/&gt;Figure &lt;t1/&gt;1.12&lt;t2/&gt; &lt;t3/&gt;shows a PDF version of the XDITA topic created with the DITA-OT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T081401Z" creationid="DSS" creationdate="20200817T081401Z">
+        <seg>图&lt;t0/&gt;&lt;t1/&gt;1.12&lt;t2/&gt;&lt;t3/&gt;展示了用 DITA-OT 创建的 XDITA 话题的 PDF 交付物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t0/&gt;Figure &lt;t1/&gt;6.12&lt;t2/&gt; &lt;t3/&gt;shows the introductory topic with a short description paragraph in HDITA.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T142142Z" creationid="DSS" creationdate="20200816T141549Z">
@@ -9509,6 +9517,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regardless of its authoring format, when transformed with LwDITA-aware tools into information deliverables for human users, the topic for the marinara sauce recipe would pretty much look the same.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T081257Z" creationid="DSS" creationdate="20200817T081257Z">
+        <seg>当使用支持 LwDITA 的工具将菜谱转换为人类用户可以阅读的交付信息时，不管使用的是何种写作格式，最终的意式番茄罗勒酱菜谱几乎都是相同的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Researchers work with practitioners that include community partners, government officials, and med&lt;t1/&gt;ics.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130733Z" creationid="DSS" creationdate="20200726T140501Z">
@@ -10386,6 +10402,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131119Z" creationid="DSS" creationdate="20200804T162432Z">
         <seg>通用的 LwDITA 话题也可以容纳足够多的组件和属性，以创建符合罗克利等人提出的“模块化、结构化、可重用、格式自由、语义丰富，因而可发现、可重构和可修改”的要求的内容。&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That is a key feature of LwDITA: end users will not know the author's process and will just receive information products with consistent structure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T081317Z" creationid="DSS" creationdate="20200817T081317Z">
+        <seg>这是 LwDITA 的一个关键特性：终端用户不会知道作者的创作流程，只会接收到结构一致的信息产品。</seg>
       </tuv>
     </tu>
     <tu>
