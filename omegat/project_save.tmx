@@ -5896,6 +5896,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, Priestley did not offer a count of total ele&lt;t4/&gt;ments and instead focused on the expansion capabilities of including HTML5 as an authoring format for DITA-equivalent topics.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T091949Z" creationid="DSS" creationdate="20200817T091949Z">
+        <seg>然而，普里斯特利并没有提供所有元素，而是专注于扩展性能力，包括将 HTML5 作为等同于 DIT A话题写作格式的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, as audiences and study participants were exposed to the possibility of creating DITA content without XML, many were replying with the same question: if we can use HTML5 to represent DITA topics and elements, can we use Markdown as well?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T124221Z" creationid="DSS" creationdate="20200802T124221Z">
@@ -6785,6 +6793,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In HDITA (the HTML5-based version of LwDITA), those specialized elements were “generic article or section elements with a custom attribute that uses a simplified form of the DITA class syntax.” &lt;t0/&gt;Table 3.2&lt;t1/&gt; reproduces the table of specialized structural elements that enabled the representation of concept, task, and reference in XDITA and HDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T091857Z" creationid="DSS" creationdate="20200817T091857Z">
+        <seg>在 HDITA（基于 HTML5 的 LwDITA 版本）中，那些专门化元素是“具有自定义属性的通用项目或节元素，使用了 DITA 类语法的简化形式。”表3.2重现了专门化结构元素，这些元素可以在 XDITA 和 HDITA 中表示概念（concept）、任务（task）和引用（reference）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In HDITA and MDITA topics, the optional short description is implied in the first paragraph of content.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141502Z" creationid="DSS" creationdate="20200816T141502Z">
@@ -7349,6 +7365,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130940Z" creationid="lenovo" creationdate="20200811T125900Z">
         <seg>特殊情况下的任务主题，一些文步会为这个任务提供合理解释（“为什么或者何时用户想要执行这个任务”），任务的先决条件(“在执行这个任务之前用户应该做什么”)，动作响应(“用户完成动作后应该看到的结果”)，示例（输入的信息示例或指导示例）和任务后决条件(这个任务完成后“下一步该做什么”)(Priestley et al.&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the spring of &lt;t0/&gt;2014, &lt;t1/&gt;I was teaching a section of the course ENGL &lt;t2/&gt;3814: &lt;t3/&gt;Creating User Documentation&lt;t4/&gt; at Virginia Tech.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T092245Z" creationid="DSS" creationdate="20200817T092245Z">
+        <seg>2014年春天，我在弗吉尼亚理工大学教授课程 ENGL 3814：《用户文档写作》这门课程的部分内容，</seg>
       </tuv>
     </tu>
     <tu>
@@ -10589,6 +10613,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TABLE &lt;t0/&gt;3.1 &lt;t1/&gt;Sample LwDITA topic, from Michael Priestley's blog post "Overview of Lightweight DITA (XDITA and HDITA)." The XDITA topic on the left column includes elements from the revised LwDITA proposal presented to the DITA Technical Committee in &lt;t2/&gt;2012.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T092049Z" creationid="DSS" creationdate="20200817T092049Z">
+        <seg>表3.1 来自迈克尔·普里斯特利的博客文章《轻量级DITA概述（XDITA 和 HDITA）》中的 LwDITA 话题示例。左列中的 XDITA 话题包含了修改后的 LwDITA 提案中的元素，该提案于2012年提交给 DITA 技术委员会。右列的 HDITA 版本复用了 HTML5 中的标签规范。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TABLE &lt;t0/&gt;3.2 &lt;t1/&gt;Specialized structural elements in XDITA and their equivalents in HDITA, which use custom data attributes to modify elements in HTML5.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T114921Z" creationid="DSS" creationdate="20200802T114921Z">
@@ -11339,6 +11371,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T091641Z" creationid="DSS" creationdate="20200817T091641Z">
         <seg>然而，在介绍 XDITA 和 HDITA 的博文中，仍然包含了专门化结构类型概念（concept）、任务（task）和引用（reference），它们依赖于 HTML5 自定义数据属性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The XDITA/HDITA proposal added two elements to the LwDITA catalog (&lt;t0/&gt;&lt;address&gt; &lt;t1/&gt;and &lt;t2/&gt;&lt;aside&gt;&lt;t3/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T091926Z" creationid="DSS" creationdate="20200817T091926Z">
+        <seg>关于 XDITA/HDITA 的提议向 LwDITA 中增加了两个元素(&lt;t0/&gt;&lt;address&gt; &lt;t1/&gt;and &lt;t2/&gt;&lt;aside&gt;&lt;t3/&gt;)。</seg>
       </tuv>
     </tu>
     <tu>
