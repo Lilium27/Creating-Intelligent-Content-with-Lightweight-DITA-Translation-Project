@@ -753,6 +753,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t2/&gt;116) &lt;t3/&gt;widely adopted in the field of technical communication.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T084151Z" creationid="DSS" creationdate="20200817T084151Z">
+        <seg>&lt;t2/&gt;116) 。这种方式已经在技术传播领域得到广泛采用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t2/&gt;116).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T142859Z" creationid="DSS" creationdate="20200723T160301Z">
@@ -4638,6 +4646,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE 1.12 &lt;t0/&gt;PDF version of the XDITA topic for the marinara sauce recipe.&lt;t1/&gt; Compare to the deliverable produced from a DITA XML task in &lt;t2/&gt;Figure 1.4&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T084547Z" creationid="DSS" creationdate="20200817T084547Z">
+        <seg>图1.12 意式番茄罗勒酱 XDITA 生成的 PDF 交付文件，可以与图&lt;t2/&gt;1.4&lt;t3/&gt;中由 DITA XML 生成的交付文件进行对比。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE 1.2 &lt;t0/&gt;Sarah O'Keefe's sample recipe for marinara sauce in XML.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144027Z" creationid="DSS" creationdate="20200726T154357Z">
@@ -6637,6 +6653,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T152423Z" creationid="DSS" creationdate="20200803T152324Z">
         <seg>在 DITA 中，每个内容&lt;t0/&gt;组件&lt;t1/&gt;都对应着 XML 中的一个&lt;t2/&gt;元素&lt;t3/&gt;（例如，段落对应&lt;t4/&gt;&lt;p&gt;&lt;t5/&gt;，短描述对应&lt;t6/&gt;&lt;shortdesc&gt;&lt;t7/&gt;）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In DITA, for example, an author has strict tags for a short description element and hazard statements, whereas in some LwDITA formats those sections are just paragraphs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T084259Z" creationid="DSS" creationdate="20200817T084259Z">
+        <seg>例如，在 DITA 中，作者使用严格的标记来表示用于简短介绍的元素和警告说明，而在某些 LwDITA 格式中，这些都只是一个段落。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8733,6 +8757,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130736Z" creationid="DSS" creationdate="20200726T153330Z">
         <seg>如今，不需要为每一个任务都编写新的文件，一个简单的改动就可以在公司产出的所有信息材料中得到精确体现。&lt;t16/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>New knowl&lt;t4/&gt;edge will actually come in the form of abstractions that allow authors to identify rhetorical moves (e.g., staging with a &lt;t5/&gt;&lt;shortdesc&gt;&lt;t6/&gt;, guiding with &lt;t7/&gt;&lt;steps&gt;&lt;t8/&gt;, showing with &lt;t9/&gt;&lt;example&gt;&lt;t10/&gt;) that were strictly enforced in DITA XML but are not required in LwDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T084228Z" creationid="DSS" creationdate="20200817T084228Z">
+        <seg>新的知识将以抽象的形式出现，这让作者可以识别文本的修辞逻辑（例如，使用 &lt;t5/&gt;&lt;shortdesc&gt;&lt;t6/&gt;标签进行分段，使用&lt;t7/&gt;&lt;steps&gt;&lt;t8/&gt;标签进行指导，使用 &lt;t9/&gt;&lt;example&gt;&lt;t10/&gt;标签进行展示），这些修辞逻辑在 DITA XML 中严格执行，但在 LwDITA 中不太需要。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12834,6 +12866,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These thought processes follow the foundations of the skill set labeled as computational thinking in recent literature about computing education.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T084309Z" creationid="DSS" creationdate="20200817T084309Z">
+        <seg>这个思维过程遵循计算机思维的基础，计算机思维是最近关于计算机教育的文献中提到的技能集。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These users can be casual content contributors (e.g., a subject matter  expert who authors short topics that a technical author will later integrate  into a larger DITA collection) or authors who are not working with DITA  XML (e.g., marketing professionals creating intelligent content for multi- channel publishing, or even technical writers who prefer to write in HTML  or Markdown).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200805T122210Z" creationid="DSS" creationdate="20200730T092103Z">
@@ -12902,6 +12942,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T023122Z" creationid="lenovo" creationdate="20200810T023122Z">
         <seg>以下是他们提出的手册写作危机的原因：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They will continue “the move away from a document-based to a</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T084110Z" creationid="DSS" creationdate="20200817T084110Z">
+        <seg>他们将继续“从基于文件的写作方式向基于话题的写作方式</seg>
       </tuv>
     </tu>
     <tu>
@@ -14569,6 +14617,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T034844Z" creationid="lenovo" creationdate="20200812T034844Z">
         <seg>主题的正文 (&lt;t0/&gt;&lt;body&gt;), &lt;t1/&gt;以及段落(&lt;t2/&gt;&lt;p&gt;&lt;t3/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>topic-based approach to developing, managing, and publishing content” (Andersen, &lt;t0/&gt;2014, &lt;t1/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T084126Z" creationid="DSS" creationdate="20200817T084126Z">
+        <seg>转变，以发展、管理和发布内容” (Andersen, &lt;t0/&gt;2014, &lt;t1/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
