@@ -3377,6 +3377,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Before we move on to specific how-to and examples of creating intelligent content with LwDITA following principles of computational thinking, we need to revisit the origins of DITA XML and analyze how its content structures and discourse conventions (based on the archetypal computer manual) evolved into LwDITA, and those are the main themes of the next chapter.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T090011Z" creationid="DSS" creationdate="20200817T090011Z">
+        <seg>在我们继续介绍和展示基于计算机思维，用 LwDITA 创建的智能内容的示例之前，我们需要重新审视 DITA XML 的起源，（基于典型的计算机手册）分析其内容结构和话语规范是如何发展为 LwDITA的，这也是下一章的主题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bellamy et al.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T084713Z" creationid="DSS" creationdate="20200806T084713Z">
@@ -5480,6 +5488,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Furthermore, coding and automat&lt;t5/&gt;ing content delivery is but a “metal” element in the complicated process behind authoring and publishing intelligent content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T085644Z" creationid="DSS" creationdate="20200817T085644Z">
+        <seg>此外，在编写和发布智能内容的复杂过程中，编程和自动化内容交付只是一个“物理”元素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Furthermore, his example is still relevant when thinking about LwDITA and computational thinking: an author needs to separate the layers of abstraction when creating a task topic for a specific audience and context.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T035539Z" creationid="DSS" creationdate="20200817T035539Z">
@@ -6004,6 +6020,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143039Z" creationid="DSS" creationdate="20200726T140445Z">
         <seg>然而，“在过去的十年里，即使技术传播从业者的讨论焦点继续在内容策略和类似领域的方向上发展，学术讲师在专业传播和技术传播中的许多教学关注点几乎没有变化”（克拉克，&lt;t2/&gt;2016， &lt;t3/&gt;第</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Human beings in charge of con&lt;t6/&gt;tent creation need to move their “mental” focus to the abstraction thinking behind the rhetorical decisions that make content intelligent.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T085826Z" creationid="DSS" creationdate="20200817T085826Z">
+        <seg>负责内容创作的创作者需要将他们的“思考”焦点转移到抽象思维上来，而抽象思维正隐藏在使内容智能化的修辞决策背后。</seg>
       </tuv>
     </tu>
     <tu>
