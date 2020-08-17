@@ -9165,8 +9165,8 @@
       <tuv lang="en">
         <seg>Professional authoring tools can hide code in What You See &lt;t0/&gt;Is What You Get (WYSIWYG) options, but the rhetorical, pedagogical, and computational principles of &lt;t1/&gt;Creating Intelligent Content with Lightweight DITA &lt;t2/&gt;view and perceive LwDITA topics as code.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T043245Z" creationid="DSS" creationdate="20200817T043245Z">
-        <seg>专业的写作工具拥有“所见即所得”的功能，可以隐藏代码，但是本书中的修辞、教学和计算机原则会将 LwDITA 话题视为代码来对待。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T043407Z" creationid="DSS" creationdate="20200817T043245Z">
+        <seg>专业的写作工具拥有“所见即所得”的功能，可以隐藏代码，但是&lt;t1/&gt;本书&lt;t2/&gt;中的修辞、教学和计算机原则会将 LwDITA 话题视为代码来对待。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11165,6 +11165,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131119Z" creationid="lenovo" creationdate="20200812T044854Z">
         <seg>冰激凌口味的比喻说明了LwDITA为作者提供的各种产品，作者不再需要依赖XML结构来为用户创建可以转换为智能内容和多渠道可交付内容的信息主题。&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The idea of simplified DITA code that would reduce its learning curve has been a topic of discussion on the standard's technical committee with OASIS for a few years.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T043500Z" creationid="DSS" creationdate="20200817T043351Z">
+        <seg>简化 DITA 代码以减少其学习成本是 OASIS 标准技术委员会近几年讨论的主题。</seg>
       </tuv>
     </tu>
     <tu>
