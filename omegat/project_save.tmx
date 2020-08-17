@@ -6961,6 +6961,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In HTML5, a cross-reference is represented with a combination of the anchor (&lt;t0/&gt;&lt;a&gt;&lt;t1/&gt;) element and the hyper reference (&lt;t2/&gt;@href&lt;t3/&gt;) attribute.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200817T143932Z" creationid="lenovo" creationdate="20200817T143932Z">
+        <seg>在HTML5中，交叉引用由锚(&lt;a&gt;)元素和超引用(@href)属性的组合表示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In John Carroll's opinion, today's developers and users have not really lost the itch to tinker with systems because the manuals disap&lt;t0/&gt;peared.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130819Z" creationid="lenovo" creationdate="20200723T091333Z">
@@ -7477,6 +7485,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131449Z" creationid="DSS" creationdate="20200813T125448Z">
         <seg>在接下来的章节中，我将介绍经过修订后的抽象层级，用于教授学习技术传播的学生和学员智能内容。&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the following chapter, I focus on the specific compo&lt;t4/&gt;nents of content collection used in LwDITA maps, and I provide a quick tutorial on processing LwDITA files using the DITA Open Toolkit and Oxygen XML.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200817T143149Z" creationid="lenovo" creationdate="20200817T143149Z">
+        <seg>在下一章中，我将重点介绍LwDITA映射中使用的内容集合的特定组件，并提供一个关于使用DITA Open Toolkit和Oxygen XML处理LwDITA文件的快速教程。</seg>
       </tuv>
     </tu>
     <tu>
