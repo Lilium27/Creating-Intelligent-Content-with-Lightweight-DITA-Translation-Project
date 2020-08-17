@@ -1025,6 +1025,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t3/&gt;In its core pro&lt;t4/&gt;file, MDITA provides structure for major elements present in DITA XML and Markdown (title, sections, lists, etc.).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T055950Z" creationid="DSS" creationdate="20200817T055950Z">
+        <seg>在其核心概要中，MDITA 为 DITA XML 和 Markdown（标题、节、列表等）中出现的主要元素提供了结构。在其扩展概要中，MDITA允许使用YAML（YAML Ain't Markup Language）编写的头文件，以及关于话题作者和一些自原生XML示例以来就一直带有的类别的元数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t3/&gt;In this introductory chapter I will only present the results of transformations using the DITA-OT, but in &lt;t4/&gt;Chapter &lt;t5/&gt;5&lt;t6/&gt; &lt;t7/&gt;I will focus on specific steps for conducting those transformations.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T145107Z" creationid="DSS" creationdate="20200725T082636Z">
@@ -8205,6 +8213,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T094657Z" creationid="DSS" creationdate="20200803T094657Z">
         <seg>而对 MDITA 格式的需求也被纳入考量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MDITA, the LwDITA authoring format that uses Markdown, can also be used to structure the recipe for marinara sauce (&lt;t0/&gt;figure &lt;t1/&gt;1.11&lt;t2/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T055540Z" creationid="DSS" creationdate="20200817T055540Z">
+        <seg>MDITA 是使用 Markdown 的 LwDITA 写作格式，也可以用于结构化马里纳拉酱的菜谱（图1.11&lt;t0/&gt;&lt;t2/&gt;&lt;t1/&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
