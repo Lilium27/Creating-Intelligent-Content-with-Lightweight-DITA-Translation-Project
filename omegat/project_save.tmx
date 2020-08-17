@@ -5127,6 +5127,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;6.24 &lt;t1/&gt;Ordered list environment in MDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T132238Z" creationid="DSS" creationdate="20200817T132238Z">
+        <seg>图&lt;t0/&gt;6.24&lt;t1/&gt; MDITA 中的有序列表组件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;6.25 &lt;t1/&gt;Unordered list environment in MDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T132042Z" creationid="DSS" creationdate="20200817T132042Z">
+        <seg>图&lt;t0/&gt;6.25&lt;t1/&gt; MDITA 中的无序列表组件，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Figure 6.5&lt;t0/&gt; shows the &lt;t1/&gt;franchise.intro.md&lt;t2/&gt; topic with an assigned &lt;t3/&gt;@id &lt;t4/&gt;of &lt;t5/&gt;sensei- &lt;t6/&gt;intro&lt;t7/&gt; &lt;t8/&gt;that would override the &lt;t9/&gt;@id &lt;t10/&gt;generated with the file's name.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T135906Z" creationid="DSS" creationdate="20200816T134439Z">
@@ -6997,6 +7013,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T133900Z" creationid="DSS" creationdate="20200816T133900Z">
         <seg>在 XDITA 和 MDITA 中，一个话题需要一个 &lt;t0/&gt;@id&lt;t1/&gt;，@id将分别作为 &lt;t2/&gt;&lt;topic&gt; &lt;t3/&gt;和 &lt;t4/&gt;&lt;article&gt;&lt;t5/&gt;组件的属性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In XDITA, non-textual topical conventions start with an image (&lt;t0/&gt;&lt;image&gt;&lt;t1/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T132004Z" creationid="DSS" creationdate="20200817T132004Z">
+        <seg>在XDITA中，首个非文本话题协定就是图像组件 (&lt;t0/&gt;&lt;image&gt;&lt;t1/&gt;)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11167,6 +11191,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The GFM spec allows the use&lt;t2/&gt; of the characters &lt;t3/&gt;-&lt;t4/&gt;, &lt;t5/&gt;+&lt;t6/&gt;, &lt;t7/&gt;or &lt;t8/&gt;* &lt;t9/&gt;as unordered list item markers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T132222Z" creationid="DSS" creationdate="20200817T132222Z">
+        <seg>GFM 规定可以使 &lt;t3/&gt;-&lt;t4/&gt;， &lt;t5/&gt;+&lt;t6/&gt;， &lt;t7/&gt;或 &lt;t8/&gt;* &lt;t9/&gt;作为无序列表项标记。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The GFM spec defines paragraph as a “sequence of non-blank lines” (GitHub Flavored Markdown Spec, &lt;t0/&gt;2017).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T142334Z" creationid="DSS" creationdate="20200816T142334Z">
@@ -11942,6 +11974,14 @@
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T082913Z" creationid="DSS" creationdate="20200817T043351Z">
         <seg>简化 DITA 代码以减少其学习成本是 OASIS 标准技术委员会近几年讨论的主题。在2011年，技术委员会计划发布一个《限制性DITA概要》文件，该文件仍是基于 XML 的，但是严重依赖 HTML 标签（例如，用 &lt;p&gt; 表示段落，用 &lt;li&gt; 表示列表项），以简化DITA XML 的许多语义结构。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The image component is always treated as an inline element: its appearance will not begin on a new line in publications generated from topics that contain it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T132012Z" creationid="DSS" creationdate="20200817T132012Z">
+        <seg>图像组件自始至终都是内联元素：它不会出现在话题交付物的某一行开头处。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14361,6 +14401,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153848Z" creationid="DSS" creationdate="20200726T153848Z">
         <seg>当开发人员停止更新软件时，这个软件就废弃了，而佩德罗制作的内容也被锁定在软件当中，需要花费巨额才能将内容转换到另一个软件中，并且耗时漫长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When the topic is processed,&lt;t2/&gt; the list items will be automatically numbered in a logical sequence established by the number assigned to the first list item.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T133143Z" creationid="DSS" creationdate="20200817T133143Z">
+        <seg>在话题处理过程中，将按照分配给第一个列表项的数字建立的逻辑顺序，给所有列表项自动编号。</seg>
       </tuv>
     </tu>
     <tu>
