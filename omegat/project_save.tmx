@@ -666,8 +666,8 @@
       <tuv lang="en">
         <seg>&lt;t12/&gt;Nonetheless, thinking in and planning abstractions are really the everyday tasks of technical authors in an intelligent content environ&lt;t13/&gt;ment.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T040952Z" creationid="DSS" creationdate="20200817T040952Z">
-        <seg>尽管如此，在智能内容环境中思考和规划抽象实际上是技术作者的日常任务。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T145844Z" creationid="DSS" creationdate="20200817T040952Z">
+        <seg>尽管如此，在智能内容环境中思考和规划抽象实际上是技术作者的日常任务。&lt;t12/&gt;&lt;t13/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1067,8 +1067,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;I argue that &lt;t4/&gt;if technical communicators are trained with principles of rhetorical problem solving and computational thinking, they can work in lightweight environments without the need of a robust XML solution&lt;t5/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T041845Z" creationid="DSS" creationdate="20200817T041845Z">
-        <seg>我认为，如果技术传播人员受过计算机思维的训练，知晓解决修辞问题的原则，他们就可以在轻量级 DITA 的环境中工作，而无需使用健壮的 XML 解决方案。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150009Z" creationid="DSS" creationdate="20200817T041845Z">
+        <seg>我认为，如果技术传播人员受过计算机思维的训练，知晓解决修辞问题的原则，他们就可以在轻量级 DITA 的环境中工作，而无需使用健壮的 XML 解决方案。&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1475,8 +1475,8 @@
       <tuv lang="en">
         <seg>&lt;t5/&gt;Others will emphasize the role of automation even in Wing's definition of computational thinking.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T040537Z" creationid="DSS" creationdate="20200817T040537Z">
-        <seg>有些人会强调自动化的重要性，甚至在温对计算机思维的定义中也是如此。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T145842Z" creationid="DSS" creationdate="20200817T040537Z">
+        <seg>&lt;t5/&gt;有些人会强调自动化的重要性，甚至在温对计算机思维的定义中也是如此。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1763,8 +1763,8 @@
       <tuv lang="en">
         <seg>&lt;t9/&gt;Chapters &lt;t10/&gt;7&lt;t11/&gt; &lt;t12/&gt;and &lt;t13/&gt;8&lt;t14/&gt; &lt;t15/&gt;present an analysis of the abstractions behind the computational thinking and rhetorical problem solving processes that generate intelligent content with LwDITA, but the next section focuses on the potential benefits of LwDITA for content developers who do not need the features of full DITA XML.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T042050Z" creationid="DSS" creationdate="20200817T041942Z">
-        <seg>第七章和第八章分析了在使用 LwDITA 编写智能内容时，隐藏在计算机思维和解决修辞问题过程背后的抽象概念，但下一节将重点讨论对于不需要使用 DITA XML 各种特性的内容开发人员来说， LwDITA 的潜在好处。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150018Z" creationid="DSS" creationdate="20200817T041942Z">
+        <seg>第七章和第八章分析了在使用 LwDITA 编写智能内容时，隐藏在计算机思维和解决修辞问题过程背后的抽象概念，但下一节将重点讨论对于不需要使用 DITA XML 各种特性的内容开发人员来说， LwDITA 的潜在好处。&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1907,8 +1907,8 @@
       <tuv lang="en">
         <seg>A core argument in this book is based on Wing's definition of computational thinking, previous research about abstractions in technical communication, the work I have conducted as co-chair of the Lightweight DITA subcommittee at OASIS, and my experience teaching DITA at the college level since &lt;t0/&gt;2006 &lt;t1/&gt;and LwDITA since &lt;t2/&gt;2015.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T041725Z" creationid="DSS" creationdate="20200817T041725Z">
-        <seg>这本书的核心观点基于温定义的计算机思维、之前技术传播领域对抽象化的研究、我作为 OASIS  轻量级 DITA 小组委员会联合主席所开展的工作以及我从2006年开始在大学中教授 DITA 和2015年开始教授 LwDITA 的经历。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150003Z" creationid="DSS" creationdate="20200817T041725Z">
+        <seg>这本书的核心观点基于温定义的计算机思维、之前技术传播领域对抽象化的研究、我作为 OASIS  轻量级 DITA 小组委员会联合主席所开展的工作以及我从2006年开始在大学中教授 DITA 和2015年开始教授 LwDITA 的经历。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3387,8 +3387,8 @@
       <tuv lang="en">
         <seg>Before (or in addition to) taking, say, a Python course out of their disciplinary context, why not send technical communication students to a course covering the &lt;t19/&gt;men&lt;t20/&gt;tal&lt;t21/&gt; and &lt;t22/&gt;metal&lt;t23/&gt; tools that practitioners in their field value?</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T041659Z" creationid="DSS" creationdate="20200817T041659Z">
-        <seg>在（或除了）让技术传播专业的学生学习超出他们学科背景的 Python 课程之前，为什么不让他们学习一门同时涉及使用思考工具和物理工具的课程呢？这正好是技术传播从业者所推崇的。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150002Z" creationid="DSS" creationdate="20200817T041659Z">
+        <seg>在（或除了）让技术传播专业的学生学习超出他们学科背景的 Python 课程之前，为什么不让他们学习一门同时涉及使用&lt;t19/&gt;思考&lt;t20/&gt;工具和&lt;t21/&gt;&lt;t22/&gt;物理&lt;t23/&gt;工具的课程呢？这正好是技术传播从业者所推崇的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6834,8 +6834,9 @@
       <tuv lang="en">
         <seg>In &lt;t0/&gt;2011, &lt;t1/&gt;the technical committee planned to release a “limited DITA profile,” which was still XML-based, but depended heavily on HTML tags (such as &lt;t2/&gt;&lt;p&gt; &lt;t3/&gt;for paragraph and &lt;t4/&gt;&lt;li&gt; &lt;t5/&gt;for list item) to simplify many semantic structures of DITA XML.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T043341Z" creationid="DSS" creationdate="20200817T043341Z">
-        <seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150148Z" creationid="DSS" creationdate="20200817T043341Z">
+        <seg>在&lt;t0/&gt;&lt;t1/&gt;年，技术委员会计划发布一个《限制性DITA概要》文件，该文件仍是基于 XML 的，但是严重依赖 HTML 标签（例如，用&lt;t2/&gt; &lt;p&gt; &lt;t3/&gt;表示段落，用 &lt;t4/&gt;&lt;li&gt; &lt;t5/&gt;表示列表项），以简化DITA XML 的许多语义结构。
+
 </seg>
       </tuv>
     </tu>
@@ -8827,8 +8828,8 @@
       <tuv lang="en">
         <seg>MDITA&lt;t0/&gt;, a Markdown&lt;t1/&gt;3&lt;t2/&gt; format with a subset of XDITA elements that can be used for maximizing input readability while maintaining structure in content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T042405Z" creationid="DSS" creationdate="20200817T042405Z">
-        <seg>MDITA&lt;t0/&gt;，一种带有 XDITA 元素子集的 Markdown 格式，可以在最大化内容可读性的同时，维护内容的结构。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150041Z" creationid="DSS" creationdate="20200817T042405Z">
+        <seg>MDITA&lt;t0/&gt;，一种带有 XDITA 元素子集的 Markdown&lt;t1/&gt;3&lt;t2/&gt; 格式，可以在最大化内容可读性的同时，维护内容的结构。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9965,8 +9966,8 @@
       <tuv lang="en">
         <seg>Professional authoring tools can hide code in What You See &lt;t0/&gt;Is What You Get (WYSIWYG) options, but the rhetorical, pedagogical, and computational principles of &lt;t1/&gt;Creating Intelligent Content with Lightweight DITA &lt;t2/&gt;view and perceive LwDITA topics as code.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T043407Z" creationid="DSS" creationdate="20200817T043245Z">
-        <seg>专业的写作工具拥有“所见即所得”的功能，可以隐藏代码，但是&lt;t1/&gt;本书&lt;t2/&gt;中的修辞、教学和计算机原则会将 LwDITA 话题视为代码来对待。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150042Z" creationid="DSS" creationdate="20200817T043245Z">
+        <seg>专业的写作工具拥有“所见即所得”的功能，可以隐藏代码，但是&lt;t0/&gt;&lt;t1/&gt;本书&lt;t2/&gt;中的修辞、教学和计算机原则会将 LwDITA 话题视为代码来对待。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12235,9 +12236,8 @@
       <tuv lang="en">
         <seg>The idea of simplified DITA code that would reduce its learning curve has been a topic of discussion on the standard's technical committee with OASIS for a few years.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T082913Z" creationid="DSS" creationdate="20200817T043351Z">
-        <seg>简化 DITA 代码以减少其学习成本是 OASIS 标准技术委员会近几年讨论的主题。在2011年，技术委员会计划发布一个《限制性DITA概要》文件，该文件仍是基于 XML 的，但是严重依赖 HTML 标签（例如，用 &lt;p&gt; 表示段落，用 &lt;li&gt; 表示列表项），以简化DITA XML 的许多语义结构。
-</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150116Z" creationid="DSS" creationdate="20200817T043351Z">
+        <seg>简化 DITA 代码以减少其学习成本是 OASIS 标准技术委员会近几年讨论的主题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14004,8 +14004,8 @@
       <tuv lang="en">
         <seg>This type of training will primarily enhance an author's understanding &lt;t6/&gt;of the layers of abstraction and common argumentation moves behind an intel&lt;t7/&gt;ligent content solution.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T041901Z" creationid="DSS" creationdate="20200817T041901Z">
-        <seg>这种类型的培训主要会增强作者对抽象层级和智能内容解决方案背后的常见论证的理解。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150013Z" creationid="DSS" creationdate="20200817T041901Z">
+        <seg>这种类型的培训主要会增强作者对抽象层级和智能内容解决方案背后的常见论证的理解。&lt;t6/&gt;&lt;t7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
