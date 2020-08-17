@@ -3545,6 +3545,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Both need the HTML5&lt;t2/&gt; tag of &lt;t3/&gt;&lt;img&gt; &lt;t4/&gt;with the attribute of &lt;t5/&gt;@src &lt;t6/&gt;for the source file of an image.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T143146Z" creationid="DSS" creationdate="20200817T143146Z">
+        <seg>两者都需要使用包含 @src 属性的 HTML5 标签&lt;t3/&gt;&lt;img&gt;&lt;t4/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By &lt;t2/&gt;1999, &lt;t3/&gt;Dave was aware of my participation as IBM's primary representa&lt;t4/&gt;tive with the XSLT and CSS standards activities at the World Wide Web Consortium, and I delivered a presentation at a formative meeting in California that forecast the possibility of XML to solve IBM's still-linger&lt;t5/&gt;ing problems with variant tools and markup usage.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130739Z" creationid="DSS" creationdate="20200726T154657Z">
@@ -5187,6 +5195,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T134327Z" creationid="DSS" creationdate="20200817T134320Z">
         <seg>图6.26 XDITA 话题中的图像和图形组件，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;6.28 &lt;t1/&gt;Image and figure components in an HDITA topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T142747Z" creationid="DSS" creationdate="20200817T142747Z">
+        <seg>图&lt;t0/&gt;6.28&lt;t1/&gt; HDITA 话题中的图像和图形组件，</seg>
       </tuv>
     </tu>
     <tu>
