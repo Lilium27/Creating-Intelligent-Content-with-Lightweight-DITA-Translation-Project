@@ -472,8 +472,8 @@
       <tuv lang="en">
         <seg>&lt;t0/&gt;Table 3.1&lt;t1/&gt; reproduces the simple topic/article that Priestley included in that introductory blog post:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T091751Z" creationid="DSS" creationdate="20200817T091751Z">
-        <seg>表3.1再现了普里斯特利在那篇介绍性博文中提到的的简单话题/项目：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150831Z" creationid="DSS" creationdate="20200817T091751Z">
+        <seg>表3.1再现了普里斯特利在那篇介绍性博文中提到的的简单话题/项目：&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -779,8 +779,8 @@
       <tuv lang="en">
         <seg>&lt;t2/&gt;116) &lt;t3/&gt;widely adopted in the field of technical communication.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T084151Z" creationid="DSS" creationdate="20200817T084151Z">
-        <seg>&lt;t2/&gt;116) 。这种方式已经在技术传播领域得到广泛采用。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150522Z" creationid="DSS" creationdate="20200817T084151Z">
+        <seg>&lt;t2/&gt;&lt;t3/&gt;116) 。这种方式已经在技术传播领域得到广泛采用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1483,8 +1483,8 @@
       <tuv lang="en">
         <seg>&lt;t5/&gt;Priestley proposed a combi&lt;t6/&gt;nation of those solutions:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T091436Z" creationid="DSS" creationdate="20200817T091436Z">
-        <seg>普里斯特利将这些解决方案融合了起来，他提议：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150831Z" creationid="DSS" creationdate="20200817T091436Z">
+        <seg>&lt;t5/&gt;普里斯特利将这些解决方案融合了起来，他提议：</seg>
       </tuv>
     </tu>
     <tu>
@@ -2155,8 +2155,8 @@
       <tuv lang="en">
         <seg>According to Priestley, possible solutions would include &lt;t0/&gt;1) &lt;t1/&gt;simplifying XML models, “as seen with many of the lightweight DITA tools that have come to market over the last few years,” or &lt;t2/&gt;2) &lt;t3/&gt;rebasing on an HTML5 model, “as seen with O'Reilly and more recently Pearson” &lt;t4/&gt;(2014).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T091411Z" creationid="DSS" creationdate="20200817T091411Z">
-        <seg>根据普里斯特利的说法，可能的解决方案包括 &lt;t0/&gt;1) &lt;t1/&gt;简化  XML 模型，“就像在过去几年中出现在市场上的许多轻量级 DITA 工具一样”，或者 &lt;t2/&gt;2) &lt;t3/&gt;重新基于 HTML5 模型构建，“就像在O'Reilly 出版物和最近培生集团（Pearsson）提出的概念中所看到的那样”(2014)。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150803Z" creationid="DSS" creationdate="20200817T091411Z">
+        <seg>根据普里斯特利的说法，可能的解决方案包括 &lt;t0/&gt;1) &lt;t1/&gt;简化  XML 模型，“就像在过去几年中出现在市场上的许多轻量级 DITA 工具一样”，或者 &lt;t2/&gt;2) &lt;t3/&gt;&lt;t4/&gt;重新基于 HTML5 模型构建，“就像在O'Reilly 出版物和最近培生集团（Pearsson）提出的概念中所看到的那样”(2014)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4784,8 +4784,8 @@
       <tuv lang="en">
         <seg>FIGURE 1.13 &lt;t0/&gt;DITA map aggregating different LwDITA formats.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T085106Z" creationid="DSS" creationdate="20200817T085106Z">
-        <seg>图1.13 聚合力不同 LwDITA 格式的 DITA 地图。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150517Z" creationid="DSS" creationdate="20200817T085106Z">
+        <seg>图1.13 &lt;t0/&gt;聚合了不同 LwDITA 格式的话题的 DITA 地图。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5586,8 +5586,8 @@
       <tuv lang="en">
         <seg>For readers already familiar with the DITA standard, a concise version would say that LwDITA is “like DITA but with fewer XML tags.” A publishing work&lt;t0/&gt;flow based on LwDITA can benefit from many of the popular content reuse and structuring mechanisms available in DITA, but without the long catalog of ele&lt;t1/&gt;ment structures (or pigeonholes, as &lt;t2/&gt;Chapter &lt;t3/&gt;2&lt;t4/&gt; &lt;t5/&gt;described them) that has given the DITA standard a reputation for being overwhelming to authors &lt;t6/&gt;- &lt;t7/&gt;particularly those who are new to structured authoring.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T090831Z" creationid="DSS" creationdate="20200817T090831Z">
-        <seg>对于已经熟悉 DITA 标准的读者来说，简化版的 LwDITA “类似于 DITA，但是使用到的 XML 标签更少”。基于 LwDITA 的发布工作流得益于 DITA 中许多受欢迎的内容复用和内容搭建机制，同时又没有了冗长的元素结构（或者第二章里提到的鸽笼式结构），这些元素结构让作者们觉得 DITA 标准负担过重，尤其对那些刚开始接触结构化创作的创作者来说。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150644Z" creationid="DSS" creationdate="20200817T090831Z">
+        <seg>对于已经熟悉 DITA 标准的读者来说，简化版的 LwDITA “类似于 DITA，但是使用到的 XML 标签更少”。基于 LwDITA 的发布工作流得益于 DITA 中许多受欢迎的内容复用和内容搭建机制，同时又没有了冗长的元素结构（或者第二章里提到的鸽笼式结构），这些元素结构让作者们觉得 DITA 标准负担过重，尤其对那些刚开始接触结构化创作的创作者来说。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5658,8 +5658,8 @@
       <tuv lang="en">
         <seg>Fortunately, DITA is still evolving and its tech&lt;t0/&gt;nical committee at OASIS is at the time of this writing planning version &lt;t1/&gt;2.0 &lt;t2/&gt;of this content standard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T085242Z" creationid="DSS" creationdate="20200817T085242Z">
-        <seg>幸运的是，DITA 仍在发展中，OASIS DITA 技术委员会正在编写 DITA 内容标准的2.0版本。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150549Z" creationid="DSS" creationdate="20200817T085242Z">
+        <seg>幸运的是，DITA 仍在发展中，OASIS DITA 技术委员会正在编写 DITA 内容标准的&lt;t1/&gt;2.0&lt;t2/&gt;版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6988,8 +6988,8 @@
       <tuv lang="en">
         <seg>In HDITA (the HTML5-based version of LwDITA), those specialized elements were “generic article or section elements with a custom attribute that uses a simplified form of the DITA class syntax.” &lt;t0/&gt;Table 3.2&lt;t1/&gt; reproduces the table of specialized structural elements that enabled the representation of concept, task, and reference in XDITA and HDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T091857Z" creationid="DSS" creationdate="20200817T091857Z">
-        <seg>在 HDITA（基于 HTML5 的 LwDITA 版本）中，那些专门化元素是“具有自定义属性的通用项目或节元素，使用了 DITA 类语法的简化形式。”表3.2重现了专门化结构元素，这些元素可以在 XDITA 和 HDITA 中表示概念（concept）、任务（task）和引用（reference）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150835Z" creationid="DSS" creationdate="20200817T091857Z">
+        <seg>在 HDITA（基于 HTML5 的 LwDITA 版本）中，那些专门化元素是“具有自定义属性的通用项目或节元素，使用了 DITA 类语法的简化形式。”表3.2重现了专门化结构元素，这些元素可以在 XDITA 和 HDITA 中表示概念（concept）、任务（task）和引用（reference）。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7300,8 +7300,8 @@
       <tuv lang="en">
         <seg>In comparison to DITA &lt;t0/&gt;1.3, &lt;t1/&gt;LwDITA has a smaller element type and attribute set, stricter con&lt;t2/&gt;tent models, and a reduced feature set.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T090650Z" creationid="DSS" creationdate="20200817T090650Z">
-        <seg>与 DITA 标准1.3版本相比，LwDITA 拥有更小的元素类型和属性集、更严格的内容模型和更小的特征集。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150644Z" creationid="DSS" creationdate="20200817T090650Z">
+        <seg>与 DITA 标准&lt;t0/&gt;1.3&lt;t1/&gt;版本相比，LwDITA 拥有更小的元素类型和属性集、更严格的内容模型和更小的特征集。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7612,8 +7612,8 @@
       <tuv lang="en">
         <seg>In the spring of &lt;t0/&gt;2014, &lt;t1/&gt;I was teaching a section of the course ENGL &lt;t2/&gt;3814: &lt;t3/&gt;Creating User Documentation&lt;t4/&gt; at Virginia Tech.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T092245Z" creationid="DSS" creationdate="20200817T092245Z">
-        <seg>2014年春天，我在弗吉尼亚理工大学教授课程 ENGL 3814：《用户文档写作》这门课程的部分内容，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150919Z" creationid="DSS" creationdate="20200817T092245Z">
+        <seg>2014年春天，我在弗吉尼亚理工大学教授课程 ENGL 3814：《&lt;t3/&gt;用户文档写作&lt;t4/&gt;》这门课程的部分内容，</seg>
       </tuv>
     </tu>
     <tu>
@@ -10880,8 +10880,8 @@
       <tuv lang="en">
         <seg>TABLE &lt;t0/&gt;3.1 &lt;t1/&gt;Sample LwDITA topic, from Michael Priestley's blog post "Overview of Lightweight DITA (XDITA and HDITA)." The XDITA topic on the left column includes elements from the revised LwDITA proposal presented to the DITA Technical Committee in &lt;t2/&gt;2012.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T092049Z" creationid="DSS" creationdate="20200817T092049Z">
-        <seg>表3.1 来自迈克尔·普里斯特利的博客文章《轻量级DITA概述（XDITA 和 HDITA）》中的 LwDITA 话题示例。左列中的 XDITA 话题包含了修改后的 LwDITA 提案中的元素，该提案于2012年提交给 DITA 技术委员会。右列的 HDITA 版本复用了 HTML5 中的标签规范。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150840Z" creationid="DSS" creationdate="20200817T092049Z">
+        <seg>表3.1 来自迈克尔·普里斯特利的博客文章《轻量级DITA概述（XDITA 和 HDITA）》中的 LwDITA 话题示例。左列中的 XDITA 话题包含了修改后的 LwDITA 提案中的元素，该提案于2012年提交给 DITA 技术委员会。右列的 HDITA 版本复用了 HTML5 中的标签规范。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11226,8 +11226,8 @@
       <tuv lang="en">
         <seg>The &lt;t0/&gt;2012 &lt;t1/&gt;Adobe video described a future of technical communication that now is more like its present, or even its past.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T085331Z" creationid="DSS" creationdate="20200817T085331Z">
-        <seg>2012年，Adobe 的一则视频描述了技术传播行业的未来，现在看来，那个视频的内容更像是技术传播行业的现状，甚至是过去。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150550Z" creationid="DSS" creationdate="20200817T085331Z">
+        <seg>2012年，Adobe 的一则视频描述了技术传播行业的未来，现在看来，那个视频的内容更像是技术传播行业的现状，甚至是过去。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11906,8 +11906,8 @@
       <tuv lang="en">
         <seg>The concept of evolu&lt;t0/&gt;tion, and particularly themes related to Darwin's Theory of Evolution, has been a component of DITA terminology since its origins at IBM. The &lt;t1/&gt;D&lt;t2/&gt; for &lt;t3/&gt;Darwin &lt;t4/&gt;is the first letter in the standard's acronym, and some additional Darwinian terms appear in the &lt;t5/&gt;Technical Communication&lt;t6/&gt; article from &lt;t7/&gt;2001 &lt;t8/&gt;that intro&lt;t9/&gt;duced DITA to the world outside IBM. When describing the process of topic specialization, for example, Michael Priestley and his co-authors noted in that article that “specialization also lets you manage groups of related types by mak&lt;t10/&gt;ing changes to their common ancestor, instead of maintaining each instance separately” (Priestley et al., &lt;t11/&gt;2001, &lt;t12/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T090958Z" creationid="DSS" creationdate="20200817T090958Z">
-        <seg>进化（evolution）的概念，特别是与达尔文进化论相关的主题，自 DITA 从 IBM 诞生以来就一直是 DITA 术语的组成部分。表示“达尔文”（Darwin）的“D”是 DITA 标准首字母缩略词中的第一个字母，另外一些与“达尔文”相关的术语出现在了发表于2001年的《技术传播》一文中，该文章向 IBM 之外的世界介绍了DITA。例如，在描述话题专门化的过程时，迈克尔·普里斯特利及其合作者在文章中指出，“话题专门化还允许管理相关类型的组合，更改他们共同的祖先元素，而不是单独维护每个实例”(Priestley et al., &lt;t11/&gt;2001, &lt;t12/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150817Z" creationid="DSS" creationdate="20200817T090958Z">
+        <seg>进化（evolution）的概念，特别是与达尔文进化论相关的主题，自 DITA 从 IBM 诞生以来就一直是 DITA 术语的组成部分。表示“达尔文”（Darwin）的“&lt;t1/&gt;D&lt;t2/&gt;”&lt;t3/&gt;&lt;t4/&gt;是 DITA 标准首字母缩略词中的第一个字母，另外一些与“达尔文”相关的术语出现在了发表于2001年的《&lt;t5/&gt;技术传播&lt;t6/&gt;》&lt;t7/&gt;&lt;t8/&gt;一文中，该文章向 IBM 之外的世界介绍了DITA。例如，在描述话题专门化的过程时，迈克尔·普里斯特利及其合作者在文章中指出，“话题专门化还允许管理相关类型的组合，更改他们共同的祖先元素，而不是单独维护每个实例”(Priestley et al., &lt;t11/&gt;2001, &lt;t12/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12018,8 +12018,8 @@
       <tuv lang="en">
         <seg>The end users&lt;t1/&gt; will see all the recipes with the same structure regardless of authoring process.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T085215Z" creationid="DSS" creationdate="20200817T085215Z">
-        <seg>无论写作过程时怎样的，终端用户都将看到具有相同结构的菜谱。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150519Z" creationid="DSS" creationdate="20200817T085215Z">
+        <seg>无论写作过程时怎样的，终端用户都将看到具有相同结构的菜谱。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12444,8 +12444,8 @@
       <tuv lang="en">
         <seg>The official definition of Lightweight DITA, which is included in the OASIS committee note/white paper titled &lt;t0/&gt;Lightweight DITA: An Introduction&lt;t1/&gt; that I co&lt;t2/&gt;edited with Kris Eberlein and Alan Houser, is as follows:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T090621Z" creationid="DSS" creationdate="20200817T090621Z">
-        <seg>OASIS 委员会在《轻量级 DITA 简介》白皮书中定义了轻量级 DITA，该白皮书由我与克里斯·埃伯莱因、艾伦·豪共同编写完成，轻量级 DITA 的官方定义如下：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150627Z" creationid="DSS" creationdate="20200817T090621Z">
+        <seg>OASIS 委员会在《&lt;t0/&gt;轻量级 DITA 简介&lt;t1/&gt;》白皮书中定义了轻量级 DITA，该白皮书由我与克里斯·埃伯莱因、艾伦·豪共同编写完成，轻量级 DITA 的官方定义如下：</seg>
       </tuv>
     </tu>
     <tu>
