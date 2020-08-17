@@ -592,6 +592,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t11/&gt;50).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T040717Z" creationid="DSS" creationdate="20200817T040717Z">
+        <seg>&lt;t11/&gt;50)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t11/&gt;Lorena Barba has stronger doubts about the ambitious benefits of Wing's computational thinking.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T100350Z" creationid="DSS" creationdate="20200810T145653Z">
@@ -819,8 +827,8 @@
       <tuv lang="en">
         <seg>&lt;t2/&gt;In Wing's model, however, computing abstractions go beyond numerical abstractions and cover sym&lt;t3/&gt;bolic, algorithmic, and representational abstractions (Wing, &lt;t4/&gt;2008).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T040531Z" creationid="DSS" creationdate="20200817T040531Z">
-        <seg>然而，在温的模型中，计算机思维的抽象超越了数字抽象，涵盖了符号抽象、算法抽象和具象抽象 (Wing, &lt;t4/&gt;2008)。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T040614Z" creationid="DSS" creationdate="20200817T040531Z">
+        <seg>然而，在温的模型中，计算机思维的抽象概念超越了数字抽象，涵盖了符号抽象、算法抽象和具象抽象 (Wing, &lt;t4/&gt;2008)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1361,6 +1369,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t5/&gt;Others will emphasize the role of automation even in Wing's definition of computational thinking.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T040537Z" creationid="DSS" creationdate="20200817T040537Z">
+        <seg>有些人会强调自动化的重要性，甚至在温对计算机思维的定义中也是如此。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t5/&gt;represented in HDITA are the navigation element (&lt;t6/&gt;&lt;nav&gt;&lt;t7/&gt;) for open&lt;t8/&gt;i&lt;t9/&gt;ng a map environment, the title (&lt;t10/&gt;&lt;title&gt; &lt;t11/&gt;and &lt;t12/&gt;&lt;h1&gt;&lt;t13/&gt;5&lt;t14/&gt;) to label the map and its deliverables, and a hyper reference inside a list item (&lt;t15/&gt;&lt;a href&gt; &lt;t16/&gt;inside a &lt;t17/&gt;&lt;li&gt;&lt;t18/&gt;) to express a topic reference.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T080238Z" creationid="DSS" creationdate="20200807T072106Z">
@@ -1405,6 +1421,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T075657Z" creationid="lenovo" creationdate="20200813T075657Z">
         <seg>&lt;t6/&gt;因此，XDITA中每个可用的内容组件在HDITA中都有对应的组件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t6/&gt;Creating Intelligent Content with Lightweight DITA&lt;t7/&gt; does not have the purpose of minimizing the importance of computing automations, and by all means technical communicators should learn computing programming lan&lt;t8/&gt;guages and workflows if given the chance.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T040634Z" creationid="DSS" creationdate="20200817T040610Z">
+        <seg>&lt;t6/&gt;本书&lt;t7/&gt;的目的并不是弱化计算自动化的重要性，如果有机会的话，技术传播人员应该通过各种方式学习计算机编程语言及其工作流。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12300,6 +12324,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130814Z" creationid="DSS" creationdate="20200726T093719Z">
         <seg>这本书并关于某一个特定的工具或软件平台：LwDITA 作为一个仍在法阵中的开放标准，不依赖于任何代理商或“应用程序”。哈克斯用以下场景解释了信息标准对技术传播工程师的重要性，该解释同样适用于 LwDITA：&lt;t12/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This book treats ambitious promises of computational thinking with caution, as “there is little evidence to believe that students are learning higher-order thinking skills by learning programming” (Guzdial, &lt;t9/&gt;2016, &lt;t10/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T040706Z" creationid="DSS" creationdate="20200817T040706Z">
+        <seg>本书对计算机思维雄心勃勃的承诺持谨慎态度，因为“几乎没有证据表明，学生通过学习编程可以掌握更高层次的思维技能” (Guzdial, &lt;t9/&gt;2016, &lt;t10/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
