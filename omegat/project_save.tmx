@@ -3401,6 +3401,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Computational thinking is the thought processes involved in formulating problems and their solutions so that the solutions are represented in a form that can be effectively carried out by an information-processing agent.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T034505Z" creationid="DSS" creationdate="20200817T034505Z">
+        <seg>计算机思维是一种思维过程，涉及如何表述问题和如何解决问题，因此问题的解决方案可以以一种能被信息处理工具有效执行的形式表现出来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Computing professionals and educators have the responsibility to make computation available to thinkers of all disciplines.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T143747Z" creationid="DSS" creationdate="20200810T143747Z">
