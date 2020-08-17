@@ -1401,6 +1401,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t5/&gt;The simplified authoring experience of LwDITA, however, is based on a single topic type with elements common to most information units, including the following:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T054033Z" creationid="DSS" creationdate="20200817T054033Z">
+        <seg>而 LwDITA 的简化写作基于单一话题类型，其中包括大多数信息单元共有的元素，如：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t5/&gt;represented in HDITA are the navigation element (&lt;t6/&gt;&lt;nav&gt;&lt;t7/&gt;) for open&lt;t8/&gt;i&lt;t9/&gt;ng a map environment, the title (&lt;t10/&gt;&lt;title&gt; &lt;t11/&gt;and &lt;t12/&gt;&lt;h1&gt;&lt;t13/&gt;5&lt;t14/&gt;) to label the map and its deliverables, and a hyper reference inside a list item (&lt;t15/&gt;&lt;a href&gt; &lt;t16/&gt;inside a &lt;t17/&gt;&lt;li&gt;&lt;t18/&gt;) to express a topic reference.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T080238Z" creationid="DSS" creationdate="20200807T072106Z">
@@ -4704,8 +4712,16 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;1.3 &lt;t1/&gt;Marinara sauce recipe as a DITA task.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T093618Z" creationid="DSS" creationdate="20200725T070427Z">
-        <seg>图&lt;t0/&gt;1.3&lt;t1/&gt;改造成 DITA 任务（task）话题的意式番茄罗勒酱菜谱。&lt;100/100/95% &gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T054139Z" creationid="DSS" creationdate="20200725T070427Z">
+        <seg>图&lt;t0/&gt;1.3&lt;t1/&gt;编写为 DITA 任务（task）话题的意式番茄罗勒酱菜谱。&lt;100/100/95% &gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;1.8 &lt;t1/&gt;Marinara sauce recipe as an XDITA topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T054214Z" creationid="DSS" creationdate="20200817T054108Z">
+        <seg>图&lt;t0/&gt;1.8 &lt;t1/&gt; 编写为 XDITA 话题的意式番茄罗勒酱菜谱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4777,16 +4793,16 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;5.2 &lt;t1/&gt;Marinara sauce recipe as a DITA task.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T093517Z" creationid="DSS" creationdate="20200806T093517Z">
-        <seg>图&lt;t0/&gt;5.2&lt;t1/&gt;改造成 DITA 任务（task）话题的意式番茄罗勒酱菜谱。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T054149Z" creationid="DSS" creationdate="20200806T093517Z">
+        <seg>图&lt;t0/&gt;5.2&lt;t1/&gt;编写为 DITA 任务（task）话题的意式番茄罗勒酱菜谱。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;5.3 &lt;t1/&gt;Marinara sauce recipe critique as a DITA concept.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T095526Z" creationid="DSS" creationdate="20200806T095526Z">
-        <seg>图&lt;t0/&gt;5.3&lt;t1/&gt;改造成 DITA 概念（concept）话题的意式番茄罗勒酱菜谱评价</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T054134Z" creationid="DSS" creationdate="20200806T095526Z">
+        <seg>图&lt;t0/&gt;5.3&lt;t1/&gt;编写为 DITA 概念（concept）话题的意式番茄罗勒酱菜谱评价</seg>
       </tuv>
     </tu>
     <tu>
@@ -5660,6 +5676,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131231Z" creationid="lenovo" creationdate="20200813T014023Z">
         <seg>然而，与桌面发布工作流相比，自动化和格式化可交付成果(我将在以后的章节中讨论的主题)并不一定都能选用提前设定的冰淇淋风味，但对于大多数内容作者来说，这些并非常规任务。&lt;t7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, it is no longer a task, since LwDITA's initial specification only includes one topic type.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T054226Z" creationid="DSS" creationdate="20200817T054226Z">
+        <seg>但是，它不再是一个任务（task）话题了，因为 LwDITA 的初始规范中只包含一种主题话题。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -10815,6 +10839,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The XML tags are still visible&lt;t2/&gt; and the recipe looks like a DITA topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T054218Z" creationid="DSS" creationdate="20200817T054218Z">
+        <seg>XML 标签仍然可见，菜谱看起来像一个 DITA 话题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The abstractions relevant to the creation of intelligent content with LwDITA introduced in this chapter are a combination of the semantic (process vs. object) model and the computer architecture levels.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T081310Z" creationid="DSS" creationdate="20200808T081310Z">
@@ -13061,6 +13093,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141813Z" creationid="DSS" creationdate="20200816T134741Z">
         <seg>标题组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Title: A label that connotes the purpose of the content that is associated with it</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T054250Z" creationid="DSS" creationdate="20200817T054250Z">
+        <seg>标题（title）：表示内容写作目的标签</seg>
       </tuv>
     </tu>
     <tu>
