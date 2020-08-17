@@ -2481,6 +2481,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An author trained in principles of structured authoring could use XDITA and take advantage of its DITA-like sections, elements, and constraints.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T081410Z" creationid="DSS" creationdate="20200817T081410Z">
+        <seg>受过结构化写作原则训练的作者可以使用 XDITA，并利用其与 DITA 类似的模块、元素和约束规则。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An effective topic covers only one subject.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154230Z" creationid="DSS" creationdate="20200724T154230Z">
@@ -14008,6 +14016,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131236Z" creationid="lenovo" creationdate="20200813T022106Z">
         <seg>XDITA向更多的组织开源结构化创作和自动化发布工作流。&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XDITA pro&lt;t0/&gt;vides some of the DITA mechanisms for reuse and single sourcing that could be essential for a technical communicator but probably distracting or confusing for a casual content contributor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T082109Z" creationid="DSS" creationdate="20200817T082109Z">
+        <seg>XDITA 提供了一些用于内容复用和同源开发的 DITA 机制，这些机制对于技术传播人员来说不可或缺，但对于非职业的内容创作者来说可能会分散注意力或制造混乱。</seg>
       </tuv>
     </tu>
     <tu>
