@@ -2299,8 +2299,8 @@
       <tuv lang="en">
         <seg>After that, I decided to contact Priestley and invite him to collaborate on a research project about the XDITA</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T092453Z" creationid="DSS" creationdate="20200817T092453Z">
-        <seg>在那之后，我决定联系普里斯特利并邀请他合作开展一个从创作者视角研究 XDITA 和 HDITA 的项目。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T092551Z" creationid="DSS" creationdate="20200817T092453Z">
+        <seg>在那之后，我决定联系普里斯特利并邀请他合作开展一个从作者视角研究 XDITA </seg>
       </tuv>
     </tu>
     <tu>
@@ -2531,8 +2531,8 @@
       <tuv lang="en">
         <seg>An appropriate reaction to this urgency should separate that mandate in manageable layers of abstraction that can be addressed individually by working on a progression of activities and ideas by focusing on some concepts while ignoring others that would be revealed after completing the current layer.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T152319Z" creationid="DSS" creationdate="20200812T152319Z">
-        <seg>对于这种的紧迫情况，恰当的应对方案应该是将可处理的抽象层级中的命令与只关注某些概念的想法区分开来，前者可以通过一系列的操作逐个解决，而后者忽略了在当前层级完成之后将揭示的其他概念。professional and technical communication</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T092810Z" creationid="DSS" creationdate="20200812T152319Z">
+        <seg>对于这种的紧迫情况，恰当的应对方案应该是将可处理的抽象层级中的命令与只关注某些概念的想法区分开来，前者可以通过一系列的操作逐个解决，而后者忽略了在当前层级完成之后将揭示的其他概念。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6562,8 +6562,8 @@
       <tuv lang="en">
         <seg>If the webinar is transcribed into text, and if that text is processed through the lay&lt;t0/&gt;ers of abstraction needed to have it structured and tagged for human readers and machine processors, “the main work is done; everything else can be automated” (Rockley, 2016).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131409Z" creationid="DSS" creationdate="20200810T130335Z">
-        <seg>罗克利以一家公司举办的网络研讨会为例，解释了内容开发的映射过程。如果研讨会的研讨内容被转录成文本，且文本需要通过经过抽象层级的处理，进行结构化，打上标签，以供人类阅读和机器处理，“映射就完成了，万物皆可自动化”  (Rockley, 2016)。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T092651Z" creationid="DSS" creationdate="20200810T130335Z">
+        <seg>如果研讨会的研讨内容被转录成文本，且文本需要通过经过抽象层级的处理，进行结构化，打上标签，以供人类阅读和机器处理，“映射就完成了，万物皆可自动化”  (Rockley, 2016)。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10041,6 +10041,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131411Z" creationid="DSS" creationdate="20200810T132015Z">
         <seg>罗克利&lt;t15/&gt;和&lt;t16/&gt;&lt;t17/&gt;戈尔纳（Gollner）认为智能内容是发展可持续内容战略的关键一步，他们指出：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rockley explains that mapping process as it pertains to content development with the example of a company hosting a webinar.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T092705Z" creationid="DSS" creationdate="20200817T092705Z">
+        <seg>罗克利以一家公司举办的网络研讨会为例，解释了内容开发的映射过程。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14783,8 +14791,8 @@
       <tuv lang="en">
         <seg>and HDITA author perspective: As a college professor, I had access to a popu&lt;t0/&gt;lation of novice content creators who were familiar with HTML but did not know XML.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131107Z" creationid="DSS" creationdate="20200802T115612Z">
-        <seg>在那之后，我决定联系普里斯特利并邀请他合作开展一个从作者视角研究 XDITA 和 HDITA 的项目：作为一名大学教授，我可以接触到一群熟悉 HTML，但不太了解 XML的内容创建新手。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T092504Z" creationid="DSS" creationdate="20200802T115612Z">
+        <seg>和 HDITA 的项目：作为一名大学教授，我可以接触到一群熟悉 HTML，但不太了解 XML的内容创建新手。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
