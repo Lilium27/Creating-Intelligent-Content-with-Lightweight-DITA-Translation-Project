@@ -9177,6 +9177,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Notice that the images, both in inline and block mode, can include a com&lt;t0/&gt;ponent for alternate text (&lt;t1/&gt;&lt;alt&gt;&lt;t2/&gt;), which provides a behind-the-scenes textual description for human users and machine processors that cannot perceive images or require additional information.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T134220Z" creationid="DSS" creationdate="20200817T134220Z">
+        <seg>请注意，无论是内联模式和块级模式下，图像都可以包含替代文本 (&lt;t1/&gt;&lt;alt&gt;&lt;t2/&gt;)组件，该组件为无法看到图像或需要额外信息帮助理解的用户，以及机器处理器提供后台文本描述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Now it's the time to fulfill that promise.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T085501Z" creationid="DSS" creationdate="20200806T085501Z">
