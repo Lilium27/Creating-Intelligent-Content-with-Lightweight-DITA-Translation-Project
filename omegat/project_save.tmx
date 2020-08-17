@@ -11255,6 +11255,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The DITA-OT, how&lt;t0/&gt;ever, is a command-line application that does not have a built-in graphical user interface (GUI).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200817T141040Z" creationid="lenovo" creationdate="20200817T141040Z">
+        <seg>但DITA-OT是一个命令行应用程序，它没有内置的图形用户界面(GUI)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The GFM spec allows the use&lt;t2/&gt; of the characters &lt;t3/&gt;-&lt;t4/&gt;, &lt;t5/&gt;+&lt;t6/&gt;, &lt;t7/&gt;or &lt;t8/&gt;* &lt;t9/&gt;as unordered list item markers.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T132222Z" creationid="DSS" creationdate="20200817T132222Z">
@@ -14449,6 +14457,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T142650Z" creationid="DSS" creationdate="20200720T153908Z">
         <seg>马修森所说的“可重用内容”是指“在多个信息产品中使用内容组件的&lt;t0/&gt;实践”（埃伯莱因，&lt;t1/&gt;2016&lt;t2/&gt;年，第</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When introducing the DITA-OT to undergraduate techni&lt;t1/&gt;cal communication students who have never seen a command line program, I have found some good resources in the Software Carpentry curriculum for “The Unix Shell,”&lt;t2/&gt;5&lt;t3/&gt; which describes the command-line as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200817T141357Z" creationid="lenovo" creationdate="20200817T141357Z">
+        <seg>在向从未见过命令行程序的技术传播专业本科生介绍DITA-OT时，我在Software Carpentry课程中找到了一些有关“The Unix Shell”极佳资源，对命令行的描述如下:</seg>
       </tuv>
     </tu>
     <tu>
