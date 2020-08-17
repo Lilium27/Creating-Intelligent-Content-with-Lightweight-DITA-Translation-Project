@@ -14085,6 +14085,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unordered list markers can be a &lt;t0/&gt;-, +, &lt;t1/&gt;or &lt;t2/&gt;* &lt;t3/&gt;character, as shown in &lt;t4/&gt;Figure &lt;t5/&gt;6.25&lt;t6/&gt; &lt;t7/&gt;of an MDITA topic with a list of what the &lt;t8/&gt;Sensei Sushi&lt;t9/&gt; franchise package offers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T131954Z" creationid="DSS" creationdate="20200817T131954Z">
+        <seg>无序列表标记可以是 &lt;t0/&gt;-, +, &lt;t1/&gt;或 &lt;t2/&gt;* &lt;t3/&gt;，图6.25展示了一个包含列表的 MDITA 话题，列表罗列了购买 &lt;t8/&gt;Sensei Sushi&lt;t9/&gt; 特许经营选可以获得的权利。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unordered list&lt;t0/&gt;: a series of items in which the order is not significant.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T153256Z" creationid="DSS" creationdate="20200804T131917Z">
