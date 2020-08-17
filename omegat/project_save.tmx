@@ -6650,8 +6650,8 @@
       <tuv lang="en">
         <seg>Image and Figure</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T130232Z" creationid="DSS" creationdate="20200817T130232Z">
-        <seg>图像组件和图表组件</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T133155Z" creationid="DSS" creationdate="20200817T130232Z">
+        <seg>图像组件和图形组件</seg>
       </tuv>
     </tu>
     <tu>
@@ -14921,6 +14921,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T151036Z" creationid="DSS" creationdate="20200813T151036Z">
         <seg>是一行 XML 注释（包含在字符 &lt;&lt;t0/&gt;!-- &lt;t1/&gt;和 &lt;t2/&gt;--&gt;&lt;t3/&gt; 之间），我把它作为实际内容的临时占位符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>figure (&lt;t0/&gt;&lt;fig&gt;&lt;t1/&gt;) environment provides a wrap for the image.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T133232Z" creationid="DSS" creationdate="20200817T133232Z">
+        <seg>图形组件 (&lt;t0/&gt;&lt;fig&gt;&lt;t1/&gt;) 创建了一个内容环境，用于包裹图像组件。</seg>
       </tuv>
     </tu>
     <tu>
