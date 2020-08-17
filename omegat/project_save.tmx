@@ -4918,6 +4918,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE 6.29 &lt;t0/&gt;Preview of the HDITA topic with image and figure environments in&lt;t1/&gt; a web browser.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T143646Z" creationid="DSS" creationdate="20200817T143646Z">
+        <seg>图6.29 &lt;t0/&gt;包含图像和图形组件的 HDITA 话题在浏览器中的预览。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE 6.3 &lt;t0/&gt;Minimal HDITA topic.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T135758Z" creationid="DSS" creationdate="20200816T133626Z">
