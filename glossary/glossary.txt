@@ -462,3 +462,4 @@ Manuel Perez-Quinones	曼努埃尔·佩雷斯-奎诺恩
 DITA-aware	支持DITA
 Patrick Bosek	帕特里克·博塞克
 Johndan Johnson-Eilola	琼丹·约翰逊-艾劳拉
+Creating User Documentation	用户文档写作
