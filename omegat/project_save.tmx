@@ -3409,6 +3409,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Both XDITA and HDITA can be authored in WYSIWYG editors that keep code and tags hidden (permanently or temporarily, depending on the specific software tool) from the content creator.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T082153Z" creationid="DSS" creationdate="20200817T082153Z">
+        <seg>XDITA 和 HDITA 都可以在 WYSIWYG 编辑器中编写，这些编辑器可以向内容创建者隐藏代码和标签（可以永久隐藏，也可以暂时隐藏，取决于选择的软件工具）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By &lt;t2/&gt;1999, &lt;t3/&gt;Dave was aware of my participation as IBM's primary representa&lt;t4/&gt;tive with the XSLT and CSS standards activities at the World Wide Web Consortium, and I delivered a presentation at a formative meeting in California that forecast the possibility of XML to solve IBM's still-linger&lt;t5/&gt;ing problems with variant tools and markup usage.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130739Z" creationid="DSS" creationdate="20200726T154657Z">
@@ -5468,6 +5476,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141455Z" creationid="DSS" creationdate="20200816T141455Z">
         <seg>HDITA 和 MDITA 格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>HDITA can be less intimidating for collaborators with experience creating content in HTML5, while still including reuse and filtering options.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T082128Z" creationid="DSS" creationdate="20200817T082128Z">
+        <seg>对于利用过 HTML5 创建内容的写作者来说，HDITA 没有那么可怕，并仍然包含内容复用和过滤的功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8221,6 +8237,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T133727Z" creationid="DSS" creationdate="20200816T133727Z">
         <seg>MDITA 格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MDITA is a plain text variant for develop&lt;t1/&gt;ers and authors who do not need advanced content reuse capabilities (but they still can use them with raw HDITA code fragments).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T082215Z" creationid="DSS" creationdate="20200817T082215Z">
+        <seg>MDITA 是一种纯文本变体，适用于不需要高级内容复用功能的开发人员和创作者（但他们仍然可以将其与原始的 HDITA 代码片段一起使用）。</seg>
       </tuv>
     </tu>
     <tu>
