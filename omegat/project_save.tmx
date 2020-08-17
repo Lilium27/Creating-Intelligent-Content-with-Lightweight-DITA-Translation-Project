@@ -5336,6 +5336,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>HDITA&lt;t0/&gt;, an HTML5 format that can be used for either authoring or displaying content</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T042301Z" creationid="DSS" creationdate="20200817T042301Z">
+        <seg>HDITA&lt;t0/&gt;，一种可用于创作或展示内容的 HTML5 格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HOW DITA EVOLVED INTO LwDITA</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200721T143908Z" creationid="DSS" creationdate="20200721T143908Z">
@@ -7752,6 +7760,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Lightweight DITA aims to streamline the DITA authoring experience by presenting three formats for content creation:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T042213Z" creationid="DSS" creationdate="20200817T042213Z">
+        <seg>轻量级 DITA 旨在通过提供三种不同的内容写作格式来简化 DITA 创作体验：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Lightweight DITA can be the glue that ties together many different authoring plat&lt;t2/&gt;forms across a company.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130811Z" creationid="DSS" creationdate="20200726T083800Z">
@@ -7928,6 +7944,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LwDITA is a topic-based architecture for tagging and structuring intelligent content using flexible markup options.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T042149Z" creationid="DSS" creationdate="20200817T042149Z">
+        <seg>LwDITA 是一种基于话题的体系结构，使用灵活的标记选项为智能内容嵌套标签，创建结构。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LwDITA is a work in progress.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T051916Z" creationid="lenovo" creationdate="20200812T051916Z">
@@ -8004,6 +8028,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T094657Z" creationid="DSS" creationdate="20200803T094657Z">
         <seg>而对 MDITA 格式的需求也被纳入考量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MDITA&lt;t0/&gt;, a Markdown&lt;t1/&gt;3&lt;t2/&gt; format with a subset of XDITA elements that can be used for maximizing input readability while maintaining structure in content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T042405Z" creationid="DSS" creationdate="20200817T042405Z">
+        <seg>MDITA&lt;t0/&gt;，一种带有 XDITA 元素子集的 Markdown 格式，可以在最大化内容可读性的同时，维护内容的结构。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9784,6 +9816,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160720Z" creationid="DSS" creationdate="20200811T141558Z">
         <seg>结构化内容&lt;t0/&gt;“甫一设计就决定既要适合人读，也要适合机读”。实现这种双重可读性的是隐藏在背后的标记和注释（例如标签和属性），使内容和代码结合起来产生一个数据源。&lt;t1/&gt;&lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Structuring Intelligent Content with LwDITA</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T042100Z" creationid="DSS" creationdate="20200817T042100Z">
+        <seg>使用 LwDITA 生成结构化智能内容</seg>
       </tuv>
     </tu>
     <tu>
@@ -13639,6 +13679,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131237Z" creationid="lenovo" creationdate="20200813T024215Z">
         <seg>XDITA的目标用户可能不是DITA专家，但可以从类似于DITA工作流的结构和发布机制中获益的人群。&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XDITA&lt;t0/&gt;, an XML format with a subset of DITA elements that can be used for validated authoring and complex publishing chains</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T042245Z" creationid="DSS" creationdate="20200817T042245Z">
+        <seg>XDITA&lt;t0/&gt;，一种带有 DITA 元素子集的 XML 格式，可用于合规写作和复杂发布链</seg>
       </tuv>
     </tu>
     <tu>
