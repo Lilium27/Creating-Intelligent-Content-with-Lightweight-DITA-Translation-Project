@@ -1027,8 +1027,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;In its core pro&lt;t4/&gt;file, MDITA provides structure for major elements present in DITA XML and Markdown (title, sections, lists, etc.).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T055950Z" creationid="DSS" creationdate="20200817T055950Z">
-        <seg>在其核心概要中，MDITA 为 DITA XML 和 Markdown（标题、节、列表等）中出现的主要元素提供了结构。在其扩展概要中，MDITA允许使用YAML（YAML Ain't Markup Language）编写的头文件，以及关于话题作者和一些自原生XML示例以来就一直带有的类别的元数据。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T080908Z" creationid="DSS" creationdate="20200817T055950Z">
+        <seg>在其核心概要中，MDITA 为 DITA XML 和 Markdown（标题、节、列表等）中出现的主要元素提供了结构。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6833,6 +6833,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In its extended profile, MDITA allows a header authored in YAML&lt;t5/&gt;4&lt;t6/&gt; (the recursive acronym for &lt;t7/&gt;YAML Ain't Markup Language&lt;t8/&gt;) with metadata about the topic's author and some categories that we have been carrying since the original XML sample.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T081204Z" creationid="DSS" creationdate="20200817T081204Z">
+        <seg>在其扩展概要中，MDITA 允许使用 YAML&lt;t5/&gt;4&lt;t6/&gt;（&lt;t7/&gt;YAML Ain't Markup Language&lt;t8/&gt;）文件头，关于话题作者的元数据以及一些原生 XML 一直包含的类别组件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In its extended profile, MDITA can incorporate YAML front matter headers and HDITA elements and attributes to overcome Markdown limitations as a language for authoring structured and reusable content&lt;t0/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131252Z" creationid="lenovo" creationdate="20200813T082726Z">
@@ -8219,8 +8227,8 @@
       <tuv lang="en">
         <seg>MDITA, the LwDITA authoring format that uses Markdown, can also be used to structure the recipe for marinara sauce (&lt;t0/&gt;figure &lt;t1/&gt;1.11&lt;t2/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T055540Z" creationid="DSS" creationdate="20200817T055540Z">
-        <seg>MDITA 是使用 Markdown 的 LwDITA 写作格式，也可以用于结构化马里纳拉酱的菜谱（图1.11&lt;t0/&gt;&lt;t2/&gt;&lt;t1/&gt;）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T080924Z" creationid="DSS" creationdate="20200817T055540Z">
+        <seg>MDITA 是使用 Markdown 的 LwDITA 写作格式，也可以用于编写结构化的马里纳拉酱菜谱（图1.11&lt;t0/&gt;&lt;t2/&gt;&lt;t1/&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
