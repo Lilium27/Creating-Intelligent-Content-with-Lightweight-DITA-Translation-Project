@@ -632,6 +632,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t12/&gt;Nonetheless, thinking in and planning abstractions are really the everyday tasks of technical authors in an intelligent content environ&lt;t13/&gt;ment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T040952Z" creationid="DSS" creationdate="20200817T040952Z">
+        <seg>尽管如此，在智能内容环境中思考和规划抽象实际上是技术作者的日常任务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t12/&gt;This deficiency presents a unique opportunity for implementing an approach based on principles of computational thinking.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160156Z" creationid="DSS" creationdate="20200810T121248Z">
@@ -2877,6 +2885,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T154957Z" creationid="DSS" creationdate="20200804T154957Z">
         <seg>音频（audio）&lt;t0/&gt;：内容中包含的音频链接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Authors are in charge of the abstractions behind the code and content that provides the backbone for intel&lt;t16/&gt;ligent content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T041139Z" creationid="DSS" creationdate="20200817T041139Z">
+        <seg>创作者负责将代码和内容转换为抽象概念，而这些抽象概念为智能内容提供了主干。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13335,6 +13351,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T071607Z" creationid="DSS" creationdate="20200731T071607Z">
         <seg>这是双赢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wing &lt;t14/&gt;(2008) &lt;t15/&gt;describes computing as a combination of “mental” tools (abstractions) and “metal” tools (automation).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T041108Z" creationid="DSS" creationdate="20200817T041108Z">
+        <seg>温 &lt;t14/&gt;(2008) &lt;t15/&gt;将计算机描述为“思考”工具（抽象）和“物理”工具（自动化）的结合。</seg>
       </tuv>
     </tu>
     <tu>
