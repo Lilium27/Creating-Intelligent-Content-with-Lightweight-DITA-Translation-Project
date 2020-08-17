@@ -13922,6 +13922,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Those same students tend to sigh collectively in relief when they find out that some LwDITA-aware tools like Oxygen XML Editor include a version of the &lt;t0/&gt;DITA-OT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200817T142240Z" creationid="lenovo" creationdate="20200817T142240Z">
+        <seg>当这些学生发现一些支持LwDITA的工具(如Oxygen XML Editor)包含某个版本的DITA-OT时，他们往往会松一口气。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Those teaching practices prevail despite decades of conversation about the ben&lt;t4/&gt;efits of intelligent content enablers like single-sourcing and reuse and industry best practices.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131400Z" creationid="DSS" creationdate="20200809T124031Z">
