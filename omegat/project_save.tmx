@@ -3339,8 +3339,8 @@
       <tuv lang="en">
         <seg>Body: A container for the main content of a topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T054321Z" creationid="DSS" creationdate="20200817T054315Z">
-        <seg>主体（body）：包含话题主要内容，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T055039Z" creationid="DSS" creationdate="20200817T054315Z">
+        <seg>主体（body）：包含话题的主要内容，</seg>
       </tuv>
     </tu>
     <tu>
@@ -7443,8 +7443,8 @@
       <tuv lang="en">
         <seg>It can have an optional title.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T131931Z" creationid="DSS" creationdate="20200804T131931Z">
-        <seg>有一个可选标题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T055156Z" creationid="DSS" creationdate="20200804T131931Z">
+        <seg>每个节有一个可选标题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9623,8 +9623,8 @@
       <tuv lang="en">
         <seg>Section&lt;t0/&gt;: an organizational division within a topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T131929Z" creationid="DSS" creationdate="20200804T131910Z">
-        <seg>节（section）&lt;t0/&gt;：话题里结构分明的一部分，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T055149Z" creationid="DSS" creationdate="20200804T131910Z">
+        <seg>节（section）&lt;t0/&gt;：负责话题内部的组织划分，</seg>
       </tuv>
     </tu>
     <tu>
@@ -9687,8 +9687,8 @@
       <tuv lang="en">
         <seg>Short description: A brief depiction of the purpose or theme of a topic</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T054257Z" creationid="DSS" creationdate="20200817T054257Z">
-        <seg>简短描述（short description）：对话题目的或主题的简短描述</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T055018Z" creationid="DSS" creationdate="20200817T054257Z">
+        <seg>简短描述（short description）：对话题目的或要点的简短描述</seg>
       </tuv>
     </tu>
     <tu>
@@ -13147,8 +13147,8 @@
       <tuv lang="en">
         <seg>Title&lt;t0/&gt;: a label that connotes the purpose of the content associated with it.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T124844Z" creationid="DSS" creationdate="20200804T124844Z">
-        <seg>标题（title）&lt;t0/&gt;：表示内容目的的标签。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T054942Z" creationid="DSS" creationdate="20200804T124844Z">
+        <seg>标题（title）&lt;t0/&gt;：表示内容写作目的标签。</seg>
       </tuv>
     </tu>
     <tu>
