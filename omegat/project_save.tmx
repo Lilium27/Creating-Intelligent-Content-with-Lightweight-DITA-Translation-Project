@@ -857,6 +857,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t2/&gt;Figure 6.29&lt;t3/&gt; shows a browser view of the HDITA topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T142139Z" creationid="DSS" creationdate="20200817T142139Z">
+        <seg>图&lt;t2/&gt;6.29&lt;t3/&gt;展示了该 HDITA 话题在浏览器中的样子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t2/&gt;Figure &lt;t3/&gt;4.2&lt;t4/&gt; &lt;t5/&gt;shows a file that reproduces the list items from &lt;t6/&gt;Figure &lt;t7/&gt;4.1&lt;t8/&gt; &lt;t9/&gt;in valid HTML5 syntax.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T135443Z" creationid="lenovo" creationdate="20200813T135443Z">
@@ -6969,6 +6977,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In MDITA, the syntax to represent an inline image includes the label for alter&lt;t0/&gt;nate text and the link to the image file in the following structure:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T142733Z" creationid="DSS" creationdate="20200817T142733Z">
+        <seg>在 MDITA 中，以下语法结构可以表示一个内联图像，该图像还包括表示替换文本的标签和关联到图像文件的链接：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In March of &lt;t0/&gt;2012, &lt;t1/&gt;when Michael Priestley officially proposed the development of a “lightweight framework for representing DITA topics,” it was a given that Lightweight DITA would be based on XML.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131233Z" creationid="lenovo" creationdate="20200813T015444Z">
@@ -11143,6 +11159,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;t8/&gt;@alt &lt;t9/&gt;attribute works just like it does in XDITA syntax.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T135431Z" creationid="DSS" creationdate="20200817T135431Z">
+        <seg> &lt;t8/&gt;@alt &lt;t9/&gt;属性的工作原理与 XDITA 语法中的一样。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;t9/&gt;&lt;h1&gt; &lt;t10/&gt;element at the map level (in bold font) provides the main title for deliverables produced with this specific map.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T075506Z" creationid="DSS" creationdate="20200807T075506Z">
@@ -11291,6 +11315,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T070854Z" creationid="DSS" creationdate="20200807T070854Z">
         <seg>HDITA 格式的地图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The HDITA topic in &lt;t10/&gt;Figure 6.28&lt;t11/&gt; includes the inline image for the plus sign and the block figure with the &lt;t12/&gt;Sensei Sushi&lt;t13/&gt; logo.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T142046Z" creationid="DSS" creationdate="20200817T142046Z">
+        <seg>图&lt;t10/&gt;6.28&lt;t11/&gt;中的 HDITA 话题包括一个内联图像组件（加号）和一个块级图形组件（&lt;t12/&gt;Sensei Sushi&lt;t13/&gt; 标志）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11635,6 +11667,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130913Z" creationid="lenovo" creationdate="20200810T073345Z">
         <seg>作者并没有把它们作为，比如说，IBM手册的官方修辞惯例。乔纳森·普莱斯（Jonathan Price）在他1984年出版的《如何编写计算机手册：软件文档手册》的确从通用惯例的基础上往前迈了一步，开创了组织机构型主题惯例。.&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The block image should be included in the &lt;t4/&gt;&lt;figure&gt; &lt;t5/&gt;environment, and it can include a title (&lt;t6/&gt;&lt;title&gt;&lt;t7/&gt;) element to provide a description.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T135420Z" creationid="DSS" creationdate="20200817T135420Z">
+        <seg>块图像应该包含在 &lt;t4/&gt;&lt;figure&gt; &lt;t5/&gt;标签创建的环境中，&lt;figure&gt;环境可以包含title (&lt;t6/&gt;&lt;title&gt;&lt;t7/&gt;) 元素来提供描述信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14973,6 +15013,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can save the HDITA topic from the previous example as &lt;t0/&gt;franchise-intro.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T142107Z" creationid="DSS" creationdate="20200817T142107Z">
+        <seg>你可以将前面示例中的 HDITA 话题保存为 &lt;t0/&gt;franchise-intro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can save the file from &lt;t0/&gt;figure &lt;t1/&gt;5.13&lt;t2/&gt; &lt;t3/&gt;as &lt;t4/&gt;sensei-brochure.md&lt;t5/&gt; and then use a LwDITA-aware tool to produce the PDF deliverable.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T040432Z" creationid="DSS" creationdate="20200808T040432Z">
@@ -15081,6 +15129,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T082058Z" creationid="DSS" creationdate="20200727T082058Z">
         <seg>包含实际的内容（例如，&lt;t0/&gt;&lt;Name&gt;&lt;t1/&gt;），另一些子元素又包含其他级别的元素，并最终包含内容（例如，“parsley” 包含于 &lt;t2/&gt;&lt;Item&gt; &lt;t3/&gt; ，&lt;Item&gt; 包含于 &lt;t4/&gt;&lt;Ingredient&lt;t5/&gt;&gt;&lt;t6/&gt; ，&lt;Ingredient&gt;包含于 &lt;t7/&gt;&lt;IngredientList&gt;&lt;t8/&gt;）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>html&lt;t1/&gt; and open in it a web browser to see the difference between an inline and block image.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T142122Z" creationid="DSS" creationdate="20200817T142122Z">
+        <seg>html&lt;t1/&gt;文件，然后在网页浏览器中打开，查看内联图像组件和块级图形组件之间的区别。</seg>
       </tuv>
     </tu>
     <tu>
