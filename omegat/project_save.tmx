@@ -2297,6 +2297,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After that, I decided to contact Priestley and invite him to collaborate on a research project about the XDITA</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T092453Z" creationid="DSS" creationdate="20200817T092453Z">
+        <seg>在那之后，我决定联系普里斯特利并邀请他合作开展一个从创作者视角研究 XDITA 和 HDITA 的项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After years of fielding the question “Is DITA related to Information Mapping?”, the Information Mapping company released a white paper, in 2011, titled “Information Mapping&lt;t0/&gt;® &lt;t1/&gt;and DITA: Two Worlds, One Solution.” The white paper had the objective of explaining “why it does not make sense &lt;t2/&gt;to move from Information Mapping&lt;t3/&gt;® &lt;t4/&gt;to DITA, or vice versa,” and it posited that “Information Mapping&lt;t5/&gt;® &lt;t6/&gt;and DITA both have their strengths and weak&lt;t7/&gt;nesses, and combining them may lead to the best results for an organization” (2011, p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131052Z" creationid="DSS" creationdate="20200731T091022Z">
@@ -2941,6 +2949,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T080127Z" creationid="lenovo" creationdate="20200811T080127Z">
         <seg>正如在那篇介绍性文章中所介绍的，用于开发结构化信息的基于DITA的解决方案由以下三个部分组成:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As soon as I read the blog post introducing XDITA and HDITA, I implemented Priestley's ideas on a couple of sample topics that I shared with my students.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T092357Z" creationid="DSS" creationdate="20200817T092357Z">
+        <seg>一读到普里斯特利所撰写的介绍 XDITA 和 HDITA 的博文，我就把他的想法用在了我与学生们分享的几个示例话题上。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -10806,6 +10822,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That course included a few modules on DITA, and some of my students who were new to XML had pre&lt;t5/&gt;vious experience with HTML.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T092302Z" creationid="DSS" creationdate="20200817T092302Z">
+        <seg>这门课的一些模块涉及到了 DITA。在我的学生中，有些人对 XML 不太熟悉，但以前有过使用 HTML 的经验。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That generic LwDITA topic can also accommodate enough components and attributes to create con&lt;t1/&gt;tent that sticks to the requirements of “modular, structured, reusable, format free, and semantically rich and, as a consequence, discoverable, reconfigurable, and adaptable” presented by Rockley et al.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131119Z" creationid="DSS" creationdate="20200804T162432Z">
@@ -13034,6 +13058,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Therefore, Priestley's proposal immediately caught my attention.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T092328Z" creationid="DSS" creationdate="20200817T092328Z">
+        <seg>因此，普里斯特利的提议立刻引起了我的注意。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Therefore, a DITA-aware tool with a graphical user interface (GUI) can be a better experi&lt;t0/&gt;ence for novice DITA authors.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131302Z" creationid="DSS" creationdate="20200806T133034Z">
@@ -14113,6 +14145,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T041839Z" creationid="DSS" creationdate="20200813T041839Z">
         <seg>我们按照琳达•弗劳尔推荐的专业写作教学方法制定了这些层级，琳达•弗劳尔的方法“承认话语风格的重要性，但专注于更广泛的修辞策略，以分析读者，规划、修订和管理个人时间和写作过程” (1989, p.5)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We discussed in class the possibility of using an expanded HTML grammar as a DITA replacement.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T092324Z" creationid="DSS" creationdate="20200817T092324Z">
+        <seg>我们在课堂上讨论了使用扩展的 HTML 语法作为 DITA 替代品的可能性。</seg>
       </tuv>
     </tu>
     <tu>
