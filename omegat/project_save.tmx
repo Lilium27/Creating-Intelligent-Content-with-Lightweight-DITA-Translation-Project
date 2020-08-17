@@ -1441,6 +1441,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t7/&gt;260).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T035501Z" creationid="DSS" creationdate="20200817T035501Z">
+        <seg>&lt;t7/&gt;260)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t7/&gt;5).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T131135Z" creationid="DSS" creationdate="20200810T131135Z">
@@ -1533,6 +1541,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160351Z" creationid="DSS" creationdate="20200810T131924Z">
         <seg>该设想由&lt;t8/&gt;古&lt;t9/&gt;和&lt;t10/&gt;铂尔曼于&lt;t11/&gt;2009&lt;t12/&gt;年提出，而技术写作并没有变成一个流水线上的职位（至少现在还没有)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t8/&gt;More than two decades after Johnson-Eilola's model was published, abstraction continues to be a desired skill in the training and work of technical communicators.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T035511Z" creationid="DSS" creationdate="20200817T035511Z">
+        <seg>&lt;t8/&gt;在约翰逊·艾劳拉的模型发表20多年后，抽象仍然是技术传播人员在培训和工作中所需要的技能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5036,6 +5052,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130734Z" creationid="DSS" creationdate="20200726T140951Z">
         <seg>此外，内容专家的博文和社交媒体帖子创建并维持了一个活跃的在线讨论推荐社区。&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Furthermore, his example is still relevant when thinking about LwDITA and computational thinking: an author needs to separate the layers of abstraction when creating a task topic for a specific audience and context.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T035539Z" creationid="DSS" creationdate="20200817T035539Z">
+        <seg>此外，在讨论到 LwDITA 和计算机思维时，约翰逊·艾劳拉的示例仍然是有用的：创作者在为特定受众和上下文创建任务（topic）主题时，需要分离不同的抽象层。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11636,6 +11660,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T155143Z" creationid="lenovo" creationdate="20200723T021125Z">
         <seg>卡罗尔所著的这本颇有影响力的书享有“传奇《纽伦堡漏斗》能让你瞬间开悟”的盛誉 &lt;t0/&gt;(1990, &lt;t1/&gt;p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The tools might be different, but the principles are the same.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T035541Z" creationid="DSS" creationdate="20200817T035541Z">
+        <seg>尽管用到的工具可能不同，但原理是相同的。 </seg>
       </tuv>
     </tu>
     <tu>
