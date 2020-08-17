@@ -2809,6 +2809,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As the concept of Lightweight DITA developed further, at one point it became an XML subset of DITA that included, for example, &lt;t6/&gt;27 &lt;t7/&gt;possible elements inside a topic, whereas DITA XML includes a possible combination of &lt;t8/&gt;90&lt;t9/&gt;+ &lt;t10/&gt;elements.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T052830Z" creationid="DSS" creationdate="20200817T052830Z">
+        <seg>随着轻量级 DITA 概念的进一步发展，它一度成为 DITA 的一个 XML 子集，例如，轻量级 DITA的一个话题中可以包含&lt;t6/&gt;27&lt;t7/&gt;种元素，而在DITA XML中可能包含&lt;t8/&gt;90&lt;t9/&gt;&lt;t10/&gt;多个元素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As those DITA fixed templates for top&lt;t6/&gt;ics and their structures at the section, paragraph, sentence, or even word level became widely used within IBM, the structures moved to the organizational or institutional category.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130931Z" creationid="lenovo" creationdate="20200811T074352Z">
@@ -7209,6 +7217,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Instead, LwDITA provides basic access to authors who do not need all the DITA standard's features but whose deliverables should be compatible with DITA XML.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T053019Z" creationid="DSS" creationdate="20200817T053019Z">
+        <seg>相反，LwDITA 为那些不需要使用 DITA 标准的所有特性，但交付的产品应该与 DITA XML 兼容的创作者提供了基本的功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Instead, authors define their own tags and their relationships.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154118Z" creationid="DSS" creationdate="20200726T154118Z">
@@ -8791,6 +8807,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T161725Z" creationid="lenovo" creationdate="20200810T161725Z">
         <seg>组织架构</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Originally, Lightweight DITA was planned as a component of the DITA &lt;t11/&gt;1.3 &lt;t12/&gt;specification, but interest from members of the DITA technical committee, vendors, and researchers pushed it out of the main specification and into its own parallel and compatible standard.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T052937Z" creationid="DSS" creationdate="20200817T052937Z">
+        <seg>在最初的计划中，轻量级 DITA 本是 DITA 标准 1.3版本的细则，但是由于 DITA 技术委员会成员、供应商和研究人员的兴趣，最后将其从主体规范中摘出，成为了和 DITA 并行且兼容的标准。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11517,6 +11541,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T151644Z" creationid="DSS" creationdate="20200803T151644Z">
         <seg>在最初的版本中，提议的标准只关注两种</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The purpose of LwDITA is not to replace DITA XML.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T052943Z" creationid="DSS" creationdate="20200817T052943Z">
+        <seg>LwDITA 的目的不是取代 DITA XML，</seg>
       </tuv>
     </tu>
     <tu>
