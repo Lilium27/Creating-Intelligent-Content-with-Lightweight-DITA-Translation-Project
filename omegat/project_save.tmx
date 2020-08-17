@@ -707,8 +707,8 @@
       <tuv lang="en">
         <seg>&lt;t13/&gt;Figure &lt;t14/&gt;6.32&lt;t15/&gt; &lt;t16/&gt;features an HDITA topic with the cross-reference component linking to the external HTML files that contain the &lt;t17/&gt;Sensei Sushi&lt;t18/&gt; knowledge base.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200817T150018Z" creationid="lenovo" creationdate="20200817T150018Z">
-        <seg>图6.32提供了一个HDITA主题，其中交叉引用组件链接到包含 &lt;t17/&gt;Sensei Sushi&lt;t18/&gt;知识库的外部HTML文件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T151517Z" creationid="lenovo" creationdate="20200817T150018Z">
+        <seg>图6.32&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;提供了一个 HDITA 主题，其中交叉引用组件链接到包含 &lt;t17/&gt;Sensei Sushi&lt;t18/&gt;知识库的外部HTML文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3571,8 +3571,8 @@
       <tuv lang="en">
         <seg>Both need the HTML5&lt;t2/&gt; tag of &lt;t3/&gt;&lt;img&gt; &lt;t4/&gt;with the attribute of &lt;t5/&gt;@src &lt;t6/&gt;for the source file of an image.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T143146Z" creationid="DSS" creationdate="20200817T143146Z">
-        <seg>两者都需要使用包含 @src 属性的 HTML5 标签&lt;t3/&gt;&lt;img&gt;&lt;t4/&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T151223Z" creationid="DSS" creationdate="20200817T143146Z">
+        <seg>两者都需要使用包含 @src 属性的 HTML5 标签&lt;t2/&gt;&lt;t3/&gt;&lt;img&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4952,8 +4952,8 @@
       <tuv lang="en">
         <seg>FIGURE 6.29 &lt;t0/&gt;Preview of the HDITA topic with image and figure environments in&lt;t1/&gt; a web browser.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T143646Z" creationid="DSS" creationdate="20200817T143646Z">
-        <seg>图6.29 &lt;t0/&gt;包含图像和图形组件的 HDITA 话题在浏览器中的预览。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T151227Z" creationid="DSS" creationdate="20200817T143646Z">
+        <seg>图6.29 &lt;t0/&gt;&lt;t1/&gt;包含图像和图形组件的 HDITA 话题在浏览器中的预览。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4968,8 +4968,8 @@
       <tuv lang="en">
         <seg>FIGURE 6.31 &lt;t0/&gt;XDITA topic with a cross-reference to an external website.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T145339Z" creationid="DSS" creationdate="20200817T145339Z">
-        <seg>图6.31 包含链接到外部网站的交叉引用组件的 XDITA 话题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T151235Z" creationid="DSS" creationdate="20200817T145339Z">
+        <seg>图6.31 包含链接到外部网站的交叉引用组件的 XDITA 话题。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7028,8 +7028,8 @@
       <tuv lang="en">
         <seg>In HTML5, a cross-reference is represented with a combination of the anchor (&lt;t0/&gt;&lt;a&gt;&lt;t1/&gt;) element and the hyper reference (&lt;t2/&gt;@href&lt;t3/&gt;) attribute.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200817T143932Z" creationid="lenovo" creationdate="20200817T143932Z">
-        <seg>在HTML5中，交叉引用由锚(&lt;a&gt;)元素和超引用(@href)属性的组合表示。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T151303Z" creationid="lenovo" creationdate="20200817T143932Z">
+        <seg>在HTML5中，交叉引用由锚 (&lt;t0/&gt;&lt;a&gt;&lt;t1/&gt;) 元素和超引用 (&lt;t2/&gt;@href&lt;t3/&gt;) 属性的组合表示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12075,8 +12075,8 @@
       <tuv lang="en">
         <seg>The exclamation&lt;t2/&gt; point before the link text notifies processors that an image element is included in the topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T144812Z" creationid="DSS" creationdate="20200817T143800Z">
-        <seg>链接文本前的感叹号可以告知处理器，话题中包含图像元素。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T151229Z" creationid="DSS" creationdate="20200817T143800Z">
+        <seg>链接文本前的感叹号可以告知处理器，话题中包含图像元素。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13876,8 +13876,8 @@
       <tuv lang="en">
         <seg>This interactive content structure can also include attributes for relationship (&lt;t4/&gt;@rel&lt;t5/&gt;) and type (&lt;t6/&gt;@type&lt;t7/&gt;) that correspond to the DITA/XDITA attributes of scope (&lt;t8/&gt;@scope&lt;t9/&gt;) and format (&lt;t10/&gt;@format&lt;t11/&gt;), respec&lt;t12/&gt;tively.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200817T145907Z" creationid="lenovo" creationdate="20200817T145907Z">
-        <seg>这个交互式内容结构还可以包括关系(@rel)和类型(@type)的属性，它们分别对应于作用域(@scope)和格式(@format)的DITA/XDITA属性。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T151358Z" creationid="lenovo" creationdate="20200817T145907Z">
+        <seg>这个交互式内容结构还可以包括关系 (&lt;t4/&gt;@rel&lt;t5/&gt;) 和类型 (&lt;t6/&gt;@type&lt;t7/&gt;) 的属性，它们分别对应于作用域(&lt;t8/&gt;@scope&lt;t9/&gt;)和格式 (&lt;t10/&gt;@format &lt;t11/&gt;)的 DITA/XDITA 属性。</seg>
       </tuv>
     </tu>
     <tu>
