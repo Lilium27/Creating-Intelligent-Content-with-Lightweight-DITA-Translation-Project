@@ -495,6 +495,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t1/&gt;LwDITA details might change between the publication of this book and the actual release of the Lightweight DITA standard.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T053510Z" creationid="DSS" creationdate="20200817T053510Z">
+        <seg>本书的出版和轻量级 DITA 标准的实际发布之间有时间差异，所以本书中提到的一些细节可能会发生改变。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t1/&gt;The CommonMark initiative, which aims to propose a Markdown standard, adds that it is a “plain text format for writing structured documents, based on for&lt;t2/&gt;matting conventions from email and usenet” (CommonMark, n.d.).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131108Z" creationid="DSS" creationdate="20200802T125805Z">
@@ -1613,6 +1621,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144526Z" creationid="DSS" creationdate="20200724T154341Z">
         <seg>&lt;t8/&gt;基于话题的写作会“编写一个信息集，聚合不同&lt;t9/&gt;话题&lt;t10/&gt;的离散单元，而编写一本书或一个帮助系统”（贝克，&lt;t11/&gt;2016&lt;t12/&gt;年，第</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t8/&gt;While LwDITA is under development and not an approved OASIS standard at the time of this writing, feedback on our talks and papers about the new standard provides support for its development based on positive reactions and interest from partners in industry and academia.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T053137Z" creationid="DSS" creationdate="20200817T053137Z">
+        <seg>虽然 LwDITA 还在开发中，在撰写本文时还是一个未经 OASIS 通过的标准，我们关于新标准的讲座和论文，所得到了工业界和学术界合作伙伴的积极反应，他们也对此表现出了浓厚的兴趣，这为新标准的发展提供了支持。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2777,6 +2793,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As lead editor of the LwDITA technical specification, I have attempted to combine the needs and resources of academic and industry content professionals, testing and implementing applied compu&lt;t9/&gt;tational principles built on common concepts of genre and rhetorical theory.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T053156Z" creationid="DSS" creationdate="20200817T053156Z">
+        <seg>作为 LwDITA 技术规范的主要编写者，我试图结合学术界和工业界内容专业人员的需求和资源，基于对类型和修辞理论的共同看法，测试并应用计算原则。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As many levels of docu&lt;t0/&gt;mentation are required as there are levels of users.” Technique was connected to the budget and quality of documentation: “Two elements of documentation &lt;t1/&gt;are indispensable &lt;t2/&gt;一 &lt;t3/&gt;integration with the system implementation and on-line machine-readable generation” (Patterson, 1975, p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130856Z" creationid="lenovo" creationdate="20200808T074220Z">
@@ -2789,6 +2813,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143326Z" creationid="DSS" creationdate="20200726T141044Z">
         <seg>截至&lt;t2/&gt;2018&lt;t3/&gt;年夏季，除咨询和培训公司外，该名单包括&lt;t4/&gt;724&lt;t5/&gt;家公司 （DITAWriter，未注明日期）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As of this writing, LwDITA is a work in progress.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T053200Z" creationid="DSS" creationdate="20200817T053200Z">
+        <seg>在撰写本文时，LwDITA 还在开发之中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5800,6 +5832,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I co-chair the Lightweight DITA subcommittee with Priestley, and I have published, alone and with Priestley, about the development of LwDITA (e.g., Evia &lt;t3/&gt;&amp; &lt;t4/&gt;Priestley, &lt;t5/&gt;2016; &lt;t6/&gt;Evia, &lt;t7/&gt;2017).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T053123Z" creationid="DSS" creationdate="20200817T053123Z">
+        <seg>我与普里斯特利共同担任轻量级 DITA 小组委员会的主席，我们俩共同发表了关于 LwDITA 的开发的文章 (e.g., Evia &lt;t3/&gt;&amp; &lt;t4/&gt;Priestley, &lt;t5/&gt;2016; &lt;t6/&gt;Evia, &lt;t7/&gt;2017)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I don't remember specifically talking about minimalism with him, but it was very much on my mind.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T070547Z" creationid="lenovo" creationdate="20200804T070547Z">
@@ -8253,6 +8293,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130810Z" creationid="DSS" creationdate="20200726T082353Z">
         <seg>迈克尔·普里斯特利是 IBM 高级技术人员和企业内容技术策略师，被誉为 DITA 的“创始人”（埃瑟里奇，&lt;t0/&gt;2016&lt;t1/&gt;&lt;t2/&gt;年），他认为轻量级 DITA （LwDITA，全称为“Lightweight DITA”）一种创建结构化内容的简单方式，与基于 XML 的 DITA  相比，可以用更少的元素、更紧凑的内容模型和简化的专有体系结构来定义新类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Michael Priestley, from IBM, created the OASIS Lightweight DITA sub&lt;t0/&gt;committee in &lt;t1/&gt;2014 &lt;t2/&gt;with the purpose of releasing LwDITA as an open standard related to but independent from DITA XML.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T053052Z" creationid="DSS" creationdate="20200817T053052Z">
+        <seg>IBM 的迈克尔·普里斯特利在2014年组建了 OASIS 轻量级 DITA 小组委员会，目的是将 LwDITA 作为一种与 DITA XML 相关，但又独立于 DITA 的开放标准发布。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12573,6 +12621,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130814Z" creationid="DSS" creationdate="20200726T093719Z">
         <seg>这本书并关于某一个特定的工具或软件平台：LwDITA 作为一个仍在法阵中的开放标准，不依赖于任何代理商或“应用程序”。哈克斯用以下场景解释了信息标准对技术传播工程师的重要性，该解释同样适用于 LwDITA：&lt;t12/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This book reflects the structure of this proposed standard as it was presented in its initial introductory committee note (Evia et al., &lt;t0/&gt;2018).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T053243Z" creationid="DSS" creationdate="20200817T053243Z">
+        <seg>本书反映了最初委员会的介绍性笔记中提出的标准结构 (Evia et al., &lt;t0/&gt;2018)。</seg>
       </tuv>
     </tu>
     <tu>
