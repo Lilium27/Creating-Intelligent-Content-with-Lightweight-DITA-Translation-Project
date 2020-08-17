@@ -1913,6 +1913,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A cross-reference (&lt;t0/&gt;&lt;xref&gt;&lt;t1/&gt;) component in XDITA allows the creation of links to internal and external resources.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T144855Z" creationid="DSS" creationdate="20200817T144855Z">
+        <seg>使用 XDITA 中的交叉引用 (&lt;t0/&gt;&lt;xref&gt;&lt;t1/&gt;) 组件可以创建指向内部或外部资源的链接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A definition of topic from Lawrence Prelli further supports this overlap.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T161502Z" creationid="lenovo" creationdate="20200811T161502Z">
@@ -2061,6 +2069,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T075649Z" creationid="lenovo" creationdate="20200810T075610Z">
         <seg>书的开篇应有目录列出所有主要的章节。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A topic can include cross-references to other topics in the same collection or to external sources like a PDF file or a website.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T144900Z" creationid="DSS" creationdate="20200817T144900Z">
+        <seg>话题可以对同一集合中的其他话题，也可以对 PDF 文件或网站等外部资源进行引用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6853,6 +6869,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131435Z" creationid="DSS" creationdate="20200812T143406Z">
         <seg>在&lt;t1/&gt;第&lt;t2/&gt;八&lt;t3/&gt;章&lt;t4/&gt;&lt;t5/&gt;中，我将介绍一个使用 LwDITA 进行内容开发的模型，该模型通过上下文元数据和人类参与机器自动化循环训练（HITL）来提升修辞效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In &lt;t2/&gt;Figure &lt;t3/&gt;6.31&lt;t4/&gt;, &lt;t5/&gt;the topic with the bulleted list of franchise features now includes a hyper reference (&lt;t6/&gt;@href&lt;t7/&gt;) to an external website hosting the &lt;t8/&gt;Sensei Sushi&lt;t9/&gt; knowl&lt;t10/&gt;edge base for technical support.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T145328Z" creationid="DSS" creationdate="20200817T145328Z">
+        <seg>在图&lt;t2/&gt;&lt;t3/&gt;6.31&lt;t4/&gt;&lt;t5/&gt;中，使用项目符号列表呈现特许经营权特性的话题现在包含了一个交叉引用 (&lt;t6/&gt;@href&lt;t7/&gt;)，可以关联到托管 &lt;t8/&gt;Sensei Sushi&lt;t9/&gt; 知识库的外部网站，以提供技术支持。</seg>
       </tuv>
     </tu>
     <tu>
