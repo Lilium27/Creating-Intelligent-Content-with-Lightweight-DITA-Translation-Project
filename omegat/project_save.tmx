@@ -3081,6 +3081,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Authors using any combination of LwDITA formats do not need new tech&lt;t0/&gt;nological skills.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T084056Z" creationid="DSS" creationdate="20200817T084056Z">
+        <seg>使用任何 LwDITA 格式组合来写作的作者不需要学习新的技术，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Authors who want their XML content to be subsumed by a content set based on HTML5 or Markdown</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T025802Z" creationid="lenovo" creationdate="20200813T025802Z">
