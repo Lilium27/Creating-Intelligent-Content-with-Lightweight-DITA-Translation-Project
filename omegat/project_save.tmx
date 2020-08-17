@@ -4782,6 +4782,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;1.9 &lt;t1/&gt;Marinara sauce recipe as an HDITA topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T082309Z" creationid="DSS" creationdate="20200817T082309Z">
+        <seg>图1.9 编写为 HDITA 话题的意式番茄罗勒酱菜谱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;2.1 &lt;t1/&gt;Expanded version of the marinara sauce recipe as a DITA task.&lt;t2/&gt; Elements in bold type emphasize some of the moves of interacting with users that the DITA creators had in mind when developing the document types.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T135619Z" creationid="lenovo" creationdate="20200811T135619Z">
@@ -11435,8 +11443,9 @@
       <tuv lang="en">
         <seg>The idea of simplified DITA code that would reduce its learning curve has been a topic of discussion on the standard's technical committee with OASIS for a few years.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T043500Z" creationid="DSS" creationdate="20200817T043351Z">
-        <seg>简化 DITA 代码以减少其学习成本是 OASIS 标准技术委员会近几年讨论的主题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T082913Z" creationid="DSS" creationdate="20200817T043351Z">
+        <seg>简化 DITA 代码以减少其学习成本是 OASIS 标准技术委员会近几年讨论的主题。在2011年，技术委员会计划发布一个《限制性DITA概要》文件，该文件仍是基于 XML 的，但是严重依赖 HTML 标签（例如，用 &lt;p&gt; 表示段落，用 &lt;li&gt; 表示列表项），以简化DITA XML 的许多语义结构。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -12237,6 +12246,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T055457Z" creationid="DSS" creationdate="20200817T055457Z">
         <seg>这个话题有一些常用的 HTML5 元素，比如标题和列表，但是 HDITA 的另一个好处是，用 HTML5 格式编写的话题不需要转换生成可发布的结果 (&lt;t0/&gt;Figure &lt;t1/&gt;1.10)&lt;t2/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The topic is now an&lt;t2/&gt; HTML5 article, and the elements' structure looks very similar to what can be accomplished with XML.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T082322Z" creationid="DSS" creationdate="20200817T082322Z">
+        <seg>该话题现在是一篇 HTML5 文章，元素的结构看起来和用 XML 编写的话题非常相似。 </seg>
       </tuv>
     </tu>
     <tu>
