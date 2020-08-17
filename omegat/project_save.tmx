@@ -1921,6 +1921,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Abstraction allows authors of intelligent content to separate the “layers” of a particular problem, and work on each one individually without concern for the others.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T040006Z" creationid="DSS" creationdate="20200817T040006Z">
+        <seg>拥有抽象能力，编写智能内容的创作者能够分离特定问题的“层级”，并单独处理每个层级，而无需关心其他层级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Abstraction allows humans to separate the “layers” of a particular problem and work on each one individually without concern for the others.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T080421Z" creationid="DSS" creationdate="20200808T080421Z">
@@ -6644,6 +6652,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T082344Z" creationid="lenovo" creationdate="20200813T082344Z">
         <seg>在OASIS出版的 &lt;t6/&gt;《轻量级DITA:简介》&lt;t7/&gt;中，我们定义了MDITA核心和扩展概要如下:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the case of a computational solution for intelligent content, abstraction is a combination of two elements: information representation and separation of concerns (layers of abstraction).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T040231Z" creationid="DSS" creationdate="20200817T040231Z">
+        <seg>在智能内容的计算机解决方案中，抽象结合了信息表示和关注点（抽象层）分离的特性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11876,6 +11892,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131232Z" creationid="lenovo" creationdate="20200813T014333Z">
         <seg>然后强调一个影响XDITA和HDITA中一些通用内容组件的重要规则。&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Then, as the layers are recombined, they work together to solve the prob&lt;t0/&gt;lem at hand, much like an algorithm.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T040042Z" creationid="DSS" creationdate="20200817T040042Z">
+        <seg>然后当这些层级被重新组合时，它们共同作用来解决手头的问题，就像算法一样。</seg>
       </tuv>
     </tu>
     <tu>
