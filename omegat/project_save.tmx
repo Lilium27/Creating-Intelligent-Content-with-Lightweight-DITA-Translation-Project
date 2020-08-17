@@ -3337,6 +3337,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Body: A container for the main content of a topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T054321Z" creationid="DSS" creationdate="20200817T054315Z">
+        <seg>主体（body）：包含话题主要内容，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Body&lt;t0/&gt;: a container for the main content of a topic.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T124857Z" creationid="DSS" creationdate="20200804T124857Z">
@@ -7561,6 +7569,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It might include several sections</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T054323Z" creationid="DSS" creationdate="20200817T054323Z">
+        <seg>可能会划分为几个小节（section）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It provides a framework for using a learning objects approach to organize and sequence content as a learning deliverable” (Eberlein et al., &lt;t1/&gt;2015, &lt;t2/&gt;pp.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T032607Z" creationid="lenovo" creationdate="20200812T032607Z">
@@ -9307,6 +9323,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Prolog: A container for metadata about a topic (for example, author infor&lt;t0/&gt;mation or subject category)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T054304Z" creationid="DSS" creationdate="20200817T054304Z">
+        <seg>序言（prolog）：包含话题元数据（例如，作者信息或主题类别) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Prolog&lt;t0/&gt;: contains information about a file, for example, author informa&lt;t1/&gt;tion or subject category.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131117Z" creationid="DSS" creationdate="20200804T134451Z">
@@ -9589,6 +9613,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Section: An organizational division within a topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T054317Z" creationid="DSS" creationdate="20200817T054317Z">
+        <seg>节（section）：话题内部的组织划分，每个节有一个可选的标题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Section&lt;t0/&gt;: an organizational division within a topic.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T131929Z" creationid="DSS" creationdate="20200804T131910Z">
@@ -9649,6 +9681,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141758Z" creationid="DSS" creationdate="20200816T141132Z">
         <seg>简短描述组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Short description: A brief depiction of the purpose or theme of a topic</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T054257Z" creationid="DSS" creationdate="20200817T054257Z">
+        <seg>简短描述（short description）：对话题目的或主题的简短描述</seg>
       </tuv>
     </tu>
     <tu>
