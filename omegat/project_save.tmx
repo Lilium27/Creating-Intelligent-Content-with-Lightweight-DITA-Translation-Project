@@ -8611,8 +8611,8 @@
       <tuv lang="en">
         <seg>MDITA, the LwDITA authoring format that uses Markdown, can also be used to structure the recipe for marinara sauce (&lt;t0/&gt;figure &lt;t1/&gt;1.11&lt;t2/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T080924Z" creationid="DSS" creationdate="20200817T055540Z">
-        <seg>MDITA 是使用 Markdown 的 LwDITA 写作格式，也可以用于编写结构化的马里纳拉酱菜谱（图1.11&lt;t0/&gt;&lt;t2/&gt;&lt;t1/&gt;）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T093024Z" creationid="DSS" creationdate="20200817T055540Z">
+        <seg>MDITA 是使用 Markdown 的 LwDITA 写作格式，也可以用于编写结构化的马里纳拉酱菜谱（图1.11&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
