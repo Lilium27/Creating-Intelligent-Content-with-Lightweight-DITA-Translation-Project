@@ -817,6 +817,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t2/&gt;In Wing's model, however, computing abstractions go beyond numerical abstractions and cover sym&lt;t3/&gt;bolic, algorithmic, and representational abstractions (Wing, &lt;t4/&gt;2008).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T040531Z" creationid="DSS" creationdate="20200817T040531Z">
+        <seg>然而，在温的模型中，计算机思维的抽象超越了数字抽象，涵盖了符号抽象、算法抽象和具象抽象 (Wing, &lt;t4/&gt;2008)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t2/&gt;In a blog post titled “Overview of Lightweight DITA (XDITA and HDITA),” Michael Priestley introduced an idea to liberate the DITA standard from its longstanding dependence on the Extensible Markup Language (XML).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131059Z" creationid="DSS" creationdate="20200809T115111Z">
@@ -3485,6 +3493,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T034505Z" creationid="DSS" creationdate="20200817T034505Z">
         <seg>计算机思维是一种思维过程，涉及如何表述问题和如何解决问题，因此问题的解决方案可以以一种能被信息处理工具有效执行的形式表现出来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Computing is concerned with automating these abstractions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T040319Z" creationid="DSS" creationdate="20200817T040319Z">
+        <seg>计算机关注如何自动化抽象能力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6552,6 +6568,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In order for that automation to &lt;t1/&gt;be successful, computational thinking requires understanding not only of the concepts that each layer of abstraction represents, but also of the relationships between the multiple layers behind a specific problem.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T040335Z" creationid="DSS" creationdate="20200817T040335Z">
+        <seg>为了成功实现自动化，计算机思维不仅需要理解每一抽象层所代表的概念，还需要理解特定问题背后的多个层之间的关系。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In practical terms, DITA's topic types include XML tags for content “moves” or strategies (such as a short description, steps, and examples) frequently used in technical publications.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T082839Z" creationid="DSS" creationdate="20200725T064600Z">
@@ -9452,6 +9476,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some computing professionals will argue that the abstractions in computa&lt;t0/&gt;tional thinking are mainly related to algorithms.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T040400Z" creationid="DSS" creationdate="20200817T040400Z">
+        <seg>一些计算机领域的专业人士认为，计算机思维的抽象概念主要与算法有关，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some current DITA users may find XDITA to be appropriate, but the XDITA authoring format of LwDITA is primarily aimed at content creators who either do not know about DITA or perceive the standard as too robust for their information needs.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T024619Z" creationid="lenovo" creationdate="20200813T024619Z">
@@ -9544,6 +9576,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T022636Z" creationid="lenovo" creationdate="20200812T022636Z">
         <seg>其中一些原始的元素类型现在已经过时了，但是由迈克尔·普里斯特利和乔安·哈克斯编辑的DITA &lt;t7/&gt;1.0&lt;t8/&gt;规范包含了以下元素和类别：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some technical communication practitioners share that opinion (Baker, &lt;t1/&gt;2016).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T040413Z" creationid="DSS" creationdate="20200817T040413Z">
+        <seg>部分技术传播从业者也同意这一观点 (Baker, &lt;t1/&gt;2016)。</seg>
       </tuv>
     </tu>
     <tu>
