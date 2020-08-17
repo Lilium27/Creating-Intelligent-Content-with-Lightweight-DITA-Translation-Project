@@ -705,6 +705,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t13/&gt;Figure &lt;t14/&gt;6.32&lt;t15/&gt; &lt;t16/&gt;features an HDITA topic with the cross-reference component linking to the external HTML files that contain the &lt;t17/&gt;Sensei Sushi&lt;t18/&gt; knowledge base.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200817T150018Z" creationid="lenovo" creationdate="20200817T150018Z">
+        <seg>图6.32提供了一个HDITA主题，其中交叉引用组件链接到包含 &lt;t17/&gt;Sensei Sushi&lt;t18/&gt;知识库的外部HTML文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t13/&gt;It is also behind the predetermined content types (e.g. concept, task, and reference) in the DITA standard.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130844Z" creationid="lenovo" creationdate="20200805T013613Z">
@@ -13846,6 +13854,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T134455Z" creationid="DSS" creationdate="20200804T134455Z">
         <seg>这些信息可以由作者输入，也可以由程序维护。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This interactive content structure can also include attributes for relationship (&lt;t4/&gt;@rel&lt;t5/&gt;) and type (&lt;t6/&gt;@type&lt;t7/&gt;) that correspond to the DITA/XDITA attributes of scope (&lt;t8/&gt;@scope&lt;t9/&gt;) and format (&lt;t10/&gt;@format&lt;t11/&gt;), respec&lt;t12/&gt;tively.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200817T145907Z" creationid="lenovo" creationdate="20200817T145907Z">
+        <seg>这个交互式内容结构还可以包括关系(@rel)和类型(@type)的属性，它们分别对应于作用域(@scope)和格式(@format)的DITA/XDITA属性。</seg>
       </tuv>
     </tu>
     <tu>
