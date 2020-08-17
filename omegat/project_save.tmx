@@ -470,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t0/&gt;Table 3.1&lt;t1/&gt; reproduces the simple topic/article that Priestley included in that introductory blog post:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T091751Z" creationid="DSS" creationdate="20200817T091751Z">
+        <seg>表3.1再现了普里斯特利在那篇介绍性博文中提到的的简单话题/项目：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t1/&gt;2012, &lt;t2/&gt;p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144403Z" creationid="DSS" creationdate="20200724T154301Z">
@@ -5248,6 +5256,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For a generic topic type, “HTML5 and DITA are now close enough to achieve a reasonable and semantic mapping with the appli&lt;t1/&gt;cation of a few simple constraints” (Priestley, 2014).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T091621Z" creationid="DSS" creationdate="20200817T091621Z">
+        <seg>对于一般的话题类型，“HTML5 和 DITA 现在已经足够完善了，只需应用一些简单的限定规则就可以实现合理的语义映射”(Priestley, 2014)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For a quick example of LwDITA in action (and I will analyze &lt;t0/&gt;more thoroughly&lt;t1/&gt; its formats later in the book), I coded O'Keefe's recipe for marinara sauce in LwDITA's different authoring formats.&lt;t2/&gt; Figure 1.8 &lt;t3/&gt;shows the recipe authored in XDITA &lt;t4/&gt;一 &lt;t5/&gt;the LwDITA authoring format based on a simplified version of DITA XML.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T053900Z" creationid="DSS" creationdate="20200817T053900Z">
@@ -7617,6 +7633,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Instead of summarizing Priestley's blog post, I will focus here on how this proposal made the basic LwDITA topic from the summer of 2012 evolve into two branches based on its authoring language: XDITA for XML and HDITA for HTML5.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T091723Z" creationid="DSS" creationdate="20200817T091723Z">
+        <seg>在这里，我不打算总结普里斯特利的博文内容，而准备将重点放在这个提议是如何使2012年夏天提出的基本 LwDITA 话题演变成了基于写作语言的两个分支：XDITA 基于 XML，HDITA 基于 HTML5。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Instead, LwDITA provides basic access to authors who do not need all the DITA standard's features but whose deliverables should be compatible with DITA XML.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T053019Z" creationid="DSS" creationdate="20200817T053019Z">
@@ -9643,6 +9667,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Priestley's blog post from 2014 still included specializations for concept, task, and reference in XDITA (the XML-based version of LwDITA).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T091815Z" creationid="DSS" creationdate="20200817T091815Z">
+        <seg>普里斯特利2014年的博文仍然包含着 XDITA（基于 xml 的 LwDITA 版本）中的概念（concept）、任务（task）和引用（reference）的专门化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Priestley's proposal emphasized that the lightweight topic only included &lt;t0/&gt;16 &lt;t1/&gt;elements, and that all attributes, with the exception of &lt;t2/&gt;@id &lt;t3/&gt;on &lt;t4/&gt;&lt;topic&gt;&lt;t5/&gt;, were optional.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T154545Z" creationid="DSS" creationdate="20200731T075807Z">
@@ -11299,6 +11331,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T062442Z" creationid="DSS" creationdate="20200807T062442Z">
         <seg>XDITA 格式的地图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The XDITA and HDITA introductory blog post, however, still included specialized structural types for concept, task, and reference, which relied on HTML5 custom data attributes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T091641Z" creationid="DSS" creationdate="20200817T091641Z">
+        <seg>然而，在介绍 XDITA 和 HDITA 的博文中，仍然包含了专门化结构类型概念（concept）、任务（task）和引用（reference），它们依赖于 HTML5 自定义数据属性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13030,6 +13070,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T083816Z" creationid="DSS" creationdate="20200817T083816Z">
         <seg>以上就是詹姆斯·马修森（来自 IBM）等人对技术传播专业毕业生的期望。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These authoring models, which Priestley named XDITA (based on XML) and HDITA (based on HTML5), were “designed for full compatibility with each other as well as conformance with the OASIS DITA and W3C HTML5 stand&lt;t0/&gt;ards” (Priestley, 2014).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T091610Z" creationid="DSS" creationdate="20200817T091610Z">
+        <seg>这些写作模型被普里斯特利命名为 XDITA（基于 XML）和 HDITA（基于 HTML5），它们“被设计得相互完全兼容，并符合 OASIS DITA 和 W3C HTML5 标准” (Priestley, 2014)。</seg>
       </tuv>
     </tu>
     <tu>
