@@ -4060,6 +4060,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cross-reference</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T144019Z" creationid="DSS" creationdate="20200817T144019Z">
+        <seg>交叉引用组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Current XML (or DITA) users</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T030032Z" creationid="lenovo" creationdate="20200813T030032Z">
@@ -5211,6 +5219,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T142747Z" creationid="DSS" creationdate="20200817T142747Z">
         <seg>图&lt;t0/&gt;6.28&lt;t1/&gt; HDITA 话题中的图像和图形组件，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;6.30 &lt;t1/&gt;Image and figure components in an MDITA topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T143742Z" creationid="DSS" creationdate="20200817T143742Z">
+        <seg>图&lt;t0/&gt;6.30 &lt;t1/&gt;MDITA 话题中的图像和图形组件，</seg>
       </tuv>
     </tu>
     <tu>
@@ -11988,6 +12004,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T061605Z" creationid="DSS" creationdate="20200808T061312Z">
         <seg>本章将继续以厨师佩德罗身处的场景为例，围绕&lt;t0/&gt; Sensei Sushi &lt;t1/&gt;宣传手册的内容需求展开。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The exclamation&lt;t2/&gt; point before the link text notifies processors that an image element is included in the topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T143800Z" creationid="DSS" creationdate="20200817T143800Z">
+        <seg>链接文本前的感叹号通知处理器主题中包含图像元素。</seg>
       </tuv>
     </tu>
     <tu>
