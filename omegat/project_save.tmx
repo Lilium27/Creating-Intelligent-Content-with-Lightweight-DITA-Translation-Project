@@ -681,6 +681,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t13/&gt;358)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T091037Z" creationid="DSS" creationdate="20200817T091037Z">
+        <seg>&lt;t13/&gt;358)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t13/&gt;52).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144534Z" creationid="DSS" creationdate="20200724T154350Z">
@@ -5488,6 +5496,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Furthermore, LwDITA will maintain its compatibility with future releases of DITA XML, which preserves the simplified proposed standard as both an independent way to structure and publish content and a potential on-ramp for individuals and teams who start with LwDITA and then decide to explore the enhanced capabilities of DITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T091219Z" creationid="DSS" creationdate="20200817T091219Z">
+        <seg>此外，LwDITA 将保持与未来版本的 DITA XML 的兼容性，LwDITA 将是一种独立的结构化和发布内容的方法，而对了解了 LwDITA，然后决定探索 DITA 增强功能的个人和团队来说，也是一个潜在的学习入口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Furthermore, blogs and social media postings from content professionals create and maintain an active online community of dis&lt;t0/&gt;cussion and recommendations.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130734Z" creationid="DSS" creationdate="20200726T140951Z">
@@ -7020,6 +7036,14 @@
         <seg>In conference presentations, we frequently reassure DITA  users that the standard, as they know it in its robust XML form, is not going  away.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T094000Z" creationid="DSS" creationdate="20200730T094000Z">
+        <seg>在会议演示中，我们经常向 DITA 用户保证，DITA 标准不会消失，会以他们知道的健壮的 XML 形式存在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In conference presentations, we frequently reassure DITA users that the standard, as they know it in its robust XML form, is not going away.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T091132Z" creationid="DSS" creationdate="20200817T091132Z">
         <seg>在会议演示中，我们经常向 DITA 用户保证，DITA 标准不会消失，会以他们知道的健壮的 XML 形式存在。</seg>
       </tuv>
     </tu>
@@ -11572,6 +11596,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T093952Z" creationid="DSS" creationdate="20200730T093952Z">
         <seg>DITA 的进化在经历了几个分支版本后已经初具形态，LwDITA 是其中一种可能的增长途径。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The evolution of DITA is taking shape after several branches, with LwDITA as one of those possible paths for growth.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T091113Z" creationid="DSS" creationdate="20200817T091113Z">
+        <seg>DITA 的演进在经历了几个分支版本后已经初具形态，LwDITA 是其中一种可能的增长途径。</seg>
       </tuv>
     </tu>
     <tu>
