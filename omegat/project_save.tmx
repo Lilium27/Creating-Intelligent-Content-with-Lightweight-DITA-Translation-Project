@@ -6482,8 +6482,8 @@
       <tuv lang="en">
         <seg>If authors need more structure and their workflows require identifying a first paragraph as a short description, they should use the XDITA syntax instead.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141653Z" creationid="DSS" creationdate="20200816T141653Z">
-        <seg>如果作者需要使用更多结构，并且其工作流需要将第一格段标识为简短描述的话，应该使用 XDITA 语法。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T130400Z" creationid="DSS" creationdate="20200816T141653Z">
+        <seg>如果作者需要使用更多结构，并且其工作流需要将第一个段落标识为简短描述的话，应该使用 XDITA 语法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8963,8 +8963,8 @@
       <tuv lang="en">
         <seg>Nevertheless, despite the potential uses of such a content blurb, the component that contains the majority of conventions for content is the body &lt;t0/&gt;- &lt;t1/&gt;represented in XDITA and HDITA by the tag &lt;t2/&gt;&lt;body&gt;&lt;t3/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141913Z" creationid="DSS" creationdate="20200816T141913Z">
-        <seg>尽管这种内容简介有许多潜在用途，用来包裹大多数内容组件的是主体&lt;t0/&gt;——&lt;t1/&gt;主体在 XDITA 和 HDITA 中由标签 &lt;t2/&gt;&lt;body&gt;&lt;t3/&gt; 表示。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T130507Z" creationid="DSS" creationdate="20200816T141913Z">
+        <seg>尽管内容简介组件有许多潜在用途，但用来包裹大多数内容组件的是主体组件&lt;t0/&gt;——&lt;t1/&gt;主体组件在 XDITA 和 HDITA 中由标签 &lt;t2/&gt;&lt;body&gt;&lt;t3/&gt; 表示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11281,8 +11281,8 @@
       <tuv lang="en">
         <seg>The Lightweight DITA subcommittee at OASIS will release recommendations and standards for that validation, but will not produce tools or files to enforce it, leaving the implementation to interested vendors and developers.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T135005Z" creationid="DSS" creationdate="20200816T134729Z">
-        <seg>OASIS 轻量级 DITA 小组委员会将发布验证标准，并给出建议，但不会开发用于验证的工具或文件，其具体实现将留给对此感兴趣的供应商和开发人员。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T130345Z" creationid="DSS" creationdate="20200816T134729Z">
+        <seg>OASIS 轻量级 DITA 小组委员会将发布验证标准，并给出建议，但不会开发验证工具或文件，其具体实现将留给对此感兴趣的供应商和开发人员。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11505,8 +11505,8 @@
       <tuv lang="en">
         <seg>The assigned &lt;t4/&gt;@id &lt;t5/&gt;will be attached to the topic even if the authors rename the source file (with the default “slugify” process of MDITA core profile, renaming a file will change its automatically- generated &lt;t6/&gt;@id&lt;t7/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T134636Z" creationid="DSS" creationdate="20200816T134636Z">
-        <seg>即使作者重命名源文件，指定的 &lt;t4/&gt;@id &lt;t5/&gt;不会改变 （按照 MDITA 核心规定，如果是自动解析生成的 &lt;t6/&gt;@id&lt;t7/&gt;，重命名文件将改变其名称）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T130300Z" creationid="DSS" creationdate="20200816T134636Z">
+        <seg>即使作者重命名源文件，指定的 &lt;t4/&gt;@id &lt;t5/&gt;不会改变 （按照 MDITA 核心规定，如果是自动解析生成的 &lt;t6/&gt;@id&lt;t7/&gt;，重命名文件将改变其 @id 名称）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12540,8 +12540,8 @@
       <tuv lang="en">
         <seg>The short&lt;t2/&gt; description is implied in the first paragraph of a Markdown file.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141727Z" creationid="DSS" creationdate="20200816T141727Z">
-        <seg>简短描述隐藏在 Markdown 文件的第一格段落中。&lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T130431Z" creationid="DSS" creationdate="20200816T141727Z">
+        <seg>简短描述隐藏在 Markdown 文件的第一个段落中。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
