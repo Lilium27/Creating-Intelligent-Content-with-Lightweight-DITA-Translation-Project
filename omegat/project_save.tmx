@@ -2209,6 +2209,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All code examples in this book will focus on the open standards for DITA and LwDITA, and automation-related discussions will be based on features and affordances from the open source DITA-OT and “raw” XML, HTML5, and Markdown code.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T043254Z" creationid="DSS" creationdate="20200817T043143Z">
+        <seg>本书中的所有代码示例都将聚焦于 DITA 和 LwDITA 开放标准，与自动化相关的讨论将基于开源的DITA-OT，以及原生 XML、HTML5 和 Markdown 代码的特性和功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All their topics are treated as DITA and can take advantage of the standard's reuse, filtering, and single-sourcing capabilities.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T043124Z" creationid="DSS" creationdate="20200817T043124Z">
+        <seg>所有话题都被视为 DITA，可以利用 DITA 内容复用、内容过滤和同源开发的特性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All three LwDITA formats are compatible with each other and with DITA XML.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T042920Z" creationid="DSS" creationdate="20200817T042920Z">
@@ -6256,6 +6272,15 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In &lt;t0/&gt;2011, &lt;t1/&gt;the technical committee planned to release a “limited DITA profile,” which was still XML-based, but depended heavily on HTML tags (such as &lt;t2/&gt;&lt;p&gt; &lt;t3/&gt;for paragraph and &lt;t4/&gt;&lt;li&gt; &lt;t5/&gt;for list item) to simplify many semantic structures of DITA XML.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T043341Z" creationid="DSS" creationdate="20200817T043341Z">
+        <seg>
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In &lt;t0/&gt;2012, &lt;t1/&gt;the Adobe Technical Communication Suite (TCS) team distrib&lt;t2/&gt;uted on several social media channels a video titled “The Future of Technical Communication.” The video used stop-motion animation and fast-draw tech&lt;t3/&gt;niques to summarize the features of “Adobe's Tools and Services” for technical communication.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130725Z" creationid="DSS" creationdate="20200723T155229Z">
@@ -9134,6 +9159,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T081326Z" creationid="DSS" creationdate="20200726T153722Z">
         <seg>生产编辑，基于文档结构参与编写定义格式的转换文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Professional authoring tools can hide code in What You See &lt;t0/&gt;Is What You Get (WYSIWYG) options, but the rhetorical, pedagogical, and computational principles of &lt;t1/&gt;Creating Intelligent Content with Lightweight DITA &lt;t2/&gt;view and perceive LwDITA topics as code.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T043245Z" creationid="DSS" creationdate="20200817T043245Z">
+        <seg>专业的写作工具拥有“所见即所得”的功能，可以隐藏代码，但是本书中的修辞、教学和计算机原则会将 LwDITA 话题视为代码来对待。</seg>
       </tuv>
     </tu>
     <tu>
