@@ -3385,6 +3385,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Computational Thinking and the Evolution of DITA</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T033705Z" creationid="DSS" creationdate="20200817T033705Z">
+        <seg>计算机思维与 DITA 的发展</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Computational thinker</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T124736Z" creationid="DSS" creationdate="20200811T124736Z">
@@ -11460,6 +11468,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T031321Z" creationid="lenovo" creationdate="20200812T031321Z">
         <seg>技术内容版添加了在IBM的起源中定义DITA的技术通信内容类型(概念、任务、引用)，并添加了术语表条目、术语表组和故障诊断的内容类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The theoretical axis of the evolution of DITA analyzed in this book is based on the concept of computational thinking, which is defined by their main propo&lt;t0/&gt;nents as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T033953Z" creationid="DSS" creationdate="20200817T033953Z">
+        <seg>本书分析 DITA 的发展历程依赖的理论轴心是计算机思维，计算机思维的主要支持者对其定义如下：</seg>
       </tuv>
     </tu>
     <tu>
