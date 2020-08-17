@@ -5272,6 +5272,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Figure &lt;t0/&gt;6.30&lt;t1/&gt; &lt;t2/&gt;shows the franchise introductory topic in MDITA syntax with the inline image for the plus sign and the block figure, with a title, for the &lt;t3/&gt;Sensei Sushi&lt;t4/&gt; logo.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T143529Z" creationid="DSS" creationdate="20200817T143529Z">
+        <seg>图&lt;t0/&gt;6.30&lt;t1/&gt;&lt;t2/&gt;展示了使用 MDITA 语法编写的介绍特许经营权的话题，其中包含一个内联图像：加号，一个块级图形：&lt;t3/&gt;Sensei Sushi&lt;t4/&gt; 标识，以及一个标题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Figure&lt;t0/&gt;: a container for a variety of objects, including artwork, images, code samples, equations, and tables.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T131133Z" creationid="DSS" creationdate="20200804T131133Z">
@@ -12134,6 +12142,14 @@
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T082913Z" creationid="DSS" creationdate="20200817T043351Z">
         <seg>简化 DITA 代码以减少其学习成本是 OASIS 标准技术委员会近几年讨论的主题。在2011年，技术委员会计划发布一个《限制性DITA概要》文件，该文件仍是基于 XML 的，但是严重依赖 HTML 标签（例如，用 &lt;p&gt; 表示段落，用 &lt;li&gt; 表示列表项），以简化DITA XML 的许多语义结构。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The image can become a block element if it is treated as a paragraph (i.e., it is separated from other elements with a return or enter), and it can include an optional title or description in the following structure:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T143304Z" creationid="DSS" creationdate="20200817T143304Z">
+        <seg>如果图像组件被当作段落来处理，那么它可以成为一个块级元素（例如，使用回车将图像与其他元素分隔开来），还可以使用以下结构为图像添加可选标题或描述：</seg>
       </tuv>
     </tu>
     <tu>
