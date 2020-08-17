@@ -1449,6 +1449,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t5/&gt;Priestley proposed a combi&lt;t6/&gt;nation of those solutions:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T091436Z" creationid="DSS" creationdate="20200817T091436Z">
+        <seg>普里斯特利将这些解决方案融合了起来，他提议：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t5/&gt;The simplified authoring experience of LwDITA, however, is based on a single topic type with elements common to most information units, including the following:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T054033Z" creationid="DSS" creationdate="20200817T054033Z">
@@ -2085,6 +2093,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T135746Z" creationid="DSS" creationdate="20200811T135746Z">
         <seg>创建智能内容过程中的抽象概念</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>According to Priestley, possible solutions would include &lt;t0/&gt;1) &lt;t1/&gt;simplifying XML models, “as seen with many of the lightweight DITA tools that have come to market over the last few years,” or &lt;t2/&gt;2) &lt;t3/&gt;rebasing on an HTML5 model, “as seen with O'Reilly and more recently Pearson” &lt;t4/&gt;(2014).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T091411Z" creationid="DSS" creationdate="20200817T091411Z">
+        <seg>根据普里斯特利的说法，可能的解决方案包括 &lt;t0/&gt;1) &lt;t1/&gt;简化  XML 模型，“就像在过去几年中出现在市场上的许多轻量级 DITA 工具一样”，或者 &lt;t2/&gt;2) &lt;t3/&gt;重新基于 HTML5 模型构建，“就像在O'Reilly 出版物和最近培生集团（Pearsson）提出的概念中所看到的那样”(2014)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13398,6 +13414,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154250Z" creationid="DSS" creationdate="20200726T154250Z">
         <seg>对于使用过 HTML 或其他标记语言的读者来说，标记、注释和嵌套数据的过程会非常熟悉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This proposal suggests a third way &lt;t0/&gt;一 &lt;t1/&gt;defining both a lightweight XML model based on DITA that can be used for validated authoring and com&lt;t2/&gt;plex publishing chains, and a lightweight HTML5 model that can be used for either authoring or display.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T091524Z" creationid="DSS" creationdate="20200817T091524Z">
+        <seg>采取第三种解决方案&lt;t0/&gt;——&lt;t1/&gt;基于 DITA 定义一个轻量级 XML 模型，该模型可用于检验写作和复杂的出版链，同时定义一个轻量级的 HTML5 模型，用于写作或展示。</seg>
       </tuv>
     </tu>
     <tu>
