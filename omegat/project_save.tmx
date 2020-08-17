@@ -985,6 +985,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t3/&gt;I argue that &lt;t4/&gt;if technical communicators are trained with principles of rhetorical problem solving and computational thinking, they can work in lightweight environments without the need of a robust XML solution&lt;t5/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T041845Z" creationid="DSS" creationdate="20200817T041845Z">
+        <seg>我认为，如果技术传播人员受过计算机思维的训练，知晓解决修辞问题的原则，他们就可以在轻量级 DITA 的环境中工作，而无需使用健壮的 XML 解决方案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t3/&gt;I insisted on the potential consequences of losing the flagship genre of technical communication, and Carroll painted a bigger picture: &lt;t4/&gt;“It's not just the manual, but the world has changed, and the software and docu&lt;t5/&gt;mentation business model.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130823Z" creationid="lenovo" creationdate="20200731T135041Z">
@@ -1773,6 +1781,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T073350Z" creationid="DSS" creationdate="20200807T073350Z">
         <seg>传统的 HTML 编辑器可能无法解析 HDITA 地图，这时创作者就需要支持 LwDITA 的工具或 DITA-OT 的帮助。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A core argument in this book is based on Wing's definition of computational thinking, previous research about abstractions in technical communication, the work I have conducted as co-chair of the Lightweight DITA subcommittee at OASIS, and my experience teaching DITA at the college level since &lt;t0/&gt;2006 &lt;t1/&gt;and LwDITA since &lt;t2/&gt;2015.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T041725Z" creationid="DSS" creationdate="20200817T041725Z">
+        <seg>这本书的核心观点基于温定义的计算机思维、之前技术传播领域对抽象化的研究、我作为 OASIS  轻量级 DITA 小组委员会联合主席所开展的工作以及我从2006年开始在大学中教授 DITA 和2015年开始教授 LwDITA 的经历。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2897,6 +2913,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Authors can participate in automation by writing a script or application to filter content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T041516Z" creationid="DSS" creationdate="20200817T041508Z">
+        <seg>创作者可以通过编写脚本或应用程序来过滤内容，从而参与自动化的过程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Authors coming to XDITA from HTML5 might find that unusual, but this can simplify content reuse in more advanced situations.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T161504Z" creationid="DSS" creationdate="20200816T161504Z">
@@ -3101,6 +3125,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131252Z" creationid="lenovo" creationdate="20200813T083447Z">
         <seg>因为MDITA组件是GitHub风格的Markdown(GFM) syntax&lt;t0/&gt;2&lt;t1/&gt;的一个子集，并非所有在GFM或其他Markdown风格中有效的文步都能用于MDITA扩展配置文件（例如,MDITA扩展配置文件中没有 &lt;t2/&gt;### &lt;t3/&gt;&lt;t4/&gt;syntax 语法来表示第三级标题，尽管这一语法在大多数Markdown风格中都存在）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Before (or in addition to) taking, say, a Python course out of their disciplinary context, why not send technical communication students to a course covering the &lt;t19/&gt;men&lt;t20/&gt;tal&lt;t21/&gt; and &lt;t22/&gt;metal&lt;t23/&gt; tools that practitioners in their field value?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T041659Z" creationid="DSS" creationdate="20200817T041659Z">
+        <seg>在（或除了）让技术传播专业的学生学习超出他们学科背景的 Python 课程之前，为什么不让他们学习一门同时涉及使用思考工具和物理工具的课程呢？这正好是技术传播从业者所推崇的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5560,6 +5592,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, that step is not necessary for applying principles of computational thinking in tech&lt;t18/&gt;nical communication from an author's perspective.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T041526Z" creationid="DSS" creationdate="20200817T041511Z">
+        <seg>然而从创作者的角度来看，如果在技术传播中应用计算机思维的原则的话，并不需要这一步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, the manual started to lose genre power in the 1980s and was on life support even before John Carroll delivered the final uppercut with the concept of minimalism.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T072237Z" creationid="lenovo" creationdate="20200810T005457Z">
@@ -5776,6 +5816,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I have seen colleagues in technical communication who value computational thinking and literacy as core skills of a college education and, as a result, send their students to take an introductory class in programming in a Computer Science department.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T041601Z" creationid="DSS" creationdate="20200817T041601Z">
+        <seg>我曾见过一些从事技术传播的同事，他们将计算机思维和读写能力视为大学教育的核心技能，因此，他们让学生去计算机科学院系上编程入门课程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I honestly think it was much more a matter of a paradigm shift, a change in business model, changing populations, and the fact that the computer became a universal device instead of an elite device.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200802T075656Z" creationid="lenovo" creationdate="20200802T075656Z">
@@ -5860,6 +5908,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T020201Z" creationid="lenovo" creationdate="20200804T015154Z">
         <seg>让我尤为震惊和欣慰的是，用户指南和DITA配合的如此之好，这些原则的适应性和稳定性竟如此强大。”应用极简主义的的理念是推动智能内容发展的不二动力，但如若作者仍坚持撰写非结构化的篇章的印刷手册，这一动力就无法发挥效用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I will describe those processing applications later in this chapter (and throughout the book).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T041457Z" creationid="DSS" creationdate="20200817T041457Z">
+        <seg>我将在本章后面的内容中（以及整本书）介绍这些处理软件。</seg>
       </tuv>
     </tu>
     <tu>
