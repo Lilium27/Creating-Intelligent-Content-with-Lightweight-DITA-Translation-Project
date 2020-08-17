@@ -2905,6 +2905,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Authors do not need special software tools to create content in DITA; however, they will need a software processor to transform DITA topics into deliverables for human users.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T041433Z" creationid="DSS" creationdate="20200817T041433Z">
+        <seg>创作者利用 DITA 创建内容不需要使用特殊的软件工具，但是他们需要软件工具来将 DITA 话题转换为人类用户可以阅读的交付物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Authors who want their XML content to be subsumed by a content set based on HTML5 or Markdown</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T025802Z" creationid="lenovo" creationdate="20200813T025802Z">
@@ -2933,6 +2941,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T132841Z" creationid="DSS" creationdate="20200810T132841Z">
         <seg>自动化内容可以用来最小化执行内容策略所需的时间、精力和金钱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Automation is then provided by software applications, be it a commercial product like Adobe FrameMaker or an open source implementa&lt;t17/&gt;tion of DITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T041220Z" creationid="DSS" creationdate="20200817T041220Z">
+        <seg>自动化功能是由软件应用程序提供的，如 Adobe FrameMaker 这样的商业产品，或者 DITA 这样的开源产品。</seg>
       </tuv>
     </tu>
     <tu>
