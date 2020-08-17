@@ -10533,6 +10533,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some tools also provide a GUI that with a few mouse clicks allows the transformation of DITA and LwDITA topics into end-user documents ready for print or online delivery.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200817T142322Z" creationid="lenovo" creationdate="20200817T142322Z">
+        <seg>有些工具还提供GUI，只需单击几下鼠标，就可以将DITA和LwDITA主题转换为终端用户文档，以便打印或在线交付。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Someone mentioned structured authoring with XML and that caught Chef Pedro's attention.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153510Z" creationid="DSS" creationdate="20200726T153510Z">
@@ -15089,6 +15097,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T135246Z" creationid="lenovo" creationdate="20200811T135111Z">
         <seg>。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>included some sample LwDITA topics and maps in &lt;t0/&gt;Chapter &lt;t1/&gt;1&lt;t2/&gt;, &lt;t3/&gt;and I also showed how those files would look when processed and transformed into PDF and HTML deliverables.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200817T142639Z" creationid="lenovo" creationdate="20200817T142639Z">
+        <seg>我在第一章中包含了一些LwDITA主题和映射的示例，还展示了这些文件在处理和转换为PDF和HTML交付物时的形态。</seg>
       </tuv>
     </tu>
     <tu>
