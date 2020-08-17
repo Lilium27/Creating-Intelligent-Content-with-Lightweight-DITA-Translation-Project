@@ -873,6 +873,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t2/&gt;Figure &lt;t3/&gt;6.26&lt;t4/&gt; &lt;t5/&gt;includes both an inline image and a block figure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T133517Z" creationid="DSS" creationdate="20200817T133517Z">
+        <seg>&lt;t2/&gt;图&lt;t4/&gt;6.26&lt;t5/&gt;&lt;t3/&gt;包含一个内联图像组件和一个块级图形组件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t2/&gt;In DITA &lt;t3/&gt;1.3, &lt;t4/&gt;for example, a list item can have mixed content (e.g., child ele&lt;t5/&gt;ments like a paragraph combined with non-whitespace character data like text).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131254Z" creationid="lenovo" creationdate="20200813T134623Z">
@@ -1917,6 +1925,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130840Z" creationid="lenovo" creationdate="20200804T071158Z">
         <seg>在我采访约翰·卡罗尔的数周后，颇具影响力的技术传播博主汤姆•约翰逊（Tom Johnson）在技术交流协会峰会上与他进行了交谈。&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A figure is treated as a block element in XDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T133250Z" creationid="DSS" creationdate="20200817T133250Z">
+        <seg>在 XDITA 中图形组件是一个块级元素。</seg>
       </tuv>
     </tu>
     <tu>
