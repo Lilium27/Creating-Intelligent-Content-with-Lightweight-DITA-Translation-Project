@@ -521,8 +521,8 @@
       <tuv lang="en">
         <seg>&lt;t1/&gt;LwDITA details might change between the publication of this book and the actual release of the Lightweight DITA standard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T053510Z" creationid="DSS" creationdate="20200817T053510Z">
-        <seg>本书的出版和轻量级 DITA 标准的实际发布之间有时间差异，所以本书中提到的一些细节可能会发生改变。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150218Z" creationid="DSS" creationdate="20200817T053510Z">
+        <seg>本书的出版和轻量级 DITA 标准的实际发布之间有时间差异，所以本书中提到的一些细节可能会发生改变。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1027,8 +1027,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;Because the topics are HTML5 files, they can be rendered in any web browser, and publishers can customize the rendered format with a standard CSS stylesheet.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T055516Z" creationid="DSS" creationdate="20200817T055516Z">
-        <seg>因为话题都是 HTML5 文件，它们可以在任何网页浏览器中直接呈现，发布者可以使用标准的 CSS 样式表定制显示样式。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150305Z" creationid="DSS" creationdate="20200817T055516Z">
+        <seg>因为话题都是 HTML5 文件，它们可以在任何网页浏览器中直接呈现，发布者可以使用标准的 CSS 样式表定制显示样式。&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1083,8 +1083,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;In its core pro&lt;t4/&gt;file, MDITA provides structure for major elements present in DITA XML and Markdown (title, sections, lists, etc.).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T080908Z" creationid="DSS" creationdate="20200817T055950Z">
-        <seg>在其核心概要中，MDITA 为 DITA XML 和 Markdown（标题、节、列表等）中出现的主要元素提供了结构。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150308Z" creationid="DSS" creationdate="20200817T055950Z">
+        <seg>在其核心概要中，MDITA 为 DITA XML 和 Markdown（标题、节、列表等）中出现的主要元素提供了结构。&lt;t3/&gt;&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1491,8 +1491,8 @@
       <tuv lang="en">
         <seg>&lt;t5/&gt;The simplified authoring experience of LwDITA, however, is based on a single topic type with elements common to most information units, including the following:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T054033Z" creationid="DSS" creationdate="20200817T054033Z">
-        <seg>而 LwDITA 的简化写作基于单一话题类型，其中包括大多数信息单元共有的元素，如：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150253Z" creationid="DSS" creationdate="20200817T054033Z">
+        <seg>而 LwDITA 的简化写作基于单一话题类型，其中包括大多数信息单元共有的元素，如：&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1723,8 +1723,8 @@
       <tuv lang="en">
         <seg>&lt;t8/&gt;While LwDITA is under development and not an approved OASIS standard at the time of this writing, feedback on our talks and papers about the new standard provides support for its development based on positive reactions and interest from partners in industry and academia.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T053137Z" creationid="DSS" creationdate="20200817T053137Z">
-        <seg>虽然 LwDITA 还在开发中，在撰写本文时还是一个未经 OASIS 通过的标准，我们关于新标准的讲座和论文，所得到了工业界和学术界合作伙伴的积极反应，他们也对此表现出了浓厚的兴趣，这为新标准的发展提供了支持。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150211Z" creationid="DSS" creationdate="20200817T053137Z">
+        <seg>虽然 LwDITA 还在开发中，在撰写本文时还是一个未经 OASIS 通过的标准，我们关于新标准的讲座和论文，所得到了工业界和学术界合作伙伴的积极反应，他们也对此表现出了浓厚的兴趣，这为新标准的发展提供了支持。&lt;t8/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2659,8 +2659,8 @@
       <tuv lang="en">
         <seg>An&lt;t1/&gt; added benefit of HDITA is an instant presentation view that does not require processing or transformation to generate a basic publishable outcome.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T083400Z" creationid="DSS" creationdate="20200817T083400Z">
-        <seg>HDITA 的另一个好处是，它可以即时展示，不需要经过处理或转换来生成基本的可发布文件。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150348Z" creationid="DSS" creationdate="20200817T083400Z">
+        <seg>HDITA 的另一个好处是，它可以即时展示，不需要经过处理或转换来生成基本的可发布文件。 &lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4768,16 +4768,16 @@
       <tuv lang="en">
         <seg>FIGURE 1.10 &lt;t0/&gt;HDITA recipe for marinara sauce seen on a web browser.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T083332Z" creationid="DSS" creationdate="20200817T083332Z">
-        <seg>图1.10 意式番茄罗勒酱菜谱在网页浏览器中的样子。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150347Z" creationid="DSS" creationdate="20200817T083332Z">
+        <seg>图1.10 &lt;t0/&gt;意式番茄罗勒酱菜谱在网页浏览器中的样子。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE 1.12 &lt;t0/&gt;PDF version of the XDITA topic for the marinara sauce recipe.&lt;t1/&gt; Compare to the deliverable produced from a DITA XML task in &lt;t2/&gt;Figure 1.4&lt;t3/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T084547Z" creationid="DSS" creationdate="20200817T084547Z">
-        <seg>图1.12 意式番茄罗勒酱 XDITA 生成的 PDF 交付文件，可以与图&lt;t2/&gt;1.4&lt;t3/&gt;中由 DITA XML 生成的交付文件进行对比。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150444Z" creationid="DSS" creationdate="20200817T084547Z">
+        <seg>图1.12 &lt;t0/&gt;&lt;t1/&gt;意式番茄罗勒酱 XDITA 生成的 PDF 交付文件，可以与图&lt;t2/&gt;1.4&lt;t3/&gt;中由 DITA XML 生成的交付文件进行对比。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5016,8 +5016,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;1.11 &lt;t1/&gt;Marinara sauce recipe as an MDITA topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T083416Z" creationid="DSS" creationdate="20200817T083416Z">
-        <seg>图1.11 编写为 MDITA 话题的意式番茄罗勒酱菜谱。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150404Z" creationid="DSS" creationdate="20200817T083416Z">
+        <seg>图&lt;t0/&gt;1.11 &lt;t1/&gt;编写为 MDITA 话题的意式番茄罗勒酱菜谱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5040,8 +5040,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;1.9 &lt;t1/&gt;Marinara sauce recipe as an HDITA topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T082309Z" creationid="DSS" creationdate="20200817T082309Z">
-        <seg>图1.9 编写为 HDITA 话题的意式番茄罗勒酱菜谱。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150330Z" creationid="DSS" creationdate="20200817T082309Z">
+        <seg>图&lt;t0/&gt;1.9 &lt;t1/&gt;编写为 HDITA 话题的意式番茄罗勒酱菜谱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5434,8 +5434,8 @@
       <tuv lang="en">
         <seg>For a quick example of LwDITA in action (and I will analyze &lt;t0/&gt;more thoroughly&lt;t1/&gt; its formats later in the book), I coded O'Keefe's recipe for marinara sauce in LwDITA's different authoring formats.&lt;t2/&gt; Figure 1.8 &lt;t3/&gt;shows the recipe authored in XDITA &lt;t4/&gt;一 &lt;t5/&gt;the LwDITA authoring format based on a simplified version of DITA XML.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T053900Z" creationid="DSS" creationdate="20200817T053900Z">
-        <seg>为了快速展示 LwDITA 的示例（我将在本书后面更深入地分析 LwDITA 的格式），我用 LwDITA 的三种不同写作格式编写了奥基夫的意式番茄罗勒酱菜谱。图&lt;t2/&gt;1.8&lt;t3/&gt;展示了用 XDITA 编写的菜谱&lt;t4/&gt;——&lt;t5/&gt;XDITA 是一个基于简化版 DITA XML 的 LwDITA 写作格式。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150251Z" creationid="DSS" creationdate="20200817T053900Z">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;为了快速展示 LwDITA 的示例（我将在本书后面更深入地分析 LwDITA 的格式），我用 LwDITA 的三种不同写作格式编写了奥基夫的意式番茄罗勒酱菜谱。图&lt;t2/&gt;1.8&lt;t3/&gt;展示了用 XDITA 编写的菜谱&lt;t4/&gt;——&lt;t5/&gt;XDITA 是一个基于简化版 DITA XML 的 LwDITA 写作格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6834,8 +6834,8 @@
       <tuv lang="en">
         <seg>In &lt;t0/&gt;2011, &lt;t1/&gt;the technical committee planned to release a “limited DITA profile,” which was still XML-based, but depended heavily on HTML tags (such as &lt;t2/&gt;&lt;p&gt; &lt;t3/&gt;for paragraph and &lt;t4/&gt;&lt;li&gt; &lt;t5/&gt;for list item) to simplify many semantic structures of DITA XML.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150148Z" creationid="DSS" creationdate="20200817T043341Z">
-        <seg>在&lt;t0/&gt;&lt;t1/&gt;年，技术委员会计划发布一个《限制性DITA概要》文件，该文件仍是基于 XML 的，但是严重依赖 HTML 标签（例如，用&lt;t2/&gt; &lt;p&gt; &lt;t3/&gt;表示段落，用 &lt;t4/&gt;&lt;li&gt; &lt;t5/&gt;表示列表项），以简化DITA XML 的许多语义结构。
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150207Z" creationid="DSS" creationdate="20200817T043341Z">
+        <seg>在&lt;t0/&gt;2011&lt;t1/&gt;年，技术委员会计划发布一个《限制性DITA概要》文件，该文件仍是基于 XML 的，但是严重依赖 HTML 标签（例如，用&lt;t2/&gt; &lt;p&gt; &lt;t3/&gt;表示段落，用 &lt;t4/&gt;&lt;li&gt; &lt;t5/&gt;表示列表项），以简化DITA XML 的许多语义结构。
 
 </seg>
       </tuv>
@@ -8988,8 +8988,8 @@
       <tuv lang="en">
         <seg>Michael Priestley, from IBM, created the OASIS Lightweight DITA sub&lt;t0/&gt;committee in &lt;t1/&gt;2014 &lt;t2/&gt;with the purpose of releasing LwDITA as an open standard related to but independent from DITA XML.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T053052Z" creationid="DSS" creationdate="20200817T053052Z">
-        <seg>IBM 的迈克尔·普里斯特利在2014年组建了 OASIS 轻量级 DITA 小组委员会，目的是将 LwDITA 作为一种与 DITA XML 相关，但又独立于 DITA 的开放标准发布。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150208Z" creationid="DSS" creationdate="20200817T053052Z">
+        <seg>IBM 的迈克尔·普里斯特利在2014年组建了 OASIS 轻量级 DITA 小组委员会，目的是将 LwDITA 作为一种与 DITA XML 相关，但又独立于 DITA 的开放标准发布。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9670,8 +9670,8 @@
       <tuv lang="en">
         <seg>Particularly for technical communication students and practitioners with backgrounds in writing and the Humanities, &lt;t1/&gt;this is&lt;t2/&gt; their computer code.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T083701Z" creationid="DSS" creationdate="20200817T083701Z">
-        <seg>对于有写作和人文学科背景的技术传播专业的学生和从业者来说，DITA 和 LwDITA 是属于他们的计算机代码。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150417Z" creationid="DSS" creationdate="20200817T083701Z">
+        <seg>对于有写作和人文学科背景的技术传播专业的学生和从业者来说，DITA 和 LwDITA 是属于他们的计算机代码。&lt;t1/&gt;&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11690,8 +11690,8 @@
       <tuv lang="en">
         <seg>The XML tags are still visible&lt;t2/&gt; and the recipe looks like a DITA topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T054218Z" creationid="DSS" creationdate="20200817T054218Z">
-        <seg>XML 标签仍然可见，菜谱看起来像一个 DITA 话题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150257Z" creationid="DSS" creationdate="20200817T054218Z">
+        <seg>XML 标签仍然可见，菜谱看起来像一个 DITA 话题。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12332,8 +12332,8 @@
       <tuv lang="en">
         <seg>The major change in this&lt;t2/&gt; version is the absence of tags to represent elements.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T083449Z" creationid="DSS" creationdate="20200817T083449Z">
-        <seg>这个版本的主要不同之处是没有用标签来表示元素。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150405Z" creationid="DSS" creationdate="20200817T083449Z">
+        <seg>这个版本的主要不同之处是没有用标签来表示元素。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13108,8 +13108,8 @@
       <tuv lang="en">
         <seg>The topic is now an&lt;t2/&gt; HTML5 article, and the elements' structure looks very similar to what can be accomplished with XML.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T082322Z" creationid="DSS" creationdate="20200817T082322Z">
-        <seg>该话题现在是一篇 HTML5 文章，元素的结构看起来和用 XML 编写的话题非常相似。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150331Z" creationid="DSS" creationdate="20200817T082322Z">
+        <seg>该话题现在是一篇 HTML5 文章，元素的结构看起来和用 XML 编写的话题非常相似。 &lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15039,8 +15039,8 @@
       <tuv lang="en">
         <seg>XDITA pro&lt;t0/&gt;vides some of the DITA mechanisms for reuse and single sourcing that could be essential for a technical communicator but probably distracting or confusing for a casual content contributor.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T082109Z" creationid="DSS" creationdate="20200817T082109Z">
-        <seg>XDITA 提供了一些用于内容复用和同源开发的 DITA 机制，这些机制对于技术传播人员来说不可或缺，但对于非职业的内容创作者来说可能会分散注意力或制造混乱。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150316Z" creationid="DSS" creationdate="20200817T082109Z">
+        <seg>XDITA 提供了一些用于内容复用和同源开发的 DITA 机制，这些机制对于技术传播人员来说不可或缺，但对于非职业的内容创作者来说可能会分散注意力或制造混乱。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15415,8 +15415,8 @@
       <tuv lang="en">
         <seg>technical communication (Eli Review, n.d.) that act as commonplace elements in the repertoire of an author.&lt;t0/&gt; Chapter &lt;t1/&gt;3&lt;t2/&gt; &lt;t3/&gt;will look at how those common moves of technical communication relate to content structures in DITA and LwDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T083257Z" creationid="DSS" creationdate="20200817T083257Z">
-        <seg>这些都是技术传播的基本步骤 (Eli Review, n.d.)，也是作者的常见技能。第三章将讨论技术传播的常见步骤与 DITA、LwDITA 中的内容结构之间的关系。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150411Z" creationid="DSS" creationdate="20200817T083257Z">
+        <seg>这些都是技术传播的基本步骤 (Eli Review, n.d.)，也是作者的常见技能。第三章将讨论技术传播的常见步骤与 DITA、LwDITA 中的内容结构之间的关系。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
