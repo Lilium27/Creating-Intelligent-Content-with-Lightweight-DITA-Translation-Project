@@ -3489,6 +3489,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Calling them “com&lt;t0/&gt;puter code,” however, could offend programmers and developers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T083643Z" creationid="DSS" creationdate="20200817T083643Z">
+        <seg>然而，称它们为“计算机代码”可能会冒犯程序员和开发人员。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Carolyn Miller noted that evolution is not seen “as a mere metaphor  or handy analogy for the process of genre change but as a set of ideas that  has been central to thinking about cultural change as about biological change”  (Miller, 2015, pp.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T082805Z" creationid="DSS" creationdate="20200730T082805Z">
@@ -3753,6 +3761,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Computer Code for Human Authors</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T083629Z" creationid="DSS" creationdate="20200817T083629Z">
+        <seg>适合写作人员使用的计算机代码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Computing is concerned with automating these abstractions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T040319Z" creationid="DSS" creationdate="20200817T040319Z">
@@ -3988,6 +4004,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DITA and all three LwDITA formats are undeniably code.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T083635Z" creationid="DSS" creationdate="20200817T083635Z">
+        <seg>不可否认，DITA 和所有三种 LwDITA 格式都是代码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DITA classic topic types: concept, task, and reference, constrained to light&lt;t0/&gt;weight topic model</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131053Z" creationid="DSS" creationdate="20200801T123241Z">
@@ -4137,6 +4161,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153152Z" creationid="DSS" creationdate="20200726T153152Z">
         <seg>XML 的定义和描述在学术界和从业者的书中比比皆是。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deliverables created from the sample map in&lt;t0/&gt; Figure &lt;t1/&gt;1.13&lt;t2/&gt; &lt;t3/&gt;can include a print cookbook or an online recipe guide, based on the automation tools used by Chef Pedro and his team in a specific publishing scenario.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T083615Z" creationid="DSS" creationdate="20200817T083615Z">
+        <seg>基于佩德罗和其团队在特定发布场景中使用的自动化工具，根据图&lt;t0/&gt;&lt;t1/&gt;1.13&lt;t2/&gt;&lt;t3/&gt;中的示例地图创建的可交付成果可以包括一本纸质烹饪书或一份在线菜谱指南。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5284,6 +5316,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154454Z" creationid="DSS" creationdate="20200726T154454Z">
         <seg>现在只需要知道XML使用标签来识别页面内容所表示的修辞关系。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For processing purposes, a single DITA map can combine topics created in different LwDITA formats (&lt;t0/&gt;Figure &lt;t1/&gt;1.13&lt;t2/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T083516Z" creationid="DSS" creationdate="20200817T083516Z">
+        <seg>在处理过程中，单个 DITA 地图可以组合使用不同 LwDITA 格式创建的话题（图&lt;t0/&gt;&lt;t1/&gt;1.13&lt;t2/&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9139,6 +9179,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Particularly for technical communication students and practitioners with backgrounds in writing and the Humanities, &lt;t1/&gt;this is&lt;t2/&gt; their computer code.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T083701Z" creationid="DSS" creationdate="20200817T083701Z">
+        <seg>对于有写作和人文学科背景的技术传播专业的学生和从业者来说，DITA 和 LwDITA 是属于他们的计算机代码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Particularly, the course content he developed for the ELI Review modules on &lt;t4/&gt;The Essential Moves of Technical Communication&lt;t5/&gt; (Eli Review, n.d.) is based on common traits of tech&lt;t6/&gt;nical communication genres.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130959Z" creationid="lenovo" creationdate="20200811T164654Z">
@@ -12690,6 +12738,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These are the skills that someone like IBM's James Mathewson expects from a technical communication graduate.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T083816Z" creationid="DSS" creationdate="20200817T083816Z">
+        <seg>以上就是詹姆斯·马修森（来自 IBM）等人对技术传播专业毕业生的期望。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These common elements can be represented, with modifications to accom&lt;t0/&gt;modate different authoring languages, in XDITA, HDITA, and MDITA.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T055316Z" creationid="DSS" creationdate="20200817T055316Z">
@@ -12838,6 +12894,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T023122Z" creationid="lenovo" creationdate="20200810T023122Z">
         <seg>以下是他们提出的手册写作危机的原因：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They will probably not use advanced programming languages, but they work with XML, HTML5, and even Markdown code that for them requires a different kind of thinking than desktop publishing workflows involving long document files with a word pro&lt;t3/&gt;cessor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T083734Z" creationid="DSS" creationdate="20200817T083734Z">
+        <seg>他们可能不需要使用高级编程语言，但会使用 XML、HTML5，甚至是 Markdown。对他们来说，这些使用代码需要一种不同于桌面发布工作流的思维方式，而桌面发布工作流使用文字处理器处理长文档。</seg>
       </tuv>
     </tu>
     <tu>
