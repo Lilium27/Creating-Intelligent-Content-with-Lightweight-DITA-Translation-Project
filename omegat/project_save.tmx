@@ -3169,6 +3169,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>At the same time, it presented a very risky challenge: I had to write a whole book about a proposed standard for structuring information that had not been approved and will not yet be approved by the time the book is published.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T150753Z" creationid="DSS" creationdate="20200818T150753Z">
+        <seg>与此同时，这也带来了一个非常冒险的挑战：我必须写一整本书来介绍结构化内容拟议标准，而这个标准还没有得到批准，并且在本书出版之际都不会批准。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At the same time, the menus in his restaurants need to reflect some of that content, which is also fea&lt;t1/&gt;tured on a website, mobile app, and an electronic book he sells describing the history and process of his restaurants.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130737Z" creationid="DSS" creationdate="20200726T153410Z">
@@ -10778,6 +10786,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T085624Z" creationid="DSS" creationdate="20200817T085624Z">
         <seg>能忽视简化的轻量级标记语言（或 &lt;t3/&gt;markdown&lt;t4/&gt;），因为作者会直接在在线环境中创建话题，这个环境将同样用于阅读。毕竟不是每个发布项目都需要内容复用和过滤的高级功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Since I had been breathing LwDITA in my teaching and research work at Virginia Tech, and in my committee con&lt;t2/&gt;tributions to OASIS since &lt;t3/&gt;2014, &lt;t4/&gt;that sounded like an excellent idea.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T144116Z" creationid="DSS" creationdate="20200818T144116Z">
+        <seg>由于我在弗吉尼亚理工大学的教学和研究工作中一直在使用 LwDITA，并且自2014年以来就一致参与 OASIS 委员会的工作，这听起来似乎是一个很棒的主意。</seg>
       </tuv>
     </tu>
     <tu>
