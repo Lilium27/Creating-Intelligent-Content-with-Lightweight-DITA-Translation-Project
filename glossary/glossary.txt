@@ -247,7 +247,6 @@ technical specification	技术规范
 technical writer	技术文档工程师
 technical writing	技术写作
 technology strategy	技术战略
-Texas Tech University	德州理工大学
 text editor	文本编辑器
 The New York Times	《纽约时报》
 thought process	思维过程
@@ -464,3 +463,4 @@ Patrick Bosek	帕特里克·博塞克
 Johndan Johnson-Eilola	琼丹·约翰逊-艾劳拉
 Creating User Documentation	用户文档写作
 block image	块图像
+Texas Tech University	得克萨斯理工大学
