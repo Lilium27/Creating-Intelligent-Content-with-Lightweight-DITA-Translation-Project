@@ -3641,6 +3641,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Both original ideas for this book (the one about the history of the manual and the one about computational thinking in tech&lt;t0/&gt;nical writing courses) somehow ended up in the same place: they proposed Lightweight DITA (LwDITA) as a solution to more than one problem affecting technical communication and content development.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T142815Z" creationid="DSS" creationdate="20200818T142815Z">
+        <seg>创作本书的最初两个想法（一是手册的历史，二是技术写作课程中的计算机思维）最终体现在同一个地方：委员会提出轻量级 DITA（LwDITA）规范，成为技术传播和内容开发等多个问题的解决方案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By &lt;t2/&gt;1999, &lt;t3/&gt;Dave was aware of my participation as IBM's primary representa&lt;t4/&gt;tive with the XSLT and CSS standards activities at the World Wide Web Consortium, and I delivered a presentation at a formative meeting in California that forecast the possibility of XML to solve IBM's still-linger&lt;t5/&gt;ing problems with variant tools and markup usage.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130739Z" creationid="DSS" creationdate="20200726T154657Z">
@@ -8978,6 +8986,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LwDITA represents the evolution of the computer manual and it provides a way to introduce computa&lt;t1/&gt;tional thinking in writing courses.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T142917Z" creationid="DSS" creationdate="20200818T142917Z">
+        <seg>LwDITA 代表了计算机手册的发展，也提供了在写作课程中引入计算机思维的方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LwDITA, like DITA XML, &lt;t0/&gt;can be specialized into custom document and element types &lt;t1/&gt;based on the needs of specific users.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T154513Z" creationid="DSS" creationdate="20200730T095804Z">
@@ -9422,6 +9438,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095124Z" creationid="DSS" creationdate="20200730T095124Z">
         <seg>尽管如此，要描述 DITA 技术委员会是如何响应社会和行业的需求并创造出至少是 DITA 标准进化分支之一的 LwDITA 的，进化是一个合适的词语。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Nevertheless, my experience with the Darwin Information Typing Architecture (DITA) originally as a user, then as a professor teaching DITA in my classes, and eventually as a committee member and spec author, took the book in its final direction.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T142808Z" creationid="DSS" creationdate="20200818T142808Z">
+        <seg>不过，本书内容的最终走向得益于我最初作为达尔文信息类型架构（DITA）用户，后来成为在课堂上教授 DITA 的教授，以后最后成为委员会成员和规范编写者的经验。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15009,6 +15033,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130916Z" creationid="lenovo" creationdate="20200810T143050Z">
         <seg>当我试图衡量约翰·卡罗尔极简主义理论对内容发展的影响时，我想起迈克尔·普里斯特利在多个场合承认，经由IBM出版的《开发高质量技术信息》，极简主义对DITA造成的影响名列前茅。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When Taylor &lt;t0/&gt;&amp; &lt;t1/&gt;Francis/Routledge circulated the prospectus and sample chapters for this book to anonymous reviewers, their feedback was on point: the book should be about Lightweight DITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T143943Z" creationid="DSS" creationdate="20200818T143943Z">
+        <seg>当泰勒-弗朗西斯出版集团将这本书的简介和样章分发给匿名评论者时，他们的反馈切中要害：这本书应该是关于轻量级 DITA 的。</seg>
       </tuv>
     </tu>
     <tu>
