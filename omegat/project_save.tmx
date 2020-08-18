@@ -5263,6 +5263,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;6.32 &lt;t1/&gt;HDITA topic with a cross-reference to an external website.&lt;t2/&gt; Compared to the XDITA example, the &lt;t3/&gt;&lt;a&gt; &lt;t4/&gt;tags replace the &lt;t5/&gt;&lt;xref&gt; &lt;t6/&gt;to embrace the phrase “knowledge base.”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200818T014323Z" creationid="lenovo" creationdate="20200818T014323Z">
+        <seg>图 &lt;t0/&gt;6.32 &lt;t1/&gt;交叉引用导向外部网站的HDITA主题&lt;t2/&gt;与XDITA示例相比，&lt;a&gt;标记取代了&lt;xref&gt;标记，从而能够运用“知识库”这一概念。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Figure 6.5&lt;t0/&gt; shows the &lt;t1/&gt;franchise.intro.md&lt;t2/&gt; topic with an assigned &lt;t3/&gt;@id &lt;t4/&gt;of &lt;t5/&gt;sensei- &lt;t6/&gt;intro&lt;t7/&gt; &lt;t8/&gt;that would override the &lt;t9/&gt;@id &lt;t10/&gt;generated with the file's name.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T135906Z" creationid="DSS" creationdate="20200816T134439Z">
