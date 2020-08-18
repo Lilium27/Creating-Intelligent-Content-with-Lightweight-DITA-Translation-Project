@@ -2921,6 +2921,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As a new col&lt;t0/&gt;lege professor, did I need to side more with academics?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T134720Z" creationid="DSS" creationdate="20200818T134720Z">
+        <seg>作为一名初出茅庐的大学教授，我是否需要更多地站在学术界一边？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As a new professor in an English department, did I need to learn more about literary approaches and discourse?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T134726Z" creationid="DSS" creationdate="20200818T134726Z">
+        <seg>作为一名初出茅庐的英语院系的教授，我是否需要学习更多的文学手段和论述？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As a pair of rapidly animated hands assembles Lego pieces (&lt;t4/&gt;Figure &lt;t5/&gt;1.1&lt;t6/&gt;), &lt;t7/&gt;the video's narrator describes that “for some, (the future of technical</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T155412Z" creationid="DSS" creationdate="20200723T155412Z">
@@ -6544,6 +6560,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I remember calling my father and telling him about Dayton's presentation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T134710Z" creationid="DSS" creationdate="20200818T134710Z">
+        <seg>记得当时我打电话给爸爸，告诉他代顿的演讲。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I scheduled a follow-up call with Priestley, who invited Jenifer Schlotfeldt &lt;t0/&gt;一 &lt;t1/&gt;Senior Content Strategist at IBM who was working on the Bluemix documentation project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T155108Z" creationid="DSS" creationdate="20200802T155108Z">
@@ -6556,6 +6580,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131110Z" creationid="DSS" creationdate="20200802T155119Z">
         <seg>我与他们分享了一组 HDITA 话题示例，其中包含了普里斯特利博文提到的一些元素，同时使用了新的 HTML5 自定义数据属性，以增加实现内容复用和单一来源的可能性。&lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I told him I was unsure about my affiliation on those divisions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T134715Z" creationid="DSS" creationdate="20200818T134715Z">
+        <seg>我跟他说我不确定自己属于哪个阵营，</seg>
       </tuv>
     </tu>
     <tu>
@@ -9238,6 +9270,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T153736Z" creationid="DSS" creationdate="20200802T162743Z">
         <seg>2014年9月12日，我的女儿索菲亚出生了，所以我没能及时加入小组委员会的电话会议。&lt;t4/&gt;&lt;t5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>My father's advice now sounds simple, but at the time was eye-opening and somehow unexpected.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T134731Z" creationid="DSS" creationdate="20200818T134731Z">
+        <seg>爸爸的建议现在听起来很简单，但在当时却让人眼前一亮，出乎意料。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15073,6 +15113,23 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T132800Z" creationid="lenovo" creationdate="20200813T132800Z">
         <seg>虽然这个需求最初让一些作者感到惊讶，但它为作者和LwDITA样式表开发人员都提供了好处，而且是LwDITA的一个重要的基本特性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Why not build bridges and connect the seemingly separate camps?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T135037Z" creationid="DSS" creationdate="20200818T135037Z">
+        <seg>为什么不在双方之间架起桥梁，把这两个看似独立的阵营连接起来呢？
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Why not do both?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T134738Z" creationid="DSS" creationdate="20200818T134738Z">
+        <seg>他说为什么不两个都做呢？</seg>
       </tuv>
     </tu>
     <tu>
