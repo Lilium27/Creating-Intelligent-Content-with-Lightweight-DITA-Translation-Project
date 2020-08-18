@@ -6930,6 +6930,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In &lt;t2/&gt;Figure &lt;t3/&gt;6.34&lt;t4/&gt;, &lt;t5/&gt;the list of franchise terms includes a cross-reference to a footnote providing information about the initial fee paid by franchise owners.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200818T024929Z" creationid="lenovo" creationdate="20200818T024929Z">
+        <seg>在 &lt;t2/&gt;图 &lt;t3/&gt;6.34&lt;t4/&gt;，特许条件清单包含了指向脚注的交叉参考，该脚注提供了特许经营所有人所支付的初始费用信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In &lt;t21/&gt;Lightweight DITA: An Introduction&lt;t22/&gt;, we wrote the fol&lt;t23/&gt;lowing about the optional YAML header for MDITA topics:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T140606Z" creationid="DSS" creationdate="20200816T134311Z">
