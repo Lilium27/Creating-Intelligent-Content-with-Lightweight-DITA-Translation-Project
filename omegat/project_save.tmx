@@ -5696,6 +5696,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fresh out of graduate school at Texas Tech University, I was still in that period in which I thought it was my job to read and absorb everything and anything that was published or presented about technical communication.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T131046Z" creationid="DSS" creationdate="20200818T131046Z">
+        <seg>彼时的我刚从得克萨斯理工大学研究生毕业，那时我认为自己的主要任务就是阅读和吸收所有有关技术传播的出版物或信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>From a cautionary or preventive perspective, planning ahead can minimize the future impact of dealing with legacy content siloed in one plat&lt;t4/&gt;form.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131401Z" creationid="DSS" creationdate="20200809T130427Z">
@@ -7690,6 +7698,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the summer of &lt;t0/&gt;2004, &lt;t1/&gt;I was on my way to Blacksburg, Virginia, to start my new job as assistant professor of technical communication at Virginia Tech.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T131038Z" creationid="DSS" creationdate="20200818T131038Z">
+        <seg>2004年夏天，我前往位于弗吉尼亚州的布莱克斯堡开启了一份新工作：弗吉尼亚理工大学技术传播专业的助理教授。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the technical communication literature, the concept of abstraction has been linked to Johndan Johnson-Eilola's work to establish “common ground between academic and corporate models” of the profession.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T034936Z" creationid="DSS" creationdate="20200817T034936Z">
@@ -9190,6 +9206,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T125949Z" creationid="DSS" creationdate="20200802T125949Z">
         <seg> &lt;t0/&gt;2014&lt;t1/&gt;年4月我与Priestley进行了第一次沟通，评估将 HDITA 作为一种非 XML 的 DITA 标准格式，其结构化和发布能力的有效性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>My new office only had a laptop computer on an otherwise empty desk when I started reading some of the just-published proceedings from the &lt;t2/&gt;2004 &lt;t3/&gt;conference (now called the Summit) of the Society for Technical Communication.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T131517Z" creationid="DSS" creationdate="20200818T131517Z">
+        <seg>我的新办公室里只有一张空空如也的桌子，上面唯一放着的东西就是笔记本电脑，就是在这样的环境下，我开始阅读2004年技术传播协会会议（现在称为峰会）一些刚刚发表的会议记录。</seg>
       </tuv>
     </tu>
     <tu>
