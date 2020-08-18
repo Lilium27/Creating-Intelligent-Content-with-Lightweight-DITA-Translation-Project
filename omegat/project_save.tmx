@@ -1929,6 +1929,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A cross-reference also provides the foundation for footnotes in HDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200818T030147Z" creationid="lenovo" creationdate="20200818T030147Z">
+        <seg>交叉参考为HDITA中脚注奠定了基础。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A definition of topic from Lawrence Prelli further supports this overlap.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T161502Z" creationid="lenovo" creationdate="20200811T161502Z">
@@ -11504,6 +11512,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The HTML5 division element (&lt;t0/&gt;&lt;div&gt;&lt;t1/&gt;) with the custom data attribute of &lt;t2/&gt;@data- class=&lt;t3/&gt;“&lt;t4/&gt;fn&lt;t5/&gt;” creates a section for the footnote content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200818T031008Z" creationid="lenovo" creationdate="20200818T031008Z">
+        <seg>带有定制数据属性@data-class==&lt;t3/&gt;“&lt;t4/&gt;fn&lt;t5/&gt;”的HTML5 division元素(&lt;div&gt;)为脚注内容创建了一节。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The HTML5 semantic tag of &lt;t0/&gt;&lt;article&gt; &lt;t1/&gt;provides a content environment similar to the &lt;t2/&gt;&lt;topic&gt; &lt;t3/&gt;component from XDITA.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T133231Z" creationid="DSS" creationdate="20200816T133231Z">
@@ -11772,6 +11788,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T081310Z" creationid="DSS" creationdate="20200808T081310Z">
         <seg>本章介绍了与使用 LwDITA 创建智能内容相关的抽象能力，它结合了上文提到的语义（过程 vs. 对象）模型和计算机体系结构层级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The actual footnote contains a paragraph with text.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200818T030112Z" creationid="lenovo" creationdate="20200818T030112Z">
+        <seg>实际的脚注包含一个带有正文的段落。</seg>
       </tuv>
     </tu>
     <tu>
