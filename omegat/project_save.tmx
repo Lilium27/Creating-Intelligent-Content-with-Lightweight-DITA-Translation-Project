@@ -2545,6 +2545,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Among academics: literary/discourse focused versus social-science/ technology focused.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T132512Z" creationid="DSS" creationdate="20200818T132402Z">
+        <seg>学术界内部：关注文学/话语和关注社会科学/技术的对立</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An Element for Every (Content) Occasion</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T021555Z" creationid="lenovo" creationdate="20200812T021555Z">
@@ -3267,8 +3275,8 @@
       <tuv lang="en">
         <seg>Back in &lt;t1/&gt;2004, &lt;t2/&gt;David Dayton identified “two major fault lines” creating tension in the profession of technical communication: one between academics and practitioners, and another among academics, with a camp focusing on rhetorical generalism and another identifying</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160500Z" creationid="DSS" creationdate="20200810T134807Z">
-        <seg>早在&lt;t1/&gt;2004&lt;t2/&gt;年，大卫·代顿就提出了“两大断层线”的想法，在技术传播领域制造了紧张气氛：一个断层线在学者和从业者之间，另一个断层线在学术界内部：一个阵营关注一般性修辞，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T132437Z" creationid="DSS" creationdate="20200810T134807Z">
+        <seg>早在&lt;t1/&gt;2004&lt;t2/&gt;年，大卫·代顿就提出了“两大断层线”的想法，在技术传播领域制造了紧张气氛：一个断层线在学术界和工业界之间，另一个断层线在学术界内部：一个阵营关注一般性修辞，</seg>
       </tuv>
     </tu>
     <tu>
@@ -3507,8 +3515,8 @@
       <tuv lang="en">
         <seg>Between academics and practitioners</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T132243Z" creationid="DSS" creationdate="20200818T132243Z">
-        <seg>学者和从业者之间</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T132449Z" creationid="DSS" creationdate="20200818T132243Z">
+        <seg>学术界和工业界之间</seg>
       </tuv>
     </tu>
     <tu>
