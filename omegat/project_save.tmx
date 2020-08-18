@@ -1033,6 +1033,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t3/&gt;At another point, the book was going to be a guide for incorporating principles of computational thinking in technical writing courses aimed at students of computer science.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T140329Z" creationid="DSS" creationdate="20200818T140329Z">
+        <seg>从另一个角度看，本书将成为一个指南，旨在将计算机思维原则融入计算机科学专业学生所学的技术写作课程当中去，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t3/&gt;Because the topics are HTML5 files, they can be rendered in any web browser, and publishers can customize the rendered format with a standard CSS stylesheet.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150305Z" creationid="DSS" creationdate="20200817T055516Z">
@@ -5888,6 +5896,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Getting here has been a long trip, and this book was, at different points, a very different work.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T140310Z" creationid="DSS" creationdate="20200818T140310Z">
+        <seg>取得如今这些成果是一段漫长的旅程，而本书，从不同的角度来看，是不同类型的作品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Global collaborator</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T125705Z" creationid="DSS" creationdate="20200811T124818Z">
@@ -7666,6 +7682,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In that version, the book claimed that the obsolescence of the manual as the main genre of technical communication was one of the causes of the professional fault lines identified in Dayton's presentation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T140319Z" creationid="DSS" creationdate="20200818T140319Z">
+        <seg>在那个版本中，书里写到：手册作为技术传播的主要体裁已经过时，而这也是代顿演讲中指出的断线层出现的原因之一。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the 1990s, Carroll's work on minimalist documentation also influenced an IBM technical writer to architect the original DITA schemas for structuring con&lt;t0/&gt;tent.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130827Z" creationid="lenovo" creationdate="20200802T082309Z">
@@ -8046,6 +8070,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131050Z" creationid="DSS" creationdate="20200731T084859Z">
         <seg>信息映射是一套用于识别、分类和关联学习参考所需信息的系统。&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Initially, it was going to be a history of the computer manual.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T140313Z" creationid="DSS" creationdate="20200818T140313Z">
+        <seg>最初，本书的主要内容是计算机手册的历史。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10846,6 +10878,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some of that work survived and is present in &lt;t0/&gt;Chapter &lt;t1/&gt;2&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T140323Z" creationid="DSS" creationdate="20200818T140323Z">
+        <seg>关于计算机手册的部分内容保留了下来，将在第二章中介绍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some of the early conversations during the Lightweight DITA subcommit&lt;t0/&gt;tee calls included selecting the right name for the proposed standard.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131110Z" creationid="DSS" creationdate="20200803T091915Z">
@@ -11404,6 +11444,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T030857Z" creationid="lenovo" creationdate="20200804T001457Z">
         <seg>这位技术文档工程师就是迈克尔·普里斯特利（Michael Priestley），几年后他与乔安·哈克斯（JoAnn Hackos）共同为DITA标准创建了原始的技术规范，现在则同我一道在为轻量级DITA创建技术规范。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That work influenced &lt;t4/&gt;Chapters &lt;t5/&gt;7&lt;t6/&gt; &lt;t7/&gt;and &lt;t8/&gt;8&lt;t9/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T142747Z" creationid="DSS" creationdate="20200818T142747Z">
+        <seg>这一思想将在本书第七章和第八章中体现。</seg>
       </tuv>
     </tu>
     <tu>
