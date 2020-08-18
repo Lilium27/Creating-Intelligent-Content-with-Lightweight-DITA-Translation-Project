@@ -11992,6 +11992,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The cross-reference component also enables the inclusion of footnotes (&lt;t0/&gt;&lt;fn&gt;&lt;t1/&gt;) in XDITA topics.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200818T024109Z" creationid="lenovo" creationdate="20200818T024109Z">
+        <seg>交叉引用组件还支持在XDITA主题中包含脚注(&lt;t0/&gt;&lt;fn&gt;&lt;t1/&gt;)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The definitions for some characteristics, however, have changed slightly over time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T030143Z" creationid="lenovo" creationdate="20200811T030143Z">
