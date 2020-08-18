@@ -12233,6 +12233,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The footnote component is composed of two elements: the cross-reference that calls it, and the actual footnote content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200818T025552Z" creationid="lenovo" creationdate="20200818T025552Z">
+        <seg>脚注组件由两个元素组成：调用它的交叉引用和实际的脚注内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The future of technical communication still involves XML; therefore, the follow&lt;t2/&gt;ing sections include brief introductions to Extensible Markup Language and the Darwin Information Typing Architecture, providing examples of the main content and collection types included in the latter.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130735Z" creationid="DSS" creationdate="20200726T153005Z">
