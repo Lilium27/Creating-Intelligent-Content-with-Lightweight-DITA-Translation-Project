@@ -3505,6 +3505,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Between academics and practitioners</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T132243Z" creationid="DSS" creationdate="20200818T132243Z">
+        <seg>学者和从业者之间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bloggers and content strategists who want to be able to create and edit con&lt;t0/&gt;tent using mobile devices</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131244Z" creationid="lenovo" creationdate="20200813T081548Z">
@@ -4265,6 +4273,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T134500Z" creationid="DSS" creationdate="20200804T134500Z">
         <seg>数据（data）&lt;t0/&gt;：元数据通用组件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dayton's slide identified “two major fault lines (that) create tension, release continuous discourse” in the field of technical communication:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T132129Z" creationid="DSS" creationdate="20200818T132129Z">
+        <seg>代顿在幻灯片中指出了技术传播领域中“有两大主要断层线，它们制造了紧张气氛，不断引起讨论”：</seg>
       </tuv>
     </tu>
     <tu>
@@ -12722,6 +12738,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The proceedings included a presentation titled “The Future of Technical Communication According to Those Who Teach It,” by David Dayton &lt;t0/&gt;一 &lt;t1/&gt;a fellow graduate (a couple of years ahead of me) of the PhD in Technical Communication and Rhetoric at Texas Tech University.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T132118Z" creationid="DSS" creationdate="20200818T132118Z">
+        <seg>会议记录包括一个题为“技术传播的未来取决于教授者”的演讲，演讲者是大卫·代顿（David Dayton）——得克萨斯理工大学技术传播和修辞学专业博士毕业生（比我早几年）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The process for generating end user deliverables from DITA maps is the same for transforming LwDITA maps (regardless of XDITA, HDITA, or MDITA authoring format).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T042224Z" creationid="DSS" creationdate="20200807T042224Z">
@@ -14585,6 +14609,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T022030Z" creationid="lenovo" creationdate="20200813T022030Z">
         <seg>不可否认的是，DITA XML的受众使该标准成为结构化信息的一种广泛流行的方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Under the title of “Plate Tectonics of T-COM,” Dayton's presentation included a slide that prob&lt;t2/&gt;ably changed my academic life.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T132124Z" creationid="DSS" creationdate="20200818T132124Z">
+        <seg>在题为“技术传播的模块构造”的演讲中，代顿所展示的一张幻灯片可能改变了我的学术生活。</seg>
       </tuv>
     </tu>
     <tu>
