@@ -2969,6 +2969,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As a somewhat naive new PhD graduate, I was unaware of those fault lines.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T133957Z" creationid="DSS" creationdate="20200818T133957Z">
+        <seg>作为一个刚刚毕业缺乏经验的博士，我并不知道这些断层线。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As an alternative, you can enter the keyboard shortcut of &lt;t1/&gt;Ctrl &lt;t2/&gt;+ &lt;t3/&gt;Shift &lt;t4/&gt;+ &lt;t5/&gt;T &lt;t6/&gt;(for Windows) or &lt;t7/&gt;Command &lt;t8/&gt;+ &lt;t9/&gt;Shift &lt;t10/&gt;+ &lt;t11/&gt;T&lt;t12/&gt; (for macOS).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T035141Z" creationid="DSS" creationdate="20200807T035141Z">
@@ -7202,6 +7210,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In Mexico, English departments (if they exist) focus on English as a second language and technical writing does not have a strong (any?) presence in literature or letters departments.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T134023Z" creationid="DSS" creationdate="20200818T134023Z">
+        <seg>在墨西哥，英语院系（如果有的话）侧重于把英语作为第二语言来教授，而技术写作在文学或写作专业中没有很强的（或者说任何）存在感。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In October &lt;t0/&gt;2016, &lt;t1/&gt;Kris Eberlein (chair of the DITA Technical Committee) requested a formal deliverable from the subcommittee: a committee note/white paper that would work as a proposal for the LwDITA standard.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T154755Z" creationid="DSS" creationdate="20200803T121447Z">
@@ -9676,6 +9692,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Or maybe it was because I was coming from a social sciences and computing systems background in another</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T134015Z" creationid="DSS" creationdate="20200818T134015Z">
+        <seg>又或者是因为我来自一个社会科学和计算机系统背景与美国非常不同的国家。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ordered list environment in HDITA.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T161636Z" creationid="DSS" creationdate="20200816T161636Z">
@@ -10080,6 +10104,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T093340Z" creationid="DSS" creationdate="20200731T093340Z">
         <seg>普里斯特利修订的轻量级话题从“稻草人”话题扩展而来，修订后的版本中包括了以下内容：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Probably it was because I came to the academic side of technical communi&lt;t0/&gt;cation from industry (I was a practicing technical writer and rather clumsy interface designer when I decided to get a PhD).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T134011Z" creationid="DSS" creationdate="20200818T134011Z">
+        <seg>这可能是因为我是从技术传播工业界转向学术界工作（在我决定攻读博士学位时，我是一名技术文档工程师，也是一名稚嫩的交互设计师），</seg>
       </tuv>
     </tu>
     <tu>
