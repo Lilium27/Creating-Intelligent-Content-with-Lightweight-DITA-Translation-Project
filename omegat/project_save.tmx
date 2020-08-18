@@ -6568,6 +6568,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I will talk more about superscript text in the section about highlighting components.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200818T051032Z" creationid="lenovo" creationdate="20200818T051032Z">
+        <seg>我将在高亮显示组件的部分讨论更多关于上标文本的内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I would argue that students working on an intelligent content workflow with LwDITA could fulfill many of those standards, but for the purpose of &lt;t0/&gt;Creating Intelligent Content with Lightweight DITA&lt;t1/&gt; I will focus on the “Computational thinker” standard.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160629Z" creationid="DSS" creationdate="20200811T125716Z">
@@ -6926,6 +6934,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131435Z" creationid="DSS" creationdate="20200812T143406Z">
         <seg>在&lt;t1/&gt;第&lt;t2/&gt;八&lt;t3/&gt;章&lt;t4/&gt;&lt;t5/&gt;中，我将介绍一个使用 LwDITA 进行内容开发的模型，该模型通过上下文元数据和人类参与机器自动化循环训练（HITL）来提升修辞效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In &lt;t14/&gt;Figure&lt;t15/&gt; &lt;t16/&gt;6.35&lt;t17/&gt;, &lt;t18/&gt;the clickable text is a number &lt;t19/&gt;1 &lt;t20/&gt;with the superscript (&lt;sup&gt;) format.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200818T031232Z" creationid="lenovo" creationdate="20200818T031232Z">
+        <seg>在&lt;t14/&gt;图&lt;t15/&gt; &lt;t16/&gt;6.35&lt;t17/&gt;中, 可点击的文本是带有上标(&lt;sup&gt;)格式的数字&lt;t19/&gt;1 &lt;t20/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
