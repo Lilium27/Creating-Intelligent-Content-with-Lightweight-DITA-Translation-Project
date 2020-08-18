@@ -1739,8 +1739,8 @@
       <tuv lang="en">
         <seg>&lt;t8/&gt;While LwDITA is under development and not an approved OASIS standard at the time of this writing, feedback on our talks and papers about the new standard provides support for its development based on positive reactions and interest from partners in industry and academia.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150211Z" creationid="DSS" creationdate="20200817T053137Z">
-        <seg>虽然 LwDITA 还在开发中，在撰写本文时还是一个未经 OASIS 通过的标准，我们关于新标准的讲座和论文，所得到了工业界和学术界合作伙伴的积极反应，他们也对此表现出了浓厚的兴趣，这为新标准的发展提供了支持。&lt;t8/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T151140Z" creationid="DSS" creationdate="20200817T053137Z">
+        <seg>虽然 LwDITA 还在开发中，在撰写本文时还是一个未经 OASIS 通过的标准，我们关于新标准的讲座和论文，所得到了产业界和学术界合作伙伴的积极反应，他们也对此表现出了浓厚的兴趣，这为新标准的发展提供了支持。&lt;t8/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2515,8 +2515,8 @@
       <tuv lang="en">
         <seg>Although no author is expected to become an expert on all topic types and their relations, criticism in industry and, perhaps, the timid interest from academia stem from the long, and getting longer, list of types, tags, and their functions included in the DITA standard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140305Z" creationid="DSS" creationdate="20200726T073809Z">
-        <seg>没有写作者希望成为知晓所有话题类型及其关系的专家，工业界对 DITA 的批评以及学术界对 DITA 兴趣寥寥的原因都是 DITA 标准中本就繁杂，且正变得越来越繁杂的类型、标签、功能。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T151137Z" creationid="DSS" creationdate="20200726T073809Z">
+        <seg>没有写作者希望成为知晓所有话题类型及其关系的专家，产业界对 DITA 的批评以及学术界对 DITA 兴趣寥寥的原因都是 DITA 标准中本就繁杂，且正变得越来越繁杂的类型、标签、功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3019,8 +3019,8 @@
       <tuv lang="en">
         <seg>As lead editor of the LwDITA technical specification, I have attempted to combine the needs and resources of academic and industry content professionals, testing and implementing applied compu&lt;t9/&gt;tational principles built on common concepts of genre and rhetorical theory.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T053156Z" creationid="DSS" creationdate="20200817T053156Z">
-        <seg>作为 LwDITA 技术规范的主要编写者，我试图结合学术界和工业界内容专业人员的需求和资源，基于对类型和修辞理论的共同看法，测试并应用计算原则。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T151140Z" creationid="DSS" creationdate="20200817T053156Z">
+        <seg>作为 LwDITA 技术规范的主要编写者，我试图结合学术界和产业界内容专业人员的需求和资源，基于对类型和修辞理论的共同看法，测试并应用计算原则。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3323,8 +3323,8 @@
       <tuv lang="en">
         <seg>Back in &lt;t1/&gt;2004, &lt;t2/&gt;David Dayton identified “two major fault lines” creating tension in the profession of technical communication: one between academics and practitioners, and another among academics, with a camp focusing on rhetorical generalism and another identifying</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T132437Z" creationid="DSS" creationdate="20200810T134807Z">
-        <seg>早在&lt;t1/&gt;2004&lt;t2/&gt;年，大卫·代顿就提出了“两大断层线”的想法，在技术传播领域制造了紧张气氛：一个断层线在学术界和工业界之间，另一个断层线在学术界内部：一个阵营关注一般性修辞，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T151140Z" creationid="DSS" creationdate="20200810T134807Z">
+        <seg>早在&lt;t1/&gt;2004&lt;t2/&gt;年，大卫·代顿就提出了“两大断层线”的想法，在技术传播领域制造了紧张气氛：一个断层线在学术界和产业界之间，另一个断层线在学术界内部：一个阵营关注一般性修辞，</seg>
       </tuv>
     </tu>
     <tu>
@@ -3563,8 +3563,8 @@
       <tuv lang="en">
         <seg>Between academics and practitioners</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T132449Z" creationid="DSS" creationdate="20200818T132243Z">
-        <seg>学术界和工业界之间</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T151027Z" creationid="DSS" creationdate="20200818T132243Z">
+        <seg>学术界和产业界之间</seg>
       </tuv>
     </tu>
     <tu>
@@ -3731,8 +3731,8 @@
       <tuv lang="en">
         <seg>Carroll added that the death of the manual is not the only factor responsible for the disconnect in interests and priorities between academia and industry in technical communication.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200802T080124Z" creationid="lenovo" creationdate="20200802T080124Z">
-        <seg>卡罗尔补充到，技术传播领域学界与工业界间的利益与优先级错位，手册的死亡并非是唯一的原因。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T151140Z" creationid="lenovo" creationdate="20200802T080124Z">
+        <seg>卡罗尔补充到，技术传播领域学界与产业界间的利益与优先级错位，手册的死亡并非是唯一的原因。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3899,8 +3899,8 @@
       <tuv lang="en">
         <seg>Combining discourse from the academic and practitioner sides of techni&lt;t0/&gt;cal communication, Andersen assembled a “composite and descriptions of the essential stages, key activities, and common deliverables in building a content strategy framework” (2014, p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131440Z" creationid="DSS" creationdate="20200812T164347Z">
-        <seg>安德森结合技术传播领域学术界和工业界两方面的论述，收集了“构建内容策略框架所需的材料，包括基本阶段、关键活动和一般交付物” (2014, p.&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T151140Z" creationid="DSS" creationdate="20200812T164347Z">
+        <seg>安德森结合技术传播领域学术界和产业界两方面的论述，收集了“构建内容策略框架所需的材料，包括基本阶段、关键活动和一般交付物” (2014, p.&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4021,8 +4021,8 @@
       <tuv lang="en">
         <seg>Concepts and practices from user experience research, content strategy, and usability have made it to the technical communication vocabulary in indus&lt;t2/&gt;try and academia, and undoubtedly paved the way for intelligent content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131359Z" creationid="DSS" creationdate="20200809T123525Z">
-        <seg>用户体验研究、内容策略和可用性已经成为工业界和学术界都知晓的技术传播概念与实践，这无疑为智能内容铺平了道路。&lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T151140Z" creationid="DSS" creationdate="20200809T123525Z">
+        <seg>用户体验研究、内容策略和可用性已经成为产业界和学术界都知晓的技术传播概念与实践，这无疑为智能内容铺平了道路。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6202,8 +6202,8 @@
       <tuv lang="en">
         <seg>However, I do assume that readers from industry and academia will have a technological curiosity about content development in workflows that go beyond a word processor or a “What You See Is What You Get” (WYSIWYG) web editor.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T121947Z" creationid="DSS" creationdate="20200726T135307Z">
-        <seg>不过，我的确假定来自工业界和学术界的读者对工作流程中的内容开发充满技术上的好奇心，而我所指的工作流程可不仅仅是文字处理器或“所见即所得”（WYSIWYG）的网络编辑器。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T151140Z" creationid="DSS" creationdate="20200726T135307Z">
+        <seg>不过，我的确假定来自产业界和学术界的读者对工作流程中的内容开发充满技术上的好奇心，而我所指的工作流程可不仅仅是文字处理器或“所见即所得”（WYSIWYG）的网络编辑器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7652,8 +7652,8 @@
       <tuv lang="en">
         <seg>In separate conversations with colleagues in academia (including Bill Hart- Davidson from Michigan State University) and industry (like Radu Coravu, from the Romania-based Syncro Soft), we have had unisonous affirmations of “structure starts in your head.” For a specific type of user, the structure of a sim&lt;t0/&gt;ple topic can be in their head as they go through the tasks related to the creation of intelligent.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131118Z" creationid="DSS" creationdate="20200804T161453Z">
-        <seg>在分别与学术界（包括密歇根州立大学的比尔·哈特-戴维森）和工业界（如来自罗马尼亚公司 Syncro Soft 的拉杜·科拉夫）交流后，我们一致肯定：“结构始于思考。”对于特定类型的用户来说，在创建智能内容的过程中，一个简单话题结构一直存在于他们脑中。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T151140Z" creationid="DSS" creationdate="20200804T161453Z">
+        <seg>在分别与学术界（包括密歇根州立大学的比尔·哈特-戴维森）和产业界（如来自罗马尼亚公司 Syncro Soft 的拉杜·科拉夫）交流后，我们一致肯定：“结构始于思考。”对于特定类型的用户来说，在创建智能内容的过程中，一个简单话题结构一直存在于他们脑中。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7980,8 +7980,8 @@
       <tuv lang="en">
         <seg>In writing studies, the process vs. product debate has been pretty much settled since the days of Janet Emig &lt;t4/&gt;(1977); &lt;t5/&gt;thus, it is unfair to expect professionals from academia or industry to embrace intelligent content as a product or practice without a detailed process giving steps to achieve it.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160935Z" creationid="DSS" creationdate="20200812T150637Z">
-        <seg>在写作研究中，关于过程和产品的争论在珍妮特·米格 (&lt;t4/&gt;1997&lt;t5/&gt;) 的时代就已经基本解决了。因此，期望来自学术界或工业界的专业人员像拥抱某个产品或实践一样拥抱智能内容，而又不给出实现它的详细过程，是不公平的。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T151140Z" creationid="DSS" creationdate="20200812T150637Z">
+        <seg>在写作研究中，关于过程和产品的争论在珍妮特·米格 (&lt;t4/&gt;1997&lt;t5/&gt;) 的时代就已经基本解决了。因此，期望来自学术界或产业界的专业人员像拥抱某个产品或实践一样拥抱智能内容，而又不给出实现它的详细过程，是不公平的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10238,8 +10238,8 @@
       <tuv lang="en">
         <seg>Probably it was because I came to the academic side of technical communi&lt;t0/&gt;cation from industry (I was a practicing technical writer and rather clumsy interface designer when I decided to get a PhD).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T134011Z" creationid="DSS" creationdate="20200818T134011Z">
-        <seg>这可能是因为我是从技术传播工业界转向学术界工作（在我决定攻读博士学位时，我是一名技术文档工程师，也是一名稚嫩的交互设计师），</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T151036Z" creationid="DSS" creationdate="20200818T134011Z">
+        <seg>这可能是因为我是从技术传播产业界转向学术界工作（在我决定攻读博士学位时，我是一名技术文档工程师，也是一名稚嫩的交互设计师），</seg>
       </tuv>
     </tu>
     <tu>
@@ -11361,8 +11361,8 @@
       <tuv lang="en">
         <seg>That authors can view content as non-linear and envision more than one outcome based on principles of reuse and single-sourcing might sound like a major innovation to professionals in academia and industry accus&lt;t4/&gt;tomed to using a word processor as their main tool.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131403Z" creationid="DSS" creationdate="20200809T135825Z">
-        <seg>作者可以将内容视为非线性的，基于内容复用和同源开发的原则设想多个结果，这对于习惯将文字处理软件作为主要工具的学术界和工业界的专业人士来说，可能是一个重大的创新。&lt;t4/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T151140Z" creationid="DSS" creationdate="20200809T135825Z">
+        <seg>作者可以将内容视为非线性的，基于内容复用和同源开发的原则设想多个结果，这对于习惯将文字处理软件作为主要工具的学术界和产业界的专业人士来说，可能是一个重大的创新。&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12556,8 +12556,8 @@
       <tuv lang="en">
         <seg>The future of technical communication, as seen from industry and aca&lt;t0/&gt;demia, was supposed to cover the type of structured writing for reuse that James Mathewson was looking for.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130732Z" creationid="DSS" creationdate="20200725T160846Z">
-        <seg>从工业界和学术界的角度来看，技术传播的未来应该包括詹姆斯•马修森所追寻的可重用的结构化写作类型。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T151045Z" creationid="DSS" creationdate="20200725T160846Z">
+        <seg>从产业界和学术界的角度来看，技术传播的未来应该包括詹姆斯•马修森所追寻的可重用的结构化写作类型。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14469,8 +14469,8 @@
       <tuv lang="en">
         <seg>Those concerns and doubts revolve around a major point of discrepancy in the world of technical communication: in industry, XML and DITA are widely used and some critics even see them as outdated and complex; in academia, “faculty are simply ignoring the subject, even though it has played a central role in the practitioner literature” (Clark, &lt;t2/&gt;2016, &lt;t3/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150816Z" creationid="DSS" creationdate="20200726T085141Z">
-        <seg>这些担忧和怀疑围绕着技术传播领域的一个主要差异点而存在：在工业界，XML 和 DITA 被广泛使用，一些批评者甚至认为它们过于复杂，并且已经过时；而在学术界，“尽管 DITA 在从业者编写的文档中扮演着核心角色，教师们却完全忽视了它”（克拉克，&lt;&lt;t2/&gt;2016年，&lt;t3/&gt;第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T151140Z" creationid="DSS" creationdate="20200726T085141Z">
+        <seg>这些担忧和怀疑围绕着技术传播领域的一个主要差异点而存在：在产业界，XML 和 DITA 被广泛使用，一些批评者甚至认为它们过于复杂，并且已经过时；而在学术界，“尽管 DITA 在从业者编写的文档中扮演着核心角色，教师们却完全忽视了它”（克拉克，&lt;&lt;t2/&gt;2016年，&lt;t3/&gt;第</seg>
       </tuv>
     </tu>
     <tu>
@@ -14493,8 +14493,8 @@
       <tuv lang="en">
         <seg>Those layers of abstraction focus, one by one, on practical and separate con&lt;t0/&gt;cepts related to the characteristics of intelligent content and competencies and skills that, based on industry conversation and formal interviews with practi&lt;t1/&gt;tioners and academics (see Evia et al., 2015 for details on the methodology), are expected of technical communicators working in content management envi&lt;t2/&gt;ronments.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131447Z" creationid="DSS" creationdate="20200813T122732Z">
-        <seg>这些抽象层级主要关注与智能内容的特性，以及从业者的能力和技能相关的实际和独立概念，而后者提炼自行业对话以及对工业界和学术界的正式访谈（更多方法论细节可参见艾维亚等人2015年所著书籍），也是在内容管理环境中工作的技术传播工程师所需要的掌握的能力和技能。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T151140Z" creationid="DSS" creationdate="20200813T122732Z">
+        <seg>这些抽象层级主要关注与智能内容的特性，以及从业者的能力和技能相关的实际和独立概念，而后者提炼自行业对话以及对产业界和学术界的正式访谈（更多方法论细节可参见艾维亚等人2015年所著书籍），也是在内容管理环境中工作的技术传播工程师所需要的掌握的能力和技能。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
