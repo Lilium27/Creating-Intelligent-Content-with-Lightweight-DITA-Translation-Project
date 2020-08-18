@@ -438,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t0/&gt;Creating Intelligent Content with Lightweight DITA&lt;t1/&gt; is the work of an academic who has tried to keep an active presence in industry.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T135217Z" creationid="DSS" creationdate="20200818T135217Z">
+        <seg>本书是一位试图在技术传播领域保持活跃身份的学者的成果，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t0/&gt;Creating Intelligent Content with Lightweight DITA&lt;t1/&gt; shows structured authoring in practice with&lt;t2/&gt;out the need for sophisticated software tools.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130812Z" creationid="DSS" creationdate="20200726T091855Z">
@@ -2931,8 +2939,8 @@
       <tuv lang="en">
         <seg>As a new professor in an English department, did I need to learn more about literary approaches and discourse?</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T134726Z" creationid="DSS" creationdate="20200818T134726Z">
-        <seg>作为一名初出茅庐的英语院系的教授，我是否需要学习更多的文学手段和论述？</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T135203Z" creationid="DSS" creationdate="20200818T134726Z">
+        <seg>作为一名初出茅庐的英语院系的教授，我是否需要学习更多的文学手段和语篇技巧？</seg>
       </tuv>
     </tu>
     <tu>
@@ -5331,6 +5339,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200818T021339Z" creationid="lenovo" creationdate="20200818T021339Z">
         <seg>图 &lt;t0/&gt;6.33 &lt;t1/&gt;MDITA主题与外部网站的交叉引用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fifteen years later, this book represents my contribution to patching those fault lines.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T135213Z" creationid="DSS" creationdate="20200818T135213Z">
+        <seg>15年过去了，这本书就代表着我为了修补断层线而做的努力和贡献。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8166,6 +8182,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T085122Z" creationid="DSS" creationdate="20200726T085122Z">
         <seg>它旨在解决人们对采用 DITA 作为技术出版物的主要标准及其发展的担忧和。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It also attempts to connect discourse and writing principles to technological approaches for managing content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T140256Z" creationid="DSS" creationdate="20200818T140256Z">
+        <seg>同时本书还试图将语篇技巧和写作原则与内容管理的技术方法联系起来。</seg>
       </tuv>
     </tu>
     <tu>
