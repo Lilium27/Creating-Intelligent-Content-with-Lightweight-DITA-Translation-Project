@@ -5399,6 +5399,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Figure 6.37&lt;t0/&gt; includes the HDITA version of the franchise terms topic with the “notice” note explaining the initial franchise payment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T142007Z" creationid="lenovo" creationdate="20200819T142007Z">
+        <seg>图6.37包括特许经营条款主题的HDITA版本，以及解释初始特许经营款项的“提示”注释。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Figure 6.5&lt;t0/&gt; shows the &lt;t1/&gt;franchise.intro.md&lt;t2/&gt; topic with an assigned &lt;t3/&gt;@id &lt;t4/&gt;of &lt;t5/&gt;sensei- &lt;t6/&gt;intro&lt;t7/&gt; &lt;t8/&gt;that would override the &lt;t9/&gt;@id &lt;t10/&gt;generated with the file's name.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T135906Z" creationid="DSS" creationdate="20200816T134439Z">
@@ -6844,6 +6852,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T134335Z" creationid="DSS" creationdate="20200816T134335Z">
         <seg>如果 MDITA 文件有 YAML 前置块的话，则 YAML 前置块必须写在文件开头，位于两行三格虚线之间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If needed, you can include a note in an MDITA extended profile topic with an HDITA code block using the syntax of &lt;t0/&gt;&lt;div data-class=“note”&gt; &lt;t1/&gt;seen in &lt;t2/&gt;figure 6.37&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T142840Z" creationid="lenovo" creationdate="20200819T142840Z">
+        <seg>如果需要可以使用图6.37中所示的语法&lt;t0/&gt;&lt;div data-class=“note”&gt; &lt;t1/&gt;在MDITA扩展概要主题中包含注释和HDITA代码块。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12308,6 +12324,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T094311Z" creationid="lenovo" creationdate="20200811T094311Z">
         <seg>例如，用户指南的内容和组织不同于参考手册。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The content component for note is not available in MDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T142024Z" creationid="lenovo" creationdate="20200819T142024Z">
+        <seg>注释内容组件在MDITA中不可用。</seg>
       </tuv>
     </tu>
     <tu>
