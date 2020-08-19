@@ -15783,6 +15783,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>following: “caution”, “warning”, “danger”, “trouble”, “notice,” or “note”.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T140816Z" creationid="lenovo" creationdate="20200819T140816Z">
+        <seg>“提示”、“警告”、“危险”、“问题”、“提醒”或“注意”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>hold actual content (e.g., &lt;t0/&gt;&lt;Name&gt;&lt;t1/&gt;), and others nest additional levels of elements and, eventually, content (e.g. the “parsley” &lt;t2/&gt;&lt;Item&gt; &lt;t3/&gt;inside &lt;t4/&gt;&lt;Ingredient&lt;t5/&gt;&gt;&lt;t6/&gt; inside &lt;t7/&gt;&lt;IngredientList&gt;&lt;t8/&gt;).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T082058Z" creationid="DSS" creationdate="20200727T082058Z">
