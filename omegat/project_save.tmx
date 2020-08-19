@@ -3609,6 +3609,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bernard Aschwanden's interest in the proposed standard should take it to the next level in adoption and promotion.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T152656Z" creationid="DSS" creationdate="20200819T152656Z">
+        <seg>伯纳德·阿什万登（Bernard Aschwanden）对拟议标准的兴趣将推进了标准的采用和修订。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Besides the idea of releasing LwDITA as a standard separate from the three versions of DITA &lt;t0/&gt;1.3, &lt;t1/&gt;Priestley was also looking at the possibility of breaking DITA's dependence on XML as its sole language.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T090505Z" creationid="DSS" creationdate="20200801T132448Z">
@@ -6800,6 +6808,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I want to thank all active members of the subcommittee, but I need to specifically acknowledge the contributions and support of Rahel Anne Bailie, Bill Burns, Stan Doherty, Mark Giffin, Tim Grantham, Rob Hanna, Scott Hudson, and Keith Schengili-Roberts.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T150907Z" creationid="DSS" creationdate="20200819T150907Z">
+        <seg>我要感谢小组委员会所有活跃成员的贡献和支持，特别是拉埃尔·阿内·拜利（Rahel Anne Bailie）、比尔·伯恩斯（Bill Burns）、斯坦·多尔蒂（Stan Doherty）、马克·吉芬（Mark Giffin）、蒂姆·格兰瑟姆（Tim Grantham）、罗伯·汉纳（Rob Hanna）、斯科特·哈德森（Scott Hudson）和基思·申吉利–罗伯茨（Keith schengi - roberts）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I wanted to share my thoughts on how the lightweight model could be used to provide starting points for DITA users.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T093034Z" creationid="DSS" creationdate="20200731T093034Z">
@@ -7954,6 +7970,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the early days of the subcommittee, Don Day, John Hunt, and Amber Swope made invaluable contributions to shape the proposed standard.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T150959Z" creationid="DSS" creationdate="20200819T150959Z">
+        <seg>在小组委员会成立之初，唐·戴（Don Day）、约翰·亨特（John Hunt）和安布尔·斯沃普（Amber Swope）都为拟定标准做出了宝贵的贡献。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the following chapter I introduce a revised version of the layers of abstraction for teaching intelligent content to technical communication stu&lt;t0/&gt;dents and trainees.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131449Z" creationid="DSS" creationdate="20200813T125448Z">
@@ -8858,6 +8882,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Kris Eberlein and Robert Anderson are also members of the subcommittee, but their guidance, leadership, and friendship as DITA spec authors deserve a special mention.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T152407Z" creationid="DSS" creationdate="20200819T152407Z">
+        <seg>克里斯·埃伯莱因（Kris Eberlein）和罗伯特·安德森（Robert Anderson）也是小组委员会的成员，在此特别提及是因为他们作为 DITA 规范的作者，指导、领导了 DITA 规范的编写，与委员会成员建立了深厚的情谊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Languages that drop features that aren't used, or aren't used often.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T152824Z" creationid="DSS" creationdate="20200726T152824Z">
@@ -9198,6 +9230,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T142917Z" creationid="DSS" creationdate="20200818T142917Z">
         <seg>LwDITA 代表了计算机手册的发展，也提供了在写作课程中引入计算机思维的方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LwDITA would only be a theoretical experiment without the work of adven&lt;t0/&gt;turous and generous developers like Jarno Elovirta, George Bina, and Radu Coravu.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T152546Z" creationid="DSS" creationdate="20200819T152546Z">
+        <seg>如果没有像雅诺·艾洛维塔（Jarno Elovirta）, 乔治·比纳（George Bina）和拉杜·科拉夫（Radu Coravu）这样富有冒险精神且无私奉献的开发人员，LwDITA 将只是一个理论实验。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15314,6 +15354,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T092324Z" creationid="DSS" creationdate="20200817T092324Z">
         <seg>我们在课堂上讨论了使用扩展的 HTML 语法作为 DITA 替代品的可能性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We have been in conference calls for many years designing, evaluating, and revising the recommendations included in this book.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T150313Z" creationid="DSS" creationdate="20200819T150313Z">
+        <seg>多年来，我们一直在召开电话会议，设计、评估和修改本书中的建议内容。</seg>
       </tuv>
     </tu>
     <tu>
