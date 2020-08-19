@@ -11695,10 +11695,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Thank you to my brother Pedro Evia (the real Chef Pedro) and his business partner Eduardo Rukos for the &lt;t0/&gt;Sensei Sushi&lt;t1/&gt; materials.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T162035Z" creationid="DSS" creationdate="20200819T162035Z">
+        <seg>感谢我的兄弟佩德罗·艾维亚（真正的厨师佩德罗）和他的生意伙伴爱德华多·瑞克斯（Eduardo Rukos）提供的 &lt;t0/&gt;Sensei Sushi&lt;t1/&gt; 材料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Thank you to the dozens of undergraduate and graduate students in my courses who have been participat&lt;t0/&gt;ing in my LwDITA experiments since &lt;t1/&gt;2014.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T155325Z" creationid="DSS" creationdate="20200819T155325Z">
         <seg>感谢数十名选修我的课的本科生和研究生，他们从2014年开始就参与 LwDITA 实验。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tharon Howard believed in this project and encouraged me to write it in its current shape.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T160516Z" creationid="DSS" creationdate="20200819T160516Z">
+        <seg>塔伦·霍华德（Tharon Howard）对这个项目充满信念，并鼓励我以目前的形式记录下来。他说：</seg>
       </tuv>
     </tu>
     <tu>
@@ -16784,6 +16800,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>“But nothing like yours.”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T160538Z" creationid="DSS" creationdate="20200819T160538Z">
+        <seg>但与你写的书的内容不同。”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>“DITA: An XML-Based Technical Documentation Authoring and Publishing Architecture” was authored by Michael Priestley, Gretchen Hargis, and Susan Carpenter, who have appeared previously as key players in this chapter.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T075742Z" creationid="lenovo" creationdate="20200811T075742Z">
@@ -16885,6 +16909,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T024414Z" creationid="lenovo" creationdate="20200809T024414Z">
         <seg>“这个章节并不适用于所有软件包，并且在应用的软件上，其内容也千差万别。”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“We have a good number of proposals in the series now,” he said.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T160520Z" creationid="DSS" creationdate="20200819T160520Z">
+        <seg>“我们现在已经提出了一系列建议，</seg>
       </tuv>
     </tu>
     <tu>
