@@ -7234,6 +7234,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In MDITA extended profile, a footnote can be represented with an HDITA code block following the structure from &lt;t0/&gt;Figure &lt;t1/&gt;6.35&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T135206Z" creationid="lenovo" creationdate="20200819T135206Z">
+        <seg>在MDITA扩展配置中，脚注可以按照&lt;t0/&gt;图&lt;t1/&gt;6.35&lt;t2/&gt;中的结构以HDITA代码块的形式呈现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In MDITA extended profile, authors can specify an &lt;t14/&gt;@id &lt;t15/&gt;for the topic that overrides the “slugify” process.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T134214Z" creationid="DSS" creationdate="20200816T134214Z">
