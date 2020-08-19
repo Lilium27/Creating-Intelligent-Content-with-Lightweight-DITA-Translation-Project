@@ -5447,6 +5447,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;6.39 &lt;t1/&gt;HDITA topic with a phrase component.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T151109Z" creationid="lenovo" creationdate="20200819T151109Z">
+        <seg>FIGURE &lt;t0/&gt;6.39 &lt;t1/&gt;带短语的HDITA主题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fifteen years later, this book represents my contribution to patching those fault lines.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T135213Z" creationid="DSS" creationdate="20200818T135213Z">
@@ -7574,6 +7582,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131442Z" creationid="DSS" creationdate="20200813T035727Z">
         <seg>在之前的一篇文章中 (Evia et al., 2015)，我介绍了在弗吉尼亚理工大学的本科课程《&lt;t0/&gt;&lt;t1/&gt;用户文档写作&lt;t2/&gt;》中，将智能内容、DITA和计算机思维等概念与修辞问题解决能力结合起来教授的教学方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In a publishing environment using DITA or LwDITA, the &lt;t0/&gt;Sensei Sushi&lt;t1/&gt; staff has little to no control over the appearance of text in user deliverables.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T151052Z" creationid="lenovo" creationdate="20200819T151052Z">
+        <seg>在使用DITA或LwDITA的发布环境中，&lt;t0/&gt;唤醒寿司&lt;t1/&gt;的员工几乎不能控制用户交付内容中文本的外观。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13123,6 +13139,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The phrase is expressed with&lt;t2/&gt; the HTML5 &lt;t3/&gt;&lt;span&gt; &lt;t4/&gt;element.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T151237Z" creationid="lenovo" creationdate="20200819T151237Z">
+        <seg>该短语用&lt;t2/&gt; HTML5 &lt;t3/&gt;&lt;span&gt; &lt;t4/&gt;元素表示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The plan sheets from Cohen and Cunningham covered the following conventions of the manual as a genre of technical writing:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T065602Z" creationid="lenovo" creationdate="20200810T065602Z">
@@ -15707,6 +15731,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T131108Z" creationid="DSS" creationdate="20200813T131108Z">
         <seg>XDITA 格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XDITA and HDITA</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T150932Z" creationid="lenovo" creationdate="20200819T150932Z">
+        <seg>XDITA和 HDITA</seg>
       </tuv>
     </tu>
     <tu>
