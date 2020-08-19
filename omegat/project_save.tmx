@@ -6968,6 +6968,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you need to make inline-level text stand out, a phrase (&lt;t0/&gt;&lt;ph&gt;&lt;t1/&gt;) component can do that inside a paragraph.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T143147Z" creationid="lenovo" creationdate="20200819T143147Z">
+        <seg>短语(&lt;t0/&gt;&lt;ph&gt;&lt;t1/&gt;)组件可以使行内文本在段落中脱颖而出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you want to try a DITA-aware tool with a GUI, you can download a 30-day trial of Oxygen XML Editor from the website &lt;t0/&gt;https://www.oxygenxml.&lt;t1/&gt; &lt;t2/&gt;com/xml_editor&lt;t3/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T082206Z" creationid="DSS" creationdate="20200807T035016Z">
