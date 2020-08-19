@@ -5399,6 +5399,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;6.37 &lt;t1/&gt;Note environment in an HDITA topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T143616Z" creationid="lenovo" creationdate="20200819T143616Z">
+        <seg>图 &lt;t0/&gt;6.37 &lt;t1/&gt;HDITA主题的注释环境。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fifteen years later, this book represents my contribution to patching those fault lines.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T135213Z" creationid="DSS" creationdate="20200818T135213Z">
@@ -12919,6 +12927,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130809Z" creationid="DSS" creationdate="20200726T074846Z">
         <seg>下一节将介绍一种基于 DITA 的智能内容创建方法，该方法具有最小化 DITA 标准学习成本的潜力，并可以促进创作者在中小规模的信息创作和处理环境（如课堂）中使用 DITA。&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The note includes a paragraph&lt;t2/&gt; with content that will stand out from the topic's other elements in deliverables produced from this source.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T143534Z" creationid="lenovo" creationdate="20200819T143534Z">
+        <seg>这一来源产生的交付物中，注释会包含一个段落，其内容在主题的其他元素中脱颖而出。</seg>
       </tuv>
     </tu>
     <tu>
