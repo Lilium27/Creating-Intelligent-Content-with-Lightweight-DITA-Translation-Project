@@ -12320,6 +12320,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The cross-reference component links&lt;t2/&gt; to an internal section in the topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T135729Z" creationid="lenovo" creationdate="20200819T135729Z">
+        <seg>交叉引用组件链接到主题的内部部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The definitions for some characteristics, however, have changed slightly over time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T030143Z" creationid="lenovo" creationdate="20200811T030143Z">
@@ -12719,6 +12727,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T073239Z" creationid="DSS" creationdate="20200731T073239Z">
         <seg>限定版DITA概要是临时的内容写作者和不需要使用 DITA 所有特性的用户接触 DITA  的入口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The link requires the &lt;t3/&gt;@id &lt;t4/&gt;of the topic (preceded by a &lt;t5/&gt;# &lt;t6/&gt;character) and the &lt;t7/&gt;@id &lt;t8/&gt;of the footnote element (preceded by a &lt;t9/&gt;/ &lt;t10/&gt;character).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T135902Z" creationid="lenovo" creationdate="20200819T135902Z">
+        <seg>该链接需要主题的 &lt;t3/&gt;@id &lt;t4/&gt;(前面加上&lt;t5/&gt;# &lt;t6/&gt;字符)和脚注元素的 &lt;t7/&gt;@id &lt;t8/&gt;(前面加上&lt;t9/&gt;/ &lt;t10/&gt;字符)。</seg>
       </tuv>
     </tu>
     <tu>
