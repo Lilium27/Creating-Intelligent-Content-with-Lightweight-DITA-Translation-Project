@@ -4822,6 +4822,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Example 32 has a note, with a “notice” type attribute, replacing the footnote from &lt;t0/&gt;Figure 6.36&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T141019Z" creationid="lenovo" creationdate="20200819T140912Z">
+        <seg>示例32有一个注释，带有一个“提示”类型属性，替换了&lt;t0/&gt;图6.36&lt;t1/&gt;中的脚注。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Except they did not.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T090924Z" creationid="lenovo" creationdate="20200723T090924Z">
@@ -7214,6 +7222,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T135357Z" creationid="DSS" creationdate="20200817T135357Z">
         <seg>在 HDITA 中，内联图像用 HTML 标签 &lt;t0/&gt;&lt;img&gt; &lt;t1/&gt;表示，该标签需要 &lt;t2/&gt;@src &lt;t3/&gt;属性为图像指定源文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In HDITA, the note component is expressed with an HTML division (&lt;t0/&gt;&lt;div&gt;&lt;t1/&gt;) environment with the custom data attribute of &lt;t2/&gt;@data-class=“note”&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T141305Z" creationid="lenovo" creationdate="20200819T140950Z">
+        <seg>在HDITA中，注释组件是用HTMLdivision (&lt;t0/&gt;&lt;div&gt;&lt;t1/&gt;) 环境表示的，定制数据属性是 &lt;t2/&gt;@data-class=“note”&lt;t3/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15785,8 +15801,8 @@
       <tuv lang="en">
         <seg>following: “caution”, “warning”, “danger”, “trouble”, “notice,” or “note”.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T140816Z" creationid="lenovo" creationdate="20200819T140816Z">
-        <seg>“提示”、“警告”、“危险”、“问题”、“提醒”或“注意”。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T141006Z" creationid="lenovo" creationdate="20200819T140816Z">
+        <seg>“提示”、“警告”、“危险”、“问题”、“提示”或“注释”。</seg>
       </tuv>
     </tu>
     <tu>
