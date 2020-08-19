@@ -881,6 +881,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t2/&gt;Bernice Hausman and Joe Eska supported my DITA habit for many years.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T155749Z" creationid="DSS" creationdate="20200819T155749Z">
+        <seg>感谢伯尼斯·豪斯曼（Bernice Hausman）和乔·埃斯卡（Joe Eska），多年来一直支持我研究 DITA。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t2/&gt;Existing tools can provide UI masking of features that can be enabled later on (license upgrade, etc.)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T070143Z" creationid="DSS" creationdate="20200730T132000Z">
@@ -2477,6 +2485,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T140233Z" creationid="lenovo" creationdate="20200813T140233Z">
         <seg>这三个列表项在HTML5都有效</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Allison Hutchison and Kelly Scarff brought their priceless graduate student eyes to the project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T155241Z" creationid="DSS" creationdate="20200819T155208Z">
+        <seg>艾莉森·哈奇森（Allison Hutchison）和凯利·斯凯夫（Kelly Scarff）以研究生的身份参与了这个项目，提出了宝贵的建议。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Allison's feedback, full of “I get it now!” moments, was a joy to read.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T155311Z" creationid="DSS" creationdate="20200819T155311Z">
+        <seg>艾莉森的反馈充满了“我现在明白了！”这样的语句，读起来是一种乐趣。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11659,6 +11683,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T154920Z" creationid="DSS" creationdate="20200819T154920Z">
         <seg>感谢詹姆斯·马修森（James Mathewson）、苏珊·卡朋特（Susan Carpenter）、约翰•卡罗尔（John Carroll）、珍妮弗·斯洛特菲尔德（Jenifer Schlotfeldt）以及所有曾经和现在仍在 IBM 工作的人，他们与我分享了关于 DITA 和 LwDITA 的过去、现在和未来的经验。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thank you to the dozens of undergraduate and graduate students in my courses who have been participat&lt;t0/&gt;ing in my LwDITA experiments since &lt;t1/&gt;2014.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T155325Z" creationid="DSS" creationdate="20200819T155325Z">
+        <seg>感谢数十名选修我的课的本科生和研究生，他们从2014年开始就参与 LwDITA 实验。</seg>
       </tuv>
     </tu>
     <tu>
