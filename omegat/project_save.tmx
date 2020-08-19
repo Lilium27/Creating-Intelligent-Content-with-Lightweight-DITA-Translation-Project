@@ -5479,6 +5479,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;6.41 &lt;t1/&gt;Preformatted text in XDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T152235Z" creationid="lenovo" creationdate="20200819T152235Z">
+        <seg>图 &lt;t0/&gt;6.41 &lt;t1/&gt;XDITA中的预格式化文本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fifteen years later, this book represents my contribution to patching those fault lines.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T135213Z" creationid="DSS" creationdate="20200818T135213Z">
@@ -5572,6 +5580,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200818T012155Z" creationid="lenovo" creationdate="20200817T150526Z">
         <seg>图6.33&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;显示了特许经营提供主题的MDITA版本，带有到外部&lt;t3/&gt;唤醒寿司&lt;t4/&gt;知识库的交叉引用链接。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;t0/&gt;6.42&lt;t1/&gt; &lt;t2/&gt;shows a preview of the preformatted text in Oxygen XML's &lt;t3/&gt;author&lt;t4/&gt; mode.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T152443Z" creationid="lenovo" creationdate="20200819T152443Z">
+        <seg>Figure &lt;t0/&gt;6.42&lt;t1/&gt; &lt;t2/&gt;显示了Oxygen XML &lt;t3/&gt;作者&lt;t4/&gt;模式下预格式化文本的预览。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11756,6 +11772,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T144031Z" creationid="lenovo" creationdate="20200819T144031Z">
         <seg> &lt;t1/&gt;@translate &lt;t2/&gt;属性的值为“no”则表示机器处理器和人工编辑器不应该翻译标记的短语。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;t2/&gt;&lt;pre&gt; &lt;t3/&gt;environment preserves line&lt;t4/&gt; breaks as determined by the author.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T152332Z" creationid="lenovo" creationdate="20200819T152332Z">
+        <seg>&lt;t2/&gt;&lt;pre&gt; &lt;t3/&gt;环境保留由作者确定的换行符。</seg>
       </tuv>
     </tu>
     <tu>
