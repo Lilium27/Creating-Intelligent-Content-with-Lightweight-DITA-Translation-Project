@@ -2753,6 +2753,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An undisclosed percentage of this book's royalties might (or might not) go to a fund to buy a Vespa-themed Rolex for Alan.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T162934Z" creationid="DSS" creationdate="20200819T162934Z">
+        <seg>本书的部分版税可能会（也可能不会）用来为艾伦买一块 Vespa 主题的劳力士手表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An “increasing reluctance to read instructions, whether they are on a prod&lt;t0/&gt;uct, on its packaging, or in a manual.” They hypothesized that conditions like “the age of television we live in” or the bad reputation spawned by manuals of the past were to blame.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130901Z" creationid="lenovo" creationdate="20200810T023749Z">
@@ -2819,8 +2827,8 @@
       <tuv lang="en">
         <seg>And if this book needed a substitute author, that would be my fact-checker, cheerleader, critic, and friend Alan Houser.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T162108Z" creationid="DSS" creationdate="20200819T162108Z">
-        <seg>如果这本书需要一个替补作者，那一定是既是事实核查员，又是啦啦队长、评论家的我的朋友艾伦·豪瑟。这本书的版税中有一部分可能会（也可能不会）用来为艾伦买一部Vespa主题的劳力士手表。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T162155Z" creationid="DSS" creationdate="20200819T162108Z">
+        <seg>如果这本书需要一个替补作者，那一定是既是事实核查员，又是啦啦队长、评论者的我的朋友艾伦·豪泽（Alan Houser）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5658,8 +5666,8 @@
       <tuv lang="en">
         <seg>Finally, if this book needed a co-author, that would be Michael Priestley &lt;t0/&gt;一 &lt;t1/&gt;the original &lt;t2/&gt;ditaguy&lt;t3/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T162056Z" creationid="DSS" creationdate="20200819T162056Z">
-        <seg>最后，如果这本书需要一个合作编者，那一定是迈克尔·普里斯特利——DITA 之父。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T162120Z" creationid="DSS" creationdate="20200819T162056Z">
+        <seg>最后，如果这本书需要一个合作编者，那一定是迈克尔·普里斯特利（Michael Priestley）——DITA 之父。</seg>
       </tuv>
     </tu>
     <tu>
