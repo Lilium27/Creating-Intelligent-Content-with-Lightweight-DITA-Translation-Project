@@ -456,8 +456,8 @@
       <tuv lang="en">
         <seg>&lt;t0/&gt;Figure 6.40&lt;t1/&gt; includes the HDITA &lt;t2/&gt;&lt;span&gt; &lt;t3/&gt;environment in an MDITA extended profile topic to select the phrase that should not be translated.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T150558Z" creationid="lenovo" creationdate="20200819T150558Z">
-        <seg>&lt;t0/&gt;图 6.40&lt;t1/&gt; 在MDITA扩展概要主题中包含了HDITA &lt;span&gt;环境，以选择不应该翻译的短语。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T150814Z" creationid="lenovo" creationdate="20200819T150558Z">
+        <seg>&lt;t0/&gt;图 6.40&lt;t1/&gt; 在MDITA扩展概要主题中包含了HDITA &lt;span&gt;环境，来选择不应该翻译的短语。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2587,8 +2587,8 @@
       <tuv lang="en">
         <seg>Although there is no direct equivalent for phrase or span in Markdown, you can flag phrase-level content in MDITA extended profile using an HDITA code snippet.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T150451Z" creationid="lenovo" creationdate="20200819T150451Z">
-        <seg>尽管在Markdown中没有短语或span的直接对等物，但可以用HDITA代码片段在MDITA扩展概要中标记短语级内容。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T150724Z" creationid="lenovo" creationdate="20200819T150451Z">
+        <seg>尽管在Markdown中没有短语或内联容器的直接对等物，但可以用HDITA代码片段在MDITA扩展概要中标记短语级内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10180,6 +10180,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Preformatted Text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T150827Z" creationid="lenovo" creationdate="20200819T150827Z">
+        <seg>预格式化文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Preformatted text&lt;t0/&gt;: content that includes line breaks and spaces that should be preserved when rendered.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T163959Z" creationid="DSS" creationdate="20200804T131858Z">
@@ -12845,8 +12853,8 @@
       <tuv lang="en">
         <seg>The inline component to flag a phrase should be expressed in HDITA with the HTML5 span (&lt;t0/&gt;&lt;span&gt;&lt;t1/&gt;) element.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T150234Z" creationid="lenovo" creationdate="20200819T150234Z">
-        <seg>标记短语的行内组件在HDITA中应该用HTML5 span (&lt;span&gt;)元素表示。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T150739Z" creationid="lenovo" creationdate="20200819T150234Z">
+        <seg>标记短语的行内组件在HDITA中应该用HTML5 内联容器 (&lt;span&gt;)元素表示。</seg>
       </tuv>
     </tu>
     <tu>
