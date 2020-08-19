@@ -5078,6 +5078,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE 6.38 &lt;t0/&gt;XDITA topic with a phrase component.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T143926Z" creationid="lenovo" creationdate="20200819T143926Z">
+        <seg>图 6.38 &lt;t0/&gt;带有短语组件的XDITA主题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE 6.4 &lt;t0/&gt;Minimal MDITA topic.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T135913Z" creationid="DSS" creationdate="20200816T134442Z">
@@ -7550,6 +7558,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130735Z" creationid="DSS" creationdate="20200726T141200Z">
         <seg>在博客和社交媒体的推文中，有的从业者表现出了&lt;t0/&gt;&lt;t1/&gt;对 XML 和 DITA 作为信息产品的主要标记语言的质疑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In business-speak, “know-how” means the same for their audiences in English and Spanish.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T145734Z" creationid="lenovo" creationdate="20200819T145734Z">
+        <seg>在商务用语中，对于英语受众和西班牙语受众而言“know-how”的意思是一样的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11632,6 +11648,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;t1/&gt;@translate &lt;t2/&gt;attribute has&lt;t3/&gt; a value of “no”, which indicates to machine processors and human editors that the marked phrase should not be translated.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T144031Z" creationid="lenovo" creationdate="20200819T144031Z">
+        <seg> &lt;t1/&gt;@translate &lt;t2/&gt;属性的值为“no”则表示机器处理器和人工编辑器不应该翻译标记的短语。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;t3/&gt;&lt;map&gt; &lt;t4/&gt;element works as a parent for &lt;t5/&gt;&lt;topicref&gt; &lt;t6/&gt;elements that reference specific topics.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T065525Z" creationid="DSS" creationdate="20200807T065525Z">
@@ -12935,6 +12959,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T143534Z" creationid="lenovo" creationdate="20200819T143534Z">
         <seg>这一来源产生的交付物中，注释会包含一个段落，其内容在主题的其他元素中脱颖而出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The note is created in HTML5&lt;t2/&gt; with a division element and custom data attributes to specify its class of “note” and an optional type.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T143911Z" creationid="lenovo" creationdate="20200819T143911Z">
+        <seg>注释是在HTML5中创建的，带有一个division元素和定制数据属性以指定其类“note”，还有一个可选类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14727,6 +14759,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131255Z" creationid="lenovo" creationdate="20200813T135612Z">
         <seg>因此，如果在DITA 1.3和HTML5中，作者必须决定他们的组件是否应该包括字符数据、子元素或这些元素的组合，那么在一些LwDITA创作格式中，创建元素只有唯一的有效方法。&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thus, the author can flag the phrase-level content with a &lt;t2/&gt;&lt;ph&gt; &lt;t3/&gt;and an attribute for &lt;t4/&gt;@translate &lt;t5/&gt;with the value of “&lt;t6/&gt;no&lt;t7/&gt;”.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T145955Z" creationid="lenovo" creationdate="20200819T145955Z">
+        <seg>因此，作者可以将这一短语级内容标记 &lt;t2/&gt;&lt;ph&gt; &lt;t3/&gt;并附上值为 “&lt;t6/&gt;no&lt;t7/&gt;”的&lt;t4/&gt;@translate &lt;t5/&gt;属性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16525,6 +16565,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130824Z" creationid="lenovo" creationdate="20200731T145907Z">
         <seg>“当我打开一个箱子并从中拿出一些东西，却发现里面没有手册，我的第一反应是：手册去哪了？”在这一瞬间，他承认当手册成为绝迹的体裁后，读者失去了一些东西：“说明书也是种授权的象征，可以说几乎是随心所欲；这也是引发怀旧之情的原因之一。”&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“know-how.” As Chef Pedro and his team prepared to translate materials for the &lt;t0/&gt;Sensei Sushi&lt;t1/&gt; operations in Mexico, they realized that “know-how” does not need to be translated for audiences reading Mexican Spanish.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T145557Z" creationid="lenovo" creationdate="20200819T145517Z">
+        <seg>“know-how。”当佩德罗和他的团队准备为&lt;t0/&gt;唤醒寿司&lt;t1/&gt;在墨西哥的业务翻译材料时，他们意识到不需要为阅读墨西哥西班牙语的受众翻译“know-how”。 </seg>
       </tuv>
     </tu>
     <tu>
