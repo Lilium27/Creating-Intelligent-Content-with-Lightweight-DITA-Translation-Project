@@ -2153,6 +2153,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ACKNOWLEDGMENTS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T150033Z" creationid="DSS" creationdate="20200819T150033Z">
+        <seg>致谢</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Abstraction allows authors of intelligent content to separate the “layers” of a particular problem, and work on each one individually without concern for the others.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T040006Z" creationid="DSS" creationdate="20200817T040006Z">
@@ -10518,6 +10526,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reference</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T150013Z" creationid="DSS" creationdate="20200819T150013Z">
+        <seg>参考</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reference: describes commands, parameters, and other features (Pringle &lt;t0/&gt;&amp; &lt;t1/&gt;O'Keefe, &lt;t2/&gt;2009, &lt;t3/&gt;p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144900Z" creationid="DSS" creationdate="20200724T162510Z">
@@ -14339,6 +14355,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This book reflects the hard work of the Lightweight DITA subcommittee at OASIS.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T150306Z" creationid="DSS" creationdate="20200819T150306Z">
+        <seg>这本书体现了 OASIS 轻量级 DITA 小组委员会所作的艰苦付出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This book reflects the structure of this proposed standard as it was presented in its initial introductory committee note (Evia et al., &lt;t0/&gt;2018).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T053705Z" creationid="DSS" creationdate="20200817T053243Z">
@@ -15611,6 +15635,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200720T133632Z" creationid="DSS" creationdate="20200720T133632Z">
         <seg>创作可重复使用的内容是一种罕见的技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Written from the hypocenter of the fault line between academia and industry in technical communication, I hope this book reaches its target audiences in both camps.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T145948Z" creationid="DSS" creationdate="20200819T145948Z">
+        <seg>本书的内容关乎技术传播学术界和产业界之间的断层线的中心地带，我希望双方阵营的目标受众这本书都能够触达到。</seg>
       </tuv>
     </tu>
     <tu>
