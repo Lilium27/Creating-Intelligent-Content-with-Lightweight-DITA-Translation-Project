@@ -486,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t0/&gt;Figure &lt;t1/&gt;6.41&lt;t2/&gt; &lt;t3/&gt;shows how the preformatted text component (&lt;t4/&gt;&lt;pre&gt;&lt;t5/&gt;) in XDITA preserves the stanza or set of lines in the promise creed of &lt;t6/&gt;Sensei Sushi&lt;t7/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T151827Z" creationid="lenovo" creationdate="20200819T151827Z">
+        <seg>&lt;t0/&gt;图 &lt;t1/&gt;6.41&lt;t2/&gt; &lt;t3/&gt;显示了XDITA中预格式化文本组件(&lt;t4/&gt;&lt;pre&gt;&lt;t5/&gt;)时如何保存&lt;t6/&gt;唤醒寿司&lt;t7/&gt;的承诺信条中的节或行集。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t0/&gt;Table 3.1&lt;t1/&gt; reproduces the simple topic/article that Priestley included in that introductory blog post:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150831Z" creationid="DSS" creationdate="20200817T091751Z">
@@ -6372,6 +6380,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131231Z" creationid="lenovo" creationdate="20200813T014023Z">
         <seg>然而，与桌面发布工作流相比，自动化和格式化可交付成果(我将在以后的章节中讨论的主题)并不一定都能选用提前设定的冰淇淋风味，但对于大多数内容作者来说，这些并非常规任务。&lt;t7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, in some cases authors might want to control the look of some textual elements regardless of transformation and deliverable rules.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T151419Z" creationid="lenovo" creationdate="20200819T151419Z">
+        <seg>然而，在某些情况下，作者可能想要控制一些文本元素的外观，而不考虑转换和可交付规则。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16115,6 +16131,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T114642Z" creationid="DSS" creationdate="20200811T114642Z">
         <seg>作为内容创作者时在工作中应用计算机实践。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>process of transformation, the content sources will be linked to stylesheets and templates with rules that most likely will be outside of a casual author's control.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T151350Z" creationid="lenovo" creationdate="20200819T151350Z">
+        <seg>在转换过程中，内容源将被链接到样式表和模板，其中的规则很可能超出了普通作者的控制范围。</seg>
       </tuv>
     </tu>
     <tu>
