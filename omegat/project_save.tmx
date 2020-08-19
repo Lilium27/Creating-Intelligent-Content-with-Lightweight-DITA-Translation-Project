@@ -5391,6 +5391,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;6.36 &lt;t1/&gt;Note environment in an XDITA topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T143215Z" creationid="lenovo" creationdate="20200819T143215Z">
+        <seg>图&lt;t0/&gt;6.36 &lt;t1/&gt;XDITA主题的注释环境。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fifteen years later, this book represents my contribution to patching those fault lines.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T135213Z" creationid="DSS" creationdate="20200818T135213Z">
