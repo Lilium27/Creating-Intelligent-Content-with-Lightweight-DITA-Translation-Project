@@ -2817,6 +2817,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>And if this book needed a substitute author, that would be my fact-checker, cheerleader, critic, and friend Alan Houser.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T162108Z" creationid="DSS" creationdate="20200819T162108Z">
+        <seg>如果这本书需要一个替补作者，那一定是既是事实核查员，又是啦啦队长、评论家的我的朋友艾伦·豪瑟。这本书的版税中有一部分可能会（也可能不会）用来为艾伦买一部Vespa主题的劳力士手表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>And that became our &lt;t6/&gt;modus operandi&lt;t7/&gt;: we would boast about the potential benefits of LwDITA in conferences and webinars, developers and managers would show interest and ask for a demo, we requested plugin updates from Elovirta and offered a new demo &lt;t8/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T154722Z" creationid="DSS" creationdate="20200803T115902Z">
@@ -3149,6 +3157,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T052830Z" creationid="DSS" creationdate="20200817T052830Z">
         <seg>随着轻量级 DITA 概念的进一步发展，它一度成为 DITA 的一个 XML 子集，例如，轻量级 DITA的一个话题中可以包含&lt;t6/&gt;27&lt;t7/&gt;种元素，而在DITA XML中可能包含&lt;t8/&gt;90&lt;t9/&gt;&lt;t10/&gt;多个元素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As the father of DITA and LwDITA, Michael has been an innovator and visionary in the world of content development.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T162101Z" creationid="DSS" creationdate="20200819T162101Z">
+        <seg>作为DITA和LwDITA之父，迈克尔一直是内容开发领域的革新者和开拓者。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3741,6 +3757,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T142815Z" creationid="DSS" creationdate="20200818T142815Z">
         <seg>创作本书的最初两个想法（一是手册的历史，二是技术写作课程中的计算机思维）最终体现在同一个地方：委员会提出轻量级 DITA（LwDITA）规范，成为技术传播和内容开发等多个问题的解决方案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>But above all things he has been a friendly collaborator, leader, and dad-joke generator.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T162104Z" creationid="DSS" creationdate="20200819T162104Z">
+        <seg>但最重要的是，他是一位友好的合作者、领导者和气氛活跃者。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5628,6 +5652,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T131133Z" creationid="DSS" creationdate="20200804T131133Z">
         <seg>图（figure）&lt;t0/&gt;：展示各种对象，包括插图、图像、代码示例、方程式和表格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Finally, if this book needed a co-author, that would be Michael Priestley &lt;t0/&gt;一 &lt;t1/&gt;the original &lt;t2/&gt;ditaguy&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T162056Z" creationid="DSS" creationdate="20200819T162056Z">
+        <seg>最后，如果这本书需要一个合作编者，那一定是迈克尔·普里斯特利——DITA 之父。</seg>
       </tuv>
     </tu>
     <tu>
