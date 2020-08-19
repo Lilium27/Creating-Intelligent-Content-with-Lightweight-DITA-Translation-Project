@@ -1193,6 +1193,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t3/&gt;There is no equivalent for the footnote component in MDITA core profile.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T135442Z" creationid="lenovo" creationdate="20200819T135442Z">
+        <seg>&lt;t3/&gt;MDITA的核心配置中没有与脚注组件等价的组件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t3/&gt;Therefore, those are the only content types present in the base edition.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T031254Z" creationid="lenovo" creationdate="20200812T031254Z">
@@ -5363,6 +5371,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200818T021339Z" creationid="lenovo" creationdate="20200818T021339Z">
         <seg>图 &lt;t0/&gt;6.33 &lt;t1/&gt;MDITA主题与外部网站的交叉引用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;6.34 &lt;t1/&gt;Footnote in an XDITA topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T135505Z" creationid="lenovo" creationdate="20200819T135505Z">
+        <seg>图 &lt;t0/&gt;6.34 &lt;t1/&gt;XDITA主题中的脚注。</seg>
       </tuv>
     </tu>
     <tu>
