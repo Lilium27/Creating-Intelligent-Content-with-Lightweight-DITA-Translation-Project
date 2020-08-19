@@ -6296,6 +6296,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Her feedback and vision as a pioneer explorer and bridge-builder of the technical communica&lt;t0/&gt;tion fault lines has inspired me for decades.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T154957Z" creationid="DSS" creationdate="20200819T154957Z">
+        <seg>她是一个先锋探索者，也是技术出传播领域断线层的桥梁搭建者，十年来她的反馈和期望一直激励着我。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Here I go back to the initial reaction of some authors that encounter this rule when they are introduced to LwDITA.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T130905Z" creationid="lenovo" creationdate="20200814T130905Z">
@@ -8874,6 +8882,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Kelly Pender (who actually knows a lot about LwDITA but probably won't admit it), and Russell Willerton helped finding sources, reading chapters, and keeping my disciplinary identity healthy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T155039Z" creationid="DSS" creationdate="20200819T155015Z">
+        <seg>凯利·潘德（Kelly Pender）和拉塞尔·威勒顿（Russell Willerton）曾帮助寻找资源、阅读材料，鞭策着我保持自律。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Key definition&lt;t0/&gt;: defines a variable at the map level.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T153719Z" creationid="DSS" creationdate="20200804T153632Z">
@@ -9614,6 +9630,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T125949Z" creationid="DSS" creationdate="20200802T125949Z">
         <seg> &lt;t0/&gt;2014&lt;t1/&gt;年4月我与Priestley进行了第一次沟通，评估将 HDITA 作为一种非 XML 的 DITA 标准格式，其结构化和发布能力的有效性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>My mentor and friend Carolyn Rude read all prototypes of this book, from the history of the manual to the LwDITA reference guide.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T154951Z" creationid="DSS" creationdate="20200819T154951Z">
+        <seg>我的导师兼好友卡罗琳·路德（Carolyn Rude）阅读了本书的最初版本，包括手册的历史和LwDITA参考指南部分。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10650,6 +10674,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T132707Z" creationid="DSS" creationdate="20200809T132707Z">
         <seg>相反，会有一份奶昔食谱教你用冰淇淋、牛奶和你所选择的那款水果制作奶昔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rebekka Andersen, Tim Lockridge,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T155002Z" creationid="DSS" creationdate="20200819T155002Z">
+        <seg>丽贝卡·安德森（Rebekka Andersen）、蒂姆·洛克里奇（Tim Lockridge）、</seg>
       </tuv>
     </tu>
     <tu>
