@@ -466,3 +466,10 @@ block image	块图像
 Texas Tech University	得克萨斯理工大学
 Taylor <t0/>& <t1/>Francis/Routledge	泰勒-弗朗西斯出版集团
 span	内联容器
+Rahel Anne Bailie	拉埃尔·阿内·拜利
+Scott Hudson	斯科特·哈德森
+Bill Burns	比尔·伯恩斯
+Rob Hanna	罗伯·汉纳
+Robert Anderson	罗伯特·安德森
+Bernard Aschwanden	伯纳德·阿什万登
+George Bina	乔治·比纳
