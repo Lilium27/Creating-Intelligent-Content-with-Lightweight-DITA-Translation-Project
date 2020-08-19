@@ -9410,6 +9410,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Manuel Perez-Quinones, Ed Fox, Steve Sheetz, Patrick Fan, Chris Zobel, Deborah Tatar, and Steve Harrison have been at one point or another involved in my explorations for disrupting tradition and adapting principles of com&lt;t0/&gt;putational thinking to “traditionally non-computing” fields like writing and communication.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T160430Z" creationid="DSS" creationdate="20200819T160430Z">
+        <seg>曼努埃尔·佩雷斯-奎诺恩（Manuel Perez-Quinones），艾德·福克斯（Ed Fox），史蒂夫·希茨（Steve Sheetz），帕特里克·范（Patrick Fan），克里斯·佐贝尔（Chris Zobel），黛博拉·达特（Deborah Tatar）和斯蒂夫·哈里森（Steve Harrison）都曾参与过探索，试图打破传统，让计算机思维原则适用于“传统的非计算机”领域，比如写作和传播。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Many of those moves are captured in the element types of the DITA &lt;t0/&gt;1.3 &lt;t1/&gt;standard (e.g., a task is “what to do” and a concept is “what it means”).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T130240Z" creationid="lenovo" creationdate="20200810T130127Z">
