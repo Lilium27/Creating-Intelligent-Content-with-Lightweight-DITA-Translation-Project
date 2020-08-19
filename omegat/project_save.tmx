@@ -11623,6 +11623,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Thank you to James Mathewson, Susan Carpenter, John Carroll, Jenifer Schlotfeldt, and all the former and current IBMers who shared with me their experiences about the past, present, and future of DITA and LwDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T154920Z" creationid="DSS" creationdate="20200819T154920Z">
+        <seg>感谢詹姆斯·马修森（James Mathewson）、苏珊·卡朋特（Susan Carpenter）、约翰•卡罗尔（John Carroll）、珍妮弗·斯洛特菲尔德（Jenifer Schlotfeldt）以及所有曾经和现在仍在 IBM 工作的人，他们与我分享了关于 DITA 和 LwDITA 的过去、现在和未来的经验。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That approach is based on a sequence of layers of abstraction that supersede (and actually include) a technical writing process focused on document production.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T040724Z" creationid="DSS" creationdate="20200813T040724Z">
