@@ -3497,6 +3497,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Because the text is wrapped in the preformatted environment, the lines will appear separated in any deliverable and won't be affected by external templates or stylesheets.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T151947Z" creationid="lenovo" creationdate="20200819T151947Z">
+        <seg>由于文本是在预格式化的环境中封装，因此行在任何交付物中都是分开的，从而不会受到外部模板或样式表的影响。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before (or in addition to) taking, say, a Python course out of their disciplinary context, why not send technical communication students to a course covering the &lt;t19/&gt;men&lt;t20/&gt;tal&lt;t21/&gt; and &lt;t22/&gt;metal&lt;t23/&gt; tools that practitioners in their field value?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150002Z" creationid="DSS" creationdate="20200817T041659Z">
@@ -5463,6 +5471,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;6.40 &lt;t1/&gt;MDITA topic with a phrase component.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T152042Z" creationid="lenovo" creationdate="20200819T152042Z">
+        <seg>图 &lt;t0/&gt;6.40 &lt;t1/&gt;具有短语组件的MDITA主题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fifteen years later, this book represents my contribution to patching those fault lines.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T135213Z" creationid="DSS" creationdate="20200818T135213Z">
@@ -7028,6 +7044,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T090400Z" creationid="DSS" creationdate="20200817T090400Z">
         <seg>如果相比 LwDITA 的历史，你对工作流和内容写作的建议更感兴趣，那么本章详细描述了结构化信息标准推进组织里的 DITA 技术委员会和轻量级 DITA 小组委员会中的每位成员都做了什么，包括许多不为人知的细节。评价。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you are working in&lt;t2/&gt; MDITA and need to mark a specific phrase, you should use a raw HDITA code snippet and create an HTML5 span.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T152148Z" creationid="lenovo" creationdate="20200819T152148Z">
+        <seg>如果你在使用MDITA并且需要标记一个特定的短语，你应该使用原始的HDITA代码片段并创建一个HTML5内联容器。</seg>
       </tuv>
     </tu>
     <tu>
