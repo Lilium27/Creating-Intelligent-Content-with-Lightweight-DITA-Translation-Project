@@ -3193,6 +3193,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As such, it's a pleasure to have it in the ATTW Book Series in Technical and Professional Communication.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T142248Z" creationid="DSS" creationdate="20200820T142248Z">
+        <seg>因此，很高兴能在 ATTW 技术传播和专业传播系列丛书中看到它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As the Scriptorium video “Testing the DITA Open Toolkit” shows, the easiest way to record the correct file location or path is to drag and drop the file into the command line interface immediately after the &lt;t15/&gt;--&lt;t16/&gt;input=&lt;t17/&gt; argument.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T115749Z" creationid="DSS" creationdate="20200806T115749Z">
@@ -3891,8 +3899,8 @@
       <tuv lang="en">
         <seg>Carlos Evia's book &lt;t0/&gt;Creating Intelligent Content with Lightweight DITA&lt;t1/&gt; is a most welcome addition to the ATTW Book Series in Technical and Professional Communication (TPC) because, as its title suggests, it is a book about building and maintaining content which is appropriate for users using an exciting new standard for Extensible Markup Language (XML) called “Lightweight DITA” or LwDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T131437Z" creationid="DSS" creationdate="20200820T131437Z">
-        <seg>卡洛斯·艾维亚的书《使用轻量级DITA创建智能内容》在技术传播和专业传播领域（TPC），是除了 ATTW （Association of Teachers of Technical Writing）系列丛书之外最受欢迎的，受捧原因正如书名所示，这是一本关于构建和维护内容的书籍，适合能够使用激动人心的全新标准 “轻量级 DITA”（或称 LwDITA）的用户，该标准基于可扩展标记语言（XML）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T142442Z" creationid="DSS" creationdate="20200820T131437Z">
+        <seg>卡洛斯·艾维亚的书《使用轻量级 DITA 创建智能内容》，是 ATTW （Association of Teachers of Technical Writing）技术传播和专业传播领域（TPC）系列丛书之中又非常卖座的一本，受捧原因正如书名所示，这是一本关于构建和维护内容的书籍，适合能够使用激动人心的全新标准 “轻量级 DITA”（或称 LwDITA）的用户，该标准基于可扩展标记语言（XML）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14807,6 +14815,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T074206Z" creationid="lenovo" creationdate="20200810T074206Z">
         <seg>在Apple Computer的开发中，生产苹果II系列电脑的部门的用户教育组内，新员工和自由工作者都遵从这本书的指导。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This book is an extremely timely and much needed introduction to the Component Content Management and computational thinking movement in TPC.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T142138Z" creationid="DSS" creationdate="20200820T142138Z">
+        <seg>对 TPC 来说，这本书是及时雨，介绍了业界一直迫切地想要了解的组件内容管理和计算机思维运动。</seg>
       </tuv>
     </tu>
     <tu>
