@@ -15331,6 +15331,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Today's technical communicators still have to write well, but now they also need a skill set which Carlos calls “computational thinking.” They have to pull on their knowledge of content strategy, information architectures, and Rhetoric in order to produce usable documentation sets in digital environments.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T140715Z" creationid="DSS" creationdate="20200820T140715Z">
+        <seg>今天的技术传播人员仍然需要高超的写作功底，但现在他们还需要掌握另一套技能，即艾维亚所说的“计算机思维”。他们必须运用自己在内容策略、信息架构和修辞方面的知识，以便在数字环境中生成可用文档集。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Today, the trend in technical writing is toward providing the user with far less informa&lt;t0/&gt;tion, an approach called minimalism.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130928Z" creationid="lenovo" creationdate="20200811T023239Z">
