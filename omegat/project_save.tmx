@@ -5567,6 +5567,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FOREWORD</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T122921Z" creationid="DSS" creationdate="20200820T122921Z">
+        <seg>前言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fifteen years later, this book represents my contribution to patching those fault lines.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T135213Z" creationid="DSS" creationdate="20200818T135213Z">
