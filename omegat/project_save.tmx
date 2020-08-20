@@ -8748,8 +8748,8 @@
       <tuv lang="en">
         <seg>It was not supposed to be like this.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T115618Z" creationid="DSS" creationdate="20200720T160228Z">
-        <seg>它本不是这样的。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T121834Z" creationid="DSS" creationdate="20200720T160228Z">
+        <seg>不过之前可不是这样的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11735,10 +11735,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Thank you to Sofia Evia for being an awesome bebe.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T121924Z" creationid="DSS" creationdate="20200820T121924Z">
+        <seg>感谢索菲亚·艾维亚，你是一个让人惊叹的孩子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Thank you to my brother Pedro Evia (the real Chef Pedro) and his business partner Eduardo Rukos for the &lt;t0/&gt;Sensei Sushi&lt;t1/&gt; materials.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T162035Z" creationid="DSS" creationdate="20200819T162035Z">
         <seg>感谢我的兄弟佩德罗·艾维亚（真正的厨师佩德罗）和他的生意伙伴爱德华多·瑞克斯（Eduardo Rukos）提供的 &lt;t0/&gt;Sensei Sushi&lt;t1/&gt; 材料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thank you to my wife and constant source of motivation Dr. Jane Robertson Evia.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T121905Z" creationid="DSS" creationdate="20200820T121905Z">
+        <seg>感谢我的妻子简·罗伯特·艾维亚博士，给我源源不断的动力。</seg>
       </tuv>
     </tu>
     <tu>
