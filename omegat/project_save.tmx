@@ -3001,6 +3001,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As Carlos explains in &lt;t0/&gt;Chapter &lt;t1/&gt;2&lt;t2/&gt;, &lt;t3/&gt;the “craftsman” model made technical communicators responsible for the development and delivery of &lt;t4/&gt;entire&lt;t5/&gt; documents.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T135843Z" creationid="DSS" creationdate="20200820T135843Z">
+        <seg>正如艾维亚在第二章中解释的那样，“工匠”模型需要技术传播人员负责整个文档的开发和交付。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As I mentioned in &lt;t0/&gt;Chapter &lt;t1/&gt;1&lt;t2/&gt;, &lt;t3/&gt;according to Rockley et al.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160705Z" creationid="DSS" creationdate="20200811T140240Z">
@@ -4962,6 +4970,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131052Z" creationid="DSS" creationdate="20200731T091818Z">
         <seg>最终，白皮书呼吁将信息映射和 DITA 结合起来，以构建和发布内容。&lt;t8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Evia's work is firmly situated in what is starting to be called the shift from the “craftsman model” of Technical Communication to the “Component Content Management model.” This shift has come about as a result of the ways that new technologies like XML DITA, single-source authoring environments, and Content Management Systems have changed the ways that technical writers deliver information to audiences (or what we would now call “users”).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T133846Z" creationid="DSS" creationdate="20200820T133846Z">
+        <seg>艾维亚的工作内容与技术传播领域的一场变革紧密捆绑，也就是如今所说的从 “工匠模型”转为“组件内容管理模型”的变革。这种变革是 XML DITA、同源开发环境和内容管理系统等新技术出现的结果，这些技术改变了技术写作工程师向受众（或者现在我们所说的“用户”）传递信息的方式。</seg>
       </tuv>
     </tu>
     <tu>
