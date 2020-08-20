@@ -432,8 +432,8 @@
       <tuv lang="en">
         <seg>&lt;t0/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T121929Z" creationid="DSS" creationdate="20200820T121929Z">
-        <seg>…</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T142849Z" creationid="DSS" creationdate="20200820T121929Z">
+        <seg>…&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -448,8 +448,8 @@
       <tuv lang="en">
         <seg>&lt;t0/&gt;Creating Intelligent Content with Lightweight DITA&lt;t1/&gt; is the work of an academic who has tried to keep an active presence in industry.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T135217Z" creationid="DSS" creationdate="20200818T135217Z">
-        <seg>本书是一位试图在技术传播领域保持活跃身份的学者的成果，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T142754Z" creationid="DSS" creationdate="20200818T135217Z">
+        <seg>本书是一位试图在技术传播领域保持活跃身份的学者的成果，&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -553,8 +553,8 @@
       <tuv lang="en">
         <seg>&lt;t1/&gt;I mean, nina grande.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T122058Z" creationid="DSS" creationdate="20200820T122058Z">
-        <seg>我的意思是，小女孩。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T142851Z" creationid="DSS" creationdate="20200820T122058Z">
+        <seg>我的意思是，小女孩。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -899,8 +899,8 @@
       <tuv lang="en">
         <seg>&lt;t2/&gt;Bernice Hausman and Joe Eska supported my DITA habit for many years.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T155749Z" creationid="DSS" creationdate="20200819T155749Z">
-        <seg>感谢伯尼斯·豪斯曼（Bernice Hausman）和乔·埃斯卡（Joe Eska），多年来一直支持我研究 DITA。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T142836Z" creationid="DSS" creationdate="20200819T155749Z">
+        <seg>感谢伯尼斯·豪斯曼（Bernice Hausman）和乔·埃斯卡（Joe Eska），多年来一直支持我研究 DITA。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1083,8 +1083,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;At another point, the book was going to be a guide for incorporating principles of computational thinking in technical writing courses aimed at students of computer science.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T140329Z" creationid="DSS" creationdate="20200818T140329Z">
-        <seg>从另一个角度看，本书将成为一个指南，旨在将计算机思维原则融入计算机科学专业学生所学的技术写作课程当中去，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T142801Z" creationid="DSS" creationdate="20200818T140329Z">
+        <seg>从另一个角度看，本书将成为一个指南，旨在将计算机思维原则融入计算机科学专业学生所学的技术写作课程当中去，&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3011,8 +3011,8 @@
       <tuv lang="en">
         <seg>As Carlos explains in &lt;t0/&gt;Chapter &lt;t1/&gt;2&lt;t2/&gt;, &lt;t3/&gt;the “craftsman” model made technical communicators responsible for the development and delivery of &lt;t4/&gt;entire&lt;t5/&gt; documents.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T141032Z" creationid="DSS" creationdate="20200820T135843Z">
-        <seg>正如卡洛斯在第二章中解释的那样，“工匠”模型需要技术传播工程师负责整个文档的开发和交付。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T143003Z" creationid="DSS" creationdate="20200820T135843Z">
+        <seg>正如卡洛斯在第二章中解释的那样，“工匠”模型需要技术传播工程师负责整个文档的开发和交付。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3491,8 +3491,8 @@
       <tuv lang="en">
         <seg>Balancing between his mastery of the academy and his practical industry experience as a voting member of the DITA technical committee and as co-chair of the Lightweight DITA subcom&lt;t4/&gt;mittee at the Organization for the Advancement of Structured Information Standards, Evia's book provides TPC students and practitioners with two valu&lt;t5/&gt;able outcomes: &lt;t6/&gt;1) &lt;t7/&gt;an introduction to a development model for creating digital content adapted for users, and &lt;t8/&gt;2) &lt;t9/&gt;an accessible introduction to the new LwDITA standard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T133837Z" creationid="DSS" creationdate="20200820T131502Z">
-        <seg>作为 DITA 技术委员会的投票成员以及结构化信息标准推进组织的轻量级 DITA 小组委员会的主席，艾维亚在从产业界获取的实际经验和从学术界掌握的知识之间取得了平衡。艾维亚的书为 TPC 学生和从业者贡献了两个极具价值的成果：1）介绍为用户创作数字内容的发展模式，2）通俗易懂地介绍新的 LwDITA 标准。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T143002Z" creationid="DSS" creationdate="20200820T131502Z">
+        <seg>作为 DITA 技术委员会的投票成员以及结构化信息标准推进组织的轻量级 DITA 小组委员会的主席，艾维亚在从产业界获取的实际经验和从学术界掌握的知识之间取得了平衡。艾维亚的书为 TPC 学生和从业者贡献了两个极具价值的成果：1）介绍为用户创作数字内容的发展模式，2）通俗易懂地介绍新的 LwDITA 标准。&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3899,8 +3899,8 @@
       <tuv lang="en">
         <seg>Carlos Evia's book &lt;t0/&gt;Creating Intelligent Content with Lightweight DITA&lt;t1/&gt; is a most welcome addition to the ATTW Book Series in Technical and Professional Communication (TPC) because, as its title suggests, it is a book about building and maintaining content which is appropriate for users using an exciting new standard for Extensible Markup Language (XML) called “Lightweight DITA” or LwDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T142442Z" creationid="DSS" creationdate="20200820T131437Z">
-        <seg>卡洛斯·艾维亚的书《使用轻量级 DITA 创建智能内容》，是 ATTW （Association of Teachers of Technical Writing）技术传播和专业传播领域（TPC）系列丛书之中又非常卖座的一本，受捧原因正如书名所示，这是一本关于构建和维护内容的书籍，适合能够使用激动人心的全新标准 “轻量级 DITA”（或称 LwDITA）的用户，该标准基于可扩展标记语言（XML）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T142923Z" creationid="DSS" creationdate="20200820T131437Z">
+        <seg>卡洛斯·艾维亚的书《&lt;t0/&gt;使用轻量级 DITA 创建智能内容&lt;t1/&gt;》，是 ATTW （Association of Teachers of Technical Writing）技术传播和专业传播领域（TPC）系列丛书之中又非常卖座的一本，受捧原因正如书名所示，这是一本关于构建和维护内容的书籍，适合能够使用激动人心的全新标准 “轻量级 DITA”（或称 LwDITA）的用户，该标准基于可扩展标记语言（XML）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5762,8 +5762,8 @@
       <tuv lang="en">
         <seg>Finally, if this book needed a co-author, that would be Michael Priestley &lt;t0/&gt;一 &lt;t1/&gt;the original &lt;t2/&gt;ditaguy&lt;t3/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T162120Z" creationid="DSS" creationdate="20200819T162056Z">
-        <seg>最后，如果这本书需要一个合作编者，那一定是迈克尔·普里斯特利（Michael Priestley）——DITA 之父。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T142847Z" creationid="DSS" creationdate="20200819T162056Z">
+        <seg>最后，如果这本书需要一个合作编者，那一定是迈克尔·普里斯特利（Michael Priestley）——DITA 之父。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6474,8 +6474,8 @@
       <tuv lang="en">
         <seg>Here's a link to Sofia's response to the question of “what is papa's book about?” &lt;t2/&gt;https://youtu.be/MvPuw8XqOYs&lt;t3/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T122155Z" creationid="DSS" creationdate="20200820T122155Z">
-        <seg>下面的链接是索菲亚对“爸爸的书写了什么内容?”的回答：https://youtu.be/MvPuw8XqOYs</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T142910Z" creationid="DSS" creationdate="20200820T122155Z">
+        <seg>下面的链接是索菲亚对“爸爸的书写了什么内容?”的回答：&lt;t2/&gt;https://youtu.be/MvPuw8XqOYs&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8228,8 +8228,8 @@
       <tuv lang="en">
         <seg>In the summer of &lt;t0/&gt;2004, &lt;t1/&gt;I was on my way to Blacksburg, Virginia, to start my new job as assistant professor of technical communication at Virginia Tech.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T131038Z" creationid="DSS" creationdate="20200818T131038Z">
-        <seg>2004年夏天，我前往位于弗吉尼亚州的布莱克斯堡开启了一份新工作：弗吉尼亚理工大学技术传播专业的助理教授。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T142740Z" creationid="DSS" creationdate="20200818T131038Z">
+        <seg>2004年夏天，我前往位于弗吉尼亚州的布莱克斯堡开启了一份新工作：弗吉尼亚理工大学技术传播专业的助理教授。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9220,8 +9220,8 @@
       <tuv lang="en">
         <seg>Like all the other books in the ATTW Book Series, &lt;t2/&gt;Creating Intelligent Content with Lightweight DITA&lt;t3/&gt; is solidly based on its author's comprehensive knowledge of the literature in the field and years of teaching TPC students to create content in DITA for industry clients.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T142540Z" creationid="DSS" creationdate="20200820T132544Z">
-        <seg>与 ATTW 系列丛书中的其他书籍一样，《使用轻量级 DITA 创建智能内容》的写作基石是作者对该领域文献的全面了解，以及多年教授 TPC 学生为产业客户编写 DITA 内容的经验。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T142939Z" creationid="DSS" creationdate="20200820T132544Z">
+        <seg>与 ATTW 系列丛书中的其他书籍一样，《&lt;t2/&gt;使用轻量级 DITA 创建智能内容&lt;t3/&gt;》的写作基石是作者对该领域文献的全面了解，以及多年教授 TPC 学生为产业客户编写 DITA 内容的经验。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9836,8 +9836,8 @@
       <tuv lang="en">
         <seg>My new office only had a laptop computer on an otherwise empty desk when I started reading some of the just-published proceedings from the &lt;t2/&gt;2004 &lt;t3/&gt;conference (now called the Summit) of the Society for Technical Communication.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T131517Z" creationid="DSS" creationdate="20200818T131517Z">
-        <seg>我的新办公室里只有一张空空如也的桌子，上面唯一放着的东西就是笔记本电脑，就是在这样的环境下，我开始阅读2004年技术传播协会会议（现在称为峰会）一些刚刚发表的会议记录。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T142742Z" creationid="DSS" creationdate="20200818T131517Z">
+        <seg>我的新办公室里只有一张空空如也的桌子，上面唯一放着的东西就是笔记本电脑，就是在这样的环境下，我开始阅读2004年技术传播协会会议（现在称为峰会）一些刚刚发表的会议记录。&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11288,8 +11288,8 @@
       <tuv lang="en">
         <seg>Since I had been breathing LwDITA in my teaching and research work at Virginia Tech, and in my committee con&lt;t2/&gt;tributions to OASIS since &lt;t3/&gt;2014, &lt;t4/&gt;that sounded like an excellent idea.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T144116Z" creationid="DSS" creationdate="20200818T144116Z">
-        <seg>由于我在弗吉尼亚理工大学的教学和研究工作中一直在使用 LwDITA，并且自2014年以来就一致参与 OASIS 委员会的工作，这听起来似乎是一个很棒的主意。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T142814Z" creationid="DSS" creationdate="20200818T144116Z">
+        <seg>由于我在弗吉尼亚理工大学的教学和研究工作中一直在使用 LwDITA，并且自2014年以来就一致参与 OASIS 委员会的工作，这听起来似乎是一个很棒的主意。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11416,8 +11416,8 @@
       <tuv lang="en">
         <seg>Some of that work survived and is present in &lt;t0/&gt;Chapter &lt;t1/&gt;2&lt;t2/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T140323Z" creationid="DSS" creationdate="20200818T140323Z">
-        <seg>关于计算机手册的部分内容保留了下来，将在第二章中介绍。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T142756Z" creationid="DSS" creationdate="20200818T140323Z">
+        <seg>关于计算机手册的部分内容保留了下来，将在第二章中介绍。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11881,8 +11881,8 @@
       <tuv lang="en">
         <seg>Thank you to the dozens of undergraduate and graduate students in my courses who have been participat&lt;t0/&gt;ing in my LwDITA experiments since &lt;t1/&gt;2014.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T155325Z" creationid="DSS" creationdate="20200819T155325Z">
-        <seg>感谢数十名选修我的课的本科生和研究生，他们从2014年开始就参与 LwDITA 实验。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T142834Z" creationid="DSS" creationdate="20200819T155325Z">
+        <seg>感谢数十名选修我的课的本科生和研究生，他们从2014年开始就参与 LwDITA 实验。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12034,8 +12034,8 @@
       <tuv lang="en">
         <seg>That work influenced &lt;t4/&gt;Chapters &lt;t5/&gt;7&lt;t6/&gt; &lt;t7/&gt;and &lt;t8/&gt;8&lt;t9/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T142747Z" creationid="DSS" creationdate="20200818T142747Z">
-        <seg>这一思想将在本书第七章和第八章中体现。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T142804Z" creationid="DSS" creationdate="20200818T142747Z">
+        <seg>这一思想将在本书第七章和第八章中体现。&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12186,8 +12186,8 @@
       <tuv lang="en">
         <seg>The Component Content Management paradigm shift—which Carlos describes in &lt;t0/&gt;Chapter &lt;t1/&gt;2&lt;t2/&gt;, &lt;t3/&gt;which Tatiana Batova and Rebekka Andersen outline in their &lt;t4/&gt;2017 &lt;t5/&gt;IEEE Transactions&lt;t6/&gt; article on skills needed for Component Content Management, and which JoAnn Hackos describes in her &lt;t7/&gt;2015 &lt;t8/&gt;ISO/IEC/IEEE &lt;t9/&gt;26531 &lt;t10/&gt;standard on content management— has helped our field understand that in the digital era technical writers in the workplace don't “write” so much as they develop, delineate, and manage small content modules which they collect into information architectures.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T140807Z" creationid="DSS" creationdate="20200820T140401Z">
-        <seg>卡洛斯在第二章中介绍的组件内容管理范式转变，塔蒂阿娜·巴特瓦（Tatiana Batova）和瑞贝卡·安德森（Rebekka Andersen）在2017年 IEEE 期刊文章中提及的使用内容管理组件所需的技能，和乔安·哈克斯（JoAnn Hackos）在2015年 ISO / IEC / IEEE 26531 标准中介绍的内容管理技能，让技术传播领域的人知道，在数字时代，职业的技术写作工程师不再需要“写”那么多内容，而是需要开发、规划和管理从各处收集的小内容模块，使之成为信息体系。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T143113Z" creationid="DSS" creationdate="20200820T140401Z">
+        <seg>卡洛斯在第二章中介绍的组件内容管理范式转变，塔蒂阿娜·巴特瓦（Tatiana Batova）和瑞贝卡·安德森（Rebekka Andersen）在2017年 &lt;t5/&gt;IEEE&lt;t6/&gt; 期刊文章中提及的使用内容管理组件所需的技能，和乔安·哈克斯（JoAnn Hackos）在2015年 &lt;t8/&gt;ISO / IEC / IEEE &lt;t9/&gt;26531&lt;t10/&gt; 标准中介绍的内容管理技能，让技术传播领域的人知道，在数字时代，职业的技术写作工程师不再需要“写”那么多内容，而是需要开发、规划和管理从各处收集的小内容模块，使之成为信息体系。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13605,8 +13605,8 @@
       <tuv lang="en">
         <seg>The proceedings included a presentation titled “The Future of Technical Communication According to Those Who Teach It,” by David Dayton &lt;t0/&gt;一 &lt;t1/&gt;a fellow graduate (a couple of years ahead of me) of the PhD in Technical Communication and Rhetoric at Texas Tech University.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T132118Z" creationid="DSS" creationdate="20200818T132118Z">
-        <seg>会议记录包括一个题为“技术传播的未来取决于教授者”的演讲，演讲者是大卫·代顿（David Dayton）——得克萨斯理工大学技术传播和修辞学专业博士毕业生（比我早几年）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T142744Z" creationid="DSS" creationdate="20200818T132118Z">
+        <seg>会议记录包括一个题为“技术传播的未来取决于教授者”的演讲，演讲者是大卫·代顿（David Dayton）——得克萨斯理工大学技术传播和修辞学专业博士毕业生（比我早几年）。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15536,8 +15536,8 @@
       <tuv lang="en">
         <seg>Under the title of “Plate Tectonics of T-COM,” Dayton's presentation included a slide that prob&lt;t2/&gt;ably changed my academic life.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T132124Z" creationid="DSS" creationdate="20200818T132124Z">
-        <seg>在题为“技术传播的模块构造”的演讲中，代顿所展示的一张幻灯片可能改变了我的学术生活。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T142746Z" creationid="DSS" creationdate="20200818T132124Z">
+        <seg>在题为“技术传播的模块构造”的演讲中，代顿所展示的一张幻灯片可能改变了我的学术生活。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15792,8 +15792,8 @@
       <tuv lang="en">
         <seg>When Taylor &lt;t0/&gt;&amp; &lt;t1/&gt;Francis/Routledge circulated the prospectus and sample chapters for this book to anonymous reviewers, their feedback was on point: the book should be about Lightweight DITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T143943Z" creationid="DSS" creationdate="20200818T143943Z">
-        <seg>当泰勒-弗朗西斯出版集团将这本书的简介和样章分发给匿名评论者时，他们的反馈切中要害：这本书应该是关于轻量级 DITA 的。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T142811Z" creationid="DSS" creationdate="20200818T143943Z">
+        <seg>当泰勒-弗朗西斯出版集团将这本书的简介和样章分发给匿名评论者时，他们的反馈切中要害：这本书应该是关于轻量级 DITA 的。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
