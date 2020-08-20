@@ -120,8 +120,8 @@
       <tuv lang="en">
         <seg>.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T164017Z" creationid="DSS" creationdate="20200804T164017Z">
-        <seg>…</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T121932Z" creationid="DSS" creationdate="20200804T164017Z">
+        <seg>……</seg>
       </tuv>
     </tu>
     <tu>
@@ -430,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T121929Z" creationid="DSS" creationdate="20200820T121929Z">
+        <seg>…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t0/&gt;3.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T071546Z" creationid="DSS" creationdate="20200731T071546Z">
@@ -539,6 +547,14 @@
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T041555Z" creationid="DSS" creationdate="20200807T041555Z">
         <seg>&lt;t1/&gt;图&lt;t2/&gt;5.7&lt;t3/&gt;&lt;t4/&gt;展示了没有自定义格式的意式番茄罗勒酱菜谱评论网站导航菜单的屏幕截图。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t1/&gt;I mean, nina grande.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T122058Z" creationid="DSS" creationdate="20200820T122058Z">
+        <seg>我的意思是，小女孩。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6372,6 +6388,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T130905Z" creationid="lenovo" creationdate="20200814T130905Z">
         <seg>再回到一些作者在接触LwDITA时遇到这个规则的初反应。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Here's a link to Sofia's response to the question of “what is papa's book about?” &lt;t2/&gt;https://youtu.be/MvPuw8XqOYs&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T122155Z" creationid="DSS" creationdate="20200820T122155Z">
+        <seg>下面的链接是索菲亚对“爸爸的书写了什么内容?”的回答：https://youtu.be/MvPuw8XqOYs</seg>
       </tuv>
     </tu>
     <tu>
