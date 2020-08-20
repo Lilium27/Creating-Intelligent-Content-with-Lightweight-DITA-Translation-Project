@@ -3457,6 +3457,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Balancing between his mastery of the academy and his practical industry experience as a voting member of the DITA technical committee and as co-chair of the Lightweight DITA subcom&lt;t4/&gt;mittee at the Organization for the Advancement of Structured Information Standards, Evia's book provides TPC students and practitioners with two valu&lt;t5/&gt;able outcomes: &lt;t6/&gt;1) &lt;t7/&gt;an introduction to a development model for creating digital content adapted for users, and &lt;t8/&gt;2) &lt;t9/&gt;an accessible introduction to the new LwDITA standard.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T131502Z" creationid="DSS" creationdate="20200820T131502Z">
+        <seg>与ATTW系列丛书中的书籍一样，《使用轻量级DITA创建智能内容》的写作基石是作者对该领域文献的全面了解，以及多年教授TPC学生为产业客户编写DITA内容的经验。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Based on conversations with former and cur&lt;t0/&gt;rent IBM employees, I determined that the technical communicator could be &lt;t1/&gt;Susan Carpenter, who is now a senior manager of technical documentation at Red Hat and “led the first pilot of DITA with IBM WebSphere Application Server docs” (DITAWriter, &lt;t2/&gt;2016).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130835Z" creationid="lenovo" creationdate="20200804T065532Z">
@@ -9150,6 +9158,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T085459Z" creationid="DSS" creationdate="20200731T085459Z">
         <seg>与 DITA 一样，信息映射以特定类型或模板使内容结构化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Like all the other books in the ATTW Book Series, &lt;t2/&gt;Creating Intelligent Content with Lightweight DITA&lt;t3/&gt; is solidly based on its author's comprehensive knowledge of the literature in the field and years of teaching TPC students to create content in DITA for industry clients.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T132544Z" creationid="DSS" creationdate="20200820T132544Z">
+        <seg>与ATTW系列丛书中的书籍一样，《使用轻量级DITA创建智能内容》的写作基石是作者对该领域文献的全面了解，以及多年教授TPC学生为产业客户编写DITA内容的经验。</seg>
       </tuv>
     </tu>
     <tu>
