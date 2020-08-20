@@ -3849,6 +3849,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Carlos Evia's book &lt;t0/&gt;Creating Intelligent Content with Lightweight DITA&lt;t1/&gt; is a most welcome addition to the ATTW Book Series in Technical and Professional Communication (TPC) because, as its title suggests, it is a book about building and maintaining content which is appropriate for users using an exciting new standard for Extensible Markup Language (XML) called “Lightweight DITA” or LwDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T131437Z" creationid="DSS" creationdate="20200820T131437Z">
+        <seg>卡洛斯·艾维亚的书《使用轻量级DITA创建智能内容》在技术传播和专业传播领域（TPC），是除了 ATTW （Association of Teachers of Technical Writing）系列丛书之外最受欢迎的，受捧原因正如书名所示，这是一本关于构建和维护内容的书籍，适合能够使用激动人心的全新标准 “轻量级 DITA”（或称 LwDITA）的用户，该标准基于可扩展标记语言（XML）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Carolyn Miller noted that evolution is not seen “as a mere metaphor  or handy analogy for the process of genre change but as a set of ideas that  has been central to thinking about cultural change as about biological change”  (Miller, 2015, pp.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T082805Z" creationid="DSS" creationdate="20200730T082805Z">
