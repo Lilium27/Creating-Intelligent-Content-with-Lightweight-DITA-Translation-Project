@@ -3825,6 +3825,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>But because the new Lightweight DITA standard Carlos and his colleagues have been devel&lt;t5/&gt;oping is much less dependent on both XML and DITA, it's far more accessible to TPC students and practitioners new to coding.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T141658Z" creationid="DSS" creationdate="20200820T141625Z">
+        <seg>但是由于卡洛斯及其同事正在开发的新的轻量级 DITA 标准对 XML 和 DITA 的依赖要小得多，所以对于 TPC 学生和编程新手来说，轻量级 DITA 更容易掌握。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By &lt;t2/&gt;1999, &lt;t3/&gt;Dave was aware of my participation as IBM's primary representa&lt;t4/&gt;tive with the XSLT and CSS standards activities at the World Wide Web Consortium, and I delivered a presentation at a formative meeting in California that forecast the possibility of XML to solve IBM's still-linger&lt;t5/&gt;ing problems with variant tools and markup usage.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130739Z" creationid="DSS" creationdate="20200726T154657Z">
@@ -4914,6 +4922,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131407Z" creationid="DSS" creationdate="20200810T120142Z">
         <seg>在评估学术工作中与CM相关的话题的覆盖率时，安德森感叹道：“迄今为止，在技术传播领域，关于CM的研究几乎都是从学术角度出发的，我们倾向于在现有的学术领域内讨论和推断趋势、方法、科技，而非在更大的CM话语范围内讨论，而后者对CM实践有积极作用” (Andersen, 2014, p. &lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Even aca&lt;t4/&gt;demics familiar with XHTML and CSS can find DITA intimidating.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T141616Z" creationid="DSS" creationdate="20200820T141616Z">
+        <seg>即使是熟悉 XHTML 和 CSS 的学者也会觉得 DITA 令人生畏。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9382,6 +9398,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T051916Z" creationid="lenovo" creationdate="20200812T051916Z">
         <seg>轻量级DITA仍在不断演化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LwDITA is exciting because it enjoys the benefits of the semantic web and single-source authoring without the incredibly steep learning curve required for XML and DITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T142124Z" creationid="DSS" creationdate="20200820T142124Z">
+        <seg>LwDITA 的出现激动人心，因为它享有网页语义化和同源开发的优势，同时又不需要使用学习曲线极其陡峭的 XML 和 DITA。</seg>
       </tuv>
     </tu>
     <tu>
