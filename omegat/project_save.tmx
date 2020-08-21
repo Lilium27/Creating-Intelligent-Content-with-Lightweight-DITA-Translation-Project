@@ -2643,8 +2643,8 @@
       <tuv lang="en">
         <seg>Although an author does not even need to be familiar with XML in order to create information products in the workflows introduced in this book, the ideas presented in &lt;t0/&gt;Creating Intelligent Content with Lightweight DITA&lt;t1/&gt; are rooted in DITA and XML.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143607Z" creationid="DSS" creationdate="20200726T153105Z">
-        <seg>尽管在&lt;t0/&gt;本书&lt;t1/&gt;介绍的工作流中，创作者创建信息产品不需要对 XML 很熟悉，但本书的思想植根于 DITA 和 XML。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T160846Z" creationid="DSS" creationdate="20200726T153105Z">
+        <seg>尽管在&lt;t0/&gt;本书&lt;t1/&gt;介绍的工作流中，创作者创建信息产品不需要对 XML 非常熟悉，但本书的思想植根于 DITA 和 XML。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3211,8 +3211,8 @@
       <tuv lang="en">
         <seg>As a result, I cannot leave out working definitions and background for context when introducing the standard and its evolution as a problem-solving methodology for technical communication.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153115Z" creationid="DSS" creationdate="20200726T153115Z">
-        <seg>因此，在介绍 DITA 标准及其如何演变为技术传播的解决方案时，我无法忽略工作定义和上下文背景的重要性。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T160917Z" creationid="DSS" creationdate="20200726T153115Z">
+        <seg>因此，在介绍 DITA 标准以及 DITA 是如何演变为技术传播的解决方案时，我无法忽略工作定义和上下文背景的重要性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8276,8 +8276,8 @@
       <tuv lang="en">
         <seg>In one of the contrasting moves of their definition, they posit XML as different from Hypertext Markup Language (HTML) and other type&lt;t9/&gt;setting and formatting syntaxes because it enables the processes of “identifying, separating, and recombining” content for different purposes (Applen &lt;t10/&gt;&amp; &lt;t11/&gt;McDaniel, &lt;t12/&gt;2009, &lt;t13/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143755Z" creationid="DSS" creationdate="20200726T153237Z">
-        <seg>在他们的定义中，有一点非常不同，他们认为 XML 不同于超文本标记语言（HTML）以及其他&lt;t9/&gt;排版和格式化语法，因为它能够实现针对不同目的“内容识别、内容分离和内容重”（埃普伦&lt;t10/&gt;、&lt;t11/&gt; 麦克丹尼尔，&lt;t12/&gt;2009&lt;t13/&gt;年，第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T161100Z" creationid="DSS" creationdate="20200726T153237Z">
+        <seg>在他们的定义中，有一点非常不同，他们认为 XML 不同于超文本标记语言（HTML）以及其他&lt;t9/&gt;排版和格式化语法，因为它能够实现针对不同目的“内容识别、内容分离和内容重建”(Applen &lt;t10/&gt;&amp; &lt;t11/&gt;McDaniel, &lt;t12/&gt;2009, &lt;t13/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9404,8 +9404,8 @@
       <tuv lang="en">
         <seg>Lastly, the chapter focuses on strategies for adopting a DITA workflow in three simplified authoring formats, which are connected to principles of computational thinking and emphasize the importance of human abstraction before machine automation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153031Z" creationid="DSS" creationdate="20200726T153031Z">
-        <seg>最后，本章重点讨论了利用三种简化创作格式制定 DITA 工作流的策略，这些策略与计算思维原则有关，强调了在机器自动化之前人类抽象思维的重要性。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T160802Z" creationid="DSS" creationdate="20200726T153031Z">
+        <seg>最后，本章重点讨论了利用三种简化创作格式制定 DITA 工作流的策略，这些策略与计算机思维原则有关，强调了在机器实现自动化之前人类抽象思维的重要性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14845,8 +14845,8 @@
       <tuv lang="en">
         <seg>Then, the chapter explains the need for a simplified version of DITA that allows authors to contribute to intelligent content ecosystems writing in markup languages that do not require complex XML structures.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T155116Z" creationid="DSS" creationdate="20200726T153018Z">
-        <seg>然后，本章解释了用户对简化版 DITA 的需求，借助简化版 DITA 创作者可以编写基于标记语言的智能内容生态系统，而无需使用复杂 XML 结构。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T160745Z" creationid="DSS" creationdate="20200726T153018Z">
+        <seg>然后，本章解释了用户对简化版 DITA 的需求，借助简化版 DITA 创作者可以编写基于标记语言的智能内容生态系统，而无需使用复杂的 XML 结构。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15485,8 +15485,8 @@
       <tuv lang="en">
         <seg>This section will be especially useful to readers who have not ventured into standards and markup languages for intelligent content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T155108Z" creationid="DSS" creationdate="20200726T153130Z">
-        <seg>对于那些没有领略过智能内容标准和标记语言的读者，本节非常有用。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T160959Z" creationid="DSS" creationdate="20200726T153130Z">
+        <seg>对于那些没有领略过智能内容标准和标记语言的读者来说，本节非常有用。</seg>
       </tuv>
     </tu>
     <tu>
