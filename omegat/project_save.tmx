@@ -577,8 +577,8 @@
       <tuv lang="en">
         <seg>&lt;t1/&gt;The spec also explains that a fenced code block begins with a code fence, indented no more than three spaces, and then defines code fence as “a sequence of at least three consecutive backtick characters (') or tildes &lt;t2/&gt;(〜)&lt;t3/&gt;.(Tildes and backticks cannot be mixed.)” (GitHub Flavored Markdown Spec, 2017).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T154626Z" creationid="lenovo" creationdate="20200819T154626Z">
-        <seg>&lt;t1/&gt;规范还解释了fenced代码块以代码栏开始，缩进不超过三个空格，然后将代码栏定义为“至少由三个连续的反引号(')或斜杠(~)组成的序列”。(斜杠和反引号不能混合使用)”(GitHub Flavored Markdown Spec, 2017).</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T131556Z" creationid="lenovo" creationdate="20200819T154626Z">
+        <seg>&lt;t1/&gt;规范还解释了隔离代码块以代码栏开始，缩进不超过三个空格，然后将代码栏定义为“至少由三个连续的反引号(')或斜杠&lt;t2/&gt;(〜)&lt;t3/&gt;组成的序列”。(斜杠和反引号不能混合使用)”(GitHub Flavored Markdown Spec, 2017).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16369,8 +16369,8 @@
       <tuv lang="en">
         <seg>You can express the LwDITA content component of preformatted text in MDITA via indented or fenced code blocks in Markdown.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T153209Z" creationid="lenovo" creationdate="20200819T153209Z">
-        <seg>可以通过在Markdown中使用缩进或隔离的代码块在MDITA中表示预格式化文本的LwDITA内容组件。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T131033Z" creationid="lenovo" creationdate="20200819T153209Z">
+        <seg>可以通过在Markdown中使用缩进或隔离代码块在MDITA中表示预格式化文本的LwDITA内容组件。</seg>
       </tuv>
     </tu>
     <tu>
