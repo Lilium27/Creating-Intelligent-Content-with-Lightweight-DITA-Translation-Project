@@ -575,6 +575,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t1/&gt;The spec also explains that a fenced code block begins with a code fence, indented no more than three spaces, and then defines code fence as “a sequence of at least three consecutive backtick characters (') or tildes &lt;t2/&gt;(〜)&lt;t3/&gt;.(Tildes and backticks cannot be mixed.)” (GitHub Flavored Markdown Spec, 2017).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T154626Z" creationid="lenovo" creationdate="20200819T154626Z">
+        <seg>&lt;t1/&gt;规范还解释了fenced代码块以代码栏开始，缩进不超过三个空格，然后将代码栏定义为“至少由三个连续的反引号(')或斜杠(~)组成的序列”。(斜杠和反引号不能混合使用)”(GitHub Flavored Markdown Spec, 2017).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t1/&gt;Those fault lines are still threatening the field's foundation, and even prompted Carolyn Rude to pose the rhetorical question, “In trying to define our field as something more than adjunct to the computer industry engaged in vocational training, have we overcorrected?” &lt;t2/&gt;(2015, &lt;t3/&gt;p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T100105Z" creationid="DSS" creationdate="20200810T140712Z">
@@ -2105,6 +2113,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A quick view of the HDITA topic from &lt;t0/&gt;Figure &lt;t1/&gt;6.43&lt;t2/&gt; &lt;t3/&gt;on a web browser shows the preformatted text with the line structure set in the source code (&lt;t4/&gt;Figure &lt;t5/&gt;6.44&lt;t6/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T152906Z" creationid="lenovo" creationdate="20200819T152906Z">
+        <seg>在web浏览器上快速查看图6.43中的HDITA主题，显示的预格式化文本符合源码中的行结构设置。(图6.44)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A sample sushi recipe from the restaurant's cookbook.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T061938Z" creationid="DSS" creationdate="20200807T061938Z">
@@ -2741,6 +2757,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T014524Z" creationid="lenovo" creationdate="20200811T014524Z">
         <seg>元素可以小到一个单词，大到一个教程 &lt;t0/&gt;(1998, &lt;t1/&gt;p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An indented chunk is a sequence of non-blank lines, each indented four or more spaces” (GitHub Flavored Markdown Spec, &lt;t0/&gt;2017).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T153426Z" creationid="lenovo" creationdate="20200819T153426Z">
+        <seg>缩进代码块是一连串非空行，每行缩进四个或更多的空格” (GitHub Flavored Markdown Spec, &lt;t0/&gt;2017).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12080,6 +12104,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;t0/&gt;&lt;pre&gt; &lt;t1/&gt;component performs the same function in HDITA topics, as shown in &lt;t2/&gt;Figure &lt;t3/&gt;6.43&lt;t4/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T152509Z" creationid="lenovo" creationdate="20200819T152509Z">
+        <seg>&lt;pre&gt;组件在HDITA主题中执行相同的功能，如图6.43所示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;t0/&gt;&lt;task&gt; &lt;t1/&gt;element opens the topic announcing “this is a task,” and it contains elements like the following:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145123Z" creationid="DSS" creationdate="20200725T065912Z">
@@ -12308,6 +12340,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T142334Z" creationid="DSS" creationdate="20200816T142334Z">
         <seg>GFM 规范将段落定义为“非空行序列”（GitHub 风格 Markdown 规范，&lt;t0/&gt;2017）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The GFM spec describes indented code blocks as “composed of one or more indented chunks separated by blank lines.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T153340Z" creationid="lenovo" creationdate="20200819T153340Z">
+        <seg>GFM规范将缩进代码块描述为“由一个或多个用空行分隔的缩进代码块组成”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16323,6 +16363,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T092225Z" creationid="DSS" creationdate="20200806T092225Z">
         <seg>你可以从 &lt;t8/&gt;https://&lt;t9/&gt; &lt;t10/&gt;www.dita-ot.org/download&lt;t11/&gt; 上下载 DITA-OT。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can express the LwDITA content component of preformatted text in MDITA via indented or fenced code blocks in Markdown.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T153209Z" creationid="lenovo" creationdate="20200819T153209Z">
+        <seg>可以通过在Markdown中使用缩进或隔离的代码块在MDITA中表示预格式化文本的LwDITA内容组件。</seg>
       </tuv>
     </tu>
     <tu>
