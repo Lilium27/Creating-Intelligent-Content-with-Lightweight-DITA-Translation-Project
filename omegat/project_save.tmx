@@ -1825,6 +1825,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t8/&gt;37).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T152729Z" creationid="DSS" creationdate="20200821T152729Z">
+        <seg>&lt;t8/&gt;37)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t8/&gt;Figure 6.48&lt;t9/&gt; shows how a level-two &lt;t10/&gt;atx&lt;t11/&gt; heading can create a section in an MDITA topic.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T140637Z" creationid="lenovo" creationdate="20200821T140637Z">
@@ -8180,8 +8188,8 @@
       <tuv lang="en">
         <seg>In contrast, taken to its most beneficial extreme, obsessing about order and rules can produce information schemas as revolutionary as those proposed by J.C.R.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T025533Z" creationid="lenovo" creationdate="20200805T025304Z">
-        <seg>相反，如果是将其良性效用发挥到极致，对秩序和规则的痴迷可能会产生像J.C.R所倡导的那种革命性的信息模式</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T153250Z" creationid="lenovo" creationdate="20200805T025304Z">
+        <seg>相反，如果是将其良性效用发挥到极致，对秩序和规则的痴迷可能会产生革命性的信息模式，</seg>
       </tuv>
     </tu>
     <tu>
