@@ -696,6 +696,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t12/&gt;189).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T152255Z" creationid="DSS" creationdate="20200821T152255Z">
+        <seg>&lt;t12/&gt;189)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t12/&gt;Figure 6.8&lt;t13/&gt; shows the franchise introduction topic with a title and a heading 1.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T140840Z" creationid="DSS" creationdate="20200816T140358Z">
@@ -1053,6 +1061,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144330Z" creationid="DSS" creationdate="20200726T155100Z">
         <seg>&lt;t3/&gt;10页）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t3/&gt;155).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T152131Z" creationid="DSS" creationdate="20200821T152131Z">
+        <seg>&lt;t3/&gt;155)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1419,8 +1435,8 @@
       <tuv lang="en">
         <seg>&lt;t4/&gt;As she traced the use of evolutionary language when describing genre use in literature, architecture, music, and painting, Miller attributed this appropriation of language from biological sciences to an “obses&lt;t5/&gt;sion with order and rules” &lt;t6/&gt;(2015, &lt;t7/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130844Z" creationid="lenovo" creationdate="20200805T011720Z">
-        <seg>&lt;t4/&gt;&lt;t5/&gt;当她描述文学、建筑、音乐和绘画中的体裁的使用时，她追踪了演进性语言的使用，米勒将这种将生物科学中术语挪为他用的现象归结为“对秩序和规则的痴迷”。 &lt;t6/&gt;(2015, &lt;t7/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T152216Z" creationid="lenovo" creationdate="20200805T011720Z">
+        <seg>&lt;t4/&gt;&lt;t5/&gt;当她描述文学、建筑、音乐和绘画中的体裁的使用时，她追踪了演进性语言的使用，米勒将这个生物科学术语挪为他用的现象归结为“对秩序和规则的痴迷”。 &lt;t6/&gt;(2015, &lt;t7/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1793,6 +1809,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t8/&gt;162).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T152239Z" creationid="DSS" creationdate="20200821T152239Z">
+        <seg>&lt;t8/&gt;162)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t8/&gt;3-5).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T151553Z" creationid="DSS" creationdate="20200811T151553Z">
@@ -1899,8 +1923,8 @@
       <tuv lang="en">
         <seg>&lt;t9/&gt;That same obsession is behind the methodology of structured authoring of technical information, which is all about “capturing, guiding, and validating the content, order, and form of a piece of content” (Baker, &lt;t10/&gt;2013, &lt;t11/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T013026Z" creationid="lenovo" creationdate="20200805T013026Z">
-        <seg>技术信息结构化创作方法的背后也蕴藏着同样地痴迷，即对“内容片段的内容、顺序和形式进行捕获、引导和验证的痴迷”。&lt;t9/&gt; (Baker, &lt;t10/&gt;2013, &lt;t11/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T152323Z" creationid="lenovo" creationdate="20200805T013026Z">
+        <seg>技术信息结构化创作方法的背后也蕴藏着同样地痴迷情节，即对“内容片段的内容、顺序和形式进行捕获、引导和验证的痴迷”。&lt;t9/&gt; (Baker, &lt;t10/&gt;2013, &lt;t11/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3923,8 +3947,8 @@
       <tuv lang="en">
         <seg>By simplifying the core “fixed pattern of template” of DITA, LwDITA embarks on a process of genre evolution that empowers entry-level users while keeping its tools to sup&lt;t12/&gt;port our human obsession with order and rules.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130843Z" creationid="lenovo" creationdate="20200804T082616Z">
-        <seg>通过简化DITA核心“模板的固定模式”，轻量级DITA开启了体裁演进的新征程，使得入门级用户也能轻松使用的同时满足了人类对秩序与规则的痴迷。&lt;t12/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T151917Z" creationid="lenovo" creationdate="20200804T082616Z">
+        <seg>通过简化DITA核心“模板的固定模式”，轻量级DITA开启了体裁演进的新征程，使得入门级用户也能轻松使用的同时满足了人类对秩序与规则的痴迷情结。&lt;t12/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13250,8 +13274,8 @@
       <tuv lang="en">
         <seg>The demise of the manual is an event that affects genre theory and technical com&lt;t0/&gt;munication, as this was the flagship format that the profession produced for decades and, for some, justified its existence as an academic subject and area of practice.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130843Z" creationid="lenovo" creationdate="20200804T083315Z">
-        <seg>手册的消亡影响了体裁理论和技术传播，因为手册是这一职业使用了数十年的标志性形式，对于一些人而言，捍卫手册可以作为学术主题和实践领域而存在。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T152054Z" creationid="lenovo" creationdate="20200804T083315Z">
+        <seg>手册的消亡影响了体裁理论和技术传播，因为手册是这一职业使用了数十年的标志性形式，对于一些人而言，对手册的捍卫可以作为学术主题和实践领域而存在。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
