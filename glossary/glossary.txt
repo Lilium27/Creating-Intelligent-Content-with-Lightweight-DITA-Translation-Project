@@ -492,3 +492,4 @@ franchise offer	特许经营权授权
 Carroll	卡罗尔
 Svenvold	斯文沃尔德
 Jimmy Buffett	吉米.巴菲特
+units shipped	出货量
