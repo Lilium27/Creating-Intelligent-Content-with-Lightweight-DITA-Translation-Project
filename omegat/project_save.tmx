@@ -6946,8 +6946,8 @@
       <tuv lang="en">
         <seg>I am aware, though, that some large content repositories with diverse user groups do need a robust environment built on DITA XML, and that strong component of the standard is not going away.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T094646Z" creationid="DSS" creationdate="20200726T094646Z">
-        <seg>但是，我知道一些具有不同用户组的大型内容库确实需要基于XML 的 DITA 构建的健壮环境，这是 DITA 标准非常重要的一部分，不会就此消失。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T151007Z" creationid="DSS" creationdate="20200726T094646Z">
+        <seg>但是，我知道一些具有不同用户组的大型内容库确实需要 DITA XML 构建的健壮环境，这是 DITA 标准非常重要的一部分，不会就此消失。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9932,8 +9932,8 @@
       <tuv lang="en">
         <seg>Michael Priestley, Senior Technical Staff Member and Enterprise Content Technology Strategist at IBM and known as one of DITA's “founding fathers” (Etheridge, &lt;t0/&gt;2016), &lt;t1/&gt;defines Lightweight DITA (LwDITA, which should be read as “Lightweight DITA”) as a simplified schema for structuring content, with fewer elements, tighter content models and a simplified specialization archi&lt;t2/&gt;tecture to define new types compared to those of DITA XML.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130810Z" creationid="DSS" creationdate="20200726T082353Z">
-        <seg>迈克尔·普里斯特利是 IBM 高级技术人员和企业内容技术策略师，被誉为 DITA 的“创始人”（埃瑟里奇，&lt;t0/&gt;2016&lt;t1/&gt;&lt;t2/&gt;年），他认为轻量级 DITA （LwDITA，全称为“Lightweight DITA”）一种创建结构化内容的简单方式，与基于 XML 的 DITA  相比，可以用更少的元素、更紧凑的内容模型和简化的专有体系结构来定义新类型。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T150956Z" creationid="DSS" creationdate="20200726T082353Z">
+        <seg>迈克尔·普里斯特利是 IBM 高级技术人员和企业内容技术策略师，被誉为 DITA 的“创始人”（埃瑟里奇，&lt;t0/&gt;2016&lt;t1/&gt;&lt;t2/&gt;年），他认为轻量级 DITA （LwDITA，全称为“Lightweight DITA”）一种创建结构化内容的简单方式，与 DITA XML  相比，可以用更少的元素、更紧凑的内容模型和简化的专有体系结构来定义新类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14933,8 +14933,8 @@
       <tuv lang="en">
         <seg>Therefore, this is unequivocally a book about DITA, but it is not a detailed introduction and how-to to the widely adopted XML-based DITA standard (for comprehensive introductory texts to DITA XML, see Hackos, &lt;t3/&gt;2011; &lt;t4/&gt;Bellamy et al., &lt;t5/&gt;2012).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T151119Z" creationid="DSS" creationdate="20200726T135202Z">
-        <seg>因此毫无疑问，本书是一本关于 DITA 的书，但是书中没有详细介绍被广泛使用的基于 XML 的 DITA 标准（全面介绍基于 XML 的 DITA 的文本，请参阅哈克斯，&lt;t3/&gt;2011&lt;t4/&gt;年；&lt;t5/&gt;贝拉米等，2012年）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T151057Z" creationid="DSS" creationdate="20200726T135202Z">
+        <seg>因此毫无疑问，本书是一本关于 DITA 的书，但是书中没有详细介绍被广泛使用的基于 XML 的 DITA 标准（全面介绍 DITA XML 的文章，请参阅哈克斯，&lt;t3/&gt;2011&lt;t4/&gt;年；&lt;t5/&gt;贝拉米等，2012年）。</seg>
       </tuv>
     </tu>
     <tu>
