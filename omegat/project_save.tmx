@@ -3163,8 +3163,8 @@
       <tuv lang="en">
         <seg>As a franchise owner, he wants to ensure that the food in his restau&lt;t0/&gt;rants is consistent, and his kitchen staff needs up-to-date documentation with recipes and techniques adopted in all of his restaurants.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130736Z" creationid="DSS" creationdate="20200726T153403Z">
-        <seg>作为餐馆老板，他希望能够确保所有餐馆里的食物是一致的，厨房员工也需要知晓佩德罗所有餐馆的最新菜谱和采用的技艺。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T161402Z" creationid="DSS" creationdate="20200726T153403Z">
+        <seg>作为餐馆老板，他希望能够确保所有餐馆里的食材都是一致的，厨房员工也需要知晓佩德罗所有餐馆的最新菜谱和采用的技艺。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10396,8 +10396,8 @@
       <tuv lang="en">
         <seg>Now, if Pedro were to open a text editor in his computer and start typing XML tags to structure his content, he probably would not know where to go after typing for a few minutes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153541Z" creationid="DSS" creationdate="20200726T153541Z">
-        <seg>现在，如果佩德罗打开电脑中的一个文本编辑器，开始键入 XML 标记创建结构化内容，几分钟后他可能就不知道接下来要做什么了。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T161627Z" creationid="DSS" creationdate="20200726T153541Z">
+        <seg>现在，如果佩德罗打开电脑中的一个文本编辑器，键入 XML 标记创建结构化内容，几分钟后他可能就不知道接下来要做什么了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16248,8 +16248,8 @@
       <tuv lang="en">
         <seg>When a change needs to be reflected in those information products (e.g., the kitchen introduces a new special or the office's telephone number should be updated), Chef Pedro makes the changes in his original Word files, and then the publications team has to manually update the menus, flyers, and website that borrow content from the Word master source.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153458Z" creationid="DSS" creationdate="20200726T153458Z">
-        <seg>当需要改动这些信息产品（例如,厨房里引入了一个新的特色菜或需要更新办公室电话号码），佩德罗会先改动最初的 Word 文档，然后出版团队不得不根据Word文档这一主要内容来源手动更新菜单、传单和网站。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T161554Z" creationid="DSS" creationdate="20200726T153458Z">
+        <seg>当需要改动这些信息产品（例如，厨房里引入了一个新的特色菜或需要更新办公室电话号码），佩德罗会先改动最初的 Word 文档，然后出版团队不得不根据 Word 文档这一主要内容来源手动更新菜单、传单和网站。</seg>
       </tuv>
     </tu>
     <tu>
