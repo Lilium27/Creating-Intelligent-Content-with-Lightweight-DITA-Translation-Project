@@ -16607,6 +16607,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>country.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T140736Z" creationid="DSS" creationdate="20200821T140736Z">
+        <seg>和计算机系统。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>describe the DITA map as “the glue that binds your topics together, the driver for producing your output, and the information path for your users to follow” (Bellamy et al., &lt;t0/&gt;2012, &lt;t1/&gt;p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T084808Z" creationid="DSS" creationdate="20200806T084808Z">
