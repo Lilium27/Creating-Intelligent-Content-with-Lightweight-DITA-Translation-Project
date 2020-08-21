@@ -6218,8 +6218,8 @@
       <tuv lang="en">
         <seg>For now, just focus on the fact that XML uses tags to identify the types of rhetorical “moves” that the content on the page represents.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154454Z" creationid="DSS" creationdate="20200726T154454Z">
-        <seg>现在只需要知道XML使用标签来识别页面内容所表示的修辞关系。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T162413Z" creationid="DSS" creationdate="20200726T154454Z">
+        <seg>现在只需要知道 XML 使用标签来识别页面内容所表示的修辞关系。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9316,8 +9316,8 @@
       <tuv lang="en">
         <seg>Just like Chef Pedro, who wants to create a structured template for all entries in his recipe guide, information developers at IBM started looking at XML in the late 1990s to organize technical content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154509Z" creationid="DSS" creationdate="20200726T154509Z">
-        <seg>就像佩德罗希望为菜谱指南中的所有条目创建结构化模板一样，IBM 的信息开发人员在20世纪90年代末开始研究使用XML组织技术内容。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T162423Z" creationid="DSS" creationdate="20200726T154509Z">
+        <seg>就像佩德罗希望为菜谱指南中的所有条目创建结构化模板一样，IBM 的信息开发人员在20世纪90年代末开始研究如何使用 XML 组织技术内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10558,8 +10558,8 @@
       <tuv lang="en">
         <seg>One of the solutions that came out of those explorations at IBM was the Darwin Information Typing Architecture.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154515Z" creationid="DSS" creationdate="20200726T154515Z">
-        <seg>IBM 探索出来的解决方案之一是DITA，达尔文信息类型架构。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T162452Z" creationid="DSS" creationdate="20200726T154515Z">
+        <seg>IBM 探索出来的解决方案之一是 DITA，达尔文信息类型架构。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17755,8 +17755,8 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;Darwin&lt;t1/&gt;: for specialization and how things could “evolve” from a base &lt;t2/&gt;• &lt;t3/&gt;Information Typing&lt;t4/&gt;: for representation of knowledge as typed units &lt;t5/&gt;• &lt;t6/&gt;Architecture&lt;t7/&gt;: a statement that this was not just a monolithic design but an exten&lt;t8/&gt;sible tool that could support many uses (Day, quoted in DITAWriter, &lt;t9/&gt;2016).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130739Z" creationid="DSS" creationdate="20200726T154813Z">
-        <seg>•&lt;t0/&gt;达尔文&lt;t1/&gt;：代表专业化以及事物如何从一个基础“演化”；&lt;t2/&gt;•&lt;t3/&gt;信息类型化&lt;t4/&gt;：用不同类型单元表示知识； &lt;t5/&gt;• &lt;t6/&gt;架构&lt;t7/&gt;&lt;t8/&gt;：表示这不仅仅是一个整体设计理念，还是一个可扩展的工具，可以支持多种用途（戴，引自 DitaWriter，&lt;t9/&gt;2016年）。
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T162614Z" creationid="DSS" creationdate="20200726T154813Z">
+        <seg>•&lt;t0/&gt;达尔文&lt;t1/&gt;：代表专业化以及事物如何从一个基础形态“演进”；&lt;t2/&gt;•&lt;t3/&gt;信息类型化&lt;t4/&gt;：用不同类型单元表示知识； &lt;t5/&gt;• &lt;t6/&gt;架构&lt;t7/&gt;&lt;t8/&gt;：表示这不仅仅是一个整体设计理念，还是一个可扩展的工具，可以支持多种用途（戴，引自 DitaWriter，&lt;t9/&gt;2016年）。
 </seg>
       </tuv>
     </tu>
