@@ -6170,8 +6170,8 @@
       <tuv lang="en">
         <seg>For example, Linda Flower explored transferable tasks in professional writing through the use of schemas and writing plans, acknowledging that “many discourse conventions are, in fact, formalizations of rhetorical moves” (Flower, &lt;t0/&gt;1989, &lt;t1/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T121858Z" creationid="lenovo" creationdate="20200807T014143Z">
-        <seg>例如，琳达·弗劳尔通过图式和写作计划探索了专业写作中的可转换的任务，她承认“实际上，很多语篇惯例不过是修辞文步的正式形式。” (Flower, &lt;t0/&gt;1989, &lt;t1/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T153535Z" creationid="lenovo" creationdate="20200807T014143Z">
+        <seg>例如，琳达·弗劳尔（Linda Flower）通过图式和写作计划探索了专业写作中的可转换的任务，她承认“实际上，很多语篇惯例不过是修辞文步的正式形式。” (Flower, &lt;t0/&gt;1989, &lt;t1/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9470,6 +9470,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150423Z" creationid="DSS" creationdate="20200726T073836Z">
         <seg>让我们回到厨师佩德罗的例子上，他现在正试图按照 DITA 标准&lt;t0/&gt;1.3&lt;t1/&gt;版本的规范将自己的一些菜谱组织成任务（task）话题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Licklider &lt;t2/&gt;(1965) &lt;t3/&gt;for cataloging library sources.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T153413Z" creationid="DSS" creationdate="20200821T153413Z">
+        <seg>就像J.C.R.利克莱德(1965)所倡导的那种用于编目图书馆资源的信息模式。</seg>
       </tuv>
     </tu>
     <tu>
