@@ -62,14 +62,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>(Mathewson, &lt;t0/&gt;2016)</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T155913Z" creationid="DSS" creationdate="20200720T134229Z">
-        <seg>（马修森， &lt;t0/&gt;2016年）</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>(O'Keefe, &lt;t0/&gt;2009, &lt;t1/&gt;p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143936Z" creationid="DSS" creationdate="20200726T154121Z">
@@ -1099,8 +1091,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;54).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T155957Z" creationid="DSS" creationdate="20200720T153935Z">
-        <seg>&lt;t3/&gt;54页）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T154617Z" creationid="DSS" creationdate="20200720T153935Z">
+        <seg>&lt;t3/&gt;54)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1475,8 +1467,8 @@
       <tuv lang="en">
         <seg>&lt;t4/&gt;In many technical communication practices, “efficient content reuse does not involve copy-and-pasting; instead it uses &lt;t5/&gt;transclusion&lt;t6/&gt;, whereby content is authored in one location and used by reference in other locations” (Eberlein, &lt;t7/&gt;2016 &lt;t8/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T142718Z" creationid="DSS" creationdate="20200720T155448Z">
-        <seg>&lt;t4/&gt;在许多技术传播实践中，“有效内容的重用不是复制粘贴，而是&lt;t5/&gt;引用&lt;t6/&gt;，即在一个地方创作内容，在其他地方引用该内容”（埃伯莱因，&lt;t7/&gt;2016年， &lt;t8/&gt; 第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T154638Z" creationid="DSS" creationdate="20200720T155448Z">
+        <seg>&lt;t4/&gt;在众多的技术传播实践中，“有效内容的重用不是复制粘贴，而是&lt;t5/&gt;引用&lt;t6/&gt;，即在一个地方创作内容，在其他地方引用该内容”(Eberlein, &lt;t7/&gt;2016 &lt;t8/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1907,8 +1899,8 @@
       <tuv lang="en">
         <seg>&lt;t9/&gt;55).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T160027Z" creationid="DSS" creationdate="20200720T160010Z">
-        <seg>&lt;t9/&gt;55页)。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T154705Z" creationid="DSS" creationdate="20200720T160010Z">
+        <seg>&lt;t9/&gt;55)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5024,8 +5016,8 @@
       <tuv lang="en">
         <seg>Essays from whole cloth is more the thing.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200721T160159Z" creationid="DSS" creationdate="20200720T134143Z">
-        <seg>具有创作完整性文章的能力更加重要。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T154548Z" creationid="DSS" creationdate="20200720T134143Z">
+        <seg>具有能够创作完整性文章的能力更加重要。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7628,8 +7620,8 @@
       <tuv lang="en">
         <seg>In &lt;t0/&gt;2012, &lt;t1/&gt;the Adobe Technical Communication Suite (TCS) team distrib&lt;t2/&gt;uted on several social media channels a video titled “The Future of Technical Communication.” The video used stop-motion animation and fast-draw tech&lt;t3/&gt;niques to summarize the features of “Adobe's Tools and Services” for technical communication.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130725Z" creationid="DSS" creationdate="20200723T155229Z">
-        <seg> &lt;t0/&gt;2012年，&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;Adobe 技术传播套件（TCS）团队在几个社交媒体渠道发布了一段名为“技术传播的未来”的视频。该视频使用定格动画和快速绘制技术，总结了用于技术传播的“Adobe 工具和服务”的特点。  </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T154821Z" creationid="DSS" creationdate="20200723T155229Z">
+        <seg> &lt;t0/&gt;2012年，&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;Adobe 技术传播软件（TCS）团队在几个社交媒体渠道发布了一段名为“技术传播的未来”的视频。该视频使用定格动画和快速绘制技术，总结了用于技术传播的“Adobe 工具和服务”的特点。  </seg>
       </tuv>
     </tu>
     <tu>
@@ -8236,8 +8228,8 @@
       <tuv lang="en">
         <seg>In his role as Distinguished Technical Marketer at IBM, James, a graduate of the Master of Science in Scientific and Technical Communication from the University of Minnesota-Twin Cities, was looking for interns who could work in a structured authoring environment.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200805T030252Z" creationid="DSS" creationdate="20200720T133311Z">
-        <seg>他毕业于明尼苏达大学双子城分校（University of Minnesota-Twin Cities），获得了科学与技术传播硕士学位。詹姆斯在 IBM 工作，是出色的一位技术营销人员，曾经一直在寻求能够在结构化创作环境中工作的实习生。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T154539Z" creationid="DSS" creationdate="20200720T133311Z">
+        <seg>他毕业于明尼苏达大学双子城分校（University of Minnesota-Twin Cities），获得了科学与技术传播硕士学位。詹姆斯在 IBM 工作，是一位出色的技术营销人员，曾经一直在寻求能够在结构化创作环境中工作的实习生。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16264,8 +16256,8 @@
       <tuv lang="en">
         <seg>When he talks about “reusable content,” Mathewson is referring to the “prac&lt;t0/&gt;tice of using content components in multiple information products” (Eberlein, &lt;t1/&gt;2016 &lt;t2/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T142650Z" creationid="DSS" creationdate="20200720T153908Z">
-        <seg>马修森所说的“可重用内容”是指“在多个信息产品中使用内容组件的&lt;t0/&gt;实践”（埃伯莱因，&lt;t1/&gt;2016&lt;t2/&gt;年，第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T154604Z" creationid="DSS" creationdate="20200720T153908Z">
+        <seg>马修森所说的“可重用内容”是指“在多个信息产品中使用内容组件的&lt;t0/&gt;实践” (Eberlein, &lt;t1/&gt;2016 &lt;t2/&gt;p.，&lt;t1/&gt;2016&lt;t2/&gt;年，第</seg>
       </tuv>
     </tu>
     <tu>
