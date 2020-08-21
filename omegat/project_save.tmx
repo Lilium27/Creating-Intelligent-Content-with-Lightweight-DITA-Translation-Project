@@ -5422,6 +5422,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE 6.50 &lt;t0/&gt;Preview of an XDITA table with the ingredients and shipped units for&lt;t1/&gt; the Fancy Roll in Oxygen's &lt;t2/&gt;author&lt;t3/&gt; mode.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T151924Z" creationid="lenovo" creationdate="20200821T151924Z">
+        <seg>FIGURE 6.50 &lt;t0/&gt;在Oxygen的作者模式下预览包含Fancy Roll的成分和出货量的XDITA表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE 6.7 &lt;t0/&gt;Author mode in Oxygen XML Editor.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T135536Z" creationid="DSS" creationdate="20200816T135536Z">
@@ -5922,8 +5930,16 @@
       <tuv lang="en">
         <seg>Figure &lt;t0/&gt;6.49&lt;t1/&gt; &lt;t2/&gt;includes a simple table that presents the ingredients and quanti&lt;t3/&gt;ties needed to prepare the “Fancy Roll” &lt;t4/&gt;一 &lt;t5/&gt;a signature &lt;t6/&gt;Sensei Sushi&lt;t7/&gt; product.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T150646Z" creationid="lenovo" creationdate="20200821T150646Z">
-        <seg>图 &lt;t0/&gt;6.49&lt;t1/&gt; &lt;t2/&gt;包含一个简单的表，表中包含了制作“Fancy Roll” &lt;t4/&gt;——&lt;t5/&gt;&lt;t6/&gt;唤醒寿司&lt;t7/&gt; 的招牌产品所需的原料和数量。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T151614Z" creationid="lenovo" creationdate="20200821T150646Z">
+        <seg>图 &lt;t0/&gt;6.49&lt;t1/&gt; &lt;t2/&gt;包含一个简单的表，表中包含了制作“Fancy Roll” &lt;t4/&gt;——&lt;t5/&gt;&lt;t6/&gt;唤醒寿司&lt;t7/&gt; 的招牌产品所需的配料和数量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;t0/&gt;6.51 &lt;t1/&gt;shows the HDITA code for the topic including a table with the ingredients, amounts, and units shipped for franchise owners interested in pre&lt;t2/&gt;paring the “Fancy Roll.”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T151820Z" creationid="lenovo" creationdate="20200821T151820Z">
+        <seg>图 &lt;t0/&gt;6.51 &lt;t1/&gt;显示了该主题的HDITA代码，包括为有兴趣准备“Fancy Roll”的特许经营业主提供的包含配料、数量和单位的表格。</seg>
       </tuv>
     </tu>
     <tu>
