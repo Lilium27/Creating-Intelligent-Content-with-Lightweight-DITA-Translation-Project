@@ -488,3 +488,4 @@ Steve Harrison	斯蒂夫·哈里森
 Tharon Howard	塔伦·霍华德
 CREATING INTELLIGENT CONTENT WITH LIGHTWEIGHT DITA	使用轻量 DITA 创建智能内容
 Carlos	卡洛斯
+franchise offer	特许经营权授权
