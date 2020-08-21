@@ -5775,6 +5775,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;6.49 &lt;t1/&gt;Table inside an XDITA topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T151015Z" creationid="lenovo" creationdate="20200821T151015Z">
+        <seg>图 &lt;t0/&gt;6.49 &lt;t1/&gt;XDITA主题中的表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FOREWORD</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T122921Z" creationid="DSS" creationdate="20200820T122921Z">
@@ -15751,6 +15759,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T134819Z" creationid="lenovo" creationdate="20200811T134819Z">
         <seg>为了说明一些在早期DITA任务主题中出现且仍然是标准组成部分的文步，请想一想&lt;t0/&gt;第一&lt;t1/&gt;章&lt;t2/&gt; &lt;t3/&gt;(&lt;t4/&gt;图&lt;t5/&gt;2.1&lt;t6/&gt;)的意式番茄罗勒酱菜谱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To keep the inevitably verbose nature of&lt;t2/&gt; a tabular environment in XML, XDITA uses the &lt;t3/&gt;&lt;simpletable&gt; &lt;t4/&gt;format instead of the more elaborate CALS table.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T151528Z" creationid="lenovo" creationdate="20200821T151528Z">
+        <seg>考虑到XML中表格环境不可避免的冗长特性，XDITA使用&lt;t3/&gt;&lt;simpletable&gt; &lt;t4/&gt;格式，而不是更精细的CALS表。</seg>
       </tuv>
     </tu>
     <tu>
