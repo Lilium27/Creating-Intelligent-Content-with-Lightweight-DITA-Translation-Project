@@ -2707,8 +2707,8 @@
       <tuv lang="en">
         <seg>Although the benefits of a well-planned and implemented intel&lt;t9/&gt;ligent content workflow built on XML or DITA are undeniable, this type of solution presents significant challenges that have repercussions in the academic and workplace facets of the profession.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130734Z" creationid="DSS" creationdate="20200726T140905Z">
-        <seg>虽然基于 XML 或 DITA 的智能内容工作流经过精心规划、部署带来的好处不可否认，但这种解决方案也带来了重大挑战，对该领域的学术研究和职场工作都产生了影响。&lt;t9/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T160158Z" creationid="DSS" creationdate="20200726T140905Z">
+        <seg>虽然精心规划和部署的 XML 或 DITA 智能内容工作流的优势不可否认，但这种解决方案也带来了重大挑战，对该领域的学术研究和职场工作都产生了影响。&lt;t9/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6370,8 +6370,8 @@
       <tuv lang="en">
         <seg>Furthermore, blogs and social media postings from content professionals create and maintain an active online community of dis&lt;t0/&gt;cussion and recommendations.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130734Z" creationid="DSS" creationdate="20200726T140951Z">
-        <seg>此外，内容专家的博文和社交媒体帖子创建并维持了一个活跃的在线讨论推荐社区。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T160426Z" creationid="DSS" creationdate="20200726T140951Z">
+        <seg>此外，内容专家的博文和社交媒体帖子也创建了一个在线讨论社区，一直以来都非常活跃。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12161,8 +12161,8 @@
       <tuv lang="en">
         <seg>Technical communication consultants and practitioners frequently report on success stories and challenge narratives from implementing and managing XML-based content projects in conferences like DITA/Content Management Strategies and LavaCon.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140942Z" creationid="DSS" creationdate="20200726T140942Z">
-        <seg>在 DITA 和内容管理策略、LavaCon 这样的会议上，技术传播顾问和从业者经常发表关于实现和管理基于 XML 的内容项目的演讲，探讨成功案例和遇到的挑战。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T160255Z" creationid="DSS" creationdate="20200726T140942Z">
+        <seg>在 DITA 和内容管理策略、LavaCon 这样的会议上，技术传播顾问和从业者经常发表关于实现和管理基于 XML 的内容项目的演讲，探讨成功的案例和遭遇的挑战。</seg>
       </tuv>
     </tu>
     <tu>
