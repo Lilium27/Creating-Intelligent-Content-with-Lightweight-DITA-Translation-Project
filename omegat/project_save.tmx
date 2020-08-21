@@ -13403,6 +13403,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The line breaks inside the &lt;t4/&gt;&lt;pre&gt; &lt;t5/&gt;tags appear as the author wrote them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T134039Z" creationid="lenovo" creationdate="20200821T134039Z">
+        <seg>&lt;t4/&gt;&lt;pre&gt; &lt;t5/&gt;标签中出现的换行符是作者编写的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The link requires the &lt;t3/&gt;@id &lt;t4/&gt;of the topic (preceded by a &lt;t5/&gt;# &lt;t6/&gt;character) and the &lt;t7/&gt;@id &lt;t8/&gt;of the footnote element (preceded by a &lt;t9/&gt;/ &lt;t10/&gt;character).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T135902Z" creationid="lenovo" creationdate="20200819T135902Z">
