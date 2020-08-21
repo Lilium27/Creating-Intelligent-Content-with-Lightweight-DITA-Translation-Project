@@ -1923,8 +1923,8 @@
       <tuv lang="en">
         <seg>&lt;t9/&gt;In academia, scholars have praised Extensible Markup Language (XML) as the foundation for information reuse, single sourcing, and, particularly, content management for more than a dec&lt;t10/&gt;ade.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130730Z" creationid="DSS" creationdate="20200723T160444Z">
-        <seg>&lt;t9/&gt;&lt;t10/&gt;在学术界，学者们一直赞誉可扩展标记语言（Extensible Markup Language，XML）是一个多世纪以来信息重用、同源开发、特别是内容管理的基础。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T155451Z" creationid="DSS" creationdate="20200723T160444Z">
+        <seg>&lt;t9/&gt;&lt;t10/&gt;在学术界，学者们一直赞誉可扩展标记语言（Extensible Markup Language，XML）是一个多世纪以来信息复用、同源开发、特别是内容管理的基础。</seg>
       </tuv>
     </tu>
     <tu>
