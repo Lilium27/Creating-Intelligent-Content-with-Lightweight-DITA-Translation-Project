@@ -779,8 +779,8 @@
       <tuv lang="en">
         <seg>&lt;t13/&gt;It is also behind the predetermined content types (e.g. concept, task, and reference) in the DITA standard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130844Z" creationid="lenovo" creationdate="20200805T013613Z">
-        <seg>DITA标准中预定的内容类型(例如概念、任务和参考)的背后也同样是这种痴迷。&lt;t13/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T152353Z" creationid="lenovo" creationdate="20200805T013613Z">
+        <seg>DITA标准中预定的内容类型（例如概念、任务和参考）的背后也同样是这种痴迷。&lt;t13/&gt;</seg>
       </tuv>
     </tu>
     <tu>
