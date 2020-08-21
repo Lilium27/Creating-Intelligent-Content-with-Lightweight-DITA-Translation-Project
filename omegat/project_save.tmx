@@ -1105,6 +1105,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t3/&gt;As its name implies, simple table is “simpler” than the CALS model and contains the following components:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T150222Z" creationid="lenovo" creationdate="20200821T150222Z">
+        <seg>&lt;t3/&gt;顾名思义，简单表比CALS模型“更简单”，包含以下组件：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t3/&gt;At another point, the book was going to be a guide for incorporating principles of computational thinking in technical writing courses aimed at students of computer science.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T142801Z" creationid="DSS" creationdate="20200818T140329Z">
@@ -5807,6 +5815,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Figure 6.50&lt;t0/&gt; shows a preview of the simple table environment in Oxygen's &lt;t1/&gt;author&lt;t2/&gt; mode.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T150805Z" creationid="lenovo" creationdate="20200821T150805Z">
+        <seg>图 6.50&lt;t0/&gt;显示了在Oxygen的&lt;t1/&gt;作者&lt;t2/&gt;模式下简单表环境的预览。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Figure 6.5&lt;t0/&gt; shows the &lt;t1/&gt;franchise.intro.md&lt;t2/&gt; topic with an assigned &lt;t3/&gt;@id &lt;t4/&gt;of &lt;t5/&gt;sensei- &lt;t6/&gt;intro&lt;t7/&gt; &lt;t8/&gt;that would override the &lt;t9/&gt;@id &lt;t10/&gt;generated with the file's name.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T135906Z" creationid="DSS" creationdate="20200816T134439Z">
@@ -5892,6 +5908,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T152443Z" creationid="lenovo" creationdate="20200819T152443Z">
         <seg>Figure &lt;t0/&gt;6.42&lt;t1/&gt; &lt;t2/&gt;显示了Oxygen XML &lt;t3/&gt;作者&lt;t4/&gt;模式下预格式化文本的预览。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;t0/&gt;6.49&lt;t1/&gt; &lt;t2/&gt;includes a simple table that presents the ingredients and quanti&lt;t3/&gt;ties needed to prepare the “Fancy Roll” &lt;t4/&gt;一 &lt;t5/&gt;a signature &lt;t6/&gt;Sensei Sushi&lt;t7/&gt; product.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T150646Z" creationid="lenovo" creationdate="20200821T150646Z">
+        <seg>图 &lt;t0/&gt;6.49&lt;t1/&gt; &lt;t2/&gt;包含一个简单的表，表中包含了制作“Fancy Roll” &lt;t4/&gt;——&lt;t5/&gt;&lt;t6/&gt;唤醒寿司&lt;t7/&gt; 的招牌产品所需的原料和数量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7750,6 +7774,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T135850Z" creationid="lenovo" creationdate="20200821T135850Z">
         <seg>在HDITA中，节组件也可用标记 &lt;t1/&gt;&lt;section&gt;&lt;t2/&gt;表示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In HDITA, you should represent the components of a LwDITA table with the following HTML5 elements:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T150849Z" creationid="lenovo" creationdate="20200821T150849Z">
+        <seg>在HDITA中，应该用以下HTML5元素表示LwDITA表的组件：</seg>
       </tuv>
     </tu>
     <tu>
@@ -11942,6 +11974,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Table (&lt;t0/&gt;&lt;table&gt;&lt;t1/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T150855Z" creationid="lenovo" creationdate="20200821T150855Z">
+        <seg>表 (&lt;t0/&gt;&lt;table&gt;&lt;t1/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Table &lt;t3/&gt;1 &lt;t4/&gt;shows a list of “weak verbs” and “roundabout expression” compared to “strong, precise verbs” and “concise terms” from the “Write directly and eco&lt;t5/&gt;nomically” recommendation under the requirement of “Clarity.”</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130924Z" creationid="lenovo" creationdate="20200810T165205Z">
@@ -11966,6 +12006,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Table entry (&lt;t0/&gt;&lt;stentry&gt; &lt;t1/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T150310Z" creationid="lenovo" creationdate="20200821T150310Z">
+        <seg>表项目 (&lt;t0/&gt;&lt;stentry&gt; &lt;t1/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Table entry&lt;t0/&gt;: a single cell within a table.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T133044Z" creationid="DSS" creationdate="20200804T133044Z">
@@ -11974,10 +12022,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Table header (&lt;t0/&gt;&lt;sthead&gt; &lt;t1/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T150245Z" creationid="lenovo" creationdate="20200821T150245Z">
+        <seg>表头 (&lt;t0/&gt;&lt;sthead&gt; &lt;t1/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Table header&lt;t0/&gt;: an optional single heading row at the beginning of a table.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T133023Z" creationid="DSS" creationdate="20200804T133023Z">
         <seg>表头&lt;t0/&gt;：表格头部的可选单行标题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Table row (&lt;t0/&gt;&lt;strow&gt; &lt;t1/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T150301Z" creationid="lenovo" creationdate="20200821T150301Z">
+        <seg>表行 (&lt;t0/&gt;&lt;strow&gt; &lt;t1/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16775,6 +16839,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>entry (&lt;t0/&gt;&lt;td&gt; &lt;t1/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T150947Z" creationid="lenovo" creationdate="20200821T150947Z">
+        <seg>条目 (&lt;t0/&gt;&lt;td&gt; &lt;t1/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>environment for casual content contributors.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T145945Z" creationid="lenovo" creationdate="20200821T145945Z">
@@ -16803,6 +16875,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T141006Z" creationid="lenovo" creationdate="20200819T140816Z">
         <seg>“提示”、“警告”、“危险”、“问题”、“提示”或“注释”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>header (&lt;t0/&gt;&lt;th&gt; &lt;t1/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T150906Z" creationid="lenovo" creationdate="20200821T150906Z">
+        <seg>表头 (&lt;t0/&gt;&lt;th&gt; &lt;t1/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16931,6 +17011,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T115938Z" creationid="DSS" creationdate="20200806T115938Z">
         <seg>层级和关系。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>row (&lt;t0/&gt;&lt;tr&gt; &lt;t1/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T150914Z" creationid="lenovo" creationdate="20200821T150914Z">
+        <seg>行 (&lt;t0/&gt;&lt;tr&gt; &lt;t1/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
