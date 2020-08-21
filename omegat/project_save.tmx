@@ -7650,6 +7650,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In HDITA, the section component is also represented with the tag &lt;t1/&gt;&lt;section&gt;&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T135850Z" creationid="lenovo" creationdate="20200821T135850Z">
+        <seg>在HDITA中，节组件也可用标记 &lt;t1/&gt;&lt;section&gt;&lt;t2/&gt;表示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In HTML5, a cross-reference is represented with a combination of the anchor (&lt;t0/&gt;&lt;a&gt;&lt;t1/&gt;) element and the hyper reference (&lt;t2/&gt;@href&lt;t3/&gt;) attribute.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T151303Z" creationid="lenovo" creationdate="20200817T143932Z">
