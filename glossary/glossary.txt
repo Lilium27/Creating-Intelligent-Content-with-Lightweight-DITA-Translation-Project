@@ -297,7 +297,6 @@ procedural writing	程式化写作
 delivery of instruction	教案
 computer manual	计算机手册
 practitioner	从业者
-Adobe Technical Communication Suite (TCS)	Adobe 技术传播套件（TCS）
 Rebekka Andersen	瑞贝卡·安德森
 Andersen	安德森
 Rockley	罗克利
@@ -494,3 +493,4 @@ Svenvold	斯文沃尔德
 Jimmy Buffett	吉米.巴菲特
 units shipped	出货量
 Theodor Adorno	狄奥多·阿多诺
+Adobe Technical Communication Suite (TCS)	Adobe 技术传播软件（TCS）
