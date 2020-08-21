@@ -6362,8 +6362,8 @@
       <tuv lang="en">
         <seg>Gone are the days when the manual was binding the academic and practitioner camps of technical com&lt;t1/&gt;munication as they worked towards the advancement of this common genre.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130818Z" creationid="lenovo" creationdate="20200723T082040Z">
-        <seg>以往技术传播领域的学术人士和从业者携手推动手册这一通用体裁的发展，进而两者绑定在一起，然而这样的日子已经一去不复返了。&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T144309Z" creationid="lenovo" creationdate="20200723T082040Z">
+        <seg>以往技术传播领域的学者和从业者携手推动手册这一通用体裁的发展，进而两者绑定在一起，然而这样的日子已经一去不复返了。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8980,8 +8980,8 @@
       <tuv lang="en">
         <seg>It was a warm day in May when I interviewed John Carroll at his office on the Penn State campus, and he looked more like a Jimmy Buffett concertgoer than the patron saint of technical communicators.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T094625Z" creationid="lenovo" creationdate="20200723T093438Z">
-        <seg>五月温暖和煦的一天，我在在约翰·卡罗尔位于宾州州立大学校园的办公室里采访了他，他看上去更像是一个参加吉米.巴菲特音乐会的观众，而非技术传播的守护神。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T144605Z" creationid="lenovo" creationdate="20200723T093438Z">
+        <seg>五月温暖和煦的一天，我在在约翰·卡罗尔位于宾州州立大学校园的办公室里采访了他，他看上去更像是一个参加吉米.巴菲特（Jimmy Buffett）音乐会的观众，而非技术传播的守护神。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12153,8 +12153,8 @@
       <tuv lang="en">
         <seg>That same colleague would also point out examples of inde&lt;t4/&gt;pendent software companies that still produce lengthy user manuals.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130819Z" creationid="lenovo" creationdate="20200723T090636Z">
-        <seg>这批同时还会指出一些实例，证明现在仍有独立的软件公司会制作篇幅冗长的用户手册。&lt;t4/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T144323Z" creationid="lenovo" creationdate="20200723T090636Z">
+        <seg>这批同事还会指出一些实例，证明现在仍有独立的软件公司会制作篇幅冗长的用户手册。&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
