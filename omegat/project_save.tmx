@@ -1059,8 +1059,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;10).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144330Z" creationid="DSS" creationdate="20200726T155100Z">
-        <seg>&lt;t3/&gt;10页）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T162957Z" creationid="DSS" creationdate="20200726T155100Z">
+        <seg>&lt;t3/&gt;10)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1539,8 +1539,8 @@
       <tuv lang="en">
         <seg>&lt;t5/&gt;At the OASIS DITA Technical Committee, the standard continually evolves with the purpose “to define and maintain the Darwin Information Typing Architecture (DITA) and to promote the use of the architecture for creating standard information types and domain-specific markup vocabularies” (OASIS Darwin Information Typing Architecture TC, n.d.).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144236Z" creationid="DSS" creationdate="20200726T154906Z">
-        <seg>&lt;t5/&gt;在 OASIS DITA 技术委员会的推进下，DITA 不断发展，OASIS 致力于“定义和维护达尔文信息类型体系结构（DITA），并提倡使用该体系结构创建标准信息类型和特定领域的标记词汇表”。（OASIS DITA技术委员会，未注明日期）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T162702Z" creationid="DSS" creationdate="20200726T154906Z">
+        <seg>&lt;t5/&gt;在 OASIS DITA 技术委员会的推进下，DITA 不断发展，OASIS 致力于“定义和维护达尔文信息类型体系结构（DITA），并提倡使用该体系结构创建标准信息类型和特定领域的标记词汇表”。(OASIS Darwin Information Typing Architecture TC, n.d.)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2435,8 +2435,8 @@
       <tuv lang="en">
         <seg>Additionally, from a perspective addressing the needs of managers and supervisors, Hackos presents a list of DITA's business advantages, which sug&lt;t0/&gt;gest that the standard will (promote) the reuse of information quickly and easily across multiple deliverables, reduce the cost of maintaining and updating information, enable continuous publishing, share information across the global enterprise, reduce the cost of localization, and reduce the technical debt caused by inadequate, incorrect, and unusable legacy information (Hackos, &lt;t1/&gt;2011, &lt;t2/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130753Z" creationid="DSS" creationdate="20200726T155045Z">
-        <seg>此外，从解决部门经理、主管的需求来看， 哈克斯列出了 DITA 的商业优势, 这表明，DITA 将简明迅速地促进信息跨交付物重用能力，降低维护和更新信息的成本，实现不间断出版，在全球企业内共享信息，降低本地化的成本,并减少由错误、不够完善、无法使用的遗留信息引起的技术债务。 （哈克斯，&lt;t0/&gt;&lt;t1/&gt;2011年，&lt;t2/&gt;第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T162849Z" creationid="DSS" creationdate="20200726T155045Z">
+        <seg>此外，从解决部门经理、主管的需求来看， 哈克斯列出了 DITA 的商业优势，这表明，DITA 将简明迅速地促进信息跨交付物复用能力，降低维护和更新信息的成本，实现不间断出版，在全球企业内共享信息，降低本地化的成本，并减少由错误、不够完善、无法使用的遗留信息引起的技术债务。 (Hackos, &lt;t1/&gt;2011, &lt;t2/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17675,24 +17675,24 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;A community of developers investing in improvements to the DITA model &lt;t1/&gt;• &lt;t2/&gt;An open source toolkit you can use to produce your own output in multiple media without having to invest in proprietary tools</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T082454Z" creationid="DSS" creationdate="20200726T154952Z">
-        <seg>• &lt;t0/&gt;整个社区的开发者都致力于提升 DITA 模型；&lt;t1/&gt;• &lt;t2/&gt;DITA 是一个开源工具包，可以使用它生成多种媒体文件，而无需购买于特有工具</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T162731Z" creationid="DSS" creationdate="20200726T154952Z">
+        <seg>• &lt;t0/&gt;整个社区的开发者都致力于提升 DITA 模型；&lt;t1/&gt;• &lt;t2/&gt;DITA 是一个开源工具包，可以使用它生成多种媒体文件，无需购买特有工具</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>• &lt;t0/&gt;A fully tested DTD or schema for XML-based authoring</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T155030Z" creationid="DSS" creationdate="20200726T154940Z">
-        <seg>&lt;t0/&gt;DITA是一种经过充分检验的用于 XML 创作的 DTD 或模式</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T162717Z" creationid="DSS" creationdate="20200726T154940Z">
+        <seg>&lt;t0/&gt;DITA 是一种经过充分检验的用于 XML 创作的 DTD 或模式</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>• &lt;t0/&gt;A thoroughly developed approach to information development originat&lt;t1/&gt;ing with OASIS and now encompassing many other companies, large and small, that find value in a standards-based approach &lt;t2/&gt;(2011, &lt;t3/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130751Z" creationid="DSS" creationdate="20200726T155002Z">
-        <seg>• &lt;t0/&gt;&lt;t1/&gt;DITA 是一种深入发展的信息开发方法，起源于 OASIS，使用于大大小小各种公司，这些公司发现了 DITA 的价值 &lt;t2/&gt;（2011年，&lt;t3/&gt;第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T162804Z" creationid="DSS" creationdate="20200726T155002Z">
+        <seg>• &lt;t0/&gt;&lt;t1/&gt;DITA 是一种深入发展的信息开发方法，起源于 OASIS，使用于大大小小各种公司，这些公司发掘了 DITA 的价值 &lt;t2/&gt;（2011年，&lt;t3/&gt;第</seg>
       </tuv>
     </tu>
     <tu>
