@@ -6752,6 +6752,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, the section's title should be included in an HTML heading 2 (&lt;t3/&gt;&lt;h2&gt;&lt;t4/&gt;) element.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T140047Z" creationid="lenovo" creationdate="20200821T140047Z">
+        <seg>但是，该节的标题应该包含在HTML二级标题 (&lt;t3/&gt;&lt;h2&gt;&lt;t4/&gt;)元素中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, the subcommittee did not find a champion to continue the &lt;t3/&gt;work on JSON, and the proposed standard continued with three initial authoring formats: XDITA, HDITA, and MDITA.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T160556Z" creationid="DSS" creationdate="20200803T095855Z">
@@ -7332,6 +7340,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T090400Z" creationid="DSS" creationdate="20200817T090400Z">
         <seg>如果相比 LwDITA 的历史，你对工作流和内容写作的建议更感兴趣，那么本章详细描述了结构化信息标准推进组织里的 DITA 技术委员会和轻量级 DITA 小组委员会中的每位成员都做了什么，包括许多不为人知的细节。评价。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you are working in MDITA, you should use a Markdown heading 2 to create a content division similar to a section in XDITA and HDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T140141Z" creationid="lenovo" creationdate="20200821T140141Z">
+        <seg>如果您使用的是MDITA，那么应该使用Markdown二级标题创建一个类似于XDITA和HDITA中节的内容分区。</seg>
       </tuv>
     </tu>
     <tu>
