@@ -843,8 +843,8 @@
       <tuv lang="en">
         <seg>&lt;t2/&gt;116).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T142859Z" creationid="DSS" creationdate="20200723T160301Z">
-        <seg>&lt;t2/&gt;116页）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T155024Z" creationid="DSS" creationdate="20200723T160301Z">
+        <seg>&lt;t2/&gt;116)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1115,8 +1115,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;Andersen adds that this type of con&lt;t4/&gt;tent supported by topic-based information design “has been given various names, including intelligent content, nimble content, smart content, portable content, and future-ready content.” Rockley, Cooper, and Abel describe intel&lt;t5/&gt;ligent content as “designed to be modular, structured, reusable, format free, and semantically rich and, as a consequence, discoverable, reconfigurable, and adaptable” (Rockley et al., &lt;t6/&gt;2015, &lt;t7/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130728Z" creationid="DSS" creationdate="20200723T160314Z">
-        <seg>&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;安德森补充说，这种基于主题信息设计的内容类型 “已经有了各种叫法，包括智慧内容、敏捷内容、智能内容、可移植内容和面向未来的内容。”罗克利（Rockley）、库珀（Cooper）和亚伯（Abel）认为智能内容是“甫一设计就是模块化、结构化、可重用、格式自由、语义丰富的，因此它们也具备可发现、可重构和可修改的特质”(Rockley et al., &lt;t6/&gt;2015, &lt;t7/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T155327Z" creationid="DSS" creationdate="20200723T160314Z">
+        <seg>&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;安德森补充说，这种基于主题进行信息设计的内容类型 “已经有了各种叫法，包括智慧内容、敏捷内容、智能内容、可移植内容和面向未来的内容。”罗克利（Rockley）、库珀（Cooper）和亚伯（Abel）认为智能内容是“自设计之初就拥有模块化、结构化、可复用、格式自由、语义丰富的特点，因此它们也具备可发现、可重构和可修改的性质”(Rockley et al., &lt;t6/&gt;2015, &lt;t7/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3187,8 +3187,8 @@
       <tuv lang="en">
         <seg>As a pair of rapidly animated hands assembles Lego pieces (&lt;t4/&gt;Figure &lt;t5/&gt;1.1&lt;t6/&gt;), &lt;t7/&gt;the video's narrator describes that “for some, (the future of technical</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T155412Z" creationid="DSS" creationdate="20200723T155412Z">
-        <seg>视频播放到一双快速活动的手组装乐高积木的画面时（&lt;t4/&gt;图 &lt;t5/&gt;1.1&lt;t6/&gt;）， &lt;t7/&gt;响起了旁白:“对于某些人来说（技术</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T154906Z" creationid="DSS" creationdate="20200723T155412Z">
+        <seg>视频播放到一双手正快速活动组装乐高积木的画面时（&lt;t4/&gt;图 &lt;t5/&gt;1.1&lt;t6/&gt;）， &lt;t7/&gt;响起了旁白:“对于某些人来说（技术</seg>
       </tuv>
     </tu>
     <tu>
@@ -14701,8 +14701,8 @@
       <tuv lang="en">
         <seg>The “future” of technical communication described in the Adobe video focuses on what Rebekka Andersen describes as “structured content that is highly adaptable and portable and can be configured on the fly in response to specific user requests” &lt;t0/&gt;(2014, &lt;t1/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200723T160348Z" creationid="DSS" creationdate="20200723T160253Z">
-        <seg>Adobe 视频中所描述的技术传播的“未来”关注的是瑞贝卡·安德森（Rebekka Andersen）所描述的“具有高度适应性和可移植性，并且可以根据用户的具体要求随时进行配置的结构化内容” &lt;t0/&gt;（2014年， &lt;t1/&gt;第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T155012Z" creationid="DSS" creationdate="20200723T160253Z">
+        <seg>Adobe 视频中所描述的技术传播的“未来”关注的重点是瑞贝卡·安德森（Rebekka Andersen）所描述的“具有高度适应性和可移植性，并且可以根据用户的具体要求随时进行配置的结构化内容” &lt;t0/&gt;&lt;t0/&gt;(2014, &lt;t1/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15213,8 +15213,8 @@
       <tuv lang="en">
         <seg>This &lt;t2/&gt;specific frame displays the future of our profession as “more and more&lt;t3/&gt; structured content and the ability to work faster and smarter with XML and DITA constructs.”</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T142849Z" creationid="DSS" creationdate="20200724T121417Z">
-        <seg>这一帧&lt;t2/&gt;画面显示着行业的未来所在，即“越来越结构化的内容，以及更快、更智能地&lt;t3/&gt; 使用 XML 和 DITA 结构的能力”。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T154942Z" creationid="DSS" creationdate="20200724T121417Z">
+        <seg>这一帧&lt;t2/&gt;画面昭示着行业的未来所在，即“越来越结构化的内容，以及更快、更智能地&lt;t3/&gt; 使用 XML 和 DITA 结构的能力”。</seg>
       </tuv>
     </tu>
     <tu>
