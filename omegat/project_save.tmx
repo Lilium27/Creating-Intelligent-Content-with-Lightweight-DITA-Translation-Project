@@ -1777,6 +1777,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t8/&gt;Figure 6.48&lt;t9/&gt; shows how a level-two &lt;t10/&gt;atx&lt;t11/&gt; heading can create a section in an MDITA topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T140637Z" creationid="lenovo" creationdate="20200821T140637Z">
+        <seg>&lt;t8/&gt;图 6.48&lt;t9/&gt;展示了二级标题 &lt;t10/&gt;atx&lt;t11/&gt;如何在MDITA主题中创建节。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t8/&gt;Gu &lt;t9/&gt;&amp; &lt;t10/&gt;Pullman presented that scenario in &lt;t11/&gt;2009, &lt;t12/&gt;and technical writing jobs have not become assembly-line positions (at least not yet).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160351Z" creationid="DSS" creationdate="20200810T131924Z">
@@ -5358,6 +5366,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE 6.45 &lt;t0/&gt;Preformatted text in MDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T141811Z" creationid="lenovo" creationdate="20200821T141811Z">
+        <seg>图 6.45 &lt;t0/&gt;MDITA中的预格式化文本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE 6.5 &lt;t0/&gt;Sample MDITA extended profile topic with an assigned &lt;t1/&gt;@id &lt;t2/&gt;in a&lt;t3/&gt; YAML header.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T135936Z" creationid="DSS" creationdate="20200816T134542Z">
@@ -7372,6 +7388,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T145145Z" creationid="DSS" creationdate="20200810T145145Z">
         <seg>如果你学会了如何用递归对数字排序，那么当你思考该如何铺厨房的地板时，你也知道该怎么使用递归吗？”(Guzdial, &lt;t3/&gt;2016, &lt;t4/&gt;p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you need to make a direct link to a specific section inside an MDITA topic, the &lt;t0/&gt;@id &lt;t1/&gt;attribute for the section will be automatically generated as a slug.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T141705Z" creationid="lenovo" creationdate="20200821T141705Z">
+        <seg>如果需要直接链接到MDITA主题中的特定部分，则该部分的&lt;t0/&gt;@id &lt;t1/&gt;属性将自动生成为一个slug。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16507,6 +16531,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T042914Z" creationid="DSS" creationdate="20200817T042914Z">
         <seg>你可以没有接触过 XML 或 HTML 的标签而选择使用 MDITA，使用 MDITA 也是在使用 LwDITA。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can represent the heading 2 with an &lt;t0/&gt;atx&lt;t1/&gt; (&lt;t2/&gt;##&lt;t3/&gt;) or &lt;t4/&gt;setext&lt;t5/&gt; (with underline from the character &lt;t6/&gt;-&lt;t7/&gt;) header.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T140401Z" creationid="lenovo" creationdate="20200821T140401Z">
+        <seg>可以使用&lt;t0/&gt;atx&lt;t1/&gt; (&lt;t2/&gt;##&lt;t3/&gt;)或&lt;t4/&gt;setext&lt;t5/&gt; (带有下划线的字符&lt;t6/&gt;-&lt;t7/&gt;) 来表示二级标题。</seg>
       </tuv>
     </tu>
     <tu>
