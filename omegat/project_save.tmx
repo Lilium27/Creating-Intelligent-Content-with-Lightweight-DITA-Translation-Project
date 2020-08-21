@@ -10742,8 +10742,8 @@
       <tuv lang="en">
         <seg>Pedro could buy a software package to structure his recipes and create an online cookbook; however, in a previous stage of his career he was involved in a marketing project that depended on a commercial application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153835Z" creationid="DSS" creationdate="20200726T153835Z">
-        <seg>佩德罗可以购买一个软件包来结构化菜谱、创建一个在线菜谱网页；但是在他职业生涯前期，他参与了一个依赖商业软件的营销项目。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T162100Z" creationid="DSS" creationdate="20200726T153835Z">
+        <seg>佩德罗可以购买一个软件包编写结构化菜谱、创建在线菜谱网页；但是在他职业生涯前期，他参与了一个依赖于商业软件的营销项目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15407,6 +15407,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130856Z" creationid="lenovo" creationdate="20200808T072311Z">
         <seg>这就有点类似于小说开头的“引子”；如果读者注意力没有被立即吸引，他就很可能会转换到其他一系列事务上，并且任何知识都有没学到。&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This kind of data tagging and manipulation that XML allows is at the heart of intelligent content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T162256Z" creationid="DSS" creationdate="20200821T162256Z">
+        <seg>XML 标记和操作数据的功能是创建智能内容的核心。</seg>
       </tuv>
     </tu>
     <tu>
