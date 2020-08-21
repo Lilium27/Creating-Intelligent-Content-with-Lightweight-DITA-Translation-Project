@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(Priestley, personal communication, &lt;t0/&gt;2017, &lt;t1/&gt;November &lt;t2/&gt;21)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T145138Z" creationid="DSS" creationdate="20200821T145138Z">
+        <seg>(Priestley, personal communication, &lt;t0/&gt;2017, &lt;t1/&gt;November &lt;t2/&gt;21)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(Priestley, quoted in Etheridge, &lt;t0/&gt;2016)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150749Z" creationid="DSS" creationdate="20200726T083909Z">
@@ -2979,8 +2987,8 @@
       <tuv lang="en">
         <seg>And when you go to practitioner events, you don't see professors.”</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200802T081736Z" creationid="lenovo" creationdate="20200802T081736Z">
-        <seg>而当你去从业者举办的活动，你也看不到教授出席。”</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T144926Z" creationid="lenovo" creationdate="20200802T081736Z">
+        <seg>而当你去参加业者举办的活动，你也看不到教授出席。”</seg>
       </tuv>
     </tu>
     <tu>
@@ -6514,8 +6522,8 @@
       <tuv lang="en">
         <seg>He described that as a problem of scaling: when there were a handful of important tech companies, their research and develop&lt;t0/&gt;ment departments could work closely with academics, and those partnerships were reciprocal.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130826Z" creationid="lenovo" creationdate="20200802T080451Z">
-        <seg>他将其描述成规模问题：当只存在少数几件重要的科技公司，并且其研发部门能够与学界密切合作时，他们之间存在互惠互利的关系。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T144843Z" creationid="lenovo" creationdate="20200802T080451Z">
+        <seg>他将其描述成规模问题：当只存在少数几家重要的科技公司，并且其研发部门能够与学界密切合作时，他们之间存在互惠互利的关系。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9020,8 +9028,8 @@
       <tuv lang="en">
         <seg>It wasn't until we went public with DITA and people started challenging those choices that I went back and tried to understand where they came from.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T004956Z" creationid="lenovo" creationdate="20200804T004956Z">
-        <seg>直到DITA面试，人们才开始质疑这些选择，而在此之前我早已追根溯源并尝试去理解它们的发展历程。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T145017Z" creationid="lenovo" creationdate="20200804T004956Z">
+        <seg>直到DITA面市，人们才开始质疑这些选择，而在此之前我早已追根溯源并尝试去理解它们的发展历程。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10902,8 +10910,8 @@
       <tuv lang="en">
         <seg>Professors would benefit from knowledge applied in their courses and research projects, and practitioners operated under the idea that professors had something important to tell.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200802T081300Z" creationid="lenovo" creationdate="20200802T080635Z">
-        <seg>教授能从运用于课程和研究项目中的知识中获益，而从业者依从专家专长的构想展开业务</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T144902Z" creationid="lenovo" creationdate="20200802T080635Z">
+        <seg>教授能从运用于课程和研究项目中的知识中获益，而从业者依从专家专长的构想展开业务。</seg>
       </tuv>
     </tu>
     <tu>
