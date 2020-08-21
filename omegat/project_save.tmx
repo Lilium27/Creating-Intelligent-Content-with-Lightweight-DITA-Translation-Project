@@ -779,8 +779,8 @@
       <tuv lang="en">
         <seg>&lt;t14/&gt;156) &lt;t15/&gt;and argued that “technical communicators should be able to write, edit, and manage XML documentation, including XML tags, &lt;t16/&gt;document type definitions (DTDs), XML schemas, and Darwin Information Typing Architecture (DITA)” (Gesteland McShane, &lt;t17/&gt;2009, &lt;t18/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T122758Z" creationid="DSS" creationdate="20200723T161903Z">
-        <seg>&lt;t14/&gt;156页）&lt;t15/&gt;，并认为“技术传播工程师应该具备编写、编辑和管理XML文档的能力，这包括 XML 标记，&lt;t16/&gt;文档类型定义（DTD）,，XML 体系结构和 DITA”（杰斯特兰德·麦柯肖恩，&lt;t17/&gt;2009年， &lt;t18/&gt;第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T155539Z" creationid="DSS" creationdate="20200723T161903Z">
+        <seg>&lt;t14/&gt;156页）&lt;t15/&gt;，并认为“技术传播工程师应该具备编写、校订和管理XML文档的能力，这包括 XML 标记，&lt;t16/&gt;文档类型定义（DTD），XML 体系结构和 DITA”（杰斯特兰德·麦柯肖恩，&lt;t17/&gt;2009年， &lt;t18/&gt;第</seg>
       </tuv>
     </tu>
     <tu>
@@ -1923,8 +1923,8 @@
       <tuv lang="en">
         <seg>&lt;t9/&gt;In academia, scholars have praised Extensible Markup Language (XML) as the foundation for information reuse, single sourcing, and, particularly, content management for more than a dec&lt;t10/&gt;ade.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T155451Z" creationid="DSS" creationdate="20200723T160444Z">
-        <seg>&lt;t9/&gt;&lt;t10/&gt;在学术界，学者们一直赞誉可扩展标记语言（Extensible Markup Language，XML）是一个多世纪以来信息复用、同源开发、特别是内容管理的基础。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T155651Z" creationid="DSS" creationdate="20200723T160444Z">
+        <seg>&lt;t9/&gt;&lt;t10/&gt;在学术界，学者们一直赞誉可扩展标记语言（Extensible Markup Language，XML）是一个多世纪以来信息复用、同源开发等技术的基础，尤其是内容管理技术的基础。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9228,8 +9228,8 @@
       <tuv lang="en">
         <seg>James's tweet started a discussion about the many topics covered in courses and programs in technical communication.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140455Z" creationid="DSS" creationdate="20200726T140424Z">
-        <seg>詹姆斯的推文引发了一场关于技术传播课程和项目中涉及的众多话题的讨论。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T155801Z" creationid="DSS" creationdate="20200726T140424Z">
+        <seg>詹姆斯的推文引发了一场讨论，涉及技术传播课程和项目中的众多话题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10438,8 +10438,8 @@
       <tuv lang="en">
         <seg>On the contrary, scholars in the field have expanded the work of technical communication into domains and scenarios like healthcare, policy-making, and social justice, among others, that were closed to writing researchers in the recent past.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140403Z" creationid="DSS" creationdate="20200726T140403Z">
-        <seg>相反，技术传播界的学者已经将技术传播的工作扩展到如医疗保健、政策制定和社会正义等领域，其中不乏近年来首次对写作研究者开放的领域。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T155723Z" creationid="DSS" creationdate="20200726T140403Z">
+        <seg>相反，技术传播界的学者已经将技术传播的工作扩展到如医疗保健、政策制定和社会正义维护等领域，其中不乏近年来首次对写作研究者开放的领域。</seg>
       </tuv>
     </tu>
     <tu>
