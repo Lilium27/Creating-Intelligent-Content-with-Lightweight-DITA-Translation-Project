@@ -5687,6 +5687,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Figure 6.45&lt;t0/&gt; includes an MDITA topic with the &lt;t1/&gt;Sensei Sushi&lt;t2/&gt; promise prefor&lt;t3/&gt;matted via the indented code blocks method.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T132719Z" creationid="lenovo" creationdate="20200821T132719Z">
+        <seg>图 6.45&lt;t0/&gt; 包含一个MDITA主题，通过缩进代码块方法预格式化了 &lt;t1/&gt;唤醒寿司&lt;t2/&gt; 的承诺。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Figure 6.5&lt;t0/&gt; shows the &lt;t1/&gt;franchise.intro.md&lt;t2/&gt; topic with an assigned &lt;t3/&gt;@id &lt;t4/&gt;of &lt;t5/&gt;sensei- &lt;t6/&gt;intro&lt;t7/&gt; &lt;t8/&gt;that would override the &lt;t9/&gt;@id &lt;t10/&gt;generated with the file's name.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T135906Z" creationid="DSS" creationdate="20200816T134439Z">
