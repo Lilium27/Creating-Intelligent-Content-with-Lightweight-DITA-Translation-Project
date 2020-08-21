@@ -5334,6 +5334,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE 6.42 &lt;t0/&gt;Preview of an XDITA topic with a preformatted text environment in&lt;t1/&gt; Oxygen XML's &lt;t2/&gt;author&lt;t3/&gt; mode.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T133742Z" creationid="lenovo" creationdate="20200821T133742Z">
+        <seg>图 6.42 &lt;t0/&gt;使用&lt;t1/&gt; Oxygen XML的&lt;t2/&gt;作者&lt;t3/&gt;模式预格式化文本环境预览XDITA主题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE 6.5 &lt;t0/&gt;Sample MDITA extended profile topic with an assigned &lt;t1/&gt;@id &lt;t2/&gt;in a&lt;t3/&gt; YAML header.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T135936Z" creationid="DSS" creationdate="20200816T134542Z">
