@@ -787,8 +787,8 @@
       <tuv lang="en">
         <seg>&lt;t14/&gt;42).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143802Z" creationid="DSS" creationdate="20200726T153241Z">
-        <seg>&lt;t14/&gt;42页）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T161120Z" creationid="DSS" creationdate="20200726T153241Z">
+        <seg>&lt;t14/&gt;42)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -803,8 +803,8 @@
       <tuv lang="en">
         <seg>&lt;t15/&gt;Content in XML, for example, can be tagged as a product name, a procedure, a works cited entry, or any other part of a technical or professional document.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143817Z" creationid="DSS" creationdate="20200726T153251Z">
-        <seg>&lt;t15/&gt;例如，XML中 的内容可以标记为一个产品名称、一个步骤、一个作品引用条目，或技术或专业文档的任何一部分。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T161153Z" creationid="DSS" creationdate="20200726T153251Z">
+        <seg>&lt;t15/&gt;例如，XML 中的内容可以标记为一个产品名称、一个步骤、一个作品引用条目，或技术或专业文档的任何一部分。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10244,8 +10244,8 @@
       <tuv lang="en">
         <seg>New documents need not be written for each purpose, and one single change can be reflected accu&lt;t16/&gt;rately across all the information materials produced by a given company.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130736Z" creationid="DSS" creationdate="20200726T153330Z">
-        <seg>如今，不需要为每一个任务都编写新的文件，一个简单的改动就可以在公司产出的所有信息材料中得到精确体现。&lt;t16/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T161335Z" creationid="DSS" creationdate="20200726T153330Z">
+        <seg>如今，不需要为每一个任务都编写新的文件，一个简单的改动就可以精确地修改公司产出的所有信息材料。&lt;t16/&gt;</seg>
       </tuv>
     </tu>
     <tu>
