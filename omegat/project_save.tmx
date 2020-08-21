@@ -2483,8 +2483,8 @@
       <tuv lang="en">
         <seg>Adoption numbers and success stories should not hide that the evolution of intelligent content takes place on a slightly rocky path; even in practitioner circles, there is pushback and criticism against XML and its relationship with technical communication.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T155219Z" creationid="DSS" creationdate="20200726T141148Z">
-        <seg>使用 DITA 的用户数量和成功案例也无法掩饰智能内容的发展是在一条略崎岖的道路上进行的。甚至在从业者的圈子内，也存在对XML及其与技术传播的关系的反对声和批评声。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T160630Z" creationid="DSS" creationdate="20200726T141148Z">
+        <seg>尽管使用 DITA 的用户数量和成功案例都不在少数，也无法掩饰这样一个事实：智能内容的发展是在一条略崎岖的道路上进行的。甚至在从业者的圈子内，也存在对 XML 及其与技术传播的关系的反对声和批评声。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3267,8 +3267,8 @@
       <tuv lang="en">
         <seg>As of summer &lt;t2/&gt;2018, &lt;t3/&gt;the list included &lt;t4/&gt;724 &lt;t5/&gt;companies, excluding consulting and training firms (DITAWriter, n.d.).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143326Z" creationid="DSS" creationdate="20200726T141044Z">
-        <seg>截至&lt;t2/&gt;2018&lt;t3/&gt;年夏季，除咨询和培训公司外，该名单包括&lt;t4/&gt;724&lt;t5/&gt;家公司 （DITAWriter，未注明日期）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T160501Z" creationid="DSS" creationdate="20200726T141044Z">
+        <seg>截至&lt;t2/&gt;2018&lt;t3/&gt;年夏季，除咨询和培训公司外，该名单包括&lt;t4/&gt;724&lt;t5/&gt;家公司 (DITAWriter, n.d.)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6154,8 +6154,8 @@
       <tuv lang="en">
         <seg>For exam&lt;t1/&gt;ple, the website “DITA Writer” maintains a list of companies using DITA based on reports from social media channels.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130735Z" creationid="DSS" creationdate="20200726T141042Z">
-        <seg>例如，网站 DITA Writer 根据社交媒体统计的报告，维护了一份使用 DITA 的公司名单。&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T160446Z" creationid="DSS" creationdate="20200726T141042Z">
+        <seg>例如，网站 DITA Writer 根据社交媒体统计的报告，列出了一份使用 DITA 的公司名单。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9380,8 +9380,8 @@
       <tuv lang="en">
         <seg>Languages that drop features that aren't used, or aren't used often.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T152824Z" creationid="DSS" creationdate="20200726T152824Z">
-        <seg>摒弃完全步用或不常用特性的语言。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T160727Z" creationid="DSS" creationdate="20200726T152824Z">
+        <seg>摒弃完全不用或不常用特性的语言。</seg>
       </tuv>
     </tu>
     <tu>
