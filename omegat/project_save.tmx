@@ -1611,8 +1611,8 @@
       <tuv lang="en">
         <seg>&lt;t6/&gt;A casualty in the manual's demise, one could argue, was the main line of research that connected prac&lt;t7/&gt;titioners and academics in technical communication.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130815Z" creationid="lenovo" creationdate="20200722T031615Z">
-        <seg>&lt;t6/&gt;&lt;t7/&gt;可能有人会说，技术传播领域中将实践者和学者联系起来这一研究的主线随手册的消亡而被废弃。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T142726Z" creationid="lenovo" creationdate="20200722T031615Z">
+        <seg>&lt;t6/&gt;&lt;t7/&gt;可能有人会说，技术传播领域中将从业者和学者联系起来这一研究的主线随手册的消亡而被废弃。</seg>
       </tuv>
     </tu>
     <tu>
