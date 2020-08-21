@@ -9916,8 +9916,8 @@
       <tuv lang="en">
         <seg>Michael Priestley claims that the DITA content types of concept, task, and reference are an implementation of Carroll's idea behind the minimal manual.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T072328Z" creationid="lenovo" creationdate="20200804T072328Z">
-        <seg>迈克尔·普里斯特利称DITA中概念、任务和参考这三种内容类型其实是卡罗尔理念的实际应用，同样也是极简手册背后的理念。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T151530Z" creationid="lenovo" creationdate="20200804T072328Z">
+        <seg>迈克尔·普里斯特利称DITA中概念（concept）、任务（task）和参考（reference）这三种内容类型其实是卡罗尔理念的实际应用，同样也是极简手册背后的理念。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12297,8 +12297,8 @@
       <tuv lang="en">
         <seg>That same author could, with some tweaking of XML schemas or with help from an information architect, adapt the task topic to make the “fixed pattern or template” mentioned by Johnson into something that works for them.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T075532Z" creationid="lenovo" creationdate="20200804T075532Z">
-        <seg>同一作者可以对XML模式进行一些调整，或者在信息架构师的帮助下，调整任务主题，使得约翰逊提到的“固定的模式会模板”能够转换成对他们行之有效的形式。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T151715Z" creationid="lenovo" creationdate="20200804T075532Z">
+        <seg>同时创作者也可以对XML模式进行一些调整，或者在信息架构师的帮助下，调整任务主题，使得约翰逊提到的“固定的模式或模板”能够转换成对他们行之有效的形式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13412,8 +13412,8 @@
       <tuv lang="en">
         <seg>The fixed content types that have been a part of DITA XML since its origins at IBM have always been open to evolution: an author can write, for example, a task topic with the default elements and attributes included in the DITA stand&lt;t0/&gt;ard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130842Z" creationid="lenovo" creationdate="20200804T074920Z">
-        <seg>固定的内容类型一直是DITA XML的一部分，从IBM创建以来就一直拥抱进化：作者可以利用包含在DITA标准中的默认的元素和属性来写作，比如说撰写任务主题。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T151639Z" creationid="lenovo" creationdate="20200804T074920Z">
+        <seg>固定的内容类型一直是DITA XML的一部分，从IBM创建以来就一直在发展：创作者可以利用包含在DITA标准中的默认元素和属性来写作，比如说撰写任务主题。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
