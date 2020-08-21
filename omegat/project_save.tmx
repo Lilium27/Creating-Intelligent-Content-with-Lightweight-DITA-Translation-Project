@@ -937,6 +937,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t2/&gt;Figure 6.46&lt;t3/&gt; shows the “Terms and conditions” section in XDITA, where the section's title is provided by a &lt;t4/&gt;&lt;title&gt; &lt;t5/&gt;tag immediately placed after the opening &lt;t6/&gt;&lt;section&gt; &lt;t7/&gt;tag.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T133309Z" creationid="lenovo" creationdate="20200821T133309Z">
+        <seg>图6.46显示了XDITA中的“条款和条件”部分，紧跟在开始的&lt;section&gt;标记之后的&lt;title&gt;标记标注了标题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t2/&gt;Figure &lt;t3/&gt;4.2&lt;t4/&gt; &lt;t5/&gt;shows a file that reproduces the list items from &lt;t6/&gt;Figure &lt;t7/&gt;4.1&lt;t8/&gt; &lt;t9/&gt;in valid HTML5 syntax.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T135443Z" creationid="lenovo" creationdate="20200813T135443Z">
@@ -4797,6 +4805,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Each section can contain its own title under the same parent topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T132944Z" creationid="lenovo" creationdate="20200821T132944Z">
+        <seg>每一节可以在同一父主题下包含自己的标题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Each term-description group consists of one or more terms (represented by &lt;dt&gt; elements), and one or more descriptions (represented by &lt;dd&gt; elements)” (W3C, &lt;t2/&gt;2017).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T151046Z" creationid="DSS" creationdate="20200816T155624Z">
@@ -8358,6 +8374,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T151025Z" creationid="DSS" creationdate="20200816T155500Z">
         <seg>在图&lt;t8/&gt;&lt;t9/&gt;6.17&lt;t10/&gt;&lt;t11/&gt;展示的示例中，厨师佩德罗及其团队使用了定义列表来描述关于&lt;t12/&gt; Sensei Sushi&lt;t13/&gt; 特许经营的术语。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this example, the legal team will add content to a section labeled “Terms and conditions” inside the franchise offer topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T133015Z" creationid="lenovo" creationdate="20200821T133015Z">
+        <seg>在本例中，法律团队将在特许经营要约主题内的“条款和条件”部分添加内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13951,6 +13975,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T154811Z" creationid="DSS" creationdate="20200806T090529Z">
         <seg>第二个话题引自对意式番茄罗勒酱菜谱的实际评价，它被构造成了DITA 概念（concept）话题，如图&lt;t0/&gt;&lt;t1/&gt;5.3&lt;t2/&gt;所示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The section (&lt;t0/&gt;&lt;section&gt;&lt;t1/&gt;) component gives authors a resource to create content separations inside a topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T132911Z" creationid="lenovo" creationdate="20200821T132911Z">
+        <seg>节(&lt;section&gt;)组件能让作者在同一主题中分隔不同内容。</seg>
       </tuv>
     </tu>
     <tu>
