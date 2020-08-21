@@ -5342,6 +5342,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE 6.43 &lt;t0/&gt;Preformatted text in HDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T134114Z" creationid="lenovo" creationdate="20200821T134114Z">
+        <seg>图 6.43 &lt;t0/&gt;HDITA中的预格式化文本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FIGURE 6.44 &lt;t0/&gt;Web browser view of the preformatted text example in HDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T134410Z" creationid="lenovo" creationdate="20200821T134410Z">
+        <seg>图 6.44 &lt;t0/&gt;HDITA中预格式化文本示例的Web浏览器视图。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE 6.5 &lt;t0/&gt;Sample MDITA extended profile topic with an assigned &lt;t1/&gt;@id &lt;t2/&gt;in a&lt;t3/&gt; YAML header.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T135936Z" creationid="DSS" creationdate="20200816T134542Z">
@@ -14143,6 +14159,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T115014Z" creationid="DSS" creationdate="20200803T115014Z">
         <seg>小组委员会的工作还受到一个独立发行的开源工具的影响，该工具可以将 Markdown 文件转换为 DITA 话题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The syntax is identical to its&lt;t1/&gt; counterpart in XDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T134313Z" creationid="lenovo" creationdate="20200821T134313Z">
+        <seg>其语法与XDITA中的&lt;t1/&gt;预格式化文本相同。</seg>
       </tuv>
     </tu>
     <tu>
