@@ -1299,8 +1299,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;Through an online introduction by Michael Priestley, I received the following reply from Carpenter:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T155627Z" creationid="lenovo" creationdate="20200804T065650Z">
-        <seg>&lt;t3/&gt;迈克尔·普里斯特利在线上介绍我和卡朋特认识，以下是我从他那里收到的回复：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T150541Z" creationid="lenovo" creationdate="20200804T065650Z">
+        <seg>&lt;t3/&gt;迈克尔·普里斯特利在线上介绍我和卡朋特认识，以下是我从她那里收到的回复：</seg>
       </tuv>
     </tu>
     <tu>
@@ -2067,8 +2067,8 @@
       <tuv lang="en">
         <seg>A few weeks after I interviewed John Carroll, the influential technical com&lt;t0/&gt;munication blogger Tom Johnson talked to him at the Society for Technical Communication Summit.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130840Z" creationid="lenovo" creationdate="20200804T071158Z">
-        <seg>在我采访约翰·卡罗尔的数周后，颇具影响力的技术传播博主汤姆•约翰逊（Tom Johnson）在技术交流协会峰会上与他进行了交谈。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T150616Z" creationid="lenovo" creationdate="20200804T071158Z">
+        <seg>在我采访约翰·卡罗尔的数周后，颇具影响力的技术传播博主汤姆•约翰逊（Tom Johnson）在技术传播协会峰会上与他进行了交谈。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3371,8 +3371,8 @@
       <tuv lang="en">
         <seg>At the same time, he said any system that traps you into a fixed pattern or template can be detrimental if the content doesn't fit that pattern or template.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T072032Z" creationid="lenovo" creationdate="20200804T072032Z">
-        <seg>与此同时，他也表示如果内容与模式模板不相适却还强制你使用那一套固定的模式或模板，这样的系统是有害的。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T150815Z" creationid="lenovo" creationdate="20200804T072032Z">
+        <seg>与此同时，他也表示如果内容与模式或模板不相适应，却还强制你使用那一套固定的模式或模板，这样的系统是有害的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3563,8 +3563,8 @@
       <tuv lang="en">
         <seg>Based on conversations with former and cur&lt;t0/&gt;rent IBM employees, I determined that the technical communicator could be &lt;t1/&gt;Susan Carpenter, who is now a senior manager of technical documentation at Red Hat and “led the first pilot of DITA with IBM WebSphere Application Server docs” (DITAWriter, &lt;t2/&gt;2016).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130835Z" creationid="lenovo" creationdate="20200804T065532Z">
-        <seg>根据与IBM前任和在职员工的交流，我认定那位技术传播工程师就是&lt;t0/&gt;&lt;t1/&gt;苏珊·卡朋特（Susan Carpenter），如今她是红帽公司技术文档部门的高级经理，并“曾用DITA撰写IBM公司WebSphere Application Server（WAS）的相关文档，引领了首次试点。” (DITAWriter, &lt;t2/&gt;2016).</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T150524Z" creationid="lenovo" creationdate="20200804T065532Z">
+        <seg>根据与IBM前任和在职员工的交流，我认定那位技术传播工程师就是&lt;t0/&gt;&lt;t1/&gt;苏珊·卡朋特（Susan Carpenter），如今她是红帽公司技术文档部门的高级经理，并“曾用DITA撰写IBM公司WebSphere Application Server（WAS）的相关文档，领导了首次试点。” (DITAWriter, &lt;t2/&gt;2016)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7002,8 +7002,8 @@
       <tuv lang="en">
         <seg>I had the opportunity to ask John Carroll what he thought of DITA, since many DITA people claim Carroll's minimalism as foundational to tech comm.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T071445Z" creationid="lenovo" creationdate="20200804T071445Z">
-        <seg>我有幸询问约翰·卡罗尔对DITA的看法，许多DITA拥护者都将卡罗尔的极简主义是做技术传播的基石。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T150634Z" creationid="lenovo" creationdate="20200804T071445Z">
+        <seg>我有幸询问约翰·卡罗尔对DITA的看法，许多DITA拥护者都将卡罗尔的极简主义看作是做技术传播的基石。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16032,8 +16032,8 @@
       <tuv lang="en">
         <seg>We stripped a lot of bloated material out of inventory as part of our conversion to DITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T070935Z" creationid="lenovo" creationdate="20200804T070935Z">
-        <seg>在向DITA转变的过程中我们从库存中抛弃了大量冗余的材料</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T150555Z" creationid="lenovo" creationdate="20200804T070935Z">
+        <seg>在向DITA转变的过程中我们从库存中抛弃了大量冗余的材料。</seg>
       </tuv>
     </tu>
     <tu>
