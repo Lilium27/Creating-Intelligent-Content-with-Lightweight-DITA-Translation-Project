@@ -1473,6 +1473,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t5/&gt;4) &lt;t6/&gt;in the use of a specific hardware or software system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T143646Z" creationid="DSS" creationdate="20200821T143558Z">
+        <seg>因为用户使用特定硬件或软件系统的能力水平不一 (p.&lt;t5/&gt;4) 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t5/&gt;40).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T145624Z" creationid="DSS" creationdate="20200810T145624Z">
@@ -3995,8 +4003,8 @@
       <tuv lang="en">
         <seg>Carroll's proposed approach was a commit&lt;t7/&gt;ment to “minimizing the obtrusiveness to the learner of training material &lt;t8/&gt;— &lt;t9/&gt;hence the term &lt;t10/&gt;minimalist&lt;t11/&gt;” (p.7, his emphasis).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T155221Z" creationid="lenovo" creationdate="20200723T074413Z">
-        <seg>Carroll建议的方法是&lt;t7/&gt;尽可能减少学习者与培训材料之间的障碍 &lt;t8/&gt;— &lt;t9/&gt;由此提出了&lt;t10/&gt;极简主义的概念&lt;t11/&gt;” (p.7, his emphasis).</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T143740Z" creationid="lenovo" creationdate="20200723T074413Z">
+        <seg>卡罗尔建议的方法是&lt;t7/&gt;尽可能减少学习者与培训材料之间的障碍 &lt;t8/&gt;— &lt;t9/&gt;由此提出了&lt;t10/&gt;极简主义的概念&lt;t11/&gt;” (p.7, his emphasis).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7844,8 +7852,8 @@
       <tuv lang="en">
         <seg>In Svenvold's account of the events, the manual was doomed when Carroll applied those principles of minimalism to the production of that specific genre of technical communication.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T093638Z" creationid="lenovo" creationdate="20200723T075643Z">
-        <seg>在Svenvold看来，卡罗尔将极简主义原理运用至技术传播这一特殊体裁的写作中，写出来的手册就注定是失败的。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T144048Z" creationid="lenovo" creationdate="20200723T075643Z">
+        <seg>在斯文沃尔德（Svenvold）看来，卡罗尔将极简主义原理运用至技术传播这一特殊体裁的写作中，写出来的手册就注定是失败的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14285,8 +14293,8 @@
       <tuv lang="en">
         <seg>The three key aspects of Carroll's mini&lt;t12/&gt;malist approach to instruction are the following:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T074515Z" creationid="lenovo" creationdate="20200723T074515Z">
-        <seg>Carroll的极简主义方法&lt;t12/&gt;有如下三个方面：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T143811Z" creationid="lenovo" creationdate="20200723T074515Z">
+        <seg>卡罗尔的极简主义方法&lt;t12/&gt;有如下三个方面：</seg>
       </tuv>
     </tu>
     <tu>
