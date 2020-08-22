@@ -3620,16 +3620,16 @@
       <tuv lang="en">
         <seg>Basic functions&lt;t0/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T023005Z" creationid="lenovo" creationdate="20200809T023005Z">
-        <seg>基本功能s&lt;t0/&gt;.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T161415Z" creationid="lenovo" creationdate="20200809T023005Z">
+        <seg>基本功能&lt;t0/&gt;：</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Basic requirements&lt;t0/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T161014Z" creationid="lenovo" creationdate="20200809T021727Z">
-        <seg>基本要求&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T161410Z" creationid="lenovo" creationdate="20200809T021727Z">
+        <seg>基本要求&lt;t0/&gt;：</seg>
       </tuv>
     </tu>
     <tu>
@@ -4423,8 +4423,8 @@
       <tuv lang="en">
         <seg>Creating the data base (sic)&lt;t0/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T024259Z" creationid="lenovo" creationdate="20200809T024259Z">
-        <seg>创建数据库&lt;t0/&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T161432Z" creationid="lenovo" creationdate="20200809T024259Z">
+        <seg>创建数据库&lt;t0/&gt;：</seg>
       </tuv>
     </tu>
     <tu>
@@ -4800,8 +4800,8 @@
       <tuv lang="en">
         <seg>Do not assume that a person reading these sections knows anything about the system” (1976, p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T024223Z" creationid="lenovo" creationdate="20200809T024223Z">
-        <seg>不要假定读这些章节的人对系统会有所了解。(1976, p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T161301Z" creationid="lenovo" creationdate="20200809T024223Z">
+        <seg>不要假定阅读这些章节的人对系统会有所了解。(1976, p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8901,8 +8901,8 @@
       <tuv lang="en">
         <seg>Introduction&lt;t0/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T160931Z" creationid="lenovo" creationdate="20200809T013919Z">
-        <seg>简介&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T161406Z" creationid="lenovo" creationdate="20200809T013919Z">
+        <seg>简介&lt;t0/&gt;：</seg>
       </tuv>
     </tu>
     <tu>
@@ -10807,8 +10807,8 @@
       <tuv lang="en">
         <seg>Preface &lt;t0/&gt;(“less than 1 page”).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200808T082318Z" creationid="lenovo" creationdate="20200808T082318Z">
-        <seg>前言 &lt;t0/&gt;(“不多于1页”).</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T161400Z" creationid="lenovo" creationdate="20200808T082318Z">
+        <seg>前言 &lt;t0/&gt;(“不多于1页”)：</seg>
       </tuv>
     </tu>
     <tu>
@@ -11023,8 +11023,8 @@
       <tuv lang="en">
         <seg>Processing and reporting&lt;t0/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T235127Z" creationid="lenovo" creationdate="20200809T235127Z">
-        <seg>处理和报告&lt;t0/&gt;.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T161314Z" creationid="lenovo" creationdate="20200809T235127Z">
+        <seg>处理和报告&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11561,8 +11561,8 @@
       <tuv lang="en">
         <seg>Should include “any information that the user needs to determine whether he can run the system in his installation or use it for his application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T161122Z" creationid="lenovo" creationdate="20200809T022717Z">
-        <seg>应当包括“所有用户所需的信息，用户可以利用这些信息确定自己是否能够在安装后运行系统或正常使用应用”</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T161251Z" creationid="lenovo" creationdate="20200809T022717Z">
+        <seg>应当包括“所有用户所需的信息，用户可以利用这些信息确定自己是否能够在安装后运行系统或正常使用应用”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15366,8 +15366,8 @@
       <tuv lang="en">
         <seg>This information may be moved to an appendix if it is more than 2—3 pages or is primarily technical in a manual that is intended for people with no programming experience” (1976, p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T022957Z" creationid="lenovo" creationdate="20200809T022957Z">
-        <seg>如果内容超过了2-3页或者对于目标人群是无编程经验的用户而言过于技术性，这些信息就会移至附录中。 (1976, p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T161155Z" creationid="lenovo" creationdate="20200809T022957Z">
+        <seg>如果内容超过了2-3页，或者对于无编程经验的目标用户而言过于技术性，这些信息就会移至附录中。 (1976, p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15494,8 +15494,8 @@
       <tuv lang="en">
         <seg>This section “introduces new users to the system.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T024007Z" creationid="lenovo" creationdate="20200809T024007Z">
-        <seg>“向新用户介绍系统</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T161223Z" creationid="lenovo" creationdate="20200809T024007Z">
+        <seg>“向新用户介绍系统，</seg>
       </tuv>
     </tu>
     <tu>
