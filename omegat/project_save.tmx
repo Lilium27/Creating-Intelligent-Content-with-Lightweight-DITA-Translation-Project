@@ -3628,8 +3628,8 @@
       <tuv lang="en">
         <seg>Basic requirements&lt;t0/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T021727Z" creationid="lenovo" creationdate="20200809T021727Z">
-        <seg>基本要求&lt;t0/&gt;.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T161014Z" creationid="lenovo" creationdate="20200809T021727Z">
+        <seg>基本要求&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8901,8 +8901,8 @@
       <tuv lang="en">
         <seg>Introduction&lt;t0/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T015151Z" creationid="lenovo" creationdate="20200809T013919Z">
-        <seg>简介&lt;t0/&gt;.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T160931Z" creationid="lenovo" creationdate="20200809T013919Z">
+        <seg>简介&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11561,8 +11561,8 @@
       <tuv lang="en">
         <seg>Should include “any information that the user needs to determine whether he can run the system in his installation or use it for his application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T022717Z" creationid="lenovo" creationdate="20200809T022717Z">
-        <seg>应当包括“所有用户所需的信息，用户能够利用这些信息确定自己能够在安装后运行系统或正常使用应用”</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T161122Z" creationid="lenovo" creationdate="20200809T022717Z">
+        <seg>应当包括“所有用户所需的信息，用户可以利用这些信息确定自己是否能够在安装后运行系统或正常使用应用”</seg>
       </tuv>
     </tu>
     <tu>
@@ -12779,8 +12779,8 @@
       <tuv lang="en">
         <seg>The Introduction should also note any documen&lt;t1/&gt;tation conventions used in the manual (all caps means that words should be coded exactly as printed, lower case describes a user entry point, braces rep&lt;t2/&gt;resent a mandatory choice, brackets represent optional parameters, etc.) Rigo added that if “the system does not function as described, users will quickly lose faith in the manual.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130857Z" creationid="lenovo" creationdate="20200809T021613Z">
-        <seg>简介同样应当注明手册中使用的文档惯例（全字母大写意味着该词应同印刷品采用相同的编码格式、小写代表用户入口、花括号代表必选项而方括号代表可选参数等。）里戈补充到，如果“系统没有按照描述的运行，用户很快就会对手册失去信任。”&lt;t1/&gt;&lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T161001Z" creationid="lenovo" creationdate="20200809T021613Z">
+        <seg>简介同样应当注明手册中使用的文档惯例（全字母大写意味着该词应同印刷品采用相同的编码格式，小写代表用户入口，花括号代表必选项而方括号代表可选参数等。）里戈补充到，如果“系统没有按照描述的运行，用户很快就会对手册失去信任。”&lt;t1/&gt;&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
