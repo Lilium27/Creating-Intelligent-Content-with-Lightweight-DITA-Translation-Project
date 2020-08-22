@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>9).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T161446Z" creationid="DSS" creationdate="20200822T161446Z">
+        <seg>9)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;alt&gt; &lt;t0/&gt;contains text.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T075126Z" creationid="DSS" creationdate="20200731T075126Z">
@@ -1105,6 +1113,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t3/&gt;9).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T161531Z" creationid="DSS" creationdate="20200822T161531Z">
+        <seg>&lt;t3/&gt;9)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t3/&gt;91).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150123Z" creationid="DSS" creationdate="20200725T144917Z">
@@ -1451,8 +1467,8 @@
       <tuv lang="en">
         <seg>&lt;t4/&gt;In Rigo's out&lt;t5/&gt;line, “each statement, command, option, parameter, or similar independent item” requires the name of the statement or command, a paragraph describing its function, a formal definition using the documentation conventions stated in the Introduction, examples of valid commands/statements, summary of rules, and additional examples as needed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130858Z" creationid="lenovo" creationdate="20200809T235345Z">
-        <seg>里戈的大纲中，“所有语句、命令、参数或类似的独立项”需要标明语句或命令的名称、一段介绍其功能的内容、使用简介中的文档惯例下正式定义、有效命令/语句的示例、规则的总结，以及需要的其他示例。&lt;t4/&gt;&lt;t5/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T161828Z" creationid="lenovo" creationdate="20200809T235345Z">
+        <seg>里戈的大纲中，“所有语句、命令、参数或类似的独立项”需要标明语句或命令的名称、一段功能介绍、基于简介中的文档惯例所确定的正式定义、有效命令或语句的示例、规则总结，以及需要的其他示例。&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11023,8 +11039,8 @@
       <tuv lang="en">
         <seg>Processing and reporting&lt;t0/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T161314Z" creationid="lenovo" creationdate="20200809T235127Z">
-        <seg>处理和报告&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T161439Z" creationid="lenovo" creationdate="20200809T235127Z">
+        <seg>处理和报告：&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11305,8 +11321,8 @@
       <tuv lang="en">
         <seg>Rigo closed this section stating that the “manual must then include a reference chart showing all command formats on a single page” &lt;t6/&gt;(1976, &lt;t7/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T000602Z" creationid="lenovo" creationdate="20200810T000602Z">
-        <seg>里戈在这一节的末尾称“手册必须包含一个在单个页面上显示所有命令格式的参考图表”&lt;t6/&gt;(1976, &lt;t7/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T161603Z" creationid="lenovo" creationdate="20200810T000602Z">
+        <seg>里戈在这一节的末尾称“手册必须包含一个单页面的上参考图表，展示所有命令格式”&lt;t6/&gt;(1976, &lt;t7/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
