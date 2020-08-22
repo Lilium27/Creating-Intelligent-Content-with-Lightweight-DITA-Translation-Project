@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>7).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T160505Z" creationid="DSS" creationdate="20200822T160505Z">
+        <seg>7)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>8).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T160230Z" creationid="DSS" creationdate="20200731T092002Z">
@@ -11537,8 +11545,8 @@
       <tuv lang="en">
         <seg>Should identify the system by name and state its purpose, intended audience (“by job title or profession”) or special training prerequisites, hardware and software requirements, “(c)opyright restrictions, address for questions and comments, list of other directly relevant publications, etc.” “None of these topics should extend beyond a single short paragraph.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T013825Z" creationid="lenovo" creationdate="20200808T120302Z">
-        <seg>应该做到靠名称就能识别系统、描述手册的目的及目标受众（“通过职称或职业”）或特殊的培训条件、软硬件要求，“版权限制、问答模块、直接相关出版物列表等。”“这些话题都至多在一短段中穷尽。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T160900Z" creationid="lenovo" creationdate="20200808T120302Z">
+        <seg>应该做到靠名称就能识别系统，描述手册的写作目的及目标受众（“通过职称或职业”）或特殊的培训条件、软硬件要求，“版权限制、问答模块、直接相关出版物列表等。”“这些话题都至多在一短段中就可以表达清楚。</seg>
       </tuv>
     </tu>
     <tu>
