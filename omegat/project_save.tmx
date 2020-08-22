@@ -8,8 +8,8 @@
       <tuv lang="en">
         <seg>' references is also helpful.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T002639Z" creationid="lenovo" creationdate="20200810T002639Z">
-        <seg>' 参考也十分有用。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T162222Z" creationid="lenovo" creationdate="20200810T002639Z">
+        <seg>参考也十分有用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11353,8 +11353,8 @@
       <tuv lang="en">
         <seg>Rigo's proposed sections and moves establish a clear pattern or schema for composing an example of the technical manual as a genre of technical com&lt;t0/&gt;munication.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130900Z" creationid="lenovo" creationdate="20200810T003413Z">
-        <seg>里戈建议的分节和文步构建了清晰的模式或者说是架构，能利用它来构成技术手册的范例以此作为技术传播的体裁。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T162236Z" creationid="lenovo" creationdate="20200810T003413Z">
+        <seg>里戈建议的分节和文步构建了清晰的模式或者说是架构，能利用它来构成技术手册的范例，并以此作为技术传播的体裁。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11977,8 +11977,8 @@
       <tuv lang="en">
         <seg>Supplemental&lt;t0/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T002520Z" creationid="lenovo" creationdate="20200810T002520Z">
-        <seg>补充材料&lt;t0/&gt;.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T162103Z" creationid="lenovo" creationdate="20200810T002520Z">
+        <seg>补充材料&lt;t0/&gt;：</seg>
       </tuv>
     </tu>
     <tu>
@@ -13267,8 +13267,8 @@
       <tuv lang="en">
         <seg>The conventions he identified had the purpose of keeping the document's contents in order and make it easier to access for a reader.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T003539Z" creationid="lenovo" creationdate="20200810T003539Z">
-        <seg>他界定惯例的目的是使文档保持有序并使得读者更易获得所需信息。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T162332Z" creationid="lenovo" creationdate="20200810T003539Z">
+        <seg>他界定惯例的目的是想要文档保持有序的结构，并使得读者更易获得所需信息。</seg>
       </tuv>
     </tu>
     <tu>
