@@ -1755,8 +1755,8 @@
       <tuv lang="en">
         <seg>&lt;t7/&gt;For a discourse community of technical communicators producing computer manuals before the dawn of minimalism in technical communication, those rhetorical conven&lt;t8/&gt;tions were documented and analyzed in computing-related publications &lt;t9/&gt;- &lt;t10/&gt;and those are the origins of LwDITA and intelligent content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130846Z" creationid="lenovo" creationdate="20200808T021917Z">
-        <seg>&lt;t7/&gt;&lt;t8/&gt;在极简主义进入技术传播领域前，在撰写计算机手册的技术传播工程师所组成的话语体系中，计算相关的出版物中记录并分析了这些修辞惯例&lt;t9/&gt;- &lt;t10/&gt;并且这些惯例成为了轻量级DITA的起源。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T155322Z" creationid="lenovo" creationdate="20200808T021917Z">
+        <seg>&lt;t7/&gt;&lt;t8/&gt;在极简主义进入技术传播领域前，在由撰写计算机手册的技术传播工程师所组成的话语体系中，计算机相关的出版物中记录并分析了这些修辞惯例&lt;t9/&gt;- &lt;t10/&gt;并且这些惯例成为了轻量级DITA的起源。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12907,8 +12907,8 @@
       <tuv lang="en">
         <seg>The October &lt;t0/&gt;1975 &lt;t1/&gt;edition of &lt;t2/&gt;Asterisk&lt;t3/&gt; (the “Systems Documentation Newsletter” from the Association for Computing Machinery) included a glimpse of a techni&lt;t4/&gt;cal manual's rhetorical conventions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130855Z" creationid="lenovo" creationdate="20200808T024955Z">
-        <seg>1975年 &lt;t0/&gt;10月 &lt;t1/&gt;版的 &lt;t2/&gt;Asterisk&lt;t3/&gt;&lt;t4/&gt; (计算机协会的“系统文档通讯”) 中就对修辞惯例做了简要的描述。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T155552Z" creationid="lenovo" creationdate="20200808T024955Z">
+        <seg>1975年 &lt;t0/&gt;10月 &lt;t1/&gt;版的 &lt;t2/&gt;Asterisk&lt;t3/&gt;&lt;t4/&gt; (计算机协会的“系统文档通讯简报”) 中就对修辞惯例做了简要的描述。</seg>
       </tuv>
     </tu>
     <tu>
