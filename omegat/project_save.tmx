@@ -10903,8 +10903,8 @@
       <tuv lang="en">
         <seg>Price's emphasis on task-orientation established some topical moves that still apply to tutorial/procedural content, with the overall recommendation of focusing on organization.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T014600Z" creationid="lenovo" creationdate="20200810T122541Z">
-        <seg>普莱斯强调任务导向，创建了一些主题文步，这些文步现仍可以用于教程型/流程型内容，并提出了关注组织架构的整体性建议。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034904Z" creationid="lenovo" creationdate="20200810T122541Z">
+        <seg>普莱斯强调任务导向，创建了一些主题文步，这些文步现仍可以用于教程型或流程型内容，并提出了关注组织架构的整体性建议。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11305,8 +11305,8 @@
       <tuv lang="en">
         <seg>Revise it.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T125909Z" creationid="lenovo" creationdate="20200810T125909Z">
-        <seg>修改</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034946Z" creationid="lenovo" creationdate="20200810T125909Z">
+        <seg>• 修改</seg>
       </tuv>
     </tu>
     <tu>
@@ -11465,8 +11465,8 @@
       <tuv lang="en">
         <seg>Separate what to do from what it means</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T130217Z" creationid="lenovo" creationdate="20200810T124935Z">
-        <seg>分离含义与步骤</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034921Z" creationid="lenovo" creationdate="20200810T124935Z">
+        <seg>• 分离含义与步骤</seg>
       </tuv>
     </tu>
     <tu>
@@ -12226,8 +12226,8 @@
       <tuv lang="en">
         <seg>Test it again</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T125850Z" creationid="lenovo" creationdate="20200810T125415Z">
-        <seg>再次验证</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034950Z" creationid="lenovo" creationdate="20200810T125415Z">
+        <seg>• 再次验证</seg>
       </tuv>
     </tu>
     <tu>
@@ -17698,6 +17698,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>•</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034924Z" creationid="DSS" creationdate="20200824T034924Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>• &lt;t0/&gt;A community of developers investing in improvements to the DITA model &lt;t1/&gt;• &lt;t2/&gt;An open source toolkit you can use to produce your own output in multiple media without having to invest in proprietary tools</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T162731Z" creationid="DSS" creationdate="20200726T154952Z">
@@ -17949,8 +17957,8 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;Put in pictures</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T125126Z" creationid="lenovo" creationdate="20200810T125126Z">
-        <seg>• &lt;t0/&gt;加入图片s</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034944Z" creationid="lenovo" creationdate="20200810T125126Z">
+        <seg>• &lt;t0/&gt;加入图片</seg>
       </tuv>
     </tu>
     <tu>
@@ -18013,8 +18021,8 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;Tell people where to go next (Price, &lt;t1/&gt;1984).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T125931Z" creationid="lenovo" creationdate="20200810T125931Z">
-        <seg>• &lt;t0/&gt;告知下一步 (Price, &lt;t1/&gt;1984).</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T035033Z" creationid="lenovo" creationdate="20200810T125931Z">
+        <seg>• &lt;t0/&gt;告知下一步 (Price, &lt;t1/&gt;1984)</seg>
       </tuv>
     </tu>
     <tu>
