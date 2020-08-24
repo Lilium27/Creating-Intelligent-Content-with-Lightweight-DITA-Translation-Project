@@ -2740,8 +2740,8 @@
       <tuv lang="en">
         <seg>Although the recommendations from Cohen and Cunningham were focused on a manual that was to be presented as a book, they predicted an era “when advanced technology will enable us to use on-line documentation exclusively” &lt;t0/&gt;(1984, &lt;t1/&gt;p.146).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T070325Z" creationid="lenovo" creationdate="20200810T070325Z">
-        <seg>尽管柯亨和坎宁安的建议集中于以书册形式呈现的手册上，但他们预测到了“先进技术将使得所有文档在线化”的时代 &lt;t0/&gt;(1984, &lt;t1/&gt;p.146).</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T030859Z" creationid="lenovo" creationdate="20200810T070325Z">
+        <seg>尽管柯亨和坎宁安的建议集中于以书册形式呈现的手册上，但他们预测到了“先进技术将使得所有文档在线化”的时代 &lt;t0/&gt;(1984, &lt;t1/&gt;p.146)，</seg>
       </tuv>
     </tu>
     <tu>
@@ -6043,8 +6043,8 @@
       <tuv lang="en">
         <seg>Focusing on a different genre of technical writing, Carolyn Miller and Jack Selzer analyzed the structure and argumentation elements of technical reports by detailing their rhetorical conventions, or topical basis of discourse.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T072714Z" creationid="lenovo" creationdate="20200810T072714Z">
-        <seg>卡洛琳·米勒（Carolyn Miller）和杰克·瑟尔泽（Jack Selzer）以技术写作的不同体裁作为研究重点，通过详细分析其修辞惯例或话语主题基础，分析了技术报告的结构和论证要素。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T031005Z" creationid="lenovo" creationdate="20200810T072714Z">
+        <seg>卡洛琳·米勒（Carolyn Miller）和杰克·瑟尔泽（Jack Selzer）以技术写作的不同体裁作为研究重点，通过仔细研究其修辞惯例或话语主题基础，分析了技术报告的结构和论证要素。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17917,8 +17917,8 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;Presenting the Troubleshooting Table (Cohen &lt;t1/&gt;&amp; &lt;t2/&gt;Cunningham, &lt;t3/&gt;1984).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T070111Z" creationid="lenovo" creationdate="20200810T070111Z">
-        <seg>• &lt;t0/&gt;显示故障排除表 (Cohen &lt;t1/&gt;&amp; &lt;t2/&gt;Cunningham, &lt;t3/&gt;1984).</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T030838Z" creationid="lenovo" creationdate="20200810T070111Z">
+        <seg>• &lt;t0/&gt;显示故障排除表 (Cohen &lt;t1/&gt;&amp; &lt;t2/&gt;Cunningham, &lt;t3/&gt;1984)</seg>
       </tuv>
     </tu>
     <tu>
