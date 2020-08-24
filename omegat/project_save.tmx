@@ -13115,8 +13115,8 @@
       <tuv lang="en">
         <seg>The authors did not present them as, say, the official rhetorical conventions for manuals at IBM. Jonathan Price, however, did move beyond the generic conventions and crossed into the organizational or institutional type of topical convention in his &lt;t8/&gt;1984 &lt;t9/&gt;book &lt;t10/&gt;How to Write a Computer Manual: A Handbook of Software Documentation&lt;t11/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T031216Z" creationid="lenovo" creationdate="20200810T073345Z">
-        <seg>作者并没有把它们作为，比如说，IBM手册的官方修辞惯例。乔纳森·普莱斯（Jonathan Price）1984年出版的《如何编写计算机手册：软件文档手册》的确从通用惯例的基础上往前迈了一步，开创了组织机构型主题惯例。&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T032942Z" creationid="lenovo" creationdate="20200810T073345Z">
+        <seg>作者并没有把它们作为，比如说，IBM手册的官方修辞惯例。乔纳森·普莱斯（Jonathan Price）1984年出版的《如何编写计算机手册：软件文档手册》的确从通用惯例的基础上往前迈了一步，开创了组织机构型话题惯例。&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15206,8 +15206,8 @@
       <tuv lang="en">
         <seg>They proposed three kinds of topics: “Those specific to a genre, those specific to an organization or institution, and those specific to a discipline” (Miller &lt;t0/&gt;&amp; &lt;t1/&gt;Selzer, &lt;t2/&gt;1985, &lt;t3/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T072843Z" creationid="lenovo" creationdate="20200810T072843Z">
-        <seg>他们提出了三种主题：“特定体裁、特定组织机构和特定学科” (Miller &lt;t0/&gt;&amp; &lt;t1/&gt;Selzer, &lt;t2/&gt;1985, &lt;t3/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T032910Z" creationid="lenovo" creationdate="20200810T072843Z">
+        <seg>他们提出了三种话题：“特定体裁、特定组织机构和特定学科” (Miller &lt;t0/&gt;&amp; &lt;t1/&gt;Selzer, &lt;t2/&gt;1985, &lt;t3/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
