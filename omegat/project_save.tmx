@@ -5153,8 +5153,8 @@
       <tuv lang="en">
         <seg>Evia's work is firmly situated in what is starting to be called the shift from the “craftsman model” of Technical Communication to the “Component Content Management model.” This shift has come about as a result of the ways that new technologies like XML DITA, single-source authoring environments, and Content Management Systems have changed the ways that technical writers deliver information to audiences (or what we would now call “users”).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T133846Z" creationid="DSS" creationdate="20200820T133846Z">
-        <seg>艾维亚的工作内容与技术传播领域的一场变革紧密捆绑，也就是如今所说的从 “工匠模型”转为“组件内容管理模型”的变革。这种变革是 XML DITA、同源开发环境和内容管理系统等新技术出现的结果，这些技术改变了技术写作工程师向受众（或者现在我们所说的“用户”）传递信息的方式。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T040036Z" creationid="DSS" creationdate="20200820T133846Z">
+        <seg>艾维亚的工作内容与技术传播领域的一场变革紧密捆绑，也就是如今所说的从 “工匠模型”转为“组件内容管理模型”的变革。这种变革是 XML DITA、同源开发环境和内容管理系统等新技术出现的结果，这些技术改变了技术文档工程师向受众（或者现在我们所说的“用户”）传递信息的方式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6171,8 +6171,8 @@
       <tuv lang="en">
         <seg>For exam&lt;t1/&gt;ple, Pedro can hire a technical writer to create recipe topics in XDITA (based on XML) while a marketing professional writes a description of the cookbook's features in HDITA (based on HTML5), and an engineer uses MDITA (based on Markdown) to create a reference for a specific command from the kitchen's laboratory.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T043030Z">
-        <seg>例如，佩德罗可以雇佣一个技术写作人员用 XDITA（基于 XML）创建菜谱主题，雇佣一个市场营销专员用 HDITA（基于 HTML5）编写菜谱特性简介，再雇佣一个工程师使用 MDITA（基于 Markdown）为厨房实验室的特殊命令创建一个引用主题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T040058Z" creationid="DSS" creationdate="20200817T043030Z">
+        <seg>例如，佩德罗可以雇佣一个技术文档工程师用 XDITA（基于 XML）创建菜谱主题，雇佣一个市场营销专员用 HDITA（基于 HTML5）编写菜谱特性简介，再雇佣一个工程师使用 MDITA（基于 Markdown）为厨房实验室的特殊命令创建一个引用主题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6523,8 +6523,8 @@
       <tuv lang="en">
         <seg>Gu &lt;t1/&gt;&amp; &lt;t2/&gt;Pullman hypothesized that “a systems-based approach to content management may very well result in a devaluing of technical writers and editors and reduce their roles to those of assembly workers, where they are concerned only with producing discrete information chunks” (Gu &lt;t3/&gt;&amp; &lt;t4/&gt;Pullman, &lt;t5/&gt;2009, &lt;t6/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160328Z" creationid="DSS" creationdate="20200810T131123Z">
-        <seg>古（Gu）&lt;t1/&gt;和&lt;t2/&gt;铂尔曼（Pullman）假设，“系统的内容管理方法可能会导致技术写作工程师和编辑的价值降低，使他们沦为和组装工人一样的角色，只需专注产出离散信息块” (Gu &lt;t3/&gt;&amp; &lt;t4/&gt;Pullman, &lt;t5/&gt;2009, &lt;t6/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T040201Z" creationid="DSS" creationdate="20200810T131123Z">
+        <seg>古（Gu）&lt;t1/&gt;和&lt;t2/&gt;铂尔曼（Pullman）假设，“系统的内容管理方法可能会导致技术文档工程师和编辑的价值降低，使他们沦为和组装工人一样的角色，只需专注产出离散信息块” (Gu &lt;t3/&gt;&amp; &lt;t4/&gt;Pullman, &lt;t5/&gt;2009, &lt;t6/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10879,8 +10879,8 @@
       <tuv lang="en">
         <seg>Price was a senior technical writer at Apple, and described the book as related to organizational practices,</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T073724Z" creationid="lenovo" creationdate="20200810T073724Z">
-        <seg>普莱斯是苹果公司的高级技术作家，他说这本书与组织实践有关，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T040108Z" creationid="lenovo" creationdate="20200810T073724Z">
+        <seg>普莱斯是苹果公司的高级技术文档工程师，他说这本书与组织实践有关，</seg>
       </tuv>
     </tu>
     <tu>
@@ -12073,8 +12073,8 @@
       <tuv lang="en">
         <seg>Table &lt;t3/&gt;1 &lt;t4/&gt;shows a list of “weak verbs” and “roundabout expression” compared to “strong, precise verbs” and “concise terms” from the “Write directly and eco&lt;t5/&gt;nomically” recommendation under the requirement of “Clarity.”</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130924Z" creationid="lenovo" creationdate="20200810T165205Z">
-        <seg>表格 &lt;t3/&gt;1 &lt;t4/&gt;&lt;t5/&gt;是一个“弱动词”和和“迂回表达”的列表，与之形成对比的是“明确性”要求下的“直接而经济地写作”所使用的“强而精确的动词”和“简洁的术语。”</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T040314Z" creationid="lenovo" creationdate="20200810T165205Z">
+        <seg>表格 &lt;t3/&gt;1 &lt;t4/&gt;&lt;t5/&gt;是一个“弱动词”和“迂回表达”的列表，与之形成对比的是“明确性”要求下的“直接而简练地写作”所使用的“强而精确的动词”和“简洁的术语。”</seg>
       </tuv>
     </tu>
     <tu>
@@ -12210,8 +12210,8 @@
       <tuv lang="en">
         <seg>Technical writers with some XML experience</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T030015Z" creationid="lenovo" creationdate="20200813T030015Z">
-        <seg>有一些XML经验的技术作者</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T040144Z" creationid="lenovo" creationdate="20200813T030015Z">
+        <seg>有一些XML经验的技术文档工程师</seg>
       </tuv>
     </tu>
     <tu>
@@ -16369,8 +16369,8 @@
       <tuv lang="en">
         <seg>When writing software manuals, technical writers have historically distin&lt;t0/&gt;guished task-based instructions (guidance information) from reference information.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130938Z" creationid="lenovo" creationdate="20200811T094246Z">
-        <seg>在编写软件手册时，技术作者历来将基于任务的指令(指导信息)与参考信息区分开来。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T040131Z" creationid="lenovo" creationdate="20200811T094246Z">
+        <seg>在编写软件手册时，技术文档工程师历来将基于任务的指令(指导信息)与参考信息区分开来。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
