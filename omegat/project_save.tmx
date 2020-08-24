@@ -2460,8 +2460,8 @@
       <tuv lang="en">
         <seg>Adding to the conversation about turning characteristics into elements or conventions, Carey et al.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T030902Z" creationid="lenovo" creationdate="20200811T030902Z">
-        <seg>凯里（Carey）等人还谈到了如何将特征转化为元素或惯例</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T042345Z" creationid="lenovo" creationdate="20200811T030902Z">
+        <seg>凯里（Carey）等人还谈到了如何将特征转化为元素或惯例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4390,8 +4390,8 @@
       <tuv lang="en">
         <seg>Concreteness</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T030631Z" creationid="lenovo" creationdate="20200811T030631Z">
-        <seg>具体</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T042207Z" creationid="lenovo" creationdate="20200811T030631Z">
+        <seg>具体性</seg>
       </tuv>
     </tu>
     <tu>
@@ -5025,8 +5025,8 @@
       <tuv lang="en">
         <seg>Easy to use</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T030410Z" creationid="lenovo" creationdate="20200811T030410Z">
-        <seg>易用</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T042217Z" creationid="lenovo" creationdate="20200811T030410Z">
+        <seg>易用性</seg>
       </tuv>
     </tu>
     <tu>
@@ -8613,8 +8613,8 @@
       <tuv lang="en">
         <seg>In their analysis of the characteris&lt;t2/&gt;tic of “Style,” under the category of “Easy to understand,” the co-authors of &lt;t3/&gt;DQTI&lt;t4/&gt; asked readers to “use consistent markup tagging.” A few of their specific recommendations for tagging elements focused on the generic, organiza&lt;t5/&gt;tional, and disciplinary implementation of the characteristics into elements: DITA XML.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130930Z" creationid="lenovo" creationdate="20200811T072037Z">
-        <seg>在分析“易于理解”这一分类下的“风格”特征时，&lt;t2/&gt;&lt;t3/&gt;DQTI&lt;t4/&gt;&lt;t5/&gt;的合著者要求读者“使用一致的标记标记。”他们对标记元素的一些具体建议集中于从通用的、组织的和规范三个层面将特征应用至元素上，即DITA XML中</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T042550Z" creationid="lenovo" creationdate="20200811T072037Z">
+        <seg>在分析“易于理解”这一分类下的“风格一致”特征时，&lt;t2/&gt;&lt;t3/&gt;DQTI&lt;t4/&gt;&lt;t5/&gt;的合著者要求读者“使用一致的标记标记。”他们对标记元素的一些具体建议集中于从通用、组织和规范三个层面将特征应用至元素上，即DITA XML中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10679,8 +10679,8 @@
       <tuv lang="en">
         <seg>Organization</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T161725Z" creationid="lenovo" creationdate="20200810T161725Z">
-        <seg>组织架构</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T042337Z" creationid="lenovo" creationdate="20200810T161725Z">
+        <seg>系统性</seg>
       </tuv>
     </tu>
     <tu>
@@ -11969,8 +11969,8 @@
       <tuv lang="en">
         <seg>Style.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T030655Z" creationid="lenovo" creationdate="20200811T030655Z">
-        <seg>风格</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T042159Z" creationid="lenovo" creationdate="20200811T030655Z">
+        <seg>风格一致</seg>
       </tuv>
     </tu>
     <tu>
@@ -17274,8 +17274,8 @@
       <tuv lang="en">
         <seg>wrote the following on the 3rd edition of &lt;t0/&gt;DQTI&lt;t1/&gt;:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T030934Z" creationid="lenovo" creationdate="20200811T030934Z">
-        <seg>第三版&lt;t0/&gt;DQTI&lt;t1/&gt;还有如下内容：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T042420Z" creationid="lenovo" creationdate="20200811T030934Z">
+        <seg>第三版&lt;t0/&gt;DQTI&lt;t1/&gt;还包含如下内容：</seg>
       </tuv>
     </tu>
     <tu>
