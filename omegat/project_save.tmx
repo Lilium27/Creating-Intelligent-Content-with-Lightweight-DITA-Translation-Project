@@ -8613,8 +8613,8 @@
       <tuv lang="en">
         <seg>In the world of rhetoric that defines discourse in most academic programs teaching technical communication in the United States, a topic would actu&lt;t0/&gt;ally be one of those content units, and not necessarily the whole “DITA topic.” Confusing?</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130947Z" creationid="lenovo" creationdate="20200811T145729Z">
-        <seg>美国大多数教授技术传播的学术项目中，话语中充斥着修辞，主题实际上可能只是其中一个内容单元，并不一定就是整个“DITA主题。”是否感到困惑？&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T062717Z" creationid="lenovo" creationdate="20200811T145729Z">
+        <seg>在美国大多数教授技术传播的学术项目中，话语中充斥着修辞，主题实际上可能只是其中一个内容单元，并不一定就是整个“DITA主题。”对此，你是否感到困惑？&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10663,8 +10663,8 @@
       <tuv lang="en">
         <seg>Or are they?</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T150022Z" creationid="lenovo" creationdate="20200811T150022Z">
-        <seg>或者就是一样的？</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T062914Z" creationid="lenovo" creationdate="20200811T150022Z">
+        <seg>它们是一样的吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -12587,8 +12587,8 @@
       <tuv lang="en">
         <seg>The &lt;t7/&gt;top&lt;t8/&gt;ics&lt;t9/&gt; from the first book are not the same &lt;t10/&gt;topics&lt;t11/&gt; in the second book.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130950Z" creationid="lenovo" creationdate="20200811T145946Z">
-        <seg>第一本书中的&lt;t7/&gt;&lt;t8/&gt;主题&lt;t9/&gt;与第二本书中的&lt;t10/&gt;主题&lt;t11/&gt;不一样。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T062826Z" creationid="lenovo" creationdate="20200811T145946Z">
+        <seg>第一本书中对&lt;t7/&gt;&lt;t8/&gt;主题&lt;t9/&gt;的定义与第二本书中的&lt;t10/&gt;主题&lt;t11/&gt;不一样。</seg>
       </tuv>
     </tu>
     <tu>
