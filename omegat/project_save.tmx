@@ -6691,8 +6691,8 @@
       <tuv lang="en">
         <seg>He warned that creating online docu&lt;t2/&gt;mentation generated new demand for skills in the technical writer's repertoire, including learning an authoring language or, “if you don't find an authoring language you enjoy,” collaborating with a programmer.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130915Z" creationid="lenovo" creationdate="20200810T082020Z">
-        <seg>他也警示创建在线文档会对技术文档工程师产生新的技能需求，其中包括学习一门创作语言或者，“如果你没有找到一门满意的创作语言”，就得与程序员通力合作。&lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T031854Z" creationid="lenovo" creationdate="20200810T082020Z">
+        <seg>他也警示创建在线文档会对技术文档工程师产生新的技能需求，其中包括学习一门创作语言，或者“如果你没有找到一门满意的创作语言”，就得与程序员通力合作。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10871,8 +10871,8 @@
       <tuv lang="en">
         <seg>Price also included a whole chapter dedicated to “Creating Computer- Assisted Instruction.” When he compared online documentation to its printed version, he claimed that “people find them friendlier (At least it can be friendlier.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T081802Z" creationid="lenovo" creationdate="20200810T081802Z">
-        <seg>普莱斯书中还有一整章都在致力于“创建计算机辅助教学。”当他将在线文档和纸质文档进行比较时，他声称“人们发现在线文档更友好(至少它们可以变得更友好。”</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T031753Z" creationid="lenovo" creationdate="20200810T081802Z">
+        <seg>普莱斯书中还有一整章都在致力于“创建计算机辅助教学。”当他将在线文档和纸质文档进行比较时，他声称“人们发现在线文档更友好(至少它们可以变得更友好，</seg>
       </tuv>
     </tu>
     <tu>
@@ -10911,8 +10911,8 @@
       <tuv lang="en">
         <seg>Price's separation of a manual's text into content types estab&lt;t0/&gt;lishes a distinction between tutorial (“offers step-by-step training focused on a particular activity”) and reference (“offers procedures that users can apply in many different circumstances”) writing conventions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130914Z" creationid="lenovo" creationdate="20200810T080802Z">
-        <seg>普莱斯将手册的文本划分成不同的内容类型，在教程型（“针对特定活动提供逐步培训”）和参考型（“提供用户多个不同场景下采用的流程”）写作惯例间做了区分&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T031732Z" creationid="lenovo" creationdate="20200810T080802Z">
+        <seg>普莱斯将手册的文本划分成不同的内容类型，在教程型（“针对特定活动提供逐步培训”）和参考型（“提供用户多个不同场景下采用的流程”）写作惯例间做了区分。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12427,8 +12427,8 @@
       <tuv lang="en">
         <seg>That's up to you)” (Price, &lt;t0/&gt;1984, &lt;t1/&gt;p.100).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T081832Z" creationid="lenovo" creationdate="20200810T081832Z">
-        <seg>它的效用取决于你)” (Price, &lt;t0/&gt;1984, &lt;t1/&gt;p.100).</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T031748Z" creationid="lenovo" creationdate="20200810T081832Z">
+        <seg>它的效用取决于你)” (Price, &lt;t0/&gt;1984, &lt;t1/&gt;p.100)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15462,8 +15462,8 @@
       <tuv lang="en">
         <seg>This move also planted the seed for disciplinary conventions, as topic-based authoring for online deliverable replaced the long print format of documentation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T121217Z" creationid="lenovo" creationdate="20200810T120851Z">
-        <seg>随着基于主题的在线可交付内容创作取代了长期存在的纸质文档，这一步骤也为规范性惯例埋下伏笔。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T032012Z" creationid="lenovo" creationdate="20200810T120851Z">
+        <seg>随着基于主题的在线可交付内容创作取代了长期存在的纸质文档，这也为规范性惯例埋下伏笔。</seg>
       </tuv>
     </tu>
     <tu>
