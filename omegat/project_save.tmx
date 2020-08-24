@@ -1121,6 +1121,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t3/&gt;5).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T041719Z" creationid="DSS" creationdate="20200824T041719Z">
+        <seg>&lt;t3/&gt;5)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t3/&gt;54).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T154617Z" creationid="DSS" creationdate="20200720T153935Z">
@@ -2252,8 +2260,8 @@
       <tuv lang="en">
         <seg>A second edition of &lt;t0/&gt;DQTI&lt;t1/&gt; came out in &lt;t2/&gt;2004, &lt;t3/&gt;and it added a group of co&lt;t4/&gt;authors after Hargis's name.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130928Z" creationid="lenovo" creationdate="20200811T023639Z">
-        <seg>&lt;t0/&gt;DQTI&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;在2004年出版了第二版，哈吉斯名字后新增了一大批合著者。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T041632Z" creationid="lenovo" creationdate="20200811T023639Z">
+        <seg>&lt;t0/&gt;DQTI&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;在2004年出版了第二版，除了哈吉斯之外，新增了一大批合著者。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2388,8 +2396,8 @@
       <tuv lang="en">
         <seg>According to its introduction, the 3rd edition of &lt;t6/&gt;DQTI&lt;t7/&gt; focused on,</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T025901Z" creationid="lenovo" creationdate="20200811T025901Z">
-        <seg>根据简介，第三版 &lt;t6/&gt;DQTI&lt;t7/&gt; 主要关注，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T041755Z" creationid="lenovo" creationdate="20200811T025901Z">
+        <seg>根据简介，第三版 &lt;t6/&gt;DQTI&lt;t7/&gt; 主要关注以下内容：</seg>
       </tuv>
     </tu>
     <tu>
@@ -2868,8 +2876,8 @@
       <tuv lang="en">
         <seg>An element can be as small as a word and as large as a tutorial” (Hargis et al., &lt;t1/&gt;2004, &lt;t2/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T025620Z" creationid="lenovo" creationdate="20200811T025620Z">
-        <seg>元素可以小到一个单词，大到一个教程 (Hargis et al., &lt;t1/&gt;2004, &lt;t2/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T041707Z" creationid="lenovo" creationdate="20200811T025620Z">
+        <seg>元素可以小到一个单词，大到一个教程” (Hargis et al., &lt;t1/&gt;2004, &lt;t2/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6531,8 +6539,8 @@
       <tuv lang="en">
         <seg>Gretchen Hargis passed away in &lt;t0/&gt;2005, &lt;t1/&gt;and the third edition of &lt;t2/&gt;DQTI&lt;t3/&gt; was published in &lt;t4/&gt;2014, &lt;t5/&gt;with some of the second edition's co-authors.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130929Z" creationid="lenovo" creationdate="20200811T025807Z">
-        <seg>格雷琴·哈吉斯于&lt;t0/&gt;&lt;t1/&gt;2005年去世，而&lt;t2/&gt;DQTI&lt;t3/&gt;第三版于&lt;t4/&gt;&lt;t5/&gt;2014年，作者中也包含了第二版中的一部分人。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T041735Z" creationid="lenovo" creationdate="20200811T025807Z">
+        <seg>格雷琴·哈吉斯于&lt;t0/&gt;&lt;t1/&gt;2005年去世，而&lt;t2/&gt;DQTI&lt;t3/&gt;第三版于&lt;t4/&gt;&lt;t5/&gt;2014年问世，作者也包含了第二版中的一部分人。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16514,8 +16522,8 @@
       <tuv lang="en">
         <seg>With a minimum of information, the user can inde&lt;t1/&gt;pendently explore a product after learning some basic concepts and tasks.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130928Z" creationid="lenovo" creationdate="20200811T023523Z">
-        <seg>实现信息极简化的情形下，用户在学习了一些基本概念和任务后，可以独立探索产品。&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T041557Z" creationid="lenovo" creationdate="20200811T023523Z">
+        <seg>在实现信息极简化的情形下，用户在学习了一些基本概念和任务后，可以独立探索产品。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17272,6 +17280,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>xviii).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T041855Z" creationid="DSS" creationdate="20200824T041855Z">
+        <seg>xviii)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{ &lt;t0/&gt;Attract and motivate your readers with graphic techniques</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T035622Z" creationid="lenovo" creationdate="20200810T163128Z">
@@ -17845,8 +17861,8 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;Elements are “the units that physically constitute technical information.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T025603Z" creationid="lenovo" creationdate="20200811T025539Z">
-        <seg>• &lt;t0/&gt;元素是“物理上构成技术信息的实体单元”。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T041653Z" creationid="lenovo" creationdate="20200811T025539Z">
+        <seg>• &lt;t0/&gt;元素是“物理上构成技术信息的实体单元，</seg>
       </tuv>
     </tu>
     <tu>
@@ -17877,8 +17893,8 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;Guidelines are “brief directives about what to do or not to do to achieve the characteristics of quality.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T025352Z" creationid="lenovo" creationdate="20200811T025352Z">
-        <seg>• &lt;t0/&gt;指导方针是“关于为了达到质量特征该做什么或不做什么的简要指示。”</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T041643Z" creationid="lenovo" creationdate="20200811T025352Z">
+        <seg>• &lt;t0/&gt;指导方针是“关于为了达到质量特征该做什么或不做什么的简要指示，</seg>
       </tuv>
     </tu>
     <tu>
