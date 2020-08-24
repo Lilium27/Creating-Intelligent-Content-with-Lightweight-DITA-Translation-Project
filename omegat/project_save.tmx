@@ -6385,6 +6385,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For the technical content edition, a task topic can provide an example.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T075653Z" creationid="DSS" creationdate="20200824T075653Z">
+        <seg>对于技术内容版本而言，一个任务主题就是一个示例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For this week's entry, he will critique the marinara sauce recipe from &lt;t0/&gt;Figure &lt;t1/&gt;1.3&lt;t2/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150144Z" creationid="DSS" creationdate="20200725T151703Z">
@@ -16417,8 +16425,8 @@
       <tuv lang="en">
         <seg>When placed with other topics in a collection and processed by a DITA-aware software tool (I will talk more about tools in &lt;t4/&gt;Chapter 5&lt;t5/&gt;), this biographic introduction can inherit any formatting rules and become a page or section in a print magazine or book, a page or blurb on a website, and many other end-user deliverables depending on the author's publishing goals.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T080825Z" creationid="lenovo" creationdate="20200812T035409Z">
-        <seg>当这一传记介绍同其他主题被放在一个集合中，并由支持DITA软件工具（ &lt;t4/&gt;第五章&lt;t5/&gt;我会详细阐述）进行处理时，这一介绍信息能继承任意格式规则，可以成为纸质杂志或书籍的一页或一章、网站上的网页或宣传信息以及其他多种终端用户的交付物，呈现形式取决于作者的出版目标。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T075516Z" creationid="lenovo" creationdate="20200812T035409Z">
+        <seg>当这一传记介绍同其他主题被放在一个集合中，并由支持DITA的软件工具（ &lt;t4/&gt;第五章&lt;t5/&gt;我会详细阐述）进行处理时，这一介绍信息能继承任意格式规则，可以成为纸质杂志或书籍的一页或一章，网站上的网页或宣传信息，以及其他多种终端用户的交付物，呈现形式取决于作者的出版目标。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17298,8 +17306,8 @@
       <tuv lang="en">
         <seg>the topic's body (&lt;t0/&gt;&lt;body&gt;), &lt;t1/&gt;and some paragraphs (&lt;t2/&gt;&lt;p&gt;&lt;t3/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T034844Z" creationid="lenovo" creationdate="20200812T034844Z">
-        <seg>主题的正文 (&lt;t0/&gt;&lt;body&gt;), &lt;t1/&gt;以及段落(&lt;t2/&gt;&lt;p&gt;&lt;t3/&gt;).</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T075425Z" creationid="lenovo" creationdate="20200812T034844Z">
+        <seg>主题的正文 (&lt;t0/&gt;&lt;body&gt;), &lt;t1/&gt;以及段落(&lt;t2/&gt;&lt;p&gt;&lt;t3/&gt;)。</seg>
       </tuv>
     </tu>
     <tu>
