@@ -9101,8 +9101,8 @@
       <tuv lang="en">
         <seg>It includes some examples showing the useful potential of those tags while setting the exigence for LwDITA's simplified content model.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T021510Z" creationid="lenovo" creationdate="20200812T021510Z">
-        <seg>在设置轻量级DITA的简化内容模型的必备内容时，它包含一些展示标记的潜在用途的示例。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T071726Z" creationid="lenovo" creationdate="20200812T021510Z">
+        <seg>在设计轻量级DITA简化内容模型的必备内容时，提供了一些展示标记的潜在用途的示例。</seg>
       </tuv>
     </tu>
     <tu>
