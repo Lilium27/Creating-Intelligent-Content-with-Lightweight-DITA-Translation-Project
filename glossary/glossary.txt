@@ -445,7 +445,6 @@ Lawrence Prelli	劳伦斯·普雷利
 map	在……间建立映射
 Body	正文
 Map	映射
-all inclusive	全能版
 Janet Emig	珍妮特·米格
 Bailie	拜利
 Urbina	厄比纳
@@ -492,3 +491,4 @@ Jimmy Buffett	吉米.巴菲特
 units shipped	出货量
 Theodor Adorno	狄奥多·阿多诺
 Adobe Technical Communication Suite (TCS)	Adobe 技术传播软件（TCS）
+all inclusive	完整版
