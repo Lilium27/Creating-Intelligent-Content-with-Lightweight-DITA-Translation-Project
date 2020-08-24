@@ -4172,8 +4172,8 @@
       <tuv lang="en">
         <seg>Casual content contributors.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T091251Z" creationid="lenovo" creationdate="20200813T091251Z">
-        <seg>非正式内容贡献者</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T072208Z" creationid="lenovo" creationdate="20200813T091251Z">
+        <seg>非职业内容贡献者</seg>
       </tuv>
     </tu>
     <tu>
@@ -13654,8 +13654,8 @@
       <tuv lang="en">
         <seg>The goal is to create a lightweight DITA framework that can ease adop&lt;t0/&gt;tion for casual, contributing, or non-technical authors.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131042Z" creationid="DSS" creationdate="20200731T073402Z">
-        <seg>我们的目标是创建一个轻量级DITA框架，它可以方便临时的、辅助性的或非技术写作人员的作者使用。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T072115Z" creationid="DSS" creationdate="20200731T073402Z">
+        <seg>我们的目标是创建一个轻量级DITA框架，它可以方便临时的、辅助性的或非职业技术写作人员的创作者使用。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13782,8 +13782,8 @@
       <tuv lang="en">
         <seg>The limited DITA profile was presented as an on-ramp for DITA users who were casual content contributors and did not need all the standard's features.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T073239Z" creationid="DSS" creationdate="20200731T073239Z">
-        <seg>限定版DITA概要是临时的内容写作者和不需要使用 DITA 所有特性的用户接触 DITA  的入口。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T072004Z" creationid="DSS" creationdate="20200731T073239Z">
+        <seg>限定版DITA概要是非职业的内容创作者和无需使用 DITA 所有特性的用户接触 DITA  的入口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17026,8 +17026,8 @@
       <tuv lang="en">
         <seg>environment for casual content contributors.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T145945Z" creationid="lenovo" creationdate="20200821T145945Z">
-        <seg>非正式内容贡献者的环境。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T072155Z" creationid="lenovo" creationdate="20200821T145945Z">
+        <seg>非职业内容贡献者的环境。</seg>
       </tuv>
     </tu>
     <tu>
