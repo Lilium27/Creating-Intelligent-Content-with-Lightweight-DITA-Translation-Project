@@ -2404,8 +2404,8 @@
       <tuv lang="en">
         <seg>Accuracy</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T030636Z" creationid="lenovo" creationdate="20200810T163151Z">
-        <seg>准确</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T035630Z" creationid="lenovo" creationdate="20200810T163151Z">
+        <seg>准确性</seg>
       </tuv>
     </tu>
     <tu>
@@ -17250,8 +17250,8 @@
       <tuv lang="en">
         <seg>{ &lt;t0/&gt;Attract and motivate your readers with graphic techniques</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T163128Z" creationid="lenovo" creationdate="20200810T163128Z">
-        <seg>{ &lt;t0/&gt;用图形技术来吸引和刺激读者</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T035622Z" creationid="lenovo" creationdate="20200810T163128Z">
+        <seg>&lt;t0/&gt;用图形技术来吸引和刺激读者</seg>
       </tuv>
     </tu>
     <tu>
@@ -17274,56 +17274,56 @@
       <tuv lang="en">
         <seg>{ &lt;t0/&gt;Define each term new to the intended reader</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T162916Z" creationid="lenovo" creationdate="20200810T162916Z">
-        <seg>{ &lt;t0/&gt;为目标读者定义每个新术语</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T035617Z" creationid="lenovo" creationdate="20200810T162916Z">
+        <seg>&lt;t0/&gt;为目标读者定义每个新术语</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>{ &lt;t0/&gt;Devise titles and headings to reveal the task</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T162521Z" creationid="lenovo" creationdate="20200810T161716Z">
-        <seg>{ &lt;t0/&gt;设计标题以揭示任务内容</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T035402Z" creationid="lenovo" creationdate="20200810T161716Z">
+        <seg>&lt;t0/&gt;设计标题以揭示任务内容</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>{ &lt;t0/&gt;Don't force readers to branch unnecessarily</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T162209Z" creationid="lenovo" creationdate="20200810T162209Z">
-        <seg>{ &lt;t0/&gt;不要强迫读者做无畏的新探索</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T035501Z" creationid="lenovo" creationdate="20200810T162209Z">
+        <seg>&lt;t0/&gt;不要强迫读者做无畏的新探索</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>{ &lt;t0/&gt;Emphasize main points; subordinate secondary points</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T162104Z" creationid="lenovo" creationdate="20200810T162056Z">
-        <seg>{ &lt;t0/&gt;强调重点，下移次重点</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T035456Z" creationid="lenovo" creationdate="20200810T162056Z">
+        <seg>&lt;t0/&gt;强调重点，下移次重</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>{ &lt;t0/&gt;Employ visual techniques to communicate effectively</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T163142Z" creationid="lenovo" creationdate="20200810T163142Z">
-        <seg>{ &lt;t0/&gt;运用视觉技术进行有效沟通</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T035626Z" creationid="lenovo" creationdate="20200810T163142Z">
+        <seg>&lt;t0/&gt;运用视觉技术进行有效沟通</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>{ &lt;t0/&gt;Highlight key terms &lt;t1/&gt;- &lt;t2/&gt;including new terms being defined</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T162430Z" creationid="lenovo" creationdate="20200810T162430Z">
-        <seg>{ &lt;t0/&gt;强调关键术语 &lt;t1/&gt;- &lt;t2/&gt;包括新定义的术语</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T035534Z" creationid="lenovo" creationdate="20200810T162430Z">
+        <seg>&lt;t0/&gt;强调关键术语 &lt;t1/&gt;- &lt;t2/&gt;包括新定义的术语</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>{ &lt;t0/&gt;In introductory sections, reveal the order of topics to follow</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T162314Z" creationid="lenovo" creationdate="20200810T162314Z">
-        <seg>{ &lt;t0/&gt;简介部分介绍主题次序</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T035527Z" creationid="lenovo" creationdate="20200810T162314Z">
+        <seg>&lt;t0/&gt;简介部分介绍主题次序</seg>
       </tuv>
     </tu>
     <tu>
@@ -17346,16 +17346,16 @@
       <tuv lang="en">
         <seg>{ &lt;t0/&gt;Order the presentation to reflect the order of use</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T161522Z" creationid="lenovo" creationdate="20200810T161522Z">
-        <seg>{ &lt;t0/&gt;按使用顺序排列演示</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T035400Z" creationid="lenovo" creationdate="20200810T161522Z">
+        <seg>&lt;t0/&gt;按使用顺序排列演示</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>{ &lt;t0/&gt;Pace the presentation to be neither too fast nor too slow</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T162803Z" creationid="lenovo" creationdate="20200810T162747Z">
-        <seg>{ &lt;t0/&gt;演示的速度不要太快也不要太慢</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T035551Z" creationid="lenovo" creationdate="20200810T162747Z">
+        <seg>&lt;t0/&gt;演示的速度不要太快也不要太慢</seg>
       </tuv>
     </tu>
     <tu>
@@ -17370,16 +17370,16 @@
       <tuv lang="en">
         <seg>{ &lt;t0/&gt;Present material so readers can understand it the first time</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T162753Z" creationid="lenovo" creationdate="20200810T162623Z">
-        <seg>{ &lt;t0/&gt;用读者一眼就能明了的方式演示材料</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T035549Z" creationid="lenovo" creationdate="20200810T162623Z">
+        <seg>&lt;t0/&gt;用读者一眼就能明了的方式演示材料</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>{ &lt;t0/&gt;Present similar topics in a similar way</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T162231Z" creationid="lenovo" creationdate="20200810T162231Z">
-        <seg>{ &lt;t0/&gt;类似主题采用类似呈现方式</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T035514Z" creationid="lenovo" creationdate="20200810T162231Z">
+        <seg>&lt;t0/&gt;类似主题采用相似的呈现方式</seg>
       </tuv>
     </tu>
     <tu>
@@ -17402,24 +17402,24 @@
       <tuv lang="en">
         <seg>{ &lt;t0/&gt;Provide appropriate examples to communicate effectively</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T162941Z" creationid="lenovo" creationdate="20200810T162941Z">
-        <seg>{ &lt;t0/&gt;提供适当的例子以便有效沟通</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T035620Z" creationid="lenovo" creationdate="20200810T162941Z">
+        <seg>&lt;t0/&gt;提供适当的例子以便有效沟通</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>{ &lt;t0/&gt;Rarely run a paragraph beyond a dozen lines</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T162554Z" creationid="lenovo" creationdate="20200810T162554Z">
-        <seg>{ &lt;t0/&gt;尽量不要出现一段十几行的情况</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T035545Z" creationid="lenovo" creationdate="20200810T162554Z">
+        <seg>&lt;t0/&gt;尽量不要出现一段十几行的情况</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>{ &lt;t0/&gt;Rarely run text for half a page without a heading</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T162515Z" creationid="lenovo" creationdate="20200810T162515Z">
-        <seg>{ &lt;t0/&gt;尽量不要出现半页纸都没有标题的情况</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T035537Z" creationid="lenovo" creationdate="20200810T162515Z">
+        <seg>&lt;t0/&gt;尽量不要出现半页纸都没有标题的情况</seg>
       </tuv>
     </tu>
     <tu>
@@ -17434,16 +17434,16 @@
       <tuv lang="en">
         <seg>{ &lt;t0/&gt;Reveal how the pieces fit together</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T161858Z" creationid="lenovo" creationdate="20200810T161851Z">
-        <seg>{ &lt;t0/&gt;展现各部分如何相互配合</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T035404Z" creationid="lenovo" creationdate="20200810T161851Z">
+        <seg>&lt;t0/&gt;展现各部分如何相互配合</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>{ &lt;t0/&gt;Stock the index with predictable entries for the topics covered</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T162358Z" creationid="lenovo" creationdate="20200810T162358Z">
-        <seg>{ &lt;t0/&gt;在索引中为涉及的主题添加可能需要的入口</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T035531Z" creationid="lenovo" creationdate="20200810T162358Z">
+        <seg>&lt;t0/&gt;在索引中为涉及的主题添加可能需要的入口</seg>
       </tuv>
     </tu>
     <tu>
@@ -17458,8 +17458,8 @@
       <tuv lang="en">
         <seg>{ &lt;t0/&gt;Use only technical terms that are necessary and appropriate</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T162903Z" creationid="lenovo" creationdate="20200810T162903Z">
-        <seg>{ &lt;t0/&gt;只使用必要和适当的技术术语</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T035611Z" creationid="lenovo" creationdate="20200810T162903Z">
+        <seg>&lt;t0/&gt;只使用必要和适当的技术术语</seg>
       </tuv>
     </tu>
     <tu>
@@ -17474,8 +17474,8 @@
       <tuv lang="en">
         <seg>{ &lt;t0/&gt;Write directly and economically</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T165211Z" creationid="lenovo" creationdate="20200810T162851Z">
-        <seg>{ &lt;t0/&gt;直接而经济地写</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T035615Z" creationid="lenovo" creationdate="20200810T162851Z">
+        <seg>&lt;t0/&gt;直接而简练地写作</seg>
       </tuv>
     </tu>
     <tu>
