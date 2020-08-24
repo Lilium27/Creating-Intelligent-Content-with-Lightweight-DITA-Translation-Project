@@ -913,6 +913,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t2/&gt;3).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T040623Z" creationid="DSS" creationdate="20200824T040623Z">
+        <seg>&lt;t2/&gt;3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t2/&gt;33), &lt;t3/&gt;and that it is more about conceptualizing than programming.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T145748Z" creationid="DSS" creationdate="20200817T034618Z">
