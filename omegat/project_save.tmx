@@ -2180,8 +2180,8 @@
       <tuv lang="en">
         <seg>A definition of topic from Lawrence Prelli further supports this overlap.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T161502Z" creationid="lenovo" creationdate="20200811T161502Z">
-        <seg>劳伦斯·普雷利 （Lawrence Prelli）对主题的定义进一步支持了这种重叠。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T063638Z" creationid="lenovo" creationdate="20200811T161502Z">
+        <seg>劳伦斯·普雷利 （Lawrence Prelli）对主题的定义进一步支持了这种含义上的交叠。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10671,8 +10671,8 @@
       <tuv lang="en">
         <seg>Or are they?</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T063202Z" creationid="lenovo" creationdate="20200811T150022Z">
-        <seg>难道它们是一样的吗？</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T063321Z" creationid="lenovo" creationdate="20200811T150022Z">
+        <seg>不是吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -12595,8 +12595,8 @@
       <tuv lang="en">
         <seg>The &lt;t7/&gt;top&lt;t8/&gt;ics&lt;t9/&gt; from the first book are not the same &lt;t10/&gt;topics&lt;t11/&gt; in the second book.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T062826Z" creationid="lenovo" creationdate="20200811T145946Z">
-        <seg>第一本书中对&lt;t7/&gt;&lt;t8/&gt;主题&lt;t9/&gt;的定义与第二本书中的&lt;t10/&gt;主题&lt;t11/&gt;不一样。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T063247Z" creationid="lenovo" creationdate="20200811T145946Z">
+        <seg>第一本书中对&lt;t7/&gt;&lt;t8/&gt;主题&lt;t9/&gt;的定义与第二本书中的&lt;t10/&gt;主题&lt;t11/&gt;不一样，</seg>
       </tuv>
     </tu>
     <tu>
@@ -14286,8 +14286,8 @@
       <tuv lang="en">
         <seg>The rhetorical top&lt;t0/&gt;ics are the moves/elements inside a DITA topic: the element of, say, &lt;t1/&gt;&lt;prereq&gt; &lt;t2/&gt;for prerequisites in a task topic suggests a shared model common to all tasks and procedures that allows authors to produce viable how-to information.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130955Z" creationid="lenovo" creationdate="20200811T161002Z">
-        <seg>修辞主题是DITA主题中的文步/元素：例如，任务主题中的先决条件&lt;t0/&gt;&lt;t1/&gt;&lt;prereq&gt; &lt;t2/&gt;的元素表示所有任务和流程共有的共享模型，该模型允许作者生成可行的“如何做”信息。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T063517Z" creationid="lenovo" creationdate="20200811T161002Z">
+        <seg>修辞主题是DITA主题中的文步或者说元素：例如，任务主题中用于描写先决条件的&lt;t0/&gt;&lt;t1/&gt;&lt;prereq&gt; &lt;t2/&gt;元素代表着所有任务和流程共有的共享模型，该模型允许作者生成可行的“如何做”信息。</seg>
       </tuv>
     </tu>
     <tu>
