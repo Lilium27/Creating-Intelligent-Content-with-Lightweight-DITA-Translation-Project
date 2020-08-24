@@ -3388,8 +3388,8 @@
       <tuv lang="en">
         <seg>As those DITA fixed templates for top&lt;t6/&gt;ics and their structures at the section, paragraph, sentence, or even word level became widely used within IBM, the structures moved to the organizational or institutional category.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130931Z" creationid="lenovo" creationdate="20200811T074352Z">
-        <seg>随着DITA各主题固定模板以及章、段、句、甚至词级别结构在IBM内部广泛使用，这些结构转向组织机构类别&lt;t6/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T043020Z" creationid="lenovo" creationdate="20200811T074352Z">
+        <seg>随着DITA各主题固定模板以及章、段、句、甚至词级别结构在IBM内部广泛使用，这些结构转向组织机构类别。&lt;t6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3804,8 +3804,8 @@
       <tuv lang="en">
         <seg>Before Intelligent Content, There Was the Computer Manual &lt;t0/&gt;49</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T072101Z" creationid="lenovo" creationdate="20200811T072101Z">
-        <seg>智能内容出现前,计算机手册占据主导 &lt;t0/&gt;49</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T042702Z" creationid="lenovo" creationdate="20200811T072101Z">
+        <seg>智能内容出现前，计算机手册占据主导 &lt;t0/&gt;49</seg>
       </tuv>
     </tu>
     <tu>
@@ -6523,8 +6523,8 @@
       <tuv lang="en">
         <seg>Going back to the Miller and Selzer taxonomy of topical conventions, that early work captured the generic structures of fixed types that included the classical DITA trio of concept, task, and reference.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T073851Z" creationid="lenovo" creationdate="20200811T073851Z">
-        <seg>回到米勒和瑟尔泽对主题惯例的分类，早期工作抓住了固定类型的通用结构，其中包括经典DITA的三大支柱——概念、任务和引用。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T042729Z" creationid="lenovo" creationdate="20200811T073851Z">
+        <seg>回到米勒和瑟尔泽对主题惯例的分类，早期工作抓住了固定类型的通用结构，其中包括经典DITA的三大支柱——概念（concept）、任务（task）和引用（reference）。</seg>
       </tuv>
     </tu>
     <tu>
