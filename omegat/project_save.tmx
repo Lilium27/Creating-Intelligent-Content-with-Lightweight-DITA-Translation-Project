@@ -1115,8 +1115,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;8), &lt;t4/&gt;and can be defined as “small independent piece of information on a single subject” (Baker, &lt;t5/&gt;2013, &lt;t6/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144425Z" creationid="DSS" creationdate="20200724T154307Z">
-        <seg>&lt;t3/&gt;8页），&lt;t4/&gt;话题也可以理解为“关于某个主题的短小独立的信息片段”（贝克，&lt;t5/&gt;2013年，&lt;t6/&gt;第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034205Z" creationid="DSS" creationdate="20200724T154307Z">
+        <seg>&lt;t3/&gt;8页），&lt;t4/&gt;话题也可以理解为“关于某个问题的短小独立的信息片段”（贝克，&lt;t5/&gt;2013年，&lt;t6/&gt;第</seg>
       </tuv>
     </tu>
     <tu>
@@ -4920,8 +4920,8 @@
       <tuv lang="en">
         <seg>Each topic is long enough to make sense on its own, but short enough to stick to one point without expanding into other sub&lt;t0/&gt;jects” (Bellamy et al.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130757Z" creationid="DSS" creationdate="20200724T154251Z">
-        <seg>每个话题都要内容充足，能站得住脚跟，同时也要精简干练，只围绕一个中心点展开，而不扩展到其他主题”（贝拉米等，&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034006Z" creationid="DSS" creationdate="20200724T154251Z">
+        <seg>每个话题都要内容充足，能站得住脚跟，同时也要精简干练，只围绕一个中心点展开，而不扩展到其他方面”（贝拉米等，&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
