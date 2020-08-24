@@ -6075,24 +6075,24 @@
       <tuv lang="en">
         <seg>Fix the content &lt;t0/&gt;- &lt;t1/&gt;Authors need to rethink how to write content to thor&lt;t2/&gt;oughly separate form from content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T043733Z" creationid="lenovo" creationdate="20200811T080222Z">
-        <seg>固定内容&lt;t0/&gt;——&lt;t1/&gt;&lt;t2/&gt;作者需要重新考虑如何编写与形式彻底分离的内容。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T043939Z" creationid="lenovo" creationdate="20200811T080222Z">
+        <seg>固定内容&lt;t0/&gt;——&lt;t1/&gt;&lt;t2/&gt;创作者需要重新考虑如何编写与形式彻底分离的内容。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Fix the design &lt;t0/&gt;- &lt;t1/&gt;Architects need to rethink how to classify and design information, to reduce the cost of upfront analysis and ongoing mainte&lt;t2/&gt;nance for content-specific markup.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130937Z" creationid="lenovo" creationdate="20200811T080320Z">
-        <seg>固定设计 &lt;t0/&gt;- &lt;t1/&gt;&lt;t2/&gt;架构师需要重新考虑如何对信息进行分类和设计，以减少预先分析和对特定内容标记进行持续维护的成本。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T043746Z" creationid="lenovo" creationdate="20200811T080320Z">
+        <seg>固定设计 &lt;t0/&gt;——&lt;t1/&gt;&lt;t2/&gt;架构师需要重新考虑如何对信息进行分类和设计，以减少预先分析和对特定内容标记进行持续维护的成本。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Fix the process &lt;t0/&gt;- &lt;t1/&gt;Programmers need to rethink how to create transforms and processes, to allow content-specific information to be exchanged, and to make it easier to create and maintain specialized processes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T080505Z" creationid="lenovo" creationdate="20200811T080505Z">
-        <seg>固定流程 &lt;t0/&gt;- &lt;t1/&gt;程序员需要重新考虑如何创建转换和流程，如何允许特定内容的信息进行交换，以及如何简化创建和维护专门的过程。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T043823Z" creationid="lenovo" creationdate="20200811T080505Z">
+        <seg>固定流程 &lt;t0/&gt;——&lt;t1/&gt;程序员需要重新考虑如何创建转换和流程，如何允许特定内容的信息进行交换，以及如何简化创建和维护专门的过程。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10983,8 +10983,8 @@
       <tuv lang="en">
         <seg>Priestley and his co-authors addressed the evolution of the manual as it became a collection of topics with “fine-grained” moves to signal or tag specific conventions:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T094144Z" creationid="lenovo" creationdate="20200811T094144Z">
-        <seg>普里斯特利和他的合著者讨论了手册的演变，它变成了一个主题集合，用“细粒度”文步来标志或标记特定惯例：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T061744Z" creationid="lenovo" creationdate="20200811T094144Z">
+        <seg>普里斯特利和他的合著者表示，手册演变成了一个主题集合，用“细粒度”文步来标志或标记特定惯例：</seg>
       </tuv>
     </tu>
     <tu>
@@ -13710,8 +13710,8 @@
       <tuv lang="en">
         <seg>The implementation of quality characteristics into actual XML elements and conventions is all over those three parts, but it is mainly represented in the work to be performed by authors as part of their work to “fix the content” by catego&lt;t0/&gt;rizing topics by type of information.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130937Z" creationid="lenovo" creationdate="20200811T080953Z">
-        <seg>这三个部分贯穿了将质量特征运用到实际的XML元素和惯例的过程，但它主要体现在作者要完成的工作中，即通过按信息类型对主题进行分类来“固定内容”。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T043908Z" creationid="lenovo" creationdate="20200811T080953Z">
+        <seg>这三个部分贯穿了将质量特征运用到实际的XML元素和惯例中的过程，但它主要体现在创作者要完成的工作中，即通过按信息类型对主题进行分类来“固定内容”。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
