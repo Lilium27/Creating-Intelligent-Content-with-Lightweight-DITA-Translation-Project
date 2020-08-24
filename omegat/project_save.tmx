@@ -3108,8 +3108,8 @@
       <tuv lang="en">
         <seg>And then the file has a few moves/ genre conventions of the introductory topic: a short description (&lt;t1/&gt;&lt;shortdesc&gt;),</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T034653Z" creationid="lenovo" creationdate="20200812T034653Z">
-        <seg>文件有介绍性主题的一些文步/体裁惯例：一个简短的描述 (&lt;t1/&gt;&lt;shortdesc&gt;),</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T074812Z" creationid="lenovo" creationdate="20200812T034653Z">
+        <seg>文件包含介绍性主题所有的一些文步或者说体裁惯例：一个简短的描述 (&lt;t1/&gt;&lt;shortdesc&gt;),</seg>
       </tuv>
     </tu>
     <tu>
@@ -6587,8 +6587,8 @@
       <tuv lang="en">
         <seg>Going back to the story of Chef Pedro from &lt;t8/&gt;Chapter &lt;t9/&gt;1&lt;t10/&gt;, &lt;t11/&gt;a topic type from the base edition would look as &lt;t12/&gt;Figure &lt;t13/&gt;2.2&lt;t14/&gt;, &lt;t15/&gt;which includes biographical information on Chef Pedro.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131017Z" creationid="lenovo" creationdate="20200812T033153Z">
-        <seg>回到 &lt;t8/&gt;第一&lt;t9/&gt;章&lt;t10/&gt;&lt;t11/&gt;中佩德罗的故事，基础版的主题类型跟&lt;t12/&gt;表格 &lt;t13/&gt;2.2&lt;t14/&gt;&lt;t15/&gt;很像，表格包含了佩德罗的传记信息。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T074447Z" creationid="lenovo" creationdate="20200812T033153Z">
+        <seg>回到 &lt;t8/&gt;第一&lt;t9/&gt;章&lt;t10/&gt;&lt;t11/&gt;中佩德罗的故事，基础版的主题类型跟&lt;t12/&gt;表 &lt;t13/&gt;2.2&lt;t14/&gt;&lt;t15/&gt;种展示的很像，表格包含了佩德罗的传记信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13541,8 +13541,8 @@
       <tuv lang="en">
         <seg>The first line of code in the example is the XML declaration, which announces to the computer processor that this is an XML file and should be treated as such.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T145652Z" creationid="DSS" creationdate="20200813T145652Z">
-        <seg>示例中的第一行代码是 XML 声明，告诉计算机处理器这是一个 XML 文件，应该按 XML 文件处理。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T074550Z" creationid="DSS" creationdate="20200813T145652Z">
+        <seg>示例中的第一行代码是 XML 声明，告诉计算机这是一个 XML 文件，应该按 XML 文件处理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14710,8 +14710,8 @@
       <tuv lang="en">
         <seg>The topic's first line is the XML declaration that, as I tell my students, announces to the computing processors that the topic is an XML file and should be treated as such.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T034320Z" creationid="lenovo" creationdate="20200812T034320Z">
-        <seg>正如我告诉我的学生的那样，主题的首行XML声明，它告诉计算机此主题是一个XML文件，并且应该按XML文件处理。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T074543Z" creationid="lenovo" creationdate="20200812T034320Z">
+        <seg>正如我告诉学生的那样，主题首行的XML声明告诉计算机此主题是一个XML文件，并且应该按XML文件处理。</seg>
       </tuv>
     </tu>
     <tu>
