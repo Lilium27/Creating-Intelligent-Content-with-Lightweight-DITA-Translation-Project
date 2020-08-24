@@ -1555,8 +1555,8 @@
       <tuv lang="en">
         <seg>&lt;t4/&gt;Then, it warned readers about the pitfalls of implementing a custom XML solution or adopting a standard: “In other words, when you create a new markup language (using XML to define its markup and rules), you shut your&lt;t5/&gt;self off from interchange with the rest of the world; when you adopt a standard markup language, you lose the benefits promised by content-specific markup” &lt;t6/&gt;(2001, &lt;t7/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130936Z" creationid="lenovo" creationdate="20200811T080026Z">
-        <seg>&lt;t4/&gt;&lt;t5/&gt;然后，它警告读者采用自定义XML解决方案或标准的缺陷:“换句话说，当您创建一种新的标记语言(使用XML定义其标记和规则)时，你也就隔绝了与周遭世界的交流；当采用标准标记语言时，就失去了特定内容标记所带来的好处。 &lt;t6/&gt;(2001, &lt;t7/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T043534Z" creationid="lenovo" creationdate="20200811T080026Z">
+        <seg>&lt;t4/&gt;&lt;t5/&gt;然后警示了读者采用自定义XML解决方案或标准的缺陷：“换句话说，当你创建一种新的标记语言(使用XML定义其标记和规则)时，你也就隔绝了与周遭世界的交流；当采用标准标记语言时，就失去了特定内容标记所带来的好处”。 &lt;t6/&gt;(2001, &lt;t7/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1885,6 +1885,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T151553Z" creationid="DSS" creationdate="20200811T151553Z">
         <seg>&lt;t8/&gt;3-5)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t8/&gt;354).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T043549Z" creationid="DSS" creationdate="20200824T043549Z">
+        <seg>&lt;t8/&gt;354)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6067,8 +6075,8 @@
       <tuv lang="en">
         <seg>Fix the content &lt;t0/&gt;- &lt;t1/&gt;Authors need to rethink how to write content to thor&lt;t2/&gt;oughly separate form from content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130936Z" creationid="lenovo" creationdate="20200811T080222Z">
-        <seg>固定内容&lt;t0/&gt;- &lt;t1/&gt;&lt;t2/&gt;作者需要重新考虑如何编写内容实现形式与内容的彻底分离。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T043733Z" creationid="lenovo" creationdate="20200811T080222Z">
+        <seg>固定内容&lt;t0/&gt;——&lt;t1/&gt;&lt;t2/&gt;作者需要重新考虑如何编写与形式彻底分离的内容。</seg>
       </tuv>
     </tu>
     <tu>
