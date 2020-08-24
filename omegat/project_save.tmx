@@ -6403,8 +6403,8 @@
       <tuv lang="en">
         <seg>For version &lt;t0/&gt;1.3 &lt;t1/&gt;of the DITA spec, the Technical Committee actually sepa&lt;t2/&gt;rated the standard's &lt;t3/&gt;621 &lt;t4/&gt;available elements in three editions: base (with &lt;t5/&gt;189 &lt;t6/&gt;elements), technical content (including the elements from the base edition and &lt;t7/&gt;251 &lt;t8/&gt;additional elements), and all inclusive (including the elements from base, technical content, and &lt;t9/&gt;181 &lt;t10/&gt;additional elements).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T072705Z" creationid="lenovo" creationdate="20200812T030839Z">
-        <seg>在1.3版本&lt; t0 / &gt; &lt; t1 / &gt;的DITA规范中，技术委员会将标准中可用的621中可用元素划分成了三版：基础版（含189 个元素），技术内容版（含基础版的元素及251 个额外元素），完整版（包括基础版和技术内容版的元素及181 个额外元素）&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T081139Z" creationid="lenovo" creationdate="20200812T030839Z">
+        <seg>在1.3版本的DITA规范中，技术委员会将标准中可用的621中可用元素划分成了三版：基础版（含189 个元素），技术内容版（含基础版的元素及251 个额外元素），完整版（包括基础版和技术内容版的元素及181 个额外元素）&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8277,8 +8277,8 @@
       <tuv lang="en">
         <seg>In comparison to DITA &lt;t0/&gt;1.3, &lt;t1/&gt;LwDITA has a smaller element type and attribute set, stricter con&lt;t2/&gt;tent models, and a reduced feature set.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150644Z" creationid="DSS" creationdate="20200817T090650Z">
-        <seg>与 DITA 标准&lt;t0/&gt;1.3&lt;t1/&gt;版本相比，LwDITA 拥有更小的元素类型和属性集、更严格的内容模型和更小的特征集。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T081156Z" creationid="DSS" creationdate="20200817T090650Z">
+        <seg>与 DITA &lt;t0/&gt;1.3&lt;t1/&gt;相比，LwDITA 拥有更小的元素类型和属性集、更严格的内容模型和更小的特征集。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9453,8 +9453,8 @@
       <tuv lang="en">
         <seg>Keep in mind that DITA &lt;t65/&gt;1.3 &lt;t66/&gt;has &lt;t67/&gt;26 &lt;t68/&gt;document types.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150635Z" creationid="DSS" creationdate="20200726T074753Z">
-        <seg>请记住 DITA 标准&lt;t65/&gt;1.3 &lt;t66/&gt;版本中有&lt;t67/&gt;26 &lt;t68/&gt;种文档类型。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T081024Z" creationid="DSS" creationdate="20200726T074753Z">
+        <seg>请记住  DITA &lt;t65/&gt;1.3 &lt;t66/&gt;中有&lt;t67/&gt;26 &lt;t68/&gt;种文档类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9589,8 +9589,8 @@
       <tuv lang="en">
         <seg>Let's go back to Chef Pedro, who is attempting now to structure some of his own recipes as tasks following specifications from the DITA &lt;t0/&gt;1.3 &lt;t1/&gt;standard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200726T073836Z">
-        <seg>让我们回到厨师佩德罗的例子上，他现在正试图按照 DITA 标准&lt;t0/&gt;1.3&lt;t1/&gt;版本的规范将自己的一些菜谱组织成任务（task）主题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T081006Z" creationid="DSS" creationdate="20200726T073836Z">
+        <seg>让我们回到厨师佩德罗的例子上，他现在正试图按照 DITA &lt;t0/&gt;1.3 &lt;t1/&gt;标准将自己的一些菜谱组织成任务（task）主题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9693,8 +9693,8 @@
       <tuv lang="en">
         <seg>Looking, for example, at the &lt;t0/&gt;17 &lt;t1/&gt;document types and &lt;t2/&gt;440 &lt;t3/&gt;element types available on the technical content edition of the DITA &lt;t4/&gt;1.3 &lt;t5/&gt;standard, I couldn't stop hear&lt;t6/&gt;ing the voice of John Carroll from the interview I reported on &lt;t7/&gt;Chapter &lt;t8/&gt;2&lt;t9/&gt;: &lt;t10/&gt;“All &lt;t11/&gt;this being said, the manuals didn't work.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131021Z" creationid="DSS" creationdate="20200730T095155Z">
-        <seg>例如，在 DITA 标准1.3技术内容版本中有&lt;t0/&gt;17 &lt;t1/&gt;种可用文档类型和&lt;t2/&gt;440 &lt;t3/&gt;种元素类型，&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;我不禁想到约翰•卡罗尔在&lt;t7/&gt;第&lt;t8/&gt;2&lt;t9/&gt;章中提到的采访中所说的话：&lt;t10/&gt;“&lt;t11/&gt;这么看来手册不起作用，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T081248Z" creationid="DSS" creationdate="20200730T095155Z">
+        <seg>例如，在 DITA &lt;t4/&gt;1.3 &lt;t5/&gt;技术内容版本中有&lt;t0/&gt;17 &lt;t1/&gt;种可用文档类型和&lt;t2/&gt;440 &lt;t3/&gt;种元素类型，&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;我不禁想到约翰•卡罗尔在&lt;t7/&gt;第&lt;t8/&gt;二&lt;t9/&gt;章中提到的采访中所说的话：&lt;t10/&gt;“&lt;t11/&gt;这么看来手册不起作用，</seg>
       </tuv>
     </tu>
     <tu>
@@ -10751,8 +10751,8 @@
       <tuv lang="en">
         <seg>Originally, Lightweight DITA was planned as a component of the DITA &lt;t11/&gt;1.3 &lt;t12/&gt;specification, but interest from members of the DITA technical committee, vendors, and researchers pushed it out of the main specification and into its own parallel and compatible standard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T075235Z" creationid="DSS" creationdate="20200817T052937Z">
-        <seg>在最初的计划中，轻量级 DITA 本是 DITA 标准 1.3版本的细则，但是由于 DITA 技术委员会成员、供应商和研究人员的兴趣，最后将其从主要规范中摘出，成为了和 DITA 并行且兼容的标准。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T081055Z" creationid="DSS" creationdate="20200817T052937Z">
+        <seg>在最初的计划中，轻量级 DITA 本包含 DITA &lt;t11/&gt;1.3 &lt;t12/&gt;规范的细则，但是由于 DITA 技术委员会成员、供应商和研究人员的兴趣，最后将其从主要规范中摘出，成为了和 DITA 并行且兼容的标准。</seg>
       </tuv>
     </tu>
     <tu>
