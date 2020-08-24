@@ -10583,8 +10583,8 @@
       <tuv lang="en">
         <seg>One could point out that the number of XML tags available in the DITA stand&lt;t0/&gt;ard is the result of years of committee-based development with active members representing different sectors and industries with unique content-structuring</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131001Z" creationid="lenovo" creationdate="20200812T022331Z">
-        <seg>DITA标准中可用的XML标记的数量是以委员会为基础开发的结果，其活跃成员代表了不同行业和部分独特的内容架构。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T071900Z" creationid="lenovo" creationdate="20200812T022331Z">
+        <seg>DITA标准中可用的XML标记的数量是以委员会为基础开发的结果，其活跃成员代表了不同行业和部门独特的内容架构。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15230,8 +15230,8 @@
       <tuv lang="en">
         <seg>These users can be casual content contributors (e.g., a subject matter expert who authors short topics that a technical author will later integrate into a larger DITA collection) or authors who are not working with DITA XML (e.g., marketing professionals creating intelligent content for multi&lt;t5/&gt;channel publishing, or even technical writers who prefer to write in HTML or Markdown).&lt;t6/&gt; Chapter &lt;t7/&gt;4&lt;t8/&gt; &lt;t9/&gt;identifies additional user types for the three ini&lt;t10/&gt;tial authoring formats of LwDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200730T095547Z">
-        <seg>这些用户可能是临时的内容贡献者（比如，编写简短的主题的主题专家，这些主题将由技术文档工程师整合成一个更大的 DITA 集合）或作者不使用 DITA XML（例如，创建可以多渠道发布的智能内容的营销专业人士，甚至是喜欢用 HTML 或 Markdown 的技术写作人员）。&lt;t5/&gt;&lt;t6/&gt;第&lt;t7/&gt;4&lt;t8/&gt; &lt;t9/&gt;&lt;t10/&gt;章介绍了LwDITA的三种初始创作格式的其他用户类型。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T071923Z" creationid="DSS" creationdate="20200730T095547Z">
+        <seg>这些用户可能是非职业的内容贡献者（比如，编写简短主题的主题专家，这些主题将由技术文档工程师整合成一个更大的 DITA 集合）或作者不使用 DITA XML（例如，创建可以多渠道发布的智能内容的营销专业人士，甚至是喜欢用 HTML 或 Markdown 的技术写作人员）。&lt;t5/&gt;&lt;t6/&gt;第&lt;t7/&gt;4&lt;t8/&gt; &lt;t9/&gt;&lt;t10/&gt;章介绍了LwDITA的三种初始创作格式的其他用户类型。</seg>
       </tuv>
     </tu>
     <tu>
