@@ -6859,8 +6859,8 @@
       <tuv lang="en">
         <seg>However, it is no longer a task, since LwDITA's initial specification only includes one topic type.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T054226Z" creationid="DSS" creationdate="20200817T054226Z">
-        <seg>但是，它不再是一个任务（task）话题了，因为 LwDITA 的初始规范中只包含一种主题话题。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034428Z" creationid="DSS" creationdate="20200817T054226Z">
+        <seg>但是，它不再是一个任务（task）话题了，因为 LwDITA 的初始规范中只包含一种主题类型。 </seg>
       </tuv>
     </tu>
     <tu>
