@@ -1121,6 +1121,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t3/&gt;352).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T043359Z" creationid="DSS" creationdate="20200824T043359Z">
+        <seg>&lt;t3/&gt;352)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t3/&gt;5).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T041719Z" creationid="DSS" creationdate="20200824T041719Z">
@@ -3388,8 +3396,8 @@
       <tuv lang="en">
         <seg>As those DITA fixed templates for top&lt;t6/&gt;ics and their structures at the section, paragraph, sentence, or even word level became widely used within IBM, the structures moved to the organizational or institutional category.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T043116Z" creationid="lenovo" creationdate="20200811T074352Z">
-        <seg>随着DITA各主题固定模板以及章、段、句、甚至词级别结构在IBM内部广泛使用，这些结构开始在其他组织机构中普及开来。&lt;t6/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T043317Z" creationid="lenovo" creationdate="20200811T074352Z">
+        <seg>随着DITA各主题固定模板以及章、段、句、甚至词级别结构在IBM内部广泛使用，这些结构开始发展为组织机构级别的应用。&lt;t6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16353,8 +16361,8 @@
       <tuv lang="en">
         <seg>When other companies heard about DITA and tried to create their own archi&lt;t11/&gt;tectures for authoring and publishing, the topical conventions moved to the disciplinary category, which started when IBM announced, on March &lt;t12/&gt;15, 2001 &lt;t13/&gt;that they “were going public with an architecture for technical documentation using XML” (Priestley, 2001a), and then culminated with the release of DITA &lt;t14/&gt;1.0 &lt;t15/&gt;as an open standard in &lt;t16/&gt;2005.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130933Z" creationid="lenovo" creationdate="20200811T075309Z">
-        <seg>当其他公司听说DITA，并试图拆功能键自己的创作和出版架构时，主题惯例转向了规范性惯例。起点是IBM在2001年 &lt;t11/&gt;&lt;t12/&gt;3月 15日 &lt;t13/&gt;宣布他们“要公开一个使用XML的技术文档架构”(Priestley, 2001a)，最后，在2005年，DITA &lt;t14/&gt;1.0 &lt;t15/&gt;&lt;t16/&gt;作为开放标准发布。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T043225Z" creationid="lenovo" creationdate="20200811T075309Z">
+        <seg>当其他公司听说DITA，并试图创建自己的写作和出版架构时，主题惯例转向了规范性惯例。起点是IBM在2001年 &lt;t11/&gt;&lt;t12/&gt;3月15日 &lt;t13/&gt;宣布他们“要公开一个使用XML的技术文档架构”(Priestley, 2001a)，最后，在2005年，DITA &lt;t14/&gt;1.0 &lt;t15/&gt;&lt;t16/&gt;作为开放标准发布。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17627,8 +17635,8 @@
       <tuv lang="en">
         <seg>“DITA: An XML-Based Technical Documentation Authoring and Publishing Architecture” was authored by Michael Priestley, Gretchen Hargis, and Susan Carpenter, who have appeared previously as key players in this chapter.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T075742Z" creationid="lenovo" creationdate="20200811T075742Z">
-        <seg>迈克尔·普里斯特利、格雷琴·哈吉斯和苏珊·卡朋特共同撰写了“DITA:基于XML的技术文档编写和发布架构”，这三位是本章的核心人物。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T043349Z" creationid="lenovo" creationdate="20200811T075742Z">
+        <seg>迈克尔·普里斯特利、格雷琴·哈吉斯和苏珊·卡朋特共同撰写了《DITA：基于XML的技术文档编写和发布架构》，这三位是本章的核心人物。</seg>
       </tuv>
     </tu>
     <tu>
