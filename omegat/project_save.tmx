@@ -5017,8 +5017,8 @@
       <tuv lang="en">
         <seg>Elements, however, do have recognizable limits and often have correspond&lt;t7/&gt;ing markup tags” &lt;t8/&gt;(1998, &lt;t9/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130927Z" creationid="lenovo" creationdate="20200811T022825Z">
-        <seg>然而，元素确实具有可识别界限，并且通常具有相应的标记。 &lt;t7/&gt;&lt;t8/&gt;(1998, &lt;t9/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T041349Z" creationid="lenovo" creationdate="20200811T022825Z">
+        <seg>然而，元素确实具有可识别界限，并且通常具有相应的标签。 &lt;t7/&gt;&lt;t8/&gt;(1998, &lt;t9/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13806,8 +13806,8 @@
       <tuv lang="en">
         <seg>The minimalist approach not only yields a reduction in page count, but it also results in writing that doesn't get in the user's way.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T023410Z" creationid="lenovo" creationdate="20200811T023410Z">
-        <seg>极简主义方法并不只是减少了页数，而且使得写作顺应用户的需求。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T041457Z" creationid="lenovo" creationdate="20200811T023410Z">
+        <seg>极简主义方法并不只是减少了页数，还使写作顺应了用户的需求。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15102,8 +15102,8 @@
       <tuv lang="en">
         <seg>These guidelines apply to the elements.” Further describing the difference between characteristics and elements, Hargis noted that “writers cannot, for example, turn clarity on and off with a markup tag.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T041339Z" creationid="lenovo" creationdate="20200811T022505Z">
-        <seg>这些指导方针适用于元素。”在进一步描述特征和元素之间的区别时，哈吉斯指出：“例如，不是说作者用了标记文档，其所编写的内容就一定就逻辑清晰。”</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T041434Z" creationid="lenovo" creationdate="20200811T022505Z">
+        <seg>这些指导方针适用于元素。”在进一步描述特征和元素之间的区别时，哈吉斯指出：“例如，不是说创作者用了标记文档，其所编写的内容就一定就逻辑清晰。”</seg>
       </tuv>
     </tu>
     <tu>
