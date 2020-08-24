@@ -833,6 +833,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t19/&gt;2).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T040537Z" creationid="DSS" creationdate="20200824T040537Z">
+        <seg>&lt;t19/&gt;2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t19/&gt;74).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143006Z" creationid="DSS" creationdate="20200725T064534Z">
@@ -2444,8 +2452,8 @@
       <tuv lang="en">
         <seg>Additionally, Hargis organized the charac&lt;t16/&gt;teristics “by their ability to make information” in the following groups: easy to use, easy to understand, and easy to find (Hargis, &lt;t17/&gt;1998, &lt;t18/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130926Z" creationid="lenovo" creationdate="20200811T014349Z">
-        <seg>此外，哈吉斯“根据他们制造信息的能力”将特征分为以下几组：易使用、易理解、易查找(Hargis, &lt;t16/&gt;&lt;t17/&gt;1998, &lt;t18/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T040527Z" creationid="lenovo" creationdate="20200811T014349Z">
+        <seg>此外，哈吉斯“根据创作者制造信息的能力”将特征分为以下几组：易使用、易理解、易查找(Hargis, &lt;t16/&gt;&lt;t17/&gt;1998, &lt;t18/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4936,8 +4944,8 @@
       <tuv lang="en">
         <seg>Early in the document, the authors specified that “this book is to help writers produce quality technical information and to help reviewers judge the results” (Dean et al., &lt;t3/&gt;1983, &lt;t4/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T170034Z" creationid="lenovo" creationdate="20200810T170034Z">
-        <seg>在文档的开始部分，作者就明确指出“这本书旨在帮助作者产出高质量技术信息并帮助审稿人判断结果”(Dean et al., &lt;t3/&gt;1983, &lt;t4/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T040413Z" creationid="lenovo" creationdate="20200810T170034Z">
+        <seg>在文档的开始部分，作者就明确指出“这本书旨在帮助创作者产出高质量技术信息并帮助审稿人判断结果”(Dean et al., &lt;t3/&gt;1983, &lt;t4/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7627,8 +7635,8 @@
       <tuv lang="en">
         <seg>In &lt;t0/&gt;1998, &lt;t1/&gt;PQTI&lt;t2/&gt; evolved into &lt;t3/&gt;DQTI&lt;t4/&gt; &lt;t5/&gt;- &lt;t6/&gt;the first edition of &lt;t7/&gt;Developing Quality Technical Information: A Handbook for Writers and Editors&lt;t8/&gt;, authored by Gretchen Hargis and published by IBM/Prentice Hall.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T013852Z" creationid="lenovo" creationdate="20200810T170641Z">
-        <seg>&lt;t0/&gt;1998, &lt;t1/&gt;PQTI&lt;t2/&gt; 演化成 &lt;t3/&gt;DQTI&lt;t4/&gt; &lt;t5/&gt;- &lt;t6/&gt;即第一版 &lt;t7/&gt;《开发高质量技术信息：作者和编辑的参照手册》&lt;t8/&gt;,作者是格雷琴·哈吉斯 （Gretchen Hargis），由IBM/普伦蒂斯·霍尔联合出版。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T040451Z" creationid="lenovo" creationdate="20200810T170641Z">
+        <seg>&lt;t0/&gt;1998, &lt;t1/&gt;PQTI&lt;t2/&gt; 演化成 &lt;t3/&gt;DQTI&lt;t4/&gt; &lt;t5/&gt;——&lt;t6/&gt;即第一版 &lt;t7/&gt;《开发高质量技术信息：作者和编辑的参照手册》&lt;t8/&gt;，作者是格雷琴·哈吉斯 （Gretchen Hargis），由IBM和普伦蒂斯·霍尔联合出版。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10663,8 +10671,8 @@
       <tuv lang="en">
         <seg>Other &lt;t2/&gt;recommendations, however, were standard guidelines for technical writers.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T040002Z" creationid="lenovo" creationdate="20200810T164835Z">
-        <seg>然而，其他的建议是技术文档工程师的标准指南。&lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T040345Z" creationid="lenovo" creationdate="20200810T164835Z">
+        <seg>其他一些建议是技术文档工程师的标准指南。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17244,6 +17252,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T030934Z" creationid="lenovo" creationdate="20200811T030934Z">
         <seg>第三版&lt;t0/&gt;DQTI&lt;t1/&gt;还有如下内容：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>xiii).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T040502Z" creationid="DSS" creationdate="20200824T040502Z">
+        <seg>xiii)</seg>
       </tuv>
     </tu>
     <tu>
