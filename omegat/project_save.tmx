@@ -11153,8 +11153,8 @@
       <tuv lang="en">
         <seg>Published in &lt;t6/&gt;1983, &lt;t7/&gt;PQTI&lt;t8/&gt; was credited to Morris Dean and a long list of co-authors (or co- “preparers”) and focused on a list of requirements of quality, presented under the principle of “technical information that meets all the requirements is quality information” (Dean et al., &lt;t9/&gt;1983, &lt;t10/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130919Z" creationid="lenovo" creationdate="20200810T154906Z">
-        <seg>&lt;t6/&gt;&lt;t7/&gt;PQTI&lt;t8/&gt;1983年首次面世，归功于莫里斯·迪恩以及一大批合著者，重点关注质量要求列表，并秉持“满足所有要求的技术信息是才是高质量信息”的原则” (Dean et al., &lt;t9/&gt;1983, &lt;t10/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T035236Z" creationid="lenovo" creationdate="20200810T154906Z">
+        <seg>&lt;t6/&gt;&lt;t7/&gt;PQTI&lt;t8/&gt;1983年首次面世，归功于莫里斯·迪恩以及一大批合著者，重点关注质量要求列表，并秉持“满足所有要求的技术信息是才是高质量信息”的原则”(Dean et al., &lt;t9/&gt;1983, &lt;t10/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16265,8 +16265,8 @@
       <tuv lang="en">
         <seg>When I tried to measure the impact of John Carroll's theory of minimalism on content development, I remembered that Michael Priestley has acknowl&lt;t0/&gt;edged in several occasions that minimalism, via the IBM publication &lt;t1/&gt;Developing Quality Technical Information&lt;t2/&gt; (&lt;t3/&gt;DQTI&lt;t4/&gt;), was one of the big influences on DITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130916Z" creationid="lenovo" creationdate="20200810T143050Z">
-        <seg>当我试图衡量约翰·卡罗尔极简主义理论对内容发展的影响时，我想起迈克尔·普里斯特利在多个场合承认，经由IBM出版的《开发高质量技术信息》，极简主义对DITA造成的影响名列前茅。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T035144Z" creationid="lenovo" creationdate="20200810T143050Z">
+        <seg>当我试图衡量约翰·卡罗尔极简主义理论对内容发展的影响时，我想起迈克尔·普里斯特利在多个场合承认，IBM出版的《开发高质量技术信息》指出，极简主义对DITA造成的影响名列前茅。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17008,6 +17008,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ii).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T035308Z" creationid="DSS" creationdate="20200824T035308Z">
+        <seg>ii)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>in &lt;t0/&gt;Intelligent Content: A Primer&lt;t1/&gt;, which introduces important keywords that drive the development of those “more than templates” of struc&lt;t2/&gt;tured authoring that allow writers to put into action thought structures built</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131430Z" creationid="DSS" creationdate="20200811T135814Z">
@@ -17330,8 +17338,8 @@
       <tuv lang="en">
         <seg>{ &lt;t0/&gt;Indicate a practical reason for information</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T161458Z" creationid="lenovo" creationdate="20200810T161458Z">
-        <seg>{ &lt;t0/&gt;说明信息的应用性</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T035355Z" creationid="lenovo" creationdate="20200810T161458Z">
+        <seg>&lt;t0/&gt;说明信息的应用性</seg>
       </tuv>
     </tu>
     <tu>
@@ -17354,8 +17362,8 @@
       <tuv lang="en">
         <seg>{ &lt;t0/&gt;Present information from the reader's point of view</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T161412Z" creationid="lenovo" creationdate="20200810T161412Z">
-        <seg>{ &lt;t0/&gt;从读者视角展示信息</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T035311Z" creationid="lenovo" creationdate="20200810T161412Z">
+        <seg>&lt;t0/&gt;从读者视角展示信息</seg>
       </tuv>
     </tu>
     <tu>
