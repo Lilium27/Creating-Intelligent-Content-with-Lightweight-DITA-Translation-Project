@@ -1417,6 +1417,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t4/&gt;311).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T031021Z" creationid="DSS" creationdate="20200824T031021Z">
+        <seg>&lt;t4/&gt;311)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t4/&gt;6).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144229Z" creationid="DSS" creationdate="20200726T154855Z">
@@ -1571,8 +1579,8 @@
       <tuv lang="en">
         <seg>&lt;t5/&gt;Following their model, the rhetorical conventions of a technical manual presented by Cohen and Cunningham can be described as generic &lt;t6/&gt;- &lt;t7/&gt;they were specific to a genre (the technical manual).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T073357Z" creationid="lenovo" creationdate="20200810T073211Z">
-        <seg>&lt;t5/&gt;根据他们的模型，柯亨和坎宁安提出的技术手册的修辞惯例可以说是通用的&lt;t6/&gt;- &lt;t7/&gt;它们适用于特定体裁（技术手册）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T031040Z" creationid="lenovo" creationdate="20200810T073211Z">
+        <seg>&lt;t5/&gt;根据他们的模型，柯亨和坎宁安提出的技术手册的修辞惯例可以说是通用的&lt;t6/&gt;——&lt;t7/&gt;它们适用于特定体裁（技术手册）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13107,8 +13115,8 @@
       <tuv lang="en">
         <seg>The authors did not present them as, say, the official rhetorical conventions for manuals at IBM. Jonathan Price, however, did move beyond the generic conventions and crossed into the organizational or institutional type of topical convention in his &lt;t8/&gt;1984 &lt;t9/&gt;book &lt;t10/&gt;How to Write a Computer Manual: A Handbook of Software Documentation&lt;t11/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130913Z" creationid="lenovo" creationdate="20200810T073345Z">
-        <seg>作者并没有把它们作为，比如说，IBM手册的官方修辞惯例。乔纳森·普莱斯（Jonathan Price）在他1984年出版的《如何编写计算机手册：软件文档手册》的确从通用惯例的基础上往前迈了一步，开创了组织机构型主题惯例。.&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T031216Z" creationid="lenovo" creationdate="20200810T073345Z">
+        <seg>作者并没有把它们作为，比如说，IBM手册的官方修辞惯例。乔纳森·普莱斯（Jonathan Price）1984年出版的《如何编写计算机手册：软件文档手册》的确从通用惯例的基础上往前迈了一步，开创了组织机构型主题惯例。&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17571,8 +17579,8 @@
       <tuv lang="en">
         <seg>“Friendly manuals sell products, expand users' understanding of the extra features, and save everyone's time,” he wrote (Price, &lt;t0/&gt;1984, &lt;t1/&gt;p.7).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T074430Z" creationid="lenovo" creationdate="20200810T074430Z">
-        <seg>“友好的手册能增加产品销量、扩展用户对附加功能的理解，并节省每个人的时间。” 他写到(Price, &lt;t0/&gt;1984, &lt;t1/&gt;p.7).</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T031241Z" creationid="lenovo" creationdate="20200810T074430Z">
+        <seg>“友好的手册能增加产品销量、扩展用户对附加功能的理解，并节省每个人的时间。” 他写到(Price, &lt;t0/&gt;1984, &lt;t1/&gt;p.7)。</seg>
       </tuv>
     </tu>
     <tu>
