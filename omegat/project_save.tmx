@@ -1793,6 +1793,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t7/&gt;185).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T063658Z" creationid="DSS" creationdate="20200824T063658Z">
+        <seg>&lt;t7/&gt;185)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t7/&gt;260).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T035501Z" creationid="DSS" creationdate="20200817T035501Z">
@@ -6803,8 +6811,8 @@
       <tuv lang="en">
         <seg>His WRA 420: &lt;t0/&gt;Advanced Technical Writing&lt;t1/&gt; course at Michigan State University had stu&lt;t2/&gt;dents using the DITA standard to structure and publish information more than a decade before I started writing this chapter.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130956Z" creationid="lenovo" creationdate="20200811T163348Z">
-        <seg>在我开始撰写本章的十多年前，他在密歇根州立大学WRA 420: &lt;t0/&gt;高级技术写作&lt;t1/&gt;&lt;t2/&gt;课程上让学生使用DITA标准来构造和发布信息。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T063910Z" creationid="lenovo" creationdate="20200811T163348Z">
+        <seg>在我开始撰写本章的十多年前，他在密歇根州立大学WRA 420: 《&lt;t0/&gt;高级技术写作&lt;t1/&gt;&lt;t2/&gt;》课程上让学生使用DITA标准来构造和发布信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10735,8 +10743,8 @@
       <tuv lang="en">
         <seg>Other elements, like &lt;t18/&gt;&lt;lcObjective&gt; &lt;t19/&gt;for a single learning objective or &lt;t20/&gt;&lt;lcDelivery&gt; &lt;t21/&gt;for delivery method of educational content, are peculiar to the DITA learning and training specialization.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T162957Z" creationid="lenovo" creationdate="20200811T162957Z">
-        <seg>其他元素，如&lt;t18/&gt;&lt;lcObjective&gt; &lt;t19/&gt;对于单一的学习目标，或&lt;t20/&gt;&lt;lcDelivery&gt; &lt;t21/&gt;对于教育内容的传达方式，是DITA学习和培训专业化所特有的。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T063756Z" creationid="lenovo" creationdate="20200811T162957Z">
+        <seg>其他元素，如表示单一的学习目标的&lt;t18/&gt;&lt;lcObjective&gt; &lt;t19/&gt;，或表示教育内容传达方式的&lt;t20/&gt;&lt;lcDelivery&gt; &lt;t21/&gt;，是DITA学习和培训专业化所特有的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10927,8 +10935,8 @@
       <tuv lang="en">
         <seg>Prelli explains rhetorical &lt;t3/&gt;topoi&lt;t4/&gt; as “headings or topics that identify lines of thought.” He adds that “some of these lines of development are relevant to virtually all discussion within a culture; others are peculiar to specific subjects and fields of inquiry” (Prelli, &lt;t5/&gt;1989, &lt;t6/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034603Z" creationid="lenovo" creationdate="20200811T162019Z">
-        <seg>普雷利将修辞性&lt;t3/&gt;主题&lt;t4/&gt;解释为“确定思路的标题或主题。” 他补充到“其中一些发展思路与文化中几乎所有的讨论都有关；其他的则是特定学科和研究领域所特有的"(Prelli, &lt;t5/&gt;1989, &lt;t6/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T063644Z" creationid="lenovo" creationdate="20200811T162019Z">
+        <seg>普雷利将修辞性&lt;t3/&gt;主题&lt;t4/&gt;解释为“确定思路的标题或主题。” 他补充到“其中一些发展思路与文化中几乎所有的讨论都有关；其他的则是特定学科和研究领域所特有的”(Prelli, &lt;t5/&gt;1989, &lt;t6/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16538,8 +16546,8 @@
       <tuv lang="en">
         <seg>William Hart-Davidson was an early DITA adopter in academia.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T163230Z" creationid="lenovo" creationdate="20200811T163230Z">
-        <seg>威廉·哈特·戴维森是学界最早采用DITA的人之一</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T063807Z" creationid="lenovo" creationdate="20200811T163230Z">
+        <seg>威廉·哈特·戴维森是学界最早采用DITA的人之一。</seg>
       </tuv>
     </tu>
     <tu>
