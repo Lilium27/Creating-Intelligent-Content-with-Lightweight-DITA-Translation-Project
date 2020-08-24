@@ -5393,8 +5393,8 @@
       <tuv lang="en">
         <seg>FIGURE 5.4 &lt;t0/&gt;DITA topic including biographical information about Chef Pedro.&lt;t1/&gt; The topic's elements include simple structures like a title, a short description, and a body containing paragraphs.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200808T031014Z">
-        <seg>图5.4&lt;t0/&gt; DITA 主题的内容包含对厨师佩德罗的生平介绍。&lt;t1/&gt;用到的主题元素有标题元素、简短描述元素、段落元素、主体元素等简单结构，其中段落元素包含在主题元素内部。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T074913Z" creationid="DSS" creationdate="20200808T031014Z">
+        <seg>图5.4&lt;t0/&gt; DITA 主题的内容包含对厨师佩德罗的生平介绍。&lt;t1/&gt;用到的主题元素有标题元素、简短描述元素、段落元素、主体元素等简单结构，其中段落元素包含在主体元素内部。</seg>
       </tuv>
     </tu>
     <tu>
