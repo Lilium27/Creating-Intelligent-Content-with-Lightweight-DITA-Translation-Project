@@ -534,6 +534,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t1/&gt;356).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T061948Z" creationid="DSS" creationdate="20200824T061948Z">
+        <seg>&lt;t1/&gt;356)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t1/&gt;As I write this, I am a member of the CHCI executive committee and chair of its education-oriented strategic planning group.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200731T133617Z" creationid="lenovo" creationdate="20200723T095220Z">
@@ -8565,8 +8573,8 @@
       <tuv lang="en">
         <seg>In the specific case of the task topic type, some of those moves included a rationale for the task (“why or when a user would want to perform this task”), prerequisites for the task (“what a user should do before performing this task”), responses to the actions (“what the user should see as a result of doing the action”), examples (“examples of what information to enter or what to do”), and post&lt;t0/&gt;requisites for the task (“what to do next after this task is completed”) (Priestley et al.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130940Z" creationid="lenovo" creationdate="20200811T125900Z">
-        <seg>特殊情况下的任务主题，一些文步会为这个任务提供合理解释（“为什么或者何时用户想要执行这个任务”），任务的先决条件(“在执行这个任务之前用户应该做什么”)，动作响应(“用户完成动作后应该看到的结果”)，示例（输入的信息示例或指导示例）和任务后决条件(这个任务完成后“下一步该做什么”)(Priestley et al.&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T061928Z" creationid="lenovo" creationdate="20200811T125900Z">
+        <seg>特殊情况下的任务主题，文步包括以下内容：任务的合理解释（“为什么或者何时用户想要执行这个任务”），任务的先决条件(“在执行这个任务之前用户应该做什么”)，动作响应(“用户完成动作后应该看到的结果”)，示例（输入的信息示例或指导示例）和任务后决条件(这个任务完成后“下一步该做什么”)(Priestley et al.&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
