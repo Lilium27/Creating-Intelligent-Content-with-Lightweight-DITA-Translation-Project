@@ -9109,8 +9109,8 @@
       <tuv lang="en">
         <seg>It may be moved to an appendix if the process is performed only once for the entire instal&lt;t1/&gt;lation” (1976, p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130858Z" creationid="lenovo" creationdate="20200809T024640Z">
-        <seg>如果在整个安装过程中，这一步骤只需执行一次则可以移至附录。“ (1976, p.&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T025254Z" creationid="lenovo" creationdate="20200809T024640Z">
+        <seg>如果在整个安装过程中，这一步骤只需执行一次则可以移至附录。”(1976, p.&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11553,8 +11553,8 @@
       <tuv lang="en">
         <seg>Should describe “all statements, commands, parameters, and options that a user must cope with” &lt;t1/&gt;(1976, &lt;t2/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T235249Z" creationid="lenovo" creationdate="20200809T235249Z">
-        <seg>应该描述“用户必须处理的所有语句、命令、参数和选项。”&lt;t1/&gt;(1976, &lt;t2/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T025540Z" creationid="lenovo" creationdate="20200809T235249Z">
+        <seg>描述“用户必须处理的所有语句、命令、参数和选项。”&lt;t1/&gt;(1976, &lt;t2/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17660,8 +17660,8 @@
       <tuv lang="en">
         <seg>“This section does not apply to all software packages (sic), and its contents are variable even when it does apply.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T024414Z" creationid="lenovo" creationdate="20200809T024414Z">
-        <seg>“这个章节并不适用于所有软件包，并且在应用的软件上，其内容也千差万别。”</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T025349Z" creationid="lenovo" creationdate="20200809T024414Z">
+        <seg>“这个章节并不适用于所有软件包，并且在应用在不同的软件上，其内容也千差万别。</seg>
       </tuv>
     </tu>
     <tu>
