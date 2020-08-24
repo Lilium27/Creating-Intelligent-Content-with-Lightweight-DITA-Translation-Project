@@ -4180,8 +4180,8 @@
       <tuv lang="en">
         <seg>Clarity</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T030642Z" creationid="lenovo" creationdate="20200810T162612Z">
-        <seg>明确</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T035907Z" creationid="lenovo" creationdate="20200810T162612Z">
+        <seg>清晰性</seg>
       </tuv>
     </tu>
     <tu>
@@ -10663,8 +10663,8 @@
       <tuv lang="en">
         <seg>Other &lt;t2/&gt;recommendations, however, were standard guidelines for technical writers.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130924Z" creationid="lenovo" creationdate="20200810T164835Z">
-        <seg>然而，其他的建议是技术作者的标准指南。&lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T040002Z" creationid="lenovo" creationdate="20200810T164835Z">
+        <seg>然而，其他的建议是技术文档工程师的标准指南。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17258,16 +17258,16 @@
       <tuv lang="en">
         <seg>{ &lt;t0/&gt;Cover all the topics that readers need, and only those topics</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T163454Z" creationid="lenovo" creationdate="20200810T163454Z">
-        <seg>{ &lt;t0/&gt;包含且仅包含读者需要所有主题</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T035647Z" creationid="lenovo" creationdate="20200810T163454Z">
+        <seg>&lt;t0/&gt;包含且仅包含读者需要所有主题</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>{ &lt;t0/&gt;Cover each topic in just as much detail as readers need</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T163508Z" creationid="lenovo" creationdate="20200810T163508Z">
-        <seg>{ &lt;t0/&gt;尽可能详细地介绍每一个主题</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T035651Z" creationid="lenovo" creationdate="20200810T163508Z">
+        <seg>&lt;t0/&gt;尽可能详细地介绍每一个主题</seg>
       </tuv>
     </tu>
     <tu>
@@ -17330,8 +17330,8 @@
       <tuv lang="en">
         <seg>{ &lt;t0/&gt;Include all standard parts and all promised information</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T163705Z" creationid="lenovo" creationdate="20200810T163705Z">
-        <seg>{ &lt;t0/&gt;包含所有的标准部分和承诺提供的信息</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T035653Z" creationid="lenovo" creationdate="20200810T163705Z">
+        <seg>&lt;t0/&gt;包含所有的标准部分和承诺提供的信息</seg>
       </tuv>
     </tu>
     <tu>
@@ -17386,16 +17386,16 @@
       <tuv lang="en">
         <seg>{ &lt;t0/&gt;Provide accurate references and other auxiliary information</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T163221Z" creationid="lenovo" creationdate="20200810T163221Z">
-        <seg>{ &lt;t0/&gt;提供准确的参考资料和其他辅助信息</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T035638Z" creationid="lenovo" creationdate="20200810T163221Z">
+        <seg>&lt;t0/&gt;提供准确的参考资料和其他辅助信息</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>{ &lt;t0/&gt;Provide accurate technical information</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T163206Z" creationid="lenovo" creationdate="20200810T163206Z">
-        <seg>{ &lt;t0/&gt;提供准确的技术信息</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T035634Z" creationid="lenovo" creationdate="20200810T163206Z">
+        <seg>&lt;t0/&gt;提供准确的技术信息</seg>
       </tuv>
     </tu>
     <tu>
@@ -17426,8 +17426,8 @@
       <tuv lang="en">
         <seg>{ &lt;t0/&gt;Repeat information only when readers will benefit from it (Dean et al., &lt;t1/&gt;1983).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T163726Z" creationid="lenovo" creationdate="20200810T163726Z">
-        <seg>{ &lt;t0/&gt; 只有当读者能从中受益时，才重复信息(Dean et al., &lt;t1/&gt;1983).</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T035814Z" creationid="lenovo" creationdate="20200810T163726Z">
+        <seg>&lt;t0/&gt; 只有当读者能从中受益时，才重复信息(Dean et al., &lt;t1/&gt;1983)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17450,8 +17450,8 @@
       <tuv lang="en">
         <seg>{ &lt;t0/&gt;Use correct grammar, spelling, and punctuation</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T163328Z" creationid="lenovo" creationdate="20200810T163328Z">
-        <seg>{ &lt;t0/&gt;使用正确的语法、拼写和标点符号</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T035640Z" creationid="lenovo" creationdate="20200810T163328Z">
+        <seg>&lt;t0/&gt;使用正确的语法、拼写和标点符号</seg>
       </tuv>
     </tu>
     <tu>
@@ -17466,8 +17466,8 @@
       <tuv lang="en">
         <seg>{ &lt;t0/&gt;Use sexually neutral terms, unless other terms are appropriate</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T163247Z" creationid="lenovo" creationdate="20200810T163247Z">
-        <seg>{ &lt;t0/&gt;使用中性的术语，除非有其他合适的术语</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T035643Z" creationid="lenovo" creationdate="20200810T163247Z">
+        <seg>&lt;t0/&gt;使用中性的术语，除非有其他合适的术语</seg>
       </tuv>
     </tu>
     <tu>
