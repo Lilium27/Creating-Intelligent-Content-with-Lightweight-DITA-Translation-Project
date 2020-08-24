@@ -4583,8 +4583,8 @@
       <tuv lang="en">
         <seg>DITA just encoded some existing writing standards within IBM, for topic orientation and information typing.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T004742Z" creationid="lenovo" creationdate="20200804T004742Z">
-        <seg>DITA只是对IBM现存的写作标准进行编码，用于划分主题和信息类型。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T032559Z" creationid="lenovo" creationdate="20200804T004742Z">
+        <seg>DITA只是对IBM现存的写作标准进行编码，用于划分话题和信息类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6051,8 +6051,8 @@
       <tuv lang="en">
         <seg>Focusing on a different genre of technical writing, Carolyn Miller and Jack Selzer analyzed the structure and argumentation elements of technical reports by detailing their rhetorical conventions, or topical basis of discourse.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T031005Z" creationid="lenovo" creationdate="20200810T072714Z">
-        <seg>卡洛琳·米勒（Carolyn Miller）和杰克·瑟尔泽（Jack Selzer）以技术写作的不同体裁作为研究重点，通过仔细研究其修辞惯例或话语主题基础，分析了技术报告的结构和论证要素。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T032856Z" creationid="lenovo" creationdate="20200810T072714Z">
+        <seg>卡洛琳·米勒（Carolyn Miller）和杰克·瑟尔泽（Jack Selzer）以技术写作的不同体裁作为研究重点，通过仔细研究其修辞惯例或语篇话题基础，分析了技术报告的结构和论证要素。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6291,8 +6291,8 @@
       <tuv lang="en">
         <seg>For techni&lt;t4/&gt;cal communicators creating intelligent content, the negative side of schemas (probably presented as XML files) is in the “perception that XML forces writ&lt;t5/&gt;ers into creating cookie-cutter topics rather than useful technical information” (O'Keefe, &lt;t6/&gt;2010, &lt;t7/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130845Z" creationid="lenovo" creationdate="20200805T025959Z">
-        <seg>对于创建智能内容的技术传播工程师来说，模式(可能以XML文件的形式呈现)的负面影响是“XML格式迫使作者创建千篇一律的主题，而非有用的技术信息”。(O'Keefe, 2010, p.&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T032733Z" creationid="lenovo" creationdate="20200805T025959Z">
+        <seg>对于创建智能内容的技术传播工程师来说，模式(可能以XML文件的形式呈现)的负面影响是“XML格式迫使作者创建千篇一律的话题，而非有用的技术信息”。(O'Keefe, 2010, p.&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9101,16 +9101,16 @@
       <tuv lang="en">
         <seg>It is really not much more than a long-winded Topic Index” (1976, p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T014944Z" creationid="lenovo" creationdate="20200809T014914Z">
-        <seg>它不过就是加长版的主题索引。”(1976, p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T032745Z" creationid="lenovo" creationdate="20200809T014914Z">
+        <seg>它不过就是加长版的话题索引。”(1976, p.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>It is usually well defined and restricted to a single narrow topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T002206Z" creationid="lenovo" creationdate="20200810T002206Z">
-        <seg>它通常定义明确且主题限定在狭小范围内。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T032832Z" creationid="lenovo" creationdate="20200810T002206Z">
+        <seg>它通常定义明确且话题限定在狭小范围内。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12378,8 +12378,8 @@
       <tuv lang="en">
         <seg>That same author could, with some tweaking of XML schemas or with help from an information architect, adapt the task topic to make the “fixed pattern or template” mentioned by Johnson into something that works for them.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T151715Z" creationid="lenovo" creationdate="20200804T075532Z">
-        <seg>同时创作者也可以对XML模式进行一些调整，或者在信息架构师的帮助下，调整任务主题，使得约翰逊提到的“固定的模式或模板”能够转换成对他们行之有效的形式。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T032626Z" creationid="lenovo" creationdate="20200804T075532Z">
+        <seg>同时创作者也可以对XML模式进行一些调整，或者在信息架构师的帮助下，调整任务话题，使得约翰逊提到的“固定的模式或模板”能够转换成对他们行之有效的形式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13493,8 +13493,8 @@
       <tuv lang="en">
         <seg>The fixed content types that have been a part of DITA XML since its origins at IBM have always been open to evolution: an author can write, for example, a task topic with the default elements and attributes included in the DITA stand&lt;t0/&gt;ard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T151639Z" creationid="lenovo" creationdate="20200804T074920Z">
-        <seg>固定的内容类型一直是DITA XML的一部分，从IBM创建以来就一直在发展：创作者可以利用包含在DITA标准中的默认元素和属性来写作，比如说撰写任务主题。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T032614Z" creationid="lenovo" creationdate="20200804T074920Z">
+        <seg>固定的内容类型一直是DITA XML的一部分，从IBM创建以来就一直在发展：创作者可以利用包含在DITA标准中的默认元素和属性来写作，比如说撰写任务话题。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15470,8 +15470,8 @@
       <tuv lang="en">
         <seg>This process of specialization is reflected in the “D” of DITA: topics and their elements can evolve in the Darwinian sense of the word.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200804T081812Z" creationid="lenovo" creationdate="20200804T081156Z">
-        <seg>专门化过程反映在DITA的“D”字母上：D代指达尔文进化论，表示主题及其元素能够向前演进。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T032642Z" creationid="lenovo" creationdate="20200804T081156Z">
+        <seg>专门化过程反映在DITA的“D”字母上：D代指达尔文进化论，表示话题及其元素能够向前演进。</seg>
       </tuv>
     </tu>
     <tu>
