@@ -112,8 +112,8 @@
       <tuv lang="en">
         <seg>.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T121932Z" creationid="DSS" creationdate="20200804T164017Z">
-        <seg>……</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T062547Z" creationid="DSS" creationdate="20200804T164017Z">
+        <seg>…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1339,8 +1339,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;The technical specifi&lt;t4/&gt;cation for the DITA standard defines topic as follows:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130946Z" creationid="lenovo" creationdate="20200811T143258Z">
-        <seg>&lt;t3/&gt;&lt;t4/&gt;DITA标准的技术规范对主题的定义如下:</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T062630Z" creationid="lenovo" creationdate="20200811T143258Z">
+        <seg>&lt;t3/&gt;&lt;t4/&gt;DITA标准的技术规范对主题的定义如下：</seg>
       </tuv>
     </tu>
     <tu>
@@ -2092,8 +2092,8 @@
       <tuv lang="en">
         <seg>A Topic by Any Other Name &lt;t0/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T143213Z" creationid="lenovo" creationdate="20200811T143213Z">
-        <seg>主题的其他名称 &lt;t0/&gt;.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T062543Z" creationid="lenovo" creationdate="20200811T143213Z">
+        <seg>主题的其他名称 &lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8605,8 +8605,8 @@
       <tuv lang="en">
         <seg>In the world of DITA XML, “a topic is the basic unit of authoring and reuse” &lt;t0/&gt;(2.2.1.1 &lt;t1/&gt;The topic as the basic unit of information, &lt;t2/&gt;2016).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T143235Z" creationid="lenovo" creationdate="20200811T143235Z">
-        <seg>在DITA XML世界中，“主题是创作和复用的基本单元” &lt;t0/&gt;(2.2.1.1 &lt;t1/&gt;The topic as the basic unit of information, &lt;t2/&gt;2016).</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T062603Z" creationid="lenovo" creationdate="20200811T143235Z">
+        <seg>在DITA XML世界中，“主题是创作和复用的基本单元” &lt;t0/&gt;(2.2.1.1 &lt;t1/&gt;The topic as the basic unit of information, &lt;t2/&gt;2016)，</seg>
       </tuv>
     </tu>
     <tu>
@@ -9477,8 +9477,8 @@
       <tuv lang="en">
         <seg>Lastly, the &lt;t21/&gt;&lt;postreq&gt; &lt;t22/&gt;element can provide one or more actions that need to be conducted after the core steps of this specific task topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T142027Z" creationid="lenovo" creationdate="20200811T142027Z">
-        <seg>最后，&lt;t21/&gt;&lt;postreq&gt; &lt;t22/&gt;元素可以提供在此特定任务主题的核心步骤之后需要执行的一个或多个操作。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T062434Z" creationid="lenovo" creationdate="20200811T142027Z">
+        <seg>最后，&lt;t21/&gt;&lt;postreq&gt; &lt;t22/&gt;元素可以提供在此特定任务主题的核心步骤完成之后，需要执行的一个或多个操作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10615,8 +10615,8 @@
       <tuv lang="en">
         <seg>One of the many approaches I have adopted to introduce the DITA standard in a human- ities-based Professional and Technical Writing curriculum is to present those elements as rhetorical conventions of our specialized discourse community.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T143037Z" creationid="lenovo" creationdate="20200811T143037Z">
-        <seg>我在专业技术写作课程中引入DITA采用的方法之一就是将这些元素作为我们专业话语社区的修辞惯例来呈现。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T062507Z" creationid="lenovo" creationdate="20200811T143037Z">
+        <seg>我在专业技术写作课程中引入DITA采用的方法之一，就是将这些元素作为我们专业话语社区的修辞惯例来呈现。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13403,8 +13403,8 @@
       <tuv lang="en">
         <seg>The element &lt;t12/&gt;&lt;stepresult&gt;&lt;t13/&gt;, which is a child of the element &lt;t14/&gt;&lt;step&gt;&lt;t15/&gt;, provides possible responses to the actions conducted by users.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T141835Z" creationid="lenovo" creationdate="20200811T141835Z">
-        <seg>元素&lt;t12/&gt;&lt;stepresult&gt;&lt;t13/&gt;是元素&lt;t14/&gt;&lt;step&gt;&lt;t15/&gt;的子元素，提供对用户操作的可能响应。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T062416Z" creationid="lenovo" creationdate="20200811T141835Z">
+        <seg>元素&lt;t12/&gt;&lt;stepresult&gt;&lt;t13/&gt;是元素&lt;t14/&gt;&lt;step&gt;&lt;t15/&gt;的子元素，表示对用户操作的可能响应。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14038,8 +14038,8 @@
       <tuv lang="en">
         <seg>The prerequisites were already present in the example from&lt;t2/&gt; Chapter &lt;t3/&gt;1&lt;t4/&gt;, &lt;t5/&gt;in the &lt;t6/&gt;&lt;prereq&gt; &lt;t7/&gt;element, which includes an unordered list (&lt;t8/&gt;&lt;ul&gt;&lt;t9/&gt;) with list items (&lt;t10/&gt;&lt;li&gt;&lt;t11/&gt;) for all the ingredients the user would need to complete the recipe.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130943Z" creationid="lenovo" creationdate="20200811T141804Z">
-        <seg>&lt;t2/&gt; 第一 &lt;t3/&gt;章&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;的案例已经展示了先决条件，都包含在在&lt;prereq&gt;元素中，其中包括一个无序列表(&lt;t8/&gt;&lt;ul&gt;&lt;t9/&gt;)和列表项(&lt;t10/&gt;&lt;li&gt;&lt;t11/&gt;)，用于用户完成菜谱所需的所有配料。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T062342Z" creationid="lenovo" creationdate="20200811T141804Z">
+        <seg>&lt;t2/&gt; 第一 &lt;t3/&gt;章&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;的案例已经展示了先决条件，都包含在在&lt;prereq&gt;元素中，其中包括一个无序列表(&lt;t8/&gt;&lt;ul&gt;&lt;t9/&gt;)和列表项(&lt;t10/&gt;&lt;li&gt;&lt;t11/&gt;)，用于表示用户完成菜谱所需的所有配料。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15310,8 +15310,8 @@
       <tuv lang="en">
         <seg>This approach also helped during the process of designing the content and element types of LwDITA, but it all started with understanding the different meanings of the term &lt;t0/&gt;topic&lt;t1/&gt; for the proposed standard's intended audiences of practitioners and academics.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T023623Z" creationid="lenovo" creationdate="20200811T143147Z">
-        <seg>这种方法在设计LwDITA的内容和元素类型的过程中也有帮助，但是首先要理解术语&lt;t0/&gt;主题&lt;t1/&gt;对于提倡的标准的目标受众(从业者和学者)的不同含义。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T062530Z" creationid="lenovo" creationdate="20200811T143147Z">
+        <seg>这种方法在设计LwDITA的内容和元素类型的过程中也有帮助，但是首先要理解术语&lt;t0/&gt;主题&lt;t1/&gt;（topic）对于提倡的标准的目标受众(从业者和学者)的不同含义。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15686,8 +15686,8 @@
       <tuv lang="en">
         <seg>Those conventions, or content commonplaces, specific to the genre of task identified by the DITA architects, created quite the strict template that came with many of the benefits I have mentioned in previous chapters.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T142513Z" creationid="lenovo" creationdate="20200811T142354Z">
-        <seg>那些作用于DITA架构师定义的任务体裁的惯例或内容常规，创建了相当严格的模板，带来了我在前几章中提到的诸多好处。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T062446Z" creationid="lenovo" creationdate="20200811T142354Z">
+        <seg>那些作用于DITA架构师定义的任务体裁惯例或内容常规，创建了相当严格的模板，带来了我在前几章中提到的诸多好处。</seg>
       </tuv>
     </tu>
     <tu>
