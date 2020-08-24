@@ -1419,8 +1419,8 @@
       <tuv lang="en">
         <seg>&lt;t4/&gt;2) &lt;t5/&gt;and in the most recent edition is presented as: “In the context of a product, a focus on helping users do tasks that support their goals” (Carey et al., &lt;t6/&gt;2014, &lt;t7/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T030236Z" creationid="lenovo" creationdate="20200811T030236Z">
-        <seg>&lt;t4/&gt;2) &lt;t5/&gt; 在最新版本中是这样描述的:“在产品的环境中，关注于帮助用户完成支持他们目标的任务”(Carey et al., &lt;t6/&gt;2014, &lt;t7/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T042018Z" creationid="lenovo" creationdate="20200811T030236Z">
+        <seg>&lt;t4/&gt;2) &lt;t5/&gt;。在最新版本中是这样描述的：“在产品的环境中，关注于帮助用户完成辅助实现目标的任务”(Carey et al., &lt;t6/&gt;2014, &lt;t7/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1857,6 +1857,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t8/&gt;14).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T041941Z" creationid="DSS" creationdate="20200824T041941Z">
+        <seg>&lt;t8/&gt;14)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t8/&gt;162).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T152239Z" creationid="DSS" creationdate="20200821T152239Z">
@@ -1988,8 +1996,8 @@
       <tuv lang="en">
         <seg>&lt;t9/&gt;The &lt;t10/&gt;DQTI&lt;t11/&gt; quality characteristics, which still show some resemblance to the requirements from &lt;t12/&gt;PQTI&lt;t13/&gt;, are,</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T030403Z" creationid="lenovo" creationdate="20200811T030403Z">
-        <seg>&lt;t9/&gt; &lt;t10/&gt;DQTI&lt;t11/&gt;的质量特征与&lt;t12/&gt;PQTI&lt;t13/&gt;的要求仍有一些相似之处，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T042108Z" creationid="lenovo" creationdate="20200811T030403Z">
+        <seg>&lt;t9/&gt; &lt;t10/&gt;DQTI&lt;t11/&gt;的质量特征与&lt;t12/&gt;PQTI&lt;t13/&gt;的要求仍有一些相似之处：</seg>
       </tuv>
     </tu>
     <tu>
@@ -4284,8 +4292,8 @@
       <tuv lang="en">
         <seg>Completeness.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T030639Z" creationid="lenovo" creationdate="20200811T030611Z">
-        <seg>完整</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T042124Z" creationid="lenovo" creationdate="20200811T030611Z">
+        <seg>完整性</seg>
       </tuv>
     </tu>
     <tu>
@@ -6243,8 +6251,8 @@
       <tuv lang="en">
         <seg>For example, task orientation was originally defined as: “A focus on helping users complete the tasks associated with a product in relation to their jobs,” (Hargis, &lt;t2/&gt;1998, &lt;t3/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T030220Z" creationid="lenovo" creationdate="20200811T030220Z">
-        <seg>例如，面向任务最初被定义为:“专注于帮助用户完成与其工作相关的产品的任务，” (Hargis, &lt;t2/&gt;1998, &lt;t3/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T041918Z" creationid="lenovo" creationdate="20200811T030220Z">
+        <seg>例如，面向任务最初被定义为：“专注于帮助用户完成与其工作相关的产品的任务” (Hargis, &lt;t2/&gt;1998, &lt;t3/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
