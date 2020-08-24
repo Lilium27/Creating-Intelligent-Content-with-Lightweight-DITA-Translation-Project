@@ -945,6 +945,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t2/&gt;355).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T063211Z" creationid="DSS" creationdate="20200824T063211Z">
+        <seg>&lt;t2/&gt;355)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t2/&gt;9).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145308Z" creationid="DSS" creationdate="20200725T073822Z">
@@ -3836,16 +3844,16 @@
       <tuv lang="en">
         <seg>Before Intelligent Content, There Was the Computer Manual &lt;t0/&gt;53</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T150147Z" creationid="lenovo" creationdate="20200811T150147Z">
-        <seg>智能内容出现前,计算机手册占据主导  &lt;t0/&gt;53</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T062944Z" creationid="lenovo" creationdate="20200811T150147Z">
+        <seg>智能内容出现前，计算机手册占据主导  &lt;t0/&gt;53</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Before Intelligent Content, There Was the Computer Manual &lt;t0/&gt;55 &lt;t1/&gt;needs.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131004Z" creationid="lenovo" creationdate="20200812T022347Z">
-        <seg>智能内容出现前,计算机手册占据主导&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T062951Z" creationid="lenovo" creationdate="20200812T022347Z">
+        <seg>智能内容出现前，计算机手册占据主导&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4800,8 +4808,8 @@
       <tuv lang="en">
         <seg>Derek Ross warns readers about the deceptive simplicity of the terminology for topics in Aristotelian-inspired discourse:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T150634Z" creationid="lenovo" creationdate="20200811T150634Z">
-        <seg>德里克•罗斯（Derek Ross）警告读者，在亚里士多德启发式话语中，有关主题的术语看似简单实则不然：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T063241Z" creationid="lenovo" creationdate="20200811T150634Z">
+        <seg>德里克•罗斯（Derek Ross）警示读者，在亚里士多德启发式话语中，有关主题的术语看似简单实则不然：</seg>
       </tuv>
     </tu>
     <tu>
@@ -10663,8 +10671,8 @@
       <tuv lang="en">
         <seg>Or are they?</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T062914Z" creationid="lenovo" creationdate="20200811T150022Z">
-        <seg>它们是一样的吗？</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T063202Z" creationid="lenovo" creationdate="20200811T150022Z">
+        <seg>难道它们是一样的吗？</seg>
       </tuv>
     </tu>
     <tu>
