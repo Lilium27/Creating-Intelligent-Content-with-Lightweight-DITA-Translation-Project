@@ -32,7 +32,6 @@ cognitive dissonance	认知失调
 collect data	收集数据
 command line	命令行
 command line interface	命令行接口
-common topic	常见的话题
 complete example	完整示例
 computer code	计算机代码
 computer manuals	计算机手册
@@ -311,7 +310,6 @@ Bellamy	贝拉米
 Kerzreho	科兹热霍
 O'Keefe	奥基夫
 Pringle	普林格尔
-topic	话题
 Pedro	佩德罗
 You	你
 marinara sauce	意式番茄罗勒酱
