@@ -344,8 +344,8 @@
       <tuv lang="en">
         <seg>&lt;map&gt; &lt;t0/&gt;contains &lt;t1/&gt;&lt;title&gt;&lt;t2/&gt;, &lt;t3/&gt;&lt;topicref&gt; &lt;t4/&gt;(topic hyper-reference)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T075154Z" creationid="DSS" creationdate="20200731T075154Z">
-        <seg>&lt;map&gt; &lt;t0/&gt;包含 &lt;t1/&gt;&lt;title&gt;&lt;t2/&gt;、&lt;t3/&gt;&lt;topicref&gt; &lt;t4/&gt;（话题超链接）</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200731T075154Z">
+        <seg>&lt;map&gt; &lt;t0/&gt;包含 &lt;t1/&gt;&lt;title&gt;&lt;t2/&gt;、&lt;t3/&gt;&lt;topicref&gt; &lt;t4/&gt;（主题超链接）</seg>
       </tuv>
     </tu>
     <tu>
@@ -488,16 +488,16 @@
       <tuv lang="en">
         <seg>&lt;t0/&gt;Figure 6.4&lt;t1/&gt; reproduces the essential topic with a placeholder com&lt;t2/&gt;ment for content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T140553Z" creationid="DSS" creationdate="20200816T133739Z">
-        <seg>&lt;t0/&gt;图6.4&lt;t1/&gt;&lt;t2/&gt;展示了一个重新生成的基础话题，并用注释为内容占位。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T133739Z">
+        <seg>&lt;t0/&gt;图6.4&lt;t1/&gt;&lt;t2/&gt;展示了一个重新生成的基础主题，并用注释为内容占位。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;t0/&gt;Figure &lt;t1/&gt;1.12&lt;t2/&gt; &lt;t3/&gt;shows a PDF version of the XDITA topic created with the DITA-OT.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T081401Z" creationid="DSS" creationdate="20200817T081401Z">
-        <seg>图&lt;t0/&gt;&lt;t1/&gt;1.12&lt;t2/&gt;&lt;t3/&gt;展示了用 DITA-OT 创建的 XDITA 话题的 PDF 交付物。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T081401Z">
+        <seg>图&lt;t0/&gt;&lt;t1/&gt;1.12&lt;t2/&gt;&lt;t3/&gt;展示了用 DITA-OT 创建的 XDITA 主题的 PDF 交付物。</seg>
       </tuv>
     </tu>
     <tu>
@@ -520,8 +520,8 @@
       <tuv lang="en">
         <seg>&lt;t0/&gt;Table 3.1&lt;t1/&gt; reproduces the simple topic/article that Priestley included in that introductory blog post:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150831Z" creationid="DSS" creationdate="20200817T091751Z">
-        <seg>表3.1再现了普里斯特利在那篇介绍性博文中提到的的简单话题/项目：&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T091751Z">
+        <seg>表3.1再现了普里斯特利在那篇介绍性博文中提到的的简单主题/项目：&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -552,8 +552,8 @@
       <tuv lang="en">
         <seg>&lt;t1/&gt;Figure &lt;t2/&gt;1.9&lt;t3/&gt; &lt;t4/&gt;shows the same recipe as a topic tagged in HDITA, the LwDITA authoring for&lt;t5/&gt;mat that uses HTML5.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T055432Z" creationid="DSS" creationdate="20200817T055432Z">
-        <seg>图&lt;t1/&gt;&lt;t2/&gt;1.9&lt;t3/&gt;&lt;t4/&gt;展示了用 HDITA 标签编写的同一菜谱话题，HDITA 是使用 HTML5 的 LwDITA 写作格式。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T055432Z">
+        <seg>图&lt;t1/&gt;&lt;t2/&gt;1.9&lt;t3/&gt;&lt;t4/&gt;展示了用 HDITA 标签编写的同一菜谱主题，HDITA 是使用 HTML5 的 LwDITA 写作格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -714,8 +714,8 @@
       <tuv lang="en">
         <seg>&lt;t12/&gt;Figure 6.8&lt;t13/&gt; shows the franchise introduction topic with a title and a heading 1.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T140840Z" creationid="DSS" creationdate="20200816T140358Z">
-        <seg>图&lt;t12/&gt;6.8&lt;t13/&gt;展示了一个介绍特许经营权的话题，该话题包含标题元素和一级标题元素。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T140358Z">
+        <seg>图&lt;t12/&gt;6.8&lt;t13/&gt;展示了一个介绍特许经营权的主题，该主题包含标题元素和一级标题元素。</seg>
       </tuv>
     </tu>
     <tu>
@@ -955,8 +955,8 @@
       <tuv lang="en">
         <seg>&lt;t2/&gt;Figure 6.29&lt;t3/&gt; shows a browser view of the HDITA topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T142139Z" creationid="DSS" creationdate="20200817T142139Z">
-        <seg>图&lt;t2/&gt;6.29&lt;t3/&gt;展示了该 HDITA 话题在浏览器中的样子。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T142139Z">
+        <seg>图&lt;t2/&gt;6.29&lt;t3/&gt;展示了该 HDITA 主题在浏览器中的样子。</seg>
       </tuv>
     </tu>
     <tu>
@@ -987,8 +987,8 @@
       <tuv lang="en">
         <seg>&lt;t2/&gt;Figure &lt;t3/&gt;6.22&lt;t4/&gt; &lt;t5/&gt;shows an unordered, or bulleted, list with features of the &lt;t6/&gt;Sensei Sushi&lt;t7/&gt; franchise in an XDITA topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T161602Z" creationid="DSS" creationdate="20200816T161602Z">
-        <seg>&lt;t2/&gt;&lt;t3/&gt;图6.22&lt;t4/&gt;&lt;t5/&gt;展示了一个 XDITA 话题中的无序列表，或者说项目符号列表，该列表包含了&lt;t6/&gt; Sensei Sushi&lt;t7/&gt; 特许经营权的各项特性。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T161602Z">
+        <seg>&lt;t2/&gt;&lt;t3/&gt;图6.22&lt;t4/&gt;&lt;t5/&gt;展示了一个 XDITA 主题中的无序列表，或者说项目符号列表，该列表包含了&lt;t6/&gt; Sensei Sushi&lt;t7/&gt; 特许经营权的各项特性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1027,8 +1027,8 @@
       <tuv lang="en">
         <seg>&lt;t2/&gt;The generic topic is the only document type available for creating content in the initial release of the LwDITA specification.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T154124Z" creationid="DSS" creationdate="20200813T131133Z">
-        <seg>&lt;t2/&gt;在LwDITA规范最初的版本中，通用话题是用于创建内容的惟一文档类型。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200813T131133Z">
+        <seg>&lt;t2/&gt;在LwDITA规范最初的版本中，通用主题是用于创建内容的惟一文档类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1115,8 +1115,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;8), &lt;t4/&gt;and can be defined as “small independent piece of information on a single subject” (Baker, &lt;t5/&gt;2013, &lt;t6/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034205Z" creationid="DSS" creationdate="20200724T154307Z">
-        <seg>&lt;t3/&gt;8页），&lt;t4/&gt;话题也可以理解为“关于某个问题的短小独立的信息片段”（贝克，&lt;t5/&gt;2013年，&lt;t6/&gt;第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034603Z" creationid="DSS" creationdate="20200724T154307Z">
+        <seg>&lt;t3/&gt;8页），&lt;t4/&gt;主题也可以理解为“关于某个问题的短小独立的信息片段”（贝克，&lt;t5/&gt;2013年，&lt;t6/&gt;第</seg>
       </tuv>
     </tu>
     <tu>
@@ -1163,8 +1163,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;Because the topics are HTML5 files, they can be rendered in any web browser, and publishers can customize the rendered format with a standard CSS stylesheet.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150305Z" creationid="DSS" creationdate="20200817T055516Z">
-        <seg>因为话题都是 HTML5 文件，它们可以在任何网页浏览器中直接呈现，发布者可以使用标准的 CSS 样式表定制显示样式。&lt;t3/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T055516Z">
+        <seg>因为主题都是 HTML5 文件，它们可以在任何网页浏览器中直接呈现，发布者可以使用标准的 CSS 样式表定制显示样式。&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1259,8 +1259,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;Rhetorically effective &lt;t4/&gt;content can connect topical and authorial intentions with user responses regardless of a deliverable's format or context.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160845Z" creationid="DSS" creationdate="20200811T151643Z">
-        <seg>而有着良好&lt;t3/&gt;修辞效果&lt;t4/&gt;的内容可以将话题和作者的意图与用户的反馈联系起来，无需考虑内容的格式或上下文。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200811T151643Z">
+        <seg>而有着良好&lt;t3/&gt;修辞效果&lt;t4/&gt;的内容可以将主题和作者的意图与用户的反馈联系起来，无需考虑内容的格式或上下文。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1475,8 +1475,8 @@
       <tuv lang="en">
         <seg>&lt;t4/&gt;Figure 6.11&lt;t5/&gt; shows a short description in the introductory XDITA topic for the &lt;t6/&gt;Sensei Sushi&lt;t7/&gt; franchise brochure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T160730Z" creationid="DSS" creationdate="20200816T141228Z">
-        <seg>图&lt;t4/&gt;6.11&lt;t5/&gt;展示了用 XDITA 编写的介绍 &lt;t6/&gt;Sensei Sushi&lt;t7/&gt; 特许经营权的话题，其中包含简短描述组件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T141228Z">
+        <seg>图&lt;t4/&gt;6.11&lt;t5/&gt;展示了用 XDITA 编写的介绍 &lt;t6/&gt;Sensei Sushi&lt;t7/&gt; 特许经营权的主题，其中包含简短描述组件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1515,8 +1515,8 @@
       <tuv lang="en">
         <seg>&lt;t4/&gt;The topic includes some HDITA snippets taken from Priestley's introductory blog post, which created a sense of structure for generic moves in the Markdown syntax.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T153656Z" creationid="DSS" creationdate="20200802T155722Z">
-        <seg>&lt;t4/&gt;这个话题包含了一些从普里斯特利的介绍性博文中摘取的 HDITA 片段，这些片段为 Markdown 语法中的通用功能创造了一种结构感。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200802T155722Z">
+        <seg>&lt;t4/&gt;这个主题包含了一些从普里斯特利的介绍性博文中摘取的 HDITA 片段，这些片段为 Markdown 语法中的通用功能创造了一种结构感。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1643,16 +1643,16 @@
       <tuv lang="en">
         <seg>&lt;t5/&gt;The simplified authoring experience of LwDITA, however, is based on a single topic type with elements common to most information units, including the following:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150253Z" creationid="DSS" creationdate="20200817T054033Z">
-        <seg>而 LwDITA 的简化写作基于单一话题类型，其中包括大多数信息单元共有的元素，如：&lt;t5/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T054033Z">
+        <seg>而 LwDITA 的简化写作基于单一主题类型，其中包括大多数信息单元共有的元素，如：&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;t5/&gt;represented in HDITA are the navigation element (&lt;t6/&gt;&lt;nav&gt;&lt;t7/&gt;) for open&lt;t8/&gt;i&lt;t9/&gt;ng a map environment, the title (&lt;t10/&gt;&lt;title&gt; &lt;t11/&gt;and &lt;t12/&gt;&lt;h1&gt;&lt;t13/&gt;5&lt;t14/&gt;) to label the map and its deliverables, and a hyper reference inside a list item (&lt;t15/&gt;&lt;a href&gt; &lt;t16/&gt;inside a &lt;t17/&gt;&lt;li&gt;&lt;t18/&gt;) to express a topic reference.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T080238Z" creationid="DSS" creationdate="20200807T072106Z">
-        <seg>&lt;t5/&gt;有用以创建地图环境的导航元素 (&lt;t6/&gt;&lt;nav&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;)，标记地图及其交付物的标题元素 (&lt;t10/&gt;&lt;title&gt; &lt;t11/&gt;and &lt;t12/&gt;&lt;h1&gt;&lt;t13/&gt;5&lt;t14/&gt;)，以及表示话题引用的超级引用元素，该元素嵌套在列表项元素中 （即&lt;t15/&gt;&lt;a href&gt; &lt;t16/&gt;嵌套在 &lt;t17/&gt;&lt;li&gt;&lt;t18/&gt;中）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200807T072106Z">
+        <seg>&lt;t5/&gt;有用以创建地图环境的导航元素 (&lt;t6/&gt;&lt;nav&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;)，标记地图及其交付物的标题元素 (&lt;t10/&gt;&lt;title&gt; &lt;t11/&gt;and &lt;t12/&gt;&lt;h1&gt;&lt;t13/&gt;5&lt;t14/&gt;)，以及表示主题引用的超级引用元素，该元素嵌套在列表项元素中 （即&lt;t15/&gt;&lt;a href&gt; &lt;t16/&gt;嵌套在 &lt;t17/&gt;&lt;li&gt;&lt;t18/&gt;中）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1787,8 +1787,8 @@
       <tuv lang="en">
         <seg>&lt;t7/&gt;Figure 6.9&lt;t8/&gt; shows the franchise introductory topic in MDITA core profile with an &lt;t9/&gt;atx&lt;t10/&gt; heading for its title.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T160512Z" creationid="DSS" creationdate="20200816T141024Z">
-        <seg>图&lt;t7/&gt;6.9&lt;t8/&gt; 展示了根据 MDITA 核心规定编写的介绍特许经营权的话题，其标题使用&lt;t9/&gt; atx&lt;t10/&gt; 语法格式编写。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T141024Z">
+        <seg>图&lt;t7/&gt;6.9&lt;t8/&gt; 展示了根据 MDITA 核心规定编写的介绍特许经营权的主题，其标题使用&lt;t9/&gt; atx&lt;t10/&gt; 语法格式编写。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1811,8 +1811,8 @@
       <tuv lang="en">
         <seg>&lt;t7/&gt;Note that the “minimize elements that allow mixed content” also applies to HDITA topics.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T155722Z" creationid="DSS" creationdate="20200816T155722Z">
-        <seg>&lt;t7/&gt;请注意，“包含混合内容的最小化元素”原则也适用于  HDITA 话题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T155722Z">
+        <seg>&lt;t7/&gt;请注意，“包含混合内容的最小化元素”原则也适用于  HDITA 主题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1891,9 +1891,9 @@
       <tuv lang="en">
         <seg>&lt;t8/&gt;Topic-based writing is described as “authoring an information set as a collection of discrete units called &lt;t9/&gt;topics&lt;t10/&gt;, rather than as a whole book or help system” (Baker, &lt;t11/&gt;2016 &lt;t12/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T163026Z" creationid="DSS" creationdate="20200724T154341Z">
-        <seg>&lt;t8/&gt;基于话题的写作会“编写一个信息集，聚合不同&lt;t9/&gt;话题&lt;t10/&gt;的离散单元，而非编写一本书或一个帮助系统”(Baker, &lt;t11/&gt;2016 &lt;t12/&gt;p.
-&lt;t8/&gt;基于话题的写作会“编写一个信息集，聚合不同&lt;t9/&gt;话题&lt;t10/&gt;的离散单元，而非编写一本书</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200724T154341Z">
+        <seg>&lt;t8/&gt;基于主题的写作会“编写一个信息集，聚合不同&lt;t9/&gt;主题&lt;t10/&gt;的离散单元，而非编写一本书或一个帮助系统”(Baker, &lt;t11/&gt;2016 &lt;t12/&gt;p.
+&lt;t8/&gt;基于主题的写作会“编写一个信息集，聚合不同&lt;t9/&gt;主题&lt;t10/&gt;的离散单元，而非编写一本书</seg>
       </tuv>
     </tu>
     <tu>
@@ -2004,8 +2004,8 @@
       <tuv lang="en">
         <seg>&lt;topicref&gt; &lt;t0/&gt;contains &lt;t1/&gt;&lt;topicmeta&gt; &lt;t2/&gt;(topic metadata) or a new version of &lt;t3/&gt;&lt;topicref&gt; &lt;t4/&gt;including &lt;t5/&gt;&lt;title&gt; &lt;t6/&gt;as option before &lt;t7/&gt;&lt;topicmeta&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T075605Z" creationid="DSS" creationdate="20200731T075246Z">
-        <seg>&lt;topicref&gt; &lt;t0/&gt;包含 &lt;t1/&gt;&lt;topicmeta&gt; &lt;t2/&gt;（话题元数据）或新版 &lt;t3/&gt;&lt;topicref&gt; &lt;t4/&gt;中，&lt;t5/&gt;&lt;title&gt; &lt;t6/&gt;作为可选项，可以出现在 &lt;t7/&gt;&lt;topicmeta&gt;前</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200731T075246Z">
+        <seg>&lt;topicref&gt; &lt;t0/&gt;包含 &lt;t1/&gt;&lt;topicmeta&gt; &lt;t2/&gt;（主题元数据）或新版 &lt;t3/&gt;&lt;topicref&gt; &lt;t4/&gt;中，&lt;t5/&gt;&lt;title&gt; &lt;t6/&gt;作为可选项，可以出现在 &lt;t7/&gt;&lt;topicmeta&gt;前</seg>
       </tuv>
     </tu>
     <tu>
@@ -2028,8 +2028,8 @@
       <tuv lang="en">
         <seg>A LwDITA-aware tool like Oxygen XML would inform the author that the topic is incomplete.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T153156Z" creationid="DSS" creationdate="20200813T153156Z">
-        <seg>支持 LwDITA 的工具（如 Oxygen XML）会提示创作者该话题不完整。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200813T153156Z">
+        <seg>支持 LwDITA 的工具（如 Oxygen XML）会提示创作者该主题不完整。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2044,8 +2044,8 @@
       <tuv lang="en">
         <seg>A basic topic can also include a flexible procedure, or even provide pointers for a web-based product tour with some JavaScript processing, among many other applications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T035753Z" creationid="DSS" creationdate="20200725T091054Z">
-        <seg>一个基本话题的操作非常灵活，甚至可以用 JavaScript 脚本为网页产品的体验提供标识。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200725T091054Z">
+        <seg>一个基本主题的操作非常灵活，甚至可以用 JavaScript 脚本为网页产品的体验提供标识。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2092,8 +2092,8 @@
       <tuv lang="en">
         <seg>A couple of months after he introduced the first LwDITA topic prototype, which he called the “strawman proposal,” Michael Priestley made an announce&lt;t0/&gt;ment that surprised more than one DITA user or developer: the Information Mapping&lt;t1/&gt;® &lt;t2/&gt;(IM) content types would be available in the LwDITA catalog of content templates.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131043Z" creationid="DSS" creationdate="20200731T083915Z">
-        <seg>迈克尔·普里斯特利在介绍了第一个LwDITA话题原型（他称之为“稻草人提案”）的几个月后，宣布了一个令许多DITA用户或开发人员吃惊的消息：将可以在LwDITA内容模板中使用信息映射（Information Mapping&lt;t0/&gt;&lt;t1/&gt;® &lt;t2/&gt;，IM）内容类型。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200731T083915Z">
+        <seg>迈克尔·普里斯特利在介绍了第一个LwDITA主题原型（他称之为“稻草人提案”）的几个月后，宣布了一个令许多DITA用户或开发人员吃惊的消息：将可以在LwDITA内容模板中使用信息映射（Information Mapping&lt;t0/&gt;&lt;t1/&gt;® &lt;t2/&gt;，IM）内容类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2276,24 +2276,24 @@
       <tuv lang="en">
         <seg>A topic can include cross-references to other topics in the same collection or to external sources like a PDF file or a website.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T144900Z" creationid="DSS" creationdate="20200817T144900Z">
-        <seg>话题可以对同一集合中的其他话题，也可以对 PDF 文件或网站等外部资源进行引用。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T144900Z">
+        <seg>主题可以对同一集合中的其他主题，也可以对 PDF 文件或网站等外部资源进行引用。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>A topic is “a self-contained unit of information.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154221Z" creationid="DSS" creationdate="20200724T154221Z">
-        <seg>话题是“一个自包含的信息单元，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200724T154221Z">
+        <seg>主题是“一个自包含的信息单元，</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>A valid XDITA topic needs, at least, a title, which is represented by the XML element &lt;t2/&gt;&lt;title&gt;&lt;t3/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T134815Z" creationid="DSS" creationdate="20200816T134815Z">
-        <seg>一个有效的 XDITA 话题至少需要一个标题，由 XML 元素 &lt;t2/&gt;&lt;title&gt;&lt;t3/&gt; 表示。。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T134815Z">
+        <seg>一个有效的 XDITA 主题至少需要一个标题，由 XML 元素 &lt;t2/&gt;&lt;title&gt;&lt;t3/&gt; 表示。。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2380,8 +2380,8 @@
       <tuv lang="en">
         <seg>According to the DITA-OT documentation, the command that builds DITA (and LwDITA) deliverables from topics and maps from a Terminal or Command Prompt window looks like &lt;t0/&gt;Figure &lt;t1/&gt;5.5</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T122334Z" creationid="DSS" creationdate="20200806T113320Z">
-        <seg>参考 DITA-OT 文档，从终端或命令提示符窗口利用话题和地图构建 DITA（和 LwDITA）交付物的命令如&lt;t0/&gt;图&lt;t1/&gt;5.5所示。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200806T113320Z">
+        <seg>参考 DITA-OT 文档，从终端或命令提示符窗口利用主题和地图构建 DITA（和 LwDITA）交付物的命令如&lt;t0/&gt;图&lt;t1/&gt;5.5所示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2436,8 +2436,8 @@
       <tuv lang="en">
         <seg>Additionally, Chef Pedro could link the HDITA topics to an external CSS file for formatting.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T074953Z" creationid="DSS" creationdate="20200807T074953Z">
-        <seg>此外，佩德罗还可以将 HDITA 话题与外部 CSS 文件进行关联，将网页格式化。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200807T074953Z">
+        <seg>此外，佩德罗还可以将 HDITA 主题与外部 CSS 文件进行关联，将网页格式化。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2476,8 +2476,8 @@
       <tuv lang="en">
         <seg>Additionally, the Lightweight DITA subcommittee with OASIS is exploring the possibility of releasing a template-based mechanism for spe&lt;t18/&gt;cialization that would make the customization of topics and elements more accessible to authors who are not familiar with XML schema or document type definitions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131027Z" creationid="DSS" creationdate="20200730T122701Z">
-        <seg>此外，OASIS 轻量级 DITA 小组委员会正在研究基于模板的专门化机制的可能性，这将使不熟悉 XML 模式或文档类型定义的作者更容易定制话题和元素。&lt;t18/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200730T122701Z">
+        <seg>此外，OASIS 轻量级 DITA 小组委员会正在研究基于模板的专门化机制的可能性，这将使不熟悉 XML 模式或文档类型定义的作者更容易定制主题和元素。&lt;t18/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2492,16 +2492,16 @@
       <tuv lang="en">
         <seg>Additionally, the reports emphasized the need for components that would allow the inclusion of multimedia content in LwDITA topics.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T151849Z" creationid="DSS" creationdate="20200803T151849Z">
-        <seg>此外，报告还强调了组件的必要性，有了组件将可以在 LwDITA 话题中包含多媒体内容。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200803T151849Z">
+        <seg>此外，报告还强调了组件的必要性，有了组件将可以在 LwDITA 主题中包含多媒体内容。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Additionally, the versatile task topic in DITA 1.3 can take the shape of a general task topic, a strict task, or a machinery task topic, depending on the context and purpose of usage.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T091140Z" creationid="DSS" creationdate="20200725T091127Z">
-        <seg>此外，DITA 标准1.3版本中灵活的任务话题可以依据语境和使用目的以通用任务话题、严格任务或机械任务话题的形式呈现。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200725T091127Z">
+        <seg>此外，DITA 标准1.3版本中灵活的任务主题可以依据语境和使用目的以通用任务主题、严格任务或机械任务主题的形式呈现。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2540,16 +2540,16 @@
       <tuv lang="en">
         <seg>After receiving feedback from the DITA Technical Committee, Priestley revised the proposal and, in the summer of &lt;t0/&gt;2012, &lt;t1/&gt;updated the list of topical elements to include &lt;t2/&gt;27 &lt;t3/&gt;XML tags (&lt;t4/&gt;&lt;object&gt;&lt;t5/&gt;, &lt;t6/&gt;&lt;note&gt;&lt;t7/&gt;, and elements related to definition lists were among those added to the original proposal).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T082027Z" creationid="DSS" creationdate="20200731T080530Z">
-        <seg>在收到DITA技术委员会的反馈后，普里斯特利修改了提案，并在&lt;t0/&gt;2012, &lt;t1/&gt;年夏天更新了话题元素列表，更新后包括&lt;t2/&gt;27 &lt;t3/&gt;个XML标签（&lt;t4/&gt;&lt;object&gt;&lt;t5/&gt;、&lt;t6/&gt;&lt;note&gt;&lt;t7/&gt;以及和定义列表相关的元素都在原始提案中）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200731T080530Z">
+        <seg>在收到DITA技术委员会的反馈后，普里斯特利修改了提案，并在&lt;t0/&gt;2012, &lt;t1/&gt;年夏天更新了主题元素列表，更新后包括&lt;t2/&gt;27 &lt;t3/&gt;个XML标签（&lt;t4/&gt;&lt;object&gt;&lt;t5/&gt;、&lt;t6/&gt;&lt;note&gt;&lt;t7/&gt;以及和定义列表相关的元素都在原始提案中）。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>After teaching and researching how to create intelligent content with DITA for more than a decade, I have seen how the majority of my students can adapt the generic DITA topic to a variety of information structures and projects.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T160424Z" creationid="DSS" creationdate="20200804T160424Z">
-        <seg>我教授和研究如何使用 DITA 创建智能内容十多年，知道大多数学生是如何使用通用的 DITA 话题编写各种信息结构和项目的。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200804T160424Z">
+        <seg>我教授和研究如何使用 DITA 创建智能内容十多年，知道大多数学生是如何使用通用的 DITA 主题编写各种信息结构和项目的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2580,8 +2580,8 @@
       <tuv lang="en">
         <seg>All their topics are treated as DITA and can take advantage of the standard's reuse, filtering, and single-sourcing capabilities.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T043124Z" creationid="DSS" creationdate="20200817T043124Z">
-        <seg>所有话题都被视为 DITA，可以利用 DITA 内容复用、内容过滤和同源开发的特性。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T043124Z">
+        <seg>所有主题都被视为 DITA，可以利用 DITA 内容复用、内容过滤和同源开发的特性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2604,8 +2604,8 @@
       <tuv lang="en">
         <seg>All three formats, however, are compatible with each other and also with topics created according to the DITA XML standard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T083016Z" creationid="DSS" creationdate="20200817T083016Z">
-        <seg>不过，这三种格式彼此兼容，并且与根据 DITA XML 标准创建的话题兼容。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T083016Z">
+        <seg>不过，这三种格式彼此兼容，并且与根据 DITA XML 标准创建的主题兼容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2676,16 +2676,16 @@
       <tuv lang="en">
         <seg>Although concept, task, and ref&lt;t0/&gt;erence are still defined types in the DITA standard, the official specification for DITA &lt;t1/&gt;1.3 &lt;t2/&gt;also includes topic types for troubleshooting, which “provides markup for corrective action information such as troubleshooting and alarm clearing” &lt;t3/&gt;(2.7.1.6 &lt;t4/&gt;Troubleshooting topic, &lt;t5/&gt;2016) &lt;t6/&gt;and glossary, which “defines a single sense of one term” &lt;t7/&gt;(2.7.1.7 &lt;t8/&gt;Glossary entry topic, &lt;t9/&gt;2016).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130807Z" creationid="DSS" creationdate="20200725T083311Z">
-        <seg>虽然概念（concept）、任务（task）和参考（reference）仍是 DITA 标准中定义好的类型，DITA官方规范&lt;t0/&gt;&lt;t1/&gt;1.3&lt;t2/&gt;版本还包括了关于排除故障的话题类型，这些话题类型“提供编写纠正行为信息的标记，比如‘故障排除’（troubleshooting）和‘警示清除（alarm clearing）’”&lt;t3/&gt;（2.7.1.6 话题“&lt;t4/&gt;故障排除&lt;t5/&gt;”（troubleshooting），2016&lt;t6/&gt;年），还包括了术语表，术语表“定义了每个术语的含义”&lt;t7/&gt;（2.7.1.7 话题“&lt;t8/&gt;术语表条目&lt;t9/&gt;”（glossary entry），2016年）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200725T083311Z">
+        <seg>虽然概念（concept）、任务（task）和参考（reference）仍是 DITA 标准中定义好的类型，DITA官方规范&lt;t0/&gt;&lt;t1/&gt;1.3&lt;t2/&gt;版本还包括了关于排除故障的主题类型，这些主题类型“提供编写纠正行为信息的标记，比如‘故障排除’（troubleshooting）和‘警示清除（alarm clearing）’”&lt;t3/&gt;（2.7.1.6 主题“&lt;t4/&gt;故障排除&lt;t5/&gt;”（troubleshooting），2016&lt;t6/&gt;年），还包括了术语表，术语表“定义了每个术语的含义”&lt;t7/&gt;（2.7.1.7 主题“&lt;t8/&gt;术语表条目&lt;t9/&gt;”（glossary entry），2016年）。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Although in &lt;t0/&gt;Chapters&lt;t1/&gt; &lt;t2/&gt;5&lt;t3/&gt; &lt;t4/&gt;and &lt;t5/&gt;6&lt;t6/&gt; &lt;t7/&gt;I will further analyze the DITA tags and attributes, for the scope of this introductory section, I structured and tagged O'Keefe's recipe for mari&lt;t8/&gt;nara sauce as a DITA task (&lt;t9/&gt;Figure &lt;t10/&gt;1.3&lt;t11/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130804Z" creationid="DSS" creationdate="20200725T064726Z">
-        <seg>在第&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;5&lt;t3/&gt;章&lt;t4/&gt;和第&lt;t5/&gt;6&lt;t6/&gt;章中，&lt;t7/&gt;&lt;t8/&gt;我将进一步分析 DITA 的标签和属性。在本部分的简介中，我会将奥基夫的马里纳拉酱料菜谱结构化，打上标签，作为一个 DITA 任务（task）话题的示范（&lt;t9/&gt;图&lt;t10/&gt;1.3&lt;t11/&gt;）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200725T064726Z">
+        <seg>在第&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;5&lt;t3/&gt;章&lt;t4/&gt;和第&lt;t5/&gt;6&lt;t6/&gt;章中，&lt;t7/&gt;&lt;t8/&gt;我将进一步分析 DITA 的标签和属性。在本部分的简介中，我会将奥基夫的马里纳拉酱料菜谱结构化，打上标签，作为一个 DITA 任务（task）主题的示范（&lt;t9/&gt;图&lt;t10/&gt;1.3&lt;t11/&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2716,8 +2716,8 @@
       <tuv lang="en">
         <seg>Although no author is expected to become an expert on all topic types and their relations, criticism in industry and, perhaps, the timid interest from academia stem from the long, and getting longer, list of types, tags, and their functions included in the DITA standard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T151137Z" creationid="DSS" creationdate="20200726T073809Z">
-        <seg>没有写作者希望成为知晓所有话题类型及其关系的专家，产业界对 DITA 的批评以及学术界对 DITA 兴趣寥寥的原因都是 DITA 标准中本就繁杂，且正变得越来越繁杂的类型、标签、功能。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200726T073809Z">
+        <seg>没有写作者希望成为知晓所有主题类型及其关系的专家，产业界对 DITA 的批评以及学术界对 DITA 兴趣寥寥的原因都是 DITA 标准中本就繁杂，且正变得越来越繁杂的类型、标签、功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2844,8 +2844,8 @@
       <tuv lang="en">
         <seg>An effective topic covers only one subject.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154230Z" creationid="DSS" creationdate="20200724T154230Z">
-        <seg>一个有效的话题只涵盖一个主题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200724T154230Z">
+        <seg>一个有效的主题只涵盖一个主题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2892,8 +2892,8 @@
       <tuv lang="en">
         <seg>An optional topic component that I have addressed in previous chapters is the multipurpose short description (&lt;t0/&gt;&lt;shortdesc&gt; &lt;t1/&gt;in XDITA), which performs a staging move (see Table 2 in &lt;t2/&gt;Chapter 2&lt;t3/&gt;) before a topic goes into detail about a specific subject.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141201Z" creationid="DSS" creationdate="20200816T141201Z">
-        <seg>我在前几章中提过一个可选话题组件：多用途简短描述(XDITA中的&lt;t0/&gt;&lt;shortdesc&gt; &lt;t1/&gt;)，该组件在某话题深入探讨主题细节之前进行阶段过度（参见第&lt;t2/&gt;2&lt;t3/&gt;章中的表2）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T141201Z">
+        <seg>我在前几章中提过一个可选主题组件：多用途简短描述(XDITA中的&lt;t0/&gt;&lt;shortdesc&gt; &lt;t1/&gt;)，该组件在某主题深入探讨主题细节之前进行阶段过度（参见第&lt;t2/&gt;2&lt;t3/&gt;章中的表2）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3068,8 +3068,8 @@
       <tuv lang="en">
         <seg>And, as with LwDITA topics, you can specify a LwDITA map in XDITA, HDITA, or MDITA, as well as possible future authoring formats.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T075936Z" creationid="DSS" creationdate="20200806T075936Z">
-        <seg>并且，与 LwDITA 话题一样，你可以用XDITA、HDITA、MDITA 或未来可能的写作格式来编写 LwDITA 地图映射关系。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200806T075936Z">
+        <seg>并且，与 LwDITA 主题一样，你可以用XDITA、HDITA、MDITA 或未来可能的写作格式来编写 LwDITA 地图映射关系。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3132,8 +3132,8 @@
       <tuv lang="en">
         <seg>Aristotle's lack of definition is perhaps not surprising given the seemingly simple concept of “topic.” Even today we think we readily understand what is meant by a “topic”: We know that the “topic” of a conversation, for example, is that thing upon which the conversation hinges.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T150926Z" creationid="lenovo" creationdate="20200811T150926Z">
-        <seg>考虑到“主题”这一概念看似简单，亚里士多德未对其做出定义并不令人惊讶。即使在今天，我们仍然认为自己很容易理解“话题”的含义：例如，我们知道对话视“话题”而定。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034603Z" creationid="lenovo" creationdate="20200811T150926Z">
+        <seg>考虑到“主题”这一概念看似简单，亚里士多德未对其做出定义并不令人惊讶。即使在今天，我们仍然认为自己很容易理解“主题”的含义：例如，我们知道对话视“主题”而定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3316,8 +3316,8 @@
       <tuv lang="en">
         <seg>As soon as I read the blog post introducing XDITA and HDITA, I implemented Priestley's ideas on a couple of sample topics that I shared with my students.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T092357Z" creationid="DSS" creationdate="20200817T092357Z">
-        <seg>一读到普里斯特利所撰写的介绍 XDITA 和 HDITA 的博文，我就把他的想法用在了我与学生们分享的几个示例话题上。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T092357Z">
+        <seg>一读到普里斯特利所撰写的介绍 XDITA 和 HDITA 的博文，我就把他的想法用在了我与学生们分享的几个示例主题上。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -3340,8 +3340,8 @@
       <tuv lang="en">
         <seg>As the concept of Lightweight DITA developed further, at one point it became an XML subset of DITA that included, for example, &lt;t6/&gt;27 &lt;t7/&gt;possible elements inside a topic, whereas DITA XML includes a possible combination of &lt;t8/&gt;90&lt;t9/&gt;+ &lt;t10/&gt;elements.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T052830Z" creationid="DSS" creationdate="20200817T052830Z">
-        <seg>随着轻量级 DITA 概念的进一步发展，它一度成为 DITA 的一个 XML 子集，例如，轻量级 DITA的一个话题中可以包含&lt;t6/&gt;27&lt;t7/&gt;种元素，而在DITA XML中可能包含&lt;t8/&gt;90&lt;t9/&gt;&lt;t10/&gt;多个元素。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T052830Z">
+        <seg>随着轻量级 DITA 概念的进一步发展，它一度成为 DITA 的一个 XML 子集，例如，轻量级 DITA的一个主题中可以包含&lt;t6/&gt;27&lt;t7/&gt;种元素，而在DITA XML中可能包含&lt;t8/&gt;90&lt;t9/&gt;&lt;t10/&gt;多个元素。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3364,8 +3364,8 @@
       <tuv lang="en">
         <seg>As we will frequently see when examining the LwDITA map and topic components, the MDITA syntax is by far the easiest of the three initial authoring formats.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T040101Z" creationid="DSS" creationdate="20200808T040101Z">
-        <seg>正如我们在观察 LwDITA 地图和话题组件时经常发现的那样，MDITA 语法是到目前为止三种最初的写作格式中最简单的。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200808T040101Z">
+        <seg>正如我们在观察 LwDITA 地图和主题组件时经常发现的那样，MDITA 语法是到目前为止三种最初的写作格式中最简单的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3460,24 +3460,24 @@
       <tuv lang="en">
         <seg>At the topic level, and without getting too deep into the process of DITA specialization, just as &lt;t2/&gt;&lt;concept&gt; &lt;t3/&gt;and &lt;t4/&gt;&lt;task&gt; &lt;t5/&gt;are spe&lt;t6/&gt;cialized from the original generic &lt;t7/&gt;&lt;topic&gt;&lt;t8/&gt;, &lt;t9/&gt;&lt;task&gt; &lt;t10/&gt;could specialize into &lt;t11/&gt;&lt;recipe&gt;&lt;t12/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130808Z" creationid="DSS" creationdate="20200725T143911Z">
-        <seg>在不深入讨论如何定制 DITA 话题的情况下，我们来看一下各种话题。 &lt;t2/&gt;&lt;concept&gt; &lt;t3/&gt;和&lt;t4/&gt;&lt;task&gt; &lt;t5/&gt;&lt;t6/&gt;是为最初通用的 &lt;t7/&gt;&lt;topic&gt;&lt;t8/&gt; 特别定制的，而为 &lt;t9/&gt;&lt;task&gt; &lt;t10/&gt; 又再具体定制了 &lt;t11/&gt;&lt;recipe&gt;&lt;t12/&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200725T143911Z">
+        <seg>在不深入讨论如何定制 DITA 主题的情况下，我们来看一下各种主题。 &lt;t2/&gt;&lt;concept&gt; &lt;t3/&gt;和&lt;t4/&gt;&lt;task&gt; &lt;t5/&gt;&lt;t6/&gt;是为最初通用的 &lt;t7/&gt;&lt;topic&gt;&lt;t8/&gt; 特别定制的，而为 &lt;t9/&gt;&lt;task&gt; &lt;t10/&gt; 又再具体定制了 &lt;t11/&gt;&lt;recipe&gt;&lt;t12/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>At this point we still won't have any actual topics with content; how&lt;t8/&gt;ever, you can download these sample files from the &lt;t9/&gt;Creating Intelligent Content with Lightweight DITA&lt;t10/&gt; GitHub repository (&lt;t11/&gt;https://github.com/carlosevia/&lt;t12/&gt; &lt;t13/&gt;lwdita-book&lt;t14/&gt;) and generate deliverables following the steps and examples from this chapter.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131307Z" creationid="DSS" creationdate="20200807T065127Z">
-        <seg>所以目前我们没有包含内容的实际话题。但是你可以从 &lt;t8/&gt;&lt;t9/&gt;Creating Intelligent Content with Lightweight DITA&lt;t10/&gt; GitHub 仓库 (&lt;t11/&gt;https://github.com/carlosevia/&lt;t12/&gt; &lt;t13/&gt;lwdita-book&lt;t14/&gt;) 下载这些样本文件，并按照本章中的步骤和示例生成交付物。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200807T065127Z">
+        <seg>所以目前我们没有包含内容的实际主题。但是你可以从 &lt;t8/&gt;&lt;t9/&gt;Creating Intelligent Content with Lightweight DITA&lt;t10/&gt; GitHub 仓库 (&lt;t11/&gt;https://github.com/carlosevia/&lt;t12/&gt; &lt;t13/&gt;lwdita-book&lt;t14/&gt;) 下载这些样本文件，并按照本章中的步骤和示例生成交付物。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>At this point, an author new to structured content should resist the urge to preview the topic in a deliverable.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T152209Z" creationid="DSS" creationdate="20200813T152209Z">
-        <seg>一个刚接触结构化内容写作的创作者应该遏制住在交付文件中预览话题的冲动。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200813T152209Z">
+        <seg>一个刚接触结构化内容写作的创作者应该遏制住在交付文件中预览主题的冲动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3516,8 +3516,8 @@
       <tuv lang="en">
         <seg>Authors do not need special software tools to create content in DITA; however, they will need a software processor to transform DITA topics into deliverables for human users.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T041433Z" creationid="DSS" creationdate="20200817T041433Z">
-        <seg>创作者利用 DITA 创建内容不需要使用特殊的软件工具，但是他们需要软件工具来将 DITA 话题转换为人类用户可以阅读的交付物。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T041433Z">
+        <seg>创作者利用 DITA 创建内容不需要使用特殊的软件工具，但是他们需要软件工具来将 DITA 主题转换为人类用户可以阅读的交付物。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3668,16 +3668,16 @@
       <tuv lang="en">
         <seg>Basic topic components</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T130633Z" creationid="DSS" creationdate="20200813T130633Z">
-        <seg>基本话题组件</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200813T130633Z">
+        <seg>基本主题组件</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Basic topic types</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T123140Z" creationid="DSS" creationdate="20200801T123140Z">
-        <seg>基本话题类型</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200801T123140Z">
+        <seg>基本主题类型</seg>
       </tuv>
     </tu>
     <tu>
@@ -3756,8 +3756,8 @@
       <tuv lang="en">
         <seg>Before I fix the XDITA topic to remove the error messages, I will present the mapping of the XDITA element of topic to the HDITA and MDITA authoring formats.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T133150Z" creationid="DSS" creationdate="20200816T133150Z">
-        <seg>在修正上文展示的 XDITA 话题，清除验证错误提示之前，我将展示如何把 XDITA 格式的话题元素映射到 HDITA 和 MDITA 格式上。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T133150Z">
+        <seg>在修正上文展示的 XDITA 主题，清除验证错误提示之前，我将展示如何把 XDITA 格式的主题元素映射到 HDITA 和 MDITA 格式上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3804,8 +3804,8 @@
       <tuv lang="en">
         <seg>Before describing the LwDITA topical conventions and tracking how they evolved from DITA &lt;t0/&gt;1.3 &lt;t1/&gt;elements and produced their own offspring in the LwDITA three core authoring formats, the following section looks at the evo&lt;t2/&gt;lution of DITA as documented in the OASIS public email list and meeting minutes archive.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131028Z" creationid="DSS" creationdate="20200730T122831Z">
-        <seg>在介绍 LwDITA 话题规则，阐述 LwDITA 的元素是如何从 DITA 标准 &lt;t0/&gt;1.3 &lt;t1/&gt;&lt;t2/&gt;版本中的元素演变而来，又是如何在 LwDITA 三种核心写作格式中生成它们自己的后代元素之前，下面一节将先回顾 OASIS 公共电子邮件记录和会议纪要中记录的 DITA 的演变过程。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200730T122831Z">
+        <seg>在介绍 LwDITA 主题规则，阐述 LwDITA 的元素是如何从 DITA 标准 &lt;t0/&gt;1.3 &lt;t1/&gt;&lt;t2/&gt;版本中的元素演变而来，又是如何在 LwDITA 三种核心写作格式中生成它们自己的后代元素之前，下面一节将先回顾 OASIS 公共电子邮件记录和会议纪要中记录的 DITA 的演变过程。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3892,16 +3892,16 @@
       <tuv lang="en">
         <seg>Body: A container for the main content of a topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T055039Z" creationid="DSS" creationdate="20200817T054315Z">
-        <seg>主体（body）：包含话题的主要内容，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T054315Z">
+        <seg>主体（body）：包含主题的主要内容，</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Body&lt;t0/&gt;: a container for the main content of a topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T124857Z" creationid="DSS" creationdate="20200804T124857Z">
-        <seg>主体（body）&lt;t0/&gt;：包含话题的主要内容。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200804T124857Z">
+        <seg>主体（body）&lt;t0/&gt;：包含主题的主要内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4503,8 +4503,8 @@
       <tuv lang="en">
         <seg>DITA 1.3 also includes topic types designed for learning and training projects: learning plan, learning overview, learning content, learning summary, and learning assessment.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T091132Z" creationid="DSS" creationdate="20200725T091132Z">
-        <seg>DITA 标准1.3版本还包括为学习和培训项目设计的话题类型：学习计划、学习概述、学习内容、学习总结和学习评估。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200725T091132Z">
+        <seg>DITA 标准1.3版本还包括为学习和培训项目设计的主题类型：学习计划、学习概述、学习内容、学习总结和学习评估。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4559,8 +4559,8 @@
       <tuv lang="en">
         <seg>DITA classic topic types: concept, task, and reference, constrained to light&lt;t0/&gt;weight topic model</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131053Z" creationid="DSS" creationdate="20200801T123241Z">
-        <seg>DITA 经典话题类型：受限于轻量级话题模型的概念（concept）、任务（task）和引用（reference）&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200801T123241Z">
+        <seg>DITA 经典主题类型：受限于轻量级主题模型的概念（concept）、任务（task）和引用（reference）&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4888,8 +4888,8 @@
       <tuv lang="en">
         <seg>Each list item will create,&lt;t1/&gt; when the topic is processed, a bulleted entry.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T162001Z" creationid="DSS" creationdate="20200816T161910Z">
-        <seg>在话题处理过程中，每个列表项都将生成一个项目符号条目。&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T161910Z">
+        <seg>在主题处理过程中，每个列表项都将生成一个项目符号条目。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4920,8 +4920,8 @@
       <tuv lang="en">
         <seg>Each topic is long enough to make sense on its own, but short enough to stick to one point without expanding into other sub&lt;t0/&gt;jects” (Bellamy et al.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034006Z" creationid="DSS" creationdate="20200724T154251Z">
-        <seg>每个话题都要内容充足，能站得住脚跟，同时也要精简干练，只围绕一个中心点展开，而不扩展到其他方面”（贝拉米等，&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034603Z" creationid="DSS" creationdate="20200724T154251Z">
+        <seg>每个主题都要内容充足，能站得住脚跟，同时也要精简干练，只围绕一个中心点展开，而不扩展到其他方面”（贝拉米等，&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4952,24 +4952,24 @@
       <tuv lang="en">
         <seg>Easy assembly of new specializations from existing section types</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T161114Z" creationid="DSS" creationdate="20200802T161114Z">
-        <seg>轻松地利用现有类型组合新的专门化话题</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200802T161114Z">
+        <seg>轻松地利用现有类型组合新的专门化主题</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Easy creation of new specializations by generation from a topic type designed for specifying specializations</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T161119Z" creationid="DSS" creationdate="20200802T161119Z">
-        <seg>利用专门化的话题类型，轻松创建新的专门化话题</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200802T161119Z">
+        <seg>利用专门化的主题类型，轻松创建新的专门化主题</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Easy out of the box authoring for common topic types</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T161055Z" creationid="DSS" creationdate="20200802T161055Z">
-        <seg>轻松地创建常见话题类型，开箱即用
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200802T161055Z">
+        <seg>轻松地创建常见主题类型，开箱即用
 </seg>
       </tuv>
     </tu>
@@ -5065,8 +5065,8 @@
       <tuv lang="en">
         <seg>Evaluating the coverage of topics related to CM in academic work, Andersen lamented that technical communication “scholar&lt;t7/&gt;ship on CM to date has almost exclusively taken an academic perspective; when articulating and theorizing trends, methods, and technologies, we tend to situ&lt;t8/&gt;ate our discussions within the existing scholarship rather than the larger CM discourse that is actively shaping CM practice” (Andersen, &lt;t9/&gt;2014, &lt;t10/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131407Z" creationid="DSS" creationdate="20200810T120142Z">
-        <seg>在评估学术工作中与CM相关的话题的覆盖率时，安德森感叹道：“迄今为止，在技术传播领域，关于CM的研究几乎都是从学术角度出发的，我们倾向于在现有的学术领域内讨论和推断趋势、方法、科技，而非在更大的CM话语范围内讨论，而后者对CM实践有积极作用” (Andersen, 2014, p. &lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200810T120142Z">
+        <seg>在评估学术工作中与CM相关的主题的覆盖率时，安德森感叹道：“迄今为止，在技术传播领域，关于CM的研究几乎都是从学术角度出发的，我们倾向于在现有的学术领域内讨论和推断趋势、方法、科技，而非在更大的CM话语范围内讨论，而后者对CM实践有积极作用” (Andersen, 2014, p. &lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5225,8 +5225,8 @@
       <tuv lang="en">
         <seg>FIGURE 1.13 &lt;t0/&gt;DITA map aggregating different LwDITA formats.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150517Z" creationid="DSS" creationdate="20200817T085106Z">
-        <seg>图1.13 &lt;t0/&gt;聚合了不同 LwDITA 格式的话题的 DITA 地图。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T085106Z">
+        <seg>图1.13 &lt;t0/&gt;聚合了不同 LwDITA 格式的主题的 DITA 地图。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5241,16 +5241,16 @@
       <tuv lang="en">
         <seg>FIGURE 1.4 &lt;t0/&gt;Marinara sauce DITA task transformed to a PDF deliverable.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145743Z" creationid="DSS" creationdate="20200725T084913Z">
-        <seg>图1.4 &lt;t0/&gt;意式番茄罗勒酱 DITA 任务（task）话题转换生成的 PDF 交付文件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200725T084913Z">
+        <seg>图1.4 &lt;t0/&gt;意式番茄罗勒酱 DITA 任务（task）主题转换生成的 PDF 交付文件。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE 1.5 &lt;t0/&gt;Marinara sauce DITA task transformed to an HTML5 deliverable.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145812Z" creationid="DSS" creationdate="20200725T085353Z">
-        <seg>图1.5 &lt;t0/&gt;意式番茄罗勒酱 DITA 任务（task）话题转换生成的 HTML5 交付文件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200725T085353Z">
+        <seg>图1.5 &lt;t0/&gt;意式番茄罗勒酱 DITA 任务（task）主题转换生成的 HTML5 交付文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5281,8 +5281,8 @@
       <tuv lang="en">
         <seg>FIGURE 3.1 &lt;t0/&gt;Prototype of an early LwDITA topic created by Michael Priestley in&lt;t1/&gt; the summer of 2012.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T082123Z" creationid="DSS" creationdate="20200731T082123Z">
-        <seg>图3.1 &lt;t0/&gt;迈克尔·普里斯特利于在&lt;t1/&gt;2012年夏天创建的早期 LwDITA 话题的原型。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200731T082123Z">
+        <seg>图3.1 &lt;t0/&gt;迈克尔·普里斯特利于在&lt;t1/&gt;2012年夏天创建的早期 LwDITA 主题的原型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5305,8 +5305,8 @@
       <tuv lang="en">
         <seg>FIGURE 5.4 &lt;t0/&gt;DITA topic including biographical information about Chef Pedro.&lt;t1/&gt; The topic's elements include simple structures like a title, a short description, and a body containing paragraphs.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T031014Z" creationid="DSS" creationdate="20200808T031014Z">
-        <seg>图5.4&lt;t0/&gt; DITA 话题的内容包含对厨师佩德罗的生平介绍。&lt;t1/&gt;用到的话题元素有标题元素、简短描述元素、段落元素、主体元素等简单结构，其中段落元素包含在主题元素内部。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200808T031014Z">
+        <seg>图5.4&lt;t0/&gt; DITA 主题的内容包含对厨师佩德罗的生平介绍。&lt;t1/&gt;用到的主题元素有标题元素、简短描述元素、段落元素、主体元素等简单结构，其中段落元素包含在主题元素内部。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5337,24 +5337,24 @@
       <tuv lang="en">
         <seg>FIGURE 6.10 &lt;t0/&gt;Sample MDITA extended profile topic with a title component.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141344Z" creationid="DSS" creationdate="20200816T141344Z">
-        <seg>图6.10 &lt;t0/&gt;包含标题组件和扩展配置的 MDITA 话题示例，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T141344Z">
+        <seg>图6.10 &lt;t0/&gt;包含标题组件和扩展配置的 MDITA 主题示例，</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE 6.14 &lt;t0/&gt;XDITA topic with a body component.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T142230Z" creationid="DSS" creationdate="20200816T142230Z">
-        <seg>图6.14 &lt;t0/&gt;包含主体组件的 XDITA 话题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T142230Z">
+        <seg>图6.14 &lt;t0/&gt;包含主体组件的 XDITA 主题。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE 6.15 &lt;t0/&gt;HDITA topic with paragraph components.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T142302Z" creationid="DSS" creationdate="20200816T142302Z">
-        <seg>图6.15 &lt;t0/&gt;包含段落组件的 HDITA 话题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T142302Z">
+        <seg>图6.15 &lt;t0/&gt;包含段落组件的 HDITA 主题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5385,32 +5385,32 @@
       <tuv lang="en">
         <seg>FIGURE 6.27 &lt;t0/&gt;Preview of the XDITA topic with image and figure environments in&lt;t1/&gt; Oxygen XML &lt;t2/&gt;author&lt;t3/&gt; mode.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T151204Z" creationid="DSS" creationdate="20200817T134645Z">
-        <seg>图6.27 在 Oxygen XML 作者模式下，包含图像和图形组件的 XDITA话题的预览。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T134645Z">
+        <seg>图6.27 在 Oxygen XML 作者模式下，包含图像和图形组件的 XDITA主题的预览。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE 6.29 &lt;t0/&gt;Preview of the HDITA topic with image and figure environments in&lt;t1/&gt; a web browser.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T151227Z" creationid="DSS" creationdate="20200817T143646Z">
-        <seg>图6.29 &lt;t0/&gt;&lt;t1/&gt;包含图像和图形组件的 HDITA 话题在浏览器中的预览。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T143646Z">
+        <seg>图6.29 &lt;t0/&gt;&lt;t1/&gt;包含图像和图形组件的 HDITA 主题在浏览器中的预览。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE 6.3 &lt;t0/&gt;Minimal HDITA topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T135758Z" creationid="DSS" creationdate="20200816T133626Z">
-        <seg>&lt;t0/&gt;图6.3 最简化的 HDITA 话题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T133626Z">
+        <seg>&lt;t0/&gt;图6.3 最简化的 HDITA 主题。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE 6.31 &lt;t0/&gt;XDITA topic with a cross-reference to an external website.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T151235Z" creationid="DSS" creationdate="20200817T145339Z">
-        <seg>图6.31 包含链接到外部网站的交叉引用组件的 XDITA 话题。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T145339Z">
+        <seg>图6.31 包含链接到外部网站的交叉引用组件的 XDITA 主题。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5425,8 +5425,8 @@
       <tuv lang="en">
         <seg>FIGURE 6.4 &lt;t0/&gt;Minimal MDITA topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T135913Z" creationid="DSS" creationdate="20200816T134442Z">
-        <seg>图6.4&lt;t0/&gt;最简化的MDITA话题，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T134442Z">
+        <seg>图6.4&lt;t0/&gt;最简化的MDITA主题，</seg>
       </tuv>
     </tu>
     <tu>
@@ -5473,8 +5473,8 @@
       <tuv lang="en">
         <seg>FIGURE 6.5 &lt;t0/&gt;Sample MDITA extended profile topic with an assigned &lt;t1/&gt;@id &lt;t2/&gt;in a&lt;t3/&gt; YAML header.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T135936Z" creationid="DSS" creationdate="20200816T134542Z">
-        <seg>图6.5 &lt;t0/&gt;包含扩展配置的 MDITA 话题示例，该示例在 YAML 头中指定了 &lt;t1/&gt;@id &lt;t2/&gt;。&lt;t3/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T134542Z">
+        <seg>图6.5 &lt;t0/&gt;包含扩展配置的 MDITA 主题示例，该示例在 YAML 头中指定了 &lt;t1/&gt;@id &lt;t2/&gt;。&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5497,8 +5497,8 @@
       <tuv lang="en">
         <seg>FIGURE 6.9 &lt;t0/&gt;Sample MDITA core profile topic with a title component.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T142120Z" creationid="DSS" creationdate="20200816T141239Z">
-        <seg>图6.9 &lt;t0/&gt;包含标题组件的 MDITA 话题示例，其中标题使用一级标题表示，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T141239Z">
+        <seg>图6.9 &lt;t0/&gt;包含标题组件的 MDITA 主题示例，其中标题使用一级标题表示，</seg>
       </tuv>
     </tu>
     <tu>
@@ -5513,32 +5513,32 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;1.11 &lt;t1/&gt;Marinara sauce recipe as an MDITA topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150404Z" creationid="DSS" creationdate="20200817T083416Z">
-        <seg>图&lt;t0/&gt;1.11 &lt;t1/&gt;编写为 MDITA 话题的意式番茄罗勒酱菜谱。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T083416Z">
+        <seg>图&lt;t0/&gt;1.11 &lt;t1/&gt;编写为 MDITA 主题的意式番茄罗勒酱菜谱。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;1.3 &lt;t1/&gt;Marinara sauce recipe as a DITA task.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T054139Z" creationid="DSS" creationdate="20200725T070427Z">
-        <seg>图&lt;t0/&gt;1.3&lt;t1/&gt;编写为 DITA 任务（task）话题的意式番茄罗勒酱菜谱。&lt;100/100/95% &gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200725T070427Z">
+        <seg>图&lt;t0/&gt;1.3&lt;t1/&gt;编写为 DITA 任务（task）主题的意式番茄罗勒酱菜谱。&lt;100/100/95% &gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;1.8 &lt;t1/&gt;Marinara sauce recipe as an XDITA topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T054214Z" creationid="DSS" creationdate="20200817T054108Z">
-        <seg>图&lt;t0/&gt;1.8 &lt;t1/&gt; 编写为 XDITA 话题的意式番茄罗勒酱菜谱。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T054108Z">
+        <seg>图&lt;t0/&gt;1.8 &lt;t1/&gt; 编写为 XDITA 主题的意式番茄罗勒酱菜谱。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;1.9 &lt;t1/&gt;Marinara sauce recipe as an HDITA topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150330Z" creationid="DSS" creationdate="20200817T082309Z">
-        <seg>图&lt;t0/&gt;1.9 &lt;t1/&gt;编写为 HDITA 话题的意式番茄罗勒酱菜谱。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T082309Z">
+        <seg>图&lt;t0/&gt;1.9 &lt;t1/&gt;编写为 HDITA 主题的意式番茄罗勒酱菜谱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5554,8 +5554,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;3.2 &lt;t1/&gt;Early “MarkDITA” topic prototype that I shared with Michael&lt;t2/&gt; Priestley and Jenifer Schlotfeldt in May of &lt;t3/&gt;2014.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T153649Z" creationid="DSS" creationdate="20200802T155624Z">
-        <seg>图&lt;t0/&gt;3.2&lt;t1/&gt; 2014年5月我与迈克尔·&lt;t2/&gt;普里斯特利和珍妮弗·斯洛特菲尔德分享的早期“MarkDITA”话题原型。&lt;t3/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200802T155624Z">
+        <seg>图&lt;t0/&gt;3.2&lt;t1/&gt; 2014年5月我与迈克尔·&lt;t2/&gt;普里斯特利和珍妮弗·斯洛特菲尔德分享的早期“MarkDITA”主题原型。&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5610,16 +5610,16 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;5.2 &lt;t1/&gt;Marinara sauce recipe as a DITA task.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T054149Z" creationid="DSS" creationdate="20200806T093517Z">
-        <seg>图&lt;t0/&gt;5.2&lt;t1/&gt;编写为 DITA 任务（task）话题的意式番茄罗勒酱菜谱。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200806T093517Z">
+        <seg>图&lt;t0/&gt;5.2&lt;t1/&gt;编写为 DITA 任务（task）主题的意式番茄罗勒酱菜谱。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;5.3 &lt;t1/&gt;Marinara sauce recipe critique as a DITA concept.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T054134Z" creationid="DSS" creationdate="20200806T095526Z">
-        <seg>图&lt;t0/&gt;5.3&lt;t1/&gt;编写为 DITA 概念（concept）话题的意式番茄罗勒酱菜谱评价</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200806T095526Z">
+        <seg>图&lt;t0/&gt;5.3&lt;t1/&gt;编写为 DITA 概念（concept）主题的意式番茄罗勒酱菜谱评价</seg>
       </tuv>
     </tu>
     <tu>
@@ -5642,40 +5642,40 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;6.1 &lt;t1/&gt;Minimal XDITA topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T154311Z" creationid="DSS" creationdate="20200813T151045Z">
-        <seg>图&lt;t0/&gt;6.1 &lt;t1/&gt; 最简化的 XDITA 话题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200813T151045Z">
+        <seg>图&lt;t0/&gt;6.1 &lt;t1/&gt; 最简化的 XDITA 主题。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;6.11 &lt;t1/&gt;XDITA topic with a short description component.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141420Z" creationid="DSS" creationdate="20200816T141420Z">
-        <seg>图&lt;t0/&gt;6.11&lt;t1/&gt; 包含简短描述组件的 XDITA 话题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T141420Z">
+        <seg>图&lt;t0/&gt;6.11&lt;t1/&gt; 包含简短描述组件的 XDITA 主题。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;6.12 &lt;t1/&gt;HDITA topic with a short description component.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141637Z" creationid="DSS" creationdate="20200816T141637Z">
-        <seg>图 &lt;t0/&gt;6.12 &lt;t1/&gt;包含简短描述组件的 HDITA 话题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T141637Z">
+        <seg>图 &lt;t0/&gt;6.12 &lt;t1/&gt;包含简短描述组件的 HDITA 主题。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;6.13 &lt;t1/&gt;MDITA topic with a short description component.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141714Z" creationid="DSS" creationdate="20200816T141714Z">
-        <seg>图&lt;t0/&gt;6.13 &lt;t1/&gt;包含简短描述组件的 MDITA 话题，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T141714Z">
+        <seg>图&lt;t0/&gt;6.13 &lt;t1/&gt;包含简短描述组件的 MDITA 主题，</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;6.16 &lt;t1/&gt;MDITA topic with paragraph components.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T155736Z" creationid="DSS" creationdate="20200816T155736Z">
-        <seg>图&lt;t0/&gt;6.16&lt;t1/&gt;包含段落组件的 MDITA 话题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T155736Z">
+        <seg>图&lt;t0/&gt;6.16&lt;t1/&gt;包含段落组件的 MDITA 主题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5698,8 +5698,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;6.19 &lt;t1/&gt;Definition list environment in an MDITA extended profile topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T160249Z" creationid="DSS" creationdate="20200816T160249Z">
-        <seg>图&lt;t0/&gt;6.19&lt;t1/&gt; 包含扩展配置的 MDITA 话题中的定义列表组件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T160249Z">
+        <seg>图&lt;t0/&gt;6.19&lt;t1/&gt; 包含扩展配置的 MDITA 主题中的定义列表组件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5738,24 +5738,24 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;6.26 &lt;t1/&gt;Image and figure components in an XDITA topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T151147Z" creationid="DSS" creationdate="20200817T134320Z">
-        <seg>图6.26 XDITA 话题中的图像和图形组件，&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T134320Z">
+        <seg>图6.26 XDITA 主题中的图像和图形组件，&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;6.28 &lt;t1/&gt;Image and figure components in an HDITA topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T142747Z" creationid="DSS" creationdate="20200817T142747Z">
-        <seg>图&lt;t0/&gt;6.28&lt;t1/&gt; HDITA 话题中的图像和图形组件，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T142747Z">
+        <seg>图&lt;t0/&gt;6.28&lt;t1/&gt; HDITA 主题中的图像和图形组件，</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;6.30 &lt;t1/&gt;Image and figure components in an MDITA topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T143742Z" creationid="DSS" creationdate="20200817T143742Z">
-        <seg>图&lt;t0/&gt;6.30 &lt;t1/&gt;MDITA 话题中的图像和图形组件，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T143742Z">
+        <seg>图&lt;t0/&gt;6.30 &lt;t1/&gt;MDITA 主题中的图像和图形组件，</seg>
       </tuv>
     </tu>
     <tu>
@@ -5898,8 +5898,8 @@
       <tuv lang="en">
         <seg>Figure 6.5&lt;t0/&gt; shows the &lt;t1/&gt;franchise.intro.md&lt;t2/&gt; topic with an assigned &lt;t3/&gt;@id &lt;t4/&gt;of &lt;t5/&gt;sensei- &lt;t6/&gt;intro&lt;t7/&gt; &lt;t8/&gt;that would override the &lt;t9/&gt;@id &lt;t10/&gt;generated with the file's name.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T135906Z" creationid="DSS" creationdate="20200816T134439Z">
-        <seg>图6.5&lt;t0/&gt;展示了&lt;t1/&gt; franchise.intro.md &lt;t2/&gt;话题，其指定&lt;t3/&gt; @id &lt;t4/&gt;为 &lt;t5/&gt;sensei- &lt;t6/&gt;intro&lt;t7/&gt; &lt;t8/&gt;，它将覆盖用文件名称自动生成的 &lt;t9/&gt;@id &lt;t10/&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T134439Z">
+        <seg>图6.5&lt;t0/&gt;展示了&lt;t1/&gt; franchise.intro.md &lt;t2/&gt;主题，其指定&lt;t3/&gt; @id &lt;t4/&gt;为 &lt;t5/&gt;sensei- &lt;t6/&gt;intro&lt;t7/&gt; &lt;t8/&gt;，它将覆盖用文件名称自动生成的 &lt;t9/&gt;@id &lt;t10/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5946,16 +5946,16 @@
       <tuv lang="en">
         <seg>Figure &lt;t0/&gt;6.13&lt;t1/&gt; &lt;t2/&gt;presents the same topic in MDITA extended profile, which includes the YAML header with an assigned &lt;t3/&gt;@id&lt;t4/&gt;, an &lt;t5/&gt;atx&lt;t6/&gt; heading for the title, and the short description implied in the first paragraph.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T142150Z" creationid="DSS" creationdate="20200816T141621Z">
-        <seg>图&lt;t0/&gt;6.13&lt;t1/&gt;&lt;t2/&gt;展示含有扩展配置的MDITA话题示例，包含指定 &lt;t3/&gt;@id&lt;t4/&gt; 的YAML头、 &lt;t5/&gt;atx&lt;t6/&gt; 语法格式的标题，以及隐藏在第一段中的简短描述。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T141621Z">
+        <seg>图&lt;t0/&gt;6.13&lt;t1/&gt;&lt;t2/&gt;展示含有扩展配置的MDITA主题示例，包含指定 &lt;t3/&gt;@id&lt;t4/&gt; 的YAML头、 &lt;t5/&gt;atx&lt;t6/&gt; 语法格式的标题，以及隐藏在第一段中的简短描述。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Figure &lt;t0/&gt;6.23&lt;t1/&gt; &lt;t2/&gt;shows the same topic in HDITA syntax.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T161704Z" creationid="DSS" creationdate="20200816T161704Z">
-        <seg>图&lt;t0/&gt;&lt;t1/&gt;6.23&lt;t2/&gt;展示了用 HDITA 语法编写的同一话题。
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T161704Z">
+        <seg>图&lt;t0/&gt;&lt;t1/&gt;6.23&lt;t2/&gt;展示了用 HDITA 语法编写的同一主题。
 </seg>
       </tuv>
     </tu>
@@ -5963,8 +5963,8 @@
       <tuv lang="en">
         <seg>Figure &lt;t0/&gt;6.30&lt;t1/&gt; &lt;t2/&gt;shows the franchise introductory topic in MDITA syntax with the inline image for the plus sign and the block figure, with a title, for the &lt;t3/&gt;Sensei Sushi&lt;t4/&gt; logo.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T143529Z" creationid="DSS" creationdate="20200817T143529Z">
-        <seg>图&lt;t0/&gt;6.30&lt;t1/&gt;&lt;t2/&gt;展示了使用 MDITA 语法编写的介绍特许经营权的话题，其中包含一个内联图像：加号，一个块级图形：&lt;t3/&gt;Sensei Sushi&lt;t4/&gt; 标识，以及一个标题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T143529Z">
+        <seg>图&lt;t0/&gt;6.30&lt;t1/&gt;&lt;t2/&gt;展示了使用 MDITA 语法编写的介绍特许经营权的主题，其中包含一个内联图像：加号，一个块级图形：&lt;t3/&gt;Sensei Sushi&lt;t4/&gt; 标识，以及一个标题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6059,8 +6059,8 @@
       <tuv lang="en">
         <seg>Following reports from its working groups, which included a collection of personas and usage scenarios across diverse sectors and industries, the Lightweight DITA subcommittee at OASIS determined that a generic topic could represent most content structures needed across potential implemen&lt;t0/&gt;tations.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131115Z" creationid="DSS" creationdate="20200803T151844Z">
-        <seg>OASIS 轻量级 DITA 小组委员会根据各个工作组的报告（包括来自不同部门和行业的一系列用户画像和使用场景调查），确定了只要一个通用话题就可以代表潜在实践中需要的大多数内容结构。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200803T151844Z">
+        <seg>OASIS 轻量级 DITA 小组委员会根据各个工作组的报告（包括来自不同部门和行业的一系列用户画像和使用场景调查），确定了只要一个通用主题就可以代表潜在实践中需要的大多数内容结构。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6091,8 +6091,8 @@
       <tuv lang="en">
         <seg>For Chef Pedro's content needs, a very simple topic would look as the example in &lt;t3/&gt;Figure &lt;t4/&gt;6.1&lt;t5/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T154136Z" creationid="DSS" creationdate="20200813T131145Z">
-        <seg>厨师佩德罗的内容需求可以编写成一个非常简单的话题，如图&lt;t3/&gt;&lt;t4/&gt;6.1&lt;t5/&gt;所示。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200813T131145Z">
+        <seg>厨师佩德罗的内容需求可以编写成一个非常简单的主题，如图&lt;t3/&gt;&lt;t4/&gt;6.1&lt;t5/&gt;所示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6107,8 +6107,8 @@
       <tuv lang="en">
         <seg>For a generic topic type, “HTML5 and DITA are now close enough to achieve a reasonable and semantic mapping with the appli&lt;t1/&gt;cation of a few simple constraints” (Priestley, 2014).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T091621Z" creationid="DSS" creationdate="20200817T091621Z">
-        <seg>对于一般的话题类型，“HTML5 和 DITA 现在已经足够完善了，只需应用一些简单的限定规则就可以实现合理的语义映射”(Priestley, 2014)。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T091621Z">
+        <seg>对于一般的主题类型，“HTML5 和 DITA 现在已经足够完善了，只需应用一些简单的限定规则就可以实现合理的语义映射”(Priestley, 2014)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6155,8 +6155,8 @@
       <tuv lang="en">
         <seg>For authors of technical content, these foundational topic types provide constraints and structures beyond a presentation-oriented template.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T162113Z" creationid="DSS" creationdate="20200724T162113Z">
-        <seg>对于技术内容的写作者来说，这些基本话题类型提供了面向展示的模板之外的约束和结构。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200724T162113Z">
+        <seg>对于技术内容的写作者来说，这些基本主题类型提供了面向展示的模板之外的约束和结构。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6171,8 +6171,8 @@
       <tuv lang="en">
         <seg>For exam&lt;t1/&gt;ple, Pedro can hire a technical writer to create recipe topics in XDITA (based on XML) while a marketing professional writes a description of the cookbook's features in HDITA (based on HTML5), and an engineer uses MDITA (based on Markdown) to create a reference for a specific command from the kitchen's laboratory.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T043030Z" creationid="DSS" creationdate="20200817T043030Z">
-        <seg>例如，佩德罗可以雇佣一个技术写作人员用 XDITA（基于 XML）创建菜谱话题，雇佣一个市场营销专员用 HDITA（基于 HTML5）编写菜谱特性简介，再雇佣一个工程师使用 MDITA（基于 Markdown）为厨房实验室的特殊命令创建一个引用话题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T043030Z">
+        <seg>例如，佩德罗可以雇佣一个技术写作人员用 XDITA（基于 XML）创建菜谱主题，雇佣一个市场营销专员用 HDITA（基于 HTML5）编写菜谱特性简介，再雇佣一个工程师使用 MDITA（基于 Markdown）为厨房实验室的特殊命令创建一个引用主题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6251,8 +6251,8 @@
       <tuv lang="en">
         <seg>For processing purposes, a single DITA map can combine topics created in different LwDITA formats (&lt;t0/&gt;Figure &lt;t1/&gt;1.13&lt;t2/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T083516Z" creationid="DSS" creationdate="20200817T083516Z">
-        <seg>在处理过程中，单个 DITA 地图可以组合使用不同 LwDITA 格式创建的话题（图&lt;t0/&gt;&lt;t1/&gt;1.13&lt;t2/&gt;）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T083516Z">
+        <seg>在处理过程中，单个 DITA 地图可以组合使用不同 LwDITA 格式创建的主题（图&lt;t0/&gt;&lt;t1/&gt;1.13&lt;t2/&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6427,8 +6427,8 @@
       <tuv lang="en">
         <seg>Furthermore, this sample topic stub is not yet valid XDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T153152Z" creationid="DSS" creationdate="20200813T153152Z">
-        <seg>而且，示例中的话题片段还不是有效的 XDITA 格式。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200813T153152Z">
+        <seg>而且，示例中的主题片段还不是有效的 XDITA 格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6731,8 +6731,8 @@
       <tuv lang="en">
         <seg>Highlighting Components (available in both topic and map)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T134114Z" creationid="DSS" creationdate="20200804T134114Z">
-        <seg>重点组件（话题和地图中都可以使用）</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200804T134114Z">
+        <seg>重点组件（主题和地图中都可以使用）</seg>
       </tuv>
     </tu>
     <tu>
@@ -6779,16 +6779,16 @@
       <tuv lang="en">
         <seg>However, Priestley did not offer a count of total ele&lt;t4/&gt;ments and instead focused on the expansion capabilities of including HTML5 as an authoring format for DITA-equivalent topics.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T091949Z" creationid="DSS" creationdate="20200817T091949Z">
-        <seg>然而，普里斯特利并没有提供所有元素，而是专注于扩展性能力，包括将 HTML5 作为等同于 DIT A话题写作格式的能力。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T091949Z">
+        <seg>然而，普里斯特利并没有提供所有元素，而是专注于扩展性能力，包括将 HTML5 作为等同于 DIT A主题写作格式的能力。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>However, as audiences and study participants were exposed to the possibility of creating DITA content without XML, many were replying with the same question: if we can use HTML5 to represent DITA topics and elements, can we use Markdown as well?</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T124221Z" creationid="DSS" creationdate="20200802T124221Z">
-        <seg>然而，当用户和研究参与者了解到在不使用XML的情况下也可以创建 DITA 内容时，许多人发出了相同的疑问：如果我们可以使用 HTML5 来表示 DITA 话题和元素，是否也可以使用 Markdown ？</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200802T124221Z">
+        <seg>然而，当用户和研究参与者了解到在不使用XML的情况下也可以创建 DITA 内容时，许多人发出了相同的疑问：如果我们可以使用 HTML5 来表示 DITA 主题和元素，是否也可以使用 Markdown ？</seg>
       </tuv>
     </tu>
     <tu>
@@ -6859,8 +6859,8 @@
       <tuv lang="en">
         <seg>However, it is no longer a task, since LwDITA's initial specification only includes one topic type.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034428Z" creationid="DSS" creationdate="20200817T054226Z">
-        <seg>但是，它不再是一个任务（task）话题了，因为 LwDITA 的初始规范中只包含一种主题类型。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034602Z" creationid="DSS" creationdate="20200817T054226Z">
+        <seg>但是，它不再是一个任务（task）主题了，因为 LwDITA 的初始规范中只包含一种主题类型。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -7003,16 +7003,16 @@
       <tuv lang="en">
         <seg>I acknowledge that, as a whole, these chapters contain plenty of dense refer&lt;t0/&gt;ence material, and I have attempted to include examples of the most common topical conventions available in LwDITA, with emphasis on frequent structures used by content creators.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131302Z" creationid="DSS" creationdate="20200806T082635Z">
-        <seg>总的来说，这些章节包含了大量密集的参考材料，我试图使用 LwDITA 中最常见的话题规则来做展示，重点介绍内容创作者常用的结构。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200806T082635Z">
+        <seg>总的来说，这些章节包含了大量密集的参考材料，我试图使用 LwDITA 中最常见的主题规则来做展示，重点介绍内容创作者常用的结构。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>I am a fan of using the same text for the topic identifier attribute and the file name: e.g., the &lt;t5/&gt;@id &lt;t6/&gt;of this topic is “franchise-intro,” and I would save it as &lt;t7/&gt;franchise-intro.dita&lt;t8/&gt; (XDITA topics can be saved with the file extensions &lt;t9/&gt;.xml&lt;t10/&gt; or &lt;t11/&gt;.dita&lt;t12/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T150723Z" creationid="DSS" creationdate="20200813T150723Z">
-        <seg>我喜欢将话题标识符属性和文件名称设置为一样的内容：例如，此话题的&lt;t5/&gt; @id &lt;t6/&gt;是“franchise-intro”，我会将文件命名为 &lt;t7/&gt;franchise-intro.dita&lt;t8/&gt;（XDITA 格式的话题可以保存为扩展名为 &lt;t9/&gt;.xml&lt;t10/&gt; 或 &lt;t11/&gt;.dita&lt;t12/&gt;的文件）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200813T150723Z">
+        <seg>我喜欢将主题标识符属性和文件名称设置为一样的内容：例如，此主题的&lt;t5/&gt; @id &lt;t6/&gt;是“franchise-intro”，我会将文件命名为 &lt;t7/&gt;franchise-intro.dita&lt;t8/&gt;（XDITA 格式的主题可以保存为扩展名为 &lt;t9/&gt;.xml&lt;t10/&gt; 或 &lt;t11/&gt;.dita&lt;t12/&gt;的文件）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7211,8 +7211,8 @@
       <tuv lang="en">
         <seg>I shared with them a small collection of HDITA sample topics that incor&lt;t2/&gt;porated some of the elements from Priestley's blog post but added the possibility of content reuse and single-sourcing with new HTML5 custom data attributes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131110Z" creationid="DSS" creationdate="20200802T155119Z">
-        <seg>我与他们分享了一组 HDITA 话题示例，其中包含了普里斯特利博文提到的一些元素，同时使用了新的 HTML5 自定义数据属性，以增加实现内容复用和单一来源的可能性。&lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200802T155119Z">
+        <seg>我与他们分享了一组 HDITA 主题示例，其中包含了普里斯特利博文提到的一些元素，同时使用了新的 HTML5 自定义数据属性，以增加实现内容复用和单一来源的可能性。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7227,8 +7227,8 @@
       <tuv lang="en">
         <seg>I told him that I would develop some sample topics in HDITA and, a term we created at that moment, “MarkDITA” &lt;t4/&gt;一 &lt;t5/&gt;a Markdown-based authoring format of LwDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T153602Z" creationid="DSS" creationdate="20200802T130335Z">
-        <seg>我告诉普里斯特利，我将开发一些 HDITA 和MarkDITA 话题示例。在我跟普里斯特利说话的那一刻，我们想到了“MarkDITA”这个名字，MarkDITA 是基于 Markdown 的 LwDITA 创作格式。&lt;t4/&gt;&lt;t5/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200802T130335Z">
+        <seg>我告诉普里斯特利，我将开发一些 HDITA 和MarkDITA 主题示例。在我跟普里斯特利说话的那一刻，我们想到了“MarkDITA”这个名字，MarkDITA 是基于 Markdown 的 LwDITA 创作格式。&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7371,8 +7371,8 @@
       <tuv lang="en">
         <seg>If all Chef Pedro needed were a basic web version of the brochure, and if all the topics referenced in the map were also created in HDITA, this version of the map could provide the navigation structure for it.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T074947Z" creationid="DSS" creationdate="20200807T074947Z">
-        <seg>如果厨师佩德罗需要的只是一个简单的网页版宣传手册，并且地图中引用的所有话题都是由 HDITA 格式创建的，那么地图就可以提供导航结构。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200807T074947Z">
+        <seg>如果厨师佩德罗需要的只是一个简单的网页版宣传手册，并且地图中引用的所有主题都是由 HDITA 格式创建的，那么地图就可以提供导航结构。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7435,8 +7435,8 @@
       <tuv lang="en">
         <seg>If so, the topics could end here and join a content collection to produce deliverables for end users.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141853Z" creationid="DSS" creationdate="20200816T141853Z">
-        <seg>那么话题写作的部分就结束了，将这些话题内容聚合起来，就可以为终端用户生成可交付内容。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T141853Z">
+        <seg>那么主题写作的部分就结束了，将这些主题内容聚合起来，就可以为终端用户生成可交付内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7459,8 +7459,8 @@
       <tuv lang="en">
         <seg>If that validation process sounds a little too complicated, as an author all you need to know is that the content types enforced by the DITA standard create information topics.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T154319Z" creationid="DSS" creationdate="20200724T154209Z">
-        <seg>如果验证过程听起来有点太过复杂，作为作者只需要知道 DITA 标准规定的内容类型可以创建信息话题就行了。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200724T154209Z">
+        <seg>如果验证过程听起来有点太过复杂，作为作者只需要知道 DITA 标准规定的内容类型可以创建信息主题就行了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7491,8 +7491,8 @@
       <tuv lang="en">
         <seg>If those pre-established topic types were not enough for a particular writer and context, DITA topics can be &lt;t0/&gt;specialized&lt;t1/&gt; to create information types unique to any intelligent content domain.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145930Z" creationid="DSS" creationdate="20200725T143839Z">
-        <seg>如果这些预先建立的话题类型对于特定的作者和特定的语境需求来说还不够， 还可以&lt;t0/&gt;特别定制&lt;t1/&gt;DITA话题，以创建任何智能内容领域特有的信息类型。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200725T143839Z">
+        <seg>如果这些预先建立的主题类型对于特定的作者和特定的语境需求来说还不够， 还可以&lt;t0/&gt;特别定制&lt;t1/&gt;DITA主题，以创建任何智能内容领域特有的信息类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7669,8 +7669,8 @@
       <tuv lang="en">
         <seg>In &lt;t0/&gt;Figure 6.10&lt;t1/&gt;, an MDITA extended profile with an assigned &lt;t2/&gt;@id &lt;t3/&gt;of “&lt;t4/&gt;franchise- intro”&lt;t5/&gt; uses a &lt;t6/&gt;setext&lt;t7/&gt; heading for its title component.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141118Z" creationid="DSS" creationdate="20200816T141118Z">
-        <seg>图&lt;t0/&gt;6.10&lt;t1/&gt;展示了指定 &lt;t2/&gt;@id &lt;t3/&gt;为“&lt;t4/&gt;franchise- intro&lt;t5/&gt; ”扩展配置的 MDITA 话题，该话题文件使用 &lt;t6/&gt;setext&lt;t7/&gt; 语法格式编写标题组件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T141118Z">
+        <seg>图&lt;t0/&gt;6.10&lt;t1/&gt;展示了指定 &lt;t2/&gt;@id &lt;t3/&gt;为“&lt;t4/&gt;franchise- intro&lt;t5/&gt; ”扩展配置的 MDITA 主题，该主题文件使用 &lt;t6/&gt;setext&lt;t7/&gt; 语法格式编写标题组件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7701,8 +7701,8 @@
       <tuv lang="en">
         <seg>In &lt;t2/&gt;Figure &lt;t3/&gt;6.31&lt;t4/&gt;, &lt;t5/&gt;the topic with the bulleted list of franchise features now includes a hyper reference (&lt;t6/&gt;@href&lt;t7/&gt;) to an external website hosting the &lt;t8/&gt;Sensei Sushi&lt;t9/&gt; knowl&lt;t10/&gt;edge base for technical support.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T145328Z" creationid="DSS" creationdate="20200817T145328Z">
-        <seg>在图&lt;t2/&gt;&lt;t3/&gt;6.31&lt;t4/&gt;&lt;t5/&gt;中，使用项目符号列表呈现特许经营权特性的话题现在包含了一个交叉引用 (&lt;t6/&gt;@href&lt;t7/&gt;)，可以关联到托管 &lt;t8/&gt;Sensei Sushi&lt;t9/&gt; 知识库的外部网站，以提供技术支持。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T145328Z">
+        <seg>在图&lt;t2/&gt;&lt;t3/&gt;6.31&lt;t4/&gt;&lt;t5/&gt;中，使用项目符号列表呈现特许经营权特性的主题现在包含了一个交叉引用 (&lt;t6/&gt;@href&lt;t7/&gt;)，可以关联到托管 &lt;t8/&gt;Sensei Sushi&lt;t9/&gt; 知识库的外部网站，以提供技术支持。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7717,8 +7717,8 @@
       <tuv lang="en">
         <seg>In &lt;t21/&gt;Lightweight DITA: An Introduction&lt;t22/&gt;, we wrote the fol&lt;t23/&gt;lowing about the optional YAML header for MDITA topics:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T140606Z" creationid="DSS" creationdate="20200816T134311Z">
-        <seg>在《&lt;t21/&gt;轻量级 DITA 简介&lt;t22/&gt;&lt;t23/&gt;》中，我们对 MDITA 话题的可选 YAML 头进行了以下介绍：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T134311Z">
+        <seg>在《&lt;t21/&gt;轻量级 DITA 简介&lt;t22/&gt;&lt;t23/&gt;》中，我们对 MDITA 主题的可选 YAML 头进行了以下介绍：</seg>
       </tuv>
     </tu>
     <tu>
@@ -7765,8 +7765,8 @@
       <tuv lang="en">
         <seg>In DITA XML (see&lt;t0/&gt; Figure 1.3&lt;t1/&gt;), the recipe was structured as a task and had predetermined elements that the DITA standard associates with a task (like &lt;t2/&gt;&lt;steps&gt; &lt;t3/&gt;and &lt;t4/&gt;&lt;prereq&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T053959Z" creationid="DSS" creationdate="20200817T053959Z">
-        <seg>在 DITA XML 中（参见图&lt;t0/&gt;1.3&lt;t1/&gt;），菜谱被编写为结构化任务话题，并具有在 DITA 标准中与任务关联的预定义元素（如 &lt;t2/&gt;&lt;steps&gt; &lt;t3/&gt;和 &lt;t4/&gt;&lt;prereq&gt;）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T053959Z">
+        <seg>在 DITA XML 中（参见图&lt;t0/&gt;1.3&lt;t1/&gt;），菜谱被编写为结构化任务主题，并具有在 DITA 标准中与任务关联的预定义元素（如 &lt;t2/&gt;&lt;steps&gt; &lt;t3/&gt;和 &lt;t4/&gt;&lt;prereq&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7781,8 +7781,8 @@
       <tuv lang="en">
         <seg>In DITA, authors can create consistent topics to assemble collections of information with elements that can be reused even at the phrase level.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T162123Z" creationid="DSS" creationdate="20200724T162123Z">
-        <seg>在 DITA 中，作者可以创建一致的话题来组合信息，这些信息甚至包含短语级别的可复用元素。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200724T162123Z">
+        <seg>在 DITA 中，作者可以创建一致的主题来组合信息，这些信息甚至包含短语级别的可复用元素。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7813,8 +7813,8 @@
       <tuv lang="en">
         <seg>In HDITA and MDITA topics, the optional short description is implied in the first paragraph of content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141502Z" creationid="DSS" creationdate="20200816T141502Z">
-        <seg>在 HDITA 和 MDITA 话题中，可选的简短描述组件隐含在内容的第一个段落中。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T141502Z">
+        <seg>在 HDITA 和 MDITA 主题中，可选的简短描述组件隐含在内容的第一个段落中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7893,8 +7893,8 @@
       <tuv lang="en">
         <seg>In MDITA core profile, any structure saved as Markdown format can work as a basic topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T133737Z" creationid="DSS" creationdate="20200816T133737Z">
-        <seg>在 MDITA 的核心规定中，任何保存为 Markdown 格式的结构都可以作为基础话题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T133737Z">
+        <seg>在 MDITA 的核心规定中，任何保存为 Markdown 格式的结构都可以作为基础主题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7933,8 +7933,8 @@
       <tuv lang="en">
         <seg>In MDITA, the required &lt;t6/&gt;@id &lt;t7/&gt;should be automatically generated when the topic is saved, through a “slug”-generation process.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T133911Z" creationid="DSS" creationdate="20200816T133911Z">
-        <seg>在 MDITA 中， &lt;t6/&gt;@id &lt;t7/&gt;会在保存话题时通过解析文件名称自动生成。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T133911Z">
+        <seg>在 MDITA 中， &lt;t6/&gt;@id &lt;t7/&gt;会在保存主题时通过解析文件名称自动生成。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7957,8 +7957,8 @@
       <tuv lang="en">
         <seg>In Markdown, a title is not required, so this one-line example can work as a valid basic (but useless for practical reasons) topic, even if its con&lt;t3/&gt;tent is just a commented annotation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T140558Z" creationid="DSS" creationdate="20200816T133755Z">
-        <seg>Markdown不需要标题，因此即使示例只有一行注释，也是一个有效的基础话题（但该话题在实际应用中毫无用处）。&lt;t3/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T133755Z">
+        <seg>Markdown不需要标题，因此即使示例只有一行注释，也是一个有效的基础主题（但该主题在实际应用中毫无用处）。&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8045,32 +8045,32 @@
       <tuv lang="en">
         <seg>In XDITA and MDITA, a topic requires an &lt;t0/&gt;@id&lt;t1/&gt;, which is provided as an attribute of the components &lt;t2/&gt;&lt;topic&gt; &lt;t3/&gt;and &lt;t4/&gt;&lt;article&gt;&lt;t5/&gt;, respectively.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T133900Z" creationid="DSS" creationdate="20200816T133900Z">
-        <seg>在 XDITA 和 MDITA 中，一个话题需要一个 &lt;t0/&gt;@id&lt;t1/&gt;，@id将分别作为 &lt;t2/&gt;&lt;topic&gt; &lt;t3/&gt;和 &lt;t4/&gt;&lt;article&gt;&lt;t5/&gt;组件的属性。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T133900Z">
+        <seg>在 XDITA 和 MDITA 中，一个主题需要一个 &lt;t0/&gt;@id&lt;t1/&gt;，@id将分别作为 &lt;t2/&gt;&lt;topic&gt; &lt;t3/&gt;和 &lt;t4/&gt;&lt;article&gt;&lt;t5/&gt;组件的属性。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>In XDITA, non-textual topical conventions start with an image (&lt;t0/&gt;&lt;image&gt;&lt;t1/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T132004Z" creationid="DSS" creationdate="20200817T132004Z">
-        <seg>在XDITA中，首个非文本话题协定就是图像组件 (&lt;t0/&gt;&lt;image&gt;&lt;t1/&gt;)。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T132004Z">
+        <seg>在XDITA中，首个非文本主题协定就是图像组件 (&lt;t0/&gt;&lt;image&gt;&lt;t1/&gt;)。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>In XDITA, the attribute for a unique identifier at the topic level (the &lt;t0/&gt;id &lt;t1/&gt;por&lt;t2/&gt;tion of the &lt;t3/&gt;&lt;topic id=“franchise-intro”&gt; &lt;t4/&gt;line) is required.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131311Z" creationid="DSS" creationdate="20200813T150323Z">
-        <seg>在 XDITA 中，需要为话题级别的惟一标识符提供属性（即 &lt;topic id=“franchise-intro”&gt; 中的&lt;t0/&gt; id&lt;t1/&gt;&lt;t2/&gt; 部分），&lt;t3/&gt;&lt;t4/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200813T150323Z">
+        <seg>在 XDITA 中，需要为主题级别的惟一标识符提供属性（即 &lt;topic id=“franchise-intro”&gt; 中的&lt;t0/&gt; id&lt;t1/&gt;&lt;t2/&gt; 部分），&lt;t3/&gt;&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>In XDITA, the body&lt;t1/&gt; environment can hold several topic components.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T142436Z" creationid="DSS" creationdate="20200816T142237Z">
-        <seg>在 XDITA 中，主体组件可以包含多个话题组件。&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T142237Z">
+        <seg>在 XDITA 中，主体组件可以包含多个主题组件。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8261,8 +8261,8 @@
       <tuv lang="en">
         <seg>In its extended profile, MDITA allows a header authored in YAML&lt;t5/&gt;4&lt;t6/&gt; (the recursive acronym for &lt;t7/&gt;YAML Ain't Markup Language&lt;t8/&gt;) with metadata about the topic's author and some categories that we have been carrying since the original XML sample.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T081204Z" creationid="DSS" creationdate="20200817T081204Z">
-        <seg>在其扩展概要中，MDITA 允许使用 YAML&lt;t5/&gt;4&lt;t6/&gt;（&lt;t7/&gt;YAML Ain't Markup Language&lt;t8/&gt;）文件头，关于话题作者的元数据以及一些原生 XML 一直包含的类别组件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T081204Z">
+        <seg>在其扩展概要中，MDITA 允许使用 YAML&lt;t5/&gt;4&lt;t6/&gt;（&lt;t7/&gt;YAML Ain't Markup Language&lt;t8/&gt;）文件头，关于主题作者的元数据以及一些原生 XML 一直包含的类别组件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8317,8 +8317,8 @@
       <tuv lang="en">
         <seg>In practical terms, DITA's topic types include XML tags for content “moves” or strategies (such as a short description, steps, and examples) frequently used in technical publications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T082839Z" creationid="DSS" creationdate="20200725T064600Z">
-        <seg>实际上，DITA 的话题类型包括技术出版物中经常用于内容操作或策略（例如一个简短的描述、步骤和示例）的 XML 标记。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200725T064600Z">
+        <seg>实际上，DITA 的主题类型包括技术出版物中经常用于内容操作或策略（例如一个简短的描述、步骤和示例）的 XML 标记。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8349,8 +8349,8 @@
       <tuv lang="en">
         <seg>In separate conversations with colleagues in academia (including Bill Hart- Davidson from Michigan State University) and industry (like Radu Coravu, from the Romania-based Syncro Soft), we have had unisonous affirmations of “structure starts in your head.” For a specific type of user, the structure of a sim&lt;t0/&gt;ple topic can be in their head as they go through the tasks related to the creation of intelligent.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T151140Z" creationid="DSS" creationdate="20200804T161453Z">
-        <seg>在分别与学术界（包括密歇根州立大学的比尔·哈特-戴维森）和产业界（如来自罗马尼亚公司 Syncro Soft 的拉杜·科拉夫）交流后，我们一致肯定：“结构始于思考。”对于特定类型的用户来说，在创建智能内容的过程中，一个简单话题结构一直存在于他们脑中。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200804T161453Z">
+        <seg>在分别与学术界（包括密歇根州立大学的比尔·哈特-戴维森）和产业界（如来自罗马尼亚公司 Syncro Soft 的拉杜·科拉夫）交流后，我们一致肯定：“结构始于思考。”对于特定类型的用户来说，在创建智能内容的过程中，一个简单主题结构一直存在于他们脑中。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8389,8 +8389,8 @@
       <tuv lang="en">
         <seg>In that initial proposal, which was still depending on XML as its only authoring language, the simplified topic content model included the following elements or topical conventions:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T073542Z" creationid="DSS" creationdate="20200731T073542Z">
-        <seg>最初的提议仍然依赖 XML 作为其唯一的创作语言，在最初的提议中，简化的话题内容模型包括以下元素或话题规则：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200731T073542Z">
+        <seg>最初的提议仍然依赖 XML 作为其唯一的创作语言，在最初的提议中，简化的主题内容模型包括以下元素或主题规则：</seg>
       </tuv>
     </tu>
     <tu>
@@ -8605,16 +8605,16 @@
       <tuv lang="en">
         <seg>In this case, the “red squiggly of doom” error tells the authors that the topic is not valid and must be fixed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T151606Z" creationid="DSS" creationdate="20200813T151606Z">
-        <seg>在本例中，“预示着坏消息的红色曲线”错误报告告诉写作者，这个话题是无效的，需要修正。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200813T151606Z">
+        <seg>在本例中，“预示着坏消息的红色曲线”错误报告告诉写作者，这个主题是无效的，需要修正。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>In this case, they specify that the topic is Lightweight DITA and not full DITA XML, that it should not allow nested lists, and that it should not allow the inclusion of sections inside the topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T082155Z" creationid="DSS" creationdate="20200731T082155Z">
-        <seg>在这个例子中，这些指令规定了话题创建自轻量级 DITA 而不是完整的 DITA XML，所以不允许嵌套列表的出现，话题中不能包含子块。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200731T082155Z">
+        <seg>在这个例子中，这些指令规定了主题创建自轻量级 DITA 而不是完整的 DITA XML，所以不允许嵌套列表的出现，主题中不能包含子块。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8685,8 +8685,8 @@
       <tuv lang="en">
         <seg>In this specific example, the map will only reference those topics that are needed to build a promotional brochure for the &lt;t4/&gt;Sensei Sushi&lt;t5/&gt; franchise opportunity.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T061002Z" creationid="DSS" creationdate="20200807T061002Z">
-        <seg>在下面这个特定的例子中，地图将只引用那些有助于构建 &lt;t4/&gt;Sensei Sushi&lt;t5/&gt; 品牌加盟宣传手册的话题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200807T061002Z">
+        <seg>在下面这个特定的例子中，地图将只引用那些有助于构建 &lt;t4/&gt;Sensei Sushi&lt;t5/&gt; 品牌加盟宣传手册的主题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8781,8 +8781,8 @@
       <tuv lang="en">
         <seg>Information Mapping topic types: common topic types made up of IM sec&lt;t0/&gt;tion types (Priestley, 2012a).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131054Z" creationid="DSS" creationdate="20200801T130444Z">
-        <seg>信息映射话题类型：由 IM 节（section）类型组成的常见话题类型（普里斯特利，2012年）。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200801T130444Z">
+        <seg>信息映射主题类型：由 IM 节（section）类型组成的常见主题类型（普里斯特利，2012年）。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8845,8 +8845,8 @@
       <tuv lang="en">
         <seg>Instead of summarizing Priestley's blog post, I will focus here on how this proposal made the basic LwDITA topic from the summer of 2012 evolve into two branches based on its authoring language: XDITA for XML and HDITA for HTML5.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T091723Z" creationid="DSS" creationdate="20200817T091723Z">
-        <seg>在这里，我不打算总结普里斯特利的博文内容，而准备将重点放在这个提议是如何使2012年夏天提出的基本 LwDITA 话题演变成了基于写作语言的两个分支：XDITA 基于 XML，HDITA 基于 HTML5。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T091723Z">
+        <seg>在这里，我不打算总结普里斯特利的博文内容，而准备将重点放在这个提议是如何使2012年夏天提出的基本 LwDITA 主题演变成了基于写作语言的两个分支：XDITA 基于 XML，HDITA 基于 HTML5。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9253,8 +9253,8 @@
       <tuv lang="en">
         <seg>James's tweet started a discussion about the many topics covered in courses and programs in technical communication.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T155801Z" creationid="DSS" creationdate="20200726T140424Z">
-        <seg>詹姆斯的推文引发了一场讨论，涉及技术传播课程和项目中的众多话题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200726T140424Z">
+        <seg>詹姆斯的推文引发了一场讨论，涉及技术传播课程和项目中的众多主题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9325,8 +9325,8 @@
       <tuv lang="en">
         <seg>Just as LwDITA defines a subset of DITA features for topics, it also defines a subset for the DITA map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T075931Z" creationid="DSS" creationdate="20200806T075931Z">
-        <seg>它可以将话题分组。正如 LwDITA 的话题特性是 DITA 话题特性的子集一样，LwDITA 地图的特性也是 DITA 地图特性的子集。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200806T075931Z">
+        <seg>它可以将主题分组。正如 LwDITA 的主题特性是 DITA 主题特性的子集一样，LwDITA 地图的特性也是 DITA 地图特性的子集。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9349,8 +9349,8 @@
       <tuv lang="en">
         <seg>Just like the XDITA example in &lt;t4/&gt;Figure 6.1&lt;t5/&gt;, the HDITA topic requires a &lt;t6/&gt;&lt;title&gt; &lt;t7/&gt;element, which I will add in the following section.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T135810Z" creationid="DSS" creationdate="20200816T133656Z">
-        <seg>与图&lt;t4/&gt;6.1&lt;t5/&gt;中的XDITA示例一样，HDITA话题需要 &lt;t6/&gt;&lt;title&gt; &lt;t7/&gt;元素，我将在下一节中添加该元素。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T133656Z">
+        <seg>与图&lt;t4/&gt;6.1&lt;t5/&gt;中的XDITA示例一样，HDITA主题需要 &lt;t6/&gt;&lt;title&gt; &lt;t7/&gt;元素，我将在下一节中添加该元素。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9493,8 +9493,8 @@
       <tuv lang="en">
         <seg>Let's go back to Chef Pedro, who is attempting now to structure some of his own recipes as tasks following specifications from the DITA &lt;t0/&gt;1.3 &lt;t1/&gt;standard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150423Z" creationid="DSS" creationdate="20200726T073836Z">
-        <seg>让我们回到厨师佩德罗的例子上，他现在正试图按照 DITA 标准&lt;t0/&gt;1.3&lt;t1/&gt;版本的规范将自己的一些菜谱组织成任务（task）话题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200726T073836Z">
+        <seg>让我们回到厨师佩德罗的例子上，他现在正试图按照 DITA 标准&lt;t0/&gt;1.3&lt;t1/&gt;版本的规范将自己的一些菜谱组织成任务（task）主题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9645,8 +9645,8 @@
       <tuv lang="en">
         <seg>LwDITA Topical Conventions</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T121941Z" creationid="DSS" creationdate="20200803T121941Z">
-        <seg>LwDITA 的话题协定</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200803T121941Z">
+        <seg>LwDITA 的主题协定</seg>
       </tuv>
     </tu>
     <tu>
@@ -9725,8 +9725,8 @@
       <tuv lang="en">
         <seg>LwDITA is a topic-based architecture for tagging and structuring intelligent content using flexible markup options.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T042149Z" creationid="DSS" creationdate="20200817T042149Z">
-        <seg>LwDITA 是一种基于话题的体系结构，使用灵活的标记选项为智能内容嵌套标签，创建结构。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T042149Z">
+        <seg>LwDITA 是一种基于主题的体系结构，使用灵活的标记选项为智能内容嵌套标签，创建结构。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9917,8 +9917,8 @@
       <tuv lang="en">
         <seg>Map (&lt;t0/&gt;&lt;map&gt;&lt;t1/&gt;) &lt;t2/&gt;- &lt;t3/&gt;describes the relationships among a set of resources, such as LwDITA topics</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T062825Z" creationid="DSS" creationdate="20200807T062825Z">
-        <seg>地图 (&lt;t0/&gt;&lt;map&gt;&lt;t1/&gt;)&lt;t2/&gt;&lt;t3/&gt;描述了一组资源之间的关系，如一组 LwDITA 话题之间的关系。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200807T062825Z">
+        <seg>地图 (&lt;t0/&gt;&lt;map&gt;&lt;t1/&gt;)&lt;t2/&gt;&lt;t3/&gt;描述了一组资源之间的关系，如一组 LwDITA 主题之间的关系。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9933,8 +9933,8 @@
       <tuv lang="en">
         <seg>Map&lt;t0/&gt;: a component that describes the relationships among a set of resources, such as LwDITA topics.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T153616Z" creationid="DSS" creationdate="20200804T153616Z">
-        <seg>地图（map）&lt;t0/&gt;：描述一组资源之间关系的组件，如一组LwDITA话题之间的关系。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200804T153616Z">
+        <seg>地图（map）&lt;t0/&gt;：描述一组资源之间关系的组件，如一组LwDITA主题之间的关系。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10013,8 +10013,8 @@
       <tuv lang="en">
         <seg>Michael Priestley reiterated this expanded collection of lightweight topics at a presentation during the DITA North America/Content Management Solutions in Providence, Rhode Island.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T130650Z" creationid="DSS" creationdate="20200801T130650Z">
-        <seg>在罗德岛州普罗维登斯举行的 DITA 北美/内容管理解决方案大会上，迈克尔·普里斯特利重申了轻量级话题的扩展集合。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200801T130650Z">
+        <seg>在罗德岛州普罗维登斯举行的 DITA 北美/内容管理解决方案大会上，迈克尔·普里斯特利重申了轻量级主题的扩展集合。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10053,8 +10053,8 @@
       <tuv lang="en">
         <seg>Modular &lt;t0/&gt;content is “intentionally designed for reuse.” Instead of page- centric books, authors of intelligent content create modules or components of content (topics) “one at a time.”</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T141616Z" creationid="DSS" creationdate="20200811T141616Z">
-        <seg>模块化&lt;t0/&gt;内容是“特地为复用而设计的”。与以页面为中心的书籍不同，智能内容创作者“一次”创建“一个”内容（话题）模块或组件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200811T141616Z">
+        <seg>模块化&lt;t0/&gt;内容是“特地为复用而设计的”。与以页面为中心的书籍不同，智能内容创作者“一次”创建“一个”内容（主题）模块或组件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10173,8 +10173,8 @@
       <tuv lang="en">
         <seg>My samples included a hastily assembled “MarkDITA” topic prototype that used a combination of HDITA tags with Markdown syntax to recreate a DITA task (&lt;t3/&gt;Figure &lt;t4/&gt;3.2&lt;t5/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T155137Z" creationid="DSS" creationdate="20200802T155137Z">
-        <seg>这些示例中包括一个仓促组合的“MarkDITA”话题原型，它使用 Markdown 语法以 HDITA 标签组合重新创建了一个 DITA 任务（&lt;t3/&gt;图&lt;t4/&gt;3.2&lt;t5/&gt;）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200802T155137Z">
+        <seg>这些示例中包括一个仓促组合的“MarkDITA”主题原型，它使用 Markdown 语法以 HDITA 标签组合重新创建了一个 DITA 任务（&lt;t3/&gt;图&lt;t4/&gt;3.2&lt;t5/&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10197,16 +10197,16 @@
       <tuv lang="en">
         <seg>Navigation title (&lt;t0/&gt;&lt;navtitle&gt;&lt;t1/&gt;) &lt;t2/&gt;- &lt;t3/&gt;provides an alternate title for a topic that becomes a part of navigation resources or tables of contents in deliverables</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T062937Z" creationid="DSS" creationdate="20200807T062937Z">
-        <seg>导航标题 (&lt;t0/&gt;&lt;navtitle&gt;&lt;t1/&gt;)&lt;t2/&gt;&lt;t3/&gt;为话题提供替代标题，是可交付内容中的导航资源或表格内容的一部分。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200807T062937Z">
+        <seg>导航标题 (&lt;t0/&gt;&lt;navtitle&gt;&lt;t1/&gt;)&lt;t2/&gt;&lt;t3/&gt;为主题提供替代标题，是可交付内容中的导航资源或表格内容的一部分。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Navigation title&lt;t0/&gt;: provides an alternate title for a topic that becomes a part of navigation resources or tables of contents in deliverables.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T153626Z" creationid="DSS" creationdate="20200804T153626Z">
-        <seg>导航标题（navigation title）&lt;t0/&gt;：为话题提供替代标题，是可交付内容中的导航资源或表格内容的一部分。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200804T153626Z">
+        <seg>导航标题（navigation title）&lt;t0/&gt;：为主题提供替代标题，是可交付内容中的导航资源或表格内容的一部分。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10438,8 +10438,8 @@
       <tuv lang="en">
         <seg>Of course, you will also need all the topics that the map references (inside each &lt;t6/&gt;&lt;topicref&gt; &lt;t7/&gt;tag), but we will work with those in the next chapter.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T064957Z" creationid="DSS" creationdate="20200807T064957Z">
-        <seg>当然，你还需要创建地图引用的所有话题（即每个 &lt;t6/&gt;&lt;topicref&gt; &lt;t7/&gt;标签里的内容），不过这将在下一章进行讲解，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200807T064957Z">
+        <seg>当然，你还需要创建地图引用的所有主题（即每个 &lt;t6/&gt;&lt;topicref&gt; &lt;t7/&gt;标签里的内容），不过这将在下一章进行讲解，</seg>
       </tuv>
     </tu>
     <tu>
@@ -10551,8 +10551,8 @@
       <tuv lang="en">
         <seg>One of the major features and advantages of DITA, and LwDITA, is the ability to specify and generate arbitrary collections of topic content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T075858Z" creationid="DSS" creationdate="20200806T075858Z">
-        <seg>DITA 和 LwDITA 的主要特性和优点之一是能够规定并生成话题内容的任意集合，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200806T075858Z">
+        <seg>DITA 和 LwDITA 的主要特性和优点之一是能够规定并生成主题内容的任意集合，</seg>
       </tuv>
     </tu>
     <tu>
@@ -10703,8 +10703,8 @@
       <tuv lang="en">
         <seg>Out of the box mappings and specifications for authoring these topic types in other formats, such as HTML5 or markdown</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T161108Z" creationid="DSS" creationdate="20200802T161108Z">
-        <seg>轻松地实现其他格式（如 HTML5 或 Markdown）的话题类型的映射和专门化，开箱即用</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200802T161108Z">
+        <seg>轻松地实现其他格式（如 HTML5 或 Markdown）的主题类型的映射和专门化，开箱即用</seg>
       </tuv>
     </tu>
     <tu>
@@ -10719,8 +10719,8 @@
       <tuv lang="en">
         <seg>Oxygen validates&lt;t1/&gt; the XDITA topics as the authors develop them.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T153438Z" creationid="DSS" creationdate="20200813T151600Z">
-        <seg>Oxygen 在写作者创建 XDITA 话题时进行验证，&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200813T151600Z">
+        <seg>Oxygen 在写作者创建 XDITA 主题时进行验证，&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10863,8 +10863,8 @@
       <tuv lang="en">
         <seg>Prelli explains rhetorical &lt;t3/&gt;topoi&lt;t4/&gt; as “headings or topics that identify lines of thought.” He adds that “some of these lines of development are relevant to virtually all discussion within a culture; others are peculiar to specific subjects and fields of inquiry” (Prelli, &lt;t5/&gt;1989, &lt;t6/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T162019Z" creationid="lenovo" creationdate="20200811T162019Z">
-        <seg>普雷利将修辞性&lt;t3/&gt;主题&lt;t4/&gt;解释为“确定思路的标题或话题。” 他补充到“其中一些发展思路与文化中几乎所有的讨论都有关；其他的则是特定学科和研究领域所特有的"(Prelli, &lt;t5/&gt;1989, &lt;t6/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034603Z" creationid="lenovo" creationdate="20200811T162019Z">
+        <seg>普雷利将修辞性&lt;t3/&gt;主题&lt;t4/&gt;解释为“确定思路的标题或主题。” 他补充到“其中一些发展思路与文化中几乎所有的讨论都有关；其他的则是特定学科和研究领域所特有的"(Prelli, &lt;t5/&gt;1989, &lt;t6/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11007,8 +11007,8 @@
       <tuv lang="en">
         <seg>Priestley's basic topic appears on &lt;t8/&gt;Figure &lt;t9/&gt;3.1&lt;t10/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T082047Z" creationid="DSS" creationdate="20200731T082047Z">
-        <seg>基于Priestley提案的基本话题如&lt;t8/&gt;图&lt;t9/&gt;3.1&lt;t10/&gt;所示。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200731T082047Z">
+        <seg>基于Priestley提案的基本主题如&lt;t8/&gt;图&lt;t9/&gt;3.1&lt;t10/&gt;所示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11023,16 +11023,16 @@
       <tuv lang="en">
         <seg>Priestley's proposal emphasized that the lightweight topic only included &lt;t0/&gt;16 &lt;t1/&gt;elements, and that all attributes, with the exception of &lt;t2/&gt;@id &lt;t3/&gt;on &lt;t4/&gt;&lt;topic&gt;&lt;t5/&gt;, were optional.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T154545Z" creationid="DSS" creationdate="20200731T075807Z">
-        <seg> 普里斯特利的提案强调轻量级话题只包含&lt;t0/&gt;16 &lt;t1/&gt;个元素，除了&lt;topic&gt;上的&lt;t2/&gt;@id &lt;t3/&gt;属性之外，所有属性都是可选的。&lt;t4/&gt;&lt;t5/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200731T075807Z">
+        <seg> 普里斯特利的提案强调轻量级主题只包含&lt;t0/&gt;16 &lt;t1/&gt;个元素，除了&lt;topic&gt;上的&lt;t2/&gt;@id &lt;t3/&gt;属性之外，所有属性都是可选的。&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Priestley's revised catalog of lightweight topics expanded from the one “strawman” topic and in the revised version included the following:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T093340Z" creationid="DSS" creationdate="20200731T093340Z">
-        <seg>普里斯特利修订的轻量级话题从“稻草人”话题扩展而来，修订后的版本中包括了以下内容：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200731T093340Z">
+        <seg>普里斯特利修订的轻量级主题从“稻草人”主题扩展而来，修订后的版本中包括了以下内容：</seg>
       </tuv>
     </tu>
     <tu>
@@ -11071,8 +11071,8 @@
       <tuv lang="en">
         <seg>Professional authoring tools can hide code in What You See &lt;t0/&gt;Is What You Get (WYSIWYG) options, but the rhetorical, pedagogical, and computational principles of &lt;t1/&gt;Creating Intelligent Content with Lightweight DITA &lt;t2/&gt;view and perceive LwDITA topics as code.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150042Z" creationid="DSS" creationdate="20200817T043245Z">
-        <seg>专业的写作工具拥有“所见即所得”的功能，可以隐藏代码，但是&lt;t0/&gt;&lt;t1/&gt;本书&lt;t2/&gt;中的修辞、教学和计算机原则会将 LwDITA 话题视为代码来对待。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T043245Z">
+        <seg>专业的写作工具拥有“所见即所得”的功能，可以隐藏代码，但是&lt;t0/&gt;&lt;t1/&gt;本书&lt;t2/&gt;中的修辞、教学和计算机原则会将 LwDITA 主题视为代码来对待。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11103,8 +11103,8 @@
       <tuv lang="en">
         <seg>Prolog: A container for metadata about a topic (for example, author infor&lt;t0/&gt;mation or subject category)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T054304Z" creationid="DSS" creationdate="20200817T054304Z">
-        <seg>序言（prolog）：包含话题元数据（例如，作者信息或主题类别) </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T054304Z">
+        <seg>序言（prolog）：包含主题元数据（例如，作者信息或主题类别) </seg>
       </tuv>
     </tu>
     <tu>
@@ -11120,8 +11120,8 @@
       <tuv lang="en">
         <seg>Properly tagged DITA topics can create or join content collections ready for reuse of material, single-sourcing of whole topics or their elements, and filters as determined by a deliverable's audience or context.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T144738Z" creationid="DSS" creationdate="20200725T144738Z">
-        <seg>适当标签化的 DITA 话题可以用于创建或连接内容集合，以便复用资源、完整的同源话题或同源话题包含的各个元素，以及由交付物的受众或语境决定的过滤器。
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200725T144738Z">
+        <seg>适当标签化的 DITA 主题可以用于创建或连接内容集合，以便复用资源、完整的同源主题或同源主题包含的各个元素，以及由交付物的受众或语境决定的过滤器。
 </seg>
       </tuv>
     </tu>
@@ -11393,8 +11393,8 @@
       <tuv lang="en">
         <seg>Ross summarizes the discussion by suggesting that topics are shared places common to all debate, which allow rhetors to shape viable argument, and that is where the rhetorical concept of topic meets the DITA topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T160451Z" creationid="lenovo" creationdate="20200811T160451Z">
-        <seg>罗斯对这些讨论进行了总结，表示话题是所有辩论所共有的，演说家可以据此形成可行论据，这也是修辞中的主题概念与DITA主题的交汇之处。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034603Z" creationid="lenovo" creationdate="20200811T160451Z">
+        <seg>罗斯对这些讨论进行了总结，表示主题是所有辩论所共有的，演说家可以据此形成可行论据，这也是修辞中的主题概念与DITA主题的交汇之处。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -11441,24 +11441,24 @@
       <tuv lang="en">
         <seg>Section: An organizational division within a topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T055212Z" creationid="DSS" creationdate="20200817T054317Z">
-        <seg>节（section）：话题内部的组织划分，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T054317Z">
+        <seg>节（section）：主题内部的组织划分，</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Section&lt;t0/&gt;: an organizational division within a topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T055149Z" creationid="DSS" creationdate="20200804T131910Z">
-        <seg>节（section）&lt;t0/&gt;：负责话题内部的组织划分，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200804T131910Z">
+        <seg>节（section）&lt;t0/&gt;：负责主题内部的组织划分，</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Semantically rich &lt;t0/&gt;content includes “added extra, machine-readable infor&lt;t1/&gt;mation that describes what the content is, what it's about, and more.” This layer of metadata can specify the type of audience, platform (or cuisine, if we look back at the marinara sauce example from &lt;t2/&gt;Chapter &lt;t3/&gt;1&lt;t4/&gt;) &lt;t5/&gt;for a whole topic of information or for specific paragraph or phrase level elements in that topic (Rockley et al., &lt;t6/&gt;2015, &lt;t7/&gt;pp.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131433Z" creationid="DSS" creationdate="20200811T143859Z">
-        <seg>语义丰富的内容包括&lt;t0/&gt;&lt;t1/&gt;“额外的机器可读信息，用以描述内容详情”。这一层元数据可以指定整个话题信息，或话题信息中的特定段落或短语级元素的受众类型、平台类型（菜谱类型，如&lt;t2/&gt;第&lt;t3/&gt;一&lt;t4/&gt;&lt;t5/&gt;章中意式番茄罗勒酱的例子）(Rockley et al., &lt;t6/&gt;2015, &lt;t7/&gt;pp.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200811T143859Z">
+        <seg>语义丰富的内容包括&lt;t0/&gt;&lt;t1/&gt;“额外的机器可读信息，用以描述内容详情”。这一层元数据可以指定整个主题信息，或主题信息中的特定段落或短语级元素的受众类型、平台类型（菜谱类型，如&lt;t2/&gt;第&lt;t3/&gt;一&lt;t4/&gt;&lt;t5/&gt;章中意式番茄罗勒酱的例子）(Rockley et al., &lt;t6/&gt;2015, &lt;t7/&gt;pp.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11513,16 +11513,16 @@
       <tuv lang="en">
         <seg>Short description: A brief depiction of the purpose or theme of a topic</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T055018Z" creationid="DSS" creationdate="20200817T054257Z">
-        <seg>简短描述（short description）：对话题目的或要点的简短描述</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T054257Z">
+        <seg>简短描述（short description）：对主题目的或要点的简短描述</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Short description&lt;t0/&gt;: the purpose or main point of a topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T130211Z" creationid="DSS" creationdate="20200804T124852Z">
-        <seg>简短描述（shoort description）&lt;t0/&gt;：描述话题的目的或要点。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200804T124852Z">
+        <seg>简短描述（shoort description）&lt;t0/&gt;：描述主题的目的或要点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11577,8 +11577,8 @@
       <tuv lang="en">
         <seg>Should identify the system by name and state its purpose, intended audience (“by job title or profession”) or special training prerequisites, hardware and software requirements, “(c)opyright restrictions, address for questions and comments, list of other directly relevant publications, etc.” “None of these topics should extend beyond a single short paragraph.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T160900Z" creationid="lenovo" creationdate="20200808T120302Z">
-        <seg>应该做到靠名称就能识别系统，描述手册的写作目的及目标受众（“通过职称或职业”）或特殊的培训条件、软硬件要求，“版权限制、问答模块、直接相关出版物列表等。”“这些话题都至多在一短段中就可以表达清楚。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="lenovo" creationdate="20200808T120302Z">
+        <seg>应该做到靠名称就能识别系统，描述手册的写作目的及目标受众（“通过职称或职业”）或特殊的培训条件、软硬件要求，“版权限制、问答模块、直接相关出版物列表等。”“这些主题都至多在一短段中就可以表达清楚。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11625,8 +11625,8 @@
       <tuv lang="en">
         <seg>Simplified lightweight markup (or &lt;t3/&gt;markdown&lt;t4/&gt;) cannot be ignored because authors are creating topics directly on the online environments where they will be read; after all, not every publishing project needs advanced reuse and filtering.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T085624Z" creationid="DSS" creationdate="20200817T085624Z">
-        <seg>能忽视简化的轻量级标记语言（或 &lt;t3/&gt;markdown&lt;t4/&gt;），因为作者会直接在在线环境中创建话题，这个环境将同样用于阅读。毕竟不是每个发布项目都需要内容复用和过滤的高级功能。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T085624Z">
+        <seg>能忽视简化的轻量级标记语言（或 &lt;t3/&gt;markdown&lt;t4/&gt;），因为作者会直接在在线环境中创建主题，这个环境将同样用于阅读。毕竟不是每个发布项目都需要内容复用和过滤的高级功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11825,8 +11825,8 @@
       <tuv lang="en">
         <seg>Sometimes a basic topic with a title and a couple of paragraphs is all a content situation requires.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T160413Z" creationid="DSS" creationdate="20200804T160413Z">
-        <seg>有时，一个基本话题加上一个标题和几个段落就是撰写内容所需要的全部组件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200804T160413Z">
+        <seg>有时，一个基本主题加上一个标题和几个段落就是撰写内容所需要的全部组件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12017,8 +12017,8 @@
       <tuv lang="en">
         <seg>TABLE &lt;t0/&gt;3.1 &lt;t1/&gt;Sample LwDITA topic, from Michael Priestley's blog post "Overview of Lightweight DITA (XDITA and HDITA)." The XDITA topic on the left column includes elements from the revised LwDITA proposal presented to the DITA Technical Committee in &lt;t2/&gt;2012.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150840Z" creationid="DSS" creationdate="20200817T092049Z">
-        <seg>表3.1 来自迈克尔·普里斯特利的博客文章《轻量级DITA概述（XDITA 和 HDITA）》中的 LwDITA 话题示例。左列中的 XDITA 话题包含了修改后的 LwDITA 提案中的元素，该提案于2012年提交给 DITA 技术委员会。右列的 HDITA 版本复用了 HTML5 中的标签规范。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T092049Z">
+        <seg>表3.1 来自迈克尔·普里斯特利的博客文章《轻量级DITA概述（XDITA 和 HDITA）》中的 LwDITA 主题示例。左列中的 XDITA 主题包含了修改后的 LwDITA 提案中的元素，该提案于2012年提交给 DITA 技术委员会。右列的 HDITA 版本复用了 HTML5 中的标签规范。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12057,8 +12057,8 @@
       <tuv lang="en">
         <seg>THE LwDITA TOPIC COMPONENTS</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T055526Z" creationid="DSS" creationdate="20200808T055428Z">
-        <seg>LwDITA 话题组件</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200808T055428Z">
+        <seg>LwDITA 主题组件</seg>
       </tuv>
     </tu>
     <tu>
@@ -12306,8 +12306,8 @@
       <tuv lang="en">
         <seg>That generic LwDITA topic can also accommodate enough components and attributes to create con&lt;t1/&gt;tent that sticks to the requirements of “modular, structured, reusable, format free, and semantically rich and, as a consequence, discoverable, reconfigurable, and adaptable” presented by Rockley et al.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131119Z" creationid="DSS" creationdate="20200804T162432Z">
-        <seg>通用的 LwDITA 话题也可以容纳足够多的组件和属性，以创建符合罗克利等人提出的“模块化、结构化、可重用、格式自由、语义丰富，因而可发现、可重构和可修改”的要求的内容。&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200804T162432Z">
+        <seg>通用的 LwDITA 主题也可以容纳足够多的组件和属性，以创建符合罗克利等人提出的“模块化、结构化、可重用、格式自由、语义丰富，因而可发现、可重构和可修改”的要求的内容。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12362,8 +12362,8 @@
       <tuv lang="en">
         <seg>That one-line command combines the map with the topics, processing the hierarchies and relationships established by the topic</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T115936Z" creationid="DSS" creationdate="20200806T115801Z">
-        <seg>该单行命令将地图与话题组合在一起，处理由话题引用建立的</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200806T115801Z">
+        <seg>该单行命令将地图与主题组合在一起，处理由主题引用建立的</seg>
       </tuv>
     </tu>
     <tu>
@@ -12475,8 +12475,8 @@
       <tuv lang="en">
         <seg>The &lt;t0/&gt;&lt;task&gt; &lt;t1/&gt;element opens the topic announcing “this is a task,” and it contains elements like the following:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145123Z" creationid="DSS" creationdate="20200725T065912Z">
-        <seg>&lt;t0/&gt;&lt;task&gt;&lt;t1/&gt;开启一个话题，声明“这是一个任务”，它包含如下元素：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200725T065912Z">
+        <seg>&lt;t0/&gt;&lt;task&gt;&lt;t1/&gt;开启一个主题，声明“这是一个任务”，它包含如下元素：</seg>
       </tuv>
     </tu>
     <tu>
@@ -12507,16 +12507,16 @@
       <tuv lang="en">
         <seg>The &lt;t3/&gt;&lt;map&gt; &lt;t4/&gt;element works as a parent for &lt;t5/&gt;&lt;topicref&gt; &lt;t6/&gt;elements that reference specific topics.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T065525Z" creationid="DSS" creationdate="20200807T065525Z">
-        <seg> &lt;t3/&gt;&lt;map&gt; &lt;t4/&gt;元素是&lt;t5/&gt; &lt;topicref&gt; &lt;t6/&gt;元素的父级元素，用于引用特定的话题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200807T065525Z">
+        <seg> &lt;t3/&gt;&lt;map&gt; &lt;t4/&gt;元素是&lt;t5/&gt; &lt;topicref&gt; &lt;t6/&gt;元素的父级元素，用于引用特定的主题。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The &lt;t5/&gt;&lt;nav&gt; &lt;t6/&gt;element works as a parent for &lt;t7/&gt;&lt;li&gt; &lt;t8/&gt;elements that reference specific topics.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T075311Z" creationid="DSS" creationdate="20200807T075311Z">
-        <seg> &lt;t5/&gt;&lt;nav&gt; &lt;t6/&gt;元素是&lt;t7/&gt; &lt;li&gt; &lt;t8/&gt;元素的父级元素，用于引用特定的话题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200807T075311Z">
+        <seg> &lt;t5/&gt;&lt;nav&gt; &lt;t6/&gt;元素是&lt;t7/&gt; &lt;li&gt; &lt;t8/&gt;元素的父级元素，用于引用特定的主题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12731,8 +12731,8 @@
       <tuv lang="en">
         <seg>The HDITA topic in &lt;t10/&gt;Figure 6.28&lt;t11/&gt; includes the inline image for the plus sign and the block figure with the &lt;t12/&gt;Sensei Sushi&lt;t13/&gt; logo.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T142046Z" creationid="DSS" creationdate="20200817T142046Z">
-        <seg>图&lt;t10/&gt;6.28&lt;t11/&gt;中的 HDITA 话题包括一个内联图像组件（加号）和一个块级图形组件（&lt;t12/&gt;Sensei Sushi&lt;t13/&gt; 标志）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T142046Z">
+        <seg>图&lt;t10/&gt;6.28&lt;t11/&gt;中的 HDITA 主题包括一个内联图像组件（加号）和一个块级图形组件（&lt;t12/&gt;Sensei Sushi&lt;t13/&gt; 标志）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12763,8 +12763,8 @@
       <tuv lang="en">
         <seg>The IM types correspond to section types in DITA, and so match perfectly with the lightweight model's focus on creating topic types by assembling predefined section types.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T093116Z" creationid="DSS" creationdate="20200731T093116Z">
-        <seg>IM 类型对应于 DITA 中的节（section）类型，因此与轻量级模型非常匹配，二者都是通过组合预定义的节类型来创建话题类型。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200731T093116Z">
+        <seg>IM 类型对应于 DITA 中的节（section）类型，因此与轻量级模型非常匹配，二者都是通过组合预定义的节类型来创建主题类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12891,32 +12891,32 @@
       <tuv lang="en">
         <seg>The LwDITA topic and map can be represented, with some limitations and substitutions, in three author&lt;t0/&gt;ing formats: XDITA (based on a simplified grammar of DITA XML), HDITA (based on HTML5), and MDITA (based on Markdown).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T151318Z" creationid="DSS" creationdate="20200803T151659Z">
-        <seg>LwDITA 话题和地图可以用三种写作格式表示：XDITA（基于DITA XML的简化语法）、HDITA（基于HTML5）和MDITA（基于Markdown），不过在使用时有一些限制和需要替换的地方。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200803T151659Z">
+        <seg>LwDITA 主题和地图可以用三种写作格式表示：XDITA（基于DITA XML的简化语法）、HDITA（基于HTML5）和MDITA（基于Markdown），不过在使用时有一些限制和需要替换的地方。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The LwDITA topic is also a versatile content unit that can be created in more than one markup language.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T162912Z" creationid="DSS" creationdate="20200804T162912Z">
-        <seg>LwDITA 话题也是灵活的内容单元，可以用多种标记语言创建。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200804T162912Z">
+        <seg>LwDITA 主题也是灵活的内容单元，可以用多种标记语言创建。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The LwDITA topic type (still a prototype at this stage) was moving away from the &lt;t0/&gt;27 &lt;t1/&gt;XML tags promised in the summer of &lt;t2/&gt;2012.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T130518Z" creationid="DSS" creationdate="20200801T130518Z">
-        <seg>LwDITA 话题类型（当时只是一个原型）已经与2012年夏天许诺的&lt;t0/&gt;27 &lt;t1/&gt;个 XML 标记渐行渐远。&lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200801T130518Z">
+        <seg>LwDITA 主题类型（当时只是一个原型）已经与2012年夏天许诺的&lt;t0/&gt;27 &lt;t1/&gt;个 XML 标记渐行渐远。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The LwDITA topic, even without specialization, can be all that these users need to structure and publish information.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T161455Z" creationid="DSS" creationdate="20200804T161455Z">
-        <seg>即使没有专门化过，LwDITA 话题也可以是这些用户用于结构化内容和发布信息的全部所需。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200804T161455Z">
+        <seg>即使没有专门化过，LwDITA 主题也可以是这些用户用于结构化内容和发布信息的全部所需。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13011,8 +13011,8 @@
       <tuv lang="en">
         <seg>The XML tags are still visible&lt;t2/&gt; and the recipe looks like a DITA topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150257Z" creationid="DSS" creationdate="20200817T054218Z">
-        <seg>XML 标签仍然可见，菜谱看起来像一个 DITA 话题。&lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T054218Z">
+        <seg>XML 标签仍然可见，菜谱看起来像一个 DITA 主题。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13083,8 +13083,8 @@
       <tuv lang="en">
         <seg>The assigned &lt;t16/&gt;@id &lt;t17/&gt;should be included in an optional YAML&lt;t18/&gt;1&lt;t19/&gt; &lt;t20/&gt;front matter header.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T135858Z" creationid="DSS" creationdate="20200816T134234Z">
-        <seg>话题的指定 &lt;t16/&gt;@id &lt;t17/&gt;应该包含在可选 YAML&lt;t18/&gt;1&lt;t19/&gt;前置块头部。&lt;t20/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T134234Z">
+        <seg>主题的指定 &lt;t16/&gt;@id &lt;t17/&gt;应该包含在可选 YAML&lt;t18/&gt;1&lt;t19/&gt;前置块头部。&lt;t20/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13131,16 +13131,16 @@
       <tuv lang="en">
         <seg>The body of a LwDITA topic can also contain topical conventions for lists.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T142516Z" creationid="DSS" creationdate="20200816T142516Z">
-        <seg>LwDITA 话题主体还可以嵌套话题协定中的列表组件，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T142516Z">
+        <seg>LwDITA 主题主体还可以嵌套主题协定中的列表组件，</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The brochure will include the following sections (each section will be in a separate LwDITA topic):</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T061009Z" creationid="DSS" creationdate="20200807T061009Z">
-        <seg>手册将包括以下部分（每个部分都是一个单独的 LwDITA 话题）：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200807T061009Z">
+        <seg>手册将包括以下部分（每个部分都是一个单独的 LwDITA 主题）：</seg>
       </tuv>
     </tu>
     <tu>
@@ -13179,8 +13179,8 @@
       <tuv lang="en">
         <seg>The committee note &lt;t0/&gt;Lightweight DITA: An Introduction&lt;t1/&gt; explains that the LwDITA topic includes a subset of conventions or components (the pigeonhole structures mentioned in &lt;t2/&gt;Chapter &lt;t3/&gt;2&lt;t4/&gt;) &lt;t5/&gt;that were “carefully chosen to include only the most basic constructions that are needed to structure information effec&lt;t6/&gt;tively.” To select those components, the subcommittee “considered the needs of diverse industries and sectors (including education, engineering, healthcare, and marketing)” (Evia et al., &lt;t7/&gt;2018, &lt;t8/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131116Z" creationid="DSS" creationdate="20200803T152229Z">
-        <seg>委员会白皮书《&lt;t0/&gt;轻量级DITA简介&lt;t1/&gt;》解释到，LwDITA话题包括一个协定或组件（即在第&lt;t2/&gt;&lt;t3/&gt;2&lt;t4/&gt; &lt;t5/&gt;&lt;t6/&gt;章中提到的鸽笼式结构）的子集，它们“经过委员会的精心挑选，只包括最基础的必要结构，用以有效构造信息。”为了挑选组件，小组委员会"考虑了不同行业和部门（包括教育、工程、医疗保健和营销等领域）的需求"(艾维亚等人，&lt;t7/&gt;2018&lt;t8/&gt;年，第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200803T152229Z">
+        <seg>委员会白皮书《&lt;t0/&gt;轻量级DITA简介&lt;t1/&gt;》解释到，LwDITA主题包括一个协定或组件（即在第&lt;t2/&gt;&lt;t3/&gt;2&lt;t4/&gt; &lt;t5/&gt;&lt;t6/&gt;章中提到的鸽笼式结构）的子集，它们“经过委员会的精心挑选，只包括最基础的必要结构，用以有效构造信息。”为了挑选组件，小组委员会"考虑了不同行业和部门（包括教育、工程、医疗保健和营销等领域）的需求"(艾维亚等人，&lt;t7/&gt;2018&lt;t8/&gt;年，第</seg>
       </tuv>
     </tu>
     <tu>
@@ -13227,16 +13227,16 @@
       <tuv lang="en">
         <seg>The concept of evolu&lt;t0/&gt;tion, and particularly themes related to Darwin's Theory of Evolution, has been a component of DITA terminology since its origins at IBM. The &lt;t1/&gt;D&lt;t2/&gt; for &lt;t3/&gt;Darwin &lt;t4/&gt;is the first letter in the standard's acronym, and some additional Darwinian terms appear in the &lt;t5/&gt;Technical Communication&lt;t6/&gt; article from &lt;t7/&gt;2001 &lt;t8/&gt;that intro&lt;t9/&gt;duced DITA to the world outside IBM. When describing the process of topic specialization, for example, Michael Priestley and his co-authors noted in that article that “specialization also lets you manage groups of related types by mak&lt;t10/&gt;ing changes to their common ancestor, instead of maintaining each instance separately” (Priestley et al., &lt;t11/&gt;2001, &lt;t12/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150817Z" creationid="DSS" creationdate="20200817T090958Z">
-        <seg>进化（evolution）的概念，特别是与达尔文进化论相关的主题，自 DITA 从 IBM 诞生以来就一直是 DITA 术语的组成部分。表示“达尔文”（Darwin）的“&lt;t1/&gt;D&lt;t2/&gt;”&lt;t3/&gt;&lt;t4/&gt;是 DITA 标准首字母缩略词中的第一个字母，另外一些与“达尔文”相关的术语出现在了发表于2001年的《&lt;t5/&gt;技术传播&lt;t6/&gt;》&lt;t7/&gt;&lt;t8/&gt;一文中，该文章向 IBM 之外的世界介绍了DITA。例如，在描述话题专门化的过程时，迈克尔·普里斯特利及其合作者在文章中指出，“话题专门化还允许管理相关类型的组合，更改他们共同的祖先元素，而不是单独维护每个实例”(Priestley et al., &lt;t11/&gt;2001, &lt;t12/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T090958Z">
+        <seg>进化（evolution）的概念，特别是与达尔文进化论相关的主题，自 DITA 从 IBM 诞生以来就一直是 DITA 术语的组成部分。表示“达尔文”（Darwin）的“&lt;t1/&gt;D&lt;t2/&gt;”&lt;t3/&gt;&lt;t4/&gt;是 DITA 标准首字母缩略词中的第一个字母，另外一些与“达尔文”相关的术语出现在了发表于2001年的《&lt;t5/&gt;技术传播&lt;t6/&gt;》&lt;t7/&gt;&lt;t8/&gt;一文中，该文章向 IBM 之外的世界介绍了DITA。例如，在描述主题专门化的过程时，迈克尔·普里斯特利及其合作者在文章中指出，“主题专门化还允许管理相关类型的组合，更改他们共同的祖先元素，而不是单独维护每个实例”(Priestley et al., &lt;t11/&gt;2001, &lt;t12/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The concept of “what you see is what you get” (WYSIWYG) from many web developing editors does not trans&lt;t2/&gt;late to topic-based authoring in XML because a topic is just a component in a larger collection of chunks that need to be processed to create deliverables.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131312Z" creationid="DSS" creationdate="20200813T153121Z">
-        <seg>许多网页开发编辑器提出的“所见即所得” (WYSIWYG) 的概念并不能应用到基于话题的 XML 写作中来，因为话题只是用于生成可交付成果的大块信息集合中的一个组件。&lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200813T153121Z">
+        <seg>许多网页开发编辑器提出的“所见即所得” (WYSIWYG) 的概念并不能应用到基于主题的 XML 写作中来，因为主题只是用于生成可交付成果的大块信息集合中的一个组件。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13371,8 +13371,8 @@
       <tuv lang="en">
         <seg>The essential unit of content in LwDITA is a topic, which is represented in XDITA with the XML tag &lt;t0/&gt;&lt;topic&gt; &lt;t1/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T131124Z" creationid="DSS" creationdate="20200813T131124Z">
-        <seg>LwDITA的基本内容单元是话题，话题在 XDITA 中用 XML 标签 &lt;t0/&gt;&lt;topic&gt; &lt;t1/&gt;表示。
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200813T131124Z">
+        <seg>LwDITA的基本内容单元是主题，主题在 XDITA 中用 XML 标签 &lt;t0/&gt;&lt;topic&gt; &lt;t1/&gt;表示。
 </seg>
       </tuv>
     </tu>
@@ -13405,8 +13405,8 @@
       <tuv lang="en">
         <seg>The example in &lt;t3/&gt;Figure &lt;t4/&gt;6.14&lt;t5/&gt; &lt;t6/&gt;adds a body component, with a paragraph, to the franchise introduction topic in XDITA:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T161416Z" creationid="DSS" creationdate="20200816T142010Z">
-        <seg>图&lt;t3/&gt;6.14&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;展示一个 XIDTA 格式的话题示例，介绍了特许经济区，该示例包含主体组件和段落组件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T142010Z">
+        <seg>图&lt;t3/&gt;6.14&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;展示一个 XIDTA 格式的主题示例，介绍了特许经济区，该示例包含主体组件和段落组件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13429,8 +13429,8 @@
       <tuv lang="en">
         <seg>The exclamation&lt;t2/&gt; point before the link text notifies processors that an image element is included in the topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T151229Z" creationid="DSS" creationdate="20200817T143800Z">
-        <seg>链接文本前的感叹号可以告知处理器，话题中包含图像元素。&lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T143800Z">
+        <seg>链接文本前的感叹号可以告知处理器，主题中包含图像元素。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13461,8 +13461,8 @@
       <tuv lang="en">
         <seg>The first line of code in the file is establishing that the HDITA topic should be validated as HTML.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T133616Z" creationid="DSS" creationdate="20200816T133616Z">
-        <seg>文件中的第一行代码表明应该按照HTML格式识别HDITA话题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T133616Z">
+        <seg>文件中的第一行代码表明应该按照HTML格式识别HDITA主题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13477,16 +13477,16 @@
       <tuv lang="en">
         <seg>The first major change is the topic type.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T053905Z" creationid="DSS" creationdate="20200817T053905Z">
-        <seg>第一个主要变化是话题类型。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T053905Z">
+        <seg>第一个主要变化是主题类型。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The first topic reference in the DITA map from &lt;t0/&gt;Figure &lt;t1/&gt;5.1&lt;t2/&gt; &lt;t3/&gt;is the DITA task version of the marinara sauce recipe from&lt;t4/&gt; Chapter &lt;t5/&gt;1&lt;t6/&gt; &lt;t7/&gt;(&lt;t8/&gt;Figure &lt;t9/&gt;5.2&lt;t10/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T153800Z" creationid="DSS" creationdate="20200806T090153Z">
-        <seg>&lt;t0/&gt;图&lt;t1/&gt;5.1&lt;t2/&gt;&lt;t3/&gt;展示的 DITA 地图的第一个话题引自&lt;t4/&gt;第&lt;t5/&gt;1&lt;t6/&gt;&lt;t7/&gt;章中的意式番茄罗勒酱菜谱，它是一个 DITA 任务（task）话题（&lt;t8/&gt;图&lt;t9/&gt;5.2&lt;t10/&gt;）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200806T090153Z">
+        <seg>&lt;t0/&gt;图&lt;t1/&gt;5.1&lt;t2/&gt;&lt;t3/&gt;展示的 DITA 地图的第一个主题引自&lt;t4/&gt;第&lt;t5/&gt;1&lt;t6/&gt;&lt;t7/&gt;章中的意式番茄罗勒酱菜谱，它是一个 DITA 任务（task）主题（&lt;t8/&gt;图&lt;t9/&gt;5.2&lt;t10/&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13509,8 +13509,8 @@
       <tuv lang="en">
         <seg>The following chapter introduces the main topic components available in LwDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T041532Z" creationid="DSS" creationdate="20200808T041513Z">
-        <seg>下一章将介绍 LwDITA 中主要的话题组件，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200808T041513Z">
+        <seg>下一章将介绍 LwDITA 中主要的主题组件，</seg>
       </tuv>
     </tu>
     <tu>
@@ -13533,8 +13533,8 @@
       <tuv lang="en">
         <seg>The following section introduces additional topic components that can be included inside the body environment.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141927Z" creationid="DSS" creationdate="20200816T141927Z">
-        <seg>下面将介绍可以嵌套在主体标签内的其他话题组件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T141927Z">
+        <seg>下面将介绍可以嵌套在主体标签内的其他主题组件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13573,8 +13573,8 @@
       <tuv lang="en">
         <seg>The generic topic, with its simple tags for paragraphs and lists, can mark up a mar&lt;t0/&gt;keting blog post.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130807Z" creationid="DSS" creationdate="20200725T091045Z">
-        <seg>通用话题包含关于段落和列表的简单标签，可以标记一篇营销博文。
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200725T091045Z">
+        <seg>通用主题包含关于段落和列表的简单标签，可以标记一篇营销博文。
 &lt;t0/&gt;</seg>
       </tuv>
     </tu>
@@ -13646,8 +13646,8 @@
       <tuv lang="en">
         <seg>The image component is always treated as an inline element: its appearance will not begin on a new line in publications generated from topics that contain it.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T132012Z" creationid="DSS" creationdate="20200817T132012Z">
-        <seg>图像组件自始至终都是内联元素：它不会出现在话题交付物的某一行开头处。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T132012Z">
+        <seg>图像组件自始至终都是内联元素：它不会出现在主题交付物的某一行开头处。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13702,8 +13702,8 @@
       <tuv lang="en">
         <seg>The level-one heading that provides a title for an MDITA topic can be expressed, according to the GitHub Flavored Markdown (GFM) spec, both with an &lt;t0/&gt;atx</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T140914Z" creationid="DSS" creationdate="20200816T140914Z">
-        <seg>根据 GitHub 风格的 Markdown 规范 (GFM)，MDITA 话题中的一级标题，既可以使用 &lt;t0/&gt;atx</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T140914Z">
+        <seg>根据 GitHub 风格的 Markdown 规范 (GFM)，MDITA 主题中的一级标题，既可以使用 &lt;t0/&gt;atx</seg>
       </tuv>
     </tu>
     <tu>
@@ -13734,16 +13734,16 @@
       <tuv lang="en">
         <seg>The list items reference specific topics, and the heading one (in bold font) provides the main title for deliverables produced with this specific map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T042505Z" creationid="DSS" creationdate="20200808T042505Z">
-        <seg>列表项引用特定话题，一级标题（粗体的部分）为使用此地图生成的交付成果提供主标题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200808T042505Z">
+        <seg>列表项引用特定主题，一级标题（粗体的部分）为使用此地图生成的交付成果提供主标题。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The literature focuses on three topic types that “represent the vast majority of content produced to support users of technical information” (Hackos, &lt;t0/&gt;2011, &lt;t1/&gt;p.7): concept, task, and reference, which Pringle &lt;t2/&gt;&amp; &lt;t3/&gt;O'Keefe define succinctly as follows:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144836Z" creationid="DSS" creationdate="20200724T162056Z">
-        <seg>文档主要有三种话题类型，它们“代表了为了帮助用户而产生的技术信息文档里的绝大多数内容”（哈克斯，&lt;t0/&gt;2011&lt;t1/&gt;年，第7页）：概念（concept）、任务（task）和参考（reference），普林格尔（Pringle）&lt;t2/&gt;和&lt;t3/&gt;奥基夫对其的简短定义如下：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200724T162056Z">
+        <seg>文档主要有三种主题类型，它们“代表了为了帮助用户而产生的技术信息文档里的绝大多数内容”（哈克斯，&lt;t0/&gt;2011&lt;t1/&gt;年，第7页）：概念（concept）、任务（task）和参考（reference），普林格尔（Pringle）&lt;t2/&gt;和&lt;t3/&gt;奥基夫对其的简短定义如下：</seg>
       </tuv>
     </tu>
     <tu>
@@ -13774,16 +13774,16 @@
       <tuv lang="en">
         <seg>The map includes&lt;t1/&gt; links (or topic references) to the marinara sauce recipe, Chef Pedro's critique of the recipe, and an “about” page with information about the author.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T063702Z" creationid="DSS" creationdate="20200725T154134Z">
-        <seg>地图上有关联到&lt;t1/&gt;意式番茄罗勒酱食谱、厨师佩德罗对菜谱的评价和介绍作者信息的“关于”页面的链接（或话题引用）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200725T154134Z">
+        <seg>地图上有关联到&lt;t1/&gt;意式番茄罗勒酱食谱、厨师佩德罗对菜谱的评价和介绍作者信息的“关于”页面的链接（或主题引用）。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The map includes&lt;t2/&gt; links (or topic references) to the marinara sauce recipe, Chef Pedro's critique of the recipe, and an “about” page with information about the author.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T063738Z" creationid="DSS" creationdate="20200806T092641Z">
-        <seg>地图上有关联到&lt;t2/&gt;意式番茄罗勒酱食谱、厨师佩德罗对菜谱的评价和介绍作者信息的“关于”页面的链接（或话题引用）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200806T092641Z">
+        <seg>地图上有关联到&lt;t2/&gt;意式番茄罗勒酱食谱、厨师佩德罗对菜谱的评价和介绍作者信息的“关于”页面的链接（或主题引用）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13806,8 +13806,8 @@
       <tuv lang="en">
         <seg>The new version of the basic XDITA topic should look as &lt;t4/&gt;Figure 6.6&lt;t5/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T135950Z" creationid="DSS" creationdate="20200816T134834Z">
-        <seg>新标准中的 XDITA 基本话题如图6.6所示&lt;t4/&gt;&lt;t5/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T134834Z">
+        <seg>新标准中的 XDITA 基本主题如图6.6所示&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13878,24 +13878,24 @@
       <tuv lang="en">
         <seg>The only components included in an MDITA version of the brochure map would be a title (represented by a Markdown &lt;t2/&gt;atx&lt;t3/&gt; heading of &lt;t4/&gt;# &lt;t5/&gt;in this case) and list items &lt;t6/&gt;(&lt;t7/&gt;-&lt;t8/&gt;) &lt;t9/&gt;that include links to each topic and its navigation title.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131310Z" creationid="DSS" creationdate="20200808T040145Z">
-        <seg>MDITA格式的手册地图中包含的唯一组件是标题（在本例中用 Markdown 中的 # 表示标题）和列表项 (-) ，列表项将提供关联到到每个话题的连接，并形成导航标题。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200808T040145Z">
+        <seg>MDITA格式的手册地图中包含的唯一组件是标题（在本例中用 Markdown 中的 # 表示标题）和列表项 (-) ，列表项将提供关联到到每个主题的连接，并形成导航标题。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The opening and closing XML tags for topic&lt;t2/&gt; (in bold font) create an environment for content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T153421Z" creationid="DSS" creationdate="20200813T151052Z">
-        <seg>用于标记话题开始和结束 XML 标记（图中粗体部分）&lt;t2/&gt;创建了内容写作环境。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200813T151052Z">
+        <seg>用于标记主题开始和结束 XML 标记（图中粗体部分）&lt;t2/&gt;创建了内容写作环境。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The opening and&lt;t2/&gt; closing tags of &lt;t3/&gt;&lt;shortdesc&gt; &lt;t4/&gt;hold content that the authors can use as a staging rhetorical move in the topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T142129Z" creationid="DSS" creationdate="20200816T141437Z">
-        <seg>&lt;t2/&gt;创作者可以使用简短描述组件作为话题阶段过渡的修辞文步，过度内容嵌套在 &lt;t3/&gt;&lt;shortdesc&gt; &lt;t4/&gt;的开始和结束标签之内。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T141437Z">
+        <seg>&lt;t2/&gt;创作者可以使用简短描述组件作为主题阶段过渡的修辞文步，过度内容嵌套在 &lt;t3/&gt;&lt;shortdesc&gt; &lt;t4/&gt;的开始和结束标签之内。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14030,8 +14030,8 @@
       <tuv lang="en">
         <seg>The process of assembling topic collections depends on DITA maps, which are defined as “the glue that binds your topics together, the driver for producing your output, and the infor&lt;t0/&gt;mation path for your users to follow” (Bellamy et al., &lt;t1/&gt;2012, &lt;t2/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130809Z" creationid="DSS" creationdate="20200725T144801Z">
-        <seg>组合话题集合的过程依赖于 DITA 地图的映射关系，DITA 地图是“将话题绑定在一起的粘合剂，是生成输出物的驱动器，也是用户可以遵循的信息路径”（贝拉米等人，&lt;t0/&gt;&lt;t1/&gt;2012年，&lt;t2/&gt;第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200725T144801Z">
+        <seg>组合主题集合的过程依赖于 DITA 地图的映射关系，DITA 地图是“将主题绑定在一起的粘合剂，是生成输出物的驱动器，也是用户可以遵循的信息路径”（贝拉米等人，&lt;t0/&gt;&lt;t1/&gt;2012年，&lt;t2/&gt;第</seg>
       </tuv>
     </tu>
     <tu>
@@ -14214,8 +14214,8 @@
       <tuv lang="en">
         <seg>The revised topic type depended on a series of constraint declarations that would give instructions to DITA processors.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T082033Z" creationid="DSS" creationdate="20200731T082033Z">
-        <seg>修改后的话题类型依赖于一系列约束声明，这些声明将向DITA处理器提供指令。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200731T082033Z">
+        <seg>修改后的主题类型依赖于一系列约束声明，这些声明将向DITA处理器提供指令。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14302,8 +14302,8 @@
       <tuv lang="en">
         <seg>The second topic reference is the actual critique of the marinara sauce recipe, which can be structured as a DITA concept and look as &lt;t0/&gt;Figure &lt;t1/&gt;5.3&lt;t2/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T154811Z" creationid="DSS" creationdate="20200806T090529Z">
-        <seg>第二个话题引自对意式番茄罗勒酱菜谱的实际评价，它被构造成了DITA 概念（concept）话题，如图&lt;t0/&gt;&lt;t1/&gt;5.3&lt;t2/&gt;所示。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200806T090529Z">
+        <seg>第二个主题引自对意式番茄罗勒酱菜谱的实际评价，它被构造成了DITA 概念（concept）主题，如图&lt;t0/&gt;&lt;t1/&gt;5.3&lt;t2/&gt;所示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14470,8 +14470,8 @@
       <tuv lang="en">
         <seg>The subcommittee's work was also influenced by the independent release of an open source tool that allowed the processing of Markdown files as DITA topics.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T115014Z" creationid="DSS" creationdate="20200803T115014Z">
-        <seg>小组委员会的工作还受到一个独立发行的开源工具的影响，该工具可以将 Markdown 文件转换为 DITA 话题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200803T115014Z">
+        <seg>小组委员会的工作还受到一个独立发行的开源工具的影响，该工具可以将 Markdown 文件转换为 DITA 主题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14526,8 +14526,8 @@
       <tuv lang="en">
         <seg>The third topic reference is the “about” page with Chef Pedro's information, which I introduced in&lt;t0/&gt; Chapter &lt;t1/&gt;2&lt;t2/&gt; &lt;t3/&gt;and reproduce in &lt;t4/&gt;Figure &lt;t5/&gt;5.4&lt;t6/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T154847Z" creationid="DSS" creationdate="20200806T090721Z">
-        <seg>第三个话题引自“关于”页面，展示厨师佩德罗的信息，我在&lt;t0/&gt;第&lt;t1/&gt;2&lt;t2/&gt;&lt;t3/&gt;章中介绍过该页面，见&lt;t4/&gt;图&lt;t5/&gt;5.4&lt;t6/&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200806T090721Z">
+        <seg>第三个主题引自“关于”页面，展示厨师佩德罗的信息，我在&lt;t0/&gt;第&lt;t1/&gt;2&lt;t2/&gt;&lt;t3/&gt;章中介绍过该页面，见&lt;t4/&gt;图&lt;t5/&gt;5.4&lt;t6/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14590,24 +14590,24 @@
       <tuv lang="en">
         <seg>The topic gained sub-headings because the &lt;section&gt; element replaced more specific moves associated with a task.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T085016Z" creationid="DSS" creationdate="20200817T085016Z">
-        <seg>该话题使用了子标题，因为 &lt;section&gt; 元素代替了与一些话题更紧密相关的文步。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T085016Z">
+        <seg>该主题使用了子标题，因为 &lt;section&gt; 元素代替了与一些主题更紧密相关的文步。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The topic has commonly-used HTML5 elements like headings and lists, but an additional benefit of HDITA is that topics authored in this LwDITA format do not require a transformation process to generate a publishable outcome (&lt;t0/&gt;Figure &lt;t1/&gt;1.10)&lt;t2/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T055457Z" creationid="DSS" creationdate="20200817T055457Z">
-        <seg>这个话题有一些常用的 HTML5 元素，比如标题和列表，但是 HDITA 的另一个好处是，用 HTML5 格式编写的话题不需要转换生成可发布的结果 (&lt;t0/&gt;Figure &lt;t1/&gt;1.10)&lt;t2/&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T055457Z">
+        <seg>这个主题有一些常用的 HTML5 元素，比如标题和列表，但是 HDITA 的另一个好处是，用 HTML5 格式编写的主题不需要转换生成可发布的结果 (&lt;t0/&gt;Figure &lt;t1/&gt;1.10)&lt;t2/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The topic is now an&lt;t2/&gt; HTML5 article, and the elements' structure looks very similar to what can be accomplished with XML.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150331Z" creationid="DSS" creationdate="20200817T082322Z">
-        <seg>该话题现在是一篇 HTML5 文章，元素的结构看起来和用 XML 编写的话题非常相似。 &lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T082322Z">
+        <seg>该主题现在是一篇 HTML5 文章，元素的结构看起来和用 XML 编写的主题非常相似。 &lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14654,16 +14654,16 @@
       <tuv lang="en">
         <seg>The validation of Markdown files as MDITA topics will also be application-specific.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T134723Z" creationid="DSS" creationdate="20200816T134723Z">
-        <seg>验证 Markdown 格式的 MDITA 话题，也需要使用特定软件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T134723Z">
+        <seg>验证 Markdown 格式的 MDITA 主题，也需要使用特定软件。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The validation process of an HTML5 file as an HDITA topic will be application-specific, as HTML does not have a customizable document type definition or schema syntax.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T133555Z" creationid="DSS" creationdate="20200816T133555Z">
-        <seg>验证 HTML5 格式的 HDITA 话题，需要使用特定软件，因为 HTML 没有特定的文档类型定义和模式语法。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T133555Z">
+        <seg>验证 HTML5 格式的 HDITA 主题，需要使用特定软件，因为 HTML 没有特定的文档类型定义和模式语法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14718,8 +14718,8 @@
       <tuv lang="en">
         <seg>The “format free” characteristic of intel&lt;t0/&gt;ligent content (Rockley et al., 2015) depends on the separation of content and presentation; after all, this sample topic can be transformed to different deliv&lt;t1/&gt;erables with a variety of formats and stylesheets.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131312Z" creationid="DSS" creationdate="20200813T153041Z">
-        <seg>智能内容的“无格式”特征 (Rockley et al., 2015) 依赖内容与形式的分离，同样的话题可以转换为具有各种格式和样式的交付文件。&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200813T153041Z">
+        <seg>智能内容的“无格式”特征 (Rockley et al., 2015) 依赖内容与形式的分离，同样的主题可以转换为具有各种格式和样式的交付文件。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14774,16 +14774,16 @@
       <tuv lang="en">
         <seg>The “red squiggly of doom” from &lt;t0/&gt;Figure 6.2&lt;t1/&gt; indicates that, according to the XDITA grammar rules, a topic cannot be empty.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T135945Z" creationid="DSS" creationdate="20200816T134754Z">
-        <seg>根据 XDITA 语法规则，图6.2中的“预示着坏消息的红色曲线”表示话题内容不能为空。&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T134754Z">
+        <seg>根据 XDITA 语法规则，图6.2中的“预示着坏消息的红色曲线”表示主题内容不能为空。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The&lt;t1/&gt; &lt;t2/&gt;&lt;xref&gt; &lt;t3/&gt;tags embrace the phrase “knowledge base,” which will become active and clickable on deliverables produced from this topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T145547Z" creationid="DSS" creationdate="20200817T145547Z">
-        <seg>&lt;t1/&gt; &lt;t2/&gt;&lt;xref&gt; &lt;t3/&gt;标签包含短语"知识库"，在本话题生成的交付文件中，该标签处于活跃状态，可以点击。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T145547Z">
+        <seg>&lt;t1/&gt; &lt;t2/&gt;&lt;xref&gt; &lt;t3/&gt;标签包含短语"知识库"，在本主题生成的交付文件中，该标签处于活跃状态，可以点击。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -14910,8 +14910,8 @@
       <tuv lang="en">
         <seg>There can be some instances of the &lt;t4/&gt;&lt;step&gt; &lt;t5/&gt;ele&lt;t6/&gt;ment with a &lt;t7/&gt;&lt;cmd&gt; &lt;t8/&gt;for a command in each step, but things get quite complicated when Pedro looks at all the available elements in a task topic&lt;t9/&gt;2&lt;t10/&gt;, which include the following: &lt;t11/&gt;&lt;taskbody&gt;&lt;t12/&gt;, &lt;t13/&gt;&lt;prereq&gt;&lt;t14/&gt;, &lt;t15/&gt;&lt;context&gt;&lt;t16/&gt;, &lt;t17/&gt;&lt;steps&gt;&lt;t18/&gt;, &lt;t19/&gt;&lt;steps-informal&gt;&lt;t20/&gt;, &lt;t21/&gt;&lt;steps- unordered&gt;&lt;t22/&gt;, &lt;t23/&gt;&lt;step&gt;&lt;t24/&gt;, &lt;t25/&gt;&lt;stepsection&gt;&lt;t26/&gt;, &lt;t27/&gt;&lt;cmd&gt;&lt;t28/&gt;, &lt;t29/&gt;&lt;info&gt;&lt;t30/&gt;, &lt;t31/&gt;&lt;substeps&gt;&lt;t32/&gt;, &lt;t33/&gt;&lt;substep&gt;&lt;t34/&gt;, &lt;t35/&gt;&lt;stepxmp&gt;&lt;t36/&gt;, &lt;t37/&gt;&lt;choicetable&gt;&lt;t38/&gt;, &lt;t39/&gt;&lt;chhead&gt;&lt;t40/&gt;, &lt;t41/&gt;&lt;choptionhd&gt;&lt;t42/&gt;, &lt;t43/&gt;&lt;chdeschd&gt;&lt;t44/&gt;, &lt;t45/&gt;&lt;chrow&gt;&lt;t46/&gt;, &lt;t47/&gt;&lt;choption&gt;&lt;t48/&gt;, &lt;t49/&gt;&lt;chdesc&gt;&lt;t50/&gt;, &lt;t51/&gt;&lt;choices&gt;&lt;t52/&gt;, &lt;t53/&gt;&lt;steptroubleshooting&gt;&lt;t54/&gt;, &lt;t55/&gt;&lt;stepresult&gt;&lt;t56/&gt;, &lt;t57/&gt;&lt;tutorialinfo&gt;&lt;t58/&gt;, &lt;t59/&gt;&lt;tasktroubleshooting&gt;&lt;t60/&gt;, &lt;t61/&gt;&lt;result&gt;&lt;t62/&gt;, and &lt;t63/&gt;&lt;postreq&gt;&lt;t64/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T144910Z" creationid="DSS" creationdate="20200726T073904Z">
-        <seg>可能会用上一些  &lt;t4/&gt;&lt;step&gt; &lt;t5/&gt; &lt;t6/&gt;元素，并在每个步骤中使用 &lt;t7/&gt;&lt;cmd&gt; &lt;t8/&gt; 元素表示命令。但当佩德罗查看任务（task）话题&lt;t9/&gt;2&lt;t10/&gt;中的所有可用元素时，事情变得相当复杂，这些元素包括：&lt;t11/&gt;&lt;taskbody&gt;&lt;t12/&gt;, &lt;t13/&gt;&lt;prereq&gt;&lt;t14/&gt;, &lt;t15/&gt;&lt;context&gt;&lt;t16/&gt;, &lt;t17/&gt;&lt;steps&gt;&lt;t18/&gt;, &lt;t19/&gt;&lt;steps-informal&gt;&lt;t20/&gt;, &lt;t21/&gt;&lt;steps- unordered&gt;&lt;t22/&gt;, &lt;t23/&gt;&lt;step&gt;&lt;t24/&gt;, &lt;t25/&gt;&lt;stepsection&gt;&lt;t26/&gt;, &lt;t27/&gt;&lt;cmd&gt;&lt;t28/&gt;, &lt;t29/&gt;&lt;info&gt;&lt;t30/&gt;, &lt;t31/&gt;&lt;substeps&gt;&lt;t32/&gt;, &lt;t33/&gt;&lt;substep&gt;&lt;t34/&gt;, &lt;t35/&gt;&lt;stepxmp&gt;&lt;t36/&gt;, &lt;t37/&gt;&lt;choicetable&gt;&lt;t38/&gt;, &lt;t39/&gt;&lt;chhead&gt;&lt;t40/&gt;, &lt;t41/&gt;&lt;choptionhd&gt;&lt;t42/&gt;, &lt;t43/&gt;&lt;chdeschd&gt;&lt;t44/&gt;, &lt;t45/&gt;&lt;chrow&gt;&lt;t46/&gt;, &lt;t47/&gt;&lt;choption&gt;&lt;t48/&gt;, &lt;t49/&gt;&lt;chdesc&gt;&lt;t50/&gt;, &lt;t51/&gt;&lt;choices&gt;&lt;t52/&gt;, &lt;t53/&gt;&lt;steptroubleshooting&gt;&lt;t54/&gt;, &lt;t55/&gt;&lt;stepresult&gt;&lt;t56/&gt;, &lt;t57/&gt;&lt;tutorialinfo&gt;&lt;t58/&gt;, &lt;t59/&gt;&lt;tasktroubleshooting&gt;&lt;t60/&gt;, &lt;t61/&gt;&lt;result&gt;&lt;t62/&gt;, and &lt;t63/&gt;&lt;postreq&gt;&lt;t64/&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200726T073904Z">
+        <seg>可能会用上一些  &lt;t4/&gt;&lt;step&gt; &lt;t5/&gt; &lt;t6/&gt;元素，并在每个步骤中使用 &lt;t7/&gt;&lt;cmd&gt; &lt;t8/&gt; 元素表示命令。但当佩德罗查看任务（task）主题&lt;t9/&gt;2&lt;t10/&gt;中的所有可用元素时，事情变得相当复杂，这些元素包括：&lt;t11/&gt;&lt;taskbody&gt;&lt;t12/&gt;, &lt;t13/&gt;&lt;prereq&gt;&lt;t14/&gt;, &lt;t15/&gt;&lt;context&gt;&lt;t16/&gt;, &lt;t17/&gt;&lt;steps&gt;&lt;t18/&gt;, &lt;t19/&gt;&lt;steps-informal&gt;&lt;t20/&gt;, &lt;t21/&gt;&lt;steps- unordered&gt;&lt;t22/&gt;, &lt;t23/&gt;&lt;step&gt;&lt;t24/&gt;, &lt;t25/&gt;&lt;stepsection&gt;&lt;t26/&gt;, &lt;t27/&gt;&lt;cmd&gt;&lt;t28/&gt;, &lt;t29/&gt;&lt;info&gt;&lt;t30/&gt;, &lt;t31/&gt;&lt;substeps&gt;&lt;t32/&gt;, &lt;t33/&gt;&lt;substep&gt;&lt;t34/&gt;, &lt;t35/&gt;&lt;stepxmp&gt;&lt;t36/&gt;, &lt;t37/&gt;&lt;choicetable&gt;&lt;t38/&gt;, &lt;t39/&gt;&lt;chhead&gt;&lt;t40/&gt;, &lt;t41/&gt;&lt;choptionhd&gt;&lt;t42/&gt;, &lt;t43/&gt;&lt;chdeschd&gt;&lt;t44/&gt;, &lt;t45/&gt;&lt;chrow&gt;&lt;t46/&gt;, &lt;t47/&gt;&lt;choption&gt;&lt;t48/&gt;, &lt;t49/&gt;&lt;chdesc&gt;&lt;t50/&gt;, &lt;t51/&gt;&lt;choices&gt;&lt;t52/&gt;, &lt;t53/&gt;&lt;steptroubleshooting&gt;&lt;t54/&gt;, &lt;t55/&gt;&lt;stepresult&gt;&lt;t56/&gt;, &lt;t57/&gt;&lt;tutorialinfo&gt;&lt;t58/&gt;, &lt;t59/&gt;&lt;tasktroubleshooting&gt;&lt;t60/&gt;, &lt;t61/&gt;&lt;result&gt;&lt;t62/&gt;, and &lt;t63/&gt;&lt;postreq&gt;&lt;t64/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15030,8 +15030,8 @@
       <tuv lang="en">
         <seg>Therefore, whereas a valid HTML5 file requires a &lt;t0/&gt;&lt;title&gt; &lt;t1/&gt;element, this component won't perform as the topic's first heading.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T140143Z" creationid="DSS" creationdate="20200816T140143Z">
-        <seg>因此，尽管一个有效的 HTML5 文件需要一个 &lt;t0/&gt;&lt;title&gt; &lt;t1/&gt;元素，但该组件不会成为话题内容的第一个标题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T140143Z">
+        <seg>因此，尽管一个有效的 HTML5 文件需要一个 &lt;t0/&gt;&lt;title&gt; &lt;t1/&gt;元素，但该组件不会成为主题内容的第一个标题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15150,16 +15150,16 @@
       <tuv lang="en">
         <seg>These users can be casual content contributors (e.g., a subject matter  expert who authors short topics that a technical author will later integrate  into a larger DITA collection) or authors who are not working with DITA  XML (e.g., marketing professionals creating intelligent content for multi- channel publishing, or even technical writers who prefer to write in HTML  or Markdown).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200805T122210Z" creationid="DSS" creationdate="20200730T092103Z">
-        <seg>这些用户可能是临时的内容贡献者（比如，编写简短的话题的主题专家，这些话题将由技术文档工程师整合成一个更大的 DITA 集合）或作者不使用 DITA XML（例如，创建可以多渠道发布的智能内容的营销专业人士，甚至是喜欢用 HTML 或 Markdown 的技术写作人员）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200730T092103Z">
+        <seg>这些用户可能是临时的内容贡献者（比如，编写简短的主题的主题专家，这些主题将由技术文档工程师整合成一个更大的 DITA 集合）或作者不使用 DITA XML（例如，创建可以多渠道发布的智能内容的营销专业人士，甚至是喜欢用 HTML 或 Markdown 的技术写作人员）。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>These users can be casual content contributors (e.g., a subject matter expert who authors short topics that a technical author will later integrate into a larger DITA collection) or authors who are not working with DITA XML (e.g., marketing professionals creating intelligent content for multi&lt;t5/&gt;channel publishing, or even technical writers who prefer to write in HTML or Markdown).&lt;t6/&gt; Chapter &lt;t7/&gt;4&lt;t8/&gt; &lt;t9/&gt;identifies additional user types for the three ini&lt;t10/&gt;tial authoring formats of LwDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131025Z" creationid="DSS" creationdate="20200730T095547Z">
-        <seg>这些用户可能是临时的内容贡献者（比如，编写简短的话题的主题专家，这些话题将由技术文档工程师整合成一个更大的 DITA 集合）或作者不使用 DITA XML（例如，创建可以多渠道发布的智能内容的营销专业人士，甚至是喜欢用 HTML 或 Markdown 的技术写作人员）。&lt;t5/&gt;&lt;t6/&gt;第&lt;t7/&gt;4&lt;t8/&gt; &lt;t9/&gt;&lt;t10/&gt;章介绍了LwDITA的三种初始创作格式的其他用户类型。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200730T095547Z">
+        <seg>这些用户可能是临时的内容贡献者（比如，编写简短的主题的主题专家，这些主题将由技术文档工程师整合成一个更大的 DITA 集合）或作者不使用 DITA XML（例如，创建可以多渠道发布的智能内容的营销专业人士，甚至是喜欢用 HTML 或 Markdown 的技术写作人员）。&lt;t5/&gt;&lt;t6/&gt;第&lt;t7/&gt;4&lt;t8/&gt; &lt;t9/&gt;&lt;t10/&gt;章介绍了LwDITA的三种初始创作格式的其他用户类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15222,8 +15222,8 @@
       <tuv lang="en">
         <seg>They will continue “the move away from a document-based to a</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T084110Z" creationid="DSS" creationdate="20200817T084110Z">
-        <seg>他们将继续“从基于文件的写作方式向基于话题的写作方式</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T084110Z">
+        <seg>他们将继续“从基于文件的写作方式向基于主题的写作方式</seg>
       </tuv>
     </tu>
     <tu>
@@ -15246,8 +15246,8 @@
       <tuv lang="en">
         <seg>This YAML header can supply a direct value for the @id attribute that is required on the root element of a DITA topic; it can also include prolog metadata about who authored the DITA topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T134333Z" creationid="DSS" creationdate="20200816T134333Z">
-        <seg>YAML 头可以直接提供 DITA 话题根元素所需的 @id 属性，它还包含关于 DITA 话题作者的元数据。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T134333Z">
+        <seg>YAML 头可以直接提供 DITA 主题根元素所需的 @id 属性，它还包含关于 DITA 主题作者的元数据。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15454,8 +15454,8 @@
       <tuv lang="en">
         <seg>This mode provides a quick&lt;t1/&gt; preview of a topic, similar to a WYSIWYG editor.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T140412Z" creationid="DSS" creationdate="20200816T135612Z">
-        <seg>在此模式下，可以快速预览话题，就像 WYSIWYG 编辑器一样。&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T135612Z">
+        <seg>在此模式下，可以快速预览主题，就像 WYSIWYG 编辑器一样。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15550,16 +15550,16 @@
       <tuv lang="en">
         <seg>This topic does not need a body element.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T134447Z" creationid="DSS" creationdate="20200816T134447Z">
-        <seg>该话题不包含主体（body）元素和标题，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T134447Z">
+        <seg>该主题不包含主体（body）元素和标题，</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>This topic needs the HTML5 element of&lt;t1/&gt; &lt;t2/&gt;&lt;article&gt; &lt;t3/&gt;to create an environment for content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T133639Z" creationid="DSS" creationdate="20200816T133639Z">
-        <seg>本话题使用HTML5的&lt;t1/&gt; &lt;t2/&gt;&lt;article&gt; &lt;t3/&gt;元素创建内容环境，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T133639Z">
+        <seg>本主题使用HTML5的&lt;t1/&gt; &lt;t2/&gt;&lt;article&gt; &lt;t3/&gt;元素创建内容环境，</seg>
       </tuv>
     </tu>
     <tu>
@@ -15614,8 +15614,8 @@
       <tuv lang="en">
         <seg>Those con&lt;t0/&gt;tent units are represented in the document type of topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131310Z" creationid="DSS" creationdate="20200808T061029Z">
-        <seg>内容单元用话题文档类型来表示。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200808T061029Z">
+        <seg>内容单元用主题文档类型来表示。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15638,8 +15638,8 @@
       <tuv lang="en">
         <seg>Those files include topics with instructions for the corporate staff, restaurant operators, franchise owners, reci&lt;t3/&gt;pes for kitchen workers, and even maintenance guidelines for the engineering team.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131306Z" creationid="DSS" creationdate="20200807T045310Z">
-        <seg>这些文件包含各种话题，其中有为公司员工、餐厅经营者、特许经营权所有者编写的说明，为厨房员工编写的菜谱，甚至还有为工程团队编写的维护指南。&lt;t3/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200807T045310Z">
+        <seg>这些文件包含各种主题，其中有为公司员工、餐厅经营者、特许经营权所有者编写的说明，为厨房员工编写的菜谱，甚至还有为工程团队编写的维护指南。&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15702,8 +15702,8 @@
       <tuv lang="en">
         <seg>Those topics can be present in several combinations grouped in maps.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T060945Z" creationid="DSS" creationdate="20200807T060945Z">
-        <seg>这些话题可以在地图中分为不同的组合。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200807T060945Z">
+        <seg>这些主题可以在地图中分为不同的组合。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15862,8 +15862,8 @@
       <tuv lang="en">
         <seg>To put the previous example in context, the &lt;t5/&gt;author&lt;t6/&gt; mode in Oxygen XML can provide a simple “preview” of the topic and its visual elements (&lt;t7/&gt;Figure &lt;t8/&gt;6.27&lt;t9/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T151146Z" creationid="DSS" creationdate="20200817T134308Z">
-        <seg>为了将前面的示例放在语境中说明，可以使用 Oxygen XML 中的&lt;t5/&gt;作者&lt;t6/&gt;模式，作者模式可以提供话题及其可视化元素的简单“预览”(图&lt;t7/&gt;&lt;t8/&gt;6.27&lt;t9/&gt;)。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T134308Z">
+        <seg>为了将前面的示例放在语境中说明，可以使用 Oxygen XML 中的&lt;t5/&gt;作者&lt;t6/&gt;模式，作者模式可以提供主题及其可视化元素的简单“预览”(图&lt;t7/&gt;&lt;t8/&gt;6.27&lt;t9/&gt;)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15886,8 +15886,8 @@
       <tuv lang="en">
         <seg>Topic</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141823Z" creationid="DSS" creationdate="20200813T130636Z">
-        <seg>话题组件</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200813T130636Z">
+        <seg>主题组件</seg>
       </tuv>
     </tu>
     <tu>
@@ -15903,32 +15903,32 @@
       <tuv lang="en">
         <seg>Topic metadata (&lt;t0/&gt;&lt;topicmeta&gt;&lt;t1/&gt;) &lt;t2/&gt;- &lt;t3/&gt;defines the metadata that applies to a topic when it appears in a map</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T063236Z" creationid="DSS" creationdate="20200807T063035Z">
-        <seg>话题元数据(&lt;t0/&gt;&lt;topicmeta&gt;&lt;t1/&gt;)&lt;t2/&gt;&lt;t3/&gt;可以定义地图中用于描述话题的元数据。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200807T063035Z">
+        <seg>主题元数据(&lt;t0/&gt;&lt;topicmeta&gt;&lt;t1/&gt;)&lt;t2/&gt;&lt;t3/&gt;可以定义地图中用于描述主题的元数据。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Topic metadata&lt;t0/&gt;: defines the metadata that applies to a topic when it appears in a map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T063041Z" creationid="DSS" creationdate="20200804T153701Z">
-        <seg>话题元数据（topic metadata）&lt;t0/&gt;：定义地图中用于描述话题的元数据。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200804T153701Z">
+        <seg>主题元数据（topic metadata）&lt;t0/&gt;：定义地图中用于描述主题的元数据。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Topic reference (&lt;t0/&gt;&lt;topicref&gt;&lt;t1/&gt;) &lt;t2/&gt;- &lt;t3/&gt;identifies and links to a topic or external content source.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T063520Z" creationid="DSS" creationdate="20200807T063520Z">
-        <seg>话题引用(&lt;t0/&gt;&lt;topicref&gt;&lt;t1/&gt;)&lt;t2/&gt;&lt;t3/&gt;用于标识或链接某个话题或外部内容资源。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200807T063520Z">
+        <seg>主题引用(&lt;t0/&gt;&lt;topicref&gt;&lt;t1/&gt;)&lt;t2/&gt;&lt;t3/&gt;用于标识或链接某个主题或外部内容资源。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Topic reference&lt;t0/&gt;: identifies and links to a topic or external content source.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T063623Z" creationid="DSS" creationdate="20200804T153729Z">
-        <seg>话题引用（topic reference）&lt;t0/&gt;：标识或链接到某个话题或外部内容资源。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200804T153729Z">
+        <seg>主题引用（topic reference）&lt;t0/&gt;：标识或链接到某个主题或外部内容资源。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15944,8 +15944,8 @@
       <tuv lang="en">
         <seg>Topics and maps authored in XDITA are fully compatible with content created according to the DITA &lt;t1/&gt;1.3 &lt;t2/&gt;standard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T151721Z" creationid="DSS" creationdate="20200803T151721Z">
-        <seg>用 XDITA 编写的话题和地图与根据 DITA 标准&lt;t1/&gt;1.3&lt;t2/&gt;版本创建的内容完全兼容。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200803T151721Z">
+        <seg>用 XDITA 编写的主题和地图与根据 DITA 标准&lt;t1/&gt;1.3&lt;t2/&gt;版本创建的内容完全兼容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16049,8 +16049,8 @@
       <tuv lang="en">
         <seg>Unordered list markers can be a &lt;t0/&gt;-, +, &lt;t1/&gt;or &lt;t2/&gt;* &lt;t3/&gt;character, as shown in &lt;t4/&gt;Figure &lt;t5/&gt;6.25&lt;t6/&gt; &lt;t7/&gt;of an MDITA topic with a list of what the &lt;t8/&gt;Sensei Sushi&lt;t9/&gt; franchise package offers.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T151101Z" creationid="DSS" creationdate="20200817T131954Z">
-        <seg>无序列表标记可以是 &lt;t0/&gt;-, +, &lt;t1/&gt;或 &lt;t2/&gt;* &lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;，图6.25展示了一个包含列表的 MDITA 话题，列表罗列了购买 &lt;t8/&gt;Sensei Sushi&lt;t9/&gt; 特许经营选可以获得的权利。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T131954Z">
+        <seg>无序列表标记可以是 &lt;t0/&gt;-, +, &lt;t1/&gt;或 &lt;t2/&gt;* &lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;，图6.25展示了一个包含列表的 MDITA 主题，列表罗列了购买 &lt;t8/&gt;Sensei Sushi&lt;t9/&gt; 特许经营选可以获得的权利。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16177,8 +16177,8 @@
       <tuv lang="en">
         <seg>We made a plan for a research study and then the conversation moved to the possibil&lt;t2/&gt;ity of using Markdown as an authoring language in LwDITA topics.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131109Z" creationid="DSS" creationdate="20200802T125957Z">
-        <seg>我们制定了研究计划，然后又讨论了在 LwDITA 话题中使用 Markdown 作为写作语言的可能性。&lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200802T125957Z">
+        <seg>我们制定了研究计划，然后又讨论了在 LwDITA 主题中使用 Markdown 作为写作语言的可能性。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16217,8 +16217,8 @@
       <tuv lang="en">
         <seg>We want to make both editing and specialization easier for vendors to support by limiting options and choice points.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T073409Z" creationid="DSS" creationdate="20200731T073409Z">
-        <seg>我们希望通过限制选项和选择点，使供应商更容易支持内容编写和话题专门化。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200731T073409Z">
+        <seg>我们希望通过限制选项和选择点，使供应商更容易支持内容编写和主题专门化。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16249,8 +16249,8 @@
       <tuv lang="en">
         <seg>What that means to information developers is that you can author a DocBook or DITA topic in one tool and open the topic in another tool without the loss of information or invalid markup.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T093735Z" creationid="DSS" creationdate="20200726T093735Z">
-        <seg>对于信息开发者来说，这意味着你可以在一个工具中编写 DocBook 或 DITA 话题，然后在另一个工具中打开该话题，而不会丢失任何信息或产生无效标记。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200726T093735Z">
+        <seg>对于信息开发者来说，这意味着你可以在一个工具中编写 DocBook 或 DITA 主题，然后在另一个工具中打开该主题，而不会丢失任何信息或产生无效标记。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16313,8 +16313,8 @@
       <tuv lang="en">
         <seg>When opened on a browser, the map creates a navigation menu for the topic collection.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T032343Z" creationid="DSS" creationdate="20200808T032343Z">
-        <seg>在浏览器上打开该交付物，地图将为话题集合创建一个导航菜单。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200808T032343Z">
+        <seg>在浏览器上打开该交付物，地图将为主题集合创建一个导航菜单。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16353,8 +16353,8 @@
       <tuv lang="en">
         <seg>When the topic is processed,&lt;t2/&gt; the list items will be automatically numbered in a logical sequence established by the number assigned to the first list item.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T151103Z" creationid="DSS" creationdate="20200817T133143Z">
-        <seg>在话题处理过程中，将按照分配给第一个列表项的数字建立的逻辑顺序，给所有列表项自动编号。&lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T133143Z">
+        <seg>在主题处理过程中，将按照分配给第一个列表项的数字建立的逻辑顺序，给所有列表项自动编号。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16393,8 +16393,8 @@
       <tuv lang="en">
         <seg>Whereas the traditional topic types associated with DITA XML are concept, task, and reference, Information Mapping's core six information types are principle, pro&lt;t1/&gt;cess, procedure, concept, fact, and structure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131052Z" creationid="DSS" creationdate="20200731T085513Z">
-        <seg>与 DITA XML 相关的传统话题类型是概念（concept）、任务（task）和引用（reference），而信息映射的六种核心信息类型是原则（principle）、过程（process）、步骤（procedure）、概念（concept）、事实（fact）和结构（structure）。&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200731T085513Z">
+        <seg>与 DITA XML 相关的传统主题类型是概念（concept）、任务（task）和引用（reference），而信息映射的六种核心信息类型是原则（principle）、过程（process）、步骤（procedure）、概念（concept）、事实（fact）和结构（structure）。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16425,8 +16425,8 @@
       <tuv lang="en">
         <seg>While authors certainly can work on a topic-based environment without DITA (see Baker, &lt;t0/&gt;2013), &lt;t1/&gt;the term &lt;t2/&gt;topic&lt;t3/&gt; is frequently associated with this open standard, as explained in the following quote from Andersen &lt;t4/&gt;&amp; &lt;t5/&gt;Batova:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144740Z" creationid="DSS" creationdate="20200724T154614Z">
-        <seg>虽然作者当然可以在不使用 DITA 的情况下创建基于话题的内容（参见贝克，&lt;t0/&gt;2013年），但是&lt;t1/&gt;术语&lt;t2/&gt;“话题”&lt;t3/&gt;（topic）经常与DITA这个开放标准联系在一起，正如安德森&lt;t4/&gt;和&lt;t5/&gt;巴特瓦所说：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200724T154614Z">
+        <seg>虽然作者当然可以在不使用 DITA 的情况下创建基于主题的内容（参见贝克，&lt;t0/&gt;2013年），但是&lt;t1/&gt;术语&lt;t2/&gt;“主题”&lt;t3/&gt;（topic）经常与DITA这个开放标准联系在一起，正如安德森&lt;t4/&gt;和&lt;t5/&gt;巴特瓦所说：</seg>
       </tuv>
     </tu>
     <tu>
@@ -16506,8 +16506,8 @@
       <tuv lang="en">
         <seg>With its title element, the sample XDITA topic now cleared Oxygen error messages.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T135730Z" creationid="DSS" creationdate="20200816T135730Z">
-        <seg>添加了标题元素后， 示例中 XDITA 话题清除了 Oxygen 验证错误提示。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T135730Z">
+        <seg>添加了标题元素后， 示例中 XDITA 主题清除了 Oxygen 验证错误提示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16530,8 +16530,8 @@
       <tuv lang="en">
         <seg>With this new title component, the topic stub now can clear validation warnings in a LwDITA-aware tool like Oxygen XML Editor, and it can be seen in &lt;t4/&gt;author&lt;t5/&gt; mode, which &lt;t6/&gt;hides&lt;t7/&gt; the XML code and allows editing in an environment similar to a WYSIWYG editor (&lt;t8/&gt;Figure 6.7&lt;t9/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T140009Z" creationid="DSS" creationdate="20200816T135457Z">
-        <seg>有了这个全新的标题组件，Oxygen XML Editor 等支持 LwDITA 的工具中的验证错误提示就可以清除了。&lt;t4/&gt;作者&lt;t5/&gt;模式也可以清楚地显示话题结构，该模式会&lt;t6/&gt;隐藏&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt; XML 代码，允许创作者在类似 WYSIWYG 编辑器的环境中进行编辑（图6.7）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T135457Z">
+        <seg>有了这个全新的标题组件，Oxygen XML Editor 等支持 LwDITA 的工具中的验证错误提示就可以清除了。&lt;t4/&gt;作者&lt;t5/&gt;模式也可以清楚地显示主题结构，该模式会&lt;t6/&gt;隐藏&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt; XML 代码，允许创作者在类似 WYSIWYG 编辑器的环境中进行编辑（图6.7）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16562,16 +16562,16 @@
       <tuv lang="en">
         <seg>Without it, the topic will not validate as standards-based XDITA content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T150349Z" creationid="DSS" creationdate="20200813T150349Z">
-        <seg>没有它，话题将不能被识别为基于标准的 XDITA 格式的内容。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200813T150349Z">
+        <seg>没有它，主题将不能被识别为基于标准的 XDITA 格式的内容。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Without it, the topic would just be a regular XML file (like the first marinara sauce recipe from &lt;t7/&gt;Chapter &lt;t8/&gt;1&lt;t9/&gt;), &lt;t10/&gt;and would need its own stylesheets and schemas to produce deliverables for end users.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T154234Z" creationid="DSS" creationdate="20200813T150200Z">
-        <seg>如果没有这行代码，该话题将只是一个普通 XML 文件（就像第&lt;t7/&gt;&lt;t8/&gt;一&lt;t9/&gt;章中的第一个意式番茄罗勒酱菜谱示例那样）&lt;t10/&gt;，并且需要特定的样式表和模型来为终端用户生成可交付内容。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200813T150200Z">
+        <seg>如果没有这行代码，该主题将只是一个普通 XML 文件（就像第&lt;t7/&gt;&lt;t8/&gt;一&lt;t9/&gt;章中的第一个意式番茄罗勒酱菜谱示例那样）&lt;t10/&gt;，并且需要特定的样式表和模型来为终端用户生成可交付内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16746,8 +16746,8 @@
       <tuv lang="en">
         <seg>Yet, the big-picture ideas of topic-based information and component content management go beyond the actual topic types enforced by the DITA standard and DITA-aware tools.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T082945Z" creationid="DSS" creationdate="20200725T082945Z">
-        <seg>然而，基于话题的信息和组件内容管理的宏远想法，超出了 DITA 标准和支持 DITA 的工具所提供的话题类型。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200725T082945Z">
+        <seg>然而，基于主题的信息和组件内容管理的宏远想法，超出了 DITA 标准和支持 DITA 的工具所提供的主题类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16786,8 +16786,8 @@
       <tuv lang="en">
         <seg>You can create this HDITA topic in any text editor, a more advanced HTML editor, or a LwDITA-aware tool like Oxygen XML.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T133551Z" creationid="DSS" creationdate="20200816T133551Z">
-        <seg>你可以使用任何文本编辑器、更高级的 HTML 编辑器或支持 LwDITA 的工具(如Oxygen XML)创建示例中的 HDITA 话题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T133551Z">
+        <seg>你可以使用任何文本编辑器、更高级的 HTML 编辑器或支持 LwDITA 的工具(如Oxygen XML)创建示例中的 HDITA 主题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16834,8 +16834,8 @@
       <tuv lang="en">
         <seg>You can save the HDITA topic from the previous example as &lt;t0/&gt;franchise-intro.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T142107Z" creationid="DSS" creationdate="20200817T142107Z">
-        <seg>你可以将前面示例中的 HDITA 话题保存为 &lt;t0/&gt;franchise-intro.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T142107Z">
+        <seg>你可以将前面示例中的 HDITA 主题保存为 &lt;t0/&gt;franchise-intro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16914,8 +16914,8 @@
       <tuv lang="en">
         <seg>content types for its initial release: topic and map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T151649Z" creationid="DSS" creationdate="20200803T151649Z">
-        <seg>内容类型：话题（topic）和地图（map）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200803T151649Z">
+        <seg>内容类型：主题（topic）和地图（map）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16938,8 +16938,8 @@
       <tuv lang="en">
         <seg>describe the DITA map as “the glue that binds your topics together, the driver for producing your output, and the information path for your users to follow” (Bellamy et al., &lt;t0/&gt;2012, &lt;t1/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T084808Z" creationid="DSS" creationdate="20200806T084808Z">
-        <seg>称 DITA 地图是“将话题绑定在一起的粘合剂，是生成输出物的驱动器，也是用户可以遵循的信息路径”(Bellamy et al., &lt;t0/&gt;2012, &lt;t1/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200806T084808Z">
+        <seg>称 DITA 地图是“将主题绑定在一起的粘合剂，是生成输出物的驱动器，也是用户可以遵循的信息路径”(Bellamy et al., &lt;t0/&gt;2012, &lt;t1/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17042,8 +17042,8 @@
       <tuv lang="en">
         <seg>its support for LwDITA topics and maps.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T093329Z" creationid="DSS" creationdate="20200806T093329Z">
-        <seg>其对 LwDITA 话题和地图映射的支持。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200806T093329Z">
+        <seg>其对 LwDITA 主题和地图映射的支持。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17106,8 +17106,8 @@
       <tuv lang="en">
         <seg>recommend using DITA maps to create an information set that specify which topics should be included in a user deliverable produced from the map, define an information architecture with the navigation for a set of topics, and create relationships between topics (Bellamy et al., &lt;t2/&gt;2012).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150128Z" creationid="DSS" creationdate="20200725T145928Z">
-        <seg>建议使用 DITA 地图创建一个信息集合，DITA 地图指定了哪些话题应该被包括在用户输出的可交付成果中，使用话题导航定义了信息体系结构，并创建了话题之间的关系（贝拉米等，&lt;t2/&gt;2012年）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200725T145928Z">
+        <seg>建议使用 DITA 地图创建一个信息集合，DITA 地图指定了哪些主题应该被包括在用户输出的可交付成果中，使用主题导航定义了信息体系结构，并创建了主题之间的关系（贝拉米等，&lt;t2/&gt;2012年）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17178,8 +17178,8 @@
       <tuv lang="en">
         <seg>the importance of a generic topic, defined as “the basic unit of authoring and reuse” (2.2.1.1 The topic as the basic unit of information, 2016), which is the only information type included in the base edition of the DITA standard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T091114Z" creationid="DSS" creationdate="20200725T084639Z">
-        <seg>通用话题是“创作和复用的基本单元”（2.2.1.1 话题是信息的基础单元，2016年），也是 DITA 标准基本版中包含的唯一信息类型。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200725T084639Z">
+        <seg>通用主题是“创作和复用的基本单元”（2.2.1.1 主题是信息的基础单元，2016年），也是 DITA 标准基本版中包含的唯一信息类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17482,8 +17482,8 @@
       <tuv lang="en">
         <seg>{{ &lt;t0/&gt;Analysis of lightweight DITA related personas, scenarios, and requirements &lt;t1/&gt;{{ &lt;t2/&gt;Lightweight authoring profiles for topic, concept, task, reference, potentially others</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T162119Z" creationid="DSS" creationdate="20200802T161920Z">
-        <seg>&lt;t0/&gt;对与轻量级 DITA 相关的人物画像、场景和需求的分析 &lt;t1/&gt;&lt;t2/&gt;为话题（topic）、概念（concept）、任务（task）、引用（reference）以及可能出现的其他内容撰写轻量级简介</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200802T161920Z">
+        <seg>&lt;t0/&gt;对与轻量级 DITA 相关的人物画像、场景和需求的分析 &lt;t1/&gt;&lt;t2/&gt;为主题（topic）、概念（concept）、任务（task）、引用（reference）以及可能出现的其他内容撰写轻量级简介</seg>
       </tuv>
     </tu>
     <tu>
@@ -17506,8 +17506,8 @@
       <tuv lang="en">
         <seg>{{ &lt;t0/&gt;Lightweight topic: basic topic with default content models (sections, conditional attributes, list nesting enabled)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T123203Z" creationid="DSS" creationdate="20200801T123203Z">
-        <seg>&lt;t0/&gt;轻量级话题：具有默认内容模型（支持节、条件属性、嵌套列表）的基本话题</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200801T123203Z">
+        <seg>&lt;t0/&gt;轻量级主题：具有默认内容模型（支持节、条件属性、嵌套列表）的基本主题</seg>
       </tuv>
     </tu>
     <tu>
@@ -17522,16 +17522,16 @@
       <tuv lang="en">
         <seg>{{ &lt;t0/&gt;Specialization topic: topic specifically designed for defining lightweight specializations</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T123231Z" creationid="DSS" creationdate="20200801T123231Z">
-        <seg>&lt;t0/&gt;专门化话题：为定义轻量级的专门化而特意设计的话题</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200801T123231Z">
+        <seg>&lt;t0/&gt;专门化主题：为定义轻量级的专门化而特意设计的主题</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>{{ &lt;t0/&gt;Superlightweight topic: lightweight topic with constraints applied (no list nesting, no attributes, no sections)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T123210Z" creationid="DSS" creationdate="20200801T123210Z">
-        <seg>&lt;t0/&gt;超轻量级话题：应用了约束规则的轻量级话题（没有列表嵌套、属性和节）
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200801T123210Z">
+        <seg>&lt;t0/&gt;超轻量级主题：应用了约束规则的轻量级主题（没有列表嵌套、属性和节）
 </seg>
       </tuv>
     </tu>
@@ -17595,8 +17595,8 @@
       <tuv lang="en">
         <seg>“In this layer, students write content once, and then create multiple deliverables for different audi&lt;t2/&gt;ences, using some unique topics and some reused topics” (Evia et al., &lt;t3/&gt;2015, &lt;t4/&gt;pp.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131446Z" creationid="DSS" creationdate="20200813T115429Z">
-        <seg>“在这一层级中，学生只需编写一次内容，就可以使用自己编写的独特话题和可复用话题，为不同的受众创建多种可交付成果” (Evia et al., &lt;t2/&gt;&lt;t3/&gt;2015, &lt;t4/&gt;pp.
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200813T115429Z">
+        <seg>“在这一层级中，学生只需编写一次内容，就可以使用自己编写的独特主题和可复用主题，为不同的受众创建多种可交付成果” (Evia et al., &lt;t2/&gt;&lt;t3/&gt;2015, &lt;t4/&gt;pp.
 </seg>
       </tuv>
     </tu>
@@ -17636,8 +17636,8 @@
       <tuv lang="en">
         <seg>“The overall objective of this layer is to make students comfortable with topic-based writing and the functions and responsibili&lt;t3/&gt;ties of a DITA author.”</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131446Z" creationid="DSS" creationdate="20200813T115406Z">
-        <seg>“这一层级的总体目标是让学生适应基于话题的写作方式，了解 DITA 写作者的作用和职责。”&lt;t3/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200813T115406Z">
+        <seg>“这一层级的总体目标是让学生适应基于主题的写作方式，了解 DITA 写作者的作用和职责。”&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17740,8 +17740,8 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;Basic topic components</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T061811Z" creationid="DSS" creationdate="20200808T061811Z">
-        <seg>· &lt;t0/&gt;基本话题类型</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200808T061811Z">
+        <seg>· &lt;t0/&gt;基本主题类型</seg>
       </tuv>
     </tu>
     <tu>
@@ -17756,16 +17756,16 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;Chef Pedro's critique of the recipe (structured as a DITA concept)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150154Z" creationid="DSS" creationdate="20200725T151810Z">
-        <seg>&lt;t0/&gt;• 厨师佩德罗对菜谱的评价（以 DITA 概念（concept）话题的结构编写）</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200725T151810Z">
+        <seg>&lt;t0/&gt;• 厨师佩德罗对菜谱的评价（以 DITA 概念（concept）主题的结构编写）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>• &lt;t0/&gt;Chef Pedro's “about” page, with biographical and professional information (structured as a DITA concept).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150204Z" creationid="DSS" creationdate="20200725T151843Z">
-        <seg>&lt;t0/&gt;• 介绍厨师佩德罗的“关于”页面，包含人生经历和专业信息（以 DITA 概念（concept）话题的结构编写）</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200725T151843Z">
+        <seg>&lt;t0/&gt;• 介绍厨师佩德罗的“关于”页面，包含人生经历和专业信息（以 DITA 概念（concept）主题的结构编写）</seg>
       </tuv>
     </tu>
     <tu>
@@ -18029,8 +18029,8 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;The marinara sauce recipe (structured as a DITA task)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150158Z" creationid="DSS" creationdate="20200725T151756Z">
-        <seg>&lt;t0/&gt;• 意式番茄罗勒酱菜谱（以 DITA 任务（task）话题的结构编写）</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200725T151756Z">
+        <seg>&lt;t0/&gt;• 意式番茄罗勒酱菜谱（以 DITA 任务（task）主题的结构编写）</seg>
       </tuv>
     </tu>
     <tu>
