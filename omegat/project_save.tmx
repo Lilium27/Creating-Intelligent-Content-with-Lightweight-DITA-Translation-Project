@@ -18349,24 +18349,24 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;“The all-inclusive edition is designed for authors and publishers who develop and deliver well-structured, modular instructional materials.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T031731Z" creationid="lenovo" creationdate="20200812T031644Z">
-        <seg>• &lt;t0/&gt;“全能版是为需要开发和交付良好结构、模块化的教学材料的作者和出版商设计的。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T073802Z" creationid="lenovo" creationdate="20200812T031644Z">
+        <seg>• &lt;t0/&gt;“完整版是为需要开发和交付结构良好、模块化的教学材料的写作者和出版商设计的。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>• &lt;t0/&gt;“The base edition is designed for application developers and people who need only the most fundamental pieces of the DITA framework”</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T033158Z" creationid="lenovo" creationdate="20200812T031501Z">
-        <seg>• &lt;t0/&gt;基础版是为应用程序开发人员和只需要DITA框架最基本部分的人设计的。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T073637Z" creationid="lenovo" creationdate="20200812T031501Z">
+        <seg>• &lt;t0/&gt;基础版是为应用程序开发人员和只需要使用DITA框架最基本部分的人设计的。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>• &lt;t0/&gt;“The technical content edition is designed for authors who document com&lt;t1/&gt;plex applications and devices, such as software, hardware, medical devices, machinery, and more”</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131016Z" creationid="lenovo" creationdate="20200812T031555Z">
-        <seg>• &lt;t0/&gt;&lt;t1/&gt;“技术内容版是为编写复杂应用程序和设备(如软件、硬件、医疗设备、机械等)的作者而设计的。”</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T073706Z" creationid="lenovo" creationdate="20200812T031555Z">
+        <seg>• &lt;t0/&gt;&lt;t1/&gt;“技术内容版是为编写复杂应用程序和设备(如软件、硬件、医疗设备、机械等)文档的作者而设计的。”</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
