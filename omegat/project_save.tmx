@@ -1619,8 +1619,8 @@
       <tuv lang="en">
         <seg>&lt;t5/&gt;Additionally, the website Learning DITA&lt;t6/&gt;2&lt;t7/&gt; from Scriptorium is a free and solid resource for novice-to-advanced users who need to learn about DITA and its content structuring and publishing capabilities.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T032850Z" creationid="lenovo" creationdate="20200812T032850Z">
-        <seg>&lt;t5/&gt;此外，Scriptorium上的学习DITA&lt;t6/&gt;2&lt;t7/&gt;网站是一个免费且可靠的资源，从新手到高阶用户都可以从中了解DITA及其内容结构和发布能力。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T074430Z" creationid="lenovo" creationdate="20200812T032850Z">
+        <seg>&lt;t5/&gt;此外，Scriptorium 网站上的课程《学习 DITA》&lt;t6/&gt;2&lt;t7/&gt;是一个免费且可靠的资源，从新手到高阶用户都可以从中了解DITA及其内容结构和发布能力。</seg>
       </tuv>
     </tu>
     <tu>
