@@ -2588,8 +2588,8 @@
       <tuv lang="en">
         <seg>Additionally, the versatile task topic in DITA 1.3 can take the shape of a general task topic, a strict task, or a machinery task topic, depending on the context and purpose of usage.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200725T091127Z">
-        <seg>此外，DITA 标准1.3版本中灵活的任务主题可以依据语境和使用目的以通用任务主题、严格任务或机械任务主题的形式呈现。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T080845Z" creationid="DSS" creationdate="20200725T091127Z">
+        <seg>此外，DITA 1.3中灵活的任务主题可以依据语境和使用目的以通用任务主题、严格任务主题或机械任务主题的形式呈现。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2764,8 +2764,8 @@
       <tuv lang="en">
         <seg>Although concept, task, and ref&lt;t0/&gt;erence are still defined types in the DITA standard, the official specification for DITA &lt;t1/&gt;1.3 &lt;t2/&gt;also includes topic types for troubleshooting, which “provides markup for corrective action information such as troubleshooting and alarm clearing” &lt;t3/&gt;(2.7.1.6 &lt;t4/&gt;Troubleshooting topic, &lt;t5/&gt;2016) &lt;t6/&gt;and glossary, which “defines a single sense of one term” &lt;t7/&gt;(2.7.1.7 &lt;t8/&gt;Glossary entry topic, &lt;t9/&gt;2016).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200725T083311Z">
-        <seg>虽然概念（concept）、任务（task）和参考（reference）仍是 DITA 标准中定义好的类型，DITA官方规范&lt;t0/&gt;&lt;t1/&gt;1.3&lt;t2/&gt;版本还包括了关于排除故障的主题类型，这些主题类型“提供编写纠正行为信息的标记，比如‘故障排除’（troubleshooting）和‘警示清除（alarm clearing）’”&lt;t3/&gt;（2.7.1.6 主题“&lt;t4/&gt;故障排除&lt;t5/&gt;”（troubleshooting），2016&lt;t6/&gt;年），还包括了术语表，术语表“定义了每个术语的含义”&lt;t7/&gt;（2.7.1.7 主题“&lt;t8/&gt;术语表条目&lt;t9/&gt;”（glossary entry），2016年）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T080740Z" creationid="DSS" creationdate="20200725T083311Z">
+        <seg>虽然概念（concept）、任务（task）和参考（reference）仍是 DITA 标准中定义好的类型，DITA&lt;t1/&gt;1.3 &lt;t2/&gt;官方规范还包括了关于排除故障的主题类型，这些主题类型“提供编写纠正行为信息的标记，比如‘故障排除’（troubleshooting）和‘警示清除（alarm clearing）’”&lt;t3/&gt;（2.7.1.6 主题“&lt;t4/&gt;故障排除&lt;t5/&gt;”（troubleshooting），2016&lt;t6/&gt;年），还包括了术语表，术语表“定义了每个术语的含义”&lt;t7/&gt;（2.7.1.7 主题“&lt;t8/&gt;术语表条目&lt;t9/&gt;”（glossary entry），2016年）。</seg>
       </tuv>
     </tu>
     <tu>
