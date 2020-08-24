@@ -811,8 +811,8 @@
       <tuv lang="en">
         <seg>&lt;t14/&gt;This kind of writing is the basis of several technical communication and intelligent content practices and techniques, including component content management systems (CCMS), which are “a centralized system that helps organizations cap&lt;t15/&gt;ture, manage, store, preserve, and deliver topic-based content (components)” (Kerzreho, &lt;t16/&gt;2016 &lt;t17/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T163125Z" creationid="DSS" creationdate="20200724T154401Z">
-        <seg>&lt;t14/&gt;&lt;t15/&gt;这种写作类型是几种技术传播和智能内容实践和技术的基础，包括组件内容管理系统（CCMS），CCMS 是“一个集中化系统，可以帮助组织获取、管理、存储、维护、发布基于主题的内容（组件）”(Kerzreho, &lt;t16/&gt;2016 &lt;t17/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T032217Z" creationid="DSS" creationdate="20200724T154401Z">
+        <seg>&lt;t14/&gt;&lt;t15/&gt;这种写作类型是几种技术传播和智能内容实践和技术的基础，包括组件内容管理系统（CCMS），CCMS 是“一个集中化系统，可以帮助组织获取、管理、存储、维护、发布基于话题的内容（组件）”(Kerzreho, &lt;t16/&gt;2016 &lt;t17/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1139,8 +1139,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;Andersen adds that this type of con&lt;t4/&gt;tent supported by topic-based information design “has been given various names, including intelligent content, nimble content, smart content, portable content, and future-ready content.” Rockley, Cooper, and Abel describe intel&lt;t5/&gt;ligent content as “designed to be modular, structured, reusable, format free, and semantically rich and, as a consequence, discoverable, reconfigurable, and adaptable” (Rockley et al., &lt;t6/&gt;2015, &lt;t7/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T155327Z" creationid="DSS" creationdate="20200723T160314Z">
-        <seg>&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;安德森补充说，这种基于主题进行信息设计的内容类型 “已经有了各种叫法，包括智慧内容、敏捷内容、智能内容、可移植内容和面向未来的内容。”罗克利（Rockley）、库珀（Cooper）和亚伯（Abel）认为智能内容是“自设计之初就拥有模块化、结构化、可复用、格式自由、语义丰富的特点，因此它们也具备可发现、可重构和可修改的性质”(Rockley et al., &lt;t6/&gt;2015, &lt;t7/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T032136Z" creationid="DSS" creationdate="20200723T160314Z">
+        <seg>&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;安德森补充说，这种基于话题进行信息设计的内容类型 “已经有了各种叫法，包括智慧内容、敏捷内容、智能内容、可移植内容和面向未来的内容。”罗克利（Rockley）、库珀（Cooper）和亚伯（Abel）认为智能内容是“自设计之初就拥有模块化、结构化、可复用、格式自由、语义丰富的特点，因此它们也具备可发现、可重构和可修改的性质”(Rockley et al., &lt;t6/&gt;2015, &lt;t7/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4567,8 +4567,8 @@
       <tuv lang="en">
         <seg>DITA consists of a set of design principles for creating “information-typed” modules at a topic level and for using that content in delivery modes such as online help and product support portals on the Web.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154720Z" creationid="DSS" creationdate="20200726T154720Z">
-        <seg>DITA 由一组设计原则组成，这些原则可以用于创建主题级别的“信息型“模块，并在交付模式（如网站上的在线帮助和产品支持门户）中使用这些模块。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T032200Z" creationid="DSS" creationdate="20200726T154720Z">
+        <seg>DITA 由一组设计原则组成，这些原则可以用于创建话题级别的“信息型“模块，并在交付模式（如网站上的在线帮助和产品支持门户）中使用这些模块。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10895,8 +10895,8 @@
       <tuv lang="en">
         <seg>Price's discussion of online deliverables advanced the conversation on topic-based authoring that moved away from the traditional manual-as-book model that dominated the market in the 1970s and before.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T072237Z" creationid="lenovo" creationdate="20200810T114734Z">
-        <seg>普莱斯对在线可交付内容的讨论推动了基于主题的创作的讨论，而后者已经从20世纪70年代及以前占据市场的传统书籍式手册中脱离出来。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T032019Z" creationid="lenovo" creationdate="20200810T114734Z">
+        <seg>普莱斯对在线可交付内容的讨论推动了基于话题的创作的讨论，而后者已经从20世纪70年代及以前占据市场的传统书籍式手册中脱离出来。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15462,8 +15462,8 @@
       <tuv lang="en">
         <seg>This move also planted the seed for disciplinary conventions, as topic-based authoring for online deliverable replaced the long print format of documentation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T032012Z" creationid="lenovo" creationdate="20200810T120851Z">
-        <seg>随着基于主题的在线可交付内容创作取代了长期存在的纸质文档，这也为规范性惯例埋下伏笔。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T032124Z" creationid="lenovo" creationdate="20200810T120851Z">
+        <seg>随着基于话题的在线可交付内容创作取代了长期存在的纸质文档，这一步也为规范性惯例埋下伏笔。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16441,8 +16441,8 @@
       <tuv lang="en">
         <seg>While terms such as granules, modules, and units are commonly used to describe these blocks, the term topic has gained the most traction in the past few years, particularly in the trade literature.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T160552Z" creationid="DSS" creationdate="20200724T155531Z">
-        <seg>当“颗粒”、“模块”、“单位”等术语都普遍被用来描述构建块，“主题”（topic）这个术语在过去的几年里获得了最大关注度，特别是在贸易文档领域。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T032230Z" creationid="DSS" creationdate="20200724T155531Z">
+        <seg>当“颗粒”、“模块”、“单位”等术语都普遍被用来描述构建块，“话题”（topic）这个术语在过去的几年里获得了最大关注度，特别是在贸易文档领域。</seg>
       </tuv>
     </tu>
     <tu>
