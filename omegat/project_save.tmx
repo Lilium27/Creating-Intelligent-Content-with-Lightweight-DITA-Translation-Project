@@ -3500,8 +3500,8 @@
       <tuv lang="en">
         <seg>At that session on April &lt;t0/&gt;16, 2013 &lt;t1/&gt;Priestley's slides for the talk “Lightweight DITA: A preview of the DITA &lt;t2/&gt;1.3 &lt;t3/&gt;feature” included the &lt;t4/&gt;12 &lt;t5/&gt;content types and quietly foretold the merger of content types from Information Mapping and DITA in LwDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T131017Z" creationid="DSS" creationdate="20200801T130953Z">
-        <seg>在&lt;t0/&gt;2013&lt;t1/&gt;年4月16日的会议上，普里斯特利为“轻量级 DITA：DITA 标准&lt;t2/&gt;1.3&lt;t3/&gt;版本的特性”做了演讲，幻灯片包含了&lt;t4/&gt;12&lt;t5/&gt;种内容类型，并悄悄预言了 LwDITA 融合了信息映射中和 DITA 中的内容类型。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T081425Z" creationid="DSS" creationdate="20200801T130953Z">
+        <seg>在&lt;t0/&gt;2013&lt;t1/&gt;年4月16日的会议上，普里斯特利为“轻量级 DITA：DITA &lt;t2/&gt;1.3&lt;t3/&gt;的特性”做了演讲，幻灯片包含了&lt;t4/&gt;12&lt;t5/&gt;种内容类型，并悄然预言 LwDITA 融合了信息映射和 DITA 中的内容类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3892,8 +3892,8 @@
       <tuv lang="en">
         <seg>Before describing the LwDITA topical conventions and tracking how they evolved from DITA &lt;t0/&gt;1.3 &lt;t1/&gt;elements and produced their own offspring in the LwDITA three core authoring formats, the following section looks at the evo&lt;t2/&gt;lution of DITA as documented in the OASIS public email list and meeting minutes archive.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200730T122831Z">
-        <seg>在介绍 LwDITA 主题规则，阐述 LwDITA 的元素是如何从 DITA 标准 &lt;t0/&gt;1.3 &lt;t1/&gt;&lt;t2/&gt;版本中的元素演变而来，又是如何在 LwDITA 三种核心写作格式中生成它们自己的后代元素之前，下面一节将先回顾 OASIS 公共电子邮件记录和会议纪要中记录的 DITA 的演变过程。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T081325Z" creationid="DSS" creationdate="20200730T122831Z">
+        <seg>在介绍 LwDITA 主题规则，阐述 LwDITA 的元素是如何从 DITA &lt;t0/&gt;1.3 &lt;t1/&gt;&lt;t2/&gt;中的元素演变而来，又是如何在 LwDITA 三种核心写作格式中生成它们自己的后代元素之前，下面一节将先回顾 OASIS 公共电子邮件记录和会议纪要中记录的 DITA 的演变过程。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3940,8 +3940,8 @@
       <tuv lang="en">
         <seg>Besides the idea of releasing LwDITA as a standard separate from the three versions of DITA &lt;t0/&gt;1.3, &lt;t1/&gt;Priestley was also looking at the possibility of breaking DITA's dependence on XML as its sole language.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T090505Z" creationid="DSS" creationdate="20200801T132448Z">
-        <seg>除了将LwDITA作为一个标准发布，与DITA标准&lt;t0/&gt;1.3&lt;t1/&gt;版本的三个版本分开之外，普里斯特利还考虑打破 DITA 对 XML（其唯一语言）的依赖。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T081454Z" creationid="DSS" creationdate="20200801T132448Z">
+        <seg>除了将LwDITA作为一个标准发布，与DITA&lt;t0/&gt;1.3&lt;t1/&gt;的三个版本分开之外，普里斯特利还考虑打破 DITA 对 XML（其唯一语言）的依赖。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11183,8 +11183,8 @@
       <tuv lang="en">
         <seg>Professionals already using DITA to create and architect content most likely learned about the standard in training sessions that emphasized the semantic benefits of the several document and element types in DITA &lt;t2/&gt;1.3.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095445Z" creationid="DSS" creationdate="20200730T095445Z">
-        <seg>已经在使用 DITA 创建和构造内容的专业人员很可能在培训时就已经了解了 LwDITA，培训会强调 DITA 标准 &lt;t2/&gt;1.3版本中几种文档和元素类型语义优势。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T081309Z" creationid="DSS" creationdate="20200730T095445Z">
+        <seg>已经在使用 DITA 创建和构造内容的专业人员很可能在培训时就已经了解了 LwDITA，培训会强调 DITA &lt;t2/&gt;1.3中几种文档和元素类型的语义优势。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11817,8 +11817,8 @@
       <tuv lang="en">
         <seg>Some members of the subcommittee focused on researching the compatibility and exchange among the three author&lt;t4/&gt;ing formats and the DITA &lt;t5/&gt;1.3 &lt;t6/&gt;standard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131112Z" creationid="DSS" creationdate="20200803T095953Z">
-        <seg>小组委员会的一些成员主要研究三种写作格式和 DITA 标准&lt;t4/&gt;&lt;t5/&gt;1.3&lt;t6/&gt;版本之间的兼容性和转换能力。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T081512Z" creationid="DSS" creationdate="20200803T095953Z">
+        <seg>小组委员会的一些成员主要研究三种写作格式和 DITA准&lt;t4/&gt;&lt;t5/&gt;1.3&lt;t6/&gt;之间的兼容性和转换能力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14502,8 +14502,8 @@
       <tuv lang="en">
         <seg>The standard was being split into three different versions for its &lt;t1/&gt;1.3 &lt;t2/&gt;release: base, technical content, and all-inclusive, which were called “packages” or “packaging” in discussions before their offi&lt;t3/&gt;cial release.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131057Z" creationid="DSS" creationdate="20200801T131151Z">
-        <seg>DITA 标准&lt;t1/&gt;1.3&lt;t2/&gt;&lt;t3/&gt;版本分为三个不同的分支：基础版本、技术内容版本和完整版本，在正式发布之前的讨论中这三个分支被称为“包”或者“打包”。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T081440Z" creationid="DSS" creationdate="20200801T131151Z">
+        <seg>DITA &lt;t1/&gt;1.3&lt;t2/&gt;&lt;t3/&gt;分为三个不同的分支：基础版本、技术内容版本和完整版本，在正式发布之前的讨论中这三个分支被称为“包”或者“打包”。</seg>
       </tuv>
     </tu>
     <tu>
