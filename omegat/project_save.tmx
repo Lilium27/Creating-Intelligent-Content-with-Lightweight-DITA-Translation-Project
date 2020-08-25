@@ -6096,6 +6096,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;6.58 &lt;t1/&gt;Video content environment in XDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T142228Z" creationid="lenovo" creationdate="20200825T142228Z">
+        <seg>图 &lt;t0/&gt;6.58 &lt;t1/&gt;XDITA中的视频内容环境。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FOREWORD</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T122921Z" creationid="DSS" creationdate="20200820T122921Z">
@@ -14288,6 +14296,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200724T162056Z">
         <seg>文档主要有三种主题类型，它们“代表了为了帮助用户而产生的技术信息文档里的绝大多数内容”（哈克斯，&lt;t0/&gt;2011&lt;t1/&gt;年，第7页）：概念（concept）、任务（task）和参考（reference），普林格尔（Pringle）&lt;t2/&gt;和&lt;t3/&gt;奥基夫对其的简短定义如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The main difference from the&lt;t2/&gt; audio-enhanced example is the &lt;t3/&gt;&lt;video-poster&gt; &lt;t4/&gt;component, which provides an optional image for transformations, such as the PDF brochure, that cannot display a video.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T142646Z" creationid="lenovo" creationdate="20200825T142646Z">
+        <seg>与音频增强示例的主要区别是&lt;video-poster&gt;组件，该组件为无法播放视频的文档提供了用以转换的可选图片，如PDF手册等。</seg>
       </tuv>
     </tu>
     <tu>
