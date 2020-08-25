@@ -3692,8 +3692,8 @@
       <tuv lang="en">
         <seg>Authors with previous DITA or HTML experience question why the list item must include a paragraph to hold its content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T131133Z" creationid="lenovo" creationdate="20200814T131133Z">
-        <seg>有DITA或HTML经验的作者会问，为什么列表项必须包含一个段落来容纳其内容。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T142342Z" creationid="lenovo" creationdate="20200814T131133Z">
+        <seg>有DITA或HTML写作者的作者会问，为什么列表项必须包含一个段落标签来包裹其内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7011,8 +7011,8 @@
       <tuv lang="en">
         <seg>Here I go back to the initial reaction of some authors that encounter this rule when they are introduced to LwDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T130905Z" creationid="lenovo" creationdate="20200814T130905Z">
-        <seg>再回到一些作者在接触LwDITA时遇到这个规则的初反应。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T142256Z" creationid="lenovo" creationdate="20200814T130905Z">
+        <seg>再回到一些创作者在接触LwDITA时遇到这个规则的初反应。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7179,8 +7179,8 @@
       <tuv lang="en">
         <seg>However, one person's annoyance is another's enjoyment: Patrick Bosek, co-founder of the &lt;t0/&gt;easyDITA &lt;t1/&gt;component content management solution, once told me that, in his opinion, the “minimize mixed content” rule is one of the best features of XDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131258Z" creationid="lenovo" creationdate="20200814T140550Z">
-        <seg>然而，甲之砒霜乙之蜜糖：easyDITA组件内容管理解决方案的联合创始人帕特里克·博塞克曾经告诉我，在他看来，“最小化混合内容”规则是XDITA的最佳特性之一。&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T142857Z" creationid="lenovo" creationdate="20200814T140550Z">
+        <seg>然而，甲之砒霜乙之蜜糖：easyDITA组件内容管理解决方案的联合创始人帕特里克·博塞克（Patrick Bosek）曾经告诉我，在他看来，“最小化混合内容”规则是XDITA的最佳特性之一。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9341,8 +9341,8 @@
       <tuv lang="en">
         <seg>Is there a LwDITA App?</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T140619Z" creationid="lenovo" creationdate="20200814T140619Z">
-        <seg>有LwDITA应用程序吗?</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T142830Z" creationid="lenovo" creationdate="20200814T140619Z">
+        <seg>有支持LwDITA的应用程序吗?</seg>
       </tuv>
     </tu>
     <tu>
@@ -10509,8 +10509,8 @@
       <tuv lang="en">
         <seg>More than once, I have received feedback, on the initial minutes of training after introducing this rule, saying that this rule is “slightly annoying,” but authors can see its benefits once they reuse the paragraph with the identifier of “first” in any other place where paragraphs are allowed, and not just where list items are allowed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T140124Z" creationid="lenovo" creationdate="20200814T131246Z">
-        <seg>不止一次在介绍这条规则后最初的几分钟的培训里， 我收到反馈说这个规则是“有点烦人,但是一旦作者在其他运行使用段落而不仅仅只是列表项的位置复用带有“第一”标识符的段落时，他们就能看到这条规则的好处。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T142811Z" creationid="lenovo" creationdate="20200814T131246Z">
+        <seg>在培训中，介绍完这条规则后最初的几分钟里， 我不止一次收到反馈说这个规则是“有点烦人”，但是，一旦创作者在其他可以使用段落而不仅仅只是可以使用列表项的位置，复用带有“第一”标识符的段落时，他们就能发现这条规则的好处。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15342,8 +15342,8 @@
       <tuv lang="en">
         <seg>The “minimize mixed content” rule also relaxes the content reuse mechanisms of DITA XML: In DITA, for example, content from a command (&lt;t0/&gt;&lt;cmd&gt;&lt;t1/&gt;) inside a task step (&lt;t2/&gt;&lt;step&gt;&lt;t3/&gt;) can only be reused in another command inside a step, but in XDITA and HDITA a command is expressed as a simple paragraph (&lt;t4/&gt;&lt;p&gt;&lt;t5/&gt;) that can be reused wherever paragraphs are allowed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131258Z" creationid="lenovo" creationdate="20200813T143013Z">
-        <seg>“最小化混合内容”规则也简化DITA XML的内容复用机制：例如，在DITA中来自一个命令 （&lt;t0/&gt;&lt;cmd&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;）的内容在一个任务的步骤(步骤&gt; &lt;)只能使用</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T142226Z" creationid="lenovo" creationdate="20200813T143013Z">
+        <seg>“最小化混合内容”规则也简化了DITA XML的内容复用机制：例如，在DITA中，任务步骤(&lt;t2/&gt;&lt;step&gt;&lt;t3/&gt;)中的命令(&lt;cmd&gt;)内容只能在步骤中的另一个命令中复用，但是在XDITA和HDITA中，命令被表示为一个简单的段落(&lt;t4/&gt;&lt;p&gt;&lt;t5/&gt;)，可以在任何可以使用段落的地方复用。</seg>
       </tuv>
     </tu>
     <tu>
