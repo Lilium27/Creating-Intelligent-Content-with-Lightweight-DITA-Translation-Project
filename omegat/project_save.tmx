@@ -7571,8 +7571,8 @@
       <tuv lang="en">
         <seg>If included in a topic, the YAML front matter header must be the first thing in the MDITA file and must be set between triple-dashed lines.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T134335Z" creationid="DSS" creationdate="20200816T134335Z">
-        <seg>如果 MDITA 文件有 YAML 前置块的话，则 YAML 前置块必须写在文件开头，位于两行三格虚线之间。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T125845Z" creationid="DSS" creationdate="20200816T134335Z">
+        <seg>如果 MDITA 文件有 YAML 文件头的话，则 YAML 前置块必须写在文件开头，位于两行三格虚线之间。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8423,6 +8423,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T154539Z" creationid="DSS" creationdate="20200720T133311Z">
         <seg>他毕业于明尼苏达大学双子城分校（University of Minnesota-Twin Cities），获得了科学与技术传播硕士学位。詹姆斯在 IBM 工作，是一位出色的技术营销人员，曾经一直在寻求能够在结构化创作环境中工作的实习生。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In its core profile, MDITA aligns with the GitHub Flavored Markdown specification.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T125709Z" creationid="DSS" creationdate="20200825T125709Z">
+        <seg>在其核心概要文件中，MDITA 与 GirHub 风格的 Markdown 规范一致。</seg>
       </tuv>
     </tu>
     <tu>
