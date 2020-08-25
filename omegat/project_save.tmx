@@ -11911,6 +11911,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>So far in this chapter, I have only used the YAML header in MDITA extended profile to assign an &lt;t0/&gt;@id &lt;t1/&gt;to some topics.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T131621Z" creationid="lenovo" creationdate="20200825T131621Z">
+        <seg>到目前为止，在本章中，我只使用了MDITA扩展配置文件中的YAML头来为一些主题分配@id。。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>So, how does John Carroll plead when confronted with the claim of DITA ancestry?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T150437Z" creationid="lenovo" creationdate="20200804T020337Z">
