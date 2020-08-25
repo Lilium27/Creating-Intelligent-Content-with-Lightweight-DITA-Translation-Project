@@ -2612,8 +2612,8 @@
       <tuv lang="en">
         <seg>Adventurous novice content creators.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T030159Z" creationid="lenovo" creationdate="20200813T030159Z">
-        <seg>具有探险精神的内容创作新手。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T124604Z" creationid="lenovo" creationdate="20200813T030159Z">
+        <seg>具有探险精神的内容创作新</seg>
       </tuv>
     </tu>
     <tu>
@@ -3636,8 +3636,8 @@
       <tuv lang="en">
         <seg>Authors who want to write simple content for the web that does not require a transformation process</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T081622Z" creationid="lenovo" creationdate="20200813T081622Z">
-        <seg>希望为web编写简单内容而无需进行转换的作者</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T124517Z" creationid="lenovo" creationdate="20200813T081622Z">
+        <seg>希望为网页编写简单内容而无需转换的作者</seg>
       </tuv>
     </tu>
     <tu>
@@ -4503,8 +4503,8 @@
       <tuv lang="en">
         <seg>Content structured with XDITA is also compatible with DITA; i.e., all XDITA topical compo&lt;t0/&gt;nents share syntax conventions with DITA, and collections of DITA topics can include XDITA files.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131236Z" creationid="lenovo" creationdate="20200813T021402Z">
-        <seg>使用XDITA构造的内容也与DITA兼容；例如，XDITA的所有主题组件与DITA都适用相同的语法惯例，XDITA文件能够使用DITA主题集&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T123758Z" creationid="lenovo" creationdate="20200813T021402Z">
+        <seg>使用XDITA构造的内容也与DITA兼容；例如，XDITA的所有主题组件与DITA都适用相同的语法惯例，XDITA文件能够使用DITA主题集。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8941,8 +8941,8 @@
       <tuv lang="en">
         <seg>Information developers who use an XML editor but want a smaller set of elements and attributes (compared to DITA) with which to work</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T025659Z" creationid="lenovo" creationdate="20200813T025659Z">
-        <seg>使用XML编辑器但希望元素和属性集(与DITA相比)更少的信息开发人员</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T124449Z" creationid="lenovo" creationdate="20200813T025659Z">
+        <seg>使用XML编辑器，但希望元素和属性集(与DITA相比)更少的信息开发人员</seg>
       </tuv>
     </tu>
     <tu>
@@ -11857,8 +11857,8 @@
       <tuv lang="en">
         <seg>Some current DITA users may find XDITA to be appropriate, but the XDITA authoring format of LwDITA is primarily aimed at content creators who either do not know about DITA or perceive the standard as too robust for their information needs.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T122329Z" creationid="lenovo" creationdate="20200813T024619Z">
-        <seg>一些DITA用户可能认为XDITA十分合适，但是LwDITA的XDITA写作格式主要针对的是那些不了解DITA或认为该标准对于他们的信息需求过于健壮的内容创建者。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T124413Z" creationid="lenovo" creationdate="20200813T024619Z">
+        <seg>一些DITA用户可能认为XDITA十分合适，但是LwDITA的XDITA写作格式主要针对的是那些不了解DITA或认为DITA标准对于他们的信息需求来说过于强健的内容创建者。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12033,8 +12033,8 @@
       <tuv lang="en">
         <seg>Structure purists</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T030048Z" creationid="lenovo" creationdate="20200813T030048Z">
-        <seg>追求结构化</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T124551Z" creationid="lenovo" creationdate="20200813T030048Z">
+        <seg>追求结构化的创作者</seg>
       </tuv>
     </tu>
     <tu>
@@ -16201,8 +16201,8 @@
       <tuv lang="en">
         <seg>Undeniably, DITA XML has an audience that has made the standard a very popular approach for structuring information.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T022030Z" creationid="lenovo" creationdate="20200813T022030Z">
-        <seg>不可否认的是，DITA XML的受众使该标准成为结构化信息的一种广泛流行的方法。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T123823Z" creationid="lenovo" creationdate="20200813T022030Z">
+        <seg>不可否认的是，DITA XML的受众使该标准成为一种用于结构化信息的流行方法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16874,8 +16874,8 @@
       <tuv lang="en">
         <seg>XDITA opens structured authoring and automated publishing workflows to a greater number of organi&lt;t0/&gt;zations.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131236Z" creationid="lenovo" creationdate="20200813T022106Z">
-        <seg>XDITA向更多的组织开源结构化创作和自动化发布工作流。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T123920Z" creationid="lenovo" creationdate="20200813T022106Z">
+        <seg>XDITA开源了结构化创作和自动化发布工作流，为更多的组织提供服务。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16890,8 +16890,8 @@
       <tuv lang="en">
         <seg>XDITA targets authors who are probably not DITA experts but could benefit from the structuring and publishing mechanism of a DITA-like work&lt;t1/&gt;flow.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131237Z" creationid="lenovo" creationdate="20200813T024215Z">
-        <seg>XDITA的目标用户可能不是DITA专家，但可以从类似于DITA工作流的结构和发布机制中获益的人群。&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T124010Z" creationid="lenovo" creationdate="20200813T024215Z">
+        <seg>XDITA的目标用户可能不是DITA专家，但时他们也可以从类似于DITA工作流的结构和发布机制中获益。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
