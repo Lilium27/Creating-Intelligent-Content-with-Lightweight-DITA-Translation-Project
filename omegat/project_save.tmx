@@ -2628,8 +2628,8 @@
       <tuv lang="en">
         <seg>After all, XML-based DITA had been quite successful at IBM since the late 1990s and then became an internationally- adopted standard for structuring and publishing content in &lt;t2/&gt;2005.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131233Z" creationid="lenovo" creationdate="20200813T015559Z">
-        <seg>毕竟，自20世纪90年代末基于XML的DITA以来在IBM非常成功，并在2005年成为一种用于结构和发布内容的国际通用标准。&lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T123740Z" creationid="lenovo" creationdate="20200813T015559Z">
+        <seg>毕竟，自20世纪90年代末以来，基于XML的DITA在IBM非常成功，并在2005年成为一种用于结构化和发布内容的国际通用标准。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9517,8 +9517,8 @@
       <tuv lang="en">
         <seg>Lastly, I discuss the tools support available, and in progress, for authors who want to create and structure content with LwDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T015311Z" creationid="lenovo" creationdate="20200813T015311Z">
-        <seg>最后，我将为想用LwDITA创建和构造内容的作者探讨可用的和开发中的工具支持。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T123610Z" creationid="lenovo" creationdate="20200813T015311Z">
+        <seg>最后，我将探讨目前可用和仍在开发之中的工具和支持软件，为想用LwDITA创建和构造内容的创作者提供参考。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14942,8 +14942,8 @@
       <tuv lang="en">
         <seg>Then, I emphasize an important rule that affects some com&lt;t0/&gt;mon content components in XDITA and HDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131232Z" creationid="lenovo" creationdate="20200813T014333Z">
-        <seg>然后强调一个影响XDITA和HDITA中一些通用内容组件的重要规则。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T123349Z" creationid="lenovo" creationdate="20200813T014333Z">
+        <seg>然后强调了影响XDITA和HDITA中一些通用内容组件的重要规则。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
