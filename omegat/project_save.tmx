@@ -6523,8 +6523,8 @@
       <tuv lang="en">
         <seg>For introductory experiments like the marinara recipe from &lt;t0/&gt;Chapter &lt;t1/&gt;1&lt;t2/&gt;, &lt;t3/&gt;Notepad for Windows or TextEdit in macOS (be sure to select &lt;t4/&gt;Format&lt;t5/&gt;/&lt;t6/&gt;Make Plain Text &lt;t7/&gt;before saving your files) can work.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131259Z" creationid="lenovo" creationdate="20200814T141411Z">
-        <seg>对于介绍性试验，比如第一章中的意式番茄罗勒酱的食谱，Windows中的记事本或macOS中的TextEdit(确保在保存文件之前选择格式/纯文本格式 )都可以。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T143332Z" creationid="lenovo" creationdate="20200814T141411Z">
+        <seg>对于介绍性试验，比如编写第一章中的意式番茄罗勒酱的食谱，Windows中的记事本或macOS中的TextEdit(确保在保存文件之前选择格式或纯文本格式 )都可以使用。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7339,8 +7339,8 @@
       <tuv lang="en">
         <seg>I am not affiliated with Syncro Soft and my recommendation is based on Oxygen's relative affordability for academic audiences (compared with enterprise-level editors with similar capabilities) and their developers' genuine interest and attention for the development of LwDITA as an open standard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T141909Z" creationid="lenovo" creationdate="20200814T141909Z">
-        <seg>我并不隶属于Syncro-Soft，我推荐它是基于Oxygen对学术受众而言相对负担较轻（与具有类似功能的企业级编辑器相比），以及他们的开发人员是真心实意地对将LwDITA作为开放标准进行开发。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T143601Z" creationid="lenovo" creationdate="20200814T141909Z">
+        <seg>我不是Syncro-Soft的员工，我推荐它是因为，Oxygen对学术受众而言相对负担较轻（与具有类似功能的企业级编辑器相比），以及他们的开发人员是真心实意地将LwDITA作为开放标准进行开发。</seg>
       </tuv>
     </tu>
     <tu>
