@@ -8181,8 +8181,8 @@
       <tuv lang="en">
         <seg>In HDITA, the note component is expressed with an HTML division (&lt;t0/&gt;&lt;div&gt;&lt;t1/&gt;) environment with the custom data attribute of &lt;t2/&gt;@data-class=“note”&lt;t3/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T155945Z" creationid="lenovo" creationdate="20200819T140950Z">
-        <seg>在HDITA中，注释组件是用HTML中的块标签 (&lt;t0/&gt;&lt;div&gt;&lt;t1/&gt;) 表示的，定制数据属性是 &lt;t2/&gt;@data-class=“note”&lt;t3/&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T155947Z" creationid="lenovo" creationdate="20200819T140950Z">
+        <seg>在HDITA中，注释组件是用HTML中的块标签 (&lt;t0/&gt;&lt;div&gt;&lt;t1/&gt;) 表示的，自定义数据属性是 &lt;t2/&gt;@data-class=“note”&lt;t3/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13267,8 +13267,8 @@
       <tuv lang="en">
         <seg>The HTML5 division element (&lt;t0/&gt;&lt;div&gt;&lt;t1/&gt;) with the custom data attribute of &lt;t2/&gt;@data- class=&lt;t3/&gt;“&lt;t4/&gt;fn&lt;t5/&gt;” creates a section for the footnote content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T154918Z" creationid="lenovo" creationdate="20200818T031008Z">
-        <seg>带有定制数据属性&lt;t2/&gt;@data-class==&lt;t3/&gt;“&lt;t4/&gt;fn&lt;t5/&gt;”的HTML5 块元素(&lt;div&gt;)为脚注内容创建了一区块。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T155947Z" creationid="lenovo" creationdate="20200818T031008Z">
+        <seg>带有自定义数据属性&lt;t2/&gt;@data-class==&lt;t3/&gt;“&lt;t4/&gt;fn&lt;t5/&gt;”的HTML5 块元素(&lt;div&gt;)为脚注内容创建了一区块。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14422,8 +14422,8 @@
       <tuv lang="en">
         <seg>The note is created in HTML5&lt;t2/&gt; with a division element and custom data attributes to specify its class of “note” and an optional type.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T143911Z" creationid="lenovo" creationdate="20200819T143911Z">
-        <seg>注释是在HTML5中创建的，带有一个division元素和定制数据属性以指定其类“note”，还有一个可选类型。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T155947Z" creationid="lenovo" creationdate="20200819T143911Z">
+        <seg>注释是在HTML5中创建的，带有一个division元素和自定义数据属性以指定其类“note”，还有一个可选类型。</seg>
       </tuv>
     </tu>
     <tu>
