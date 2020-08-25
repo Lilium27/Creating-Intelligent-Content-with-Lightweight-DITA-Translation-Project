@@ -8861,8 +8861,8 @@
       <tuv lang="en">
         <seg>In the following chapter, I focus on the specific compo&lt;t4/&gt;nents of content collection used in LwDITA maps, and I provide a quick tutorial on processing LwDITA files using the DITA Open Toolkit and Oxygen XML.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200817T143149Z" creationid="lenovo" creationdate="20200817T143149Z">
-        <seg>在下一章中，我将重点介绍LwDITA映射中使用的内容集合的特定组件，并提供一个关于使用DITA Open Toolkit和Oxygen XML处理LwDITA文件的快速教程。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T153242Z" creationid="lenovo" creationdate="20200817T143149Z">
+        <seg>在下一章中，我将重点介绍LwDITA映射中使用的内容集合的特定组件，并提供一个使用DITA Open Toolkit和Oxygen XML处理LwDITA文件的快速教程。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14150,8 +14150,8 @@
       <tuv lang="en">
         <seg>The heart of a command-line interface is a &lt;t0/&gt;read-evaluate-print loop &lt;t1/&gt;(REPL) called so because when you type a command and press Return.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T151015Z" creationid="lenovo" creationdate="20200817T141617Z">
-        <seg>命令行界面的核心是&lt;t0/&gt;读取-计算-打印循环&lt;t1/&gt; (REPL)，之所以这么说是因为当你输入一行命令并按下回车键时，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T152758Z" creationid="lenovo" creationdate="20200817T141617Z">
+        <seg>命令行界面的核心是&lt;t0/&gt;读取-计算-打印循环&lt;t1/&gt; (REPL)，之所以这么说是因为，当你输入一行命令并按下回车键时，</seg>
       </tuv>
     </tu>
     <tu>
@@ -14926,8 +14926,8 @@
       <tuv lang="en">
         <seg>The shell reads it, executes (or “evaluates” it), prints the output, prints the prompt and waits for you to enter another command.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T132921Z" creationid="lenovo" creationdate="20200817T141913Z">
-        <seg>脚本读取命令、执行(或“计算”)、打印输出，打印提示符、然后等待你输入另一个命令。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T152818Z" creationid="lenovo" creationdate="20200817T141913Z">
+        <seg>脚本会读取命令、执行(或“计算”)、打印输出、打印提示符，然后等待你输入另一个命令。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16318,8 +16318,8 @@
       <tuv lang="en">
         <seg>Those same students tend to sigh collectively in relief when they find out that some LwDITA-aware tools like Oxygen XML Editor include a version of the &lt;t0/&gt;DITA-OT.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T151016Z" creationid="lenovo" creationdate="20200817T142240Z">
-        <seg>当这些学生发现一些支持LwDITA的工具(如Oxygen XML Editor)包含某个版本的DITA-OT时，他们往往会松一口气。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T152843Z" creationid="lenovo" creationdate="20200817T142240Z">
+        <seg>当学生发现一些支持LwDITA的工具(如Oxygen XML Editor)包含某个版本的DITA-OT时，他们往往会松一口气。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17706,8 +17706,8 @@
       <tuv lang="en">
         <seg>included some sample LwDITA topics and maps in &lt;t0/&gt;Chapter &lt;t1/&gt;1&lt;t2/&gt;, &lt;t3/&gt;and I also showed how those files would look when processed and transformed into PDF and HTML deliverables.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T151020Z" creationid="lenovo" creationdate="20200817T142639Z">
-        <seg>我在第一章中包含了一些LwDITA主题和映射的示例，还展示了这些文件在处理和转换为PDF和HTML交付物时的形态。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T152921Z" creationid="lenovo" creationdate="20200817T142639Z">
+        <seg>我在第一章中提供了一些LwDITA主题和映射的示例，还展示了这些文件在处理和转换为PDF和HTML交付物后的形态。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
