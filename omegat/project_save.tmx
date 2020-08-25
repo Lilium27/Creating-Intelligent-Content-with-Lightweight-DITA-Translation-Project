@@ -8021,8 +8021,8 @@
       <tuv lang="en">
         <seg>In &lt;t2/&gt;Figure &lt;t3/&gt;6.34&lt;t4/&gt;, &lt;t5/&gt;the list of franchise terms includes a cross-reference to a footnote providing information about the initial fee paid by franchise owners.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200818T030035Z" creationid="lenovo" creationdate="20200818T024929Z">
-        <seg>在 &lt;t2/&gt;图 &lt;t3/&gt;6.34&lt;t4/&gt;，特许条款清单包含了指向脚注的交叉参考，该脚注提供了特许经营所有人所支付的初始费用信息。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T154431Z" creationid="lenovo" creationdate="20200818T024929Z">
+        <seg>在 &lt;t2/&gt;图 &lt;t3/&gt;6.34&lt;t4/&gt;，特许经营权条款清单包含了指向脚注的交叉参考，该脚注提供了特许经营权所有人所支付的初始费用信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8893,8 +8893,8 @@
       <tuv lang="en">
         <seg>In the previous example, the cross&lt;t0/&gt;reference is calling a footnote with the &lt;t1/&gt;@id &lt;t2/&gt;value of “&lt;t3/&gt;initial-fee&lt;t4/&gt;” located in the topic with the &lt;t5/&gt;@id &lt;t6/&gt;value of “&lt;t7/&gt;franchise-terms&lt;t8/&gt;”.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200818T025755Z" creationid="lenovo" creationdate="20200818T025755Z">
-        <seg>在前面的示例中，交叉引用调用了一个脚注，其 @id值为“initial-fee”，其主题为@id值为“特许权条款”。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T154542Z" creationid="lenovo" creationdate="20200818T025755Z">
+        <seg>在前面的示例中，交叉引用调用了一个脚注，其&lt;t1/&gt;@id &lt;t2/&gt;值为“&lt;t3/&gt;initial-fee&lt;t4/&gt;”，其主题为&lt;t5/&gt;@id &lt;t6/&gt;值为“&lt;t7/&gt;franchise-terms&lt;t8/&gt;”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13579,8 +13579,8 @@
       <tuv lang="en">
         <seg>The actual footnote contains a paragraph with text.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200818T030112Z" creationid="lenovo" creationdate="20200818T030112Z">
-        <seg>实际的脚注包含一个带有正文的段落。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T154555Z" creationid="lenovo" creationdate="20200818T030112Z">
+        <seg>实际的脚注包含一个带有文本的段落。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13843,8 +13843,8 @@
       <tuv lang="en">
         <seg>The cross-reference component also enables the inclusion of footnotes (&lt;t0/&gt;&lt;fn&gt;&lt;t1/&gt;) in XDITA topics.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200818T024109Z" creationid="lenovo" creationdate="20200818T024109Z">
-        <seg>交叉引用组件还支持在XDITA主题中包含脚注(&lt;t0/&gt;&lt;fn&gt;&lt;t1/&gt;)。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T154335Z" creationid="lenovo" creationdate="20200818T024109Z">
+        <seg>交叉引用组件还支持在XDITA主题中使用脚注(&lt;t0/&gt;&lt;fn&gt;&lt;t1/&gt;)。</seg>
       </tuv>
     </tu>
     <tu>
