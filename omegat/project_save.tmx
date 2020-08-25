@@ -5185,8 +5185,8 @@
       <tuv lang="en">
         <seg>Even before we started using the term “authoring formats” (which came from Eliot Kimber &lt;t0/&gt;一 &lt;t1/&gt;the ultimate expert on XML for technical communica&lt;t2/&gt;tion and a vital member of the DITA Technical Committee), in the Lightweight DITA subcommittee the analogy of flavors drove the development of mappings to represent DITA components in diverse markup languages.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131208Z" creationid="lenovo" creationdate="20200812T044956Z">
-        <seg>在我们开始使用术语“创作格式”前（这一概念由艾略特·金伯 （Eliot Kimber）提出 &lt;t0/&gt;—— &lt;t1/&gt;&lt;t2/&gt;他是技术传播领域的XML专家同时还是DITA技术委员会的重要成员），在轻量级DITA的小组委员会上，冰淇淋口味的比喻推动了映射的发展，以多种标记语言表示DITA组件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T121610Z" creationid="lenovo" creationdate="20200812T044956Z">
+        <seg>在我们开始使用术语“写作格式”前（这一概念由艾略特·金伯 （Eliot Kimber）提出 &lt;t0/&gt;—— &lt;t1/&gt;&lt;t2/&gt;他是技术传播领域的XML专家，同时还是DITA技术委员会的重要成员），在轻量级DITA的小组委员会上，冰淇淋口味的比喻推动了地图映射的发展，以多种标记语言表示DITA组件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13718,8 +13718,8 @@
       <tuv lang="en">
         <seg>The ice cream flavors analogy indicates the variety of offerings from LwDITA for authors, who no longer have to depend on XML structures to create topics of information that can be transformed into intel&lt;t0/&gt;ligent content and multichannel deliverables for users.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131119Z" creationid="lenovo" creationdate="20200812T044854Z">
-        <seg>冰激凌口味的比喻说明了LwDITA为作者提供的各种产品，作者不再需要依赖XML结构来为用户创建可以转换为智能内容和多渠道可交付内容的信息主题。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T121521Z" creationid="lenovo" creationdate="20200812T044854Z">
+        <seg>冰激凌口味的比喻说明LwDITA为创作者提供了各种产品，创作者不再需要依赖XML结构来为用户创建可以转换为智能内容和多渠道可交付内容的信息主题。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14534,8 +14534,8 @@
       <tuv lang="en">
         <seg>The subcommit&lt;t3/&gt;tee evaluated the possibility of presenting several ways to represent the most useful DITA components for broader categories of authors.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131227Z" creationid="lenovo" creationdate="20200812T051125Z">
-        <seg>小组委员会评估了为更多种类作者提供几种代表最实用DITA组件方法的可能性。&lt;t3/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T122031Z" creationid="lenovo" creationdate="20200812T051125Z">
+        <seg>小组委员会评估了为更多类型的创作者提供不同的方法，来表示最实用的DITA组件的的可能性。&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
