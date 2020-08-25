@@ -585,8 +585,8 @@
       <tuv lang="en">
         <seg>&lt;t1/&gt;LwDITA details might change between the publication of this book and the actual release of the Lightweight DITA standard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150218Z" creationid="DSS" creationdate="20200817T053510Z">
-        <seg>本书的出版和轻量级 DITA 标准的实际发布之间有时间差异，所以本书中提到的一些细节可能会发生改变。&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T122629Z" creationid="DSS" creationdate="20200817T053510Z">
+        <seg>本书与实际发布的 LwDITA 标准在细节上存在差异。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9461,8 +9461,8 @@
       <tuv lang="en">
         <seg>Keep in mind that LwDITA is a work in progress and some elements in this chapter might change between the publication of this book and the actual release of the Lightweight DITA standard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T061053Z" creationid="DSS" creationdate="20200808T061053Z">
-        <seg>请记住，LwDITA 标准还在制定当中，本书的出版和轻量级 DITA 标准的实际发布之间有时间差异，所以本章中提到的一些元素可能会发生改变。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T122659Z" creationid="DSS" creationdate="20200808T061053Z">
+        <seg>请记住，LwDITA 标准还在制定当中，本书与实际发布的 LwDITA 标准在细节上存在差异。</seg>
       </tuv>
     </tu>
     <tu>
