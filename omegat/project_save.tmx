@@ -3828,8 +3828,8 @@
       <tuv lang="en">
         <seg>Because the MDITA components represent a subset of the GitHub Flavored Markdown (GFM) syntax&lt;t0/&gt;2&lt;t1/&gt;, not all moves that are valid in GFM or another Markdown flavor are allowed in MDITA extended profile (e.g., there's no &lt;t2/&gt;### &lt;t3/&gt;syntax to express a level-three heading in MDITA extended profile, although &lt;t4/&gt;it exists in most Markdown flavors).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131252Z" creationid="lenovo" creationdate="20200813T083447Z">
-        <seg>因为MDITA组件是GitHub风格的Markdown(GFM) syntax&lt;t0/&gt;2&lt;t1/&gt;的一个子集，并非所有在GFM或其他Markdown风格中有效的文步都能用于MDITA扩展配置文件（例如,MDITA扩展配置文件中没有 &lt;t2/&gt;### &lt;t3/&gt;&lt;t4/&gt;syntax 语法来表示第三级标题，尽管这一语法在大多数Markdown风格中都存在）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T130054Z" creationid="lenovo" creationdate="20200813T083447Z">
+        <seg>因为MDITA组件是GitHub风格的Markdown(GFM)语法&lt;t0/&gt;2&lt;t1/&gt;的子集，并非所有在GFM或其他Markdown风格语法中有效的文步都能用于MDITA扩展配置文件（例如，MDITA扩展配置文件中不能用 &lt;t2/&gt;### &lt;t3/&gt;&lt;t4/&gt;来表示三级标题，尽管这一语法在大多数Markdown风格语法中都存在）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8445,8 +8445,8 @@
       <tuv lang="en">
         <seg>In its extended profile, MDITA can incorporate YAML front matter headers and HDITA elements and attributes to overcome Markdown limitations as a language for authoring structured and reusable content&lt;t0/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131252Z" creationid="lenovo" creationdate="20200813T082726Z">
-        <seg>在其扩展的概要文件中，MDITA可以兼容YAML前端内容标题和HDITA元素和属性，以克服Markdown作为创作结构化和可复用内容的语言的限制。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T125913Z" creationid="lenovo" creationdate="20200813T082726Z">
+        <seg>在其扩展的概要文件中，MDITA可以兼容YAML文件头和HDITA元素和属性，以克服Markdown作为创作结构化和可复用内容的语言的限制。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10029,8 +10029,8 @@
       <tuv lang="en">
         <seg>MDITA is designed for users who want to write structured content with the minimum of overhead, but who also want to take advantage of the reuse mech&lt;t0/&gt;anisms associated with the DITA standard and the multi-channel publishing afforded by standard DITA tooling.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131253Z" creationid="lenovo" creationdate="20200813T085106Z">
-        <seg>MDITA的目标用户希望以最小的开销编写结构化内容，但同时也希望利用与DITA标准相关的复用机制以及标准DITA工具提供的多渠道发布。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T130148Z" creationid="lenovo" creationdate="20200813T085106Z">
+        <seg>MDITA的目标用户希望以最小的开销编写结构化内容，但同时也希望利用与DITA标准相关的复用机制，以及标准DITA工具提供的多渠道发布功能。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12570,8 +12570,8 @@
       <tuv lang="en">
         <seg>That means that including a Markdown component that is not allowed in MDITA extended profile, like the level-three heading I mentioned earlier, would produce a validation error in LwDITA- aware tools.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T083517Z" creationid="lenovo" creationdate="20200813T083517Z">
-        <seg>这意味着包含MDITA扩展配置文件中禁用的Markdown组件(如我前面提到的第三级标题)在支持 LwDITA的工具中将产生验证错误。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T130132Z" creationid="lenovo" creationdate="20200813T083517Z">
+        <seg>这意味着包含MDITA扩展配置文件中禁用的Markdown组件(如我前面提到的三级标题)，在支持 LwDITA的工具中将产生验证错误。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13323,8 +13323,8 @@
       <tuv lang="en">
         <seg>The assigned &lt;t16/&gt;@id &lt;t17/&gt;should be included in an optional YAML&lt;t18/&gt;1&lt;t19/&gt; &lt;t20/&gt;front matter header.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T134234Z">
-        <seg>主题的指定 &lt;t16/&gt;@id &lt;t17/&gt;应该包含在可选 YAML&lt;t18/&gt;1&lt;t19/&gt;前置块头部。&lt;t20/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T125859Z" creationid="DSS" creationdate="20200816T134234Z">
+        <seg>主题的指定 &lt;t16/&gt;@id &lt;t17/&gt;应该包含在可选 YAML&lt;t18/&gt;1&lt;t19/&gt;文件头当中。&lt;t20/&gt;</seg>
       </tuv>
     </tu>
     <tu>
