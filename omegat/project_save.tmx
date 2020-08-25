@@ -8005,8 +8005,8 @@
       <tuv lang="en">
         <seg>In &lt;t14/&gt;Figure&lt;t15/&gt; &lt;t16/&gt;6.35&lt;t17/&gt;, &lt;t18/&gt;the clickable text is a number &lt;t19/&gt;1 &lt;t20/&gt;with the superscript (&lt;sup&gt;) format.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200818T031232Z" creationid="lenovo" creationdate="20200818T031232Z">
-        <seg>在&lt;t14/&gt;图&lt;t15/&gt; &lt;t16/&gt;6.35&lt;t17/&gt;中, 可点击的文本是带有上标(&lt;sup&gt;)格式的数字&lt;t19/&gt;1 &lt;t20/&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T155050Z" creationid="lenovo" creationdate="20200818T031232Z">
+        <seg>在&lt;t14/&gt;图&lt;t15/&gt; &lt;t16/&gt;6.35&lt;t17/&gt;中,，可点击的文本是带有上标(&lt;sup&gt;)格式的数字&lt;t19/&gt;1 &lt;t20/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13851,8 +13851,8 @@
       <tuv lang="en">
         <seg>The cross-reference component links&lt;t2/&gt; to an internal section in the topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T135729Z" creationid="lenovo" creationdate="20200819T135729Z">
-        <seg>交叉引用组件链接到主题的内部部分。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T155140Z" creationid="lenovo" creationdate="20200819T135729Z">
+        <seg>交叉引用组件链接到主题的内部。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14278,8 +14278,8 @@
       <tuv lang="en">
         <seg>The link requires the &lt;t3/&gt;@id &lt;t4/&gt;of the topic (preceded by a &lt;t5/&gt;# &lt;t6/&gt;character) and the &lt;t7/&gt;@id &lt;t8/&gt;of the footnote element (preceded by a &lt;t9/&gt;/ &lt;t10/&gt;character).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T135902Z" creationid="lenovo" creationdate="20200819T135902Z">
-        <seg>该链接需要主题的 &lt;t3/&gt;@id &lt;t4/&gt;(前面加上&lt;t5/&gt;# &lt;t6/&gt;字符)和脚注元素的 &lt;t7/&gt;@id &lt;t8/&gt;(前面加上&lt;t9/&gt;/ &lt;t10/&gt;字符)。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T155247Z" creationid="lenovo" creationdate="20200819T135902Z">
+        <seg>该链接需要标记主题的 &lt;t3/&gt;@id &lt;t4/&gt;(前面加上&lt;t5/&gt;# &lt;t6/&gt;字符)和脚注元素的 &lt;t7/&gt;@id &lt;t8/&gt;(前面加上&lt;t9/&gt;/ &lt;t10/&gt;字符)。</seg>
       </tuv>
     </tu>
     <tu>
