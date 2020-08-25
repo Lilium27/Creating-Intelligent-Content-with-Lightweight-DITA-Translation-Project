@@ -6080,6 +6080,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;6.56 &lt;t1/&gt;Audio content environment in XDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T140704Z" creationid="lenovo" creationdate="20200825T140704Z">
+        <seg>图 &lt;t0/&gt;6.56 &lt;t1/&gt;XDITA环境下的音频内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FOREWORD</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T122921Z" creationid="DSS" creationdate="20200820T122921Z">
@@ -8087,6 +8095,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150835Z" creationid="DSS" creationdate="20200817T091857Z">
         <seg>在 HDITA（基于 HTML5 的 LwDITA 版本）中，那些专门化元素是“具有自定义属性的通用项目或节元素，使用了 DITA 类语法的简化形式。”表3.2重现了专门化结构元素，这些元素可以在 XDITA 和 HDITA 中表示概念（concept）、任务（task）和引用（reference）。&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In HDITA and MDITA extended profile, audio can include the following components:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T140642Z" creationid="lenovo" creationdate="20200825T140642Z">
+        <seg>在HDITA和MDITA扩展配置文件中，音频可以包括以下组件：</seg>
       </tuv>
     </tu>
     <tu>
