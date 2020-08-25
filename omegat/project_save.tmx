@@ -3610,6 +3610,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Audio in HDITA and MDITA</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T135736Z" creationid="lenovo" creationdate="20200825T135736Z">
+        <seg>HDITA和MDITA音频</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Audio in XDITA</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T135005Z" creationid="lenovo" creationdate="20200825T135005Z">
