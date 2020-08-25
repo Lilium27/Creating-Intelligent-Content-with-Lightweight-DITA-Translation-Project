@@ -8181,8 +8181,8 @@
       <tuv lang="en">
         <seg>In HDITA, the note component is expressed with an HTML division (&lt;t0/&gt;&lt;div&gt;&lt;t1/&gt;) environment with the custom data attribute of &lt;t2/&gt;@data-class=“note”&lt;t3/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T141305Z" creationid="lenovo" creationdate="20200819T140950Z">
-        <seg>在HDITA中，注释组件是用HTMLdivision (&lt;t0/&gt;&lt;div&gt;&lt;t1/&gt;) 环境表示的，定制数据属性是 &lt;t2/&gt;@data-class=“note”&lt;t3/&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T155945Z" creationid="lenovo" creationdate="20200819T140950Z">
+        <seg>在HDITA中，注释组件是用HTML中的块标签 (&lt;t0/&gt;&lt;div&gt;&lt;t1/&gt;) 表示的，定制数据属性是 &lt;t2/&gt;@data-class=“note”&lt;t3/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
