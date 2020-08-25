@@ -4814,6 +4814,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Deliverable-specific formatting should be&lt;t2/&gt; added when the topic is processed by a LwDITA-aware software tool.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T124103Z" creationid="lenovo" creationdate="20200825T124103Z">
+        <seg>使用支持LwDITA的软件工具处理主题时，应添加特定于交付的格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Deliverables created from the sample map in&lt;t0/&gt; Figure &lt;t1/&gt;1.13&lt;t2/&gt; &lt;t3/&gt;can include a print cookbook or an online recipe guide, based on the automation tools used by Chef Pedro and his team in a specific publishing scenario.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T083615Z" creationid="DSS" creationdate="20200817T083615Z">
@@ -5944,6 +5952,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;6.51 &lt;t1/&gt;Table inside an HDITA topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T123929Z" creationid="lenovo" creationdate="20200825T123929Z">
+        <seg>图 &lt;t0/&gt;6.51 &lt;t1/&gt;HDITA主题中的表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;6.52 &lt;t1/&gt;Table inside an MDITA topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T123915Z" creationid="lenovo" creationdate="20200825T123850Z">
+        <seg>图 &lt;t0/&gt;6.52 &lt;t1/&gt;MDITA主题中的表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FOREWORD</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T122921Z" creationid="DSS" creationdate="20200820T122921Z">
@@ -5988,6 +6012,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T150805Z" creationid="lenovo" creationdate="20200821T150805Z">
         <seg>图 6.50&lt;t0/&gt;显示了在Oxygen的&lt;t1/&gt;作者&lt;t2/&gt;模式下简单表环境的预览。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure 6.52&lt;t0/&gt; shows the topic with the “Fancy Roll” table in MDITA format.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T123545Z" creationid="lenovo" creationdate="20200825T123545Z">
+        <seg>图6.52显示了具有MDITA格式的“Fancy Roll”表的主题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6829,6 +6861,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T142910Z" creationid="DSS" creationdate="20200820T122155Z">
         <seg>下面的链接是索菲亚对“爸爸的书写了什么内容?”的回答：&lt;t2/&gt;https://youtu.be/MvPuw8XqOYs&lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlighting Components (Available in Both Topic and Map)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T123620Z" creationid="lenovo" creationdate="20200825T123620Z">
+        <seg>突出显示组件(在主题和映射中都可用)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7983,6 +8023,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130819Z" creationid="lenovo" creationdate="20200723T091333Z">
         <seg>在约翰·卡罗尔看来，如今的开发者和用户并未因为手册的消失而真正丧失改进系统的渴望。&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In LwDITA, authors have the following components to highlight sections of a text:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T123652Z" creationid="lenovo" creationdate="20200825T123652Z">
+        <seg>在LwDITA中，作者使用以下组件突出显示文本部分:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12079,6 +12127,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Superscript Underline.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T123806Z" creationid="lenovo" creationdate="20200825T123806Z">
+        <seg>上标 下划线。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Superscript&lt;t0/&gt;, which is a letter, number, or figure that is printed above than the line.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T134213Z" creationid="DSS" creationdate="20200804T134154Z">
@@ -12195,6 +12251,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T143123Z" creationid="lenovo" creationdate="20200821T143123Z">
         <seg>表组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Table entries inside a row should be separated by pipes (&lt;t0/&gt;| &lt;t1/&gt;), and the delimiter should contain hyphens (&lt;t2/&gt;-&lt;t3/&gt;), “and optionally, a leading or trailing colon (:), or both, to indicate left, right, or center alignment respectively” (GitHub Flavored Markdown Spec, 2017).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T123238Z" creationid="lenovo" creationdate="20200825T123238Z">
+        <seg>行内的表项应该用管道(|)分隔，分隔符应该包含连字符(-)、“要么是前导冒号或尾冒号(:)，或两者都包含，分别表示左对齐、右对齐或居中对齐”。(GitHub Flavored Markdown Spec, 2017).</seg>
       </tuv>
     </tu>
     <tu>
@@ -13029,6 +13093,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T034353Z" creationid="DSS" creationdate="20200808T034353Z">
         <seg>MDITA 格式的地图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The MDITA table component is based on the tabular extension included in GitHub Flavored Markdown.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T122548Z" creationid="lenovo" creationdate="20200825T122548Z">
+        <seg>MDITA表组件基于GitHub风味的Markdown中包含的表格扩展。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14592,6 +14664,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131051Z" creationid="DSS" creationdate="20200731T084840Z">
         <seg>该系统可用于制作自学书籍，也可用于规范计算机辅助教学的数据库。&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The table should contain a header row, a delimiter row, and zero or more rows with entries.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T122719Z" creationid="lenovo" creationdate="20200825T122719Z">
+        <seg>该表应包含一个标题行、一个分隔符行以及零或多行带有条目的行。</seg>
       </tuv>
     </tu>
     <tu>
