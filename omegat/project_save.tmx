@@ -1617,6 +1617,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t5/&gt;9).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T124856Z" creationid="DSS" creationdate="20200825T124856Z">
+        <seg>&lt;t5/&gt;9)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t5/&gt;Academic discussion related to the implementation and innovation of intelligent content has been slow, as evidenced by the titles and abstracts of presentations and publications from &lt;t6/&gt;2012 &lt;t7/&gt;to &lt;t8/&gt;2018 &lt;t9/&gt;in relevant conferences and journals, respectively.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T160028Z" creationid="DSS" creationdate="20200726T140629Z">
@@ -3812,8 +3820,8 @@
       <tuv lang="en">
         <seg>Because the HDITA content components represent a subset of all the avail&lt;t0/&gt;able elements in the HTML5 standard&lt;t1/&gt;1&lt;t2/&gt;, not all tags that are valid HTML5 are allowed in HDITA (e.g., there's no &lt;t3/&gt;&lt;h3&gt; &lt;t4/&gt;element to express a level-three head&lt;t5/&gt;ing in HDITA, although it exists in the HTML5 standard).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131241Z" creationid="lenovo" creationdate="20200813T080628Z">
-        <seg>因为HDITA内容组件是HTML5标准1中所有可用元素的子集，并不是所有在HTML5中有效的标签都能在HDITA中使用（例如，在HDITA中没有元素来表示三级标题，尽管它在HTML5标准中存在）&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;h3&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T125032Z" creationid="lenovo" creationdate="20200813T080628Z">
+        <seg>因为HDITA内容组件是HTML5标准&lt;t1/&gt;1&lt;t2/&gt;中所有可用元素的子集，并不是所有HTML5的有效标签都能在HDITA中使用（例如，在HDITA中没有元素来表示三级标题，尽管在HTML5标准中可以表示）</seg>
       </tuv>
     </tu>
     <tu>
@@ -8605,8 +8613,8 @@
       <tuv lang="en">
         <seg>In the committee note &lt;t0/&gt;Lightweight DITA: An Introduction&lt;t1/&gt; we point out that the “XDITA and HDITA content models are designed to be functionally equiv&lt;t2/&gt;alent to each other” (Evia et al., &lt;t3/&gt;2018, &lt;t4/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131240Z" creationid="lenovo" creationdate="20200813T075621Z">
-        <seg>在委员会资料《轻量级DITA:简介》中，我们指出“XDITA和HDITA内容模型在功能上是对等的” (Evia et al., 2018, p.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T124841Z" creationid="lenovo" creationdate="20200813T075621Z">
+        <seg>在委员会资料《轻量级 DITA 简介》中，我们指出“XDITA和HDITA内容模型在功能上是对等的” (Evia et al., 2018, p.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17314,8 +17322,8 @@
       <tuv lang="en">
         <seg>practices to work relevant to their identity as content creators.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T114642Z" creationid="DSS" creationdate="20200811T114642Z">
-        <seg>作为内容创作者时在工作中应用计算机实践。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T124725Z" creationid="DSS" creationdate="20200811T114642Z">
+        <seg>创作内容时才应用计算机实践。 </seg>
       </tuv>
     </tu>
     <tu>
