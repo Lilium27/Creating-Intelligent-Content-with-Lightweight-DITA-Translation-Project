@@ -3714,6 +3714,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Autoplay (&lt;t0/&gt;&lt;media-autoplay&gt;&lt;t1/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T135211Z" creationid="lenovo" creationdate="20200825T135211Z">
+        <seg>自动播放 (&lt;t0/&gt;&lt;media-autoplay&gt;&lt;t1/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Autoplay&lt;t0/&gt;: determines if a multimedia component should play automati&lt;t1/&gt;cally on a deliverable.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131118Z" creationid="DSS" creationdate="20200804T155004Z">
@@ -4573,6 +4581,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Controls (&lt;t0/&gt;&lt;media-controls&gt;&lt;t1/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T135204Z" creationid="lenovo" creationdate="20200825T135204Z">
+        <seg>开关 (&lt;t0/&gt;&lt;media-controls&gt;&lt;t1/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Controls&lt;t0/&gt;: enables user interfaces for video playback and volume in web- aimed transformations.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T155112Z" creationid="DSS" creationdate="20200804T155009Z">
@@ -4906,6 +4922,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T063241Z" creationid="lenovo" creationdate="20200811T150634Z">
         <seg>德里克•罗斯（Derek Ross）警示读者，在亚里士多德启发式话语中，有关主题的术语看似简单实则不然：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Description (&lt;t0/&gt;&lt;desc&gt;&lt;t1/&gt;; previously mentioned in the figure environment)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T135153Z" creationid="lenovo" creationdate="20200825T135153Z">
+        <seg>描述 (&lt;t0/&gt;&lt;desc&gt;&lt;t1/&gt;; 图形环境中已提过)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6100,6 +6124,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T123545Z" creationid="lenovo" creationdate="20200825T123545Z">
         <seg>图6.52显示了具有MDITA格式的“Fancy Roll”表的主题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure 6.56&lt;t0/&gt; shows an XDITA topic with an audio element that features the &lt;t1/&gt;Sensei Sushi&lt;t2/&gt; jingle.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T135431Z" creationid="lenovo" creationdate="20200825T135431Z">
+        <seg>图 6.56&lt;t0/&gt; 显示了一个带有音频元素的XDITA主题，该元素有唤醒寿司叮当声。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9907,6 +9939,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Loop ( &lt;t0/&gt;&lt;media-loop&gt;&lt;t1/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T135217Z" creationid="lenovo" creationdate="20200825T135217Z">
+        <seg>循环 ( &lt;t0/&gt;&lt;media-loop&gt;&lt;t1/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Loop&lt;t0/&gt;: determines if a multimedia component should play constantly.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T155108Z" creationid="DSS" creationdate="20200804T155014Z">
@@ -10439,6 +10479,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T121204Z" creationid="DSS" creationdate="20200811T121052Z">
         <seg>例如，穆萨乌斯等人称，计算机思维“作为医学课程的一部分，可以帮助新手（医学生和正在接受培训的医生）分析和设计复杂的医疗机构，而这些机构越来越依赖计算机技术。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Muted (&lt;t0/&gt;&lt;media-muted&gt;&lt;t1/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T135225Z" creationid="lenovo" creationdate="20200825T135225Z">
+        <seg>静音 (&lt;t0/&gt;&lt;media-muted&gt;&lt;t1/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12155,6 +12203,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200804T160413Z">
         <seg>有时，一个基本主题加上一个标题和几个段落就是撰写内容所需要的全部组件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source (&lt;t0/&gt;&lt;media-source&gt;&lt;t1/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T135234Z" creationid="lenovo" creationdate="20200825T135234Z">
+        <seg>来源 (&lt;t0/&gt;&lt;media-source&gt;&lt;t1/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16402,6 +16458,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T070650Z" creationid="lenovo" creationdate="20200812T015329Z">
         <seg>因此，主题可以通过构思得来，或是像鸽笼一样定位已有的想法，或是像构建论点时调用的思维模式或分析方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Track (&lt;t0/&gt;&lt;media-track&gt;&lt;t1/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T135241Z" creationid="lenovo" creationdate="20200825T135241Z">
+        <seg>音轨 (&lt;t0/&gt;&lt;media-track&gt;&lt;t1/&gt;).</seg>
       </tuv>
     </tu>
     <tu>
