@@ -9995,6 +9995,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MDITA takes advantage of the table&lt;t2/&gt; extension in GitHub Flavored Markdown to represent tabular content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T124342Z" creationid="lenovo" creationdate="20200825T124342Z">
+        <seg>MDITA利用GitHub风味的Markdown中的表扩展来表示表格内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MDITA was also considered a requirement.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T094657Z" creationid="DSS" creationdate="20200803T094657Z">
