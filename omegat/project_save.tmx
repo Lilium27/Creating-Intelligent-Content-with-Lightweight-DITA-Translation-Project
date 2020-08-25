@@ -6611,8 +6611,8 @@
       <tuv lang="en">
         <seg>For years, some technical communicators in academia and industry have seen DITA as a tool, and some perceive it as an alternative to software applications like Microsoft Word or Adobe FrameMaker.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T140747Z" creationid="lenovo" creationdate="20200814T140747Z">
-        <seg>多年来，学术界和业界的一些技术传播工程师已将DITA视为一种工具，有些人还将其视为Microsoft Word或Adobe FrameMaker等软件应用程序的替代品。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T142929Z" creationid="lenovo" creationdate="20200814T140747Z">
+        <seg>多年来，学术界和产业界的一些技术传播工程师已将DITA视为一种工具，有些人还将其视为Microsoft Word或Adobe FrameMaker等软件应用程序的替代品。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7099,8 +7099,8 @@
       <tuv lang="en">
         <seg>However, authors need to use software tools to create and process LwDITA content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T141140Z" creationid="lenovo" creationdate="20200814T141140Z">
-        <seg>但是，作者需要使用软件工具来创建和处理LwDITA内容。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T143144Z" creationid="lenovo" creationdate="20200814T141140Z">
+        <seg>但是，创作者需要使用软件工具来创建和处理LwDITA内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8733,8 +8733,8 @@
       <tuv lang="en">
         <seg>In reality, DITA is a tool as much as HTML is a tool: as open standards, they can have tools built based on them, but the standards are not the tools.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T140915Z" creationid="lenovo" creationdate="20200814T140915Z">
-        <seg>实际上，DITA和HTML一样是一种工具：作为开放标准，它们可以有基于这些标准构建的工具，但这些标准并非工具。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T143118Z" creationid="lenovo" creationdate="20200814T140915Z">
+        <seg>实际上，DITA和HTML一样是一种工具：作为开放标准，它们可以有基于自身构建的工具，但标准并非工具。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9341,8 +9341,8 @@
       <tuv lang="en">
         <seg>Is there a LwDITA App?</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T142830Z" creationid="lenovo" creationdate="20200814T140619Z">
-        <seg>有支持LwDITA的应用程序吗?</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T142940Z" creationid="lenovo" creationdate="20200814T140619Z">
+        <seg>有LwDITA应用程序吗?</seg>
       </tuv>
     </tu>
     <tu>
@@ -10237,8 +10237,8 @@
       <tuv lang="en">
         <seg>LwDITA, likewise, is not a piece of soft&lt;t0/&gt;ware and does not come with an official “app,” and &lt;t1/&gt;Creating Intelligent Content with Lightweight DITA&lt;t2/&gt; does not require a specific software platform.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131258Z" creationid="lenovo" creationdate="20200814T141111Z">
-        <seg>LwDITA也同样不是一款软件，也没有官方的“应用程序”，《使用轻量级DITA创建智能内容》没有指定特定的软件平台。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T143130Z" creationid="lenovo" creationdate="20200814T141111Z">
+        <seg>LwDITA也同样不是一款软件，也没有官方的“应用程序”，本书没有指定特定的软件平台。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10509,8 +10509,8 @@
       <tuv lang="en">
         <seg>More than once, I have received feedback, on the initial minutes of training after introducing this rule, saying that this rule is “slightly annoying,” but authors can see its benefits once they reuse the paragraph with the identifier of “first” in any other place where paragraphs are allowed, and not just where list items are allowed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T142811Z" creationid="lenovo" creationdate="20200814T131246Z">
-        <seg>在培训中，介绍完这条规则后最初的几分钟里， 我不止一次收到反馈说这个规则是“有点烦人”，但是，一旦创作者在其他可以使用段落而不仅仅只是可以使用列表项的位置，复用带有“第一”标识符的段落时，他们就能发现这条规则的好处。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T142914Z" creationid="lenovo" creationdate="20200814T131246Z">
+        <seg>在培训中，介绍完这条规则后最初的几分钟里， 我不止一次收到反馈说这个规则“有点烦人”，但是，一旦创作者在其他可以使用段落而不仅仅只可以使用列表项的位置，复用带有“第一”标识符的段落时，他们就能发现这条规则的好处。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17442,8 +17442,8 @@
       <tuv lang="en">
         <seg>You can create LwDITA content in any text editor, but probably should avoid using a word processor or a desktop publishing solution (because those embed behind-the-scenes code for format and layout that an author cannot control).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T132921Z" creationid="lenovo" creationdate="20200814T141206Z">
-        <seg>你可以在任何文本编辑器中创建LwDITA内容，但是可能应该避免使用文字处理程序或桌面发布解决方案(因为那些用于格式和布局的嵌入后台代码是作者无法控制的)。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T143250Z" creationid="lenovo" creationdate="20200814T141206Z">
+        <seg>你可以在任何文本编辑器中创建LwDITA内容，但是可能应该避免使用文字处理程序或桌面发布解决方案(因为那些用于格式和布局的后台嵌入代码是创作者无法控制的)。</seg>
       </tuv>
     </tu>
     <tu>
