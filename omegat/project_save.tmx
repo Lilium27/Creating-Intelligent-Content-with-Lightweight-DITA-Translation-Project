@@ -2844,8 +2844,8 @@
       <tuv lang="en">
         <seg>Although the DITA-OT is closely associated with the DITA specification, it is not a standard approved by the OASIS DITA Technical Committee and therefore should be considered as only one option for transforming DITA content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T144916Z" creationid="lenovo" creationdate="20200814T144916Z">
-        <seg>尽管DITA-OT与DITA规范密切相关，但它不是OASIS DITA技术委员会批准的标准，因此只应将其视为转换DITA内容的选项之一。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T144318Z" creationid="lenovo" creationdate="20200814T144916Z">
+        <seg>尽管DITA-OT与DITA规范密切相关，但它不是OASIS DITA技术委员会批准的官方工具，因此只应将其视为转换DITA内容的选择之一。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13123,8 +13123,8 @@
       <tuv lang="en">
         <seg>The DITA DTDs (Document Type Definitions) and schemas mentioned in Hackos's description are files that validate (i.e., verify that a topic conforms with the DITA syntax rules) content created according to the DITA standard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T152824Z" creationid="lenovo" creationdate="20200814T152824Z">
-        <seg>在Hackos的描述中提到的DITA DTDs（文档类型定义）和模式是验证（验证）的文件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T152347Z" creationid="lenovo" creationdate="20200814T152824Z">
+        <seg>Hackos的描述中提到的DITA DTDs（文档类型定义）和模式是用以验证（如验证主题是否符合DITA语法规则）依照DITA标准编写的内容的文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13499,8 +13499,8 @@
       <tuv lang="en">
         <seg>The Toolkit transforms DITA XML source content into deliverable formats such as PDF, HTML, and help systems.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T144431Z" creationid="lenovo" creationdate="20200814T144431Z">
-        <seg>Toolkit将DITA XML源内容转换为可交付的格式，如PDF、HTML和帮助系统。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T144215Z" creationid="lenovo" creationdate="20200814T144431Z">
+        <seg>Toolkit将DITA XML源内容转换为可交付的格式，如PDF、HTML和帮助系统文件。</seg>
       </tuv>
     </tu>
     <tu>
