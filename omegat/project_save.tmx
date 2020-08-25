@@ -2340,8 +2340,8 @@
       <tuv lang="en">
         <seg>A simplified ver&lt;t4/&gt;sion of DITA XML (XDITA) was the original LwDITA flavor and, for a few months after Priestley proposed this new standard, the only one.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131228Z" creationid="lenovo" creationdate="20200812T051440Z">
-        <seg>DITA XML (XDITA)的简化版本是最初的LwDITA风格，在普里斯特利提出这个新标准后的几个月里，它是唯一的标准。&lt;t4/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T122130Z" creationid="lenovo" creationdate="20200812T051440Z">
+        <seg>DITA XML (XDITA)的简化版本是最初是LwDITA的风格，在普里斯特利提出这个新标准后的几个月里，它是唯一的标准。&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3900,8 +3900,8 @@
       <tuv lang="en">
         <seg>Before getting into the specific tools and rules for creating content, the next section addresses an important authoring difference between DITA XML and some of the LwDITA authoring formats.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T132111Z" creationid="lenovo" creationdate="20200813T132111Z">
-        <seg>在讨论创建内容的特定工具和规则之前，下一节将讨论DITA XML和一些LwDITA创作格式之间的一个重要创作差异。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T122329Z" creationid="lenovo" creationdate="20200813T132111Z">
+        <seg>在讨论创建内容的特定工具和规则之前，下一节将讨论DITA XML和一些LwDITA写作格式之间的一个重要创作差异。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4196,8 +4196,8 @@
       <tuv lang="en">
         <seg>Chapter 4 identifies additional user types for the three ini- tial authoring formats of LwDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T145209Z" creationid="DSS" creationdate="20200730T092108Z">
-        <seg>第四章介绍了 LwDITA 的三种初始创作格式的其他用户类型。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T122329Z" creationid="DSS" creationdate="20200730T092108Z">
+        <seg>第四章介绍了 LwDITA 的三种初始写作格式的其他用户类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6659,8 +6659,8 @@
       <tuv lang="en">
         <seg>HDITA is the authoring format of LwDITA that uses HTML5 to structure information.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T030230Z" creationid="lenovo" creationdate="20200813T030230Z">
-        <seg>HDITA是LwDITA的一种创作格式，它利用HTML5来构造信息。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T122329Z" creationid="lenovo" creationdate="20200813T030230Z">
+        <seg>HDITA是LwDITA的一种写作格式，它利用HTML5来构造信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7275,8 +7275,8 @@
       <tuv lang="en">
         <seg>I provide background information and identify the intended audiences for the three initial authoring formats of the LwDITA proposed standard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T014310Z" creationid="lenovo" creationdate="20200813T014310Z">
-        <seg>我提供了LwDITA拟议标准的三种原始创作格式的背景信息并界定了目标受众。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T122329Z" creationid="lenovo" creationdate="20200813T014310Z">
+        <seg>我提供了LwDITA拟议标准的三种原始写作格式的背景信息并界定了目标受众。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7323,8 +7323,8 @@
       <tuv lang="en">
         <seg>I told him that I would develop some sample topics in HDITA and, a term we created at that moment, “MarkDITA” &lt;t4/&gt;一 &lt;t5/&gt;a Markdown-based authoring format of LwDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200802T130335Z">
-        <seg>我告诉普里斯特利，我将开发一些 HDITA 和MarkDITA 主题示例。在我跟普里斯特利说话的那一刻，我们想到了“MarkDITA”这个名字，MarkDITA 是基于 Markdown 的 LwDITA 创作格式。&lt;t4/&gt;&lt;t5/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T122329Z" creationid="DSS" creationdate="20200802T130335Z">
+        <seg>我告诉普里斯特利，我将开发一些 HDITA 和MarkDITA 主题示例。在我跟普里斯特利说话的那一刻，我们想到了“MarkDITA”这个名字，MarkDITA 是基于 Markdown 的 LwDITA 写作格式。&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8805,8 +8805,8 @@
       <tuv lang="en">
         <seg>In&lt;t0/&gt; Chapter &lt;t1/&gt;1&lt;t2/&gt; &lt;t3/&gt;I briefly introduced MDITA, the LwDITA authoring format based on Markdown, and its two content-development profiles &lt;t4/&gt;一 &lt;t5/&gt;core and extended.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131251Z" creationid="lenovo" creationdate="20200813T082321Z">
-        <seg>在第一章中，我简要介绍了MDITA，一种基于Markdown的LwDITA创作格式，以及它的两个内容开发概要——核心和扩展。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T122329Z" creationid="lenovo" creationdate="20200813T082321Z">
+        <seg>在第一章中，我简要介绍了MDITA，一种基于Markdown的LwDITA写作格式，以及它的两个内容开发概要——核心和扩展。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9277,8 +9277,8 @@
       <tuv lang="en">
         <seg>It was not until Priestley's blog post of April &lt;t2/&gt;2014 &lt;t3/&gt;that Lightweight DITA became an umbrella term for different authoring formats &lt;t4/&gt;一 &lt;t5/&gt;initially XML and HTML5, and then Markdown.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131236Z" creationid="lenovo" creationdate="20200813T020405Z">
-        <seg>直到 &lt;t2/&gt;2014年 &lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;4月普里斯特利发表了一篇博客文章，轻量级DITA才成为不同创作格式的统称——最初是XML和HTML5，后来是Markdown。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T122329Z" creationid="lenovo" creationdate="20200813T020405Z">
+        <seg>直到 &lt;t2/&gt;2014年 &lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;4月普里斯特利发表了一篇博客文章，轻量级DITA才成为不同写作格式的统称——最初是XML和HTML5，后来是Markdown。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9525,8 +9525,8 @@
       <tuv lang="en">
         <seg>Lastly, the chapter focuses on strategies for adopting a DITA workflow in three simplified authoring formats, which are connected to principles of computational thinking and emphasize the importance of human abstraction before machine automation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T160802Z" creationid="DSS" creationdate="20200726T153031Z">
-        <seg>最后，本章重点讨论了利用三种简化创作格式制定 DITA 工作流的策略，这些策略与计算机思维原则有关，强调了在机器实现自动化之前人类抽象思维的重要性。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T122329Z" creationid="DSS" creationdate="20200726T153031Z">
+        <seg>最后，本章重点讨论了利用三种简化写作格式制定 DITA 工作流的策略，这些策略与计算机思维原则有关，强调了在机器实现自动化之前人类抽象思维的重要性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9773,8 +9773,8 @@
       <tuv lang="en">
         <seg>LwDITA also makes DITA publishing workflows more inclusive and accessible, as it accommodates non-XML author&lt;t1/&gt;ing formats to address the needs of authors outside of the traditional technical documentation audience of DITA 1.0.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T080626Z" creationid="lenovo" creationdate="20200812T044424Z">
-        <seg>LwDITA还使DITA发布工作流更具包容性和可访问性，因为它适应了非XML创作格式，以满足除了基于DITA 1.0编写传统技术文档的受众之外的写作者的需求。&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T122329Z" creationid="lenovo" creationdate="20200812T044424Z">
+        <seg>LwDITA还使DITA发布工作流更具包容性和可访问性，因为它适应了非XML写作格式，以满足除了基于DITA 1.0编写传统技术文档的受众之外的写作者的需求。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10591,8 +10591,8 @@
       <tuv lang="en">
         <seg>Once you have created content units in any LwDITA authoring format, you will need a software processor to transform those LwDITA topics into deliv&lt;t0/&gt;erables for human users.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131300Z" creationid="lenovo" creationdate="20200814T142521Z">
-        <seg>在以任何LwDITA创作格式创建了内容单元后，你将需要软件处理器来将这些LwDITA主题转换为供人类用户使用的可交付内容。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T122329Z" creationid="lenovo" creationdate="20200814T142521Z">
+        <seg>在以任何LwDITA写作格式创建了内容单元后，你将需要软件处理器来将这些LwDITA主题转换为供人类用户使用的可交付内容。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11793,8 +11793,8 @@
       <tuv lang="en">
         <seg>Some current DITA users may find XDITA to be appropriate, but the XDITA authoring format of LwDITA is primarily aimed at content creators who either do not know about DITA or perceive the standard as too robust for their information needs.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T024619Z" creationid="lenovo" creationdate="20200813T024619Z">
-        <seg>一些DITA用户可能认为XDITA十分合适，但是LwDITA的XDITA创作格式主要针对的是那些不了解DITA或认为该标准对于他们的信息需求过于健壮的内容创建者。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T122329Z" creationid="lenovo" creationdate="20200813T024619Z">
+        <seg>一些DITA用户可能认为XDITA十分合适，但是LwDITA的XDITA写作格式主要针对的是那些不了解DITA或认为该标准对于他们的信息需求过于健壮的内容创建者。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13484,8 +13484,8 @@
       <tuv lang="en">
         <seg>The evolution of DITA in a path that incorporates feedback from users, practices in writing instruction and communication that represent the bulk of this book will stay the same even if the LwDITA authoring formats look slightly different when the standard is finally approved.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T151007Z" creationid="DSS" creationdate="20200818T151007Z">
-        <seg>即使本书介绍的 LwDITA 的创作格式和最终标准通过时的可能看起来略有不同，但DITA的演化路径是不会变的，吸纳来自用户的反馈，编写指南和进行技术传播实践的经验，而这些正是本书的主要内容。
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T122329Z" creationid="DSS" creationdate="20200818T151007Z">
+        <seg>即使本书介绍的 LwDITA 的写作格式和最终标准通过时的可能看起来略有不同，但DITA的演化路径是不会变的，吸纳来自用户的反馈，编写指南和进行技术传播实践的经验，而这些正是本书的主要内容。
 </seg>
       </tuv>
     </tu>
@@ -14550,8 +14550,8 @@
       <tuv lang="en">
         <seg>The subcommittee maintains a wiki page with a growing list of LwDITA-aware tools (i.e., tools that can validate and enforce the syntax guidelines and rules presented in this book and/or include templates for creating content in the LwDITA authoring formats)&lt;t4/&gt;4&lt;t5/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T142401Z" creationid="lenovo" creationdate="20200814T142401Z">
-        <seg>小组委员会维护一个包含支持LwDITA的工具的维基页面，这个列表还在不断增长(例如，能够验证和执行本书中介绍的语法指导方针和规则的工具，以及/或包含用于创建LwDITA创作格式内容的模板。)&lt;t4/&gt;4&lt;t5/&gt;.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T122329Z" creationid="lenovo" creationdate="20200814T142401Z">
+        <seg>小组委员会维护一个包含支持LwDITA的工具的维基页面，这个列表还在不断增长(例如，能够验证和执行本书中介绍的语法指导方针和规则的工具，以及/或包含用于创建LwDITA写作格式内容的模板。)&lt;t4/&gt;4&lt;t5/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14630,8 +14630,8 @@
       <tuv lang="en">
         <seg>The three author&lt;t0/&gt;ing formats, or flavors, included in the initial release of LwDITA are not definitive and could expand to include additional lightweight markup languages based on audience feedback and interest from current or future members of the subcommit&lt;t1/&gt;tee.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131229Z" creationid="lenovo" creationdate="20200812T051838Z">
-        <seg>LwDITA最初版本中包含的三种创作格式(或风格)并不是最终定版，它可以根据用户反馈和小组委员会当前或未来成员的兴趣扩展到包括其他轻量级标记语言。&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T122407Z" creationid="lenovo" creationdate="20200812T051838Z">
+        <seg>LwDITA最初版本中包含的三种写作格式(或风格)并不是最终版本，可以根据用户反馈和小组委员会当前或未来成员的兴趣扩展到包括其他轻量级标记语言。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15254,8 +15254,8 @@
       <tuv lang="en">
         <seg>These users can be casual content contributors (e.g., a subject matter expert who authors short topics that a technical author will later integrate into a larger DITA collection) or authors who are not working with DITA XML (e.g., marketing professionals creating intelligent content for multi&lt;t5/&gt;channel publishing, or even technical writers who prefer to write in HTML or Markdown).&lt;t6/&gt; Chapter &lt;t7/&gt;4&lt;t8/&gt; &lt;t9/&gt;identifies additional user types for the three ini&lt;t10/&gt;tial authoring formats of LwDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T071923Z" creationid="DSS" creationdate="20200730T095547Z">
-        <seg>这些用户可能是非职业的内容贡献者（比如，编写简短主题的主题专家，这些主题将由技术文档工程师整合成一个更大的 DITA 集合）或作者不使用 DITA XML（例如，创建可以多渠道发布的智能内容的营销专业人士，甚至是喜欢用 HTML 或 Markdown 的技术写作人员）。&lt;t5/&gt;&lt;t6/&gt;第&lt;t7/&gt;4&lt;t8/&gt; &lt;t9/&gt;&lt;t10/&gt;章介绍了LwDITA的三种初始创作格式的其他用户类型。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T122329Z" creationid="DSS" creationdate="20200730T095547Z">
+        <seg>这些用户可能是非职业的内容贡献者（比如，编写简短主题的主题专家，这些主题将由技术文档工程师整合成一个更大的 DITA 集合）或作者不使用 DITA XML（例如，创建可以多渠道发布的智能内容的营销专业人士，甚至是喜欢用 HTML 或 Markdown 的技术写作人员）。&lt;t5/&gt;&lt;t6/&gt;第&lt;t7/&gt;4&lt;t8/&gt; &lt;t9/&gt;&lt;t10/&gt;章介绍了LwDITA的三种初始写作格式的其他用户类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15838,8 +15838,8 @@
       <tuv lang="en">
         <seg>Thus, if in DITA &lt;t0/&gt;1.3 &lt;t1/&gt;and HTML5 an author had to decide if their components should include character data, child elements, or a combination of those, in some of the LwDITA authoring formats there is only one valid way t create certain elements.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131255Z" creationid="lenovo" creationdate="20200813T135612Z">
-        <seg>因此，如果在DITA 1.3和HTML5中，作者必须决定他们的组件是否应该包括字符数据、子元素或这些元素的组合，那么在一些LwDITA创作格式中，创建元素只有唯一的有效方法。&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T122329Z" creationid="lenovo" creationdate="20200813T135612Z">
+        <seg>因此，如果在DITA 1.3和HTML5中，作者必须决定他们的组件是否应该包括字符数据、子元素或这些元素的组合，那么在一些LwDITA写作格式中，创建元素只有唯一的有效方法。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16289,8 +16289,8 @@
       <tuv lang="en">
         <seg>We scheduled a phone call on April &lt;t2/&gt;30, 2014 &lt;t3/&gt;that started our ongoing collaboration, but that also intro&lt;t4/&gt;duced a third authoring format for the proposed LwDITA standard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131107Z" creationid="DSS" creationdate="20200802T120309Z">
-        <seg>我们计划在&lt;t2/&gt;2014年4月30&lt;t3/&gt;&lt;t4/&gt;日进行一次电话会议，以启动接下来的合作，这次通话这也为提议的 LwDITA 标准引入了第三种创作格式。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T122329Z" creationid="DSS" creationdate="20200802T120309Z">
+        <seg>我们计划在&lt;t2/&gt;2014年4月30&lt;t3/&gt;&lt;t4/&gt;日进行一次电话会议，以启动接下来的合作，这次通话这也为提议的 LwDITA 标准引入了第三种写作格式。</seg>
       </tuv>
     </tu>
     <tu>
