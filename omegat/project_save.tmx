@@ -8605,8 +8605,8 @@
       <tuv lang="en">
         <seg>In her &lt;t5/&gt;Introduction to DITA&lt;t6/&gt;, JoAnn Hackos described the DITA Open Toolkit as follows:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T143011Z" creationid="lenovo" creationdate="20200814T143011Z">
-        <seg>在&lt;t5/&gt;《DITA入门》&lt;t6/&gt;中, 乔安·哈克斯这样描述DITA Open Toolkit：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T144130Z" creationid="lenovo" creationdate="20200814T143011Z">
+        <seg>在&lt;t5/&gt;《DITA入门》&lt;t6/&gt;中，乔安·哈克斯这样形容DITA Open Toolkit：</seg>
       </tuv>
     </tu>
     <tu>
@@ -10517,8 +10517,8 @@
       <tuv lang="en">
         <seg>Most LwDITA-aware tools, including Oxygen XML Editor, should take care both of the editing and processing tasks.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T142538Z" creationid="lenovo" creationdate="20200814T142538Z">
-        <seg>大多数支持LwDITA的工具，包括Oxygen XML编辑器，应该同时负责编辑和处理任务。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T144035Z" creationid="lenovo" creationdate="20200814T142538Z">
+        <seg>大多数支持LwDITA的工具，包括Oxygen XML编辑器，可以同时负责编辑和处理任务。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13131,8 +13131,8 @@
       <tuv lang="en">
         <seg>The DITA Open Toolkit (DITA-OT) is an implementation of the OASIS DITA Technical Committee's specification for DITA DTDs and sche&lt;t0/&gt;mas.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131301Z" creationid="lenovo" creationdate="20200814T144402Z">
-        <seg>DITA Open Toolkit (DITA-OT)是OASIS DITA技术委员会的DITA DTDs和模式规范的一个具现。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T144203Z" creationid="lenovo" creationdate="20200814T144402Z">
+        <seg>DITA Open Toolkit (DITA-OT)是OASIS DITA技术委员会提出的DITA DTDs和模式规范的一个具体实现。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17210,8 +17210,8 @@
       <tuv lang="en">
         <seg>Without a LwDITA-aware editor, you probably would need to use the open source DITA Open Toolkit, as Chef Pedro did in &lt;t1/&gt;Chapter &lt;t2/&gt;1&lt;t3/&gt;, &lt;t4/&gt;to process LwDITA content and produce end-user deliverables.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T132921Z" creationid="lenovo" creationdate="20200814T142852Z">
-        <seg>如果没有支持LwDITA的编辑器，你可能需要像第一章佩德罗那样使用开源的的DITA Open Toolkit来处理LwDITA内容并生成最终用户交付的内容。&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T144049Z" creationid="lenovo" creationdate="20200814T142852Z">
+        <seg>如果没有支持LwDITA的编辑器，你可能需要像第一章里的佩德罗那样，使用开源的的DITA Open Toolkit来处理LwDITA内容并生成最终用户交付的内容。&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
