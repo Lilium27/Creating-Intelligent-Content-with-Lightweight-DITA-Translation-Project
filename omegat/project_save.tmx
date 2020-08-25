@@ -4132,8 +4132,8 @@
       <tuv lang="en">
         <seg>By writ&lt;t1/&gt;ing topics, however, you can make finer-grained distinctions about the type of information that a user can expect than just at the level of the whole document.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130939Z" creationid="lenovo" creationdate="20200811T094405Z">
-        <seg>但是，通过编写主题，您可以对用户期望的信息类型进行更细粒度的区分，而不仅仅是文档级别。&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T132921Z" creationid="lenovo" creationdate="20200811T094405Z">
+        <seg>但是，通过编写主题，你可以对用户期望的信息类型进行更细粒度的区分，而不仅仅是文档级别。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7739,8 +7739,8 @@
       <tuv lang="en">
         <seg>If you are working in MDITA, you should use a Markdown heading 2 to create a content division similar to a section in XDITA and HDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T140141Z" creationid="lenovo" creationdate="20200821T140141Z">
-        <seg>如果您使用的是MDITA，那么应该使用Markdown二级标题创建一个类似于XDITA和HDITA中节的内容分区。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T132921Z" creationid="lenovo" creationdate="20200821T140141Z">
+        <seg>如果你使用的是MDITA，那么应该使用Markdown二级标题创建一个类似于XDITA和HDITA中节的内容分区。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13323,8 +13323,8 @@
       <tuv lang="en">
         <seg>The W3C XML recommendation states that an “element type has mixed content when elements of that type may contain character data, optionally interspersed with child elements” (W3C, &lt;t1/&gt;2008).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131254Z" creationid="lenovo" creationdate="20200813T133927Z">
-        <seg>W3C XML推荐标准规定，元素类型中如果包含字符数据或插入子元素时，这种元素类型就包含混合内容。&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T133904Z" creationid="lenovo" creationdate="20200813T133927Z">
+        <seg>W3C XML推荐标准规定，元素类型中如果包含字符数据或插入了子元素，这种元素类型就包含混合内容。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14718,8 +14718,8 @@
       <tuv lang="en">
         <seg>The shell reads it, executes (or “evaluates” it), prints the output, prints the prompt and waits for you to enter another command.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200817T141913Z" creationid="lenovo" creationdate="20200817T141913Z">
-        <seg>脚本读取命令、执行(或“计算”)、打印输出，打印提示符、然后等待您输入另一个命令。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T132921Z" creationid="lenovo" creationdate="20200817T141913Z">
+        <seg>脚本读取命令、执行(或“计算”)、打印输出，打印提示符、然后等待你输入另一个命令。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16673,8 +16673,8 @@
       <tuv lang="en">
         <seg>When I introduce LwDITA in university courses and industry workshops, many authors who have previous experience with DITA XML, and even some who are not familiar with DITA but have worked with HTML, are initially confused by the “minimize mixed content” rule that defines some compo&lt;t0/&gt;nents in this proposed standard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131253Z" creationid="lenovo" creationdate="20200813T133344Z">
-        <seg>当我在大学课程和行业研讨会中介绍LwDITA时，许多曾经使用过DITA XML的作者，甚至一些不熟悉DITA但使用过HTML的作者，一开始都对“最小化混合内容”规则所迷惑，这一规则定义了这一提议规则的一些组件。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T131317Z" creationid="lenovo" creationdate="20200813T133344Z">
+        <seg>当我在大学课程和行业研讨会中介绍LwDITA时，许多曾经使用过DITA XML的写作者，甚至一些不熟悉DITA但使用过HTML的写作者，一开始都对“最小化混合内容”规则感到迷惑，对“最小化混合内容”规则定义了拟议标准中的一些组件。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16865,8 +16865,8 @@
       <tuv lang="en">
         <seg>While this requirement initially surprises some authors, it provides benefits for both authors and LwDITA stylesheet developers, and is an important foundational feature of LwDITA</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T132800Z" creationid="lenovo" creationdate="20200813T132800Z">
-        <seg>虽然这个需求最初让一些作者感到惊讶，但它为作者和LwDITA样式表开发人员都提供了好处，而且是LwDITA的一个重要的基本特性</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T131207Z" creationid="lenovo" creationdate="20200813T132800Z">
+        <seg>虽然这个需求最初让一些创作者感到惊讶，但它为创作者和LwDITA样式表开发人员都带来了益处，而且是LwDITA一个重要的基本特性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16954,8 +16954,8 @@
       <tuv lang="en">
         <seg>Without a LwDITA-aware editor, you probably would need to use the open source DITA Open Toolkit, as Chef Pedro did in &lt;t1/&gt;Chapter &lt;t2/&gt;1&lt;t3/&gt;, &lt;t4/&gt;to process LwDITA content and produce end-user deliverables.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131300Z" creationid="lenovo" creationdate="20200814T142852Z">
-        <seg>如果没有支持LwDITA的编辑器，您可能需要像第一章佩德罗那样使用开源的的DITA Open Toolkit来处理LwDITA内容并生成最终用户交付的内容。&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T132921Z" creationid="lenovo" creationdate="20200814T142852Z">
+        <seg>如果没有支持LwDITA的编辑器，你可能需要像第一章佩德罗那样使用开源的的DITA Open Toolkit来处理LwDITA内容并生成最终用户交付的内容。&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17186,8 +17186,8 @@
       <tuv lang="en">
         <seg>You can create LwDITA content in any text editor, but probably should avoid using a word processor or a desktop publishing solution (because those embed behind-the-scenes code for format and layout that an author cannot control).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200814T141206Z" creationid="lenovo" creationdate="20200814T141206Z">
-        <seg>您可以在任何文本编辑器中创建LwDITA内容，但是可能应该避免使用文字处理程序或桌面发布解决方案(因为那些用于格式和布局的嵌入后台代码是作者无法控制的)。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T132921Z" creationid="lenovo" creationdate="20200814T141206Z">
+        <seg>你可以在任何文本编辑器中创建LwDITA内容，但是可能应该避免使用文字处理程序或桌面发布解决方案(因为那些用于格式和布局的嵌入后台代码是作者无法控制的)。</seg>
       </tuv>
     </tu>
     <tu>
