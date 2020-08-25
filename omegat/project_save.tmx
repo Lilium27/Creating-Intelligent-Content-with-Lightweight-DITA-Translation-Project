@@ -8381,8 +8381,8 @@
       <tuv lang="en">
         <seg>In most of our conference presentations and webinars about LwDITA, Michael Priestley and I have described the authoring formats of this proposed content standard as ice cream flavors.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T044714Z" creationid="lenovo" creationdate="20200812T044714Z">
-        <seg>在我们关于LwDITA的大多数会议演示和网络研讨会中，我和迈克尔·普里斯特利将提议的内容标准的创作格式描述为冰淇淋的口味。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T121435Z" creationid="lenovo" creationdate="20200812T044714Z">
+        <seg>在关于LwDITA的大多数会议演示和网络研讨会中，我和迈克尔·普里斯特利将提议的内容标准的写作格式比作冰淇淋口味。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12137,8 +12137,8 @@
       <tuv lang="en">
         <seg>THE LwDITA INITIAL AUTHORING&lt;t0/&gt; FORMATS</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T044544Z" creationid="lenovo" creationdate="20200812T044544Z">
-        <seg>LwDITA初始创作&lt;t0/&gt;格式</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T121316Z" creationid="lenovo" creationdate="20200812T044544Z">
+        <seg>LwDITA初始写作&lt;t0/&gt;格式</seg>
       </tuv>
     </tu>
     <tu>
