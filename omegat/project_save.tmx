@@ -1027,8 +1027,8 @@
       <tuv lang="en">
         <seg>&lt;t2/&gt;Figure &lt;t3/&gt;4.2&lt;t4/&gt; &lt;t5/&gt;shows a file that reproduces the list items from &lt;t6/&gt;Figure &lt;t7/&gt;4.1&lt;t8/&gt; &lt;t9/&gt;in valid HTML5 syntax.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T135443Z" creationid="lenovo" creationdate="20200813T135443Z">
-        <seg>&lt;t2/&gt;图&lt;t3/&gt;4.2&lt;t4/&gt; &lt;t5/&gt;展现了从&lt;t6/&gt;图&lt;t7/&gt;4.1&lt;t8/&gt; &lt;t9/&gt;中有效的HTML5语法下的列表项复用至XML文件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T135153Z" creationid="lenovo" creationdate="20200813T135443Z">
+        <seg>&lt;t2/&gt;图&lt;t3/&gt;4.2&lt;t4/&gt; &lt;t5/&gt;展示一个使用了HTML5语法的文件，该文件复用了&lt;t6/&gt;图&lt;t7/&gt;4.1&lt;t8/&gt; &lt;t9/&gt;中的列表项。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2732,16 +2732,16 @@
       <tuv lang="en">
         <seg>All three list items are valid in DITA &lt;t7/&gt;1.3.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T140212Z" creationid="lenovo" creationdate="20200813T140212Z">
-        <seg>这三个列表项在DITA &lt;t7/&gt;1.3中都有效。&lt;片段</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T135719Z" creationid="lenovo" creationdate="20200813T140212Z">
+        <seg>这三个列表项在DITA &lt;t7/&gt;1.3中都是有效的。&lt;片段</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>All three list items are valid in HTML5</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T140233Z" creationid="lenovo" creationdate="20200813T140233Z">
-        <seg>这三个列表项在HTML5都有效</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T140910Z" creationid="lenovo" creationdate="20200813T140233Z">
+        <seg>这三个列表项在HTML5都是有效的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5762,16 +5762,16 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;4.1 &lt;t1/&gt;Sample DITA topic showing the difference among elements with&lt;t2/&gt; mixed content and those with just character data or just child elements.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131255Z" creationid="lenovo" creationdate="20200813T140000Z">
-        <seg>图&lt;t0/&gt;4.1 &lt;t1/&gt;&lt;t2/&gt;DITA主题示例显示含混合内容的元素与只包含字符数据或子元素的元素之间的差异。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T135750Z" creationid="lenovo" creationdate="20200813T140000Z">
+        <seg>图&lt;t0/&gt;4.1 &lt;t1/&gt;&lt;t2/&gt;DITA主题示例，展示了包含混合内容的元素与只包含字符数据或子元素的元素之间的差异。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;4.2 &lt;t1/&gt;Sample HTML5 file with a combination of list items including&lt;t2/&gt; character data and child elements.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131257Z" creationid="lenovo" creationdate="20200813T140509Z">
-        <seg>图&lt;t0/&gt;4.2 &lt;t1/&gt;&lt;t2/&gt;HTML5示例文件是列表项的组合，其中包括字符数据和子元素。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T140802Z" creationid="lenovo" creationdate="20200813T140509Z">
+        <seg>图&lt;t0/&gt;4.2 &lt;t1/&gt;&lt;t2/&gt;HTML5示例文件，包括一系列列表项，列表项包含字符数据和子元素。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6843,8 +6843,8 @@
       <tuv lang="en">
         <seg>HDITA, the &lt;t0/&gt;paragraph &lt;t1/&gt;element (&lt;t2/&gt;&lt;p&gt; &lt;t3/&gt;in both cases) can contain the following child elements:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T141143Z" creationid="lenovo" creationdate="20200813T141143Z">
-        <seg>HDITA， &lt;t0/&gt;段落 &lt;t1/&gt;元素(在DITA和HTML中都是&lt;t2/&gt;&lt;p&gt; &lt;t3/&gt;)可以包含以下子元素：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T135354Z" creationid="lenovo" creationdate="20200813T141143Z">
+        <seg>HDITA中， &lt;t0/&gt;段落 &lt;t1/&gt;元素(在DITA和HTML中都是&lt;t2/&gt;&lt;p&gt; &lt;t3/&gt;)可以包含以下子元素：</seg>
       </tuv>
     </tu>
     <tu>
@@ -11183,8 +11183,8 @@
       <tuv lang="en">
         <seg>Phrase</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T141513Z" creationid="lenovo" creationdate="20200813T141513Z">
-        <seg>词组</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T140937Z" creationid="lenovo" creationdate="20200813T141513Z">
+        <seg>短语</seg>
       </tuv>
     </tu>
     <tu>
@@ -13941,8 +13941,8 @@
       <tuv lang="en">
         <seg>The first list item mixes character data with a child element (a paragraph in this case).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T140133Z" creationid="lenovo" creationdate="20200813T140133Z">
-        <seg>第一个列表项将字符数据与子元素(本例中为段落)混合在一起。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T140855Z" creationid="lenovo" creationdate="20200813T140133Z">
+        <seg>第一个列表项将字符数据与子元素(本例中为段落)混合在一起，</seg>
       </tuv>
     </tu>
     <tu>
@@ -14414,8 +14414,8 @@
       <tuv lang="en">
         <seg>The other list items do not mix character data with elements.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T140140Z" creationid="lenovo" creationdate="20200813T140140Z">
-        <seg>其他列表项不会将字符数据与元素混合。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T135525Z" creationid="lenovo" creationdate="20200813T140140Z">
+        <seg>其他列表项则没有混合。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14710,8 +14710,8 @@
       <tuv lang="en">
         <seg>The sample file includes an unordered list (&lt;t3/&gt;&lt;ul&gt;&lt;t4/&gt;) that contains three list items (&lt;t5/&gt;&lt;li&gt;&lt;t6/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T140537Z" creationid="lenovo" creationdate="20200813T140537Z">
-        <seg>示例文件包括一个无序列表（&lt;t3/&gt;&lt;ul&gt;&lt;t4/&gt;）其中包含三个列表项（&lt;t5/&gt;&lt;li&gt;&lt;t6/&gt;）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T140851Z" creationid="lenovo" creationdate="20200813T140537Z">
+        <seg>该示例文件包括一个无序列表（&lt;t3/&gt;&lt;ul&gt;&lt;t4/&gt;），该无序列表其中包含三个列表项（&lt;t5/&gt;&lt;li&gt;&lt;t6/&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14726,8 +14726,8 @@
       <tuv lang="en">
         <seg>The sample topic includes an unordered list (&lt;t3/&gt;&lt;ul&gt;&lt;t4/&gt;) that contains three list items (&lt;t5/&gt;&lt;li&gt;&lt;t6/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T140122Z" creationid="lenovo" creationdate="20200813T140122Z">
-        <seg>示例主题包括一个无序列表（(&lt;t3/&gt;&lt;ul&gt;&lt;t4/&gt;），其中包含三个列表项（&lt;t5/&gt;&lt;li&gt;&lt;t6/&gt;）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T135455Z" creationid="lenovo" creationdate="20200813T140122Z">
+        <seg>该示例主题包括一个无序列表（(&lt;t3/&gt;&lt;ul&gt;&lt;t4/&gt;），该无序列表包含三个列表项（&lt;t5/&gt;&lt;li&gt;&lt;t6/&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14862,8 +14862,8 @@
       <tuv lang="en">
         <seg>The simplified structures in LwDITA have the intention of minimizing authorial decisions when creating content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T135532Z" creationid="lenovo" creationdate="20200813T135532Z">
-        <seg>LwDITA中简化的结构旨在最大程度减少创建内容时的作者决策。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T135222Z" creationid="lenovo" creationdate="20200813T135532Z">
+        <seg>LwDITA中的简化结构旨在最大程度减少创建内容时的创作者决策。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16022,8 +16022,8 @@
       <tuv lang="en">
         <seg>This restriction of mixed content in block elements has the intention of simplifying LwDITA processing in software tools that will need to combine XML, HTML5, and Markdown topics to produce LwDITA deliverables.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T142827Z" creationid="lenovo" creationdate="20200813T142827Z">
-        <seg>块元素中混合内容的这种限制旨在简化软件工具中的LwDITA处理，这些软件工具需要结合XML、HTML5和Markdown主题来生成LwDITA交付品。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T141023Z" creationid="lenovo" creationdate="20200813T142827Z">
+        <seg>块级元素对混合内容的限制旨在简化软件工具对LwDITA的处理，这些软件工具需要结合XML、HTML5和Markdown主题来生成LwDITA交付物。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16278,8 +16278,8 @@
       <tuv lang="en">
         <seg>Thus, if in DITA &lt;t0/&gt;1.3 &lt;t1/&gt;and HTML5 an author had to decide if their components should include character data, child elements, or a combination of those, in some of the LwDITA authoring formats there is only one valid way t create certain elements.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T122329Z" creationid="lenovo" creationdate="20200813T135612Z">
-        <seg>因此，如果在DITA 1.3和HTML5中，作者必须决定他们的组件是否应该包括字符数据、子元素或这些元素的组合，那么在一些LwDITA写作格式中，创建元素只有唯一的有效方法。&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T135333Z" creationid="lenovo" creationdate="20200813T135612Z">
+        <seg>因此，如果说在DITA 1.3和HTML5中，创作者必须决定他们的组件是否应该包括字符数据、子元素或这些元素的组合，那么在一些LwDITA写作格式中，创建元素只有唯一的有效方法。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
