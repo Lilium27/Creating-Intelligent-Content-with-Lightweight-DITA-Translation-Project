@@ -7971,6 +7971,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In &lt;t0/&gt;Figure &lt;t1/&gt;6.58&lt;t2/&gt;, &lt;t3/&gt;the topic features a video component about the &lt;t4/&gt;Sensei Sushi &lt;t5/&gt;promise.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T141823Z" creationid="lenovo" creationdate="20200825T141823Z">
+        <seg>在&lt;t0/&gt;图&lt;t1/&gt;6.58&lt;t2/&gt;中, &lt;t3/&gt;这个主题包含了一个关于&lt;t4/&gt;唤醒寿司&lt;t5/&gt;承诺的视频组件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In &lt;t1/&gt;Chapter &lt;t2/&gt;1&lt;t3/&gt;, &lt;t4/&gt;I mentioned an example of Chef Pedro, who could &lt;t5/&gt;specialize&lt;t6/&gt; ele&lt;t7/&gt;ments of the DITA task content type into more meaningful components for his intended purpose (i.e., &lt;t8/&gt;&lt;ingredients&gt; &lt;t9/&gt;as a specialization of the default &lt;t10/&gt;&lt;prereq&gt; &lt;t11/&gt;for pre-requisites).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130843Z" creationid="lenovo" creationdate="20200804T080138Z">
@@ -8119,6 +8127,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T140642Z" creationid="lenovo" creationdate="20200825T140642Z">
         <seg>在HDITA和MDITA扩展配置文件中，音频可以包括以下组件：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In HDITA and MDITA extended profile, video can include the following components:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T142026Z" creationid="lenovo" creationdate="20200825T142026Z">
+        <seg>在HDITA和MDITA扩展配置文件中，视频可以包括以下组件：</seg>
       </tuv>
     </tu>
     <tu>
@@ -11193,6 +11209,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T065609Z" creationid="lenovo" creationdate="20200811T164654Z">
         <seg>尤其是 &lt;t4/&gt;《技术传播基本文步》&lt;t5/&gt;&lt;t6/&gt; (Eli Review, n.d.)中为ELI Review模块服务的课程内容，正是基于技术传播体裁的通用特质开发的。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pay attention to the element-to -attribute correspondence in some multimedia components.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T141712Z" creationid="lenovo" creationdate="20200825T141712Z">
+        <seg>注意多媒体组件中元素与属性的对应关系。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16707,6 +16731,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150312Z" creationid="DSS" creationdate="20200725T153832Z">
         <seg>使用 DITA-OT（将在&lt;t7/&gt;第&lt;t8/&gt;5 &lt;t9/&gt;章和第&lt;t10/&gt;6&lt;t11/&gt;&lt;t12/&gt;章详细介绍），我将地图转换成了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Video in HDITA and MDITA</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T141911Z" creationid="lenovo" creationdate="20200825T141911Z">
+        <seg>HDITA和MDITA的视频</seg>
       </tuv>
     </tu>
     <tu>
