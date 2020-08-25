@@ -3492,8 +3492,8 @@
       <tuv lang="en">
         <seg>At its core, XDITA is a simplified version of DITA, with a limited set of elements (tags) and options but similar capabilities for content structure, reuse, and publication.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T021215Z" creationid="lenovo" creationdate="20200813T021215Z">
-        <seg>XDITA的核心是DITA的简化版本，只有一组有限的元素(标记)和选项，但在内容结构、重用和发布方面具有类似的功能。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T130434Z" creationid="lenovo" creationdate="20200813T021215Z">
+        <seg>XDITA的核心是DITA的简化版本，只有一组有限的元素(标记)和选项，但在内容结构、复用和发布方面具有类似的功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4236,8 +4236,8 @@
       <tuv lang="en">
         <seg>Casual content contributors.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T072208Z" creationid="lenovo" creationdate="20200813T091251Z">
-        <seg>非职业内容贡献者</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T130755Z" creationid="lenovo" creationdate="20200813T091251Z">
+        <seg>非职业的内容贡献者</seg>
       </tuv>
     </tu>
     <tu>
@@ -4511,16 +4511,16 @@
       <tuv lang="en">
         <seg>Content curators who receive occasional contributions from developers written in Markdown</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T085949Z" creationid="lenovo" creationdate="20200813T085949Z">
-        <seg>偶尔从开发人员那里收到用Markdown编写的贡献的内容管理员</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T130632Z" creationid="lenovo" creationdate="20200813T085949Z">
+        <seg>偶尔从开发人员那里收到用Markdown编写的内容的内容管理员</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Content developers familiar with DITA or XDITA who want to use Markdown as an authoring language on devices that do not support XML editors</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T091203Z" creationid="lenovo" creationdate="20200813T091203Z">
-        <seg>熟悉DITA或XDITA的内容开发人员希望在不支持XML编辑器的设备上使用Markdown作为创作语言</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T130835Z" creationid="lenovo" creationdate="20200813T091203Z">
+        <seg>熟悉DITA或XDITA，同时希望在不支持XML编辑器的设备上使用Markdown作为创作语言的内容开发人员</seg>
       </tuv>
     </tu>
     <tu>
@@ -4920,16 +4920,16 @@
       <tuv lang="en">
         <seg>Developers and writers in charge of documenting application programming interfaces (APIs) that need to share content with technical publications or marketing content</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T085609Z" creationid="lenovo" creationdate="20200813T085609Z">
-        <seg>需要与技术出版物或市场内容共享内容的应用程序编程接口(APIs)的开发人员和作者</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T130217Z" creationid="lenovo" creationdate="20200813T085609Z">
+        <seg>需要与技术出版物或市场内容共享内容的应用程序编程接口(APIs)的开发人员和创作者</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Developers who perceive XML as too verbose or even obsolete.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T091213Z" creationid="lenovo" creationdate="20200813T091213Z">
-        <seg>认为XML过于冗长甚至过时的开发人员。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T130751Z" creationid="lenovo" creationdate="20200813T091213Z">
+        <seg>认为XML过于冗长甚至过时的开发人员</seg>
       </tuv>
     </tu>
     <tu>
@@ -8989,8 +8989,8 @@
       <tuv lang="en">
         <seg>Individuals authoring content quickly that must be later refactored as structured content</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T085807Z" creationid="lenovo" creationdate="20200813T085807Z">
-        <seg>快速创作内容并需要后续重构为结构化内容的个人</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T130307Z" creationid="lenovo" creationdate="20200813T085807Z">
+        <seg>快速创作内容并需要在未来重构为结构化内容的个人</seg>
       </tuv>
     </tu>
     <tu>
@@ -10597,8 +10597,8 @@
       <tuv lang="en">
         <seg>Non-English-speaking authors who want to take advantage of DITA reuse and publishing without depending on XML tags written in English</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T085824Z" creationid="lenovo" creationdate="20200813T085824Z">
-        <seg>希望利用DITA重用和发布而不依赖于用英语编写的XML标记的非英语作者</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T130612Z" creationid="lenovo" creationdate="20200813T085824Z">
+        <seg>希望能够利用DITA的复用和发布功能，同时又不依赖用英语编写的XML标记的非英语创作者</seg>
       </tuv>
     </tu>
     <tu>
@@ -12474,8 +12474,8 @@
       <tuv lang="en">
         <seg>Technical editors who need to incorporate Markdown files in DITA or XDITA topic collections</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T090143Z" creationid="lenovo" creationdate="20200813T090143Z">
-        <seg>需要合并使用DITA或XDITA主题集的 Markdown文件的技术编辑</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T130733Z" creationid="lenovo" creationdate="20200813T090143Z">
+        <seg>需要将Markdown文件与DITA或XDITA主题集合并的技术编辑</seg>
       </tuv>
     </tu>
     <tu>
