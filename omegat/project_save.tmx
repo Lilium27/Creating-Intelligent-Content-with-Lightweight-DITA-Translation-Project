@@ -3610,6 +3610,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Audio in XDITA</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T135005Z" creationid="lenovo" creationdate="20200825T135005Z">
+        <seg>XDITA中的音频</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Audio&lt;t0/&gt;: a link to sound to be included in the content.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T154957Z" creationid="DSS" creationdate="20200804T154957Z">
@@ -6026,8 +6034,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;6.53 &lt;t1/&gt;Metadata component to identify the author of an XDITA topic.&lt;t2/&gt; Readers of the Sensei Sushi brochure most likely won't know who created the introductory topic, but the information is embedded in the topic for human authors and machine processors with access to the XDITA source.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T131546Z" creationid="lenovo" creationdate="20200825T131546Z">
-        <seg>图 &lt;t0/&gt;6.53 &lt;t1/&gt;元数据组件，用于标识XDITA主题的作者。&lt;t2/&gt; S唤醒寿司手册的读者很可能不知道是谁创作了介绍性主题，但是主题中嵌入的信息是为能够访问XDITA源代码的人类作者和机器处理器准备的。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T132453Z" creationid="lenovo" creationdate="20200825T131546Z">
+        <seg>图 &lt;t0/&gt;6.53 &lt;t1/&gt;元数据组件，用于标识XDITA主题的作者。&lt;t2/&gt; 唤醒寿司手册的读者很可能不知道是谁创作了介绍性主题，但是主题中嵌入的信息是为能够访问XDITA源代码的人类作者和机器处理器准备的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8299,6 +8307,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In XDITA, audio can include the following components:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T135054Z" creationid="lenovo" creationdate="20200825T135054Z">
+        <seg>XDITA中, 音频可以包括以下组件：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In XDITA, non-textual topical conventions start with an image (&lt;t0/&gt;&lt;image&gt;&lt;t1/&gt;).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T132004Z">
@@ -10141,8 +10157,8 @@
       <tuv lang="en">
         <seg>MDITA takes advantage of the table&lt;t2/&gt; extension in GitHub Flavored Markdown to represent tabular content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T124342Z" creationid="lenovo" creationdate="20200825T124342Z">
-        <seg>MDITA利用GitHub风味的Markdown中的表扩展来表示表格内容。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T134933Z" creationid="lenovo" creationdate="20200825T124342Z">
+        <seg>MDITA利用GitHub风格的Markdown中的表扩展来表示表格内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13225,6 +13241,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The LwDITA multimedia components are organized around the audio (&lt;t0/&gt;&lt;audio&gt;&lt;t1/&gt;) and video (&lt;t2/&gt;&lt;video&gt;&lt;t3/&gt;) elements.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T134949Z" creationid="lenovo" creationdate="20200825T134949Z">
+        <seg>LwDITA多媒体组件是围绕音频 (&lt;audio&gt;)和视频 (&lt;video&gt;)元素组织的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The LwDITA technical specification is the authoritative source for producing and processing content across the LwDITA authoring formats.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T082928Z" creationid="DSS" creationdate="20200806T082928Z">
@@ -15180,6 +15204,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The&lt;t1/&gt; metadata information, provided in an optional YAML header, is only available in the MDITA extended profile.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T132439Z" creationid="lenovo" creationdate="20200825T132439Z">
+        <seg>元数据信息(在可选的YAML头中提供)仅在MDITA扩展配置文件中可用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The&lt;t1/&gt; structured recipe keeps content organized and should help computers understand and manipulate elements and attributes.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144036Z" creationid="DSS" creationdate="20200726T154404Z">
@@ -15200,6 +15232,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T160257Z" creationid="DSS" creationdate="20200816T160257Z">
         <seg>该定义列表不是用 GitHub 风格的 Markdown 语法编写的，&lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The&lt;t2/&gt; metadata element is the only HDITA component that requires an HTML5 &lt;t3/&gt;&lt;head&gt; &lt;t4/&gt;element.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T132410Z" creationid="lenovo" creationdate="20200825T132410Z">
+        <seg>元数据元素是唯一需要HTML5 &lt;head&gt;元素的HDITA组件。</seg>
       </tuv>
     </tu>
     <tu>
