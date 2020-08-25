@@ -12873,6 +12873,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;&lt;t0/&gt;media-source&gt; &lt;t1/&gt;component has an attribute of &lt;t2/&gt;@value&lt;t3/&gt;, which provides the path for the actual audio file that includes the recorded jingle.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T135714Z" creationid="lenovo" creationdate="20200825T135714Z">
+        <seg>&lt;media-source&gt;组件有一个@value属性，它的值为包含录制歌曲的实际音频的文件路径。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;t0/&gt;2012 &lt;t1/&gt;Adobe video described a future of technical communication that now is more like its present, or even its past.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150550Z" creationid="DSS" creationdate="20200817T085331Z">
@@ -15736,6 +15744,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T062530Z" creationid="lenovo" creationdate="20200811T143147Z">
         <seg>这种方法在设计LwDITA的内容和元素类型的过程中也有帮助，但是首先要理解术语&lt;t0/&gt;主题&lt;t1/&gt;（topic）对于提倡的标准的目标受众(从业者和学者)的不同含义。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This audio-enhanced topic won't make it to the printed brochure for potential franchise owners, but can be included on the company's website.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T135548Z" creationid="lenovo" creationdate="20200825T135548Z">
+        <seg>这个音频加持的主题不会出现在为潜在特许经营人印刷的小册子上，但可以出现在公司的网站上。</seg>
       </tuv>
     </tu>
     <tu>
