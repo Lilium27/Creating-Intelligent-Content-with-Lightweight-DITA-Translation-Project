@@ -6130,8 +6130,8 @@
       <tuv lang="en">
         <seg>Figure 6.37&lt;t0/&gt; includes the HDITA version of the franchise terms topic with the “notice” note explaining the initial franchise payment.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T142007Z" creationid="lenovo" creationdate="20200819T142007Z">
-        <seg>图6.37包括特许经营条款主题的HDITA版本，以及解释初始特许经营款项的“提示”注释。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T161224Z" creationid="lenovo" creationdate="20200819T142007Z">
+        <seg>图6.37展示了特许经营权条款主题的HDITA版本，以及解释初始特许经营权款项的“提示”注释。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6861,6 +6861,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T082128Z" creationid="DSS" creationdate="20200817T082128Z">
         <seg>对于利用过 HTML5 创建内容的写作者来说，HDITA 没有那么可怕，并仍然包含内容复用和过滤的功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>HDITA footnote references need a clickable text component (a superscript number 1 in this example).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T160958Z" creationid="DSS" creationdate="20200825T160958Z">
+        <seg>HDITA 脚注需要一个可点击的文本组件（如本例中的上标数字1）。</seg>
       </tuv>
     </tu>
     <tu>
