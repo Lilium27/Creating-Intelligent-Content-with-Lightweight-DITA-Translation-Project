@@ -4010,6 +4010,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bold (&lt;t0/&gt;&lt;b&gt;&lt;t1/&gt;): &lt;li&gt;&lt;p&gt;Warranty of &lt;t2/&gt;&lt;b&gt; &lt;t3/&gt;exclusive territory &lt;t4/&gt;&lt;/b&gt; &lt;t5/&gt;&lt;/p&gt;&lt;/li&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T124600Z" creationid="lenovo" creationdate="20200825T124359Z">
+        <seg>粗体(&lt;t0/&gt;&lt;b&gt;&lt;t1/&gt;): &lt;li&gt;&lt;p&gt;授权 &lt;t2/&gt;&lt;b&gt; &lt;t3/&gt;独家销售权 &lt;t4/&gt;&lt;/b&gt; &lt;t5/&gt;&lt;/p&gt;&lt;/li&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bold&lt;t0/&gt;, which is used to draw a reader's attention to a phrase without other&lt;t1/&gt;wise adding meaning to the content.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T134126Z" creationid="DSS" creationdate="20200804T134126Z">
@@ -8827,6 +8835,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this section, I present those components with their corresponding map&lt;t0/&gt;pings in the three initial LwDITA authoring formats and a brief example.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T124352Z" creationid="lenovo" creationdate="20200825T124352Z">
+        <seg>在本节中，我将介绍这些组件及其在三种初始LwDITA创作格式中的对应映射和一个简单示例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this section, I will use a software tool to process the DITA map, from&lt;t8/&gt; Chapter &lt;t9/&gt;1&lt;t10/&gt;, &lt;t11/&gt;that Chef Pedro created for his recipe critiques website.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T153656Z" creationid="DSS" creationdate="20200806T085539Z">
@@ -9367,6 +9383,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T141742Z" creationid="lenovo" creationdate="20200813T141152Z">
         <seg>斜体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Italics (&lt;t0/&gt;&lt;i&gt;&lt;t1/&gt;): &lt;p&gt;We offer more than &lt;t2/&gt;30 &lt;t3/&gt;exclusive creations of original rolls, from the&lt;t4/&gt; &lt;i&gt; &lt;t5/&gt;California&lt;t6/&gt; &lt;/i&gt; &lt;t7/&gt;roll&lt;t8/&gt; to sushi with BBQ chicken or grilled steak.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T124830Z" creationid="lenovo" creationdate="20200825T124408Z">
+        <seg>斜体 (&lt;t0/&gt;&lt;i&gt;&lt;t1/&gt;): &lt;p&gt;我们提供超过 &lt;t2/&gt;30种 &lt;t3/&gt;独家原创卷，从&lt;t4/&gt; &lt;i&gt; &lt;t5/&gt;加利福尼亚&lt;t6/&gt; &lt;/i&gt; &lt;t7/&gt;卷&lt;t8/&gt; 到烤鸡肉或烤牛排寿司。&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
