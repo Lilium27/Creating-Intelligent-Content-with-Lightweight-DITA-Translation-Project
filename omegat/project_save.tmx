@@ -10727,8 +10727,8 @@
       <tuv lang="en">
         <seg>One of the greater challenges to the Lightweight DITA subcommittee, as it develops the LwDITA technical specification, is to define how LwDITA tools should handle the presence of non-LwDITA HTML5 tags.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T081033Z" creationid="lenovo" creationdate="20200813T081033Z">
-        <seg>轻量级DITA小组委员会在开发LwDITA技术规范时面临的一个更大的挑战是，定义LwDITA工具应该如何处理非LwDITA HTML5标记。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T125232Z" creationid="lenovo" creationdate="20200813T081033Z">
+        <seg>轻量级DITA小组委员会在开发LwDITA技术规范时面临的一个更大的挑战是，如何为LwDITA工具处理非LwDITA HTML5标记制定规则。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12538,8 +12538,8 @@
       <tuv lang="en">
         <seg>That means that &lt;t6/&gt;including an HTML5 element that is not allowed in HDITA, like &lt;t7/&gt;&lt;aside&gt; &lt;t8/&gt;or &lt;t9/&gt;&lt;details&gt;&lt;t10/&gt;, would produce a validation error in LwDITA-aware tools.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131241Z" creationid="lenovo" creationdate="20200813T080743Z">
-        <seg>这意味着如果在HDITA中包含禁用的HTML5元素，如 &lt;t6/&gt;&lt;t7/&gt;&lt;aside&gt; &lt;t8/&gt;or &lt;t9/&gt;&lt;details&gt;&lt;t10/&gt;，会支持LwDITA的工具会产生验证错误。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T125106Z" creationid="lenovo" creationdate="20200813T080743Z">
+        <seg>这意味着如果在HDITA中包含禁用的HTML5元素，如 &lt;t6/&gt;&lt;t7/&gt;&lt;aside&gt; &lt;t8/&gt;or &lt;t9/&gt;&lt;details&gt;&lt;t10/&gt;，会使支持LwDITA的工具产生验证错误。</seg>
       </tuv>
     </tu>
     <tu>
