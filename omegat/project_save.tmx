@@ -5353,8 +5353,8 @@
       <tuv lang="en">
         <seg>Example 32 has a note, with a “notice” type attribute, replacing the footnote from &lt;t0/&gt;Figure 6.36&lt;t1/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T141019Z" creationid="lenovo" creationdate="20200819T140912Z">
-        <seg>示例32有一个注释，带有一个“提示”类型属性，替换了&lt;t0/&gt;图6.36&lt;t1/&gt;中的脚注。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T155547Z" creationid="lenovo" creationdate="20200819T140912Z">
+        <seg>示例32包含一个注释，该注释带有一个“提示”类型属性，代替了&lt;t0/&gt;图6.36&lt;t1/&gt;中的脚注。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13643,8 +13643,8 @@
       <tuv lang="en">
         <seg>The attribute for note type (&lt;t2/&gt;@type&lt;t3/&gt;) is optional, but if used it must take a value from the</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T140705Z" creationid="lenovo" creationdate="20200819T140705Z">
-        <seg>注释类型(&lt;t2/&gt;@type&lt;t3/&gt;)的属性是可选的，但要想使用必须从以下值中选择：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T155402Z" creationid="lenovo" creationdate="20200819T140705Z">
+        <seg>注释的类型(&lt;t2/&gt;@type&lt;t3/&gt;)属性是可选的，但要想使用必须从以下值中选择：</seg>
       </tuv>
     </tu>
     <tu>
@@ -15222,8 +15222,8 @@
       <tuv lang="en">
         <seg>The topical component for note (&lt;t0/&gt;&lt;note&gt;&lt;t1/&gt;) in XDITA gives authors a tool to make block-level content stand out from regular paragraphs.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T140346Z" creationid="lenovo" creationdate="20200819T140346Z">
-        <seg>XDITA中的注释 (&lt;note&gt;)主题组件可作为工具，使块级内容从常规段落中脱颖而出。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T155322Z" creationid="lenovo" creationdate="20200819T140346Z">
+        <seg>XDITA中的注释 (&lt;note&gt;)主题组件可作为工具，使块级内容从常规段落中突显出来。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17650,8 +17650,8 @@
       <tuv lang="en">
         <seg>following: “caution”, “warning”, “danger”, “trouble”, “notice,” or “note”.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T141006Z" creationid="lenovo" creationdate="20200819T140816Z">
-        <seg>“提示”、“警告”、“危险”、“问题”、“提示”或“注释”。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T155512Z" creationid="lenovo" creationdate="20200819T140816Z">
+        <seg>“提示（caution）”、“警告（warning）”、“危险（danger）”、“问题（trouble）”、“提示（notice）”或“注释（note）”。</seg>
       </tuv>
     </tu>
     <tu>
