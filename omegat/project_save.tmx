@@ -6088,6 +6088,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;6.57 &lt;t1/&gt;Audio content environment in HDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T141516Z" creationid="lenovo" creationdate="20200825T141516Z">
+        <seg>图 &lt;t0/&gt;6.57 &lt;t1/&gt;HDITA中的音频内容环境</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FOREWORD</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T122921Z" creationid="DSS" creationdate="20200820T122921Z">
@@ -8179,6 +8187,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In HTML5, many media&lt;t2/&gt; components represented with elements in XDITA are expressed with attributes instead.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T141645Z" creationid="lenovo" creationdate="20200825T141645Z">
+        <seg>在HTML5中，许多在XDITA中用元素表示的媒体组件都用属性表示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In John Carroll's opinion, today's developers and users have not really lost the itch to tinker with systems because the manuals disap&lt;t0/&gt;peared.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130819Z" creationid="lenovo" creationdate="20200723T091333Z">
@@ -9983,6 +9999,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T135217Z" creationid="lenovo" creationdate="20200825T135217Z">
         <seg>循环 ( &lt;t0/&gt;&lt;media-loop&gt;&lt;t1/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Loop (&lt;t0/&gt;&lt;media-loop&gt;&lt;t1/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T141411Z" creationid="lenovo" creationdate="20200825T141411Z">
+        <seg>循环 (&lt;t0/&gt;&lt;media-loop&gt;&lt;t1/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
