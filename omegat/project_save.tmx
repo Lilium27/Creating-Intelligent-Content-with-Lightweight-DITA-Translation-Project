@@ -3932,8 +3932,8 @@
       <tuv lang="en">
         <seg>Before getting into the specific tools and rules for creating content, the next section addresses an important authoring difference between DITA XML and some of the LwDITA authoring formats.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T122329Z" creationid="lenovo" creationdate="20200813T132111Z">
-        <seg>在讨论创建内容的特定工具和规则之前，下一节将讨论DITA XML和一些LwDITA写作格式之间的一个重要创作差异。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T130925Z" creationid="lenovo" creationdate="20200813T132111Z">
+        <seg>在讨论创建内容的特定工具和规则之前，下一节将讨论DITA XML和一些LwDITA写作格式之间的一个重要写作差异。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8885,8 +8885,8 @@
       <tuv lang="en">
         <seg>In this section, I explain an authoring requirement that affects the LwDITA formats based on XML and HTML5.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T132215Z" creationid="lenovo" creationdate="20200813T132215Z">
-        <seg>在本节中，我将解释影响基于XML和HTML5的LwDITA格式的创作需求。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T131123Z" creationid="lenovo" creationdate="20200813T132215Z">
+        <seg>在本节中，我将探讨一个写作需求，它影响了基于XML和HTML5的LwDITA格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16697,8 +16697,8 @@
       <tuv lang="en">
         <seg>Whereas XDITA and MDITA were designed to be functionally equivalent to each other, MDITA was created as a compatible subset that allows authors to represent basic DITA-like components in Markdown syntax.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T130924Z" creationid="lenovo" creationdate="20200813T091349Z">
-        <seg>虽然XDITA和MDITA被设计为功能上等价的，但MDITA是作为一个兼容子集创建的，它允许作者用Markdown语法表示类似于DITA的基础组件。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T130910Z" creationid="lenovo" creationdate="20200813T091349Z">
+        <seg>虽然XDITA和MDITA被设计为功能对等的，但MDITA是作为一个兼容子集创建的，它允许作者用Markdown语法表示类似于DITA的基础组件。 </seg>
       </tuv>
     </tu>
     <tu>
