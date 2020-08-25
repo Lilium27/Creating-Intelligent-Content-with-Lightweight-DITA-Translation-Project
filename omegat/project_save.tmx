@@ -6008,6 +6008,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;6.53 &lt;t1/&gt;Metadata component to identify the author of an XDITA topic.&lt;t2/&gt; Readers of the Sensei Sushi brochure most likely won't know who created the introductory topic, but the information is embedded in the topic for human authors and machine processors with access to the XDITA source.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T131546Z" creationid="lenovo" creationdate="20200825T131546Z">
+        <seg>图 &lt;t0/&gt;6.53 &lt;t1/&gt;元数据组件，用于标识XDITA主题的作者。&lt;t2/&gt; S唤醒寿司手册的读者很可能不知道是谁创作了介绍性主题，但是主题中嵌入的信息是为能够访问XDITA源代码的人类作者和机器处理器准备的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FOREWORD</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T122921Z" creationid="DSS" creationdate="20200820T122921Z">
