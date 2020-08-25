@@ -12143,6 +12143,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Subscript (&lt;t0/&gt;&lt;sub&gt;&lt;t1/&gt;): &lt;p&gt;One serving of sushi rice requires &lt;t2/&gt;2 &lt;t3/&gt;cups of H&lt;t4/&gt;&lt;sub&gt;&lt;t5/&gt;2&lt;t6/&gt;&lt;/sub&gt;&lt;t7/&gt;O.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T124929Z" creationid="lenovo" creationdate="20200825T124929Z">
+        <seg>下标 (&lt;t0/&gt;&lt;sub&gt;&lt;t1/&gt;): &lt;p&gt;一份寿司饭需要 &lt;t2/&gt;2 &lt;t3/&gt;杯 of H&lt;t4/&gt;&lt;sub&gt;&lt;t5/&gt;2&lt;t6/&gt;&lt;/sub&gt;&lt;t7/&gt;O。&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Subscript&lt;t0/&gt;, which is a letter, number, or figure that is printed lower than the line.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T134220Z" creationid="DSS" creationdate="20200804T134144Z">
@@ -12163,6 +12171,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T141535Z" creationid="lenovo" creationdate="20200813T141535Z">
         <seg>上标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Superscript (&lt;t0/&gt;&lt;sup&gt;&lt;t1/&gt;): &lt;p&gt;Franchised restaurants should be located in areas of at least &lt;t2/&gt;200 &lt;t3/&gt;ft&lt;t4/&gt;&lt;sup&gt;&lt;t5/&gt;2&lt;t6/&gt;&lt;/sup&gt;&lt;t7/&gt;.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T125117Z" creationid="lenovo" creationdate="20200825T125117Z">
+        <seg>上标 (&lt;t0/&gt;&lt;sup&gt;&lt;t1/&gt;): &lt;p&gt;特许经营店应位于至少 &lt;t2/&gt;200 &lt;t3/&gt;ft&lt;t4/&gt;&lt;sup&gt;&lt;t5/&gt;2&lt;t6/&gt;&lt;/sup&gt;&lt;t7/&gt;.&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16243,6 +16259,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T140034Z" creationid="DSS" creationdate="20200818T132124Z">
         <seg>在题为《技术传播的模块构造》的演讲中，代顿所展示的一张幻灯片可能就此改变了我的学术生活。&lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Underline (&lt;t0/&gt;&lt;u&gt;&lt;t1/&gt;): &lt;p&gt;Franchise owners &lt;t2/&gt;&lt;u&gt;&lt;t3/&gt;must&lt;t4/&gt;&lt;/u&gt; &lt;t5/&gt;pay their fees on the first week of each calendar month.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T125321Z" creationid="lenovo" creationdate="20200825T125132Z">
+        <seg>下划线 (&lt;t0/&gt;&lt;u&gt;&lt;t1/&gt;): &lt;p&gt;特许经营商 &lt;t2/&gt;&lt;u&gt;&lt;t3/&gt;必须&lt;t4/&gt;&lt;/u&gt; &lt;t5/&gt;在公历每月第一周支付费用。&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
