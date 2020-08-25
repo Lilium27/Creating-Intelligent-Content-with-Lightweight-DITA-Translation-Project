@@ -8589,8 +8589,8 @@
       <tuv lang="en">
         <seg>In the OASIS publication &lt;t6/&gt;Lightweight DITA: An Introduction&lt;t7/&gt;, we define the MDITA core and extended profiles as follows:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T082344Z" creationid="lenovo" creationdate="20200813T082344Z">
-        <seg>在OASIS出版的 &lt;t6/&gt;《轻量级DITA:简介》&lt;t7/&gt;中，我们定义了MDITA核心和扩展概要如下:</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T125550Z" creationid="lenovo" creationdate="20200813T082344Z">
+        <seg>在OASIS出版的 &lt;t6/&gt;《轻量级 DITA 简介》&lt;t7/&gt;中，我们对MDITA的核心和扩展概进行了定义：</seg>
       </tuv>
     </tu>
     <tu>
@@ -10549,8 +10549,8 @@
       <tuv lang="en">
         <seg>Non-English-speaking content creators who are comfortable with HTML5 semantic elements.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T082242Z" creationid="lenovo" creationdate="20200813T082242Z">
-        <seg>熟悉HTML5语义元素的非英语内容创作者。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T125459Z" creationid="lenovo" creationdate="20200813T082242Z">
+        <seg>熟悉HTML5语义元素的非英语内容创作者</seg>
       </tuv>
     </tu>
     <tu>
@@ -11841,8 +11841,8 @@
       <tuv lang="en">
         <seg>Software developers who want to contribute to DITA-based product docu&lt;t0/&gt;mentation without using an XML editor</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131253Z" creationid="lenovo" creationdate="20200813T085444Z">
-        <seg>希望不借助XML编辑器为基于DITA的文档做出贡献的软件开发人员&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T125404Z" creationid="lenovo" creationdate="20200813T085444Z">
+        <seg>希望在不使用XML编辑器的情况下对基于DITA的产品文档做出贡献的软件开发人员&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12402,8 +12402,8 @@
       <tuv lang="en">
         <seg>Teachers and trainers who want to create course content for a web site or learning management system (LMS)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T081510Z" creationid="lenovo" creationdate="20200813T081510Z">
-        <seg>希望为web站点或学习管理系统(LMS)创建课程内容的教师和培训师</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T125448Z" creationid="lenovo" creationdate="20200813T081510Z">
+        <seg>希望为王振或学习管理系统(LMS)创建课程内容的教师和培训师</seg>
       </tuv>
     </tu>
     <tu>
