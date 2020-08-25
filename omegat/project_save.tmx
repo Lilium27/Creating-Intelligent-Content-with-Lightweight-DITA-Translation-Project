@@ -6169,6 +6169,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Figure &lt;t0/&gt;6.54&lt;t1/&gt; &lt;t2/&gt;places the author metadata on an HDITA topic, which labels the file as written by Victoria Fernando.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T131352Z" creationid="lenovo" creationdate="20200825T131352Z">
+        <seg>图 &lt;t0/&gt;6.54&lt;t1/&gt; &lt;t2/&gt;将作者元数据放在HDITA主题上，就将文件标记为维多利亚·费尔南多创作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Figure&lt;t0/&gt;: a container for a variety of objects, including artwork, images, code samples, equations, and tables.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T131133Z" creationid="DSS" creationdate="20200804T131133Z">
@@ -8423,6 +8431,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T153250Z" creationid="lenovo" creationdate="20200805T025304Z">
         <seg>相反，如果是将其良性效用发挥到极致，对秩序和规则的痴迷可能会产生革命性的信息模式，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In deliverables produced by LwDITA-aware tools, readers most likely will not see Victoria's name as the author, but the information will be there for human supervisors tracking writ&lt;t14/&gt;ers' contributions and machine processors organizing content by author.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T130810Z" creationid="lenovo" creationdate="20200825T130810Z">
+        <seg>在支持LwDITA的工具生成的可交付内容中，读者很可能不会看到作者栏上写着Victoria的名字，但是这些信息可供管理员跟踪作者的贡献还可供机器处理器根据作者组织内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14076,6 +14092,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The metadata entries should be expressed in pairs of name (&lt;t5/&gt;@name&lt;t6/&gt;) and value (&lt;t7/&gt;@content&lt;t8/&gt;), according to the W3C recommendation for HTML5 metadata&lt;t9/&gt;6&lt;t10/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T131117Z" creationid="lenovo" creationdate="20200825T131117Z">
+        <seg>根据W3C有关HTML5元数据的建议，元数据条目应该用名称(@name)和值(@content)对表示。&lt;t9/&gt;6&lt;t10/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The minimalist approach not only yields a reduction in page count, but it also results in writing that doesn't get in the user's way.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T041457Z" creationid="lenovo" creationdate="20200811T023410Z">
@@ -16241,6 +16265,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200804T153729Z">
         <seg>主题引用（topic reference）&lt;t0/&gt;：标识或链接到某个主题或外部内容资源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Topic-level metadata should be included in a &lt;t0/&gt;&lt;meta&gt; &lt;t1/&gt;tag inside a &lt;t2/&gt;&lt;head&gt; &lt;t3/&gt;envi&lt;t4/&gt;ronment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T130957Z" creationid="lenovo" creationdate="20200825T130957Z">
+        <seg>主题级元数据应该包含在&lt;head&gt;环境中的&lt;meta&gt;标签中。</seg>
       </tuv>
     </tu>
     <tu>
