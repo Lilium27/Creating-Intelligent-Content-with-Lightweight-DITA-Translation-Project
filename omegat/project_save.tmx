@@ -1051,8 +1051,8 @@
       <tuv lang="en">
         <seg>&lt;t2/&gt;In DITA &lt;t3/&gt;1.3, &lt;t4/&gt;for example, a list item can have mixed content (e.g., child ele&lt;t5/&gt;ments like a paragraph combined with non-whitespace character data like text).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131254Z" creationid="lenovo" creationdate="20200813T134623Z">
-        <seg>例如在&lt;t2/&gt;DITA &lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;1.3中，列表项可以有混合内容（像段落这样的子元素和文本这样的非空白字符数据组合在一起）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T133944Z" creationid="lenovo" creationdate="20200813T134623Z">
+        <seg>例如在&lt;t2/&gt;DITA &lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;1.3中，列表项可以包含混合内容（类似于段落子元素和类似于文本非空白字符数据组合在一起）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1811,8 +1811,8 @@
       <tuv lang="en">
         <seg>&lt;t6/&gt;Figure &lt;t7/&gt;4.1&lt;t8/&gt; &lt;t9/&gt;shows a very brief DITA &lt;t10/&gt;1.3 &lt;t11/&gt;topic with three list items: one with mixed content, one with just character data, and one with a child element with&lt;t12/&gt;o&lt;t13/&gt;ut character data.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131255Z" creationid="lenovo" creationdate="20200813T134737Z">
-        <seg>&lt;t6/&gt;图 &lt;t7/&gt;4.1&lt;t8/&gt; &lt;t9/&gt;显示了一个非常简短的DITA&lt;t10/&gt;1.3 &lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;主题，它有三个列表项:一个包含混合内容，一个仅包含字符数据，还有一个包含不包含字符数据的子元素。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T134751Z" creationid="lenovo" creationdate="20200813T134737Z">
+        <seg>&lt;t6/&gt;图 &lt;t7/&gt;4.1&lt;t8/&gt; &lt;t9/&gt;展示了一个非常简短的DITA&lt;t10/&gt;1.3 &lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;主题，它有三个列表项：一个包含混合内容，一个仅包含字符数据，还有一个包含不包含字符数据的子元素。</seg>
       </tuv>
     </tu>
     <tu>
