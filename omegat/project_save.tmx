@@ -5607,6 +5607,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE 6.35 &lt;t0/&gt;Footnote in an HDITA topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T160452Z" creationid="DSS" creationdate="20200825T160452Z">
+        <seg>图 &lt;t0/&gt;6.35 HDITA主题中的脚注。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE 6.38 &lt;t0/&gt;XDITA topic with a phrase component.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T143926Z" creationid="lenovo" creationdate="20200819T143926Z">
@@ -13641,6 +13649,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The attrib&lt;t4/&gt;ute for note type (&lt;t5/&gt;@data-type&lt;t6/&gt;) is optional, but if used it must take a value from xl</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T160400Z" creationid="DSS" creationdate="20200825T160400Z">
+        <seg>注释的类型(&lt;t5/&gt;@type&lt;t6/&gt;)属性是可选的，但要想使用必须从以下值中选择：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The attribute for note type (&lt;t2/&gt;@type&lt;t3/&gt;) is optional, but if used it must take a value from the</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T155402Z" creationid="lenovo" creationdate="20200819T140705Z">
@@ -17852,6 +17868,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T140632Z" creationid="DSS" creationdate="20200810T140632Z">
         <seg>另一个阵营站在信息科技和组织传播的十字路口 (Dayton, &lt;t0/&gt;2004)。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the following: “caution”, “warning”, “danger”, “trouble”, “notice,” or “note”.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T160431Z" creationid="DSS" creationdate="20200825T160431Z">
+        <seg>“提示（caution）”、“警告（warning）”、“危险（danger）”、“问题（trouble）”、“提示（notice）”或“注释（note）”。</seg>
       </tuv>
     </tu>
     <tu>
