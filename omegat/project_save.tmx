@@ -5177,8 +5177,8 @@
       <tuv lang="en">
         <seg>Even before LwDITA existed, when my courses were based on full DITA XML, authoring was the “easy” part.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T013307Z" creationid="lenovo" creationdate="20200813T013307Z">
-        <seg>即使在LwDITA出现之前，当我的课程基于完整的DITA XML时，创作也是“容易”的部分。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T122944Z" creationid="lenovo" creationdate="20200813T013307Z">
+        <seg>即使在LwDITA出现之前，当我基于完整的DITA XML教学时，写作也是“容易”的部分。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9829,8 +9829,8 @@
       <tuv lang="en">
         <seg>LwDITA is a work in progress.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T051916Z" creationid="lenovo" creationdate="20200812T051916Z">
-        <seg>轻量级DITA仍在不断演化。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T122755Z" creationid="lenovo" creationdate="20200812T051916Z">
+        <seg>LwDITA 仍在不断演化。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13710,8 +13710,8 @@
       <tuv lang="en">
         <seg>The ice cream analogy also implies that authoring content is the fun part of a LwDITA-based publishing workflow.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T012917Z" creationid="lenovo" creationdate="20200813T012808Z">
-        <seg>冰淇淋比喻还表明创作内容是基于轻量级DITA发布工作流有趣的组成部分。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T122907Z" creationid="lenovo" creationdate="20200813T012808Z">
+        <seg>冰淇淋比喻还表明写作内容是基于轻量级DITA的发布工作流中的有趣一环。</seg>
       </tuv>
     </tu>
     <tu>
