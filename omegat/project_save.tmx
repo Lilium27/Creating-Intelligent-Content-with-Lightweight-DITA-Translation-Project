@@ -2228,8 +2228,8 @@
       <tuv lang="en">
         <seg>A cross-reference also provides the foundation for footnotes in HDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200818T030147Z" creationid="lenovo" creationdate="20200818T030147Z">
-        <seg>交叉参考为HDITA中脚注奠定了基础。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T154628Z" creationid="lenovo" creationdate="20200818T030147Z">
+        <seg>交叉引用为HDITA中脚注奠定了基础。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8021,8 +8021,8 @@
       <tuv lang="en">
         <seg>In &lt;t2/&gt;Figure &lt;t3/&gt;6.34&lt;t4/&gt;, &lt;t5/&gt;the list of franchise terms includes a cross-reference to a footnote providing information about the initial fee paid by franchise owners.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T154431Z" creationid="lenovo" creationdate="20200818T024929Z">
-        <seg>在 &lt;t2/&gt;图 &lt;t3/&gt;6.34&lt;t4/&gt;，特许经营权条款清单包含了指向脚注的交叉参考，该脚注提供了特许经营权所有人所支付的初始费用信息。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T154628Z" creationid="lenovo" creationdate="20200818T024929Z">
+        <seg>在 &lt;t2/&gt;图 &lt;t3/&gt;6.34&lt;t4/&gt;，特许经营权条款清单包含了指向脚注的交叉引用，该脚注提供了特许经营权所有人所支付的初始费用信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13267,8 +13267,8 @@
       <tuv lang="en">
         <seg>The HTML5 division element (&lt;t0/&gt;&lt;div&gt;&lt;t1/&gt;) with the custom data attribute of &lt;t2/&gt;@data- class=&lt;t3/&gt;“&lt;t4/&gt;fn&lt;t5/&gt;” creates a section for the footnote content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200818T031008Z" creationid="lenovo" creationdate="20200818T031008Z">
-        <seg>带有定制数据属性@data-class==&lt;t3/&gt;“&lt;t4/&gt;fn&lt;t5/&gt;”的HTML5 division元素(&lt;div&gt;)为脚注内容创建了一节。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T154918Z" creationid="lenovo" creationdate="20200818T031008Z">
+        <seg>带有定制数据属性&lt;t2/&gt;@data-class==&lt;t3/&gt;“&lt;t4/&gt;fn&lt;t5/&gt;”的HTML5 块元素(&lt;div&gt;)为脚注内容创建了一区块。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14101,8 +14101,8 @@
       <tuv lang="en">
         <seg>The footnote division should have a unique &lt;t6/&gt;@id&lt;t7/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200818T031018Z" creationid="lenovo" creationdate="20200818T031018Z">
-        <seg>脚注部分应该有一个惟一的@id &lt;t6/&gt;@id&lt;t7/&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T154819Z" creationid="lenovo" creationdate="20200818T031018Z">
+        <seg>脚注部分应该有一个惟一的&lt;t6/&gt;@id&lt;t7/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
