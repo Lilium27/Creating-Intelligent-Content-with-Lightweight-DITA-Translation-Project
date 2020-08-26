@@ -5024,8 +5024,8 @@
       <tuv lang="en">
         <seg>Do not assume that a person reading these sections knows anything about the system” (1976, p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T161301Z" creationid="lenovo" creationdate="20200809T024223Z">
-        <seg>不要假定阅读这些章节的人对系统会有所了解。(1976, p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T160057Z" creationid="lenovo" creationdate="20200809T024223Z">
+        <seg>不要假定阅读这些章节的人对系统会有所了解。”(1976, p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9581,8 +9581,8 @@
       <tuv lang="en">
         <seg>It shows how different elements of the system are used together on an intermediate level” (1976, p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T023937Z" creationid="lenovo" creationdate="20200809T023937Z">
-        <seg>展现了系统中不同元素是如何在中间级上协同使用的。 (1976, p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T160322Z" creationid="lenovo" creationdate="20200809T023937Z">
+        <seg>展现了系统中不同元素是如何在中间层级上协同使用的。 (1976, p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12058,8 +12058,8 @@
       <tuv lang="en">
         <seg>Should contain “step-by-step instructions for performing a task of primary interest to the user.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T023240Z" creationid="lenovo" creationdate="20200809T023240Z">
-        <seg>应该包含“逐步指导”引导用户完成最感兴趣的任务。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T160103Z" creationid="lenovo" creationdate="20200809T023240Z">
+        <seg>应该包含“逐步指导”引导用户完成最感兴趣的任务，</seg>
       </tuv>
     </tu>
     <tu>
