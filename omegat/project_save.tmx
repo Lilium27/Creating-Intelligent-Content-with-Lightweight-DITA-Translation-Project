@@ -4896,8 +4896,8 @@
       <tuv lang="en">
         <seg>Deliverable-specific formatting should be&lt;t2/&gt; added when the topic is processed by a LwDITA-aware software tool.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T124103Z" creationid="lenovo" creationdate="20200825T124103Z">
-        <seg>使用支持LwDITA的软件工具处理主题时，应添加特定于交付的格式。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T141454Z" creationid="lenovo" creationdate="20200825T124103Z">
+        <seg>使用支持LwDITA的软件工具处理主题时，应为不同的交付物使用不同的格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6058,8 +6058,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;6.51 &lt;t1/&gt;Table inside an HDITA topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T123929Z" creationid="lenovo" creationdate="20200825T123929Z">
-        <seg>图 &lt;t0/&gt;6.51 &lt;t1/&gt;HDITA主题中的表。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T141209Z" creationid="lenovo" creationdate="20200825T123929Z">
+        <seg>图 &lt;t0/&gt;6.51 &lt;t1/&gt;HDITA主题中的表格组件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6162,8 +6162,8 @@
       <tuv lang="en">
         <seg>Figure 6.52&lt;t0/&gt; shows the topic with the “Fancy Roll” table in MDITA format.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T123545Z" creationid="lenovo" creationdate="20200825T123545Z">
-        <seg>图6.52显示了具有MDITA格式的“Fancy Roll”表的主题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T141118Z" creationid="lenovo" creationdate="20200825T123545Z">
+        <seg>图6.52展示了MDITA主题中的“Fancy Roll”表格。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8253,8 +8253,8 @@
       <tuv lang="en">
         <seg>In LwDITA, authors have the following components to highlight sections of a text:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T123652Z" creationid="lenovo" creationdate="20200825T123652Z">
-        <seg>在LwDITA中，作者使用以下组件突出显示文本部分:</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T141129Z" creationid="lenovo" creationdate="20200825T123652Z">
+        <seg>在LwDITA中，作者使用以下组件突出显示文本部分：</seg>
       </tuv>
     </tu>
     <tu>
@@ -12506,8 +12506,8 @@
       <tuv lang="en">
         <seg>Superscript Underline.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T123806Z" creationid="lenovo" creationdate="20200825T123806Z">
-        <seg>上标 下划线。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T141156Z" creationid="lenovo" creationdate="20200825T123806Z">
+        <seg>上标 下划线</seg>
       </tuv>
     </tu>
     <tu>
