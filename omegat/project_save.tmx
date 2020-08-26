@@ -1219,8 +1219,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;As its name implies, simple table is “simpler” than the CALS model and contains the following components:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T150222Z" creationid="lenovo" creationdate="20200821T150222Z">
-        <seg>&lt;t3/&gt;顾名思义，简单表比CALS模型“更简单”，包含以下组件：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T135935Z" creationid="lenovo" creationdate="20200821T150222Z">
+        <seg>&lt;t3/&gt;顾名思义，简单表格比CALS模型“更简单”，包含以下组件：</seg>
       </tuv>
     </tu>
     <tu>
@@ -6154,8 +6154,8 @@
       <tuv lang="en">
         <seg>Figure 6.50&lt;t0/&gt; shows a preview of the simple table environment in Oxygen's &lt;t1/&gt;author&lt;t2/&gt; mode.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T135819Z" creationid="lenovo" creationdate="20200821T150805Z">
-        <seg>图 6.50&lt;t0/&gt;展示了在Oxygen的&lt;t1/&gt;作者&lt;t2/&gt;模式下，简单表环境的预览。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T135932Z" creationid="lenovo" creationdate="20200821T150805Z">
+        <seg>图 6.50&lt;t0/&gt;展示了在Oxygen的&lt;t1/&gt;作者&lt;t2/&gt;模式下，简单表格环境的预览。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -6267,8 +6267,8 @@
       <tuv lang="en">
         <seg>Figure &lt;t0/&gt;6.49&lt;t1/&gt; &lt;t2/&gt;includes a simple table that presents the ingredients and quanti&lt;t3/&gt;ties needed to prepare the “Fancy Roll” &lt;t4/&gt;一 &lt;t5/&gt;a signature &lt;t6/&gt;Sensei Sushi&lt;t7/&gt; product.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T135721Z" creationid="lenovo" creationdate="20200821T150646Z">
-        <seg>图 &lt;t0/&gt;6.49&lt;t1/&gt; &lt;t2/&gt;展示了一个简单表组件，表中包含了制作“Fancy Roll” &lt;t4/&gt;——&lt;t5/&gt;&lt;t6/&gt;唤醒寿司&lt;t7/&gt; 的招牌产品所需的配料和数量。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T135928Z" creationid="lenovo" creationdate="20200821T150646Z">
+        <seg>图 &lt;t0/&gt;6.49&lt;t1/&gt; &lt;t2/&gt;展示了一个简单表格组件，表中包含了制作“Fancy Roll” &lt;t4/&gt;——&lt;t5/&gt;&lt;t6/&gt;唤醒寿司&lt;t7/&gt; 的招牌产品所需的配料和数量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8221,8 +8221,8 @@
       <tuv lang="en">
         <seg>In HDITA, you should represent the components of a LwDITA table with the following HTML5 elements:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T150849Z" creationid="lenovo" creationdate="20200821T150849Z">
-        <seg>在HDITA中，应该用以下HTML5元素表示LwDITA表的组件：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T140007Z" creationid="lenovo" creationdate="20200821T150849Z">
+        <seg>在HDITA中，应该用以下HTML5元素表示LwDITA中的表格组件：</seg>
       </tuv>
     </tu>
     <tu>
@@ -8477,8 +8477,8 @@
       <tuv lang="en">
         <seg>In XDITA, the only allowed table model is a simple table (&lt;t0/&gt;&lt;simpletable&gt;&lt;t1/&gt;), which also exists in DITA &lt;t2/&gt;1.3.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T135653Z" creationid="lenovo" creationdate="20200821T150129Z">
-        <seg>在XDITA中，唯一可以使用的表模型是简单表标签(&lt;t0/&gt;&lt;simpletable&gt;&lt;t1/&gt;)，该标签同样存在于DITA &lt;t2/&gt;1.3中。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T135925Z" creationid="lenovo" creationdate="20200821T150129Z">
+        <seg>在XDITA中，唯一可以使用的表格模型是简单表格标签(&lt;t0/&gt;&lt;simpletable&gt;&lt;t1/&gt;)，该标签同样存在于DITA &lt;t2/&gt;1.3中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12600,10 +12600,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Table</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T140049Z" creationid="DSS" creationdate="20200826T140049Z">
+        <seg>表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Table (&lt;t0/&gt;&lt;table&gt;&lt;t1/&gt;)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T150855Z" creationid="lenovo" creationdate="20200821T150855Z">
-        <seg>表 (&lt;t0/&gt;&lt;table&gt;&lt;t1/&gt;)</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T140040Z" creationid="lenovo" creationdate="20200821T150855Z">
+        <seg>表格 (&lt;t0/&gt;&lt;table&gt;&lt;t1/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12642,8 +12650,8 @@
       <tuv lang="en">
         <seg>Table entry (&lt;t0/&gt;&lt;stentry&gt; &lt;t1/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T150310Z" creationid="lenovo" creationdate="20200821T150310Z">
-        <seg>表项目 (&lt;t0/&gt;&lt;stentry&gt; &lt;t1/&gt;).</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T140113Z" creationid="lenovo" creationdate="20200821T150310Z">
+        <seg>表条目 (&lt;t0/&gt;&lt;stentry&gt; &lt;t1/&gt;).</seg>
       </tuv>
     </tu>
     <tu>
