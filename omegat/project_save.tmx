@@ -3612,8 +3612,8 @@
       <tuv lang="en">
         <seg>Audio in HDITA and MDITA</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T135736Z" creationid="lenovo" creationdate="20200825T135736Z">
-        <seg>HDITA和MDITA音频</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T144124Z" creationid="lenovo" creationdate="20200825T135736Z">
+        <seg>HDITA和MDITA音频组件</seg>
       </tuv>
     </tu>
     <tu>
@@ -6090,8 +6090,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;6.56 &lt;t1/&gt;Audio content environment in XDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T140745Z" creationid="lenovo" creationdate="20200825T140704Z">
-        <seg>图 &lt;t0/&gt;6.56 &lt;t1/&gt;XDITA的音频内容环境。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T144207Z" creationid="lenovo" creationdate="20200825T140704Z">
+        <seg>图 &lt;t0/&gt;6.56 &lt;t1/&gt;XDITA的音频组件内容环境。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13012,8 +13012,8 @@
       <tuv lang="en">
         <seg>The &lt;&lt;t0/&gt;media-source&gt; &lt;t1/&gt;component has an attribute of &lt;t2/&gt;@value&lt;t3/&gt;, which provides the path for the actual audio file that includes the recorded jingle.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T135714Z" creationid="lenovo" creationdate="20200825T135714Z">
-        <seg>&lt;media-source&gt;组件有一个@value属性，它的值为包含录制歌曲的实际音频的文件路径。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T144103Z" creationid="lenovo" creationdate="20200825T135714Z">
+        <seg>&lt;&lt;t0/&gt;media-source&gt; &lt;t1/&gt;组件有一个&lt;t2/&gt;@value&lt;t3/&gt;属性，它的值为歌曲的实际音频的文件路径。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15927,8 +15927,8 @@
       <tuv lang="en">
         <seg>This audio-enhanced topic won't make it to the printed brochure for potential franchise owners, but can be included on the company's website.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T135548Z" creationid="lenovo" creationdate="20200825T135548Z">
-        <seg>这个音频加持的主题不会出现在为潜在特许经营人印刷的小册子上，但可以出现在公司的网站上。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T144026Z" creationid="lenovo" creationdate="20200825T135548Z">
+        <seg>这个音频加持的主题不会出现在为潜在特许经营人印制的手册上，但可以出现在公司的网站上。</seg>
       </tuv>
     </tu>
     <tu>
