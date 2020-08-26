@@ -14407,8 +14407,8 @@
       <tuv lang="en">
         <seg>The metadata entries should be expressed in pairs of name (&lt;t5/&gt;@name&lt;t6/&gt;) and value (&lt;t7/&gt;@content&lt;t8/&gt;), according to the W3C recommendation for HTML5 metadata&lt;t9/&gt;6&lt;t10/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T131117Z" creationid="lenovo" creationdate="20200825T131117Z">
-        <seg>根据W3C有关HTML5元数据的建议，元数据条目应该用名称(@name)和值(@content)对表示。&lt;t9/&gt;6&lt;t10/&gt;.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T142336Z" creationid="lenovo" creationdate="20200825T131117Z">
+        <seg>根据W3C有关HTML5元数据的建议，元数据条目应该用名称(@name)和值(@content)属性对表示。&lt;t9/&gt;6&lt;t10/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
