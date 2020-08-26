@@ -16422,8 +16422,8 @@
       <tuv lang="en">
         <seg>Thus, the author can flag the phrase-level content with a &lt;t2/&gt;&lt;ph&gt; &lt;t3/&gt;and an attribute for &lt;t4/&gt;@translate &lt;t5/&gt;with the value of “&lt;t6/&gt;no&lt;t7/&gt;”.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T145955Z" creationid="lenovo" creationdate="20200819T145955Z">
-        <seg>因此，作者可以将这一短语级内容标记 &lt;t2/&gt;&lt;ph&gt; &lt;t3/&gt;并附上值为 “&lt;t6/&gt;no&lt;t7/&gt;”的&lt;t4/&gt;@translate &lt;t5/&gt;属性。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T130307Z" creationid="lenovo" creationdate="20200819T145955Z">
+        <seg>因此，作者可以将这一短语级内容添加&lt;t2/&gt;&lt;ph&gt; &lt;t3/&gt;标签，并附上值为 “&lt;t6/&gt;no&lt;t7/&gt;”的&lt;t4/&gt;@translate &lt;t5/&gt;属性。</seg>
       </tuv>
     </tu>
     <tu>
