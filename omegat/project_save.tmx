@@ -6154,8 +6154,8 @@
       <tuv lang="en">
         <seg>Figure 6.50&lt;t0/&gt; shows a preview of the simple table environment in Oxygen's &lt;t1/&gt;author&lt;t2/&gt; mode.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T150805Z" creationid="lenovo" creationdate="20200821T150805Z">
-        <seg>图 6.50&lt;t0/&gt;显示了在Oxygen的&lt;t1/&gt;作者&lt;t2/&gt;模式下简单表环境的预览。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T135819Z" creationid="lenovo" creationdate="20200821T150805Z">
+        <seg>图 6.50&lt;t0/&gt;展示了在Oxygen的&lt;t1/&gt;作者&lt;t2/&gt;模式下，简单表环境的预览。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -6267,8 +6267,8 @@
       <tuv lang="en">
         <seg>Figure &lt;t0/&gt;6.49&lt;t1/&gt; &lt;t2/&gt;includes a simple table that presents the ingredients and quanti&lt;t3/&gt;ties needed to prepare the “Fancy Roll” &lt;t4/&gt;一 &lt;t5/&gt;a signature &lt;t6/&gt;Sensei Sushi&lt;t7/&gt; product.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T151614Z" creationid="lenovo" creationdate="20200821T150646Z">
-        <seg>图 &lt;t0/&gt;6.49&lt;t1/&gt; &lt;t2/&gt;包含一个简单的表，表中包含了制作“Fancy Roll” &lt;t4/&gt;——&lt;t5/&gt;&lt;t6/&gt;唤醒寿司&lt;t7/&gt; 的招牌产品所需的配料和数量。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T135721Z" creationid="lenovo" creationdate="20200821T150646Z">
+        <seg>图 &lt;t0/&gt;6.49&lt;t1/&gt; &lt;t2/&gt;展示了一个简单表组件，表中包含了制作“Fancy Roll” &lt;t4/&gt;——&lt;t5/&gt;&lt;t6/&gt;唤醒寿司&lt;t7/&gt; 的招牌产品所需的配料和数量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8477,8 +8477,8 @@
       <tuv lang="en">
         <seg>In XDITA, the only allowed table model is a simple table (&lt;t0/&gt;&lt;simpletable&gt;&lt;t1/&gt;), which also exists in DITA &lt;t2/&gt;1.3.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T150129Z" creationid="lenovo" creationdate="20200821T150129Z">
-        <seg>唯一允许的表模型是简单表(&lt;t0/&gt;&lt;simpletable&gt;&lt;t1/&gt;)，同样存在于DITA &lt;t2/&gt;1.3中。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T135653Z" creationid="lenovo" creationdate="20200821T150129Z">
+        <seg>在XDITA中，唯一可以使用的表模型是简单表标签(&lt;t0/&gt;&lt;simpletable&gt;&lt;t1/&gt;)，该标签同样存在于DITA &lt;t2/&gt;1.3中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11543,8 +11543,9 @@
       <tuv lang="en">
         <seg>Probably the most common is through the CALS&lt;t2/&gt;4&lt;t3/&gt; table format, which also comes with a collection of tags and options that make it a rather heavy &lt;t4/&gt;&lt;!DOCTYPE html&gt; &lt;title&gt;What we offer&lt;/title&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T135028Z" creationid="lenovo" creationdate="20200821T143459Z">
-        <seg>最常见的可能是使用CALS&lt;t2/&gt;4&lt;t3/&gt;表格格式，CALS 包含一组标签和选项，这使得它相当繁冗。 &lt;t4/&gt;&lt;!DOCTYPE html&gt; &lt;title&gt;What we offer&lt;/title&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T135548Z" creationid="lenovo" creationdate="20200821T143459Z">
+        <seg>最常见的可能是使用CALS&lt;t2/&gt;4&lt;t3/&gt;表格格式，CALS 包含一组标签和选项，这使得它对于
+非职业内容贡献者来说，</seg>
       </tuv>
     </tu>
     <tu>
@@ -17674,8 +17675,8 @@
       <tuv lang="en">
         <seg>environment for casual content contributors.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T072155Z" creationid="lenovo" creationdate="20200821T145945Z">
-        <seg>非职业内容贡献者的环境。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T135607Z" creationid="lenovo" creationdate="20200821T145945Z">
+        <seg>非常繁冗。</seg>
       </tuv>
     </tu>
     <tu>
