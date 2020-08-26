@@ -1019,8 +1019,8 @@
       <tuv lang="en">
         <seg>&lt;t2/&gt;Figure 6.46&lt;t3/&gt; shows the “Terms and conditions” section in XDITA, where the section's title is provided by a &lt;t4/&gt;&lt;title&gt; &lt;t5/&gt;tag immediately placed after the opening &lt;t6/&gt;&lt;section&gt; &lt;t7/&gt;tag.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T133309Z" creationid="lenovo" creationdate="20200821T133309Z">
-        <seg>图6.46显示了XDITA中的“条款和条件”部分，紧跟在开始的&lt;section&gt;标记之后的&lt;title&gt;标记标注了标题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T133214Z" creationid="lenovo" creationdate="20200821T133309Z">
+        <seg>图6.46展示了XDITA中的“条款和条件”部分，紧跟在开始的&lt;section&gt;标签之后的&lt;title&gt;标签标注了标题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5633,8 +5633,8 @@
       <tuv lang="en">
         <seg>FIGURE 6.42 &lt;t0/&gt;Preview of an XDITA topic with a preformatted text environment in&lt;t1/&gt; Oxygen XML's &lt;t2/&gt;author&lt;t3/&gt; mode.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T133742Z" creationid="lenovo" creationdate="20200821T133742Z">
-        <seg>图 6.42 &lt;t0/&gt;使用&lt;t1/&gt; Oxygen XML的&lt;t2/&gt;作者&lt;t3/&gt;模式预格式化文本环境预览XDITA主题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T133326Z" creationid="lenovo" creationdate="20200821T133742Z">
+        <seg>图 6.42 &lt;t0/&gt;在&lt;t1/&gt; Oxygen XML的&lt;t2/&gt;作者&lt;t3/&gt;模式下，包含预格式化文本组件的XDITA主题的预览。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6371,8 +6371,8 @@
       <tuv lang="en">
         <seg>Footnote</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200818T023824Z" creationid="lenovo" creationdate="20200818T023824Z">
-        <seg>脚注</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T133026Z" creationid="lenovo" creationdate="20200818T023824Z">
+        <seg>脚注组件</seg>
       </tuv>
     </tu>
     <tu>
@@ -9061,8 +9061,8 @@
       <tuv lang="en">
         <seg>In this example, the legal team will add content to a section labeled “Terms and conditions” inside the franchise offer topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T133015Z" creationid="lenovo" creationdate="20200821T133015Z">
-        <seg>在本例中，法律团队将在特许经营要约主题内的“条款和条件”部分添加内容。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T133152Z" creationid="lenovo" creationdate="20200821T133015Z">
+        <seg>在本例中，法律团队将在特许经营权要约主题内的“条款和条件”部分添加内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10861,8 +10861,8 @@
       <tuv lang="en">
         <seg>Note</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T162547Z" creationid="DSS" creationdate="20200804T162547Z">
-        <seg>注释</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T133034Z" creationid="DSS" creationdate="20200804T162547Z">
+        <seg>注释组件</seg>
       </tuv>
     </tu>
     <tu>
@@ -11287,8 +11287,8 @@
       <tuv lang="en">
         <seg>Phrase</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T140937Z" creationid="lenovo" creationdate="20200813T141513Z">
-        <seg>短语</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T133043Z" creationid="lenovo" creationdate="20200813T141513Z">
+        <seg>短语组件</seg>
       </tuv>
     </tu>
     <tu>
@@ -11343,8 +11343,8 @@
       <tuv lang="en">
         <seg>Preformatted Text</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T150827Z" creationid="lenovo" creationdate="20200819T150827Z">
-        <seg>预格式化文本</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T133054Z" creationid="lenovo" creationdate="20200819T150827Z">
+        <seg>预格式化文本组件</seg>
       </tuv>
     </tu>
     <tu>
@@ -11929,8 +11929,8 @@
       <tuv lang="en">
         <seg>Section</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T132804Z" creationid="lenovo" creationdate="20200821T132804Z">
-        <seg>节</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T133101Z" creationid="lenovo" creationdate="20200821T132804Z">
+        <seg>节组件</seg>
       </tuv>
     </tu>
     <tu>
