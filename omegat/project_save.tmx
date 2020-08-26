@@ -6066,8 +6066,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;6.52 &lt;t1/&gt;Table inside an MDITA topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T123915Z" creationid="lenovo" creationdate="20200825T123850Z">
-        <seg>图 &lt;t0/&gt;6.52 &lt;t1/&gt;MDITA主题中的表。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T141514Z" creationid="lenovo" creationdate="20200825T123850Z">
+        <seg>图 &lt;t0/&gt;6.52 &lt;t1/&gt;MDITA主题中的表格组件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10317,8 +10317,8 @@
       <tuv lang="en">
         <seg>MDITA takes advantage of the table&lt;t2/&gt; extension in GitHub Flavored Markdown to represent tabular content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T134933Z" creationid="lenovo" creationdate="20200825T124342Z">
-        <seg>MDITA利用GitHub风格的Markdown中的表扩展来表示表格内容。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T141533Z" creationid="lenovo" creationdate="20200825T124342Z">
+        <seg>MDITA利用GitHub风格的Markdown中的表格扩展语法来表示表格内容。</seg>
       </tuv>
     </tu>
     <tu>
