@@ -4759,8 +4759,8 @@
       <tuv lang="en">
         <seg>DITA just encoded some existing writing standards within IBM, for topic orientation and information typing.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T033628Z" creationid="lenovo" creationdate="20200804T004742Z">
-        <seg>DITA只是对IBM现存的写作标准进行编码，用于划分主题和信息类型。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T150328Z" creationid="lenovo" creationdate="20200804T004742Z">
+        <seg>DITA只是对IBM现存的写作标准进行编码，用于定位主题和划分信息类型。</seg>
       </tuv>
     </tu>
     <tu>
