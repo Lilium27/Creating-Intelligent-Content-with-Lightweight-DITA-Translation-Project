@@ -6026,8 +6026,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;6.41 &lt;t1/&gt;Preformatted text in XDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T152235Z" creationid="lenovo" creationdate="20200819T152235Z">
-        <seg>图 &lt;t0/&gt;6.41 &lt;t1/&gt;XDITA中的预格式化文本。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T131619Z" creationid="lenovo" creationdate="20200819T152235Z">
+        <seg>图 &lt;t0/&gt;6.41 &lt;t1/&gt;XDITA中的预格式化文本组件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6259,8 +6259,8 @@
       <tuv lang="en">
         <seg>Figure &lt;t0/&gt;6.42&lt;t1/&gt; &lt;t2/&gt;shows a preview of the preformatted text in Oxygen XML's &lt;t3/&gt;author&lt;t4/&gt; mode.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T152443Z" creationid="lenovo" creationdate="20200819T152443Z">
-        <seg>Figure &lt;t0/&gt;6.42&lt;t1/&gt; &lt;t2/&gt;显示了Oxygen XML &lt;t3/&gt;作者&lt;t4/&gt;模式下预格式化文本的预览。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T131758Z" creationid="lenovo" creationdate="20200819T152443Z">
+        <seg>Figure &lt;t0/&gt;6.42&lt;t1/&gt; &lt;t2/&gt;在 Oxygen XML &lt;t3/&gt;作者&lt;t4/&gt;模式下，包含预格式化文本组件的主题预览。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7843,8 +7843,8 @@
       <tuv lang="en">
         <seg>If you are working in&lt;t2/&gt; MDITA and need to mark a specific phrase, you should use a raw HDITA code snippet and create an HTML5 span.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T152148Z" creationid="lenovo" creationdate="20200819T152148Z">
-        <seg>如果你在使用MDITA并且需要标记一个特定的短语，你应该使用原始的HDITA代码片段并创建一个HTML5内联容器。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T131606Z" creationid="lenovo" creationdate="20200819T152148Z">
+        <seg>如果你正在使用MDITA并且需要标记一个特定的短语，你应该使用原始的HDITA代码片段并创建一个HTML5内联容器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13051,8 +13051,8 @@
       <tuv lang="en">
         <seg>The &lt;t2/&gt;&lt;pre&gt; &lt;t3/&gt;environment preserves line&lt;t4/&gt; breaks as determined by the author.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T152332Z" creationid="lenovo" creationdate="20200819T152332Z">
-        <seg>&lt;t2/&gt;&lt;pre&gt; &lt;t3/&gt;环境保留由作者确定的换行符。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T131645Z" creationid="lenovo" creationdate="20200819T152332Z">
+        <seg>&lt;t2/&gt;&lt;pre&gt; &lt;t3/&gt;组件所创建的环境会保留由作者输入的换行符。</seg>
       </tuv>
     </tu>
     <tu>
