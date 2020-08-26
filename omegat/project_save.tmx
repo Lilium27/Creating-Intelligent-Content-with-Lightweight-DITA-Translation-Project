@@ -480,8 +480,8 @@
       <tuv lang="en">
         <seg>&lt;t0/&gt;Figure 6.40&lt;t1/&gt; includes the HDITA &lt;t2/&gt;&lt;span&gt; &lt;t3/&gt;environment in an MDITA extended profile topic to select the phrase that should not be translated.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T150814Z" creationid="lenovo" creationdate="20200819T150558Z">
-        <seg>&lt;t0/&gt;图 6.40&lt;t1/&gt; 在MDITA扩展概要主题中包含了HDITA &lt;span&gt;环境，来选择不应该翻译的短语。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T130923Z" creationid="lenovo" creationdate="20200819T150558Z">
+        <seg>&lt;t0/&gt;图 6.40&lt;t1/&gt; 包含了HDITA &lt;span&gt;元素环境的MDITA扩展概要主题，可以自由选择无需翻译的短语。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6010,16 +6010,16 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;6.39 &lt;t1/&gt;HDITA topic with a phrase component.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T151109Z" creationid="lenovo" creationdate="20200819T151109Z">
-        <seg>FIGURE &lt;t0/&gt;6.39 &lt;t1/&gt;带短语的HDITA主题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T131046Z" creationid="lenovo" creationdate="20200819T151109Z">
+        <seg>FIGURE &lt;t0/&gt;6.39 &lt;t1/&gt;包含短语组件的HDITA主题。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;6.40 &lt;t1/&gt;MDITA topic with a phrase component.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T152042Z" creationid="lenovo" creationdate="20200819T152042Z">
-        <seg>图 &lt;t0/&gt;6.40 &lt;t1/&gt;具有短语组件的MDITA主题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T131052Z" creationid="lenovo" creationdate="20200819T152042Z">
+        <seg>图 &lt;t0/&gt;6.40 &lt;t1/&gt;包含短语组件的MDITA主题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8541,8 +8541,8 @@
       <tuv lang="en">
         <seg>In a publishing environment using DITA or LwDITA, the &lt;t0/&gt;Sensei Sushi&lt;t1/&gt; staff has little to no control over the appearance of text in user deliverables.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T151052Z" creationid="lenovo" creationdate="20200819T151052Z">
-        <seg>在使用DITA或LwDITA的发布环境中，&lt;t0/&gt;唤醒寿司&lt;t1/&gt;的员工几乎不能控制用户交付内容中文本的外观。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T131016Z" creationid="lenovo" creationdate="20200819T151052Z">
+        <seg>在使用DITA或LwDITA的发布环境中，&lt;t0/&gt;唤醒寿司&lt;t1/&gt;的员工几乎不能控制用户交付内容中文本的样式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8815,6 +8815,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T140319Z" creationid="DSS" creationdate="20200818T140319Z">
         <seg>在那个版本中，书里写到：手册作为技术传播的主要体裁已经过时，而这也是代顿演讲中指出的断线层出现的原因之一。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T131027Z" creationid="DSS" creationdate="20200826T131027Z">
+        <seg>在</seg>
       </tuv>
     </tu>
     <tu>
@@ -17370,8 +17378,8 @@
       <tuv lang="en">
         <seg>XDITA and HDITA</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T150932Z" creationid="lenovo" creationdate="20200819T150932Z">
-        <seg>XDITA和 HDITA</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T130937Z" creationid="lenovo" creationdate="20200819T150932Z">
+        <seg>XDITA和 HDITA 格式</seg>
       </tuv>
     </tu>
     <tu>
@@ -17818,8 +17826,8 @@
       <tuv lang="en">
         <seg>process of transformation, the content sources will be linked to stylesheets and templates with rules that most likely will be outside of a casual author's control.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T151350Z" creationid="lenovo" creationdate="20200819T151350Z">
-        <seg>在转换过程中，内容源将被链接到样式表和模板，其中的规则很可能超出了普通作者的控制范围。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T131020Z" creationid="lenovo" creationdate="20200819T151350Z">
+        <seg>转换过程中，内容源将被链接到样式表和模板，其中的规则很可能超出了普通作者的控制范围。</seg>
       </tuv>
     </tu>
     <tu>
