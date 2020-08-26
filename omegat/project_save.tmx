@@ -5617,8 +5617,8 @@
       <tuv lang="en">
         <seg>FIGURE 6.38 &lt;t0/&gt;XDITA topic with a phrase component.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T143926Z" creationid="lenovo" creationdate="20200819T143926Z">
-        <seg>图 6.38 &lt;t0/&gt;带有短语组件的XDITA主题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T125911Z" creationid="lenovo" creationdate="20200819T143926Z">
+        <seg>图 6.38 &lt;t0/&gt;包含短语组件的XDITA主题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8029,8 +8029,8 @@
       <tuv lang="en">
         <seg>In &lt;t2/&gt;Figure 6.38&lt;t3/&gt;, the first list item includes the term</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T125345Z" creationid="DSS" creationdate="20200826T125345Z">
-        <seg>在&lt;t2/&gt;图6.38&lt;t3/&gt;中，第一个列表项包括术语</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T130035Z" creationid="DSS" creationdate="20200826T125345Z">
+        <seg>在&lt;t2/&gt;图6.38&lt;t3/&gt;中，第一个列表项包括短语</seg>
       </tuv>
     </tu>
     <tu>
@@ -13035,8 +13035,8 @@
       <tuv lang="en">
         <seg>The &lt;t1/&gt;@translate &lt;t2/&gt;attribute has&lt;t3/&gt; a value of “no”, which indicates to machine processors and human editors that the marked phrase should not be translated.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T144031Z" creationid="lenovo" creationdate="20200819T144031Z">
-        <seg> &lt;t1/&gt;@translate &lt;t2/&gt;属性的值为“no”则表示机器处理器和人工编辑器不应该翻译标记的短语。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T130019Z" creationid="lenovo" creationdate="20200819T144031Z">
+        <seg> &lt;t1/&gt;@translate &lt;t2/&gt;属性的值为“no”，表示机器处理器和人工编辑器不应该翻译该短语。</seg>
       </tuv>
     </tu>
     <tu>
