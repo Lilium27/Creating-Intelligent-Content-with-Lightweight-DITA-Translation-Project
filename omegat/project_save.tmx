@@ -6106,8 +6106,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;6.58 &lt;t1/&gt;Video content environment in XDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T142228Z" creationid="lenovo" creationdate="20200825T142228Z">
-        <seg>图 &lt;t0/&gt;6.58 &lt;t1/&gt;XDITA中的视频内容环境。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T145419Z" creationid="lenovo" creationdate="20200825T142228Z">
+        <seg>图 &lt;t0/&gt;6.58 &lt;t1/&gt;XDITA中的视频组件内容环境。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7997,8 +7997,8 @@
       <tuv lang="en">
         <seg>In &lt;t0/&gt;Figure &lt;t1/&gt;6.58&lt;t2/&gt;, &lt;t3/&gt;the topic features a video component about the &lt;t4/&gt;Sensei Sushi &lt;t5/&gt;promise.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T141823Z" creationid="lenovo" creationdate="20200825T141823Z">
-        <seg>在&lt;t0/&gt;图&lt;t1/&gt;6.58&lt;t2/&gt;中, &lt;t3/&gt;这个主题包含了一个关于&lt;t4/&gt;唤醒寿司&lt;t5/&gt;承诺的视频组件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T145338Z" creationid="lenovo" creationdate="20200825T141823Z">
+        <seg>&lt;t0/&gt;图&lt;t1/&gt;6.58&lt;t2/&gt;展示的&lt;t3/&gt;主题包含了一个关于&lt;t4/&gt;唤醒寿司&lt;t5/&gt;承诺的视频组件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8237,8 +8237,8 @@
       <tuv lang="en">
         <seg>In HTML5, many media&lt;t2/&gt; components represented with elements in XDITA are expressed with attributes instead.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T141645Z" creationid="lenovo" creationdate="20200825T141645Z">
-        <seg>在HTML5中，许多在XDITA中用元素表示的媒体组件都用属性表示。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T145309Z" creationid="lenovo" creationdate="20200825T141645Z">
+        <seg>在HTML5中，许多在XDITA中用元素表示的媒体组件都用属性表示，</seg>
       </tuv>
     </tu>
     <tu>
@@ -16834,8 +16834,8 @@
       <tuv lang="en">
         <seg>Video in HDITA and MDITA</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T141911Z" creationid="lenovo" creationdate="20200825T141911Z">
-        <seg>HDITA和MDITA的视频</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T145358Z" creationid="lenovo" creationdate="20200825T141911Z">
+        <seg>HDITA和MDITA的视频组件</seg>
       </tuv>
     </tu>
     <tu>
