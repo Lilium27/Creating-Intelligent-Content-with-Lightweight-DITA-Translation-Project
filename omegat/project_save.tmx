@@ -1979,8 +1979,8 @@
       <tuv lang="en">
         <seg>&lt;t8/&gt;Figure 6.48&lt;t9/&gt; shows how a level-two &lt;t10/&gt;atx&lt;t11/&gt; heading can create a section in an MDITA topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T140637Z" creationid="lenovo" creationdate="20200821T140637Z">
-        <seg>&lt;t8/&gt;图 6.48&lt;t9/&gt;展示了二级标题 &lt;t10/&gt;atx&lt;t11/&gt;如何在MDITA主题中创建节。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T134114Z" creationid="lenovo" creationdate="20200821T140637Z">
+        <seg>&lt;t8/&gt;图 6.48&lt;t9/&gt;展示了一个MDITA主题，该主题使用&lt;t10/&gt;atx&lt;t11/&gt;语法标记了一个二级标题，以创建节。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -17546,8 +17546,8 @@
       <tuv lang="en">
         <seg>You can represent the heading 2 with an &lt;t0/&gt;atx&lt;t1/&gt; (&lt;t2/&gt;##&lt;t3/&gt;) or &lt;t4/&gt;setext&lt;t5/&gt; (with underline from the character &lt;t6/&gt;-&lt;t7/&gt;) header.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T140401Z" creationid="lenovo" creationdate="20200821T140401Z">
-        <seg>可以使用&lt;t0/&gt;atx&lt;t1/&gt; (&lt;t2/&gt;##&lt;t3/&gt;)或&lt;t4/&gt;setext&lt;t5/&gt; (带有下划线的字符&lt;t6/&gt;-&lt;t7/&gt;) 来表示二级标题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T133748Z" creationid="lenovo" creationdate="20200821T140401Z">
+        <seg>可以使用&lt;t0/&gt;atx&lt;t1/&gt;语法(&lt;t2/&gt;##&lt;t3/&gt;)或&lt;t4/&gt;setext&lt;t5/&gt;语法(带有下划线的字符&lt;t6/&gt;-&lt;t7/&gt;) 来表示二级标题。</seg>
       </tuv>
     </tu>
     <tu>
