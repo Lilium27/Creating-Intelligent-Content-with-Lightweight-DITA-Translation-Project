@@ -6291,8 +6291,8 @@
       <tuv lang="en">
         <seg>Figure &lt;t0/&gt;6.57&lt;t1/&gt; &lt;t2/&gt;shows an HDITA topic with the audio environment.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T141057Z" creationid="lenovo" creationdate="20200825T141057Z">
-        <seg>图 &lt;t0/&gt;6.57&lt;t1/&gt; &lt;t2/&gt;显示了包含音频环境的HDITA主题</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T144312Z" creationid="lenovo" creationdate="20200825T141057Z">
+        <seg>图 &lt;t0/&gt;6.57&lt;t1/&gt; &lt;t2/&gt;展示了包含音频组件内容环境的HDITA主题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8485,8 +8485,8 @@
       <tuv lang="en">
         <seg>In XDITA, video can contain the following components:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T141240Z" creationid="lenovo" creationdate="20200825T141240Z">
-        <seg>在XDITA中，视频可以包含以下组件:</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T144338Z" creationid="lenovo" creationdate="20200825T141240Z">
+        <seg>在XDITA中，视频可以包含以下组件：</seg>
       </tuv>
     </tu>
     <tu>
@@ -11319,8 +11319,8 @@
       <tuv lang="en">
         <seg>Poster&lt;t0/&gt;: a link to an image or static video frame.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T155059Z" creationid="DSS" creationdate="20200804T155027Z">
-        <seg>海报（poster）&lt;t0/&gt;：图像或静态视频的链接。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T144805Z" creationid="DSS" creationdate="20200804T155027Z">
+        <seg>预览图片（poster）&lt;t0/&gt;：图像或静态视频的链接。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13812,8 +13812,8 @@
       <tuv lang="en">
         <seg>The components for source&lt;t2/&gt; and track should be present; all others are optional.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T140940Z" creationid="lenovo" creationdate="20200825T140940Z">
-        <seg>来源和音轨必须包含，其他内容可选。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T144251Z" creationid="lenovo" creationdate="20200825T140940Z">
+        <seg>必须包含来源和音轨组件，其他内容可选。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14855,8 +14855,8 @@
       <tuv lang="en">
         <seg>The same environment, in an HTML5 code block, can be used in an MDITA extended profile topic if needed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T141103Z" creationid="lenovo" creationdate="20200825T141103Z">
-        <seg>如果需要，在一个HTML5代码块中，同样的环境也可以用于MDITA扩展概要文件主题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T144508Z" creationid="lenovo" creationdate="20200825T141103Z">
+        <seg>如果需要使用音频组件的话，HTML5代码块所创建的内容环境，也可以用在MDITA扩展概要文件主题中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16818,8 +16818,8 @@
       <tuv lang="en">
         <seg>Video in XDITA</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T141236Z" creationid="lenovo" creationdate="20200825T141236Z">
-        <seg>XDITA中的视频</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T144329Z" creationid="lenovo" creationdate="20200825T141236Z">
+        <seg>XDITA中的视频组件</seg>
       </tuv>
     </tu>
     <tu>
