@@ -5641,16 +5641,16 @@
       <tuv lang="en">
         <seg>FIGURE 6.43 &lt;t0/&gt;Preformatted text in HDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T134114Z" creationid="lenovo" creationdate="20200821T134114Z">
-        <seg>图 6.43 &lt;t0/&gt;HDITA中的预格式化文本。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T133350Z" creationid="lenovo" creationdate="20200821T134114Z">
+        <seg>图 6.43 &lt;t0/&gt;HDITA中的预格式化文本组件。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE 6.44 &lt;t0/&gt;Web browser view of the preformatted text example in HDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T134410Z" creationid="lenovo" creationdate="20200821T134410Z">
-        <seg>图 6.44 &lt;t0/&gt;HDITA中预格式化文本示例的Web浏览器视图。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T133436Z" creationid="lenovo" creationdate="20200821T134410Z">
+        <seg>图 6.44 &lt;t0/&gt;HDITA中预格式化文本示例的网页浏览器视图。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6146,8 +6146,8 @@
       <tuv lang="en">
         <seg>Figure 6.47&lt;t0/&gt; reproduces the franchise offer topic in HDITA syntax.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T135740Z" creationid="lenovo" creationdate="20200821T135740Z">
-        <seg>图 6.47&lt;t0/&gt; 复现HDITA语法中的特许经营权授权主题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T133556Z" creationid="lenovo" creationdate="20200821T135740Z">
+        <seg>图 6.47&lt;t0/&gt; 展示了一个HDITA主题，该主题复现了特许经营权授权主题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7835,8 +7835,8 @@
       <tuv lang="en">
         <seg>If you are working in MDITA, you should use a Markdown heading 2 to create a content division similar to a section in XDITA and HDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T132921Z" creationid="lenovo" creationdate="20200821T140141Z">
-        <seg>如果你使用的是MDITA，那么应该使用Markdown二级标题创建一个类似于XDITA和HDITA中节的内容分区。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T133731Z" creationid="lenovo" creationdate="20200821T140141Z">
+        <seg>如果你使用的是MDITA，那么应该使用Markdown中的二级标题创建内容分区，Markdown中的二级标题类似于XDITA和HDITA中的节元素。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8213,8 +8213,8 @@
       <tuv lang="en">
         <seg>In HDITA, the section component is also represented with the tag &lt;t1/&gt;&lt;section&gt;&lt;t2/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T135850Z" creationid="lenovo" creationdate="20200821T135850Z">
-        <seg>在HDITA中，节组件也可用标记 &lt;t1/&gt;&lt;section&gt;&lt;t2/&gt;表示。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T133610Z" creationid="lenovo" creationdate="20200821T135850Z">
+        <seg>在HDITA中，节组件也可用标签 &lt;t1/&gt;&lt;section&gt;&lt;t2/&gt;表示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14318,8 +14318,8 @@
       <tuv lang="en">
         <seg>The line breaks inside the &lt;t4/&gt;&lt;pre&gt; &lt;t5/&gt;tags appear as the author wrote them.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T134039Z" creationid="lenovo" creationdate="20200821T134039Z">
-        <seg>&lt;t4/&gt;&lt;pre&gt; &lt;t5/&gt;标签中出现的换行符是作者编写的。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T133342Z" creationid="lenovo" creationdate="20200821T134039Z">
+        <seg>&lt;t4/&gt;&lt;pre&gt; &lt;t5/&gt;标签中的换行符是作者编写的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15110,8 +15110,8 @@
       <tuv lang="en">
         <seg>The syntax is identical to its&lt;t1/&gt; counterpart in XDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T134313Z" creationid="lenovo" creationdate="20200821T134313Z">
-        <seg>其语法与XDITA中的&lt;t1/&gt;预格式化文本相同。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T133354Z" creationid="lenovo" creationdate="20200821T134313Z">
+        <seg>其语法与XDITA中的&lt;t1/&gt;预格式化文本组件相同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15430,8 +15430,8 @@
       <tuv lang="en">
         <seg>The&lt;t1/&gt; browser respects the line breaks established in the topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T134454Z" creationid="lenovo" creationdate="20200821T134454Z">
-        <seg>&lt;t1/&gt;浏览器遵循主题中的换行符。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T133452Z" creationid="lenovo" creationdate="20200821T134454Z">
+        <seg>&lt;t1/&gt;浏览器保留了主题中的换行符。</seg>
       </tuv>
     </tu>
     <tu>
