@@ -8101,8 +8101,8 @@
       <tuv lang="en">
         <seg>In DITA &lt;t0/&gt;1.3, &lt;t1/&gt;you can represent a tabular environment in more than one way.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T143410Z" creationid="lenovo" creationdate="20200821T143410Z">
-        <seg>在DITA &lt;t0/&gt;1.3, &lt;t1/&gt;可以用多种方式表示表格环境。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T134651Z" creationid="lenovo" creationdate="20200821T143410Z">
+        <seg>在DITA &lt;t0/&gt;1.3中，&lt;t1/&gt;可以用多种方式表示表格环境。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11543,8 +11543,8 @@
       <tuv lang="en">
         <seg>Probably the most common is through the CALS&lt;t2/&gt;4&lt;t3/&gt; table format, which also comes with a collection of tags and options that make it a rather heavy &lt;t4/&gt;&lt;!DOCTYPE html&gt; &lt;title&gt;What we offer&lt;/title&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T143459Z" creationid="lenovo" creationdate="20200821T143459Z">
-        <seg>最常见的可能是通过CALS4表格式，它还附带了一组标记和选项，这使得它相当沉重 &lt;t4/&gt;&lt;!DOCTYPE html&gt; &lt;title&gt;What we offer&lt;/title&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T135028Z" creationid="lenovo" creationdate="20200821T143459Z">
+        <seg>最常见的可能是使用CALS&lt;t2/&gt;4&lt;t3/&gt;表格格式，CALS 包含一组标签和选项，这使得它相当繁冗。 &lt;t4/&gt;&lt;!DOCTYPE html&gt; &lt;title&gt;What we offer&lt;/title&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12625,8 +12625,8 @@
       <tuv lang="en">
         <seg>Table components</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T143123Z" creationid="lenovo" creationdate="20200821T143123Z">
-        <seg>表组件</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T134639Z" creationid="lenovo" creationdate="20200821T143123Z">
+        <seg>表格组件</seg>
       </tuv>
     </tu>
     <tu>
@@ -15654,8 +15654,8 @@
       <tuv lang="en">
         <seg>Therefore, the &lt;t0/&gt;@id &lt;t1/&gt;for the “Terms and conditions” section from &lt;t2/&gt;Figure &lt;t3/&gt;6.48&lt;t4/&gt; &lt;t5/&gt;would be “&lt;t6/&gt;terms-and-conditions”&lt;t7/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T143114Z" creationid="lenovo" creationdate="20200821T143114Z">
-        <seg>因此，图6.48中“条款和条件”节的@id将是“条款和条件”。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T134627Z" creationid="lenovo" creationdate="20200821T143114Z">
+        <seg>因此，图6.48中“条款和条件”节的@id将是&lt;t6/&gt;terms-and-conditions”&lt;t7/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
