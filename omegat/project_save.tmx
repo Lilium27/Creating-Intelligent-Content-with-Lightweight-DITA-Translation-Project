@@ -6002,8 +6002,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;6.37 &lt;t1/&gt;Note environment in an HDITA topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T143616Z" creationid="lenovo" creationdate="20200819T143616Z">
-        <seg>图 &lt;t0/&gt;6.37 &lt;t1/&gt;HDITA主题的注释环境。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T125557Z" creationid="lenovo" creationdate="20200819T143616Z">
+        <seg>图 &lt;t0/&gt;6.37 &lt;t1/&gt;HDITA主题中的注释组件所创建的环境。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14462,8 +14462,8 @@
       <tuv lang="en">
         <seg>The note is created in HTML5&lt;t2/&gt; with a division element and custom data attributes to specify its class of “note” and an optional type.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T155947Z" creationid="lenovo" creationdate="20200819T143911Z">
-        <seg>注释是在HTML5中创建的，带有一个division元素和自定义数据属性以指定其类“note”，还有一个可选类型。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T125903Z" creationid="lenovo" creationdate="20200819T143911Z">
+        <seg>该注释是使用HTML5创建的，包含有一个块元素，以及指定其所属类“note”和可选类型的自定义数据属性。</seg>
       </tuv>
     </tu>
     <tu>
