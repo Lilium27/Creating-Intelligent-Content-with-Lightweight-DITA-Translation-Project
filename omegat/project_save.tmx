@@ -2508,8 +2508,8 @@
       <tuv lang="en">
         <seg>According to the GFM spec,&lt;t1/&gt; preformatted lines can be indented or fenced by backtick characters or tides.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T142133Z" creationid="lenovo" creationdate="20200821T141955Z">
-        <seg>根据GFM规范，&lt;t1/&gt;预格式化的行可以用反引号或波浪线来缩进或隔离。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T134312Z" creationid="lenovo" creationdate="20200821T141955Z">
+        <seg>根据GFM规范，&lt;t1/&gt;预格式化文本组件中的行可以用反引号或波浪线来缩进或隔离。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5657,8 +5657,8 @@
       <tuv lang="en">
         <seg>FIGURE 6.45 &lt;t0/&gt;Preformatted text in MDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T141811Z" creationid="lenovo" creationdate="20200821T141811Z">
-        <seg>图 6.45 &lt;t0/&gt;MDITA中的预格式化文本。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T134248Z" creationid="lenovo" creationdate="20200821T141811Z">
+        <seg>图 6.45 &lt;t0/&gt;MDITA中的预格式化文本组件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9077,8 +9077,8 @@
       <tuv lang="en">
         <seg>In this example, the text is preformatted with indents.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T142235Z" creationid="lenovo" creationdate="20200821T142235Z">
-        <seg>在本例中，文本用缩进预格式化。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T134506Z" creationid="lenovo" creationdate="20200821T142235Z">
+        <seg>在本例中，文本使用了缩进以预格式化。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14950,8 +14950,8 @@
       <tuv lang="en">
         <seg>The section has its own&lt;t2/&gt; &lt;t3/&gt;@id &lt;t4/&gt;and &lt;t5/&gt;&lt;title&gt;&lt;t6/&gt;, functioning as a separate (but related) environment inside a larger topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T143003Z" creationid="lenovo" creationdate="20200821T143003Z">
-        <seg>节有自己的&lt;t2/&gt; &lt;t3/&gt;@id &lt;t4/&gt;和&lt;t5/&gt;&lt;title&gt;&lt;t6/&gt;，在大主题中它以以作为分隔（但相关）环境。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T134606Z" creationid="lenovo" creationdate="20200821T143003Z">
+        <seg>节有自己的&lt;t2/&gt; &lt;t3/&gt;@id &lt;t4/&gt;和&lt;t5/&gt;&lt;title&gt;&lt;t6/&gt;，在一个更大的主题中，它分隔不同的（但相关的）内容环境。</seg>
       </tuv>
     </tu>
     <tu>
