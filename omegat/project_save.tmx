@@ -8981,8 +8981,8 @@
       <tuv lang="en">
         <seg>In the world of rhetoric that defines discourse in most academic programs teaching technical communication in the United States, a topic would actu&lt;t0/&gt;ally be one of those content units, and not necessarily the whole “DITA topic.” Confusing?</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T062717Z" creationid="lenovo" creationdate="20200811T145729Z">
-        <seg>在美国大多数教授技术传播的学术项目中，话语中充斥着修辞，主题实际上可能只是其中一个内容单元，并不一定就是整个“DITA主题。”对此，你是否感到困惑？&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T162459Z" creationid="lenovo" creationdate="20200811T145729Z">
+        <seg>修辞学定义了美国大多数技术传播学术项目中所教授的语篇概念，主题实际上可能只是其中一个内容单元，并不一定就是指整个“DITA主题”。对此，你是否感到困惑？&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18614,8 +18614,8 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;Give people a break</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T125822Z" creationid="lenovo" creationdate="20200810T125333Z">
-        <seg>• &lt;t0/&gt;帮用户分解任务</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T161431Z" creationid="lenovo" creationdate="20200810T125333Z">
+        <seg>• &lt;t0/&gt;帮用减轻负担</seg>
       </tuv>
     </tu>
     <tu>
