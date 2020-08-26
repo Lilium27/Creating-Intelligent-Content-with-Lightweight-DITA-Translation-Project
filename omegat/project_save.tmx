@@ -1011,8 +1011,8 @@
       <tuv lang="en">
         <seg>&lt;t2/&gt;Figure 6.39&lt;t3/&gt; shows the “know-how” phrase with a do not translate attribute in an HDITA topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T150355Z" creationid="lenovo" creationdate="20200819T150355Z">
-        <seg>&lt;t2/&gt;图 6.39&lt;t3/&gt; 展示“know-how”词组在HDITA主题中附有禁止翻译属性</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T130756Z" creationid="lenovo" creationdate="20200819T150355Z">
+        <seg>&lt;t2/&gt;图 6.39&lt;t3/&gt; 展示了HDITA主题中附有禁止翻译属性的“know-how”短语元素。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2876,8 +2876,8 @@
       <tuv lang="en">
         <seg>Although there is no direct equivalent for phrase or span in Markdown, you can flag phrase-level content in MDITA extended profile using an HDITA code snippet.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T150724Z" creationid="lenovo" creationdate="20200819T150451Z">
-        <seg>尽管在Markdown中没有短语或内联容器的直接对等物，但可以用HDITA代码片段在MDITA扩展概要中标记短语级内容。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T130823Z" creationid="lenovo" creationdate="20200819T150451Z">
+        <seg>尽管在Markdown中没有短语或内联容器元素的直接对等物，但可以用HDITA代码片段在MDITA扩展概要中标记短语级内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8205,8 +8205,8 @@
       <tuv lang="en">
         <seg>In HDITA, the note component is expressed with an HTML division (&lt;t0/&gt;&lt;div&gt;&lt;t1/&gt;) environment with the custom data attribute of &lt;t2/&gt;@data-class=“note”&lt;t3/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T155947Z" creationid="lenovo" creationdate="20200819T140950Z">
-        <seg>在HDITA中，注释组件是用HTML中的块标签 (&lt;t0/&gt;&lt;div&gt;&lt;t1/&gt;) 表示的，自定义数据属性是 &lt;t2/&gt;@data-class=“note”&lt;t3/&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T130618Z" creationid="lenovo" creationdate="20200819T140950Z">
+        <seg>在HDITA中，注释组件是用HTML中的块级容器标签 (&lt;t0/&gt;&lt;div&gt;&lt;t1/&gt;) 表示的，自定义数据属性是 &lt;t2/&gt;@data-class=“note”&lt;t3/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13291,8 +13291,8 @@
       <tuv lang="en">
         <seg>The HTML5 division element (&lt;t0/&gt;&lt;div&gt;&lt;t1/&gt;) with the custom data attribute of &lt;t2/&gt;@data- class=&lt;t3/&gt;“&lt;t4/&gt;fn&lt;t5/&gt;” creates a section for the footnote content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T155947Z" creationid="lenovo" creationdate="20200818T031008Z">
-        <seg>带有自定义数据属性&lt;t2/&gt;@data-class==&lt;t3/&gt;“&lt;t4/&gt;fn&lt;t5/&gt;”的HTML5 块元素(&lt;div&gt;)为脚注内容创建了一区块。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T130606Z" creationid="lenovo" creationdate="20200818T031008Z">
+        <seg>包含自定义数据属性&lt;t2/&gt;@data-class==&lt;t3/&gt;“&lt;t4/&gt;fn&lt;t5/&gt;”的HTML5 块级容器元素(&lt;div&gt;)为脚注内容创建了一区块。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14462,8 +14462,8 @@
       <tuv lang="en">
         <seg>The note is created in HTML5&lt;t2/&gt; with a division element and custom data attributes to specify its class of “note” and an optional type.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T125903Z" creationid="lenovo" creationdate="20200819T143911Z">
-        <seg>该注释是使用HTML5创建的，包含有一个块元素，以及指定其所属类“note”和可选类型的自定义数据属性。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T130653Z" creationid="lenovo" creationdate="20200819T143911Z">
+        <seg>该注释是使用HTML5创建的，包含有一个块级容器元素，以及指定其所属类“note”和可选类型的自定义数据属性。</seg>
       </tuv>
     </tu>
     <tu>
