@@ -6098,8 +6098,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;6.57 &lt;t1/&gt;Audio content environment in HDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T141516Z" creationid="lenovo" creationdate="20200825T141516Z">
-        <seg>图 &lt;t0/&gt;6.57 &lt;t1/&gt;HDITA中的音频内容环境</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T145104Z" creationid="lenovo" creationdate="20200825T141516Z">
+        <seg>图 &lt;t0/&gt;6.57 &lt;t1/&gt;HDITA中的音频内容环境。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11255,8 +11255,8 @@
       <tuv lang="en">
         <seg>Pay attention to the element-to -attribute correspondence in some multimedia components.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T141712Z" creationid="lenovo" creationdate="20200825T141712Z">
-        <seg>注意多媒体组件中元素与属性的对应关系。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T145252Z" creationid="lenovo" creationdate="20200825T141712Z">
+        <seg>需要注意多媒体组件中元素与属性的对应关系。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11313,6 +11313,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T143404Z" creationid="lenovo" creationdate="20200813T012421Z">
         <seg>值得注意的是，本书与实际发布的轻量级DITA标准在细节上存在差异。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Poster (&lt;t0/&gt;&lt;video-poster&gt;&lt;t1/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T144905Z" creationid="DSS" creationdate="20200826T144905Z">
+        <seg>预览图片 (&lt;t0/&gt;&lt;video-poster&gt;&lt;t1/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12340,6 +12348,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T135234Z" creationid="lenovo" creationdate="20200825T135234Z">
         <seg>来源 (&lt;t0/&gt;&lt;media-source&gt;&lt;t1/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source (&lt;t0/&gt;&lt;source&gt;&lt;t1/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T145054Z" creationid="DSS" creationdate="20200826T145028Z">
+        <seg>来源 (&lt;t0/&gt;&lt;source&gt;&lt;t1/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16659,6 +16675,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T143821Z" creationid="lenovo" creationdate="20200825T135241Z">
         <seg>音轨 (&lt;t0/&gt;&lt;media-track&gt;&lt;t1/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Track (&lt;t0/&gt;&lt;track&gt;&lt;t1/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T145040Z" creationid="DSS" creationdate="20200826T145040Z">
+        <seg>音轨 (&lt;t0/&gt;&lt;track&gt;&lt;t1/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
