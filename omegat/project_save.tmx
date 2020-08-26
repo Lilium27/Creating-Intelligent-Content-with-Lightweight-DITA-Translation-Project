@@ -12642,8 +12642,8 @@
       <tuv lang="en">
         <seg>Table entries inside a row should be separated by pipes (&lt;t0/&gt;| &lt;t1/&gt;), and the delimiter should contain hyphens (&lt;t2/&gt;-&lt;t3/&gt;), “and optionally, a leading or trailing colon (:), or both, to indicate left, right, or center alignment respectively” (GitHub Flavored Markdown Spec, 2017).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T123238Z" creationid="lenovo" creationdate="20200825T123238Z">
-        <seg>行内的表项应该用管道(|)分隔，分隔符应该包含连字符(-)、“要么是前导冒号或尾冒号(:)，或两者都包含，分别表示左对齐、右对齐或居中对齐”。(GitHub Flavored Markdown Spec, 2017).</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T141026Z" creationid="lenovo" creationdate="20200825T123238Z">
+        <seg>行内的表项应该用管道(|)分隔，分隔符应该使用连字符(-)、“以及一个可选选项，使用前导冒号或尾冒号(:)，或两者都使用，来分别表示左对齐、右对齐或居中对齐”。(GitHub Flavored Markdown Spec, 2017)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13500,8 +13500,8 @@
       <tuv lang="en">
         <seg>The MDITA table component is based on the tabular extension included in GitHub Flavored Markdown.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T122548Z" creationid="lenovo" creationdate="20200825T122548Z">
-        <seg>MDITA表组件基于GitHub风味的Markdown中包含的表格扩展。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T140553Z" creationid="lenovo" creationdate="20200825T122548Z">
+        <seg>MDITA表格组件使用GitHub风格的Markdown表格扩展语法编写。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15135,8 +15135,8 @@
       <tuv lang="en">
         <seg>The table should contain a header row, a delimiter row, and zero or more rows with entries.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T122719Z" creationid="lenovo" creationdate="20200825T122719Z">
-        <seg>该表应包含一个标题行、一个分隔符行以及零或多行带有条目的行。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T140644Z" creationid="lenovo" creationdate="20200825T122719Z">
+        <seg>表格应包含一个标题行，一个分隔符行，以及零个或多个条目行。</seg>
       </tuv>
     </tu>
     <tu>
