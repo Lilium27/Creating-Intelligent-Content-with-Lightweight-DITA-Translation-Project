@@ -5994,8 +5994,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;6.36 &lt;t1/&gt;Note environment in an XDITA topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T143215Z" creationid="lenovo" creationdate="20200819T143215Z">
-        <seg>图&lt;t0/&gt;6.36 &lt;t1/&gt;XDITA主题的注释环境。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T125408Z" creationid="lenovo" creationdate="20200819T143215Z">
+        <seg>图&lt;t0/&gt;6.36 &lt;t1/&gt;XDITA主题中的注释组件所创建的环境。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7875,8 +7875,8 @@
       <tuv lang="en">
         <seg>If you need to make inline-level text stand out, a phrase (&lt;t0/&gt;&lt;ph&gt;&lt;t1/&gt;) component can do that inside a paragraph.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T143147Z" creationid="lenovo" creationdate="20200819T143147Z">
-        <seg>短语(&lt;t0/&gt;&lt;ph&gt;&lt;t1/&gt;)组件可以使行内文本在段落中脱颖而出。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T125239Z" creationid="lenovo" creationdate="20200819T143147Z">
+        <seg>短语(&lt;t0/&gt;&lt;ph&gt;&lt;t1/&gt;)组件可以使行内文本在段落中凸显出来。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8023,6 +8023,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T155050Z" creationid="lenovo" creationdate="20200818T031232Z">
         <seg>在&lt;t14/&gt;图&lt;t15/&gt; &lt;t16/&gt;6.35&lt;t17/&gt;中,，可点击的文本是带有上标(&lt;sup&gt;)格式的数字&lt;t19/&gt;1 &lt;t20/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In &lt;t2/&gt;Figure 6.38&lt;t3/&gt;, the first list item includes the term</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T125345Z" creationid="DSS" creationdate="20200826T125345Z">
+        <seg>在&lt;t2/&gt;图6.38&lt;t3/&gt;中，第一个列表项包括术语</seg>
       </tuv>
     </tu>
     <tu>
@@ -14446,8 +14454,8 @@
       <tuv lang="en">
         <seg>The note includes a paragraph&lt;t2/&gt; with content that will stand out from the topic's other elements in deliverables produced from this source.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T143534Z" creationid="lenovo" creationdate="20200819T143534Z">
-        <seg>这一来源产生的交付物中，注释会包含一个段落，其内容在主题的其他元素中脱颖而出。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T125544Z" creationid="lenovo" creationdate="20200819T143534Z">
+        <seg>该主题生成的交付物中，注释会包含一个段落，其内容会在主题的其他元素中突显出来。</seg>
       </tuv>
     </tu>
     <tu>
