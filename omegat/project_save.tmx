@@ -7867,8 +7867,8 @@
       <tuv lang="en">
         <seg>If you need to make a direct link to a specific section inside an MDITA topic, the &lt;t0/&gt;@id &lt;t1/&gt;attribute for the section will be automatically generated as a slug.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T141705Z" creationid="lenovo" creationdate="20200821T141705Z">
-        <seg>如果需要直接链接到MDITA主题中的特定部分，则该部分的&lt;t0/&gt;@id &lt;t1/&gt;属性将自动生成为一个slug。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T134239Z" creationid="lenovo" creationdate="20200821T141705Z">
+        <seg>如果需要直接链接到MDITA主题中的特定部分，该节的&lt;t0/&gt;@id &lt;t1/&gt;属性将自动生成一个 id。</seg>
       </tuv>
     </tu>
     <tu>
