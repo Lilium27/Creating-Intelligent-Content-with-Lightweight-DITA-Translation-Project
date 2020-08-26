@@ -7739,8 +7739,8 @@
       <tuv lang="en">
         <seg>If needed, you can include a note in an MDITA extended profile topic with an HDITA code block using the syntax of &lt;t0/&gt;&lt;div data-class=“note”&gt; &lt;t1/&gt;seen in &lt;t2/&gt;figure 6.37&lt;t3/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T161645Z" creationid="lenovo" creationdate="20200819T142840Z">
-        <seg>如果需要使用的话，可以使用图6.37中所示的语法&lt;t0/&gt;&lt;div data-class=“note”&gt; &lt;t1/&gt;在MDITA扩展概要主题中包含注释和HDITA代码块。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T125222Z" creationid="lenovo" creationdate="20200819T142840Z">
+        <seg>如果需要使用的话，可以在MDITA扩展概要主题中使用包含如图6.37所示的语法&lt;t0/&gt;&lt;div data-class=“note”&gt; &lt;t1/&gt;的HDITA代码块，以使用注释组件。</seg>
       </tuv>
     </tu>
     <tu>
