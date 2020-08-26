@@ -512,8 +512,8 @@
       <tuv lang="en">
         <seg>&lt;t0/&gt;Figure &lt;t1/&gt;6.41&lt;t2/&gt; &lt;t3/&gt;shows how the preformatted text component (&lt;t4/&gt;&lt;pre&gt;&lt;t5/&gt;) in XDITA preserves the stanza or set of lines in the promise creed of &lt;t6/&gt;Sensei Sushi&lt;t7/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T151827Z" creationid="lenovo" creationdate="20200819T151827Z">
-        <seg>&lt;t0/&gt;图 &lt;t1/&gt;6.41&lt;t2/&gt; &lt;t3/&gt;显示了XDITA中预格式化文本组件(&lt;t4/&gt;&lt;pre&gt;&lt;t5/&gt;)时如何保存&lt;t6/&gt;唤醒寿司&lt;t7/&gt;的承诺信条中的节或行集。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T131544Z" creationid="lenovo" creationdate="20200819T151827Z">
+        <seg>&lt;t0/&gt;图 &lt;t1/&gt;6.41&lt;t2/&gt; &lt;t3/&gt;展示了XDITA中预格式化文本组件(&lt;t4/&gt;&lt;pre&gt;&lt;t5/&gt;)是如何保存&lt;t6/&gt;唤醒寿司&lt;t7/&gt;承诺信条中的节选或段落片段的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3884,8 +3884,8 @@
       <tuv lang="en">
         <seg>Because the text is wrapped in the preformatted environment, the lines will appear separated in any deliverable and won't be affected by external templates or stylesheets.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T151947Z" creationid="lenovo" creationdate="20200819T151947Z">
-        <seg>由于文本是在预格式化的环境中封装，因此行在任何交付物中都是分开的，从而不会受到外部模板或样式表的影响。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T131312Z" creationid="lenovo" creationdate="20200819T151947Z">
+        <seg>由于文本是在预格式化的环境中封装，因此文本行在任何交付物中都是分开的，从而不会受到外部模板或样式表的影响。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7171,8 +7171,8 @@
       <tuv lang="en">
         <seg>However, in some cases authors might want to control the look of some textual elements regardless of transformation and deliverable rules.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T151419Z" creationid="lenovo" creationdate="20200819T151419Z">
-        <seg>然而，在某些情况下，作者可能想要控制一些文本元素的外观，而不考虑转换和可交付规则。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T131158Z" creationid="lenovo" creationdate="20200819T151419Z">
+        <seg>然而，在某些情况下，作者可能想要控制一些文本元素样式，而无需考虑转换和可交付规则。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14574,8 +14574,8 @@
       <tuv lang="en">
         <seg>The phrase is expressed with&lt;t2/&gt; the HTML5 &lt;t3/&gt;&lt;span&gt; &lt;t4/&gt;element.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T151237Z" creationid="lenovo" creationdate="20200819T151237Z">
-        <seg>该短语用&lt;t2/&gt; HTML5 &lt;t3/&gt;&lt;span&gt; &lt;t4/&gt;元素表示。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T131148Z" creationid="lenovo" creationdate="20200819T151237Z">
+        <seg>该短语组件用&lt;t2/&gt; HTML5 &lt;t3/&gt;&lt;span&gt; &lt;t4/&gt;元素表示。</seg>
       </tuv>
     </tu>
     <tu>
