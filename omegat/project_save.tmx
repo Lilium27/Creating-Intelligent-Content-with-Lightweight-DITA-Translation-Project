@@ -3588,8 +3588,8 @@
       <tuv lang="en">
         <seg>At the topic level, metadata components are housed inside the prolog (&lt;t0/&gt;&lt;prolog&gt;&lt;t1/&gt;) environment and represented with the data (&lt;t2/&gt;&lt;data&gt;&lt;t3/&gt;) component, which depends on pairs of the &lt;t4/&gt;@name &lt;t5/&gt;and &lt;t6/&gt;@value &lt;t7/&gt;attributes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T130438Z" creationid="lenovo" creationdate="20200825T130438Z">
-        <seg>在主题级别，元数据组件位于prolog (&lt;prolog&gt;)环境中，使用data (&lt;data&gt;)组件表示，该组件依赖于@name和@value属性对。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T142131Z" creationid="lenovo" creationdate="20200825T130438Z">
+        <seg>在主题级别，元数据组件位于prolog标签创建的 (&lt;prolog&gt;)环境中，使用data (&lt;data&gt;)组件表示，该组件依赖于@name和@value属性对。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8069,8 +8069,8 @@
       <tuv lang="en">
         <seg>In &lt;t9/&gt;Figure &lt;t10/&gt;6.53&lt;t11/&gt;, &lt;t12/&gt;a data compo&lt;t13/&gt;nent provides information about the topic's author.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T130605Z" creationid="lenovo" creationdate="20200825T130605Z">
-        <seg>In &lt;t9/&gt;图 &lt;t10/&gt;6.53&lt;t11/&gt;, &lt;t12/&gt;数据组件提供了关于主题作者的信息。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T142213Z" creationid="lenovo" creationdate="20200825T130605Z">
+        <seg>在&lt;t9/&gt;图 &lt;t10/&gt;6.53&lt;t11/&gt;中, &lt;t12/&gt;数据组件提供了关于主题作者的信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8621,8 +8621,8 @@
       <tuv lang="en">
         <seg>In deliverables produced by LwDITA-aware tools, readers most likely will not see Victoria's name as the author, but the information will be there for human supervisors tracking writ&lt;t14/&gt;ers' contributions and machine processors organizing content by author.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T130810Z" creationid="lenovo" creationdate="20200825T130810Z">
-        <seg>在支持LwDITA的工具生成的可交付内容中，读者很可能不会看到作者栏上写着Victoria的名字，但是这些信息可供管理员跟踪作者的贡献还可供机器处理器根据作者组织内容。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T142327Z" creationid="lenovo" creationdate="20200825T130810Z">
+        <seg>在支持LwDITA的工具生成的可交付内容中，读者很可能不会看到作者栏上写着Victoria的名字，但是这些信息可供管理员跟踪作者的贡献，同时也可供机器处理器根据作者组织内容。</seg>
       </tuv>
     </tu>
     <tu>
