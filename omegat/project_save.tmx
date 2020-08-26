@@ -9101,8 +9101,8 @@
       <tuv lang="en">
         <seg>In this section, I present those components with their corresponding map&lt;t0/&gt;pings in the three initial LwDITA authoring formats and a brief example.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T124352Z" creationid="lenovo" creationdate="20200825T124352Z">
-        <seg>在本节中，我将介绍这些组件及其在三种初始LwDITA创作格式中的对应映射和一个简单示例。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T142030Z" creationid="lenovo" creationdate="20200825T124352Z">
+        <seg>在本节中，我将介绍如何使用三种初始LwDITA写作格式表示这些组件及其地图映射，并提供一个简单示例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9149,8 +9149,8 @@
       <tuv lang="en">
         <seg>In&lt;t0/&gt; Chapter &lt;t1/&gt;3&lt;t2/&gt;, &lt;t3/&gt;I introduced the content and collection components of LwDITA, which can be represented in the three initial authoring formats of the proposed standard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T153518Z" creationid="DSS" creationdate="20200806T084509Z">
-        <seg>在&lt;t0/&gt;第&lt;t1/&gt;3&lt;t2/&gt;&lt;t3/&gt;章中，我介绍了 LwDITA 的内容和一系列组件，它们可以在提议的 LwDITA 标准中的三种最初的写作格式中使用。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T141905Z" creationid="DSS" creationdate="20200806T084509Z">
+        <seg>在&lt;t0/&gt;第&lt;t1/&gt;三&lt;t2/&gt;&lt;t3/&gt;章中，我介绍了 LwDITA 的内容和一系列组件，可以使用拟议的 LwDITA 标准中最初的三种写作格式来表示这些组件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14279,8 +14279,8 @@
       <tuv lang="en">
         <seg>The information contained in&lt;t4/&gt; Chapters &lt;t5/&gt;5&lt;t6/&gt; &lt;t7/&gt;and &lt;t8/&gt;6&lt;t9/&gt; &lt;t10/&gt;does not aim to be a complete tutorial on XML, HTML5, or Markdown.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T160612Z" creationid="DSS" creationdate="20200806T084518Z">
-        <seg>&lt;t4/&gt;编写第 &lt;t5/&gt;5&lt;t6/&gt;&lt;t7/&gt;章和第&lt;t8/&gt;6&lt;t9/&gt;&lt;t10/&gt;章的目的并不是提供一个关于 XML、HTML5 或 Markdown 的完整教程。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T141912Z" creationid="DSS" creationdate="20200806T084518Z">
+        <seg>&lt;t4/&gt;编写第 &lt;t5/&gt;五&lt;t6/&gt;&lt;t7/&gt;章和第&lt;t8/&gt;六&lt;t9/&gt;&lt;t10/&gt;章的目的并不是提供一个关于 XML、HTML5 或 Markdown 的完整教程。</seg>
       </tuv>
     </tu>
     <tu>
