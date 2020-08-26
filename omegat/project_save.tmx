@@ -14942,8 +14942,8 @@
       <tuv lang="en">
         <seg>The section environment opens&lt;t2/&gt; with a heading &lt;t3/&gt;2, &lt;t4/&gt;which in this example is represented by &lt;t5/&gt;## &lt;t6/&gt;in &lt;t7/&gt;atx &lt;t8/&gt;syntax.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200821T145839Z" creationid="lenovo" creationdate="20200821T145839Z">
-        <seg>节环境&lt;t2/&gt; 的开头是标题&lt;t3/&gt;2, &lt;t4/&gt;示例当中则是以&lt;t7/&gt;atx &lt;t8/&gt;语法中的&lt;t5/&gt;## &lt;t6/&gt;为代表</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T135502Z" creationid="lenovo" creationdate="20200821T145839Z">
+        <seg>节环境&lt;t2/&gt;由二级标题标记创建， &lt;t4/&gt;即示例中用&lt;t7/&gt;atx &lt;t8/&gt;语法表示的&lt;t5/&gt;##&lt;t6/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
