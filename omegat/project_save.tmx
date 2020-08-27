@@ -488,8 +488,8 @@
       <tuv lang="en">
         <seg>&lt;t0/&gt;Figure 6.4&lt;t1/&gt; reproduces the essential topic with a placeholder com&lt;t2/&gt;ment for content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T133739Z">
-        <seg>&lt;t0/&gt;图6.4&lt;t1/&gt;&lt;t2/&gt;展示了一个重新生成的基础主题，并用注释为内容占位。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200827T054237Z" creationid="DSS" creationdate="20200816T133739Z">
+        <seg>&lt;t0/&gt;图6.4&lt;t1/&gt;&lt;t2/&gt;复现了之前提及的基础主题，并用注释为内容占位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1027,8 +1027,8 @@
       <tuv lang="en">
         <seg>&lt;t2/&gt;Figure &lt;t3/&gt;4.2&lt;t4/&gt; &lt;t5/&gt;shows a file that reproduces the list items from &lt;t6/&gt;Figure &lt;t7/&gt;4.1&lt;t8/&gt; &lt;t9/&gt;in valid HTML5 syntax.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T135153Z" creationid="lenovo" creationdate="20200813T135443Z">
-        <seg>&lt;t2/&gt;图&lt;t3/&gt;4.2&lt;t4/&gt; &lt;t5/&gt;展示一个使用了HTML5语法的文件，该文件复用了&lt;t6/&gt;图&lt;t7/&gt;4.1&lt;t8/&gt; &lt;t9/&gt;中的列表项。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200827T053843Z" creationid="lenovo" creationdate="20200813T135443Z">
+        <seg>&lt;t2/&gt;图&lt;t3/&gt;4.2&lt;t4/&gt; &lt;t5/&gt;展示一个使用了HTML5语法的文件，该文件复刻了&lt;t6/&gt;图&lt;t7/&gt;4.1&lt;t8/&gt; &lt;t9/&gt;中的列表项。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15191,8 +15191,8 @@
       <tuv lang="en">
         <seg>The third topic reference is the “about” page with Chef Pedro's information, which I introduced in&lt;t0/&gt; Chapter &lt;t1/&gt;2&lt;t2/&gt; &lt;t3/&gt;and reproduce in &lt;t4/&gt;Figure &lt;t5/&gt;5.4&lt;t6/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200806T090721Z">
-        <seg>第三个主题引自“关于”页面，展示厨师佩德罗的信息，我在&lt;t0/&gt;第&lt;t1/&gt;2&lt;t2/&gt;&lt;t3/&gt;章中介绍过该页面，见&lt;t4/&gt;图&lt;t5/&gt;5.4&lt;t6/&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200827T053906Z" creationid="DSS" creationdate="20200806T090721Z">
+        <seg>第三个主题引自“关于”页面，展示厨师佩德罗的信息，我在&lt;t0/&gt;第&lt;t1/&gt;二&lt;t2/&gt;&lt;t3/&gt;章中介绍过该页面，见&lt;t4/&gt;图&lt;t5/&gt;5.4&lt;t6/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
