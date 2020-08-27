@@ -3970,6 +3970,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Becoming familiar with these content struc&lt;t0/&gt;tures and how to represent them in the initial LwDITA authoring formats is an important step in preparing intelligent content deliverables.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T143337Z" creationid="lenovo" creationdate="20200827T143337Z">
+        <seg>熟悉这些内容结构以及如何在初始LwDITA创作格式中表示它们是准备智能内容交付的重要步骤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before (or in addition to) taking, say, a Python course out of their disciplinary context, why not send technical communication students to a course covering the &lt;t19/&gt;men&lt;t20/&gt;tal&lt;t21/&gt; and &lt;t22/&gt;metal&lt;t23/&gt; tools that practitioners in their field value?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150002Z" creationid="DSS" creationdate="20200817T041659Z">
@@ -5839,6 +5847,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE 6.65 &lt;t0/&gt;Command for the DITA-OT to generate a PDF deliverable from the&lt;t1/&gt; cross-format &lt;t2/&gt;Sensei Sushi&lt;t3/&gt; MDITA map.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T143221Z" creationid="lenovo" creationdate="20200827T143221Z">
+        <seg>图 6.65 &lt;t0/&gt;从跨格式唤醒寿司MDITA映射中生成PDF交付文件的DITA-OT命令</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FIGURE 6.66 &lt;t0/&gt;Table of contents of a PDF deliverable produced from the XDITA&lt;t1/&gt; version of the cross-format map.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T143518Z" creationid="lenovo" creationdate="20200827T143518Z">
+        <seg>图 6.66 &lt;t0/&gt;XDITA版跨格式映射生成的PDF交付内容表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE 6.7 &lt;t0/&gt;Author mode in Oxygen XML Editor.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T135536Z" creationid="DSS" creationdate="20200816T135536Z">
@@ -7293,6 +7317,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T151140Z" creationid="DSS" creationdate="20200726T135307Z">
         <seg>不过，我的确假定来自产业界和学术界的读者对工作流程中的内容开发充满技术上的好奇心，而我所指的工作流程可不仅仅是文字处理器或“所见即所得”（WYSIWYG）的网络编辑器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, LwDITA alone will not make any content intelligent.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T143347Z" creationid="lenovo" creationdate="20200827T143347Z">
+        <seg>然而，LwDITA本身并不能使任何内容智能化。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8991,6 +9023,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T145817Z" creationid="DSS" creationdate="20200817T040335Z">
         <seg>为了成功实现自动化，计算机思维不仅需要理解每一抽象层所代表的概念，还需要理解特定问题背后的多个层之间的关系。&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In order to take advantage of the LwDITA proposed standard and make content stand out from the millions of dead pages created in word processors and desktop publishing tools, we need to</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T143408Z" creationid="lenovo" creationdate="20200827T143408Z">
+        <seg>为了利用LwDITA提出的标准，并使内容从文字处理程序和桌面发布工具创建的数百万死页面中脱颖而出，我们需要</seg>
       </tuv>
     </tu>
     <tu>
@@ -12484,6 +12524,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T143207Z" creationid="lenovo" creationdate="20200825T131621Z">
         <seg>到目前为止，在本章中，我只使用了MDITA扩展配置文件中的YAML头来为一些主题分配@id。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>So, Is My Content Intelligent Now?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T143305Z" creationid="lenovo" creationdate="20200827T143305Z">
+        <seg>那么，我的内容现在是智能的吗?</seg>
       </tuv>
     </tu>
     <tu>
@@ -16449,6 +16497,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T082927Z" creationid="DSS" creationdate="20200806T082927Z">
         <seg>编写本章的目的不是代替提议的 LwDITA 标准的技术规范（包含适用于开发人员和信息设计人员的信息和细节内容），或者将其复述一遍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This chapter introduced you to the main components available in LwDITA to structure and present information.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T143318Z" creationid="lenovo" creationdate="20200827T143318Z">
+        <seg>本章向您介绍了LwDITA中用于构造和表示信息的主要组件。</seg>
       </tuv>
     </tu>
     <tu>
