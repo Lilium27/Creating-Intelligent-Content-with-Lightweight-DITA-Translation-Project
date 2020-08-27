@@ -4960,8 +4960,8 @@
       <tuv lang="en">
         <seg>Details about the franchise offer</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200827T052915Z" creationid="DSS" creationdate="20200807T061913Z">
-        <seg>特许经营权的提供的服务明细</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200827T052933Z" creationid="DSS" creationdate="20200807T061913Z">
+        <seg>特许经营权提供的服务明细</seg>
       </tuv>
     </tu>
     <tu>
@@ -6251,8 +6251,8 @@
       <tuv lang="en">
         <seg>Figure &lt;t0/&gt;6.33&lt;t1/&gt; &lt;t2/&gt;shows an MDITA version of the franchise offer topic with the cross-reference link to the external &lt;t3/&gt;Sensei Sushi&lt;t4/&gt; knowledge base.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T154024Z" creationid="lenovo" creationdate="20200817T150526Z">
-        <seg>图6.33&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;展示了特许经营提供主题的MDITA版本，带有链接到外部&lt;t3/&gt;Sensei Sushi&lt;t4/&gt;知识库的交叉引用链接。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200827T053237Z" creationid="lenovo" creationdate="20200817T150526Z">
+        <seg>图6.33&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;展示了特许经营权提供的服务的MDITA版主题，该主题包含接到外部&lt;t3/&gt;Sensei Sushi&lt;t4/&gt;知识库的交叉引用链接。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -9357,8 +9357,8 @@
       <tuv lang="en">
         <seg>Introduction to the franchise opportunity</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T061907Z" creationid="DSS" creationdate="20200807T061907Z">
-        <seg>品牌加盟介绍</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200827T052957Z" creationid="DSS" creationdate="20200807T061907Z">
+        <seg>特许经营权介绍</seg>
       </tuv>
     </tu>
     <tu>
