@@ -19164,6 +19164,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>• &lt;t0/&gt;The franchise introductory topic created in MDITA (&lt;t1/&gt;Figure &lt;t2/&gt;6.16&lt;t3/&gt;) &lt;t4/&gt;by the marketing team (saved as &lt;t5/&gt;franchise-intro.md&lt;t6/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T134918Z" creationid="lenovo" creationdate="20200827T134847Z">
+        <seg>• &lt;t0/&gt;营销团队在MDITA中创建的特许经营权介绍主题(&lt;t1/&gt;图&lt;t2/&gt;6.16&lt;t3/&gt;) &lt;t4/&gt;(保存为&lt;t5/&gt;franchise-intro.md&lt;t6/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;The franchise terms topic created in HDITA (&lt;t1/&gt;Figure &lt;t2/&gt;6.37&lt;t3/&gt;) &lt;t4/&gt;by the legal team (saved as &lt;t5/&gt;franchise-terms.html&lt;t6/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T134939Z" creationid="lenovo" creationdate="20200827T134911Z">
+        <seg>• &lt;t0/&gt;法律团队在HDITA中创建的特许经营条例主题(&lt;t1/&gt;图&lt;t2/&gt;6.37&lt;t3/&gt;) &lt;t4/&gt;(保存为&lt;t5/&gt;franchise-terms.html&lt;t6/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>• &lt;t0/&gt;The kitchen manager had help from a technical writing intern who authored some recipes and procedures in XML</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T133344Z" creationid="lenovo" creationdate="20200827T133344Z">
@@ -19208,6 +19224,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T030038Z" creationid="lenovo" creationdate="20200811T030038Z">
         <seg>• &lt;t0/&gt;用户更倾向于在Google和其他搜索引擎上查找信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;The sample recipe for the “Fancy Roll” created in XDITA (&lt;t1/&gt;Figure &lt;t2/&gt;6.49&lt;t3/&gt;) &lt;t4/&gt;by the kitchen staff and the technical writing intern (saved as &lt;t5/&gt;fancy-roll.dita&lt;t6/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T135037Z" creationid="lenovo" creationdate="20200827T135037Z">
+        <seg>• &lt;t0/&gt;由厨房人员和技术写作实习生在XDITA (&lt;t1/&gt;图&lt;t2/&gt;6.49&lt;t3/&gt;) &lt;t4/&gt;中创建的“Fancy Roll”样例配方(保存为 &lt;t5/&gt;fancy-roll.dita&lt;t6/&gt;).</seg>
       </tuv>
     </tu>
     <tu>
