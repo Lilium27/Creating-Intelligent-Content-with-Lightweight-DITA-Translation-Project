@@ -16029,6 +16029,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Then, I will connect those abstractions and models to LwDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T144522Z" creationid="lenovo" creationdate="20200827T144522Z">
+        <seg>然后，我将把这些抽象和模型与LwDITA想结合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Then, as the layers are recombined, they work together to solve the prob&lt;t0/&gt;lem at hand, much like an algorithm.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T040042Z" creationid="DSS" creationdate="20200817T040042Z">
