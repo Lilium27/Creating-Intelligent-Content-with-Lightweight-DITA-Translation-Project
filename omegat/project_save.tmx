@@ -1307,8 +1307,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;In&lt;t4/&gt; Chapter &lt;t5/&gt;1&lt;t6/&gt; &lt;t7/&gt;I included some examples of DITA maps and promised that I will show you how to process them with DITA-aware tools and generate end user documents.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T153635Z" creationid="DSS" creationdate="20200806T085457Z">
-        <seg>在&lt;t3/&gt;&lt;t4/&gt;第&lt;t5/&gt;1&lt;t6/&gt;&lt;t7/&gt;章中，我提供了一些 DITA 地图示例，并承诺将向你展示如何使用 DITA 的相关工具处理它们并生成最终用户文档。现。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200827T045003Z" creationid="DSS" creationdate="20200806T085457Z">
+        <seg>在&lt;t3/&gt;&lt;t4/&gt;第&lt;t5/&gt;一&lt;t6/&gt;&lt;t7/&gt;章中，我提供了一些 DITA 地图示例，并承诺将展示如何使用 DITA 相关工具处理它们以生成最终用户文档，现</seg>
       </tuv>
     </tu>
     <tu>
@@ -7997,8 +7997,8 @@
       <tuv lang="en">
         <seg>In &lt;t0/&gt;Figure &lt;t1/&gt;6.58&lt;t2/&gt;, &lt;t3/&gt;the topic features a video component about the &lt;t4/&gt;Sensei Sushi &lt;t5/&gt;promise.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T145338Z" creationid="lenovo" creationdate="20200825T141823Z">
-        <seg>&lt;t0/&gt;图&lt;t1/&gt;6.58&lt;t2/&gt;展示的&lt;t3/&gt;主题包含了一个关于&lt;t4/&gt;唤醒寿司&lt;t5/&gt;承诺的视频组件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200827T045050Z" creationid="lenovo" creationdate="20200825T141823Z">
+        <seg>&lt;t0/&gt;图&lt;t1/&gt;6.58&lt;t2/&gt;展示的&lt;t3/&gt;主题包含了一个关于&lt;t4/&gt;唤醒寿司&lt;t5/&gt;承诺条款的视频组件。</seg>
       </tuv>
     </tu>
     <tu>
