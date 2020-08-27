@@ -2306,6 +2306,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A map created in XDITA (&lt;t0/&gt;Figure &lt;t1/&gt;6.60&lt;t2/&gt;) &lt;t3/&gt;could reference those topics as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T135135Z" creationid="lenovo" creationdate="20200827T135135Z">
+        <seg>在XDITA中创建的映射(图6.60)可以引用以下主题：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A modern content-development lifecycle is an important connector for establish&lt;t0/&gt;ing those relations, and that is the overarching topic of the following sections.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131429Z" creationid="DSS" creationdate="20200811T132426Z">
@@ -5771,6 +5779,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T143653Z" creationid="lenovo" creationdate="20200825T132323Z">
         <seg>图 6.55 &lt;t0/&gt;使用元数据组件标识作者的MDITA主题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FIGURE 6.60 &lt;t0/&gt;XDITA map for the cross-format version of the &lt;t1/&gt;Sensei Sushi&lt;t2/&gt; &lt;t3/&gt;brochure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T135349Z" creationid="lenovo" creationdate="20200827T135349Z">
+        <seg>图 6.60 &lt;t0/&gt;用于唤醒寿司手册的跨格式XDITA映射。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13322,6 +13338,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;t2/&gt;@format &lt;t3/&gt;attribute inside each topic reference (&lt;t4/&gt;&lt;topicref&gt;&lt;t5/&gt;) instructs the processor on how to treat each file linked from the map.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T135213Z" creationid="lenovo" creationdate="20200827T135213Z">
+        <seg>每个主题引用中的@format属性(&lt;topicref&gt;)指示处理程序如何处理来自映射的每个文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;t2/&gt;Sensei Sushi&lt;t3/&gt; content could be easily siloed according to different teams' practices and preferred authoring languages.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T161208Z" creationid="lenovo" creationdate="20200826T161208Z">
@@ -14014,6 +14038,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T075259Z" creationid="DSS" creationdate="20200816T142516Z">
         <seg>LwDITA 主题正文还可以嵌套主题协定中的列表组件，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The brochure developer can save this map as &lt;t0/&gt;crossformat-brochure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T135202Z" creationid="lenovo" creationdate="20200827T135202Z">
+        <seg>宣传册开发人员可以将此映射保存为crossform -brochu .ditamap</seg>
       </tuv>
     </tu>
     <tu>
@@ -16857,6 +16889,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T140151Z" creationid="lenovo" creationdate="20200821T151528Z">
         <seg>考虑到XML中表格环境不可避免的冗长特性，XDITA使用&lt;t3/&gt;&lt;simpletable&gt; &lt;t4/&gt;格式，而不是更精细的CALS表格格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To produce a PDF deliverable from this map, the one-line command for the DITA-OT would be similar to the one we used to process an XDITA map in &lt;t6/&gt;Chapter &lt;t7/&gt;5&lt;t8/&gt; &lt;t9/&gt;(&lt;t10/&gt;Figure &lt;t11/&gt;6.61&lt;t12/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T135322Z" creationid="lenovo" creationdate="20200827T135322Z">
+        <seg>要从这个映射生成PDF交付品，DITA-OT的单行命令与我们在第5章中处理XDITA映射时使用的命令类似(&lt;t10/&gt;Figure &lt;t11/&gt;6.61&lt;t12/&gt;).</seg>
       </tuv>
     </tu>
     <tu>
