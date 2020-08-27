@@ -5791,6 +5791,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE 6.61 &lt;t0/&gt;Command for the DITA-OT to generate a PDF deliverable from the&lt;t1/&gt; cross-format &lt;t2/&gt;Sensei Sushi&lt;t3/&gt; XDITA map.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T141238Z" creationid="lenovo" creationdate="20200827T141238Z">
+        <seg>图 6.61 &lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE 6.7 &lt;t0/&gt;Author mode in Oxygen XML Editor.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T135536Z" creationid="DSS" creationdate="20200816T135536Z">
