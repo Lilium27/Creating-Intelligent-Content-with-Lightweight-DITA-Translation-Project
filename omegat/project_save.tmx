@@ -2722,6 +2722,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All those topics would live on the same intelligent content reposi&lt;t3/&gt;tory and produce deliverables that, to an end user, would look like coherent units without differences in style or format.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T134824Z" creationid="lenovo" creationdate="20200827T134824Z">
+        <seg>所有这些主题都将存在于同一的智能内容库中，并生成对于最终用户来说具有一致性的可交付产品，这些可交付产品在样式或格式上毫无差别。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All three LwDITA formats are compatible with each other and with DITA XML.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T042920Z" creationid="DSS" creationdate="20200817T042920Z">
@@ -3198,6 +3206,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T144926Z" creationid="lenovo" creationdate="20200802T081736Z">
         <seg>而当你去参加业者举办的活动，你也看不到教授出席。”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>And, as we will see in &lt;t3/&gt;Chapter &lt;t4/&gt;8&lt;t5/&gt;, &lt;t6/&gt;the cross-format capabilities of LwDITA allow seam&lt;t7/&gt;less content reuse at the topic, section, paragraph, or even phrase level among XDITA, HDITA, and MDITA content files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T134536Z" creationid="lenovo" creationdate="20200827T134536Z">
+        <seg>而且，正如我们将在第8章中看到的，LwDITA的跨格式功能允许在主题、节、段落甚至短语级别上在XDITA、HDITA和MDITA内容文件之间无缝地复用内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6677,6 +6693,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T075653Z" creationid="DSS" creationdate="20200824T075653Z">
         <seg>对于技术内容版本而言，一个任务主题就是一个示例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For this example, let's bring back three sample topics from earlier in this chapter.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T134633Z" creationid="lenovo" creationdate="20200827T134633Z">
+        <seg>对于这个示例，让我们回到本章前面的三个示例主题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16397,6 +16421,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This means that the &lt;t0/&gt;Sensei Sushi&lt;t1/&gt; brochure designer can use a LwDITA map to aggregate and collect pieces of content, while the legal, kitchen, and market&lt;t2/&gt;ing teams create their content in whatever LwDITA (or DITA XML) format they prefer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T134624Z" creationid="lenovo" creationdate="20200827T134624Z">
+        <seg>这意味着唤醒寿司手册的设计人员可以使用LwDITA映射来聚合和收集内容片段，而法律、厨房和营销团队则可以使用他们喜欢的LwDITA(或DITA XML)格式来创建内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This mode provides a quick&lt;t1/&gt; preview of a topic, similar to a WYSIWYG editor.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T135612Z">
@@ -17252,6 +17284,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200731T073409Z">
         <seg>我们希望通过限制选项和选择点，使供应商更容易支持内容编写和主题专门化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We will use the following files:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T134656Z" creationid="lenovo" creationdate="20200827T134656Z">
+        <seg>我们将使用以下文件：</seg>
       </tuv>
     </tu>
     <tu>
