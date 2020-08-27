@@ -518,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t0/&gt;Figure &lt;t1/&gt;6.66&lt;t2/&gt; &lt;t3/&gt;shows the table of contents of a PDF built in Oxygen XML from the XDITA version of this cross-format map.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T143025Z" creationid="lenovo" creationdate="20200827T143025Z">
+        <seg>&lt;t0/&gt;图 &lt;t1/&gt;6.66&lt;t2/&gt; &lt;t3/&gt;显示了跨格式映射的XDITA版本在Oxygen XML中构建的PDF目录。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t0/&gt;Table 3.1&lt;t1/&gt; reproduces the simple topic/article that Priestley included in that introductory blog post:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200827T053807Z" creationid="DSS" creationdate="20200817T091751Z">
@@ -15753,6 +15761,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T131935Z" creationid="DSS" creationdate="20200810T131935Z">
         <seg>技术传播领域仍然需要思考者和自动化内容管理者，而学术界的技术传播课程应该让学生为这些职位做好准备，为以推进和改进智能内容的概念和实践的研究做好准备。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The “Apply Transformation Scenario(s)” dialog box in Oxygen would present the user with options to produce deliverables from each of these LwDITA maps.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T142825Z" creationid="lenovo" creationdate="20200827T142825Z">
+        <seg>Oxygen中的“应用转换场景”对话框将向用户提供从每个LwDITA映射生成可交付成果的选项。</seg>
       </tuv>
     </tu>
     <tu>
