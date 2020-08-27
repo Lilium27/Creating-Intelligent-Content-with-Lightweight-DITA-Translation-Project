@@ -5831,6 +5831,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE 6.64 &lt;t0/&gt;MDITA map for the cross-format version of the &lt;t1/&gt;Sensei Sushi&lt;t2/&gt; &lt;t3/&gt;brochure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T143135Z" creationid="lenovo" creationdate="20200827T143135Z">
+        <seg>FIGURE 6.64 &lt;t0/&gt;MDITA版本的跨格式映射，生成&lt;t1/&gt;唤醒寿司&lt;t2/&gt;手册</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE 6.7 &lt;t0/&gt;Author mode in Oxygen XML Editor.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T135536Z" creationid="DSS" creationdate="20200816T135536Z">
