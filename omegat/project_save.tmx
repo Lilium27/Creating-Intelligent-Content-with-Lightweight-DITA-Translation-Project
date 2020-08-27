@@ -1121,6 +1121,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t2/&gt;go back to a concept I discussed in &lt;t3/&gt;Chapter &lt;t4/&gt;1&lt;t5/&gt; &lt;t6/&gt;and prepare to combine content structured with LwDITA with principles of computational thinking.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T144126Z" creationid="lenovo" creationdate="20200827T144126Z">
+        <seg>&lt;t2/&gt;回到我在第1章中讨论的概念，准备将LwDITA结构化的内容与计算思维的原则结合起来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t2/&gt;the manuals didn't work.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T155525Z" creationid="lenovo" creationdate="20200802T065902Z">
