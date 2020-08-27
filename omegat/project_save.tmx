@@ -2490,6 +2490,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>According to Rockley, silos are equivalent to “plaque in your arteries, inhibiting the blood flow to your vital organs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T160158Z" creationid="lenovo" creationdate="20200826T160158Z">
+        <seg>罗克利说“竖井”相当于“动脉中的斑块，抑制血液流向重要器官。”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>According to its introduction, the 3rd edition of &lt;t6/&gt;DQTI&lt;t7/&gt; focused on,</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T041755Z" creationid="lenovo" creationdate="20200811T025901Z">
@@ -2686,6 +2694,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131052Z" creationid="DSS" creationdate="20200731T091022Z">
         <seg>信息映射公司多年来一直在回答一个问题：“ DITA 与信息映射有关吗?”2011年，信息映射公司发布了《信息映射&lt;t0/&gt;® &lt;t1/&gt;和 DITA：两个世界，一个解决方案》白皮书。白皮书旨在解释&lt;t2/&gt;“为什么从信息映射&lt;t3/&gt;® &lt;t4/&gt;转换到 DITA 是没有意义的，反之亦然”，白皮书表示“信息映射&lt;t5/&gt;® &lt;t6/&gt;&lt;t7/&gt;和 DITA 有各自的优缺点，将二者结合可以达到最佳效果”（2011年，第</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All Together Now: Cross-format Authoring in LwDITA</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T153943Z" creationid="lenovo" creationdate="20200826T153943Z">
+        <seg>一言以概之：LwDITA中的跨格式创作</seg>
       </tuv>
     </tu>
     <tu>
@@ -3458,6 +3474,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As the business grows, so do its communication problems.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T161058Z" creationid="lenovo" creationdate="20200826T161058Z">
+        <seg>随着业务的增长，传播问题也在增加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As the concept of Lightweight DITA developed further, at one point it became an XML subset of DITA that included, for example, &lt;t6/&gt;27 &lt;t7/&gt;possible elements inside a topic, whereas DITA XML includes a possible combination of &lt;t8/&gt;90&lt;t9/&gt;+ &lt;t10/&gt;elements.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T052830Z">
@@ -3726,6 +3750,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T135211Z" creationid="lenovo" creationdate="20200825T135211Z">
         <seg>自动播放 (&lt;t0/&gt;&lt;media-autoplay&gt;&lt;t1/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Autoplay (&lt;t0/&gt;@autoplay&lt;t1/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T152833Z" creationid="lenovo" creationdate="20200826T152833Z">
+        <seg>自动播放 (&lt;t0/&gt;@autoplay&lt;t1/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4282,6 +4314,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Charlotte Robidoux's article “Rhetorically Structured Content: Developing a Collaborative Single-Sourcing Curriculum” has become a timeless call to embrace structured authoring as a unifier of academia and industry practices in technical communication.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T154252Z" creationid="lenovo" creationdate="20200826T154252Z">
+        <seg>夏洛特·罗比多的文章“修辞结构化的内容：开发一个协作的单一来源课程”已经成为永恒的号召，号召人们将结构化创作作为技术传播学术界和行业实践的统一者。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Checklists of key points, which are presented at the end of every chapter and then collected at the end of the book.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T075758Z" creationid="lenovo" creationdate="20200810T075758Z">
@@ -4593,6 +4633,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T135204Z" creationid="lenovo" creationdate="20200825T135204Z">
         <seg>开关 (&lt;t0/&gt;&lt;media-controls&gt;&lt;t1/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Controls (&lt;t0/&gt;@controls&lt;t1/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T152828Z" creationid="lenovo" creationdate="20200826T152828Z">
+        <seg>开关 (&lt;t0/&gt;@controls&lt;t1/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4938,6 +4986,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T143810Z" creationid="lenovo" creationdate="20200825T135153Z">
         <seg>描述 (&lt;t0/&gt;&lt;desc&gt;&lt;t1/&gt;，在图形组件环境中已介绍过)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Description (&lt;t0/&gt;@title&lt;t1/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T152823Z" creationid="lenovo" creationdate="20200826T152823Z">
+        <seg>描述 (&lt;t0/&gt;@title&lt;t1/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5307,6 +5363,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131005Z" creationid="lenovo" creationdate="20200812T022451Z">
         <seg>即使是在&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;1.0版本中，标准中就已经有了&lt;t5/&gt;193 &lt;t6/&gt;中元素类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Even the most “intelligent” content written in properly-structured DITA XML cannot communicate by itself with related files that were created in HTML or Markdown.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T160537Z" creationid="lenovo" creationdate="20200826T160537Z">
+        <seg>即使是用结构正确的DITA XML编写的最“智能”的内容本身也不能与用HTML或Markdown创建的相关文件互通。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6112,6 +6176,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;6.59 &lt;t1/&gt;Video content environment in HDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T154544Z" creationid="lenovo" creationdate="20200826T154544Z">
+        <seg>图 &lt;t0/&gt;6.59 &lt;t1/&gt;HDITA的视频内容环境。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FOREWORD</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T122921Z" creationid="DSS" creationdate="20200820T122921Z">
@@ -6293,6 +6365,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T144312Z" creationid="lenovo" creationdate="20200825T141057Z">
         <seg>图 &lt;t0/&gt;6.57&lt;t1/&gt; &lt;t2/&gt;展示了包含音频组件内容环境的HDITA主题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;t0/&gt;6.59&lt;t1/&gt; &lt;t2/&gt;shows an HDITA topic with the video environment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T153118Z" creationid="lenovo" creationdate="20200826T153118Z">
+        <seg>图 &lt;t0/&gt;6.59&lt;t1/&gt; &lt;t2/&gt;显示了包视频环境的含HDITA主题</seg>
       </tuv>
     </tu>
     <tu>
@@ -7233,6 +7313,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, the legal team could author the franchise terms topic in HDITA, the kitchen manager could write the sample recipe in XDITA, and the marketing editor could create the introductory topic in MDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T153805Z" creationid="lenovo" creationdate="20200826T153805Z">
+        <seg>但是，法律团队可以用HDITA编写特许经营条例主题，厨房经理可以用XDITA编写示例菜谱，营销编辑可以用MDITA创建介绍性主题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, the manual started to lose genre power in the 1980s and was on life support even before John Carroll delivered the final uppercut with the concept of minimalism.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T072237Z" creationid="lenovo" creationdate="20200810T005457Z">
@@ -7521,6 +7609,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I retake the scenario of Chef Pedro and the &lt;t0/&gt;Sensei Sushi&lt;t1/&gt; content needs in this section.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T161033Z" creationid="lenovo" creationdate="20200826T161033Z">
+        <seg>本节我又会以佩德罗的场景和唤醒寿司的内容需求为例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I scheduled a follow-up call with Priestley, who invited Jenifer Schlotfeldt &lt;t0/&gt;一 &lt;t1/&gt;Senior Content Strategist at IBM who was working on the Bluemix documentation project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T155108Z" creationid="DSS" creationdate="20200802T155108Z">
@@ -7753,6 +7849,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If silos hinder the flow of information, the organization is unable to function effectively or respond rapidly to threats and opportunities” (Rockley &lt;t2/&gt;&amp; &lt;t3/&gt;Cooper, &lt;t4/&gt;2012, &lt;t5/&gt;p.6).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T160249Z" creationid="lenovo" creationdate="20200826T160249Z">
+        <seg>如果竖井阻碍了信息的流动，组织就无法有效运作或对威胁和机会快速做出反应。(Rockley &lt;t2/&gt;&amp; &lt;t3/&gt;Cooper, &lt;t4/&gt;2012, &lt;t5/&gt;p.6).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If so, the topics could end here and join a content collection to produce deliverables for end users.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T141853Z">
@@ -7789,6 +7893,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T070602Z" creationid="lenovo" creationdate="20200811T031404Z">
         <seg>如果像迈克尔·普里斯特利说的那样，&lt;t0/&gt;《开发高质量技术信息》&lt;t1/&gt;的早期版本“虽然没有提DITA，但实质就是DITA，”这一点在第三版中有所改变。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the promotional brochure were a real deliver&lt;t3/&gt;able, Chef Pedro would not need three versions of the same topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T153703Z" creationid="lenovo" creationdate="20200826T153703Z">
+        <seg>如果促销宣传册是真正可交付的，佩德罗就不需要同一主题的三个版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7893,6 +8005,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154443Z" creationid="DSS" creationdate="20200726T154443Z">
         <seg>如果你对 XML 结构不太熟悉，不用担心。后面的章节会详细讨论本书中出现的XML元素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignoring the experimental nature of this scenario, you might wonder now who would need different authoring formats to create the same file (e.g., why would Chef Pedro need XDITA, HDITA, and MDITA versions of the franchise offer topic?).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T153547Z" creationid="lenovo" creationdate="20200826T153547Z">
+        <seg>忽略这个场景的实验性质，你现在可能想知道，谁需要不同的创作格式来创建相同的文件(例如，为什么佩德罗需要XDITA、HDITA和MDITA版本的特许经营权主题?)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8223,6 +8343,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T140007Z" creationid="lenovo" creationdate="20200821T150849Z">
         <seg>在HDITA中，应该用以下HTML5元素表示LwDITA中的表格组件：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In HTML5 syntax, many of&lt;t2/&gt; the video components that are represented with XML elements in XDITA are attributes of the &lt;t3/&gt;&lt;video&gt; &lt;t4/&gt;tag.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T155048Z" creationid="lenovo" creationdate="20200826T155048Z">
+        <seg>在HTML5语法中，XDITA中使用XML元素表示的许多视频组件都带的&lt;video&gt;标签属性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9947,6 +10075,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Let's revisit the &lt;t4/&gt;Sensei Sushi&lt;t5/&gt; content silos,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T161233Z" creationid="lenovo" creationdate="20200826T161233Z">
+        <seg>我们再来看看唤醒寿司的内容竖井，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Licklider &lt;t2/&gt;(1965) &lt;t3/&gt;for cataloging library sources.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T154225Z" creationid="DSS" creationdate="20200821T153413Z">
@@ -10059,10 +10195,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Loop ( &lt;t0/&gt;@loop &lt;t1/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T152838Z" creationid="lenovo" creationdate="20200826T152838Z">
+        <seg>循环 ( &lt;t0/&gt;@loop &lt;t1/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Loop (&lt;t0/&gt;&lt;media-loop&gt;&lt;t1/&gt;)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T141411Z" creationid="lenovo" creationdate="20200825T141411Z">
         <seg>循环 (&lt;t0/&gt;&lt;media-loop&gt;&lt;t1/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Loop (&lt;t0/&gt;@loop&lt;t1/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T153002Z" creationid="lenovo" creationdate="20200826T153002Z">
+        <seg>循环 (&lt;t0/&gt;@loop&lt;t1/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10607,6 +10759,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T135225Z" creationid="lenovo" creationdate="20200825T135225Z">
         <seg>静音 (&lt;t0/&gt;&lt;media-muted&gt;&lt;t1/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Muted (&lt;t0/&gt;@muted&lt;t1/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T152844Z" creationid="lenovo" creationdate="20200826T152844Z">
+        <seg>静音 (&lt;t0/&gt;@muted&lt;t1/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11325,6 +11485,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Poster (&lt;t0/&gt;@poster&lt;t1/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T152951Z" creationid="lenovo" creationdate="20200826T152951Z">
+        <seg>海报 (&lt;t0/&gt;@poster&lt;t1/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Poster&lt;t0/&gt;: a link to an image or static video frame.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T144805Z" creationid="DSS" creationdate="20200804T155027Z">
@@ -11776,6 +11944,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reporting on the practices of content developers at HP, Robidoux wrote the following about the existence of content silos:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T154520Z" creationid="lenovo" creationdate="20200826T154520Z">
+        <seg>在报告惠普内容开发人员的实践工作时，罗比多就内容竖井的存在写下了以下内容:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Researchers work with practitioners that include community partners, government officials, and med&lt;t1/&gt;ics.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130733Z" creationid="DSS" creationdate="20200726T140501Z">
@@ -11868,6 +12044,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T162236Z" creationid="lenovo" creationdate="20200810T003413Z">
         <seg>里戈建议的分节和文步构建了清晰的模式或者说是架构，能利用它来构成技术手册的范例，并以此作为技术传播的体裁。&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Robidoux cited the first edition of Ann Rockley's &lt;t0/&gt;Managing Enterprise Content: A Unified Content Strategy&lt;t1/&gt;, which in its second edition still contains a strong warning about the development or content silos or, as Rockley described the problem, the silo trap.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T160125Z" creationid="lenovo" creationdate="20200826T160125Z">
+        <seg>罗比多引用了安·罗克利《企业内容管理:统一内容战略》第一版的内容，在第二版中依旧强烈警示了关于发展或内容竖井的或者如Rockley所描述的竖井陷阱的问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Robidoux, director of digital content at Cognizant, authored that article when she was a content strategist and publications man&lt;t0/&gt;ager at Hewlett-Packard.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T154354Z" creationid="lenovo" creationdate="20200826T154354Z">
+        <seg>罗比多是Cognizant的数字内容总监，她在惠普(Hewlett-Packard)担任内容策略师和出版经理时撰写了这篇文章。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13082,6 +13274,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;t2/&gt;Sensei Sushi&lt;t3/&gt; content could be easily siloed according to different teams' practices and preferred authoring languages.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T161208Z" creationid="lenovo" creationdate="20200826T161208Z">
+        <seg>根据不同团队的实践和首选编写语言，唤醒寿司的内容很容易形成竖井。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;t3/&gt;&lt;map&gt; &lt;t4/&gt;element works as a parent for &lt;t5/&gt;&lt;topicref&gt; &lt;t6/&gt;elements that reference specific topics.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200807T065525Z">
@@ -13166,6 +13366,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T140852Z" creationid="DSS" creationdate="20200820T140852Z">
         <seg>组件内容管理转变对 TPC 教学方法和课程开发产生了巨大的影响。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Cross-format Sensei Sushi Brochure</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T160917Z" creationid="lenovo" creationdate="20200826T160917Z">
+        <seg>跨格式唤醒寿司手册</seg>
       </tuv>
     </tu>
     <tu>
@@ -13426,6 +13634,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Lightweight DITA subcommittee at OASIS posits that con&lt;t0/&gt;tent silos could finally communicate in a common language regardless of file format if they adopt the proposed LwDITA standard.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T160830Z" creationid="lenovo" creationdate="20200826T160830Z">
+        <seg>OASIS的轻量级DITA小组委员会认为，无论文件格式如何，只用采用提议的LwDITA标准，内容竖井最终都可以使用公共语言实现互通。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Lightweight DITA subcommittee at OASIS will release recommendations and standards for that validation, but will not produce tools or files to enforce it, leaving the implementation to interested vendors and developers.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T130345Z" creationid="DSS" creationdate="20200816T134729Z">
@@ -13646,6 +13862,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T073623Z" creationid="lenovo" creationdate="20200812T031354Z">
         <seg>完整版包含了为DITA学习和培训专门化设计的内容类型(学习评估、学习基础、学习内容、学习概述、学习计划和学习总结)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The answer is one of the strongest selling points of LwDITA: the pro&lt;t2/&gt;posed standard allows authors to produce content in their preferred authoring format (XML, HTML5, or Markdown) with the benefit that those formats will be compatible with each other.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T153634Z" creationid="lenovo" creationdate="20200826T153634Z">
+        <seg>答案就在于LwDITA最大的卖点之一：提议标准允许作者以自己喜欢的创作格式(XML、HTML5或Markdown)生成内容，好处是这些格式相互兼容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14048,6 +14272,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T061605Z" creationid="DSS" creationdate="20200808T061312Z">
         <seg>本章将继续以厨师佩德罗身处的场景为例，围绕&lt;t0/&gt; Sensei Sushi &lt;t1/&gt;宣传手册的内容需求展开。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The examples included in this chapter have featured topics for the &lt;t0/&gt;Sensei Sushi&lt;t1/&gt; brochure created in parallel XDITA, HDITA, and MDITA versions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T153400Z" creationid="lenovo" creationdate="20200826T153400Z">
+        <seg>本章中包含的示例为以分别以XDITA、HDITA和MDITA版本为唤醒寿司手册创建了特色主题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16349,6 +16581,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Those files, produced in differ&lt;t4/&gt;ent languages, would live together in LwDITA maps and produce cross-format deliverables, and that is the focus of the next section.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T153852Z" creationid="lenovo" creationdate="20200826T153852Z">
+        <seg>这些用不同语言生成的文件将在LwDITA映射中共存并生成跨格式的可交付内容，这是下一节的重点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Those layers of abstraction focus, one by one, on practical and separate con&lt;t0/&gt;cepts related to the characteristics of intelligent content and competencies and skills that, based on industry conversation and formal interviews with practi&lt;t1/&gt;tioners and academics (see Evia et al., 2015 for details on the methodology), are expected of technical communicators working in content management envi&lt;t2/&gt;ronments.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T151140Z" creationid="DSS" creationdate="20200813T122732Z">
@@ -16880,6 +17120,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>We also observed how common it is for writers to adopt their own favorite practices when working on books independently.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T155208Z" creationid="lenovo" creationdate="20200826T155208Z">
+        <seg>我们还观察到，作家在独立写书时普遍采用自己最喜欢的方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>We cannot afford the manual.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200731T135149Z" creationid="lenovo" creationdate="20200731T135149Z">
@@ -17345,6 +17593,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Working in “silos,” as Rockley &lt;t0/&gt;(2002) &lt;t1/&gt;indicated, gave rise to inconsistency, which was difficult for editors to overcome across many thousands of pages of product docu&lt;t2/&gt;mentation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T155347Z" creationid="lenovo" creationdate="20200826T155347Z">
+        <seg>正如罗克利(2002)所指出的那样，在“竖井”中工作会导致不一致性，这对于编辑人员来说很难在成千上万页的产品文档间进行处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Workplace practitioners wrote complete documentation sets, recommendation reports, marketing brochures, etc.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T135850Z" creationid="DSS" creationdate="20200820T135850Z">
@@ -17509,6 +17765,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T135837Z" creationid="DSS" creationdate="20200809T135837Z">
         <seg>然而，这一过程在技术传播领</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Yet, when we systematically implemented structured writing guidelines from the ground up within a document set, as suggested by Ament &lt;t3/&gt;(2002), &lt;t4/&gt;we began to see clarity and improved consistency.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T155854Z" creationid="lenovo" creationdate="20200826T155854Z">
+        <seg>然而，当我们处理文档集时，如果像阿门特(2002)建议的那样，从一开始就系统化地贯彻结构化写作指导方针，我们就会开始考到清晰性和一致性的提升。</seg>
       </tuv>
     </tu>
     <tu>
