@@ -5327,6 +5327,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>End users will not know which topic was created in which authoring format.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T143533Z" creationid="lenovo" creationdate="20200827T143533Z">
+        <seg>最终用户将不知道以何种创作格式创建的主题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Entry points</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T162238Z" creationid="lenovo" creationdate="20200810T162238Z">
@@ -14406,6 +14414,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T075903Z" creationid="DSS" creationdate="20200806T075903Z">
         <seg>这得益于地图（map）文档类型，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The effect of content silos is minimized when the final product presents each topic with the same format and appearance.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T143838Z" creationid="lenovo" creationdate="20200827T143838Z">
+        <seg>当最终产品以相同的格式和外观呈现每个主题时，内容竖井的影响被最小化。</seg>
       </tuv>
     </tu>
     <tu>
