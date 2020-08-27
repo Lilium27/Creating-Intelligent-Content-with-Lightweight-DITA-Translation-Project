@@ -5807,6 +5807,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE 6.62 &lt;t0/&gt;HDITA map for the cross-format version of the &lt;t1/&gt;Sensei Sushi&lt;t2/&gt; &lt;t3/&gt;brochure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T141813Z" creationid="lenovo" creationdate="20200827T141813Z">
+        <seg>图 6.62 &lt;t0/&gt;HDITA版本的跨格式映射，生成&lt;t1/&gt;唤醒寿司&lt;t2/&gt;手册</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE 6.7 &lt;t0/&gt;Author mode in Oxygen XML Editor.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T135536Z" creationid="DSS" creationdate="20200816T135536Z">
@@ -10071,6 +10079,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T160727Z" creationid="DSS" creationdate="20200726T152824Z">
         <seg>摒弃完全不用或不常用特性的语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lastly, &lt;t0/&gt;Figure 6.64&lt;t1/&gt; shows the MDITA version of the cross-format map for the &lt;t2/&gt;Sensei Sushi&lt;t3/&gt; brochure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T141739Z" creationid="lenovo" creationdate="20200827T141739Z">
+        <seg>最后，图6.64显示MDITA版本的跨格式映射，生成&lt;t1/&gt;唤醒寿司&lt;t2/&gt;介绍手册</seg>
       </tuv>
     </tu>
     <tu>
