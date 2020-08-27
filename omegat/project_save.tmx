@@ -15589,6 +15589,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The topic reference components include attributes for format (in bold font), which take the value (“xdita”, “hdita”, or “mdita”) corresponding to each file's authoring language.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T140606Z" creationid="lenovo" creationdate="20200827T140606Z">
+        <seg>主题引用组件包括格式属性(粗体)，根据文件的创作语言它会取不同的值(“xdita”、“hdita”或“mdita”)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The topic works as a simple template that separates content from presentation and leaves it ready to join a topic collection and be integrated into information products.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T034205Z" creationid="lenovo" creationdate="20200812T034205Z">
