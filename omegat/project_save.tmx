@@ -520,8 +520,8 @@
       <tuv lang="en">
         <seg>&lt;t0/&gt;Table 3.1&lt;t1/&gt; reproduces the simple topic/article that Priestley included in that introductory blog post:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T091751Z">
-        <seg>表3.1再现了普里斯特利在那篇介绍性博文中提到的的简单主题/项目：&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200827T053807Z" creationid="DSS" creationdate="20200817T091751Z">
+        <seg>表3.1再现了普里斯特利在那篇介绍性博文中提到的的简单主题或者说项目：&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6146,8 +6146,8 @@
       <tuv lang="en">
         <seg>Figure 6.47&lt;t0/&gt; reproduces the franchise offer topic in HDITA syntax.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T133556Z" creationid="lenovo" creationdate="20200821T135740Z">
-        <seg>图 6.47&lt;t0/&gt; 展示了一个HDITA主题，该主题复现了特许经营权授权主题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200827T053725Z" creationid="lenovo" creationdate="20200821T135740Z">
+        <seg>图 6.47&lt;t0/&gt; 用HDITA写作格式复刻了描述特许经营权提供的服务的主题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6251,8 +6251,8 @@
       <tuv lang="en">
         <seg>Figure &lt;t0/&gt;6.33&lt;t1/&gt; &lt;t2/&gt;shows an MDITA version of the franchise offer topic with the cross-reference link to the external &lt;t3/&gt;Sensei Sushi&lt;t4/&gt; knowledge base.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200827T053237Z" creationid="lenovo" creationdate="20200817T150526Z">
-        <seg>图6.33&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;展示了特许经营权提供的服务的MDITA版主题，该主题包含接到外部&lt;t3/&gt;Sensei Sushi&lt;t4/&gt;知识库的交叉引用链接。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200827T053505Z" creationid="lenovo" creationdate="20200817T150526Z">
+        <seg>图6.33&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;展示了描述特许经营权提供的服务的MDITA主题，该主题包含接到外部&lt;t3/&gt;Sensei Sushi&lt;t4/&gt;知识库的交叉引用链接。 </seg>
       </tuv>
     </tu>
     <tu>
