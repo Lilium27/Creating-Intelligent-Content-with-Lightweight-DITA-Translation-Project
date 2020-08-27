@@ -2154,6 +2154,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A LwDITA-aware software application like Oxygen XML Editor can also process the XDITA, HDITA, and MDITA versions of the cross-format map.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T142555Z" creationid="lenovo" creationdate="20200827T142555Z">
+        <seg>支持LwDITA的软件应用程序(如Oxygen XML Editor)也可以处理跨格式映射的XDITA、HDITA和MDITA版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A LwDITA-aware tool like Oxygen XML would inform the author that the topic is incomplete.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200813T153156Z">
@@ -6240,6 +6248,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;6.63 &lt;t1/&gt;Command for the DITA-OT to generate a PDF deliverable from the&lt;t2/&gt; cross-format &lt;t3/&gt;Sensei Sushi&lt;t4/&gt; HDITA map.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T142341Z" creationid="lenovo" creationdate="20200827T142341Z">
+        <seg>FIGURE &lt;t0/&gt;6.63 &lt;t1/&gt;从跨格式唤醒寿司HDITA映射中生成PDF交付文件的DITA-OT命令</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FOREWORD</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T122921Z" creationid="DSS" creationdate="20200820T122921Z">
@@ -6437,6 +6453,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T153118Z" creationid="lenovo" creationdate="20200826T153118Z">
         <seg>图 &lt;t0/&gt;6.59&lt;t1/&gt; &lt;t2/&gt;显示了包视频环境的含HDITA主题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;t0/&gt;6.65&lt;t1/&gt; &lt;t2/&gt;shows the DITA-OT command to generate a PDF deliverable from the MDITA map in &lt;t3/&gt;Figure &lt;t4/&gt;6.64&lt;t5/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T142530Z" creationid="lenovo" creationdate="20200827T142530Z">
+        <seg>Figure &lt;t0/&gt;6.65&lt;t1/&gt; &lt;t2/&gt;显示了从图6.64的MDITA映射中生成PDF交付文件的DITA-OT命令。</seg>
       </tuv>
     </tu>
     <tu>
