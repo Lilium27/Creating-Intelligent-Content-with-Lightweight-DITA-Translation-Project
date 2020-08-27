@@ -7593,6 +7593,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I also set the foundations used in &lt;t0/&gt;Chapter &lt;t1/&gt;8&lt;t2/&gt; &lt;t3/&gt;to examine an author's role in intelligent content workflows, expanding a series of abstractions (Evia et al., &lt;t4/&gt;2015) &lt;t5/&gt;based on thinking processes recommended for technical writers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T144500Z" creationid="lenovo" creationdate="20200827T144500Z">
+        <seg>我还将为第8章的内容打下基础，检验作者在智能内容工作流中的角色，并基于为技术作者推荐的思考流程，扩展了一系列抽象</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I am a fan of using the same text for the topic identifier attribute and the file name: e.g., the &lt;t5/&gt;@id &lt;t6/&gt;of this topic is “franchise-intro,” and I would save it as &lt;t7/&gt;franchise-intro.dita&lt;t8/&gt; (XDITA topics can be saved with the file extensions &lt;t9/&gt;.xml&lt;t10/&gt; or &lt;t11/&gt;.dita&lt;t12/&gt;).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200813T150723Z">
@@ -9215,6 +9223,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T153242Z" creationid="lenovo" creationdate="20200817T143149Z">
         <seg>在下一章中，我将重点介绍LwDITA映射中使用的内容集合的特定组件，并提供一个使用DITA Open Toolkit和Oxygen XML处理LwDITA文件的快速教程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the following chapter, I revisit the concept of abstraction as a starting point of computational thinking.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T144254Z" creationid="lenovo" creationdate="20200827T144254Z">
+        <seg>在下一章中，我将重新讨论抽象的概念，将其作为计算思维的开篇。</seg>
       </tuv>
     </tu>
     <tu>
