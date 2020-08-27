@@ -493,3 +493,6 @@ Theodor Adorno	狄奥多·阿多诺
 Adobe Technical Communication Suite (TCS)	Adobe 技术传播软件（TCS）
 all inclusive	完整版
 division	块级容器元素	html标签
+franchise terms	特许经营条例
+Charlotte Robidoux	夏洛特·罗比多
+Ament	阿门特
