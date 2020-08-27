@@ -16949,6 +16949,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To make the file valid HTML5, the attribute for format in each topic reference is &lt;t4/&gt;@type&lt;t5/&gt;, and the values are “text/markdown” for MDITA, “text/html” for HDITA, and “text/xml” for XDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T142304Z" creationid="lenovo" creationdate="20200827T142304Z">
+        <seg>为了使文件能够转换成有效HTML5格式，每个主题引用的格式属性为@type, MDITA中值为“text/markdown”，HDITA中值为“text/html”，XDITA中值为“text/xml”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To produce a PDF deliverable from this map, the one-line command for the DITA-OT would be similar to the one we used to process an XDITA map in &lt;t6/&gt;Chapter &lt;t7/&gt;5&lt;t8/&gt; &lt;t9/&gt;(&lt;t10/&gt;Figure &lt;t11/&gt;6.61&lt;t12/&gt;).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T135322Z" creationid="lenovo" creationdate="20200827T135322Z">
