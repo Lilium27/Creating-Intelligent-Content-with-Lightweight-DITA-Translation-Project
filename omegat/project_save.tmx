@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>.), &lt;t3/&gt;its success depends on the content strategy that governs its life cycle” &lt;t4/&gt;(2014, &lt;t5/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T134055Z" creationid="lenovo" creationdate="20200831T134055Z">
+        <seg>.), &lt;t3/&gt;其成功取决于决定其生命周期的内容策略” &lt;t4/&gt;(2014, &lt;t5/&gt;p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1-2).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T074930Z" creationid="DSS" creationdate="20200808T074930Z">
@@ -2418,6 +2426,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A simple and direct definition of content strategy, for those who do not have time to read Clark's excellent analysis of the term, comes from Rahel Anne Bailie, who is an active member of the Lightweight DITA subcommittee at OASIS.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T134107Z" creationid="lenovo" creationdate="20200831T134107Z">
+        <seg>对于那些没有时间阅读Clark对术语的出色分析的人来说，内容策略的简单直接的定义来自Rahel Anne Bailie，他是OASIS轻量级DITA小组委员会的活跃成员。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A simplified ver&lt;t4/&gt;sion of DITA XML (XDITA) was the original LwDITA flavor and, for a few months after Priestley proposed this new standard, the only one.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T122130Z" creationid="lenovo" creationdate="20200812T051440Z">
@@ -3298,6 +3314,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Andersen debunks the role of technology over strategy when she explains that while “high-speed networks and the evolution of content technologies (e.g., Web &lt;t0/&gt;2.0, &lt;t1/&gt;CM systems) and their underlying standards (e.g., XML, HTML5, DITA) have made possible the emergence of intelligent content &lt;t2/&gt;(.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T134038Z" creationid="lenovo" creationdate="20200831T134038Z">
+        <seg>安德森（Andersen）解释说，“尽管高速网络和内容技术（例如Web 2.0，CM系统）的发展及其底层标准（例如XML，HTML5，DITA）使技术成为可能，但安德森却否认了技术的作用。智能内容的出现（……），</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Andersen's framework covers the following stages and activities:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T164351Z" creationid="DSS" creationdate="20200812T164351Z">
@@ -3366,6 +3390,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T143213Z" creationid="DSS" creationdate="20200820T141009Z">
         <seg>正如菲利普·萨皮恩扎（Filipp Sapienza）在2002年的《&lt;t0/&gt;技术写作和技术传播&lt;t1/&gt;》杂志中所说的那样，“技术传播工程师可能会迎来所有组织性的文档都保存在 XML 里的一天。”作为教师，我们应该让学生为这种情况做好准备，但是也如卡洛斯在这本书中指出的，问题在于学习 XML 及其复杂的 DITA 标准真的很难。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As I focus on each layer of abstraction, I attempt to connect it to stages in content-development lifecycles and the ISTE standards for evaluating com&lt;t0/&gt;putational thinkers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T133825Z" creationid="lenovo" creationdate="20200831T133825Z">
+        <seg>当我专注于抽象的每一层时，我尝试将其连接到内容开发生命周期的各个阶段以及用于评估计算思想者的ISTE标准。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3766,6 +3798,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T041433Z">
         <seg>创作者利用 DITA 创建内容不需要使用特殊的软件工具，但是他们需要软件工具来将 DITA 主题转换为人类用户可以阅读的交付物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Authors must be guided by a content strategy, and its development and adoption processes require mental abstractions to defer further layers of the authoring lifecycle until a plan is ready to implement.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T134004Z" creationid="lenovo" creationdate="20200831T134004Z">
+        <seg>作者必须以内容策略为指导，并且其开发和采用过程需要精神上的抽象，以将创作生命周期的其他层次推迟到准备好实施计划为止。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4482,6 +4522,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Clark &lt;t2/&gt;(2016) &lt;t3/&gt;notes that the idea of content strategy “can realize the interdepartmental possibilities” involving the adoption of reuse and single-sourcing outside of technical communication that authors have been promising for decades.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T133921Z" creationid="lenovo" creationdate="20200831T133921Z">
+        <seg>Clark（2016）指出，内容策略的概念“可以实现跨部门的可能性”，涉及数十年来作者一直希望的技术交流之外的重用和单一来源的采用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clark's meticulous literature review on the term is eye-opening and inspiring to take the first step through the layers of abstraction behind developing intelligent content with</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T133942Z" creationid="lenovo" creationdate="20200831T133942Z">
+        <seg>克拉克（Clark）对该术语的细致文献回顾令人大开眼界，并启发人们迈出第一步，通过LwDITA开发智能内容背后的抽象层次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Coaching&lt;t0/&gt;: describing steps in a process</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T165427Z" creationid="lenovo" creationdate="20200811T165427Z">
@@ -4962,6 +5018,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T152840Z" creationid="DSS" creationdate="20200726T152840Z">
         <seg>答案是</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dan Garcia's milkshake recipe from that article can be the inspiration for a fictional content project that can guide us through these revised layers of abstraction.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T133812Z" creationid="lenovo" creationdate="20200831T133812Z">
+        <seg>丹·加西亚（Dan Garcia）的那篇奶昔食谱可能是一个虚构的内容项目的灵感，可以指导我们完成这些修订的抽象层。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6344,6 +6408,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Few concepts have such a strong potential for uniting and dividing, at the same time, opinions about the importance of planning for the development and management of content as &lt;t0/&gt;content strategy&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T133909Z" creationid="lenovo" creationdate="20200831T133909Z">
+        <seg>很少有概念具有如此强大的潜力，可以同时团结和划分关于计划内容开发和管理作为内容策略的重要性的观点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fifteen years later, this book represents my contribution to patching those fault lines.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T135213Z" creationid="DSS" creationdate="20200818T135213Z">
@@ -7357,6 +7429,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T144824Z" creationid="lenovo" creationdate="20200802T075232Z">
         <seg>当卡罗尔面临杀死手册的指控时，他是如何自辩的？&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, Clark also analyzes the dis&lt;t4/&gt;crepancies in definition and implementation of content strategy in the realms of documentation, marketing, web development, and others.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T133936Z" creationid="lenovo" creationdate="20200831T133936Z">
+        <seg>但是，Clark还分析了在文档，市场营销，Web开发等领域中内容策略定义和实施方面的差异。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10291,6 +10371,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Layer &lt;t0/&gt;1: &lt;t1/&gt;Developing a Content Strategy</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T133857Z" creationid="lenovo" creationdate="20200831T133857Z">
+        <seg>第1层：制定内容策略</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Layer &lt;t0/&gt;3: &lt;t1/&gt;Authoring granular content with XML.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T154847Z" creationid="DSS" creationdate="20200813T115347Z">
@@ -11079,6 +11167,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T135918Z" creationid="DSS" creationdate="20200818T131517Z">
         <seg>我的新办公室里只有一张空空如也的桌子，上面唯一放着的东西就是笔记本电脑，就是在这样的环境下，我开始阅读2004年技术传播协会会议（现在称为峰会）一些才发表不久的会议记录。&lt;t2/&gt;&lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>My objective, as I mentioned before, is to separate the intimidating mandate of learning about industry practices and then bringing them back to the classroom in manageable tasks that stay relevant to our profes&lt;t1/&gt;sion and also relate to computing-for-all initiatives in the disciplinary context of content development and technical communication, as an alternative to learn&lt;t2/&gt;ing about code and programming in introductory computer science courses (although I strongly believe that every student, regardless of academic major, can benefit from an introductory course in computer programming).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T133835Z" creationid="lenovo" creationdate="20200831T133835Z">
+        <seg>正如我前面提到的，我的目标是将学习行业实践的艰巨任务分离出来，然后将其带回到课堂上，以可管理的任务进行，这些任务与我们的职业相关，并且还与纪律背景下的“所有人计算”计划相关内容开发和技术交流，作为学习计算机科学入门课程中的代码和编程的一种替代方法（尽管我坚信每个学生，无论学历专业如何，都可以从计算机编程入门课程中受益。）</seg>
       </tuv>
     </tu>
     <tu>
@@ -14422,6 +14518,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T025803Z" creationid="lenovo" creationdate="20200810T003539Z">
         <seg>他界定的惯例旨在保持文档有序的结构，并使得读者更易获得所需信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The cor&lt;t3/&gt;respondence among these layers of abstraction and the indicators in the ISTE standard has not been evaluated empirically beyond my own assessment of students' writing and their progression towards completing the undergraduate degree in Professional and Technical Writing at Virginia Tech.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T133846Z" creationid="lenovo" creationdate="20200831T133846Z">
+        <seg>除了我自己对学生写作的评估以及他们对完成弗吉尼亚理工大学专业技术写作本科学位的评估以外，还没有从经验上评估这些抽象层次与ISTE标准中各项指标之间的对应关系。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17989,6 +18093,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T144049Z" creationid="lenovo" creationdate="20200814T142852Z">
         <seg>如果没有支持LwDITA的编辑器，你可能需要像第一章里的佩德罗那样，使用开源的的DITA Open Toolkit来处理LwDITA内容并生成最终用户交付的内容。&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Without a content strategy, a user cannot advance in the LwDITA process layers of abstraction.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T134027Z" creationid="lenovo" creationdate="20200831T134027Z">
+        <seg>没有内容策略，用户将无法进入LwDITA抽象过程层。</seg>
       </tuv>
     </tu>
     <tu>
