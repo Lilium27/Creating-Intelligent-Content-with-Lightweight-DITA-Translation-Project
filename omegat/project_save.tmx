@@ -2258,6 +2258,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A con&lt;t0/&gt;tent unit can include a whole milkshake or root beer float recipe, but a picture illustrating how to use the mixer and a how-to video for making whipped cream are also content units that need their own row and ID.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T135854Z" creationid="lenovo" creationdate="20200831T135854Z">
+        <seg>内容单元可以包括整个奶昔或生啤酒浮法配方，但是说明如何使用搅拌器的图片以及制作鲜奶油的操作视频也是内容单元，它们需要自己的行和ID。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A conventional HTML editor probably will not be able to process the file as an HDITA map, and that's when the authors would need a LwDITA-aware tool or the DITA-OT.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T073350Z" creationid="DSS" creationdate="20200807T073350Z">
@@ -8109,6 +8117,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130746Z" creationid="DSS" creationdate="20200726T154833Z">
         <seg>IBM 最终捐赠出 DITA，将其作为一种开放标准，目前该标准由非营利组织 OASIS 维护。&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ID: Each content unit needs an identification number or code.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T135837Z" creationid="lenovo" creationdate="20200831T135837Z">
+        <seg>ID：每个内容单元都需要一个标识号或代码。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17389,6 +17405,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Title/Topics: Most recipes will have a clear title; other smaller units can use “a short description of the key topics or themes covered.”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T135913Z" creationid="lenovo" creationdate="20200831T135913Z">
+        <seg>标题/主题：大多数食谱都有明确的标题；其他较小的单位可以使用“对所涵盖的关键主题或主题的简短描述”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Title: A label that connotes the purpose of the content that is associated with it</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T054250Z" creationid="DSS" creationdate="20200817T054250Z">
@@ -17668,6 +17692,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T015916Z" creationid="lenovo" creationdate="20200813T015916Z">
         <seg>在最初提议的两年后，普里斯特利开始着手构思一个基于HTML5的轻量级框架版本，用于表示DITA主题；但是，LwDITA仍有XML语言的明显印记。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>URL: If the content units live on the web.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T135952Z" creationid="lenovo" creationdate="20200831T135952Z">
+        <seg>URL：如果内容单元位于网络上。</seg>
       </tuv>
     </tu>
     <tu>
