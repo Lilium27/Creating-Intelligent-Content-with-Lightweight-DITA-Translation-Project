@@ -1297,6 +1297,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t3/&gt;For the purpose of this chapter, a revised version of those layers, focusing on the flexibility</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T133613Z" creationid="lenovo" creationdate="20200831T133613Z">
+        <seg>在本章中，这些层的修订版着重于创作的灵活性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t3/&gt;I argue that &lt;t4/&gt;if technical communicators are trained with principles of rhetorical problem solving and computational thinking, they can work in lightweight environments without the need of a robust XML solution&lt;t5/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150009Z" creationid="DSS" creationdate="20200817T041845Z">
@@ -2518,6 +2526,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T135746Z" creationid="DSS" creationdate="20200811T135746Z">
         <seg>创建智能内容过程中的抽象概念</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Abstractions in the LwDITA Content Lifecycle &lt;t0/&gt;165 &lt;t1/&gt;about authoring formats allowed by LwDITA and inspired by the ISTE standards for evaluating students as computational thinkers (ISTE, &lt;t2/&gt;2018), &lt;t3/&gt;looks as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T133621Z" creationid="lenovo" creationdate="20200831T133621Z">
+        <seg>LwDITA允许并受ISTE标准启发而将学生评估为计算思想家的格式（ISTE，2018）看起来如下:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15949,6 +15965,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The “Learning to Think Like a Computer” article from The New York Times mentioned in &lt;t0/&gt;Chapter &lt;t1/&gt;7&lt;t2/&gt; &lt;t3/&gt;provides an appropriate example for looking at each layer of abstraction and its connections to the ISTE standards and the content&lt;t4/&gt;development lifecycles presented in this chapter.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T133802Z" creationid="lenovo" creationdate="20200831T133802Z">
+        <seg>第7章提到的《纽约时报》上的“学习像计算机一样思考”一文提供了一个合适的示例，用于研究抽象的每一层及其与ISTE标准的联系以及本章中介绍的内容开发生命周期。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The “Learning to Think Like a Computer” article from The New York Times that I mentioned earlier in this chapter included a relevant example provided by Dan Garcia, from the University of California, Berkeley.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T131659Z" creationid="DSS" creationdate="20200809T131659Z">
@@ -19344,6 +19368,54 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T124645Z" creationid="lenovo" creationdate="20200810T124645Z">
         <seg>• &lt;t0/&gt;介绍每节的内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;Layer &lt;t1/&gt;1: &lt;t2/&gt;Developing a content strategy</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T133655Z" creationid="lenovo" creationdate="20200831T133637Z">
+        <seg>•第1层：制定内容策略</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;Layer &lt;t1/&gt;2: &lt;t2/&gt;Authoring modular content with LwDITA</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T133644Z" creationid="lenovo" creationdate="20200831T133644Z">
+        <seg>•第2层：使用LwDITA创作模块化内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;Layer &lt;t1/&gt;3: &lt;t2/&gt;Separating content from design and context</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T133701Z" creationid="lenovo" creationdate="20200831T133701Z">
+        <seg>•第3层：将内容与设计和上下文分开</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;Layer &lt;t1/&gt;4: &lt;t2/&gt;Linking topics and maps for collection and reuse</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T133715Z" creationid="lenovo" creationdate="20200831T133715Z">
+        <seg>•第4层：链接主题和地图以进行收集和重用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;Layer &lt;t1/&gt;5: &lt;t2/&gt;Processing and producing deliverables</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T133725Z" creationid="lenovo" creationdate="20200831T133725Z">
+        <seg>•第5层：处理和生产可交付成果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;Layer &lt;t1/&gt;6: &lt;t2/&gt;Preparing for the future.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T133737Z" creationid="lenovo" creationdate="20200831T133737Z">
+        <seg>•第6层：为未来做准备。</seg>
       </tuv>
     </tu>
     <tu>
