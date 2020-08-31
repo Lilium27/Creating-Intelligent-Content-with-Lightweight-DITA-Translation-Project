@@ -2474,6 +2474,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ABSTRACTIONS IN THE LwDITA&lt;t0/&gt; CONTENT LIFECYCLE</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T133020Z" creationid="lenovo" creationdate="20200831T133020Z">
+        <seg>抽象概念在LwDITA内容的生命周期</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ACKNOWLEDGMENTS</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T150033Z" creationid="DSS" creationdate="20200819T150033Z">
@@ -6765,6 +6773,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T162413Z" creationid="DSS" creationdate="20200726T154454Z">
         <seg>现在只需要知道 XML 使用标签来识别页面内容所表示的修辞关系。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For practitioners, “the primary issue is which technologies they should choose for investing their limited training dollars,” based on the rapid changes in software applications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T133147Z" creationid="lenovo" creationdate="20200831T133147Z">
+        <seg>对于从业者来说，“主要问题是基于软件应用程序的迅速变化，他们应该选择哪些技术来投资有限的培训资金”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12336,6 +12352,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Saul Carliner sees these choices of time and money in tools as a risky investment for practitioners and academics alike.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T133118Z" creationid="lenovo" creationdate="20200831T133118Z">
+        <seg>索尔·卡利纳（Saul Carliner）将这些时间和金钱的选择视为对从业者和学者而言都是冒险的投资。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Scholars in writing programs and techni&lt;t1/&gt;cal communication are positioned to conduct research in the intersection of computational thinking and content in ways that most computing profession&lt;t2/&gt;als simply are not prepared or motivated to explore.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131436Z" creationid="DSS" creationdate="20200812T143428Z">
@@ -14402,6 +14426,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The curriculum in the instructor's program is modified to include the selected tool, and then the tool developer releases a paid upgrade, which the instructor's department cannot afford.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T133053Z" creationid="lenovo" creationdate="20200831T133053Z">
+        <seg>修改讲师课程中的课程以包括所选工具，然后工具开发人员发布付费升级，这是讲师部门无法负担的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The definitions for some characteristics, however, have changed slightly over time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T030143Z" creationid="lenovo" creationdate="20200811T030143Z">
@@ -14793,6 +14825,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T150739Z" creationid="lenovo" creationdate="20200819T150234Z">
         <seg>标记短语的行内组件在HDITA中应该用HTML5 内联容器 (&lt;span&gt;)元素表示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The instructor requests a free demo or obtains departmental support to purchase an academic or trial license.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T133042Z" creationid="lenovo" creationdate="20200831T133042Z">
+        <seg>讲师请求免费演示或获得部门支持以购买学术或试用许可证。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15293,6 +15333,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The result: rapid obsolescence and a failed experiment that keeps the department from exploring technologies for creating intelligent content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T133105Z" creationid="lenovo" creationdate="20200831T133105Z">
+        <seg>结果：快速过时和失败的实验使该部门无法探索用于创建智能内容的技术。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The resulting HTML5 files should appear automatically (after a few minutes) in the DITA-OT &lt;t0/&gt;out&lt;t1/&gt; folder, although you can specify an alternative folder in the build command with the &lt;t2/&gt;--output&lt;t3/&gt; option.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T115918Z" creationid="DSS" creationdate="20200806T115918Z">
@@ -15385,6 +15433,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T135455Z" creationid="lenovo" creationdate="20200813T140122Z">
         <seg>该示例主题包括一个无序列表（(&lt;t3/&gt;&lt;ul&gt;&lt;t4/&gt;），该无序列表包含三个列表项（&lt;t5/&gt;&lt;li&gt;&lt;t6/&gt;）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The scenario is pretty common in professional conferences: an instructor or trainer attends an event and is inspired by a presentation or visit to a vendor's booth that focuses on a new software application for automating content pro&lt;t0/&gt;cesses.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T133031Z" creationid="lenovo" creationdate="20200831T133031Z">
+        <seg>这种情况在专业会议中很常见：讲师或培训师参加一个活动，并受到演讲或参观供应商展台的启发，该展台侧重于用于自动化内容处理的新软件应用程序。</seg>
       </tuv>
     </tu>
     <tu>
