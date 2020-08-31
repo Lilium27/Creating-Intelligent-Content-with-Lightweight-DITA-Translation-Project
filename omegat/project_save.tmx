@@ -3922,6 +3922,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bailie &lt;t0/&gt;&amp; &lt;t1/&gt;Urbina recommend developing personas and scenarios to understand the audience.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T134555Z" creationid="lenovo" creationdate="20200831T134542Z">
+        <seg>拜利和厄比纳建议开发角色和场景以了解受众。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bailie &lt;t0/&gt;&amp; &lt;t1/&gt;Urbina's content lifecycle model, for example, is built on a structure of four quadrants that represent the stages of &lt;t2/&gt;1) &lt;t3/&gt;analysis, &lt;t4/&gt;2) &lt;t5/&gt;collection, &lt;t6/&gt;3) &lt;t7/&gt;management, and &lt;t8/&gt;4) &lt;t9/&gt;publication (which includes “post-publication maintenance”) followed by a loop back to analysis for the next cycle.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T161052Z" creationid="DSS" creationdate="20200812T161443Z">
@@ -5186,6 +5194,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200827T052933Z" creationid="DSS" creationdate="20200807T061913Z">
         <seg>特许经营权提供的服务明细</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Determine who will be the users of the milkshake recipe.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T134504Z" creationid="lenovo" creationdate="20200831T134504Z">
+        <seg>确定谁将成为奶昔配方的使用者。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7041,6 +7057,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>From that information, it's possible to anticipate what the most common tasks will be and what infor&lt;t2/&gt;mation will be in highest demand” &lt;t3/&gt;(2013, &lt;t4/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T134804Z" creationid="lenovo" creationdate="20200831T134804Z">
+        <seg>根据这些信息，可以预测出最常见的任务是什么，需求最大的信息是什么” &lt;t3/&gt;(2013, &lt;t4/&gt;p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>From the perspective of computing education, Mark Guzdial provides a supporting statement for teaching computing principles outside of computer science courses:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T143739Z" creationid="DSS" creationdate="20200810T143739Z">
@@ -8181,6 +8205,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131303Z" creationid="DSS" creationdate="20200807T035059Z">
         <seg>如果没有选择任何地图，对话框将引导你到“配置转换选项”（Configure Transformation Scenario(s)）窗口。&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If possible, conduct observations and interviews.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T134517Z" creationid="lenovo" creationdate="20200831T134517Z">
+        <seg>如果可能，进行观察和采访。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11841,6 +11873,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T084715Z" creationid="DSS" creationdate="20200730T084715Z">
         <seg>用户并没有阅读手册。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Perform an audience analysis.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T134455Z" creationid="lenovo" creationdate="20200831T134455Z">
+        <seg>执行受众分析。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Personas, they claim, “help you understand the behavioral characteristics of typical content consumers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T134708Z" creationid="lenovo" creationdate="20200831T134547Z">
+        <seg>他们声称，“角色可以帮助您了解典型内容消费者的行为特征。</seg>
       </tuv>
     </tu>
     <tu>
