@@ -1793,6 +1793,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t5/&gt;These attributes are foundational for the filtering and processing of content that will take place in future layers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T140206Z" creationid="lenovo" creationdate="20200831T140206Z">
+        <seg>&lt;t5/&gt;这些属性是将来将要进行的内容过滤和处理的基础。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t5/&gt;represented in HDITA are the navigation element (&lt;t6/&gt;&lt;nav&gt;&lt;t7/&gt;) for open&lt;t8/&gt;i&lt;t9/&gt;ng a map environment, the title (&lt;t10/&gt;&lt;title&gt; &lt;t11/&gt;and &lt;t12/&gt;&lt;h1&gt;&lt;t13/&gt;5&lt;t14/&gt;) to label the map and its deliverables, and a hyper reference inside a list item (&lt;t15/&gt;&lt;a href&gt; &lt;t16/&gt;inside a &lt;t17/&gt;&lt;li&gt;&lt;t18/&gt;) to express a topic reference.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T153544Z" creationid="DSS" creationdate="20200807T072106Z">
@@ -2770,6 +2778,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After processing, the resulting recipe will give the exact instructions for each context.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T140248Z" creationid="lenovo" creationdate="20200831T140248Z">
+        <seg>处理后，生成的配方将为每个上下文提供确切的说明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After receiving feedback from the DITA Technical Committee, Priestley revised the proposal and, in the summer of &lt;t0/&gt;2012, &lt;t1/&gt;updated the list of topical elements to include &lt;t2/&gt;27 &lt;t3/&gt;XML tags (&lt;t4/&gt;&lt;object&gt;&lt;t5/&gt;, &lt;t6/&gt;&lt;note&gt;&lt;t7/&gt;, and elements related to definition lists were among those added to the original proposal).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200731T080530Z">
@@ -3110,6 +3126,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T014524Z" creationid="lenovo" creationdate="20200811T014524Z">
         <seg>元素可以小到一个单词，大到一个教程 &lt;t0/&gt;(1998, &lt;t1/&gt;p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An example would be a context metadata for the milkshake recipe.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T140218Z" creationid="lenovo" creationdate="20200831T140218Z">
+        <seg>一个示例是奶昔配方的上下文元数据。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7049,6 +7073,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Format: Explain if the content unit is a piece of “text, video, PDF, etc.”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T140009Z" creationid="lenovo" creationdate="20200831T140009Z">
+        <seg>格式：如果内容单位是“文本，视频，PDF等”，请说明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fortunately, DITA is still evolving and its tech&lt;t0/&gt;nical committee at OASIS is at the time of this writing planning version &lt;t1/&gt;2.0 &lt;t2/&gt;of this content standard.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150549Z" creationid="DSS" creationdate="20200817T085242Z">
@@ -8317,6 +8349,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T153703Z" creationid="lenovo" creationdate="20200826T153703Z">
         <seg>如果促销宣传册是真正可交付的，佩德罗就不需要同一主题的三个版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the soda fountain has several folders for recipes and images, the “home” for each unit should be specified to avoid miss&lt;t0/&gt;ing pieces and duplication.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T140053Z" creationid="lenovo" creationdate="20200831T140053Z">
+        <seg>如果“汽水喷泉”有多个用于存放配方和图像的文件夹，则应指定每个单元的“主页”，以免丢失和重复。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10515,6 +10555,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Layer &lt;t7/&gt;3 &lt;t8/&gt;provides more details about this sample use of metadata.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T140257Z" creationid="lenovo" creationdate="20200831T140257Z">
+        <seg>第3层提供有关此元数据样本使用的更多详细信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Legal terms of the franchise agreement</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T061921Z" creationid="DSS" creationdate="20200807T061921Z">
@@ -11079,6 +11127,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T134432Z" creationid="DSS" creationdate="20200804T134432Z">
         <seg>元数据组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Metadata: Lauren Creekmore defines metadata as “attributes of content you can use to structure, semantically define, and target content” (in Abel &lt;t0/&gt;&amp; &lt;t1/&gt;Bailie, &lt;t2/&gt;2014, &lt;t3/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T140156Z" creationid="lenovo" creationdate="20200831T140156Z">
+        <seg>元数据：Lauren Creekmore将元数据定义为“可用于构造，语义定义和目标内容的内容属性” (in Abel &lt;t0/&gt;&amp; &lt;t1/&gt;Bailie, &lt;t2/&gt;2014, &lt;t3/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13064,6 +13120,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source: “Specify whether the content is created in-house, by a con&lt;t0/&gt;tent partner (newsfeeds, articles, blog posts, and so on), or by your users.”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T140027Z" creationid="lenovo" creationdate="20200831T140027Z">
+        <seg>来源：“指定内容是内部创建，由内容合作伙伴（新闻源，文章，博客文章等）还是由用户创建。”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source&lt;t0/&gt;: a link to media resources of audio or video content.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T155056Z" creationid="DSS" creationdate="20200804T155035Z">
@@ -13477,6 +13541,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T081323Z" creationid="DSS" creationdate="20200726T153716Z">
         <seg>技术编辑，关注选词，语法和整体架构</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Technical home: The content units reside in computer files that are stored somewhere.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T140040Z" creationid="lenovo" creationdate="20200831T140040Z">
+        <seg>技术主页：内容单元位于存储在某处的计算机文件中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15253,6 +15325,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The metadata, which end users do not see, can set specific rules for each of those environments.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T140239Z" creationid="lenovo" creationdate="20200831T140239Z">
+        <seg>最终用户看不到的元数据可以为每个环境设置特定的规则。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The minimalist approach not only yields a reduction in page count, but it also results in writing that doesn't get in the user's way.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T041457Z" creationid="lenovo" creationdate="20200811T023410Z">
@@ -15593,6 +15673,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T062304Z" creationid="lenovo" creationdate="20200811T141540Z">
         <seg>任务的合理解释包含在&lt;context&gt;元素中；它是一种惯例文步，告诉用户何时或为何要完成这一步骤或食谱。&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The recipe could be the same, with some variations about available equip&lt;t6/&gt;ment and ingredients, for personnel preparing it in a restaurant or a food truck environment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T140227Z" creationid="lenovo" creationdate="20200831T140227Z">
+        <seg>食谱可能是相同的，只是在餐厅或食品卡车环境中准备人员的可用设备和配料有所不同。</seg>
       </tuv>
     </tu>
     <tu>
