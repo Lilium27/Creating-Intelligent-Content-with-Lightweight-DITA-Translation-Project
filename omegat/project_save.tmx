@@ -1865,6 +1865,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t6/&gt;Getto &lt;t7/&gt;&amp; &lt;t8/&gt;St. Amant &lt;t9/&gt;(2014) &lt;t10/&gt;present an overview of personas and their usage at the intersection of user experience and technical communication.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T134823Z" creationid="lenovo" creationdate="20200831T134823Z">
+        <seg>Getto＆St. Amant（2014）在用户体验与技术交流的交汇处概述了角色及其用法。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t6/&gt;Guzdial adds that “achieving the goals of applying computing ideas to facilitate computing work in other disci&lt;t7/&gt;plines is clearly achievable,” but “applying computing ideas in daily life is less likely” &lt;t8/&gt;(2016, &lt;t9/&gt;p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131420Z" creationid="DSS" creationdate="20200810T145652Z">
@@ -4736,6 +4744,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T042207Z" creationid="lenovo" creationdate="20200811T030631Z">
         <seg>具体性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Conduct a content audit or inventory.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T135006Z" creationid="lenovo" creationdate="20200831T135006Z">
+        <seg>进行内容审核或清单。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -14434,6 +14450,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The author could be creating origi&lt;t0/&gt;nal content for the recipes or collecting legacy documentation (in this case, as Dan Garcia mentioned, from the pages of an existing cookbook).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T135148Z" creationid="lenovo" creationdate="20200831T135148Z">
+        <seg>作者可能正在为食谱创建原始内容，或者正在收集旧版文档（如Dan Garcia所述，在这种情况下内容是从现有食谱的页面中获得的）。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The authors did not present them as, say, the official rhetorical conventions for manuals at IBM. Jonathan Price, however, did move beyond the generic conventions and crossed into the organizational or institutional type of topical convention in his &lt;t8/&gt;1984 &lt;t9/&gt;book &lt;t10/&gt;How to Write a Computer Manual: A Handbook of Software Documentation&lt;t11/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T033628Z" creationid="lenovo" creationdate="20200810T073345Z">
@@ -16397,6 +16421,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Then, those needs statements can be converted into specific topics and tasks for the recipes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T134944Z" creationid="lenovo" creationdate="20200831T134944Z">
+        <seg>然后，可以将这些需求陈述转换为配方的特定主题和任务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Then, you can save the file as &lt;t4/&gt;sen- sei-brochure.ditamap&lt;t5/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T064919Z" creationid="DSS" creationdate="20200807T064919Z">
@@ -17273,6 +17305,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200802T075732Z" creationid="lenovo" creationdate="20200802T075732Z">
         <seg>这些因素的影响力远超极简主义。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Through personas and scenar&lt;t11/&gt;ios, the author can identify the users' needs, expectations, and anticipated reactions to the recipe/collection of recipes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T134926Z" creationid="lenovo" creationdate="20200831T134926Z">
+        <seg>通过角色和场景，作者可以确定用户对配方/配方集合的需求，期望和预期反应。 </seg>
       </tuv>
     </tu>
     <tu>
