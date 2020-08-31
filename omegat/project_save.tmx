@@ -2754,6 +2754,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Adopting an existing style guide would be an easy decision, but maybe the owner has specific ideas about content formatting.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T141056Z" creationid="lenovo" creationdate="20200831T141056Z">
+        <seg>采用现有的样式指南将是一个容易的决定，但是所有者可能对内容格式有特定的想法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Adoption numbers and success stories should not hide that the evolution of intelligent content takes place on a slightly rocky path; even in practitioner circles, there is pushback and criticism against XML and its relationship with technical communication.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T160630Z" creationid="DSS" creationdate="20200726T141148Z">
@@ -4662,6 +4670,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200808T023100Z" creationid="lenovo" creationdate="20200808T023100Z">
         <seg>极简主义之前的通用结构</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Compile or adopt a style guide and code of ethics.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T140918Z" creationid="lenovo" creationdate="20200831T140918Z">
+        <seg>编写或采用样式指南和道德规范。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8349,6 +8365,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T135200Z" creationid="lenovo" creationdate="20200831T135200Z">
         <seg>如果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the collection of reci&lt;t0/&gt;pes has more than one author, a style guide can keep all recipes consistent in punctuation, capitalization, word usage, and other editorial decisions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T141033Z" creationid="lenovo" creationdate="20200831T141033Z">
+        <seg>如果食谱集的作者不止一个，则风格指南可以使所有食谱在标点符号、大写字母、单词用法和其他编辑决定上保持一致。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12908,6 +12932,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T075803Z" creationid="lenovo" creationdate="20200812T035536Z">
         <seg>与&lt;t5/&gt;图2.2&lt;t6/&gt;中的通用主题类似，该任务的第一行代码告知计算机该主题是一个XML文件，应该按XML文件处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Similarly, adopting a code of ethics can avoid leaving users at a disadvantage by establishing principles.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T141202Z" creationid="lenovo" creationdate="20200831T141202Z">
+        <seg>同样，采用道德守则可以通过建立原则避免使用户处于不利地位。</seg>
       </tuv>
     </tu>
     <tu>
