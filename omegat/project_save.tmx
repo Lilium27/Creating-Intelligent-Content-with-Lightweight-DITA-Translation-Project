@@ -1313,6 +1313,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t3/&gt;Going back to the adaptive milkshake rec&lt;t4/&gt;ipe from Dan Garcia's example, in a LwDITA workflow an author would need to (following Bailie's definition) analyze and plan before writing any content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T134132Z" creationid="lenovo" creationdate="20200831T134132Z">
+        <seg>&lt;t3/&gt;回到丹·加西亚（Dan Garcia）的示例中的自适应奶昔配方，在LwDITA工作流程中，作者在书写任何内容之前需要（按照Bailie的定义）进行分析和计划。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t3/&gt;I argue that &lt;t4/&gt;if technical communicators are trained with principles of rhetorical problem solving and computational thinking, they can work in lightweight environments without the need of a robust XML solution&lt;t5/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150009Z" creationid="DSS" creationdate="20200817T041845Z">
@@ -3918,6 +3926,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T161052Z" creationid="DSS" creationdate="20200812T161443Z">
         <seg>例如，拜利&lt;t0/&gt;和&lt;t1/&gt;厄比纳提出的内容生命周期模型构建在一个四象限结构上，四个象限分别表示以下阶段：&lt;t2/&gt;1）&lt;t3/&gt;分析、&lt;t4/&gt;2）&lt;t5/&gt;聚合、&lt;t6/&gt;3）&lt;t7/&gt;管理和&lt;t8/&gt;4）&lt;t9/&gt;发布（包括“发布后的维护”阶段），经历完四个阶段后再从头分析，为下一个生命周期做准备。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bailie defines content strategy as “the analysis and planning to develop a repeatable system that governs the management of content throughout the entire content lifecycle” &lt;t0/&gt;(2014, &lt;t1/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T134119Z" creationid="lenovo" creationdate="20200831T134119Z">
+        <seg>Bailie将内容策略定义为“分析和规划，以开发可重复的系统来管理整个内容生命周期中的内容管理” &lt;t0/&gt;(2014, &lt;t1/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6925,6 +6941,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T033628Z" creationid="lenovo" creationdate="20200805T025959Z">
         <seg>对于创建智能内容的技术传播工程师来说，模式(可能以XML文件的形式呈现)的负面影响是“XML格式迫使作者创建千篇一律的主题，而非有用的技术信息”。(O'Keefe, 2010, p.&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For the milkshake entry, the collection should include a versatile recipe with a list of ingredients and steps.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T134241Z" creationid="lenovo" creationdate="20200831T134241Z">
+        <seg>对于奶昔入场，该系列应包括通用配方，其中列出了成分和步骤。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For the scope of this chapter, this layer is not a comprehensive collection of content strategy materials; instead, it focuses on the mental tasks that, at a minimum, authors should focus on before starting an intelligent content project with LwDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T134444Z" creationid="lenovo" creationdate="20200831T134444Z">
+        <seg>对于本章的范围，该层不是内容策略材料的全面集合； 相反，它着重于在使用LwDITA启动智能内容项目之前，作者至少应关注的精神任务。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10415,6 +10447,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153338Z" creationid="DSS" creationdate="20200726T153312Z">
         <seg>下面我想向你们介绍佩德罗（Pedro），他是一名厨师，也是餐馆老板。佩德罗将是本书示例的主要用户和创作人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Let's assume that the overarching task is to develop a collection of soda fountain recipes and procedures.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T134215Z" creationid="lenovo" creationdate="20200831T134215Z">
+        <seg>假设首要任务是开发“汽水喷泉”配方和程序的集合。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14242,6 +14282,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The abundance of definitions and approaches to content strategy also creates a long list of potential deliverables related to this concept.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T134201Z" creationid="lenovo" creationdate="20200831T134201Z">
+        <seg>内容策略的丰富定义和方法也创造了与此概念相关的大量潜在交付物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The actual footnote contains a paragraph with text.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T154555Z" creationid="lenovo" creationdate="20200818T030112Z">
@@ -14953,6 +15001,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T141912Z" creationid="DSS" creationdate="20200806T084518Z">
         <seg>&lt;t4/&gt;编写第 &lt;t5/&gt;五&lt;t6/&gt;&lt;t7/&gt;章和第&lt;t8/&gt;六&lt;t9/&gt;&lt;t10/&gt;章的目的并不是提供一个关于 XML、HTML5 或 Markdown 的完整教程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The ingredients list should accommodate different flavors in one single template, instead of hav&lt;t0/&gt;ing separate recipes for each possible flavor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T134255Z" creationid="lenovo" creationdate="20200831T134255Z">
+        <seg>成分列表应在一个模板中容纳不同的口味，而不是针对每种可能的口味使用单独的配方。</seg>
       </tuv>
     </tu>
     <tu>
