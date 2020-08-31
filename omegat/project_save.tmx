@@ -5254,6 +5254,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Develop a content structure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T140420Z" creationid="lenovo" creationdate="20200831T140420Z">
+        <seg>建立内容结构。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Developers and writers in charge of documenting application programming interfaces (APIs) that need to share content with technical publications or marketing content</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T130217Z" creationid="lenovo" creationdate="20200813T085609Z">
@@ -10467,10 +10475,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Language: “If you have content in multiple languages, you'll want to re&lt;t0/&gt;cord the language or dialect used on each piece of content” (Halvorson &lt;t1/&gt;&amp; &lt;t2/&gt;Rach, &lt;t3/&gt;2012, &lt;t4/&gt;pp.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T140412Z" creationid="lenovo" creationdate="20200831T140412Z">
+        <seg>语言：“如果您有多种语言的内容，则需要记录每一种内容所使用的语言或方言”。(Halvorson &lt;t1/&gt;&amp; &lt;t2/&gt;Rach, &lt;t3/&gt;2012, &lt;t4/&gt;pp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Languages that drop features that aren't used, or aren't used often.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T160727Z" creationid="DSS" creationdate="20200726T152824Z">
         <seg>摒弃完全不用或不常用特性的语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Last update: “When was the last time somebody in your organization paid attention to this piece of content?”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T140355Z" creationid="lenovo" creationdate="20200831T140355Z">
+        <seg>最近更新：“您组织中的某人上一次关注此内容是什么时候？”</seg>
       </tuv>
     </tu>
     <tu>
@@ -13180,6 +13204,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160720Z" creationid="DSS" creationdate="20200811T141558Z">
         <seg>结构化内容&lt;t0/&gt;“甫一设计就决定既要适合人读，也要适合机读”。实现这种双重可读性的是隐藏在背后的标记和注释（例如标签和属性），使内容和代码结合起来产生一个数据源。&lt;t1/&gt;&lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Structured authoring can provide many ben&lt;t0/&gt;efits, including consistency of format and sections among recipes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T140431Z" creationid="lenovo" creationdate="20200831T140431Z">
+        <seg>结构化的创作可以带来很多好处，包括格式的一致性和配方之间的一致性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17752,6 +17784,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Traffic/usage statistics: “If it's feasible, get the skinny on how people are using (or not using) each piece of content.”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T140339Z" creationid="lenovo" creationdate="20200831T140339Z">
+        <seg>流量/使用情况统计信息：“如果可行，请紧贴人们如何使用（或不使用）每条内容。”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Transforming LwDITA Maps</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T032331Z" creationid="DSS" creationdate="20200807T041606Z">
@@ -18981,6 +19021,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T131020Z" creationid="lenovo" creationdate="20200819T151350Z">
         <seg>转换过程中，内容源将被链接到样式表和模板，其中的规则很可能超出了普通作者的控制范围。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>recipe can be its own content type specific characteristics and headings.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T140434Z" creationid="lenovo" creationdate="20200831T140434Z">
+        <seg>配方可以是其自己的内容类型特定的特征和标题。</seg>
       </tuv>
     </tu>
     <tu>
