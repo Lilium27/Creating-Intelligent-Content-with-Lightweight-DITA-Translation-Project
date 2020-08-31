@@ -6657,6 +6657,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For academics, the risks include both “limited resources to purchase costly publishing software” (including enterprise-level content management systems), and the perishable nature of tools-based training, “often outdated within five years,” for students (Carliner, &lt;t0/&gt;2010, &lt;t1/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T133209Z" creationid="lenovo" creationdate="20200831T133209Z">
+        <seg>对于学者来说，风险包括“有限的资源购买昂贵的发布软件”（包括企业级内容管理系统），以及基于工具的培训的易腐本质，“对于学生而言，这种培训通常会在五年内过时” (Carliner, &lt;t0/&gt;2010, &lt;t1/&gt;p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For an audience of curious but hesitant academics, this book demystifies the process of authoring and processing intelligent content.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T091846Z" creationid="DSS" creationdate="20200726T091846Z">
@@ -9623,6 +9631,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130755Z" creationid="DSS" creationdate="20200724T123656Z">
         <seg>他可以利用 DITA 提供的内容类型和哈克斯列出的各项优势功能，而无需自己设计特定标签或依赖发布团队来设计模板和检验工具。&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Instead of purchasing a commercial software application and then build&lt;t0/&gt;ing a curriculum around it, technical communication instructors and trainers can focus on the mental activities that lead to the development of intelligent content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T133219Z" creationid="lenovo" creationdate="20200831T133219Z">
+        <seg>技术交流的讲师和培训师可以购买专注于导致智能内容开发的心理活动，而不必购买商业软件应用程序然后围绕该应用程序构建课程。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15725,6 +15741,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The thinking and working process that I propose in this book involves a series of layers of abstraction based on the model introduced at the end of &lt;t0/&gt;Chapter &lt;t1/&gt;7&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T133534Z" creationid="lenovo" creationdate="20200831T133534Z">
+        <seg>我在本书中提出的思维和工作过程涉及基于第7章末尾介绍的模型的一系列抽象层。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The third line opens the actual topic (with the required attribute for a unique identifier value: “pedro-bio” in this case).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T034530Z" creationid="lenovo" creationdate="20200812T034530Z">
@@ -16865,6 +16889,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145802Z" creationid="DSS" creationdate="20200725T085014Z">
         <seg>该&lt;t1/&gt;输出物非常简洁，不需要专门的样式表，也不需要标定页码和排版。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Those activities are an implementation of the “broader rhetorical strat&lt;t1/&gt;egies for analyzing the audience, planning, revising, and managing one's time and writing process” proposed in Linda Flower's “Rhetorical Problem Solving: Cognition and Professional Writing” &lt;t2/&gt;(1989, &lt;t3/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T133240Z" creationid="lenovo" creationdate="20200831T133240Z">
+        <seg>这些活动是Linda Flower的“修辞问题解决：认知和专业写作”中提出的“用于分析观众，规划，修改和管理时间和写作过程的更广泛的修辞策略”的实现。 &lt;t2/&gt;(1989, &lt;t3/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
