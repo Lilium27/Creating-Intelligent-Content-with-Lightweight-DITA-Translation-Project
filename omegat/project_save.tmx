@@ -4893,6 +4893,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Contrasting layer &lt;t11/&gt;1 &lt;t12/&gt;with the ISTE standards for assessing computational thinking in students, some of its tasks could comply with sections of standards 5a (&lt;t13/&gt;Students formulate problem definitions suited for technology-assisted methods such as data analysis, abstract models and algorithmic thinking in exploring and finding solutions&lt;t14/&gt;), 5b (&lt;t15/&gt;Students collect data or identify relevant data sets, use digital tools to analyze them, and represent data in various ways to facilitate problem-solving and decision&lt;t16/&gt;making&lt;t17/&gt;), and 5c (&lt;t18/&gt;Students break problems into component parts, extract key information, and develop descriptive models to understand complex systems or facilitate problem-solving&lt;t19/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T123724Z" creationid="lenovo" creationdate="20200901T123724Z">
+        <seg>将第1层与用于评估学生的计算思维的ISTE标准进行对比，其某些任务可以符合标准5a的各个部分（学生在探索和发现中制定适合技术辅助方法的问题定义，例如数据分析，抽象模型和算法思维）解决方案），5b（学生收集数据或识别相关数据集，使用数字工具对其进行分析并以各种方式表示数据以促进问题解决和决策制定），以及5c（学生将问题分解为组成部分，提取关键信息，并开发描述性模型以了解复杂系统或促进问题解决）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Controls (&lt;t0/&gt;&lt;media-controls&gt;&lt;t1/&gt;)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T135204Z" creationid="lenovo" creationdate="20200825T135204Z">
@@ -6837,6 +6845,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131358Z" creationid="DSS" creationdate="20200808T074924Z">
         <seg>遵循这个模型，计算机工程师可以掌控高级别的人类需求和流程（如检查电子邮件信息，创建电子表格，在Netflix上观看电影）与低级别的电子信号和计算机组件之间的复杂沟通。&lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Following the model proposed by Flower &lt;t4/&gt;(1989), &lt;t5/&gt;this layer focuses on important discourse conven&lt;t6/&gt;tions that, regardless of their inherent importance, need the broader rhetorical conventions of the remaining layers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T123804Z" creationid="lenovo" creationdate="20200901T123804Z">
+        <seg>按照Flower（1989）提出的模型，这一层重点关注重要的话语约定，无论其固有的重要性如何，都需要其余层级的更广泛的修辞习惯。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10667,6 +10683,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Layer &lt;t0/&gt;2: &lt;t1/&gt;Authoring Modular Content with LwDITA</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T123735Z" creationid="lenovo" creationdate="20200901T123735Z">
+        <seg>第2层：使用LwDITA创作模块化内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Layer &lt;t0/&gt;3: &lt;t1/&gt;Authoring granular content with XML.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T154847Z" creationid="DSS" creationdate="20200813T115347Z">
@@ -10687,6 +10711,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T154934Z" creationid="DSS" creationdate="20200813T115409Z">
         <seg>第&lt;t0/&gt;五&lt;t1/&gt;层级：同源开发和内容复用，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Layer &lt;t1/&gt;1 &lt;t2/&gt;tasks focus on Bailie &lt;t3/&gt;&amp; &lt;t4/&gt;Urbina's &lt;t5/&gt;analysis&lt;t6/&gt; stage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T123651Z" creationid="lenovo" creationdate="20200901T123651Z">
+        <seg>第1层任务的重点是拜利和厄比纳的分析阶段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11813,6 +11845,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once a content audit has identified all legacy documentation, and it has been prepared for update or migration, it's time for authors to produce text and/or multimedia content to address the users' needs identified in layer &lt;t7/&gt;1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T123826Z" creationid="lenovo" creationdate="20200901T123826Z">
+        <seg>内容审核确定了所有旧文档，并准备进行更新或迁移后，就该让作者制作文本和/或多媒体内容来满足第1层中确定的用户需求了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once those parts or components are tagged, they can be “assembled” in different ways for use in a variety of deliverables and media.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153316Z" creationid="DSS" creationdate="20200726T153308Z">
@@ -11929,6 +11969,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T143448Z" creationid="DSS" creationdate="20200812T143448Z">
         <seg>在现代内容开发的生命周期中，存在大量实践和研究的机会，这为使用 LwDITA 编写和发布工作流背后的抽象层级奠定了基础。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Option a: With the text editor Atom by GitHub, with the DITA Open Toolkit as processing tool, and with content and source code stored and delivered in GitHub and GitHub Pages, respectively.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T123542Z" creationid="lenovo" creationdate="20200901T123542Z">
+        <seg>选项a：使用GitHub的文本编辑器Atom，使用DITA Open Toolkit作为处理工具以及分别在GitHub和GitHub Pages中存储和交付的内容和源代码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Option b: With the LwDITA-aware application Oxygen XML, and with content and source code stored and delivered in GitHub and GitHub Pages, respectively.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T123551Z" creationid="lenovo" creationdate="20200901T123551Z">
+        <seg>选项b：使用支持LwDITA的应用程序Oxygen XML，以及分别在GitHub和GitHub Pages中存储和交付的内容和源代码。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12418,6 +12474,14 @@
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T135548Z" creationid="lenovo" creationdate="20200821T143459Z">
         <seg>最常见的可能是使用CALS&lt;t2/&gt;4&lt;t3/&gt;表格格式，CALS 包含一组标签和选项，这使得它对于
 非职业内容贡献者来说，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Probably the most important layer for readers of &lt;t0/&gt;Creating Intelligent Content with Lightweight DITA&lt;t1/&gt;, layer &lt;t2/&gt;2 &lt;t3/&gt;involves content development tasks that can only happen after completing the first layer of abstraction.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T123746Z" creationid="lenovo" creationdate="20200901T123746Z">
+        <seg>对于使用轻量级DITA创建智能内容的读者来说，这可能是最重要的一层，第二层涉及内容开发任务，这些任务只有在完成第一层抽象之后才能发生。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16293,6 +16357,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The tasks involved in this layer are related to several stages of the content&lt;t0/&gt;development lifecycles featured in the previous chapter.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T123604Z" creationid="lenovo" creationdate="20200901T123604Z">
+        <seg>该层涉及的任务与上一章中介绍的内容开发生命周期的多个阶段有关。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The technical content edition adds the technical communication content types (concept, task, reference) that defined DITA in its origins at IBM, and adds the content types of glossary entry, glossary group, and troubleshooting.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T073415Z" creationid="lenovo" creationdate="20200812T031321Z">
@@ -17041,6 +17113,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T114849Z" creationid="DSS" creationdate="20200811T114849Z">
         <seg>也来自于我担任 OASIS 轻量级 DITA 小组委员会联合主席和 LwDITA 标准技术规范联合编辑的经验。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They also cover some of the work included in Andersen's &lt;t7/&gt;Analyzing the customer and business needs&lt;t8/&gt; and &lt;t9/&gt;Developing an information architecture&lt;t10/&gt; stages.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T123712Z" creationid="lenovo" creationdate="20200901T123712Z">
+        <seg>它们还涵盖了安德森“分析客户和业务需求以及开发信息架构阶段”中包含的一些工作。</seg>
       </tuv>
     </tu>
     <tu>
