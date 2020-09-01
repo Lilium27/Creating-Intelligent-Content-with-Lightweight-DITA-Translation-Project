@@ -2169,6 +2169,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t8/&gt;The sample recipe from layer &lt;t9/&gt;2 &lt;t10/&gt;only mentions the professional mixer, but now that its content will also generate the operator manual for the food truck location, this same recipe should accommodate both cases while minimizing distractions for the users: in the downtown location, the manual should only mention the professional mixer, but in the food truck location it should only mention the smaller blender.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T143415Z" creationid="lenovo" creationdate="20200901T143415Z">
+        <seg>&lt;t8/&gt;第2层的样本配方仅提到使用专业搅拌机，但是现在，其内容也将生成餐车操作员手册，该相同的配方应适用于两种情况，同时将对用户的困扰降到最低：在市中心位置，手册仅应提及使用专业搅拌机，而餐车则应使用较小的搅拌机。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t8/&gt;Topic-based writing is described as “authoring an information set as a collection of discrete units called &lt;t9/&gt;topics&lt;t10/&gt;, rather than as a whole book or help system” (Baker, &lt;t11/&gt;2016 &lt;t12/&gt;p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200724T154341Z">
