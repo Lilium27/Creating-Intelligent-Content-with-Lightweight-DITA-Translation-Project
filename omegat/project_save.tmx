@@ -11355,6 +11355,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LwDITA inherits the context-setting capability of DITA XML, which depends on rich metadata to filter or flag content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T142414Z" creationid="lenovo" creationdate="20200901T142414Z">
+        <seg>LwDITA继承了DITA XML的上下文设置功能，该功能依赖于丰富的元数据来过滤或标记内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LwDITA is a topic-based architecture for tagging and structuring intelligent content using flexible markup options.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T042149Z">
@@ -18177,6 +18185,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T133639Z">
         <seg>本主题使用HTML5的&lt;t1/&gt; &lt;t2/&gt;&lt;article&gt; &lt;t3/&gt;元素创建内容环境，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This type of context functions like a simple conditional statement in the “if-then” model of computer programming.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T142701Z" creationid="lenovo" creationdate="20200901T142701Z">
+        <seg>这种类型的上下文功能类似于计算机编程“ if-then”模型中的简单条件语句。</seg>
       </tuv>
     </tu>
     <tu>
