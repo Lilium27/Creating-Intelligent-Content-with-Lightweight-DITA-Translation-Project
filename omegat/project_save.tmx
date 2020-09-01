@@ -8497,6 +8497,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the milkshake today will be strawberry-flavored, the variable &lt;t3/&gt;“icecream-flavor”&lt;t4/&gt; will be set to the value of &lt;t5/&gt;“strawberry&lt;t6/&gt;”.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T124448Z" creationid="lenovo" creationdate="20200901T124448Z">
+        <seg>如果今天的奶昔是草莓味的，则变量“冰淇淋味”的值设置为“草莓”。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the promotional brochure were a real deliver&lt;t3/&gt;able, Chef Pedro would not need three versions of the same topic.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T153703Z" creationid="lenovo" creationdate="20200826T153703Z">
@@ -15030,6 +15038,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131305Z" creationid="DSS" creationdate="20200807T043637Z">
         <seg>目前，公司在内容上有很多需求：他们需要制作指导企业餐厅员工的手册，管理品牌特许经营权所有者的指导方针和期望。与此同时，因为餐饮行业的本质所需，他们还要集中管理受顾客喜爱的菜谱和原料，以便在打印版菜单或在线菜单等终端用户产品中复用。 &lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The content variable &lt;t0/&gt;“icecream-flavor”&lt;t1/&gt; appears in a phrase-level element of the milkshake recipe (inside an ingredient item), but its value changes depend&lt;t2/&gt;ing on the flavor established by the manager.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T124415Z" creationid="lenovo" creationdate="20200901T124415Z">
+        <seg>内容变量“冰淇淋口味”出现在奶昔配方的短语级元素中（在配料项目内部），但其值会根据管理员建立的风味而变化。 </seg>
       </tuv>
     </tu>
     <tu>
