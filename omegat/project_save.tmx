@@ -1177,6 +1177,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t2/&gt;link structure from CommonMark/GitHub Flavored Markdown (GFM) to establish content variables.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T132125Z" creationid="lenovo" creationdate="20200901T132125Z">
+        <seg>&lt;t2/&gt; MDITA使用CommonMark / GitHub Flavored Markdown（GFM）中的快捷方式引用链接结构来建立内容变量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t2/&gt;the manuals didn't work.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T155525Z" creationid="lenovo" creationdate="20200802T065902Z">
@@ -14546,6 +14554,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The GFM spec explains shortcut reference links as consisting “of a link label that matches a link reference definition else&lt;t3/&gt;where in the document and is not followed by &lt;t4/&gt;[] &lt;t5/&gt;or a link label.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T132132Z" creationid="lenovo" creationdate="20200901T132132Z">
+        <seg>GFM规范将快捷方式引用链接解释为“由与文档中其他位置的链接引用定义匹配的链接标签组成，并且后跟[]或链接标签。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The GFM&lt;t2/&gt; structure of link text &lt;t3/&gt;+ &lt;t4/&gt;link destination does not require additional attributes for scope or type of link.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T154322Z" creationid="lenovo" creationdate="20200818T021905Z">
@@ -15006,6 +15022,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T145701Z" creationid="DSS" creationdate="20200817T145701Z">
         <seg>交叉引用拥有可选属性：&lt;t0/&gt; @scope&lt;t1/&gt;和&lt;t2/&gt; @format&lt;t3/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The author can save this recipe as &lt;t11/&gt;milkshake.html&lt;t12/&gt;, and the resulting file can be viewed in a web browser, but the recipe won't make sense for end users because the content variable for “icecream-flavor” is not established in this layer of abstraction (&lt;t13/&gt;Figure &lt;t14/&gt;8.3&lt;t15/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T132031Z" creationid="lenovo" creationdate="20200901T132031Z">
+        <seg>作者可以将该配方保存为milkshake.html，可以在Web浏览器中查看生成的文件，但是该配方对最终用户没有意义，因为在抽象层中未建立“ icecream-flavor”的内容变量&lt;t13/&gt;Figure &lt;t14/&gt;8.3&lt;t15/&gt;)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16885,6 +16909,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The versatile milkshake recipe can be expressed, with some minor dif&lt;t0/&gt;ferences, in the MDITA core profile.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T132111Z" creationid="lenovo" creationdate="20200901T132111Z">
+        <seg>可以在MDITA核心配置文件中表达通用奶昔配方，但有一些细微差别。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The video tutorials “Installing the DITA Open Toolkit&lt;t3/&gt;”&lt;t4/&gt;2&lt;t5/&gt; and “Testing the DITA Open Toolkit”&lt;t6/&gt;3&lt;t7/&gt; provide enough information to follow the examples included in this book.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T122302Z" creationid="DSS" creationdate="20200806T092049Z">
@@ -17313,6 +17345,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T055316Z" creationid="DSS" creationdate="20200817T055316Z">
         <seg>公共元素都可以在 XDITA、HDITA 和 MDITA 中体现出来，可以对它们进行修改以适应不同的编写语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These differences keep the LwDITA authoring formats compliant with the HTML5 and DITA XML stand&lt;t10/&gt;ards, respectively.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T131939Z" creationid="lenovo" creationdate="20200901T131939Z">
+        <seg>这些差异使LwDITA创作格式分别符合HTML5和DITA XML标准。</seg>
       </tuv>
     </tu>
     <tu>
