@@ -3682,6 +3682,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As it prepares for more advanced layers, the rec&lt;t0/&gt;ipe must keep content and presentation separate.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T134535Z" creationid="lenovo" creationdate="20200901T134535Z">
+        <seg>在准备更高级的层时，配方必须将内容和表示分开。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As lead editor of the LwDITA technical specification, I have attempted to combine the needs and resources of academic and industry content professionals, testing and implementing applied compu&lt;t9/&gt;tational principles built on common concepts of genre and rhetorical theory.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T151140Z" creationid="DSS" creationdate="20200817T053156Z">
@@ -9691,6 +9699,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In previous layers of abstraction, the milkshake recipe moved towards the structured authoring level.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T134524Z" creationid="lenovo" creationdate="20200901T134524Z">
+        <seg>在以前的抽象层中，奶昔配方已移至结构化创作级别。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In reality, DITA is a tool as much as HTML is a tool: as open standards, they can have tools built based on them, but the standards are not the tools.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T143118Z" creationid="lenovo" creationdate="20200814T140915Z">
@@ -11519,6 +11535,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200804T153616Z">
         <seg>地图（map）&lt;t0/&gt;：描述一组资源之间关系的组件，如一组LwDITA主题之间的关系。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Baker warned about the difficulties of teaching this layer in the following statement:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T134559Z" creationid="lenovo" creationdate="20200901T134559Z">
+        <seg>马克·贝克（Mark Baker）在以下声明中警告了教授该层的困难：</seg>
       </tuv>
     </tu>
     <tu>
@@ -18025,6 +18049,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T030913Z" creationid="lenovo" creationdate="20200812T030913Z">
         <seg>这种划分是为了适应标准受众扩大的现状。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This separation “can create philosophical and cognitive dissonance for technical communicators trained to think of information as content that is inherently linked to presentation” (Clark, 2007, p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T134554Z" creationid="lenovo" creationdate="20200901T134554Z">
+        <seg>这种分离“可能会导致技术交流者在哲学和认知上产生失调，这些交流者被训练为将信息视为与表述本质相关的内容” (Clark, 2007, p.</seg>
       </tuv>
     </tu>
     <tu>
