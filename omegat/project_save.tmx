@@ -4618,6 +4618,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Chaos (“there's no consistency in the presentation of content”)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T134403Z" creationid="lenovo" creationdate="20200901T134403Z">
+        <seg>混乱（“内容表示不一致”）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Chapter 4 identifies additional user types for the three ini- tial authoring formats of LwDITA.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T122329Z" creationid="DSS" creationdate="20200730T092108Z">
@@ -7281,6 +7289,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For years, I have taught in my courses the four levels of Pringle &lt;t0/&gt;&amp; &lt;t1/&gt;O'Keefe's meth&lt;t2/&gt;odology for developing technical documents:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T134350Z" creationid="lenovo" creationdate="20200901T134350Z">
+        <seg>多年以来，我在课程中教过Pringle＆O’Keefe开发技术文档的方法的四个层次：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For years, some technical communicators in academia and industry have seen DITA as a tool, and some perceive it as an alternative to software applications like Microsoft Word or Adobe FrameMaker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T142929Z" creationid="lenovo" creationdate="20200814T140747Z">
@@ -9803,6 +9819,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the first scenario, it makes sense to have an author in control of the manual's content and presentation to save time and money: one deliverable, one format, and one author.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T134325Z" creationid="lenovo" creationdate="20200901T134325Z">
+        <seg>在第一种情况下，让作者控制手册的内容和演示以节省时间和金钱是很有意义的：一个可交付成果，一种格式和一个作者。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the following chapter I introduce a revised version of the layers of abstraction for teaching intelligent content to technical communication stu&lt;t0/&gt;dents and trainees.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131449Z" creationid="DSS" creationdate="20200813T125448Z">
@@ -9863,6 +9887,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153211Z" creationid="DSS" creationdate="20200726T153211Z">
         <seg>在修辞学领域，埃普伦（Applen）和麦克丹尼尔（McDaniel）写了一篇关于XML及其修辞学启示的重要文章。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the second scenario, however, an intelligent content solution to address all those potential deliverables depends on separating content from presentation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T134341Z" creationid="lenovo" creationdate="20200901T134341Z">
+        <seg>但是，在第二种情况下，解决所有这些潜在交付物的智能内容解决方案取决于将内容与表示分离。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12349,6 +12381,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Page consistency (“content looks the same on paper (or other delivery for&lt;t0/&gt;mat,” but there's no consistency in its source files)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T134415Z" creationid="lenovo" creationdate="20200901T134415Z">
+        <seg>页面一致性（“内容在纸上（或其他交付格式）看起来相同，但是其源文件中不一致”）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Paragraph&lt;t0/&gt;: a unit of text that expresses a single main idea.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T131839Z" creationid="DSS" creationdate="20200804T131839Z">
@@ -13664,6 +13704,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Structured authoring (“a publishing workflow that defines and enforces consistent organization of content”&lt;t0/&gt;)&lt;t1/&gt;(2009, pp.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T134506Z" creationid="lenovo" creationdate="20200901T134506Z">
+        <seg>结构化创作（“定义和实施内容统一组织的发布工作流程”）&lt;t1/&gt;(2009, pp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Structured authoring can provide many ben&lt;t0/&gt;efits, including consistency of format and sections among recipes.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T140431Z" creationid="lenovo" creationdate="20200831T140431Z">
@@ -14053,6 +14101,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T081315Z" creationid="DSS" creationdate="20200726T153653Z">
         <seg>模板设计师，设计可交付成果的界面和风格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Template-based authoring (content follows “predetermined styles (and) writers don't spend time figuring out how to create particular formatting &lt;t0/&gt;— &lt;t1/&gt;they apply styles to add formatting”)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T134458Z" creationid="lenovo" creationdate="20200901T134458Z">
+        <seg>基于模板的创作（内容遵循“预定的样式（并且）作家不用花时间弄清楚如何创建特定格式——他们将样式应用于添加格式”）</seg>
       </tuv>
     </tu>
     <tu>
