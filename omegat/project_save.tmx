@@ -15821,6 +15821,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The link's URI and title are provided by the matching link reference defi&lt;t6/&gt;nition.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T133600Z" creationid="lenovo" creationdate="20200901T133600Z">
+        <seg> 链接的URI和标题由匹配的链接引用定义提供。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The list item asking for a pint of ice cream includes a key reference with the value of &lt;t2/&gt;“icecream-flavor,”&lt;t3/&gt; which will be set at processing time in a different layer.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T130341Z" creationid="lenovo" creationdate="20200901T130341Z">
@@ -15905,6 +15913,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T140239Z" creationid="lenovo" creationdate="20200831T140239Z">
         <seg>最终用户看不到的元数据可以为每个环境设置特定的规则。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The milkshake recipe authored in MDITA extended profile, with a GFM shortcut reference link setting the content placeholder for &lt;t0/&gt;“icecream-flavor”&lt;t1/&gt; &lt;t2/&gt;, &lt;t3/&gt;would look like &lt;t4/&gt;Figure &lt;t5/&gt;8.4&lt;t6/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T133625Z" creationid="lenovo" creationdate="20200901T133625Z">
+        <seg>在MDITA扩展配置文件中编写的奶昔配方，带有GFM快捷方式参考链接，将内容占位符设置为“ icecream-flavor”，如图8.4所示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18105,6 +18121,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T134926Z" creationid="lenovo" creationdate="20200831T134926Z">
         <seg>通过角色和场景，作者可以确定用户对配方/配方集合的需求，期望和预期反应。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thus, [foo] is equivalent to [foo][]” (GitHub Flavored Markdown Spec, &lt;t7/&gt;2017).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T133613Z" creationid="lenovo" creationdate="20200901T133613Z">
+        <seg>因此，[foo]等效于[foo] []” (GitHub Flavored Markdown Spec, &lt;t7/&gt;2017).</seg>
       </tuv>
     </tu>
     <tu>
