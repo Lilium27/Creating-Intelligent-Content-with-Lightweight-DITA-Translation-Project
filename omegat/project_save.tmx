@@ -16149,6 +16149,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The metadata attributes assigned in this layer will help filter out irrelevant information for each context in a future layer of abstraction.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T143552Z" creationid="lenovo" creationdate="20200901T143552Z">
+        <seg>在此层中分配的元数据属性将有助于在将来的抽象层中过滤掉与每个上下文无关的信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The metadata entries should be expressed in pairs of name (&lt;t5/&gt;@name&lt;t6/&gt;) and value (&lt;t7/&gt;@content&lt;t8/&gt;), according to the W3C recommendation for HTML5 metadata&lt;t9/&gt;6&lt;t10/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T142336Z" creationid="lenovo" creationdate="20200825T131117Z">
