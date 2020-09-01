@@ -1769,6 +1769,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t5/&gt;Layer &lt;t6/&gt;3 &lt;t7/&gt;will look at condi&lt;t8/&gt;tional content, as we advance to connecting elements of the recipe to specific contexts.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T124117Z" creationid="lenovo" creationdate="20200901T124117Z">
+        <seg>随着我们继续将配方元素与特定上下文相联系时，第3层将研究条件内容。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t5/&gt;Others argue that in the world of computing code verbose languages are becoming obsolete, but intelligent content still relies on XML and its nested tag structures:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143411Z" creationid="DSS" creationdate="20200726T152722Z">
@@ -2061,6 +2069,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T134114Z" creationid="lenovo" creationdate="20200821T140637Z">
         <seg>&lt;t8/&gt;图 6.48&lt;t9/&gt;展示了一个MDITA主题，该主题使用&lt;t10/&gt;atx&lt;t11/&gt;语法标记了一个二级标题，以创建节。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t8/&gt;For the milkshake example, let's assume that the soda fountain operator manual will include a few recipes, with the versa&lt;t9/&gt;tile milkshake being one of them, probably featured next to the root beer float and the banana split.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T123927Z" creationid="lenovo" creationdate="20200901T123927Z">
+        <seg>&lt;t8/&gt;对于奶昔示例，让我们假设“汽水喷泉”操作员手册包括一些食谱，多种用途的奶昔就是其中之一，可能是在生啤酒浮漂和香蕉片旁边。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2454,6 +2470,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143718Z" creationid="DSS" creationdate="20200726T153159Z">
         <seg>&lt;t2/&gt;在&lt;t3/&gt;亚马逊&lt;t4/&gt;网站上搜索“XML”，在“图书-计算机和技术-编程语言”类别下，有&lt;t5/&gt;1100&lt;t6/&gt;多个搜索结果。&lt;t7/&gt;&lt;t8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A second approach, which is more appropriate for layer &lt;t9/&gt;2, &lt;t10/&gt;is provided by &lt;t11/&gt;content variables&lt;t12/&gt;, which Nancy Harrison defines as “variables that contain phrase-level content that needs to be in a topic no matter what document the topic is part of, but that changes depending on context, for example, a product name or a company name” &lt;t13/&gt;(2016, &lt;t14/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T124131Z" creationid="lenovo" creationdate="20200901T124131Z">
+        <seg>第二种方法更适合第2层，由内容变量提供，南希·哈里森（Nancy Harrison）将其定义为“包含主题级短语内容的变量，无论该主题属于哪个文档，该变量都必须包含在主题中。 根据上下文而变化，例如“产品名称或公司名称” &lt;t13/&gt;(2016, &lt;t14/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6821,6 +6845,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T033628Z" creationid="lenovo" creationdate="20200810T072714Z">
         <seg>卡洛琳·米勒（Carolyn Miller）和杰克·瑟尔泽（Jack Selzer）以技术写作的不同体裁作为研究重点，通过仔细研究其修辞惯例或语篇主题基础，分析了技术报告的结构和论证要素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Focusing, for now, exclusively on the milkshake recipe and ignoring all other offerings from the fountain manual, we can identify more than one way to achieve with LwDITA the versatility required by Dan Garcia's example.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T123951Z" creationid="lenovo" creationdate="20200901T123951Z">
+        <seg>目前，我们仅专注于奶昔配方，而忽略润版手册中的所有其他产品，我们可以确定使用LwDITA实现Dan Garcia示例所要求的多功能性的多种方法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11957,6 +11989,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>One possible approach could be through &lt;t0/&gt;conditional content&lt;t1/&gt;, which Julio Vazquez defines as “content that has sufficient metadata to allow a processor to filter or flag that content in any output or format, using a profile to determine the exact output for a given context or format” &lt;t2/&gt;(2016, &lt;t3/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T124012Z" creationid="lenovo" creationdate="20200901T124012Z">
+        <seg>一种可能的方法是通过条件内容，Julio Vazquez将其定义为“具有足够元数据的内容，以允许处理器使用配置文件确定给定上下文或格式的确切输出来过滤或标记任何输出或格式的内容。 ” &lt;t2/&gt;(2016, &lt;t3/&gt;p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>One subject, signified by the title</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T150215Z" creationid="lenovo" creationdate="20200811T150215Z">
@@ -14814,6 +14854,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T033628Z" creationid="lenovo" creationdate="20200810T073345Z">
         <seg>作者并没有把它们作为，比如说，IBM手册的官方修辞惯例。乔纳森·普莱斯（Jonathan Price）1984年出版的《如何编写计算机手册：软件文档手册》的确从通用惯例的基础上往前迈了一步，开创了组织机构型主题惯例。&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The authors, after collecting information from any exist&lt;t10/&gt;ing sources, conducting interviews with experts, and observing work in the kitchen, can start creating topics following the guidelines from the proposed LwDITA standard.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T123939Z" creationid="lenovo" creationdate="20200901T123939Z">
+        <seg>在从任何现有来源收集信息，与专家进行访谈以及在厨房中观察工作后，作者都可以按照拟议的LwDITA标准中的指南开始创建主题。</seg>
       </tuv>
     </tu>
     <tu>
