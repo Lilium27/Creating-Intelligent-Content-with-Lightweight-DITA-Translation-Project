@@ -1105,6 +1105,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t2/&gt;The plan should also acknowledge the diversity of content &lt;t3/&gt;authors&lt;t4/&gt;, which includes language but also covers the diverse departments or groups involved with the content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T123123Z" creationid="lenovo" creationdate="20200901T123123Z">
+        <seg>&lt;t2/&gt;该计划还应承认内容作者的多样性，其中包括语言，但还应涵盖内容所涉及的不同部门或小组。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t2/&gt;This highly structured task topic reads like a smoothie that came out of a blender combining generic, organizational, and disciplinary conven&lt;t3/&gt;tions and commonplaces from Carroll, Price, and Hargis and her co-authors, and others who attempted to capture the essence of technical documentation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T062030Z" creationid="lenovo" creationdate="20200811T130951Z">
@@ -3874,6 +3882,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Authors should acknowledge the diversity of their content users, which can include local issues such as including information for milkshakes that use non-dairy alternatives instead of milk.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T123100Z" creationid="lenovo" creationdate="20200901T123100Z">
+        <seg>作者应承认其内容用户的多样性，其中可能包括本地问题，例如包括使用非乳品替代品而非牛奶的奶昔信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Authors using any combination of LwDITA formats do not need new tech&lt;t0/&gt;nological skills.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T084056Z" creationid="DSS" creationdate="20200817T084056Z">
@@ -4889,6 +4905,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T155112Z" creationid="DSS" creationdate="20200804T155009Z">
         <seg>控件（controls）&lt;t0/&gt;：在网页转换中，提供控制视频重放和视频音量的用户界面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create a diversity plan.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T123051Z" creationid="lenovo" creationdate="20200901T123051Z">
+        <seg>制定多元化计划。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8401,6 +8425,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the soda fountain project were to expand, authors could include professionals from the kitchen, technical writers in charge of instructions, and marketing writers developing promotional materials.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T123132Z" creationid="lenovo" creationdate="20200901T123132Z">
+        <seg>如果要扩大“汽水喷泉”项目，作者可以包括厨房的专业人员，负责指导的技术作家以及开发促销材料的市场作家。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the tool developers respect the standard, they allow for interoperability among tools.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T093810Z" creationid="DSS" creationdate="20200726T093810Z">
@@ -11095,6 +11127,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T131529Z" creationid="DSS" creationdate="20200801T131529Z">
         <seg>迈克尔·普里斯特利：当大家说“DITA 太复杂了”时，我们希望可以回答这个问题，“是哪个版本的 DITA?”我们设计了一个相当简单的基础版本，以及有更多的功能技术内容版本和完整版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make a technology plan considering human involvement.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T123329Z" creationid="lenovo" creationdate="20200901T123329Z">
+        <seg>制定一项考虑人类参与的技术计划。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -14922,6 +14962,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The diver&lt;t0/&gt;sity plan should also consider outlining a global content strategy, which Val Swisher defines as “a plan for managing content that is intended for people whose main language is something other than the source language” &lt;t1/&gt;(2014).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T123111Z" creationid="lenovo" creationdate="20200901T123111Z">
+        <seg>多样性计划还应考虑概述全球内容战略，Val Swisher将其定义为“旨在针对主要语言不是源语言的人的内容管理计划”（2014年）。 &lt;t1/&gt;(2014).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The document type of map enables this grouping of topics.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T075903Z" creationid="DSS" creationdate="20200806T075903Z">
@@ -17449,6 +17497,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T153852Z" creationid="lenovo" creationdate="20200826T153852Z">
         <seg>这些用不同语言生成的文件将在LwDITA映射中共存并生成跨格式的可交付内容，这是下一节的重点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Those groups have different communication styles, expectations, and structures that should be acknowledged and reconciled.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T123142Z" creationid="lenovo" creationdate="20200901T123142Z">
+        <seg>这些小组具有不同的沟通方式，期望和结构，应予以承认和调和。</seg>
       </tuv>
     </tu>
     <tu>
