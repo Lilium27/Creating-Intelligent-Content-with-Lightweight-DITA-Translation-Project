@@ -1969,6 +1969,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t6/&gt;Those concerns echo a threat to the characteristic of rhetorical effectiveness, and DITA has tried to ameliorate that effect by giv&lt;t7/&gt;ing authors control on the context of their content elements.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T134846Z" creationid="lenovo" creationdate="20200901T134846Z">
+        <seg>这些担忧呼应了对修辞效果特征的威胁，DITA试图通过使作者对其内容元素的上下文进行控制来改善这种效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t7/&gt;185).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T063658Z" creationid="DSS" creationdate="20200824T063658Z">
@@ -2714,6 +2722,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>According to some, writers separating content from presentation “will have no control over the con&lt;t0/&gt;text in which their information appears or the uses to which it may be put” (Gu &lt;t1/&gt;&amp; &lt;t2/&gt;Pullman, &lt;t3/&gt;2009, &lt;t4/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T134843Z" creationid="lenovo" creationdate="20200901T134843Z">
+        <seg>一些人认为，将内容与表示分离开来的作者“将无法控制其信息出现的上下文或信息的用途” (Gu &lt;t1/&gt;&amp; &lt;t2/&gt;Pullman, &lt;t3/&gt;2009, &lt;t4/&gt;p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>According to the DITA-OT documentation, the command that builds DITA (and LwDITA) deliverables from topics and maps from a Terminal or Command Prompt window looks like &lt;t0/&gt;Figure &lt;t1/&gt;5.5</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200806T113320Z">
@@ -2878,6 +2894,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T123740Z" creationid="lenovo" creationdate="20200813T015559Z">
         <seg>毕竟，自20世纪90年代末以来，基于XML的DITA在IBM非常成功，并在2005年成为一种用于结构化和发布内容的国际通用标准。&lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After complet&lt;t0/&gt;ing layer 2, the recipe topics look either like raw XML, HTML5, or Markdown &lt;t1/&gt;code, depending on the LwDITA authoring format used to create them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T134741Z" creationid="lenovo" creationdate="20200901T134741Z">
+        <seg> 在完成第2层之后，配方主题看起来像原始XML，HTML5或Markdown代码，这取决于用于创建它们的LwDITA创作格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10075,6 +10099,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this layer, authors should focus on producing content (text, audio, videos, etc.) and letting the presentation be addressed elsewhere.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T134750Z" creationid="lenovo" creationdate="20200901T134750Z">
+        <seg>在这一层中，作者应集中精力制作内容（文本，音频，视频等），并在其他地方进行演示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this scenario, however, the simple website from &lt;t0/&gt;Figure 5.11&lt;t1/&gt; would not be enough for the printed &lt;t2/&gt;Sensei Sushi&lt;t3/&gt; brochure.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T033607Z" creationid="DSS" creationdate="20200808T033607Z">
@@ -12185,6 +12217,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T125232Z" creationid="lenovo" creationdate="20200813T081033Z">
         <seg>轻量级DITA小组委员会在开发LwDITA技术规范时面临的一个更大的挑战是，如何为LwDITA工具处理非LwDITA HTML5标记制定规则。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>One of the hardest things about moving technical writers from desktop publishing to structured writing is persuading them to give up responsi&lt;t0/&gt;bility for how the final output looks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T134625Z" creationid="lenovo" creationdate="20200901T134625Z">
+        <seg>“要使技术作家从桌面出版转向结构化写作，最困难的事情之一就是说服他们放弃最终输出的外观。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15612,6 +15652,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The fear of losing control over context is, however, real.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T134833Z" creationid="lenovo" creationdate="20200901T134833Z">
+        <seg>然而，担心失去对上下文的控制是真实存在的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The figure environment includes a description (&lt;t3/&gt;&lt;desc&gt;&lt;t4/&gt;) that functions as a caption or label for the image.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T134236Z" creationid="DSS" creationdate="20200817T134236Z">
@@ -16257,6 +16305,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T062342Z" creationid="lenovo" creationdate="20200811T141804Z">
         <seg>&lt;t2/&gt; 第一 &lt;t3/&gt;章&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;的案例已经展示了先决条件，都包含在在&lt;prereq&gt;元素中，其中包括一个无序列表(&lt;t8/&gt;&lt;ul&gt;&lt;t9/&gt;)和列表项(&lt;t10/&gt;&lt;li&gt;&lt;t11/&gt;)，用于表示用户完成菜谱所需的所有配料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The presentation rules and details for the milkshake recipe will be provided in a further layer of abstraction by an external tool and style sheet.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T134722Z" creationid="lenovo" creationdate="20200901T134722Z">
+        <seg>奶昔配方的显示规则和详细信息将通过外部工具和样式表在另一层抽象中提供。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17697,6 +17753,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T023122Z" creationid="lenovo" creationdate="20200810T023122Z">
         <seg>以下是他们提出的手册写作危机的原因：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They understand their jobs in terms of the responsibili&lt;t1/&gt;ties their old tools imposed on them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T134712Z" creationid="lenovo" creationdate="20200901T134712Z">
+        <seg>他们根据旧工具所承担的责任来理解自己的工作。” </seg>
       </tuv>
     </tu>
     <tu>
@@ -19357,6 +19421,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T023207Z" creationid="lenovo" creationdate="20200811T023207Z">
         <seg>作者经常创建过于完整的技术信息，包括关于产品的所有需要了解的信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writers will keep looking for ways to specify layout, even in markup languages specifically designed to remove layout concerns.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T134636Z" creationid="lenovo" creationdate="20200901T134636Z">
+        <seg>作家将继续寻找指定布局的方法，即使使用专门设计用于消除布局问题的标记语言也是如此。 </seg>
       </tuv>
     </tu>
     <tu>
