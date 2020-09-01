@@ -9419,6 +9419,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In a larger operation, however, the content of a recipe collection could be used (or single-sourced) in the fountain's operation manual, website, social media presence, mobile app, and even conversational guidelines for a device like the Amazon Echo.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T134248Z" creationid="lenovo" creationdate="20200901T134248Z">
+        <seg>但是，在较大的操作中，可以在源泉的操作手册，网站，社交媒体存在，移动应用乃至诸如Amazon Echo之类的会话指南中使用配方集合（或单一来源）的内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In a meta application of his own recommendations, Price's description of the features in &lt;t2/&gt;How to Write a Computer Manual: A Handbook of Software Documentation&lt;t3/&gt; reflected the organizational patterns of the type of friendly manual promoted in the book.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130913Z" creationid="lenovo" creationdate="20200810T075523Z">
@@ -9439,6 +9447,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T131016Z" creationid="lenovo" creationdate="20200819T151052Z">
         <seg>在使用DITA或LwDITA的发布环境中，&lt;t0/&gt;唤醒寿司&lt;t1/&gt;的员工几乎不能控制用户交付内容中文本的样式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In a small soda fountain, the operators probably will have a printed manual as the only available documentation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T133943Z" creationid="lenovo" creationdate="20200901T133943Z">
+        <seg>在小型“汽水喷泉”中，操作员可能会拥有印刷手册作为唯一可用的文档。 </seg>
       </tuv>
     </tu>
     <tu>
