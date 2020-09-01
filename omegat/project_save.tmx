@@ -14986,6 +14986,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The author can save this recipe as &lt;t12/&gt;milkshake.dita&lt;t13/&gt;, but even a LwDITA-aware editor or the DITA Open Toolkit would indicate an error if the author attempts to build a deliverable at this stage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T130748Z" creationid="lenovo" creationdate="20200901T130748Z">
+        <seg>作者可以将此食谱保存为milkshake.dita，但是，如果作者在此阶段尝试构建可交付成果，那么即使是支持LwDITA的编辑器或DITA Open Toolkit也会报错。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The author could be creating origi&lt;t0/&gt;nal content for the recipes or collecting legacy documentation (in this case, as Dan Garcia mentioned, from the pages of an existing cookbook).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T135148Z" creationid="lenovo" creationdate="20200831T135148Z">
@@ -16305,6 +16313,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T144508Z" creationid="lenovo" creationdate="20200825T141103Z">
         <seg>如果需要使用音频组件的话，HTML5代码块所创建的内容环境，也可以用在MDITA扩展概要文件主题中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The same milkshake recipe can be created in HDITA, the LwDITA authoring format based on HTML5, with a similar mechanism for the content varia&lt;t0/&gt;ble.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T131245Z" creationid="lenovo" creationdate="20200901T131245Z">
+        <seg>可以在HDITA（基于HTML5的LwDITA创作格式）中创建相同的奶昔配方，并对内容变量使用类似的机制。</seg>
       </tuv>
     </tu>
     <tu>
