@@ -7513,6 +7513,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hackos explains the &lt;t4/&gt;@keyref &lt;t5/&gt;mechanism in DITA XML, as a process of “putting place&lt;t6/&gt;holders into your topics and then defining the content for those placeholders” elsewhere &lt;t7/&gt;(2011, &lt;t8/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T124808Z" creationid="lenovo" creationdate="20200901T124808Z">
+        <seg>哈克斯在DITA XML中解释了@keyref机制，该过程是“将占位符放入主题，然后为这些占位符定义内容”的过程 &lt;t7/&gt;(2011, &lt;t8/&gt;p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hackos mentioned “an open source toolkit you can use to produce your own output in multiple media without having to invest in proprietary tools” &lt;t0/&gt;(2011, &lt;t1/&gt;p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145301Z" creationid="DSS" creationdate="20200725T073728Z">
@@ -8553,6 +8561,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If tomorrow the flavor needs to be vanilla, the variable can take that new value and keep the same content with only that variation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T124643Z" creationid="lenovo" creationdate="20200901T124643Z">
+        <seg>如果明天是香草口味，则变量可以采用该新值，从而达到只变变量不变内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If we can agree on what a lowered profile of expecta&lt;t0/&gt;tion and need is, there are several benefits: &lt;t1/&gt;1.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131042Z" creationid="DSS" creationdate="20200730T131419Z">
@@ -9207,6 +9223,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T132004Z">
         <seg>在XDITA中，首个非文本主题协定就是图像组件 (&lt;t0/&gt;&lt;image&gt;&lt;t1/&gt;)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In XDITA, the LwDITA authoring format based on XML, a content variable is implemented on the phrase (&lt;t0/&gt;&lt;ph&gt;&lt;t1/&gt;) element using the &lt;t2/&gt;@keyref &lt;t3/&gt;attribute.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T124731Z" creationid="lenovo" creationdate="20200901T124731Z">
+        <seg>在XDITA（基于XML的LwDITA创作格式）中，使用@keyref属性在短语（&lt;ph&gt;）元素上实现内容变量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14058,6 +14082,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That vari&lt;t7/&gt;able should be part of the metadata specified in the previous layer, as the author identified elements that need to change in the recipes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T124654Z" creationid="lenovo" creationdate="20200901T124654Z">
+        <seg>由于作者确定了需要更改配方的元素，因此该变量应该是上一层中指定的元数据的一部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That work influenced &lt;t4/&gt;Chapters &lt;t5/&gt;7&lt;t6/&gt; &lt;t7/&gt;and &lt;t8/&gt;8&lt;t9/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T142804Z" creationid="DSS" creationdate="20200818T142747Z">
@@ -15360,6 +15392,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T075259Z" creationid="DSS" creationdate="20200816T141927Z">
         <seg>下面将介绍可以嵌套在正文标签内的其他主题组件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following sections show how to use a content variable in the three initial authoring formats of LwDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T124721Z" creationid="lenovo" creationdate="20200901T124721Z">
+        <seg>以下各节说明如何使用LwDITA的三种初始创作格式使用内容变量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18797,6 +18837,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131358Z" creationid="DSS" creationdate="20200808T075847Z">
         <seg>举个例子，如果没有抽象层级或级别的概念的话，假设 Twitter 的状态码更新了，开发人员就必须将其直接编码为一系列指令，交给计算机处理器和内存执行。&lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Without that metadata, an author cannot produce the adaptive milkshake recipe required by Dan Garcia's example.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T124703Z" creationid="lenovo" creationdate="20200901T124703Z">
+        <seg> 没有该元数据，作者将无法生成Dan Garcia的示例所需的自适应奶昔配方。</seg>
       </tuv>
     </tu>
     <tu>
