@@ -6303,6 +6303,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE 8.6 &lt;t0/&gt;PDF transformation of the XDITA milkshake recipe.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T144137Z" creationid="lenovo" creationdate="20200901T144137Z">
+        <seg>图8.6显示了XDITA奶昔配方的PDF转换</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;1.1 &lt;t1/&gt;Screen capture from the video “The Future of Technical Communication,” by Adobe Technical Communication Suite.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T142810Z" creationid="DSS" creationdate="20200724T121058Z">
@@ -6724,6 +6732,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T131616Z" creationid="lenovo" creationdate="20200901T131616Z">
         <seg>图 &lt;t0/&gt;8.2 &lt;t1/&gt;HDITA中编写的通用奶昔食谱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;8.5 &lt;t1/&gt;XDITA version of the milkshake recipe with two possible values for&lt;t2/&gt; a setting condition.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T145038Z" creationid="lenovo" creationdate="20200901T145038Z">
+        <seg>图 &lt;t0/&gt;8.5 &lt;t1/&gt;XDITA版本的奶昔配方，具有两个可能的设置条件值。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -8093,6 +8109,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T123737Z" creationid="DSS" creationdate="20200813T123737Z">
         <seg>不过，抽象层级受到了美国大学理事会开设计算机科学原理预修课程的“伟大思想”的些微影响 (2017)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, those user deliverables will be incorrect or redundant because the filters for specific context will be applied in a future layer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T143851Z" creationid="lenovo" creationdate="20200901T143851Z">
+        <seg> 但是，这些用户可交付成果将是不正确的或多余的，因为针对特定上下文的筛选器将在以后的层中应用。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -17169,6 +17193,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T082322Z">
         <seg>该主题现在是一篇 HTML5 文章，元素的结构看起来和用 XML 编写的主题非常相似。 &lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The topic is written in valid XDITA (it conforms to the rules of the LwDITA standard) and can be processed in a software application to generate user deliverables.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T143842Z" creationid="lenovo" creationdate="20200901T143842Z">
+        <seg>该主题以有效的XDITA编写（符合LwDITA标准的规则），并且可以在软件应用程序中进行处理以生成用户可交付成果。</seg>
       </tuv>
     </tu>
     <tu>
