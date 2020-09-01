@@ -9867,6 +9867,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the downtown location, the soda fountain operators have a professional &lt;t1/&gt;Blendimixx &lt;t2/&gt;3000&lt;t3/&gt; &lt;t4/&gt;mixer, which they use for the milkshakes; however, in the food truck location they have a smaller &lt;t5/&gt;Blendilitte &lt;t6/&gt;200&lt;t7/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T143101Z" creationid="lenovo" creationdate="20200901T143101Z">
+        <seg>在市中心，“汽水喷泉”操作员配有专业的Blendimixx 3000搅拌器，用于制作奶昔；但是，在餐车则配备较小的Blendilitte200。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the early days of the subcommittee, Don Day, John Hunt, and Amber Swope made invaluable contributions to shape the proposed standard.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T150959Z" creationid="DSS" creationdate="20200819T150959Z">
@@ -11759,6 +11767,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T084848Z" creationid="DSS" creationdate="20200731T084848Z">
         <seg>本报告中描述的大部分研究和发展工作都与信息映射书籍有关。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Most processes are the same in both locations, but some change because of available equip&lt;t0/&gt;ment and ingredients.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T142756Z" creationid="lenovo" creationdate="20200901T142756Z">
+        <seg>两个位置的大多数过程都相同，但是由于可用的设备和原料而有所变化。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14116,6 +14132,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T160150Z" creationid="lenovo" creationdate="20200805T015347Z">
         <seg>对秩序与规则的痴迷到达危险的极端状态时，可能会导致狄奥多·阿多诺（Theodor Adorno）所预言的文化产品标准化的后果&lt;t0/&gt;(1991) &lt;t1/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Taking this to our recipe example, let's give the soda fountain an official downtown location and also a mobile location with a food truck.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T142744Z" creationid="lenovo" creationdate="20200901T142744Z">
+        <seg>以我们的食谱示例为例，让我们为汽水喷泉指定一个正式的市区位置，以及一个配备餐车的流动位置。</seg>
       </tuv>
     </tu>
     <tu>
