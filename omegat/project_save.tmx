@@ -4981,6 +4981,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Contrasting layer &lt;t9/&gt;2 &lt;t10/&gt;with the ISTE standards for assessing computational thinking in students, some of its tasks could comply with sections of standards 5a (&lt;t11/&gt;Students formulate problem definitions suited for technology-assisted methods such as data analysis, abstract models and algorithmic thinking in exploring and finding solutions&lt;t12/&gt;) and 5b (&lt;t13/&gt;Students collect data or identify relevant data sets, use digital tools to ana&lt;t14/&gt;lyze them, and represent data in various ways to facilitate problem-solving and decision-making&lt;t15/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T133914Z" creationid="lenovo" creationdate="20200901T133914Z">
+        <seg> 将第2层与用于评估学生的计算思维的ISTE标准进行对比，其某些任务可以符合标准5a的各个部分（学生在探索和寻找中寻找适合技术辅助方法的问题定义，例如数据分析，抽象模型和算法思维） 解决方案）和5b（学生收集数据或识别相关数据集，使用数字工具进行分析，并以各种方式表示数据以促进问题解决和决策的能力）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Controls (&lt;t0/&gt;&lt;media-controls&gt;&lt;t1/&gt;)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T135204Z" creationid="lenovo" creationdate="20200825T135204Z">
@@ -10875,6 +10883,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Layer &lt;t0/&gt;3: &lt;t1/&gt;Separating Content from Presentation and</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T133933Z" creationid="lenovo" creationdate="20200901T133933Z">
+        <seg>第3层：将内容与表示和上下文分离</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Layer &lt;t0/&gt;4: &lt;t1/&gt;Authoring and linking Component Content Management mod&lt;t2/&gt;ules with DITA.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131445Z" creationid="DSS" creationdate="20200813T115359Z">
@@ -10895,6 +10911,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T123651Z" creationid="lenovo" creationdate="20200901T123651Z">
         <seg>第1层任务的重点是拜利和厄比纳的分析阶段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Layer &lt;t1/&gt;2 &lt;t2/&gt;tasks focus on Bailie &lt;t3/&gt;&amp; &lt;t4/&gt;Urbina's &lt;t5/&gt;collect&lt;t6/&gt; stage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T133722Z" creationid="lenovo" creationdate="20200901T133722Z">
+        <seg>第2层任务的重点是拜利和厄比纳的收集阶段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15034,6 +15058,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The author can save this MDITA topic as &lt;t4/&gt;milkshake.md&lt;t5/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T133643Z" creationid="lenovo" creationdate="20200901T133643Z">
+        <seg>作者可以将此MDITA主题另存为milkshake.md。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The author can save this recipe as &lt;t11/&gt;milkshake.html&lt;t12/&gt;, and the resulting file can be viewed in a web browser, but the recipe won't make sense for end users because the content variable for “icecream-flavor” is not established in this layer of abstraction (&lt;t13/&gt;Figure &lt;t14/&gt;8.3&lt;t15/&gt;).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T132031Z" creationid="lenovo" creationdate="20200901T132031Z">
@@ -16725,6 +16757,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The tasks involved in this layer are related to stages of the content&lt;t0/&gt;development lifecycles featured earlier in the previous chapter.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T133652Z" creationid="lenovo" creationdate="20200901T133652Z">
+        <seg>该层涉及的任务与上一章前面介绍的内容开发生命周期的各个阶段有关。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The technical content edition adds the technical communication content types (concept, task, reference) that defined DITA in its origins at IBM, and adds the content types of glossary entry, glossary group, and troubleshooting.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T073415Z" creationid="lenovo" creationdate="20200812T031321Z">
@@ -16905,6 +16945,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T131559Z" creationid="lenovo" creationdate="20200901T131559Z">
         <seg>此版本中的标识符为“ ingredients”的无序列表元素与XDITA配方中包含的元素非常相似。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The unordered list item for ingredients is still in the recipe, and the second ingredient has the placeholder variable &lt;t0/&gt;“icecream-flavor”&lt;t1/&gt; &lt;t2/&gt;, &lt;t3/&gt;which will inherit a value in a more advanced layer of abstraction.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T133634Z" creationid="lenovo" creationdate="20200901T133634Z">
+        <seg>成分的无序列表项仍在配方中，第二个成分具有占位符变量“ icecream-flavor”，它将在更高级的抽象层中继承值。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -17505,6 +17553,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T123712Z" creationid="lenovo" creationdate="20200901T123712Z">
         <seg>它们还涵盖了安德森“分析客户和业务需求以及开发信息架构阶段”中包含的一些工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They also cover some of the work included in Andersen's &lt;t7/&gt;Creating structured content&lt;t8/&gt; stage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T133825Z" creationid="lenovo" creationdate="20200901T133825Z">
+        <seg>它们还涵盖了Andersen的“创建结构化内容”阶段中包含的一些工作。</seg>
       </tuv>
     </tu>
     <tu>
