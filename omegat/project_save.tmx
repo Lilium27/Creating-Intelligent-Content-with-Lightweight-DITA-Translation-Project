@@ -2602,6 +2602,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Abstractions in the LwDITA Content Lifecycle &lt;t0/&gt;169 &lt;t1/&gt;the plan includes humans as content developers and curators working with a user experience team to produce end-user deliverables for the soda foun&lt;t2/&gt;tain.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T123507Z" creationid="lenovo" creationdate="20200901T123507Z">
+        <seg>该计划包括作为内容开发人员的人类和与用户体验团队合作的策展人，以生产“汽水喷泉”的最终用户可交付成果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>According to Priestley, possible solutions would include &lt;t0/&gt;1) &lt;t1/&gt;simplifying XML models, “as seen with many of the lightweight DITA tools that have come to market over the last few years,” or &lt;t2/&gt;2) &lt;t3/&gt;rebasing on an HTML5 model, “as seen with O'Reilly and more recently Pearson” &lt;t4/&gt;(2014).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150803Z" creationid="DSS" creationdate="20200817T091411Z">
@@ -6809,6 +6817,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Following from the previous task, this one should identify the writing platforms, content standards, and tools used by the potential authors.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T123343Z" creationid="lenovo" creationdate="20200901T123343Z">
+        <seg>在上一任务之后，该任务应确定潜在作者使用的书写平台，内容标准和工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Following reports from its working groups, which included a collection of personas and usage scenarios across diverse sectors and industries, the Lightweight DITA subcommittee at OASIS determined that a generic topic could represent most content structures needed across potential implemen&lt;t0/&gt;tations.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200803T151844Z">
@@ -7073,6 +7089,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For the milkshake example, the selected standard will be LwDITA, authored in the following two options:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T123532Z" creationid="lenovo" creationdate="20200901T123532Z">
+        <seg>对于奶昔示例，选定的标准将是LwDITA，由以下两个选项编写：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For the scope of this chapter, this layer is not a comprehensive collection of content strategy materials; instead, it focuses on the mental tasks that, at a minimum, authors should focus on before starting an intelligent content project with LwDITA.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T134444Z" creationid="lenovo" creationdate="20200831T134444Z">
@@ -7085,6 +7109,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T075653Z" creationid="DSS" creationdate="20200824T075653Z">
         <seg>对于技术内容版本而言，一个任务主题就是一个示例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For this example,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T123457Z" creationid="lenovo" creationdate="20200901T123457Z">
+        <seg>对于此示例，</seg>
       </tuv>
     </tu>
     <tu>
@@ -7757,6 +7789,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T115511Z" creationid="DSS" creationdate="20200811T115511Z">
         <seg>然而，最近的方法都着眼于特定学科的应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, studies of complex systems in today's technological landscape must include humans as active participants” &lt;t3/&gt;(2011, &lt;t4/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T123437Z" creationid="lenovo" creationdate="20200901T123437Z">
+        <seg>但是，在当今技术领域中，对复杂系统的研究必须包括人类作为积极参与者” &lt;t3/&gt;(2011, &lt;t4/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12752,6 +12792,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Rothrock &lt;t1/&gt;&amp; &lt;t2/&gt;Narayanan posit that traditional projects involving automation “regard human interaction as an external input to the system being considered.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T123417Z" creationid="lenovo" creationdate="20200901T123417Z">
+        <seg>Rothrock和Narayanan认为，涉及自动化的传统项目“将人机交互视为正在考虑的系统的外部输入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Roundabout Expressions</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015718Z" creationid="lenovo" creationdate="20200811T015659Z">
@@ -15661,6 +15709,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The plan should also con&lt;t0/&gt;sider and accommodate a human-in-the-loop (HITL) strategy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T123407Z" creationid="lenovo" creationdate="20200901T123407Z">
+        <seg>该计划还应考虑并适应“人在环”（HITL）策略。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The popular John Godfrey Saxe quote, commonly misattributed to Otto von Bismarck, says that “laws, like sausages, cease to inspire respect in proportion as we know how they are made.” Web designer Jeffrey Veen, in his podcast titled &lt;t0/&gt;Presentable&lt;t1/&gt;, added standards to that list (Veen, &lt;t2/&gt;2017).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T123643Z" creationid="DSS" creationdate="20200730T123643Z">
@@ -16241,6 +16297,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T073415Z" creationid="lenovo" creationdate="20200812T031321Z">
         <seg>技术内容版添加了从IBM诞生初期的DITA所包含的技术传播内容类型(概念、任务、引用)，以及术语表条目、术语表组和故障诊断的内容类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The technology plan should also cover decisions about content management applications or services, and tools for processing of deliverables.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T123353Z" creationid="lenovo" creationdate="20200901T123353Z">
+        <seg>技术计划还应涵盖有关内容管理应用程序或服务的决策，以及用于处理可交付成果的工具。 </seg>
       </tuv>
     </tu>
     <tu>
