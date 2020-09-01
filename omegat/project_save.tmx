@@ -15266,6 +15266,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The contents of the first link label are parsed as inlines, which are used as the link's text.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T133528Z" creationid="lenovo" creationdate="20200901T133528Z">
+        <seg>第一个链接标签的内容被解析为内联元素，用作链接的文本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The conventions he identified had the purpose of keeping the document's contents in order and make it easier to access for a reader.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T025803Z" creationid="lenovo" creationdate="20200810T003539Z">
