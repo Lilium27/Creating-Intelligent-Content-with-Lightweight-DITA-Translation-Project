@@ -16101,6 +16101,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The metadata and rules included in topics, phrases, and maps preserve the rhetorical effectiveness of intelligent content repositories.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T142356Z" creationid="lenovo" creationdate="20200901T142356Z">
+        <seg>主题、短语和地图中包含的元数据和规则保留了智能内容存储库的修辞效力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The metadata entries should be expressed in pairs of name (&lt;t5/&gt;@name&lt;t6/&gt;) and value (&lt;t7/&gt;@content&lt;t8/&gt;), according to the W3C recommendation for HTML5 metadata&lt;t9/&gt;6&lt;t10/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T142336Z" creationid="lenovo" creationdate="20200825T131117Z">
