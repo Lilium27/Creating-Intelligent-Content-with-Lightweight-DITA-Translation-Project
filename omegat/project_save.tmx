@@ -599,6 +599,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t1/&gt;Layer &lt;t2/&gt;5 &lt;t3/&gt;addresses the processing tasks that will populate the content placeholders with the value established in the defining keys.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T124959Z" creationid="lenovo" creationdate="20200901T124959Z">
+        <seg>第5层处理将使用在定义键中建立的值填充内容占位符的处理任务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t1/&gt;LwDITA details might change between the publication of this book and the actual release of the Lightweight DITA standard.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T122629Z" creationid="DSS" creationdate="20200817T053510Z">
@@ -691,6 +699,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T040247Z" creationid="DSS" creationdate="20200808T040247Z">
         <seg>&lt;t10/&gt;图&lt;t11/&gt;5.13&lt;t12/&gt;&lt;t13/&gt; 展示了用于创建宣传手册的 MDITA 格式地图。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t10/&gt;The &lt;t11/&gt;@keyref &lt;t12/&gt;mechanism, Hackos adds, is comprised of two components:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T124904Z" creationid="lenovo" creationdate="20200901T124904Z">
+        <seg>哈克斯补充说，@ keyref机制由两个组件组成：</seg>
       </tuv>
     </tu>
     <tu>
@@ -1069,6 +1085,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T151112Z" creationid="DSS" creationdate="20200817T133517Z">
         <seg>&lt;t2/&gt;&lt;t3/&gt;图6.26&lt;t4/&gt;&lt;t5/&gt;包含一个内联图像组件和一个块级图形组件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t2/&gt;Figure &lt;t3/&gt;8.1 &lt;t4/&gt;shows a version of the XDITA code for the milkshake recipe.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T125033Z" creationid="lenovo" creationdate="20200901T125033Z">
+        <seg>图8.1显示了奶昔配方的XDITA代码版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9779,6 +9803,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the versatile milkshake recipe authored in XDITA, the referencing key will be inside the ingredient that specifies a pint of ice cream.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T125008Z" creationid="lenovo" creationdate="20200901T125008Z">
+        <seg>在XDITA中编写的通用奶昔配方中，引用键将位于指定一品脱冰淇淋的配料内。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the world of DITA XML, “a topic is the basic unit of authoring and reuse” &lt;t0/&gt;(2.2.1.1 &lt;t1/&gt;The topic as the basic unit of information, &lt;t2/&gt;2016).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T062603Z" creationid="lenovo" creationdate="20200811T143235Z">
@@ -10879,6 +10911,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T085459Z" creationid="DSS" creationdate="20200731T085459Z">
         <seg>与 DITA 一样，信息映射以特定类型或模板使内容结构化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Like all code samples from previous chapters, the examples included in this section can be authored in any text edi&lt;t5/&gt;tor (not in a word processor) or a LwDITA-aware software application, and can be downloaded from the &lt;t6/&gt;Creating Intelligent Content with Lightweight DITA &lt;t7/&gt;GitHub repository (&lt;t8/&gt;https://github.com/carlosevia/lwdita-book&lt;t9/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T125044Z" creationid="lenovo" creationdate="20200901T125044Z">
+        <seg>与前几章中的所有代码示例一样，本节中包含的示例可以在任何文本编辑器（而不是文字处理程序）或支持LwDITA的软件应用程序中编写，也可以从使用轻量级DITA GitHub存储库创建智能内容中下载。(&lt;t8/&gt;https://github.com/carlosevia/lwdita-book&lt;t9/&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14946,6 +14986,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The code from &lt;t0/&gt;Figure &lt;t1/&gt;8.1 &lt;t2/&gt;(let's call it a draft of the recipe) includes an unor&lt;t3/&gt;dered list (&lt;t4/&gt;&lt;ul&gt;&lt;t5/&gt;) with the identifier of “ingredients.” This list of ingredients contains two list item (&lt;t6/&gt;&lt;li&gt;&lt;t7/&gt;) elements.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T125104Z" creationid="lenovo" creationdate="20200901T125104Z">
+        <seg>图8.1中的代码（我们称其为配方草稿）包括标识为“成分”的无序列表（&lt;ul&gt;）。 此成分列表包含两个列表项（&lt;li&gt;）元素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The combination of XML, HTML5, and Markdown in the initial LwDITA authoring formats enhances the diversity of authors in a DITA- like environment, but it also represents challenges for compatibility and equivalency of models and structures.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T162926Z" creationid="DSS" creationdate="20200804T162926Z">
@@ -15070,6 +15118,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131305Z" creationid="DSS" creationdate="20200807T043637Z">
         <seg>目前，公司在内容上有很多需求：他们需要制作指导企业餐厅员工的手册，管理品牌特许经营权所有者的指导方针和期望。与此同时，因为餐饮行业的本质所需，他们还要集中管理受顾客喜爱的菜谱和原料，以便在打印版菜单或在线菜单等终端用户产品中复用。 &lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The content place&lt;t0/&gt;holder will leave the ice cream flavor initially empty, and then it will adopt a value determined by the defining key in layer &lt;t1/&gt;4.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T125020Z" creationid="lenovo" creationdate="20200901T125020Z">
+        <seg>内容占位符将使冰淇淋口味最初为空，然后采用第4层中的定义键确定的值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16073,6 +16129,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T153345Z" creationid="DSS" creationdate="20200801T131304Z">
         <seg> DITA 技术委员会电话记录中记录了&lt;t4/&gt;2013&lt;t5/&gt;年10月8日普里斯特利（MP）和南希·哈里森（NH）之间的对话，南希·哈里森来自Infobridge Solutions，目前是技术委员会的秘书：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The referencing key is covered in this layer, and the defining key will be set in layer &lt;t0/&gt;4.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T124946Z" creationid="lenovo" creationdate="20200901T124946Z">
+        <seg>引用键在这一层中进行了覆盖，定义键将在第4层中进行设置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20412,6 +20476,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>• &lt;t0/&gt;The defining key (the &lt;t1/&gt;@keys &lt;t2/&gt;attribute), which uses the &lt;t3/&gt;&lt;keydef&gt; &lt;t4/&gt;element to “set the content to replace the placeholder” (Hackos, &lt;t5/&gt;2011, &lt;t6/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T124939Z" creationid="lenovo" creationdate="20200901T124939Z">
+        <seg>• &lt;t0/&gt;定义键（@keys属性），它使用&lt;keydef&gt;元素“设置内容以替换占位符” (Hackos, &lt;t5/&gt;2011, &lt;t6/&gt;p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>• &lt;t0/&gt;The franchise introductory topic created in MDITA (&lt;t1/&gt;Figure &lt;t2/&gt;6.16&lt;t3/&gt;) &lt;t4/&gt;by the marketing team (saved as &lt;t5/&gt;franchise-intro.md&lt;t6/&gt;)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T134918Z" creationid="lenovo" creationdate="20200827T134847Z">
@@ -20472,6 +20544,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T030038Z" creationid="lenovo" creationdate="20200811T030038Z">
         <seg>• &lt;t0/&gt;用户更倾向于在Google和其他搜索引擎上查找信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;The referencing key (the &lt;t1/&gt;@keyref &lt;t2/&gt;attribute), which is “found in the topic where the content will be included,” and</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T124918Z" creationid="lenovo" creationdate="20200901T124918Z">
+        <seg>• &lt;t0/&gt;引用键（@keyref属性），“在包含内容的主题中找到”，以及</seg>
       </tuv>
     </tu>
     <tu>
