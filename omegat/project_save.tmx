@@ -6632,6 +6632,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;8.2 &lt;t1/&gt;Recipe for the versatile milkshake authored in HDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T131616Z" creationid="lenovo" creationdate="20200901T131616Z">
+        <seg>图 &lt;t0/&gt;8.2 &lt;t1/&gt;HDITA中编写的通用奶昔食谱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FOREWORD</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T122921Z" creationid="DSS" creationdate="20200820T122921Z">
@@ -15693,6 +15701,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The ingredient&lt;t2/&gt; asking for a pint of ice cream uses the HTML5 custom data attribute @data-keyref to set a placeholder for a value that will be processed in a more advanced layer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T131843Z" creationid="lenovo" creationdate="20200901T131843Z">
+        <seg>要求使用品脱冰淇淋的成分使用了HTML5自定义数据属性@ data-keyref，为将在更高级的图层中处理的值设置占位符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The ingredients list should accommodate different flavors in one single template, instead of hav&lt;t0/&gt;ing separate recipes for each possible flavor.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T134255Z" creationid="lenovo" creationdate="20200831T134255Z">
@@ -19429,6 +19445,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200806T084808Z">
         <seg>称 DITA 地图是“将主题绑定在一起的粘合剂，是生成输出物的驱动器，也是用户可以遵循的信息路径”(Bellamy et al., &lt;t0/&gt;2012, &lt;t1/&gt;p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>differences are in the element holding the variable content (&lt;t0/&gt;&lt;span&gt; &lt;t1/&gt;in HDITA, whereas in XDITA it was &lt;t2/&gt;&lt;ph&gt;&lt;t3/&gt;) and the attribute setting the placeholder &lt;t4/&gt;“icecream-flavor”&lt;t5/&gt; for a flavor to be determined in a more advanced layer (&lt;t6/&gt;@data- keyref &lt;t7/&gt;in HDITA, whereas in XDITA it was &lt;t8/&gt;@keyref&lt;t9/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T131859Z" creationid="lenovo" creationdate="20200901T131859Z">
+        <seg>主要区别在于保留可变内容的元素（在HDITA中为&lt;span&gt;，而在XDITA中为&lt;ph&gt;），该属性将占位符“ icecream-flavor”设置为在更高级的图层中确定风味（ HDITA中为@ data-keyref，而XDITA中为@keyref）。</seg>
       </tuv>
     </tu>
     <tu>
