@@ -5341,6 +5341,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Definition list</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T150336Z" creationid="lenovo" creationdate="20200902T150336Z">
+        <seg>定义列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Definition list entry</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T150351Z" creationid="lenovo" creationdate="20200902T150351Z">
+        <seg>定义列表入口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Definition list entry&lt;t0/&gt;: an entry groups a term and its definition.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T130426Z" creationid="DSS" creationdate="20200804T130426Z">
@@ -5361,6 +5377,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T155253Z" creationid="DSS" creationdate="20200816T155253Z">
         <seg>定义列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Definition term</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T150403Z" creationid="lenovo" creationdate="20200902T150403Z">
+        <seg>定义术语</seg>
       </tuv>
     </tu>
     <tu>
@@ -6747,6 +6771,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T142341Z" creationid="lenovo" creationdate="20200827T142341Z">
         <seg>FIGURE &lt;t0/&gt;6.63 &lt;t1/&gt;从跨格式唤醒寿司HDITA映射中生成PDF交付文件的DITA-OT命令</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;8.10 &lt;t1/&gt;Milkshake recipe in XDITA syntax with the note component.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T150307Z" creationid="lenovo" creationdate="20200902T150307Z">
+        <seg>图 &lt;t0/&gt;8.10 &lt;t1/&gt;XDITA语法下带提示组件的奶昔配方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;8.11 &lt;t1/&gt;Milkshake recipe in HDITA syntax with the note component.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T150523Z" creationid="lenovo" creationdate="20200902T150523Z">
+        <seg>图 &lt;t0/&gt;8.11 &lt;t1/&gt;HDITA语法下带提示组件的奶昔配方。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11434,6 +11474,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>List item</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T150418Z" creationid="lenovo" creationdate="20200902T150418Z">
+        <seg>列表项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>List item&lt;t0/&gt;: a single entry in an ordered or unordered list.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T131226Z" creationid="DSS" creationdate="20200804T131211Z">
@@ -12636,6 +12684,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ordered list</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T150425Z" creationid="lenovo" creationdate="20200902T150425Z">
+        <seg>有序列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ordered list environment in HDITA.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T161636Z" creationid="DSS" creationdate="20200816T161636Z">
@@ -12752,6 +12808,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T134415Z" creationid="lenovo" creationdate="20200901T134415Z">
         <seg>页面一致性（“内容在纸上（或其他交付格式）看起来相同，但是其源文件中不一致”）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paragraph</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T150435Z" creationid="lenovo" creationdate="20200902T150435Z">
+        <seg>段落</seg>
       </tuv>
     </tu>
     <tu>
@@ -12911,6 +12975,14 @@
         <seg>Preformatted Text</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T133054Z" creationid="lenovo" creationdate="20200819T150827Z">
+        <seg>预格式化文本组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Preformatted text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T150447Z" creationid="lenovo" creationdate="20200902T150447Z">
         <seg>预格式化文本组件</seg>
       </tuv>
     </tu>
@@ -13747,6 +13819,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T152528Z" creationid="lenovo" creationdate="20200811T152528Z">
         <seg>同样地，在某种程度上，我们无需太多提示就能理解常规这个概念：从字面上讲，常规指的是在某个特定领域的常见现象。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Simple table</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T150501Z" creationid="lenovo" creationdate="20200902T150501Z">
+        <seg>简单表</seg>
       </tuv>
     </tu>
     <tu>
@@ -17812,6 +17892,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The&lt;t2/&gt; note has a unique &lt;t3/&gt;@id &lt;t4/&gt;with the value of unplug, and the optional @type for the note is set to “warning”.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T150326Z" creationid="lenovo" creationdate="20200902T150326Z">
+        <seg>&lt;t2/&gt;注释有一个唯一的&lt;t3/&gt;@id &lt;t4/&gt;，值为unplug，可选的注释@type设置为“warning”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Their proposed solution was, as we know by now, the Darwin Information Typing Architecture.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T080039Z" creationid="lenovo" creationdate="20200811T080039Z">
@@ -21271,6 +21359,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T125113Z" creationid="lenovo" creationdate="20200810T125113Z">
         <seg>• &lt;t0/&gt;定义术语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;Definition description</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T150227Z" creationid="lenovo" creationdate="20200902T150227Z">
+        <seg>• &lt;t0/&gt;定义描述</seg>
       </tuv>
     </tu>
     <tu>
