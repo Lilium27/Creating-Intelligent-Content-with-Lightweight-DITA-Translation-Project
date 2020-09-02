@@ -496,3 +496,4 @@ franchise terms	特许经营条例
 Charlotte Robidoux	夏洛特·罗比多
 Ament	阿门特
 Note	注释、提示
+beer float recipe	生啤酒浮法配方
