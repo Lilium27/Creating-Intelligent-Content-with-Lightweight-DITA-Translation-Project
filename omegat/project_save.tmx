@@ -13743,6 +13743,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Revisiting the reference information from &lt;t0/&gt;Chapter &lt;t1/&gt;5&lt;t2/&gt;, &lt;t3/&gt;and according to the DITA-OT documentation, the general structure for a command that builds DITA (and LwDITA) deliverables from topics and maps is shown in &lt;t4/&gt;figure &lt;t5/&gt;8.17&lt;t6/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T160149Z" creationid="lenovo" creationdate="20200902T160149Z">
+        <seg>再次阅读第5章中的参考信息，并根据DITA-OT文档，从主题和地图构建DITA（和LwDITA）可交付成果的命令的一般结构如图8.17所示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Rhetorical effectiveness establishes successful context and also helps to envision the future of a content repository.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T142521Z" creationid="DSS" creationdate="20200812T142521Z">
@@ -16085,6 +16093,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130925Z" creationid="lenovo" creationdate="20200810T165500Z">
         <seg>全局性的要求与具体的建议相结合使得 &lt;t0/&gt;&lt;t1/&gt;PQTI&lt;t2/&gt;满足了两类读者的需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The command has the reference to the built-in (&lt;t0/&gt;bin&lt;t1/&gt;) subdirectory and the &lt;t2/&gt;dita &lt;t3/&gt;executable program, with the &lt;t4/&gt;fountain.ditamap&lt;t5/&gt; file created in layer &lt;t6/&gt;4 &lt;t7/&gt;as input, and &lt;t8/&gt;html5&lt;t9/&gt; as the delivery format.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T160217Z" creationid="lenovo" creationdate="20200902T160217Z">
+        <seg>该命令具有对内置（bin）子目录和dita可执行程序的引用，其中在第4层中创建的Fountain.ditamap文件作为输入，而html5作为传递格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19528,6 +19544,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T122420Z" creationid="DSS" creationdate="20200806T113725Z">
         <seg>如果想要生成一个 HTML5 版本的意式番茄罗勒酱菜谱评价，需要在&lt;t0/&gt;安装了 DITA-OT&lt;t1/&gt; 的路径或文件夹下，打开命令行环境输入一行命令，如&lt;t2/&gt;图&lt;t3/&gt;5.6&lt;t4/&gt;所示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To generate the web version of the soda fountain operator manual, you would need to enter the command shown on &lt;t0/&gt;Figure &lt;t1/&gt;8.18&lt;t2/&gt; &lt;t3/&gt;on a command-line environment &lt;t4/&gt;inside the directory or folder where you installed the DITA-OT&lt;t5/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T160205Z" creationid="lenovo" creationdate="20200902T160205Z">
+        <seg>要生成网络版本的“汽水喷泉”操作员手册，您需要在安装DITA-OT的目录或文件夹内的命令行环境中输入图8.18所示的命令。</seg>
       </tuv>
     </tu>
     <tu>
