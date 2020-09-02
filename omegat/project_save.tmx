@@ -4564,16 +4564,16 @@
       <tuv lang="en">
         <seg>CREATING INTELLIGENT CONTENT  WITH LIGHTWEIGHT DITA Creating Intelligent Content with Lightweight DITA documents the evolution  of the Darwin Information Typing Architecture (DITA) – a widely used open  standard for structuring technical content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T140713Z" creationid="DSS" creationdate="20200718T124829Z">
-        <seg>使用轻量 DITA 创建智能内容</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T121826Z" creationid="DSS" creationdate="20200718T124829Z">
+        <seg>使用轻量级 DITA 创建智能内容</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>CREATING INTELLIGENT CONTENT WITH LIGHTWEIGHT DITA</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200722T021556Z" creationid="lenovo" creationdate="20200718T120320Z">
-        <seg>使用轻量 DITA 创建智能内容</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T121816Z" creationid="lenovo" creationdate="20200718T120320Z">
+        <seg>使用轻量级 DITA 创建智能内容</seg>
       </tuv>
     </tu>
     <tu>
@@ -5079,8 +5079,8 @@
       <tuv lang="en">
         <seg>Creating Intelligent Content with Lightweight DITA&lt;t0/&gt; documents the evolution of the Darwin Information Typing Architecture (DITA) &lt;t1/&gt;一 &lt;t2/&gt;a widely used open standard for structuring technical content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T120105Z" creationid="DSS" creationdate="20200902T120049Z">
-        <seg>《使用轻量级 DITA 创建智能内容》</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T122059Z" creationid="DSS" creationdate="20200902T120049Z">
+        <seg>《使用轻量级 DITA 创建智能内容》记录了达尔文信息类型架构（DITA）——一个广泛用于构建技术内容的开放标准的演进历程。</seg>
       </tuv>
     </tu>
     <tu>
