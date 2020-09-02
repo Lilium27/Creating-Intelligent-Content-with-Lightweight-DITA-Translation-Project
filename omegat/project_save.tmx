@@ -1985,6 +1985,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t7/&gt;Figure &lt;t8/&gt;8.16&lt;t9/&gt; &lt;t10/&gt;in layer &lt;t11/&gt;4, &lt;t12/&gt;shows an XDITA map in which the &lt;t13/&gt;&lt;key&gt; &lt;t14/&gt;value has been established as &lt;t15/&gt;“strawberry&lt;t16/&gt;”.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T160014Z" creationid="lenovo" creationdate="20200902T160014Z">
+        <seg>第4层中的图8.16显示了XDITA映射，其中&lt;key&gt;值已被设置为“ strawberry”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t7/&gt;Figure &lt;t8/&gt;8.16&lt;t9/&gt; &lt;t10/&gt;shows a sample XDITA map for the Soda Fountain Operator Manual.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T151610Z" creationid="lenovo" creationdate="20200902T151507Z">
@@ -2869,6 +2877,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T134741Z" creationid="lenovo" creationdate="20200901T134741Z">
         <seg> 在完成第2层之后，配方主题看起来像原始XML，HTML5或Markdown代码，这取决于用于创建它们的LwDITA创作格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After processing, the resulting deliverable will replace all &lt;t3/&gt;“icecream-flavor”&lt;t4/&gt; placeholders found in the topics with the actual content defined in the &lt;t5/&gt;&lt;key&gt; &lt;t6/&gt;element on the map.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T160011Z" creationid="lenovo" creationdate="20200902T160011Z">
+        <seg> 经过处理后，生成的可交付成果将用在地图上&lt;key&gt;元素中定义的实际内容替换在主题中找到的所有“冰淇淋口味”占位符。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10530,6 +10546,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this first part, the processing tool will take the map and topics and populate the &lt;t0/&gt;“icecream-flavor”&lt;t1/&gt; variable with the &lt;t2/&gt;&lt;key&gt; &lt;t3/&gt;value established in the XDITA map.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T155933Z" creationid="lenovo" creationdate="20200902T155933Z">
+        <seg>在第一部分中，处理工具将获取映射和主题，并使用XDITA地图中建立的&lt;key&gt;值填充“ icecream-flavor”变量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this layer of abstraction, the XDITA topic displays all available options for equip&lt;t13/&gt;ment and locations.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T143831Z" creationid="lenovo" creationdate="20200901T143831Z">
@@ -12712,6 +12736,14 @@
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T153717Z" creationid="DSS" creationdate="20200802T160101Z">
         <seg>&lt;t0/&gt;2014&lt;t1/&gt;年5月27日，迈克尔·普里斯特利向DITA技术委员会提交了以下提议，要求与 OASIS 一起创立一个专门的轻量级 DITA 小组委员会：
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On a given day, the author or a manager enters the &lt;t0/&gt;&lt;key&gt; &lt;t1/&gt;value on the map estab&lt;t2/&gt;lishing the ice cream flavor for that day.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T160000Z" creationid="lenovo" creationdate="20200902T160000Z">
+        <seg>在给定的一天，作者或管理者在映射上输入&lt;key&gt;值，以建立当天的冰淇淋风味。 </seg>
       </tuv>
     </tu>
     <tu>
