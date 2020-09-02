@@ -7256,10 +7256,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, if you want to use a &lt;note&gt; from one topic into another, you must add an @id attribute to the original note.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T133023Z" creationid="lenovo" creationdate="20200902T133023Z">
+        <seg>例如，如果要将一个主题中的&lt;note&gt;用于另一个主题，则必须在原始注释中添加一个@id属性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, in XDITA and HDITA only a handful of elements allow character data.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T135620Z" creationid="lenovo" creationdate="20200813T135620Z">
         <seg>例如，在XDITA和HDITA中，只有少数元素允许字符数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, let's pretend that the LwDITA topic with the milkshake recipe includes a note component, with the type of warning, that tells the operator to unplug the blender after each use to prevent a fire hazard.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T133042Z" creationid="lenovo" creationdate="20200902T133042Z">
+        <seg>例如，我们假设带有奶昔配方的LwDITA主题包含一个带有警告类型的便笺组件，该警告组件告诉操作员每次使用后都要拔下搅拌机的插头，以防止发生火灾。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -7740,6 +7756,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T113328Z" creationid="DSS" creationdate="20200806T113328Z">
         <seg>HTML5只是众多包含在 DITA-OT 内的转换形式之一。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hackos describes the structure of the conref mechanism in the DITA standard as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T132935Z" creationid="lenovo" creationdate="20200902T132935Z">
+        <seg>哈克斯描述了DITA标准中的conref机制的结构，如下所示：</seg>
       </tuv>
     </tu>
     <tu>
@@ -9334,6 +9358,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T143620Z" creationid="lenovo" creationdate="20200901T143620Z">
         <seg>在LwDITA中，唯一的条件处理属性是@props（在XDITA中）或@ data-props（在HDITA和MDITA扩展配置文件中）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In LwDITA, the structure of a conref should look like the following template: &lt;t0/&gt;path-to-file/file-name#topic-id/element-id</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T133036Z" creationid="lenovo" creationdate="20200902T133036Z">
+        <seg>在LwDITA中，conref的结构应类似于以下模板：&lt;t0/&gt;path-to-file/file-name#topic-id/element-id</seg>
       </tuv>
     </tu>
     <tu>
@@ -14809,6 +14841,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The @conref attribute uses a unique @id attribute to identify the content unit you want to use.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T132950Z" creationid="lenovo" creationdate="20200902T132950Z">
+        <seg>@conref属性使用唯一的@id属性来标识要使用的内容单元。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Abstractions Behind Intelligent Content &lt;t0/&gt;151 &lt;t1/&gt;near future, as even the smallest content unit (a Microsoft Word file today) can grow to become a complex repository &lt;t2/&gt;(1000 &lt;t3/&gt;pages of unstructured content with hundreds of tasks, frequently-asked questions, and product descriptions, for example).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160056Z" creationid="DSS" creationdate="20200809T130422Z">
@@ -17120,6 +17160,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T124804Z" creationid="DSS" creationdate="20200730T124804Z">
         <seg>缓慢的步伐为来自世界范围内较大社区的代表们提供了审查和评价的时间保障，他们可以增加观点、提出疑虑，从而提高了标准。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The source ele&lt;t2/&gt;ment from the content reference can be updated and, after reprocessing the topic collection, all target topics that link to it will be automatically updated.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T132923Z" creationid="lenovo" creationdate="20200902T132923Z">
+        <seg>内容引用中的源元素可以更新，并且在重新处理主题集合之后，链接到它的所有目标主题都将自动更新。 </seg>
       </tuv>
     </tu>
     <tu>
