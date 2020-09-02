@@ -5077,6 +5077,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creating Intelligent Content with Lightweight DITA&lt;t0/&gt; documents the evolution of the Darwin Information Typing Architecture (DITA) &lt;t1/&gt;一 &lt;t2/&gt;a widely used open standard for structuring technical content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T120049Z" creationid="DSS" creationdate="20200902T120049Z">
+        <seg>使用轻量级 DITA 创建智能内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creating Intelligent Content with Lightweight DITA&lt;t0/&gt; does not have a reader prerequisite of experience with the DITA standard.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T151126Z" creationid="DSS" creationdate="20200726T135217Z">
