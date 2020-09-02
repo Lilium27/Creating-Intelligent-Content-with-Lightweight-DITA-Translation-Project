@@ -12830,8 +12830,8 @@
       <tuv lang="en">
         <seg>Poster (&lt;t0/&gt;@poster&lt;t1/&gt;)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T152951Z" creationid="lenovo" creationdate="20200826T152951Z">
-        <seg>海报 (&lt;t0/&gt;@poster&lt;t1/&gt;)</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T143437Z" creationid="lenovo" creationdate="20200826T152951Z">
+        <seg>预览图片 (&lt;t0/&gt;@poster&lt;t1/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
