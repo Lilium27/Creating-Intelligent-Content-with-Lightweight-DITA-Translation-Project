@@ -6962,8 +6962,8 @@
       <tuv lang="en">
         <seg>Figure &lt;t0/&gt;6.59&lt;t1/&gt; &lt;t2/&gt;shows an HDITA topic with the video environment.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T153118Z" creationid="lenovo" creationdate="20200826T153118Z">
-        <seg>图 &lt;t0/&gt;6.59&lt;t1/&gt; &lt;t2/&gt;显示了包视频环境的含HDITA主题</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T144128Z" creationid="lenovo" creationdate="20200826T153118Z">
+        <seg>图 &lt;t0/&gt;6.59&lt;t1/&gt; &lt;t2/&gt;展示了包含视频组件内容环境的HDITA主题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8898,8 +8898,8 @@
       <tuv lang="en">
         <seg>Ignoring the experimental nature of this scenario, you might wonder now who would need different authoring formats to create the same file (e.g., why would Chef Pedro need XDITA, HDITA, and MDITA versions of the franchise offer topic?).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T153547Z" creationid="lenovo" creationdate="20200826T153547Z">
-        <seg>忽略这个场景的实验性质，你现在可能想知道，谁需要不同的创作格式来创建相同的文件(例如，为什么佩德罗需要XDITA、HDITA和MDITA版本的特许经营权主题?)</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T144316Z" creationid="lenovo" creationdate="20200826T153547Z">
+        <seg>忽略这个场景的实验性质，你现在可能想知道，谁需要使用不同的创作格式来创建相同的文件（例如，为什么佩德罗同时需要XDITA、HDITA和MDITA版本的关于特许经营权提供的服务的主题?）</seg>
       </tuv>
     </tu>
     <tu>
@@ -16390,8 +16390,8 @@
       <tuv lang="en">
         <seg>The main difference from the&lt;t2/&gt; audio-enhanced example is the &lt;t3/&gt;&lt;video-poster&gt; &lt;t4/&gt;component, which provides an optional image for transformations, such as the PDF brochure, that cannot display a video.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T144013Z" creationid="lenovo" creationdate="20200825T142646Z">
-        <seg>与之前添加了音频组件的示例的主要区别在于&lt;video-poster&gt;组件，该组件为无法播放视频的文档提供了用以转换的可选图片，如PDF手册等。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T144121Z" creationid="lenovo" creationdate="20200825T142646Z">
+        <seg>与之前添加了音频组件的示例的主要区别在于&lt;video-poster&gt;组件，该组件为无法播放视频的文档提供了用以转换的可选预览图片，如PDF手册等。</seg>
       </tuv>
     </tu>
     <tu>
