@@ -22,14 +22,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>(LimitedDitaProfile, &lt;t0/&gt;2011)</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T154523Z" creationid="DSS" creationdate="20200731T072502Z">
-        <seg>（限定版 DITA 标准概要，&lt;t0/&gt;2011年）</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>(O'Keefe, &lt;t0/&gt;2009, &lt;t1/&gt;p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T130301Z" creationid="DSS" creationdate="20200902T130301Z">
@@ -38,34 +30,10 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>(Priestley, 2012a)</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T093136Z" creationid="DSS" creationdate="20200731T093136Z">
-        <seg>（普里斯特利，2012年）</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>(Priestley, &lt;t0/&gt;2012)</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T073414Z" creationid="DSS" creationdate="20200731T073414Z">
-        <seg>（普里斯特利，&lt;t0/&gt;2012年）</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>(Priestley, personal communication, &lt;t0/&gt;2017, &lt;t1/&gt;November &lt;t2/&gt;21)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T145138Z" creationid="DSS" creationdate="20200821T145138Z">
         <seg>(Priestley, personal communication, &lt;t0/&gt;2017, &lt;t1/&gt;November &lt;t2/&gt;21)。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>(The Information Mapping&lt;t0/&gt;®&lt;t1/&gt; Method, n.d.)</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T084419Z" creationid="DSS" creationdate="20200731T084419Z">
-        <seg>（信息映射&lt;t0/&gt;®&lt;t1/&gt; 方法，未注明日期）</seg>
       </tuv>
     </tu>
     <tu>
@@ -104,8 +72,8 @@
       <tuv lang="en">
         <seg>10).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T161956Z" creationid="DSS" creationdate="20200731T091939Z">
-        <seg>10)</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T133000Z" creationid="DSS" creationdate="20200731T091939Z">
+        <seg>10)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -152,8 +120,8 @@
       <tuv lang="en">
         <seg>2).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T091216Z" creationid="DSS" creationdate="20200731T091216Z">
-        <seg>2页）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T132945Z" creationid="DSS" creationdate="20200731T091216Z">
+        <seg>2)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -248,8 +216,8 @@
       <tuv lang="en">
         <seg>8).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T160230Z" creationid="DSS" creationdate="20200731T092002Z">
-        <seg>8)</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T133023Z" creationid="DSS" creationdate="20200731T092002Z">
+        <seg>8)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -577,8 +545,8 @@
       <tuv lang="en">
         <seg>&lt;t1/&gt;The CommonMark initiative, which aims to propose a Markdown standard, adds that it is a “plain text format for writing structured documents, based on for&lt;t2/&gt;matting conventions from email and usenet” (CommonMark, n.d.).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131108Z" creationid="DSS" creationdate="20200802T125805Z">
-        <seg>&lt;t1/&gt;&lt;t2/&gt;CommonMark 倡议旨在提出一种 Markdown 标准，并补充到，Markdown“基于电子邮件和新闻组的格式约定，是一种用于编写结构化文档的纯文本格式”（CommonMark，未注明日期.）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T133557Z" creationid="DSS" creationdate="20200802T125805Z">
+        <seg>&lt;t1/&gt;&lt;t2/&gt;CommonMark 倡议旨在提出一种 Markdown 标准，并补充到，Markdown“基于电子邮件和新闻组的格式约定，是一种用于编写结构化文档的纯文本格式”(CommonMark, n.d.)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1397,6 +1365,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T121911Z" creationid="lenovo" creationdate="20200808T021456Z">
         <seg>&lt;t3/&gt;金·西多·坎贝尔和杰弗雷·奈杜在研究市场营销白皮书中的结构文步时指出，对专业技术传播体裁中修辞惯例的研究并未消失。 (Campbell &lt;t4/&gt;&amp; &lt;t5/&gt;Naidoo, &lt;t6/&gt;2017).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t3/&gt;The HDITA version on the right column replicates those conventions with HTML5 tags.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T133251Z" creationid="DSS" creationdate="20200902T133251Z">
+        <seg>右列的 HDITA 版本复用了 HTML5 中的标签规范。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2907,8 +2883,8 @@
       <tuv lang="en">
         <seg>After years of fielding the question “Is DITA related to Information Mapping?”, the Information Mapping company released a white paper, in 2011, titled “Information Mapping&lt;t0/&gt;® &lt;t1/&gt;and DITA: Two Worlds, One Solution.” The white paper had the objective of explaining “why it does not make sense &lt;t2/&gt;to move from Information Mapping&lt;t3/&gt;® &lt;t4/&gt;to DITA, or vice versa,” and it posited that “Information Mapping&lt;t5/&gt;® &lt;t6/&gt;and DITA both have their strengths and weak&lt;t7/&gt;nesses, and combining them may lead to the best results for an organization” (2011, p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131052Z" creationid="DSS" creationdate="20200731T091022Z">
-        <seg>信息映射公司多年来一直在回答一个问题：“ DITA 与信息映射有关吗?”2011年，信息映射公司发布了《信息映射&lt;t0/&gt;® &lt;t1/&gt;和 DITA：两个世界，一个解决方案》白皮书。白皮书旨在解释&lt;t2/&gt;“为什么从信息映射&lt;t3/&gt;® &lt;t4/&gt;转换到 DITA 是没有意义的，反之亦然”，白皮书表示“信息映射&lt;t5/&gt;® &lt;t6/&gt;&lt;t7/&gt;和 DITA 有各自的优缺点，将二者结合可以达到最佳效果”（2011年，第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T132938Z" creationid="DSS" creationdate="20200731T091022Z">
+        <seg>信息映射公司多年来一直在回答一个问题：“ DITA 与信息映射有关吗?”2011年，信息映射公司发布了《信息映射&lt;t0/&gt;® &lt;t1/&gt;和 DITA：两个世界，一个解决方案》白皮书。白皮书旨在解释&lt;t2/&gt;“为什么从信息映射&lt;t3/&gt;® &lt;t4/&gt;转换到 DITA 是没有意义的，反之亦然”，白皮书表示“信息映射&lt;t5/&gt;® &lt;t6/&gt;&lt;t7/&gt;和 DITA 有各自的优缺点，将二者结合可以达到最佳效果”(2011, p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8090,8 +8066,8 @@
       <tuv lang="en">
         <seg>However, many of its claims were based on an &lt;t9/&gt;us-before-them&lt;t10/&gt; trope, which included sentences like “Before you start your DITA project, train your writers in Information Mapping&lt;t11/&gt;®&lt;t12/&gt;,” or “Becoming familiar with Information Mapping&lt;t13/&gt;® &lt;t14/&gt;is a necessary first step towards a successful DITA implementation” (2011, p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T091934Z" creationid="DSS" creationdate="20200731T091934Z">
-        <seg>然而，白皮书中许多声明是基于“&lt;t9/&gt;先学信息映射®，再学 DITA&lt;t10/&gt;”的论调，包括 “在开始 DITA 项目之前，训练写作者使用信息映射&lt;t11/&gt;®&lt;t12/&gt;”或“熟悉信息映射&lt;t13/&gt;® &lt;t14/&gt;是成功迈向 DITA 实践不可或缺的第一步”（2011，第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T132954Z" creationid="DSS" creationdate="20200731T091934Z">
+        <seg>然而，白皮书中许多声明是基于“&lt;t9/&gt;先学信息映射®，再学 DITA&lt;t10/&gt;”的论调，包括 “在开始 DITA 项目之前，训练写作者使用信息映射&lt;t11/&gt;®&lt;t12/&gt;”或“熟悉信息映射&lt;t13/&gt;® &lt;t14/&gt;是成功迈向 DITA 实践不可或缺的第一步”(2011, p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8362,8 +8338,8 @@
       <tuv lang="en">
         <seg>I had not interacted with Priestley before, although we followed each other on Twitter based on common friends and our shared interest on DITA, and one of my students conducting a research study had interviewed him in &lt;t0/&gt;2012 &lt;t1/&gt;(and I incorporated some of his comments into my syllabus).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T114254Z" creationid="DSS" creationdate="20200802T120218Z">
-        <seg>虽然我和普里斯特利基于共同好友以及对 DITA 的共同兴趣在Twitter 上关注了彼此，但从未有过交流。&lt;t0/&gt;2012 &lt;t1/&gt;年，我的一个学生在进行一项研究时采访了他（我把他的一些评论写进了教学大纲)。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T133333Z" creationid="DSS" creationdate="20200802T120218Z">
+        <seg>虽然我和普里斯特利基于共同好友以及对 DITA 的共同兴趣在Twitter 上关注了彼此，但从未有过交流。&lt;t0/&gt;2012 &lt;t1/&gt;年，我的一个学生在进行一项研究时采访了他（我把他的一些意见写进了教学大纲)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8522,8 +8498,8 @@
       <tuv lang="en">
         <seg>I wanted to share my thoughts on how the lightweight model could be used to provide starting points for DITA users.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T093034Z" creationid="DSS" creationdate="20200731T093034Z">
-        <seg>我想与大家分享一下我对如何将轻量级模型作为 DITA 用户学习起点的看法。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T133110Z" creationid="DSS" creationdate="20200731T093034Z">
+        <seg>我想与大家分享一下我对为什么轻量级模型可以作为 DITA 用户学习起点的看法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11844,8 +11820,8 @@
       <tuv lang="en">
         <seg>Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML)” (Gruber, &lt;t0/&gt;2004).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T153534Z" creationid="DSS" creationdate="20200802T124258Z">
-        <seg>Markdown 允许用户使用易于阅读、易于编写的纯文本格式进行写作，再将文本转换为结构严密的 XHTML（或 HTML）”（格鲁伯，2004）。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T133543Z" creationid="DSS" creationdate="20200802T124258Z">
+        <seg>Markdown 允许用户使用易于阅读、易于编写的纯文本格式进行写作，再将文本转换为结构严密的 XHTML（或 HTML）”(Gruber, &lt;t0/&gt;2004)。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12470,8 +12446,8 @@
       <tuv lang="en">
         <seg>One is Lightweight DITA, one is packaging (DITA Technical Committee, &lt;t2/&gt;2013).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T131624Z" creationid="DSS" creationdate="20200801T131624Z">
-        <seg>一种回答是轻量级 DITA，一种是打包技术（DITA 技术委员会，&lt;t2/&gt;2013）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T133137Z" creationid="DSS" creationdate="20200801T131624Z">
+        <seg>一种回答是轻量级 DITA，一种是打包技术(DITA Technical Committee, &lt;t2/&gt;2013)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12678,8 +12654,8 @@
       <tuv lang="en">
         <seg>Our work with the preliminary HDITA format was eventually published as the article “Structured Authoring without XML: Evaluating Lightweight DITA for Technical Documentation” in the journal &lt;t7/&gt;Technical Communication&lt;t8/&gt; (Evia &lt;t9/&gt;&amp; &lt;t10/&gt;Priestley, &lt;t11/&gt;2016).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T153439Z" creationid="DSS" creationdate="20200802T122522Z">
-        <seg>关于 HDITA 格式的初步探究写在《不使用 XML 的结构化创作:为技术文档评写作估轻量级 DITA》（Structured Authoring without XML: Evaluating Lightweight DITA for Technical Documentation）一文中，该文最终发表在《技术传播》（&lt;t7/&gt;Technical Communication&lt;t8/&gt;）杂志上。（艾维亚&lt;t9/&gt;和&lt;t10/&gt;普里斯特利，&lt;t11/&gt;2016年）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T133534Z" creationid="DSS" creationdate="20200802T122522Z">
+        <seg>关于 HDITA 格式的初步探究写在《不使用 XML 的结构化写作：为技术文档写作评估轻量级 DITA》（Structured Authoring without XML: Evaluating Lightweight DITA for Technical Documentation）一文中，该文最终发表在《技术传播》（&lt;t7/&gt;Technical Communication&lt;t8/&gt;）杂志上。（艾维亚&lt;t9/&gt;和&lt;t10/&gt;普里斯特利，&lt;t11/&gt;2016年）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12998,8 +12974,8 @@
       <tuv lang="en">
         <seg>Priestley is quoted saying: “In IBM, some folks hate DITA, and they don't even want to use (Microsoft) Word, but (prefer) simple web forms or Markdown syntax.” He added that includ&lt;t0/&gt;ing Markdown in Lightweight DITA could open up “opportunities in both directions, (as it) provides (an) integration point against (the) whole corporate content spectrum” (DITA Technical Committee, 2014).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131109Z" creationid="DSS" creationdate="20200802T154923Z">
-        <seg>记录里记载了普里斯特利说的话：“在 IBM，有些人讨厌 DITA，甚至不想用（微软的）Word，而（更喜欢）简单的网页表单或 Markdown 语法。”他还说，在轻量级 DITA中 包括 Markdown 可能会打开“两个方向的机会，（因为） Markdown 是公司所有内容的集成点”（DITA 技术委员会，2014年）。 &lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T133710Z" creationid="DSS" creationdate="20200802T154923Z">
+        <seg>记录里记载了普里斯特利说的话：“在 IBM，有些人讨厌 DITA，甚至不想用（微软的）Word，而（更喜欢）简单的网页表单或 Markdown 语法。”他还说，在轻量级 DITA中 包括 Markdown 可能会打开“两个方向的机会，（因为） Markdown 是公司所有内容的集成点”(DITA Technical Committee, 2014)。 &lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14217,8 +14193,8 @@
       <tuv lang="en">
         <seg>TABLE &lt;t0/&gt;3.1 &lt;t1/&gt;Sample LwDITA topic, from Michael Priestley's blog post "Overview of Lightweight DITA (XDITA and HDITA)." The XDITA topic on the left column includes elements from the revised LwDITA proposal presented to the DITA Technical Committee in &lt;t2/&gt;2012.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T092049Z">
-        <seg>表3.1 来自迈克尔·普里斯特利的博客文章《轻量级DITA概述（XDITA 和 HDITA）》中的 LwDITA 主题示例。左列中的 XDITA 主题包含了修改后的 LwDITA 提案中的元素，该提案于2012年提交给 DITA 技术委员会。右列的 HDITA 版本复用了 HTML5 中的标签规范。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T133228Z" creationid="DSS" creationdate="20200817T092049Z">
+        <seg>表3.1 来自迈克尔·普里斯特利的博客文章《轻量级DITA概述（XDITA 和 HDITA）》中的 LwDITA 主题示例。左列中的 XDITA 主题包含了修改后的 LwDITA 提案中的元素，该提案于2012年提交给 DITA 技术委员会。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15147,8 +15123,8 @@
       <tuv lang="en">
         <seg>The Information Mapping website now simply defines it as “a research-based method for writing clear and user focused information, based on the audi&lt;t0/&gt;ence's needs and the purpose of the information” (About, n.d.).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131051Z" creationid="DSS" creationdate="20200731T085450Z">
-        <seg>信息映射官网现在简单地将其定义为“一种以研究为基础的方法，基于受众需求和信息目的，编写清晰的、以用户为中心的信息”（“关于”页面，未注明日期）。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T132925Z" creationid="DSS" creationdate="20200731T085450Z">
+        <seg>信息映射官网现在简单地将其定义为“一种以研究为基础的方法，基于受众需求和信息目的，编写清晰的、以用户为中心的信息”(About, n.d.)。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15651,8 +15627,8 @@
       <tuv lang="en">
         <seg>The committee note &lt;t0/&gt;Lightweight DITA: An Introduction&lt;t1/&gt; explains that the LwDITA topic includes a subset of conventions or components (the pigeonhole structures mentioned in &lt;t2/&gt;Chapter &lt;t3/&gt;2&lt;t4/&gt;) &lt;t5/&gt;that were “carefully chosen to include only the most basic constructions that are needed to structure information effec&lt;t6/&gt;tively.” To select those components, the subcommittee “considered the needs of diverse industries and sectors (including education, engineering, healthcare, and marketing)” (Evia et al., &lt;t7/&gt;2018, &lt;t8/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200803T152229Z">
-        <seg>委员会白皮书《&lt;t0/&gt;轻量级DITA简介&lt;t1/&gt;》解释到，LwDITA主题包括一个协定或组件（即在第&lt;t2/&gt;&lt;t3/&gt;2&lt;t4/&gt; &lt;t5/&gt;&lt;t6/&gt;章中提到的鸽笼式结构）的子集，它们“经过委员会的精心挑选，只包括最基础的必要结构，用以有效构造信息。”为了挑选组件，小组委员会"考虑了不同行业和部门（包括教育、工程、医疗保健和营销等领域）的需求"(艾维亚等人，&lt;t7/&gt;2018&lt;t8/&gt;年，第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T133719Z" creationid="DSS" creationdate="20200803T152229Z">
+        <seg>委员会白皮书《&lt;t0/&gt;轻量级DITA简介&lt;t1/&gt;》解释到，LwDITA主题包括一个协定或组件（即在第&lt;t2/&gt;&lt;t3/&gt;2&lt;t4/&gt; &lt;t5/&gt;&lt;t6/&gt;章中提到的鸽笼式结构）的子集，它们“经过委员会的精心挑选，只包括最基础的必要结构，用以有效构造信息。”为了挑选组件，小组委员会"考虑了不同行业和部门（包括教育、工程、医疗保健和营销等领域）的需求"(Evia et al., &lt;t7/&gt;2018, &lt;t8/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16774,8 +16750,8 @@
       <tuv lang="en">
         <seg>The proposal for a lightweight version of the DITA standard crossed an impor&lt;t0/&gt;tant border in the spring of &lt;t1/&gt;2014.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131058Z" creationid="DSS" creationdate="20200809T115008Z">
-        <seg>2014年春天，关于开发 DITA 标准轻量级版本的提议迈过了重要一砍。&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T133222Z" creationid="DSS" creationdate="20200809T115008Z">
+        <seg>2014年春天，关于开发 DITA 标准轻量级版本的提议迈过了重要一槛。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18494,8 +18470,8 @@
       <tuv lang="en">
         <seg>This requires some technical background as well as training and coaching” (2011, p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T092000Z" creationid="DSS" creationdate="20200731T092000Z">
-        <seg>这需要一些技术背景以及培训和指导”（2011，第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T133008Z" creationid="DSS" creationdate="20200731T092000Z">
+        <seg>这需要一些技术背景以及培训和指导”(2011, p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20842,8 +20818,8 @@
       <tuv lang="en">
         <seg>{{ &lt;t0/&gt;Implementations of lightweight DITA that allow for roundtripping with constrained versions of other formats (Priestley, 2014a).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T162041Z" creationid="DSS" creationdate="20200802T162041Z">
-        <seg>&lt;t0/&gt;轻量级 DITA 可以与其他格式的受限版本兼容（普里斯特利，2014年)</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T133437Z" creationid="DSS" creationdate="20200802T162041Z">
+        <seg>&lt;t0/&gt;轻量级 DITA 可以与其他格式的受限版本兼容(Priestley, 2014a)</seg>
       </tuv>
     </tu>
     <tu>
