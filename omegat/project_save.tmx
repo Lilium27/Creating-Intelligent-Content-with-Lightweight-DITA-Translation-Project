@@ -3521,6 +3521,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any author who is also a programmer and decides to build an automating solution to generate deliverables following the work on previous layers of abstraction deserves special recognition.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T154839Z" creationid="lenovo" creationdate="20200902T154839Z">
+        <seg>如果作者还是一名程序员，并且决定按照先前抽象层的工作来构建自动化解决方案以生成可交付成果，应尤为得到认可。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Appendices&lt;t0/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T162027Z" creationid="lenovo" creationdate="20200810T002019Z">
