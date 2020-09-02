@@ -5052,6 +5052,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Content references added to LwDITA topics in layer &lt;t0/&gt;4</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T155813Z" creationid="lenovo" creationdate="20200902T155813Z">
+        <seg>在第4层中将内容引用添加到LwDITA主题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Content strategy rules developed in layer &lt;t0/&gt;1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T155730Z" creationid="lenovo" creationdate="20200902T155730Z">
+        <seg>在第1层中开发的内容策略规则</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Content structured with XDITA is also compatible with DITA; i.e., all XDITA topical compo&lt;t0/&gt;nents share syntax conventions with DITA, and collections of DITA topics can include XDITA files.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T123758Z" creationid="lenovo" creationdate="20200813T021402Z">
@@ -5064,6 +5080,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T144025Z" creationid="lenovo" creationdate="20200811T144025Z">
         <seg>DITA中的内容单元使用XML元素表示，并且可以使用元数据属性有条件地进行处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Context filters added to LwDITA topics in layer &lt;t0/&gt;3</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T155758Z" creationid="lenovo" creationdate="20200902T155758Z">
+        <seg>在第3层中向LwDITA主题添加了上下文过滤器</seg>
       </tuv>
     </tu>
     <tu>
@@ -11922,6 +11946,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LwDITA topics authored in layer &lt;t0/&gt;2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T155741Z" creationid="lenovo" creationdate="20200902T155741Z">
+        <seg>第2层中创作的LwDITA主题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LwDITA would only be a theoretical experiment without the work of adven&lt;t0/&gt;turous and generous developers like Jarno Elovirta, George Bina, and Radu Coravu.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T152546Z" creationid="DSS" creationdate="20200819T152546Z">
@@ -16419,6 +16451,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The fictional deliverable in this example is a web version of the soda fountain operator manual that can be accessed on a device at both soda fountain locations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T155918Z" creationid="lenovo" creationdate="20200902T155918Z">
+        <seg>在此示例中，虚构的交付物是“汽水喷泉”操作员手册的网络版本，可在两个“汽水喷泉”所在地的设备上进行访问。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The figure environment includes a description (&lt;t3/&gt;&lt;desc&gt;&lt;t4/&gt;) that functions as a caption or label for the image.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T134236Z" creationid="DSS" creationdate="20200817T134236Z">
@@ -17196,6 +17236,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The processing layer needs the files that we have created in previous layers of abstraction, which should include the following:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T155721Z" creationid="lenovo" creationdate="20200902T155721Z">
+        <seg>处理层需要我们在先前的抽象层中创建的文件，其中应包括以下内容：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The promise: a centralized content repository structured in XML can be the source for many user deliverables.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T081256Z" creationid="DSS" creationdate="20200727T081256Z">
@@ -17408,6 +17456,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T131245Z" creationid="lenovo" creationdate="20200901T131245Z">
         <seg>可以在HDITA（基于HTML5的LwDITA创作格式）中创建相同的奶昔配方，并对内容变量使用类似的机制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The same results can be achieved with many DITA-aware programs (open source and commercial) with a graphical user inter&lt;t4/&gt;face, and I will also show how to process the milkshake example in Oxygen XML.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T155710Z" creationid="lenovo" creationdate="20200902T155710Z">
+        <seg>使用具有图形用户界面的许多DITA感知程序（开放源代码和商业程序）可以实现相同的结果，并且我还将展示如何在Oxygen XML中处理奶昔示例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20476,6 +20532,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T020458Z" creationid="lenovo" creationdate="20200813T020458Z">
         <seg>XDITA在设计上类似于DITA XML。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XDITA map to collect topics created in layer &lt;t0/&gt;4.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T155823Z" creationid="lenovo" creationdate="20200902T155823Z">
+        <seg>XDITA映射以收集在第4层中创建的主题。</seg>
       </tuv>
     </tu>
     <tu>
