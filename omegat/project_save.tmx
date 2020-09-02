@@ -3513,6 +3513,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any LwDITA topics referenced in this map will inherit that key definition in layer 5, and all elements with a placeholder for &lt;t6/&gt;“icecream-flavor”&lt;t7/&gt; will display the key of, in this example, strawberry.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T153840Z" creationid="lenovo" creationdate="20200902T153840Z">
+        <seg>此映射中引用的所有LwDITA主题都将继承第5层中的键定义，并且在此示例中，带有占位符“ icecream-flavor”的所有元素都将显示草莓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Appendices&lt;t0/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T162027Z" creationid="lenovo" creationdate="20200810T002019Z">
@@ -8956,6 +8964,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T124643Z" creationid="lenovo" creationdate="20200901T124643Z">
         <seg>如果明天是香草口味，则变量可以采用该新值，从而达到只变变量不变内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If vanilla is the flavor of the day tomorrow, the author only needs to change that in the map key reference, and all the topics referenced will be updated automatically when the collection is processed in layer 5.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T153919Z" creationid="lenovo" creationdate="20200902T153919Z">
+        <seg>如果明天的口味是香草，那么作者只需在map键引用中进行更改即可，并且在第5层中处理集合时，所有引用的主题都将自动更新。</seg>
       </tuv>
     </tu>
     <tu>
