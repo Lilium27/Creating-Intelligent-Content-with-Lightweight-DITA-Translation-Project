@@ -102,22 +102,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>156–157).</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T082811Z" creationid="DSS" creationdate="20200730T082811Z">
-        <seg>156-157页）。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>178).</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T082842Z" creationid="DSS" creationdate="20200730T082842Z">
-        <seg>第178页）。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>2).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T132945Z" creationid="DSS" creationdate="20200731T091216Z">
@@ -2123,8 +2107,8 @@
       <tuv lang="en">
         <seg>&lt;t9/&gt;10).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T154026Z" creationid="DSS" creationdate="20200803T152330Z">
-        <seg>&lt;t9/&gt;10页)。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T134430Z" creationid="DSS" creationdate="20200803T152330Z">
+        <seg>&lt;t9/&gt;10)。</seg>
       </tuv>
     </tu>
     <tu>
