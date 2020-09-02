@@ -6358,6 +6358,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE 8.16 &lt;t0/&gt;XDITA map for a soda fountain operator manual.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T153322Z" creationid="lenovo" creationdate="20200902T153322Z">
+        <seg>图 8.16 &lt;t0/&gt;《汽水喷泉操作手册》的XDITA地图。&lt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE 8.3 &lt;t0/&gt;HDITA version of the milkshake recipe as seen on a web browser.&lt;t1/&gt; Note that the ingredient for a pint of ice cream does not have a flavor attached to it, which will come in a more advanced layer when the topic is processed through a LwDITA-aware software application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T132346Z" creationid="lenovo" creationdate="20200901T132346Z">
@@ -14961,6 +14969,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;t1/&gt;&lt;keydef&gt;&lt;t2/&gt; &lt;t3/&gt;environment declares the value for the “icecream-flavor” variable in any linked topics.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T153518Z" creationid="lenovo" creationdate="20200902T153518Z">
+        <seg>&lt;keydef&gt;环境在任何链接主题中声明“冰淇淋口味”变量的值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;t1/&gt;@translate &lt;t2/&gt;attribute has&lt;t3/&gt; a value of “no”, which indicates to machine processors and human editors that the marked phrase should not be translated.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T130019Z" creationid="lenovo" creationdate="20200819T144031Z">
@@ -15601,6 +15617,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The XDITA map also has a navigation title (&lt;t0/&gt;&lt;navtitle&gt;&lt;t1/&gt;) that can specify the main heading for any user products created in the next layer of abstraction.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T153528Z" creationid="lenovo" creationdate="20200902T153528Z">
+        <seg>XDITA映射还具有导航标题（&lt;navtitle&gt;），可以为在下一个抽象层中创建的任何用户产品指定主要标题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The XDITA map in &lt;t0/&gt;Figure &lt;t1/&gt;8.16&lt;t2/&gt; &lt;t3/&gt;includes references (&lt;t4/&gt;&lt;topicref&gt;&lt;t5/&gt;) to the three hypothetical recipes in the manual.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T151840Z" creationid="lenovo" creationdate="20200902T151840Z">
@@ -16109,6 +16133,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T133053Z" creationid="lenovo" creationdate="20200831T133053Z">
         <seg>修改讲师课程中的课程以包括所选工具，然后工具开发人员发布付费升级，这是讲师部门无法负担的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The defining key for the &lt;t2/&gt;“icecream-flavor”&lt;t3/&gt; content variable is provided in the key definition (&lt;t4/&gt;&lt;keydef&gt;&lt;t5/&gt;) environment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T153606Z" creationid="lenovo" creationdate="20200902T153606Z">
+        <seg>键定义（&lt;keydef&gt;）环境中提供了“ icecream-flavor”内容变量的定义键。</seg>
       </tuv>
     </tu>
     <tu>
