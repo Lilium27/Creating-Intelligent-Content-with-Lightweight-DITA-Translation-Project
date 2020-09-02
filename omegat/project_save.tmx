@@ -542,14 +542,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>&lt;t1/&gt;2012, &lt;t2/&gt;p.</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144403Z" creationid="DSS" creationdate="20200724T154301Z">
-        <seg>&lt;t1/&gt;2012年，&lt;t2/&gt;第</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>&lt;t1/&gt;356).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T061948Z" creationid="DSS" creationdate="20200824T061948Z">
@@ -1259,8 +1251,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;8), &lt;t4/&gt;and can be defined as “small independent piece of information on a single subject” (Baker, &lt;t5/&gt;2013, &lt;t6/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034603Z" creationid="DSS" creationdate="20200724T154307Z">
-        <seg>&lt;t3/&gt;8页），&lt;t4/&gt;主题也可以理解为“关于某个问题的短小独立的信息片段”（贝克，&lt;t5/&gt;2013年，&lt;t6/&gt;第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T131344Z" creationid="DSS" creationdate="20200724T154307Z">
+        <seg>&lt;t3/&gt;8)，&lt;t4/&gt;主题也可以理解为“关于某个问题的短小独立的信息片段”(Baker, &lt;t5/&gt;2013, &lt;t6/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1579,8 +1571,8 @@
       <tuv lang="en">
         <seg>&lt;t4/&gt;235).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144909Z" creationid="DSS" creationdate="20200724T162643Z">
-        <seg>&lt;t4/&gt;235页）</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T131509Z" creationid="DSS" creationdate="20200724T162643Z">
+        <seg>&lt;t4/&gt;235)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1611,8 +1603,8 @@
       <tuv lang="en">
         <seg>&lt;t4/&gt;9).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144306Z" creationid="DSS" creationdate="20200726T155008Z">
-        <seg>&lt;t4/&gt;9页）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T131307Z" creationid="DSS" creationdate="20200726T155008Z">
+        <seg>&lt;t4/&gt;9)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2003,8 +1995,8 @@
       <tuv lang="en">
         <seg>&lt;t7/&gt;71).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144433Z" creationid="DSS" creationdate="20200724T154312Z">
-        <seg>&lt;t7/&gt;71页）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T131349Z" creationid="DSS" creationdate="20200724T154312Z">
+        <seg>&lt;t7/&gt;71)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2171,9 +2163,8 @@
       <tuv lang="en">
         <seg>&lt;t8/&gt;Topic-based writing is described as “authoring an information set as a collection of discrete units called &lt;t9/&gt;topics&lt;t10/&gt;, rather than as a whole book or help system” (Baker, &lt;t11/&gt;2016 &lt;t12/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200724T154341Z">
-        <seg>&lt;t8/&gt;基于主题的写作会“编写一个信息集，聚合不同&lt;t9/&gt;主题&lt;t10/&gt;的离散单元，而非编写一本书或一个帮助系统”(Baker, &lt;t11/&gt;2016 &lt;t12/&gt;p.
-&lt;t8/&gt;基于主题的写作会“编写一个信息集，聚合不同&lt;t9/&gt;主题&lt;t10/&gt;的离散单元，而非编写一本书</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T131421Z" creationid="DSS" creationdate="20200724T154341Z">
+        <seg>&lt;t8/&gt;基于主题的写作会“编写一个信息集，聚合不同&lt;t9/&gt;主题&lt;t10/&gt;的离散单元，而非编写一本书或一个帮助系统”(Baker, &lt;t11/&gt;2016 &lt;t12/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2524,8 +2515,8 @@
       <tuv lang="en">
         <seg>A sample sushi recipe from the restaurant's cookbook.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T061938Z" creationid="DSS" creationdate="20200807T061938Z">
-        <seg>餐厅菜谱中的寿司食谱样例</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T130807Z" creationid="DSS" creationdate="20200807T061938Z">
+        <seg>餐厅烹饪书册中的寿司菜谱样例</seg>
       </tuv>
     </tu>
     <tu>
@@ -5688,8 +5679,8 @@
       <tuv lang="en">
         <seg>Each topic is long enough to make sense on its own, but short enough to stick to one point without expanding into other sub&lt;t0/&gt;jects” (Bellamy et al.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034603Z" creationid="DSS" creationdate="20200724T154251Z">
-        <seg>每个主题都要内容充足，能站得住脚跟，同时也要精简干练，只围绕一个中心点展开，而不扩展到其他方面”（贝拉米等，&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T131316Z" creationid="DSS" creationdate="20200724T154251Z">
+        <seg>每个主题都要内容充足，能站得住脚跟，同时也要精简干练，只围绕一个中心点展开，而不扩展到其他方面”(Bellamy et al.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7283,8 +7274,8 @@
       <tuv lang="en">
         <seg>For example, a concept could be an introduction to the sauces section in Chef Pedro's recipe book, while tasks can provide recipes for specific salsas and condiments (he can write a step about dicing tomatoes once and reuse in all the recipes that need it!), and a ref&lt;t0/&gt;erence topic can list common techniques and tools for preparing ingredients.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130802Z" creationid="DSS" creationdate="20200724T162425Z">
-        <seg>例如，“概念”（concept）可以是对厨师佩德罗菜谱中酱汁部分的介绍，“任务”（task）可以为特定的辛香番茄酱和调味料提供菜谱（佩德罗可以写一个将番茄切成小块的操作步骤，然后在所有需要用到这一步骤食谱中重复使用！），“参考”（reference）可以列出准备食材的常用技术和工具。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T130621Z" creationid="DSS" creationdate="20200724T162425Z">
+        <seg>例如，“概念”（concept）可以是对厨师佩德罗菜谱中酱汁部分的介绍，“任务”（task）可以为特定的辛香番茄酱和调味料提供菜谱（佩德罗可以写一个将番茄切成小块的操作步骤，然后在所有需要用到这一步骤的菜谱中重复使用！），“参考”（reference）可以列出准备食材的常用技术和工具。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7315,8 +7306,8 @@
       <tuv lang="en">
         <seg>For introductory experiments like the marinara recipe from &lt;t0/&gt;Chapter &lt;t1/&gt;1&lt;t2/&gt;, &lt;t3/&gt;Notepad for Windows or TextEdit in macOS (be sure to select &lt;t4/&gt;Format&lt;t5/&gt;/&lt;t6/&gt;Make Plain Text &lt;t7/&gt;before saving your files) can work.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T143332Z" creationid="lenovo" creationdate="20200814T141411Z">
-        <seg>对于介绍性试验，比如编写第一章中的意式番茄罗勒酱的食谱，Windows中的记事本或macOS中的TextEdit(确保在保存文件之前选择格式或纯文本格式 )都可以使用。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T130648Z" creationid="lenovo" creationdate="20200814T141411Z">
+        <seg>对于介绍性试验，比如编写第一章中的意式番茄罗勒酱的菜谱，Windows中的记事本或macOS中的TextEdit(确保在保存文件之前选择格式或纯文本格式 )都可以使用。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7787,8 +7778,8 @@
       <tuv lang="en">
         <seg>Hackos mentioned “an open source toolkit you can use to produce your own output in multiple media without having to invest in proprietary tools” &lt;t0/&gt;(2011, &lt;t1/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145301Z" creationid="DSS" creationdate="20200725T073728Z">
-        <seg>哈克斯提到“有一个开源工具包，你可以使用它生成多种格式的文件，而不必购买专用软件”（&lt;t0/&gt;2011年，&lt;t1/&gt;第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T131519Z" creationid="DSS" creationdate="20200725T073728Z">
+        <seg>哈克斯提到“有一个开源工具包，你可以使用它生成多种格式的文件，而不必购买专用软件” &lt;t0/&gt;(2011, &lt;t1/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13250,8 +13241,8 @@
       <tuv lang="en">
         <seg>Reference: describes commands, parameters, and other features (Pringle &lt;t0/&gt;&amp; &lt;t1/&gt;O'Keefe, &lt;t2/&gt;2009, &lt;t3/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144900Z" creationid="DSS" creationdate="20200724T162510Z">
-        <seg>参考（reference）：描述命令、参数和其他特性（普林格尔&lt;t0/&gt;和&lt;t1/&gt;奥基夫，&lt;t2/&gt;2009年，&lt;t3/&gt;第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T131445Z" creationid="DSS" creationdate="20200724T162510Z">
+        <seg>参考（reference）：描述命令、参数和其他特性(Pringle &lt;t0/&gt;&amp; &lt;t1/&gt;O'Keefe, &lt;t2/&gt;2009, &lt;t3/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16327,8 +16318,8 @@
       <tuv lang="en">
         <seg>The literature focuses on three topic types that “represent the vast majority of content produced to support users of technical information” (Hackos, &lt;t0/&gt;2011, &lt;t1/&gt;p.7): concept, task, and reference, which Pringle &lt;t2/&gt;&amp; &lt;t3/&gt;O'Keefe define succinctly as follows:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200724T162056Z">
-        <seg>文档主要有三种主题类型，它们“代表了为了帮助用户而产生的技术信息文档里的绝大多数内容”（哈克斯，&lt;t0/&gt;2011&lt;t1/&gt;年，第7页）：概念（concept）、任务（task）和参考（reference），普林格尔（Pringle）&lt;t2/&gt;和&lt;t3/&gt;奥基夫对其的简短定义如下：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T131437Z" creationid="DSS" creationdate="20200724T162056Z">
+        <seg>文档主要有三种主题类型，它们“代表了为了帮助用户而产生的技术信息文档里的绝大多数内容”(Hackos, &lt;t0/&gt;2011, &lt;t1/&gt;p.7)：概念（concept）、任务（task）和参考（reference），普林格尔（Pringle）&lt;t2/&gt;和&lt;t3/&gt;奥基夫对其的简短定义如下：</seg>
       </tuv>
     </tu>
     <tu>
@@ -16367,16 +16358,16 @@
       <tuv lang="en">
         <seg>The map includes&lt;t1/&gt; links (or topic references) to the marinara sauce recipe, Chef Pedro's critique of the recipe, and an “about” page with information about the author.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200725T154134Z">
-        <seg>地图上有关联到&lt;t1/&gt;意式番茄罗勒酱食谱、厨师佩德罗对菜谱的评价和介绍作者信息的“关于”页面的链接（或主题引用）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T130631Z" creationid="DSS" creationdate="20200725T154134Z">
+        <seg>地图上有关联到&lt;t1/&gt;意式番茄罗勒酱菜谱、厨师佩德罗对菜谱的评价和介绍作者信息的“关于”页面的链接（或主题引用）。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The map includes&lt;t2/&gt; links (or topic references) to the marinara sauce recipe, Chef Pedro's critique of the recipe, and an “about” page with information about the author.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200806T092641Z">
-        <seg>地图上有关联到&lt;t2/&gt;意式番茄罗勒酱食谱、厨师佩德罗对菜谱的评价和介绍作者信息的“关于”页面的链接（或主题引用）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T130659Z" creationid="DSS" creationdate="20200806T092641Z">
+        <seg>地图上有关联到&lt;t2/&gt;意式番茄罗勒酱菜谱、厨师佩德罗对菜谱的评价和介绍作者信息的“关于”页面的链接（或主题引用）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16775,8 +16766,8 @@
       <tuv lang="en">
         <seg>The rationale for the task is in the &lt;t0/&gt;&lt;context&gt; &lt;t1/&gt;element; it represents the conventional move of telling the user when or why to complete the procedure/ recipe.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T062304Z" creationid="lenovo" creationdate="20200811T141540Z">
-        <seg>任务的合理解释包含在&lt;context&gt;元素中；它是一种惯例文步，告诉用户何时或为何要完成这一步骤或食谱。&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T130641Z" creationid="lenovo" creationdate="20200811T141540Z">
+        <seg>任务的合理解释包含在&lt;context&gt;元素中；它是一种惯例文步，告诉用户何时或为何要完成这一步骤或菜谱。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20989,8 +20980,8 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;A thoroughly developed approach to information development originat&lt;t1/&gt;ing with OASIS and now encompassing many other companies, large and small, that find value in a standards-based approach &lt;t2/&gt;(2011, &lt;t3/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T162804Z" creationid="DSS" creationdate="20200726T155002Z">
-        <seg>• &lt;t0/&gt;&lt;t1/&gt;DITA 是一种深入发展的信息开发方法，起源于 OASIS，使用于大大小小各种公司，这些公司发掘了 DITA 的价值 &lt;t2/&gt;（2011年，&lt;t3/&gt;第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T131253Z" creationid="DSS" creationdate="20200726T155002Z">
+        <seg>• &lt;t0/&gt;&lt;t1/&gt;DITA 是一种深入发展的信息开发方法，起源于 OASIS，使用于大大小小各种公司，这些公司发掘了 DITA 的价值 &lt;t2/&gt;(2011, &lt;t3/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21053,8 +21044,8 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;Darwin&lt;t1/&gt;: for specialization and how things could “evolve” from a base &lt;t2/&gt;• &lt;t3/&gt;Information Typing&lt;t4/&gt;: for representation of knowledge as typed units &lt;t5/&gt;• &lt;t6/&gt;Architecture&lt;t7/&gt;: a statement that this was not just a monolithic design but an exten&lt;t8/&gt;sible tool that could support many uses (Day, quoted in DITAWriter, &lt;t9/&gt;2016).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T162614Z" creationid="DSS" creationdate="20200726T154813Z">
-        <seg>•&lt;t0/&gt;达尔文&lt;t1/&gt;：代表专业化以及事物如何从一个基础形态“演进”；&lt;t2/&gt;•&lt;t3/&gt;信息类型化&lt;t4/&gt;：用不同类型单元表示知识； &lt;t5/&gt;• &lt;t6/&gt;架构&lt;t7/&gt;&lt;t8/&gt;：表示这不仅仅是一个整体设计理念，还是一个可扩展的工具，可以支持多种用途（戴，引自 DitaWriter，&lt;t9/&gt;2016年）。
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T131247Z" creationid="DSS" creationdate="20200726T154813Z">
+        <seg>•&lt;t0/&gt;达尔文&lt;t1/&gt;：代表专业化以及事物如何从一个基础形态“演进”；&lt;t2/&gt;•&lt;t3/&gt;信息类型化&lt;t4/&gt;：用不同类型单元表示知识； &lt;t5/&gt;• &lt;t6/&gt;架构&lt;t7/&gt;&lt;t8/&gt;：表示这不仅仅是一个整体设计理念，还是一个可扩展的工具，可以支持多种用途 (Day, quoted in DITAWriter, &lt;t9/&gt;2016)。
 </seg>
       </tuv>
     </tu>
