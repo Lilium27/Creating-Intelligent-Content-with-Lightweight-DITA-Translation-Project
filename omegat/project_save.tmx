@@ -5036,6 +5036,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Contrasting layer 4 with the ISTE standards for assessing computational thinking in students, some of its tasks could comply with sections of standards 5b (&lt;t9/&gt;Students collect data or identify relevant data sets, use digital tools to analyze them, and represent data in various ways to facilitate problem-solving and decision-making&lt;t10/&gt;) and 5c (&lt;t11/&gt;Students break problems into component parts, extract key information, and develop descriptive models to understand complex systems or facilitate problem-solving&lt;t12/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T154112Z" creationid="lenovo" creationdate="20200902T154112Z">
+        <seg>将第4层与用于评估学生的计算思维的ISTE标准进行对比，其某些任务可能符合标准5b的各个部分（学生收集数据或识别相关数据集，使用数字工具对其进行分析，并以各种方式表示数据，以促进问题解决和决策制定）和5c（学生将问题分解为各个组成部分，提取关键信息，并开发描述性模型以理解复杂系统或促进问题解决）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Contrasting layer &lt;t11/&gt;1 &lt;t12/&gt;with the ISTE standards for assessing computational thinking in students, some of its tasks could comply with sections of standards 5a (&lt;t13/&gt;Students formulate problem definitions suited for technology-assisted methods such as data analysis, abstract models and algorithmic thinking in exploring and finding solutions&lt;t14/&gt;), 5b (&lt;t15/&gt;Students collect data or identify relevant data sets, use digital tools to analyze them, and represent data in various ways to facilitate problem-solving and decision&lt;t16/&gt;making&lt;t17/&gt;), and 5c (&lt;t18/&gt;Students break problems into component parts, extract key information, and develop descriptive models to understand complex systems or facilitate problem-solving&lt;t19/&gt;).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T123724Z" creationid="lenovo" creationdate="20200901T123724Z">
@@ -11338,6 +11346,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Layer 4 tasks focus on Bailie &amp; Urbina's &lt;t1/&gt;collect&lt;t2/&gt; and &lt;t3/&gt;manage&lt;t4/&gt; stages.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T154004Z" creationid="lenovo" creationdate="20200902T154004Z">
+        <seg>第4层任务的重点是拜利和厄比纳的收集和管理阶段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Layer &lt;t0/&gt;1: &lt;t1/&gt;Developing a Content Strategy</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T133857Z" creationid="lenovo" creationdate="20200831T133857Z">
@@ -11390,6 +11406,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T132512Z" creationid="lenovo" creationdate="20200902T132512Z">
         <seg>第四层：链接主题和映射以收集和复用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Layer &lt;t0/&gt;5 &lt;t1/&gt;addresses the “metal” tools in Wing's model of computational thinking.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T154200Z" creationid="lenovo" creationdate="20200902T154200Z">
+        <seg>第5层解决了Wing计算思维模型中的“金属”工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Layer &lt;t0/&gt;5: &lt;t1/&gt;Processing and Producing Deliverables</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T154123Z" creationid="lenovo" creationdate="20200902T154123Z">
+        <seg>第5层：处理和生产可交付成果</seg>
       </tuv>
     </tu>
     <tu>
@@ -18456,6 +18488,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T114849Z" creationid="DSS" creationdate="20200811T114849Z">
         <seg>也来自于我担任 OASIS 轻量级 DITA 小组委员会联合主席和 LwDITA 标准技术规范联合编辑的经验。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They also cover some of the work included in Andersen's &lt;t5/&gt;Analyzing the customer and business needs &lt;t6/&gt;and &lt;t7/&gt;Developing an information architecture&lt;t8/&gt; stages.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T154036Z" creationid="lenovo" creationdate="20200902T154036Z">
+        <seg>它们还涵盖了安德森分析客户和业务需求以及开发信息架构阶段中包含的一些工作。</seg>
       </tuv>
     </tu>
     <tu>
