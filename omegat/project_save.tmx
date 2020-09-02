@@ -3202,6 +3202,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An HDITA version of the milk&lt;t4/&gt;shake recipe, with context information to specify the blender used in each location, would look like&lt;t5/&gt; Figure 8.7&lt;t6/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T123719Z" creationid="lenovo" creationdate="20200902T123719Z">
+        <seg>图8.7是HDITA版本的奶昔配方，带有上下文信息以指定每个位置使用的搅拌器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An Important Rule About “Mixed Content” in LwDITA</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200813T132142Z" creationid="lenovo" creationdate="20200813T132142Z">
@@ -3876,8 +3884,8 @@
       <tuv lang="en">
         <seg>At processing time, the author can specify a filter and exclude the value that is not needed for a specific setting.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T123439Z" creationid="lenovo" creationdate="20200902T123244Z">
-        <seg>在处理时，作者可以指定过滤器来排除特定设置不需要的值。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T123631Z" creationid="lenovo" creationdate="20200902T123244Z">
+        <seg>在处理时，作者可以指定过滤器来排除特定情形不需要的值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9167,6 +9175,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T075259Z" creationid="DSS" creationdate="20200816T142318Z">
         <seg>在 HDITA 中，段落也是由一对 &lt;t1/&gt;&lt;t2/&gt;&lt;p&gt; &lt;t3/&gt;标签表示，并且段落包含在主正文组件中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In HDITA, the conditional attribute &lt;t0/&gt;@data-props&lt;t1/&gt;, placed inside the HTML5 &lt;t2/&gt;&lt;span&gt; &lt;t3/&gt;element, can achieve similar results.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T123656Z" creationid="lenovo" creationdate="20200902T123656Z">
+        <seg>在HDITA中，置于HTML5 &lt;span&gt;元素内的条件属性@ data-props可以实现类似的结果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14902,6 +14918,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T141448Z" creationid="lenovo" creationdate="20200827T141448Z">
         <seg>HDITA地图可以保存为crossform-brochure.html。&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The HDITA recipe, which can be saved as &lt;t0/&gt;milkshake.html&lt;t1/&gt;, is a valid HTML5 topic; therefore, it can be seen on a web browser at this stage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T124007Z" creationid="lenovo" creationdate="20200902T124007Z">
+        <seg>HDITA食谱可以保存为milkshake.html，它是有效的HTML5主题； 因此，现阶段可以在网络浏览器上看到它。 </seg>
       </tuv>
     </tu>
     <tu>
