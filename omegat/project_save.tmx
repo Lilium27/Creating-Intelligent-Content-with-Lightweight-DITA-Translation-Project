@@ -5036,6 +5036,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Contrasting layer &lt;t4/&gt;3 &lt;t5/&gt;with the ISTE standards for assessing computational thinking in students, some of its tasks could comply with sections of standards 5a (&lt;t6/&gt;Students formulate problem definitions suited for technology-assisted methods such as data analysis, abstract models and algorith&lt;t7/&gt;mic thinking in exploring and finding solutions&lt;t8/&gt;) and 5c (&lt;t9/&gt;Students break problems into component parts, extract key information, and develop descriptive models to understand complex systems or facilitate problem-solving&lt;t10/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T132431Z" creationid="lenovo" creationdate="20200902T132431Z">
+        <seg>将第3层与用于评估学生的计算思维的ISTE标准进行对比，某些任务可以符合标准5a的各个部分（学生在研究和发现解决方案中制定适合技术辅助方法的问题定义，方法包括数据分析，抽象模型和算法思维）和5c（学生将问题分解为各个组成部分，提取关键信息，并开发描述性模型以了解复杂系统或促进问题解决）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Contrasting layer &lt;t9/&gt;2 &lt;t10/&gt;with the ISTE standards for assessing computational thinking in students, some of its tasks could comply with sections of standards 5a (&lt;t11/&gt;Students formulate problem definitions suited for technology-assisted methods such as data analysis, abstract models and algorithmic thinking in exploring and finding solutions&lt;t12/&gt;) and 5b (&lt;t13/&gt;Students collect data or identify relevant data sets, use digital tools to ana&lt;t14/&gt;lyze them, and represent data in various ways to facilitate problem-solving and decision-making&lt;t15/&gt;).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T133914Z" creationid="lenovo" creationdate="20200901T133914Z">
@@ -11154,6 +11162,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Layer &lt;t0/&gt;4: &lt;t1/&gt;Linking Topics and Maps for Collection and Reuse</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T132512Z" creationid="lenovo" creationdate="20200902T132512Z">
+        <seg>第四层：链接主题和映射以收集和复用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Layer &lt;t0/&gt;5: &lt;t1/&gt;Single sourcing and content reuse.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T154934Z" creationid="DSS" creationdate="20200813T115409Z">
@@ -11310,6 +11326,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T153714Z" creationid="DSS" creationdate="20200804T153638Z">
         <seg>链接文本（link text）&lt;t0/&gt;：为链接或资源提供标签。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Linking Topics to Topics</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T132619Z" creationid="lenovo" creationdate="20200902T132619Z">
+        <seg>主题间的链接</seg>
       </tuv>
     </tu>
     <tu>
@@ -20204,6 +20228,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T135246Z" creationid="lenovo" creationdate="20200811T135111Z">
         <seg>。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>included in Andersen's &lt;t0/&gt;Developing an information architecture&lt;t1/&gt; and &lt;t2/&gt;Creating structured content&lt;t3/&gt; stages.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T131857Z" creationid="lenovo" creationdate="20200902T131857Z">
+        <seg>包含在安德森的开发信息体系结构和创建结构化的内容阶段。</seg>
       </tuv>
     </tu>
     <tu>
