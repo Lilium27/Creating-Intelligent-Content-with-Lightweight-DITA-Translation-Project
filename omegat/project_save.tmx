@@ -8224,6 +8224,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, most writing positions do not expect that kind of work.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T154918Z" creationid="lenovo" creationdate="20200902T154918Z">
+        <seg>但是，大多数写作职位都不做此期待。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, one person's annoyance is another's enjoyment: Patrick Bosek, co-founder of the &lt;t0/&gt;easyDITA &lt;t1/&gt;component content management solution, once told me that, in his opinion, the “minimize mixed content” rule is one of the best features of XDITA.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T142857Z" creationid="lenovo" creationdate="20200814T140550Z">
@@ -12230,6 +12238,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T081247Z" creationid="DSS" creationdate="20200808T081247Z">
         <seg>大多数创作者可能在刚开始从事智能内容写作时，都没有意识到在自动化发布和过滤例程之外，业界有更多关于计算思维和抽象能力的讨论。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Most likely, authors will follow the tools strategy set in layer &lt;t3/&gt;1 &lt;t4/&gt;and bring all the work developed in previous layers to the tool selected.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T155023Z" creationid="lenovo" creationdate="20200902T155023Z">
+        <seg>最有可能的是，作者将遵循layer &lt;t3/&gt;1 &lt;t4/&gt;中设置的工具策略，并将之前层中所有成果都带到所选择的工具中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17700,6 +17716,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The technical communication literature shows some waves of interests for tech&lt;t0/&gt;nologies included in this layer, from single-sourcing (e.g, Ament, &lt;t1/&gt;2003; &lt;t2/&gt;Carter, &lt;t3/&gt;2003) &lt;t4/&gt;to content management (e.g., Hart-Davidson et al., &lt;t5/&gt;2007; &lt;t6/&gt;Gu &lt;t7/&gt;&amp; &lt;t8/&gt;Pullman, &lt;t9/&gt;2009), &lt;t10/&gt;and most recently component content management (e.g, Andersen, &lt;t11/&gt;2014; &lt;t12/&gt;Batova, &lt;t13/&gt;2014).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T155200Z" creationid="lenovo" creationdate="20200902T155200Z">
+        <seg>技术交流文献表明，从单一来源 (e.g, Ament, &lt;t1/&gt;2003; &lt;t2/&gt;Carter, &lt;t3/&gt;2003) &lt;t4/&gt;到内容管理 (e.g., Hart-Davidson et al., &lt;t5/&gt;2007; &lt;t6/&gt;Gu &lt;t7/&gt;&amp; &lt;t8/&gt;Pullman, &lt;t9/&gt;2009), &lt;t10/&gt;以及最近的组件内容管理(e.g, Andersen, &lt;t11/&gt;2014; &lt;t12/&gt;Batova, &lt;t13/&gt;2014).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The technical content edition adds the technical communication content types (concept, task, reference) that defined DITA in its origins at IBM, and adds the content types of glossary entry, glossary group, and troubleshooting.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T073415Z" creationid="lenovo" creationdate="20200812T031321Z">
@@ -18912,6 +18936,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T091524Z" creationid="DSS" creationdate="20200817T091524Z">
         <seg>采取第三种解决方案&lt;t0/&gt;——&lt;t1/&gt;基于 DITA 定义一个轻量级 XML 模型，该模型可用于检验写作和复杂的出版链，同时定义一个轻量级的 HTML5 模型，用于写作或展示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This removes the emphasis from an actual software product and highlights the work performed by humans behind the automation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T155129Z" creationid="lenovo" creationdate="20200902T155129Z">
+        <seg>这将重点从实际软件产品上移开，突出了自动化背后的人员所执行的工作。</seg>
       </tuv>
     </tu>
     <tu>
