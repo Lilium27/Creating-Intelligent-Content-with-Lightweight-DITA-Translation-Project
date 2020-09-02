@@ -3946,6 +3946,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>At the same time, this book has the goal of making concepts of structured authoring and intelligent content easier to learn and teach in humanities- based writing and communication programs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T125035Z" creationid="DSS" creationdate="20200902T125035Z">
+        <seg>与此同时，这本书的目标是使在以人文学科为基础的写作和传播课程中，学习和教授结构化写作和智能内容的概念更加容易。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At the topic level, and without getting too deep into the process of DITA specialization, just as &lt;t2/&gt;&lt;concept&gt; &lt;t3/&gt;and &lt;t4/&gt;&lt;task&gt; &lt;t5/&gt;are spe&lt;t6/&gt;cialized from the original generic &lt;t7/&gt;&lt;topic&gt;&lt;t8/&gt;, &lt;t9/&gt;&lt;task&gt; &lt;t10/&gt;could specialize into &lt;t11/&gt;&lt;recipe&gt;&lt;t12/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200725T143911Z">
@@ -4610,10 +4618,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Carlos Evia &lt;t0/&gt;is an associate professor in the Department of Communication at Virginia Tech.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T125104Z" creationid="DSS" creationdate="20200902T125104Z">
+        <seg>Carlos Evia是弗吉尼亚理工大学传播系的副教授，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Carlos Evia's book &lt;t0/&gt;Creating Intelligent Content with Lightweight DITA&lt;t1/&gt; is a most welcome addition to the ATTW Book Series in Technical and Professional Communication (TPC) because, as its title suggests, it is a book about building and maintaining content which is appropriate for users using an exciting new standard for Extensible Markup Language (XML) called “Lightweight DITA” or LwDITA.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T142923Z" creationid="DSS" creationdate="20200820T131437Z">
         <seg>卡洛斯·艾维亚的书《&lt;t0/&gt;使用轻量级 DITA 创建智能内容&lt;t1/&gt;》，是 ATTW （Association of Teachers of Technical Writing）技术传播和专业传播领域（TPC）系列丛书之中又非常卖座的一本，受捧原因正如书名所示，这是一本关于构建和维护内容的书籍，适合能够使用激动人心的全新标准 “轻量级 DITA”（或称 LwDITA）的用户，该标准基于可扩展标记语言（XML）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Carlos is also a voting member of the DITA tech&lt;t2/&gt;nical committee and co-chair of the Lightweight DITA subcommittee at the Organization for the Advancement of Structured Information Standards.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T125411Z" creationid="DSS" creationdate="20200902T125411Z">
+        <seg>卡洛斯也是 DITA 技术委员会的投票成员以及结构化信息标准推进组织的轻量级 DITA 小组委员会的联合主席。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7837,6 +7861,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T124520Z" creationid="DSS" creationdate="20200811T124520Z">
         <seg>他提出，学生“必须应用、迁移计算机知识到其他领域，融会贯通，才能形成计算机思维” (Guzdial, 2016a)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>He teaches courses in professional communication and con&lt;t1/&gt;tent management strategies.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T125247Z" creationid="DSS" creationdate="20200902T125247Z">
+        <seg>他教授与专业传播和内容管理策略相关的课程。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18081,6 +18113,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T142138Z" creationid="DSS" creationdate="20200820T142138Z">
         <seg>对 TPC 来说，这本书是及时雨，介绍了业界一直迫切地想要了解的组件内容管理和计算机思维运动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This book is intended for practition&lt;t1/&gt;ers and students interested in structured authoring or the DITA standard.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T125037Z" creationid="DSS" creationdate="20200902T125037Z">
+        <seg>本书的目标读者是对结构化写作或 DITA 标准感兴趣的从业者和学生。</seg>
       </tuv>
     </tu>
     <tu>
