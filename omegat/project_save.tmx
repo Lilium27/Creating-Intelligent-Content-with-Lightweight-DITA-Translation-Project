@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>8&lt;t2/&gt;), &lt;t3/&gt;however, shows both possible blender options in the same step and would be confusing for an actual human operator.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T130045Z" creationid="lenovo" creationdate="20200902T130045Z">
+        <seg>但是，最终的Web渲染（图8.8）在同一步骤中同时显示了两个可能的搅拌器选项，这对于实际的操作人员来说会造成混淆。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>9).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T080004Z" creationid="DSS" creationdate="20200822T161446Z">
@@ -1845,6 +1853,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T140206Z" creationid="lenovo" creationdate="20200831T140206Z">
         <seg>&lt;t5/&gt;这些属性是将来将要进行的内容过滤和处理的基础。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t5/&gt;This MDITA version can be saved as &lt;t6/&gt;milkshake.md&lt;t7/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T130358Z" creationid="lenovo" creationdate="20200902T130358Z">
+        <seg>该MDITA版本可以另存为milkshake.md。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6367,6 +6383,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE 8.7 &lt;t0/&gt;HDITA version of the milkshake recipe with two possible values for&lt;t1/&gt; a setting condition, which are specified with the HTML5 custom data attribute &lt;t2/&gt;@data-props&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T130025Z" creationid="lenovo" creationdate="20200902T130025Z">
+        <seg>图 8.7 &lt;t0/奶昔配方的HDITA版本，同一情形有两个可能的值，由HTML5自定义数据属性@data-props指定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;1.1 &lt;t1/&gt;Screen capture from the video “The Future of Technical Communication,” by Adobe Technical Communication Suite.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T142810Z" creationid="DSS" creationdate="20200724T121058Z">
@@ -9795,6 +9819,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In layer &lt;t4/&gt;5, &lt;t5/&gt;processing the topic with the proper conditional code will produce correct deliverables for each location.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T130055Z" creationid="lenovo" creationdate="20200902T130055Z">
+        <seg>在第5层中，使用适当的条件代码处理主题将为每个位置产生正确的可交付成果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In most cases, human authors would have to modify font-sizes and paragraph structures manually.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T142800Z" creationid="DSS" creationdate="20200811T142800Z">
@@ -9839,6 +9871,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T143408Z" creationid="lenovo" creationdate="20200827T143408Z">
         <seg>为了利用LwDITA提出的标准，并使内容从文字处理程序和桌面发布工具创建的数百万死页面中脱颖而出，我们需要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In order to use the conditional variable &lt;t0/&gt;@data-props&lt;t1/&gt;, a Markdown-based author would have to use a few code snippets of HDITA in MDITA extended profile.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T130326Z" creationid="lenovo" creationdate="20200902T130326Z">
+        <seg>为了使用条件变量@ data-props，基于Markdown的作者将不得不在MDITA扩展配置文件中使用HDITA的一些代码片段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11175,6 +11215,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T133722Z" creationid="lenovo" creationdate="20200901T133722Z">
         <seg>第2层任务的重点是拜利和厄比纳的收集阶段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Layer &lt;t1/&gt;3 &lt;t2/&gt;tasks focus on Bailie &lt;t3/&gt;&amp; &lt;t4/&gt;Urbina's &lt;t5/&gt;manage&lt;t6/&gt; stage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T131146Z" creationid="lenovo" creationdate="20200902T131146Z">
+        <seg>第3层任务的重点是拜利和厄比纳的管理阶段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14946,6 +14994,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The HDITA code snippets enable the MDITA topic to allow conditional content and let Markdown authors use DITA-like content filters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T130933Z" creationid="lenovo" creationdate="20200902T130933Z">
+        <seg>HDITA代码片段使MDITA主题可以包含条件性内容，并允许Markdown作者使用类似DITA的内容过滤器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The HDITA map can be saved as &lt;t0/&gt;crossformat-brochure.html&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T141448Z" creationid="lenovo" creationdate="20200827T141448Z">
@@ -15182,6 +15238,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T140553Z" creationid="lenovo" creationdate="20200825T122548Z">
         <seg>MDITA表格组件使用GitHub风格的Markdown表格扩展语法编写。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The MDITA topic, in this layer, would not make sense for human users, and it must be pro&lt;t0/&gt;cessed by a LwDITA-aware tool in layer &lt;t1/&gt;5.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T130957Z" creationid="lenovo" creationdate="20200902T130957Z">
+        <seg>在这一层中，MDITA主题对人类用户而言毫无意义，并且必须由第5层中支持LwDITA的工具进行处理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15654,6 +15718,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T133528Z" creationid="lenovo" creationdate="20200901T133528Z">
         <seg>第一个链接标签的内容被解析为内联元素，用作链接的文本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The context-aware recipe cannot be expressed in MDITA core profile.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T130108Z" creationid="lenovo" creationdate="20200902T130108Z">
+        <seg>上下文感知配方无法在MDITA核心配置文件中表示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16717,6 +16789,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The recipe main elements are still in Markdown, but the available values for the conditional setting attribute are the same as those used in the HDITA topic, as shown in &lt;t2/&gt;Figure &lt;t3/&gt;8.9&lt;t4/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T130342Z" creationid="lenovo" creationdate="20200902T130342Z">
+        <seg>配方主要元素仍在Markdown中，但条件设置属性的可用值与HDITA主题中使用的值相同，如图8.9所示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The recommendations and models pre&lt;t0/&gt;sented in this book come from my experience teaching DITA and LwDITA at the college level and in industry workshops and conferences.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131424Z" creationid="DSS" creationdate="20200811T114711Z">
@@ -17137,6 +17217,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T155544Z" creationid="DSS" creationdate="20200816T155544Z">
         <seg>声明列表及其条目、术语和描述所学的标签并不轻量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The tasks involved in this layer are related to several stages of the content&lt;t0/&gt;development lifecycles featured earlier in the previous chapter.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T131013Z" creationid="lenovo" creationdate="20200902T131013Z">
+        <seg>该层涉及的任务与上一章前面介绍的内容开发生命周期的多个阶段有关。 </seg>
       </tuv>
     </tu>
     <tu>
