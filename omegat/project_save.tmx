@@ -2658,6 +2658,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ATTW Book Series in Technical and Professional Communication</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T125528Z" creationid="DSS" creationdate="20200902T125528Z">
+        <seg>ATTW 技术传播和专业传播系列丛书</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Abstraction allows authors of intelligent content to separate the “layers” of a particular problem, and work on each one individually without concern for the others.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T040006Z" creationid="DSS" creationdate="20200817T040006Z">
@@ -4188,8 +4196,8 @@
       <tuv lang="en">
         <seg>Balancing between his mastery of the academy and his practical industry experience as a voting member of the DITA technical committee and as co-chair of the Lightweight DITA subcom&lt;t4/&gt;mittee at the Organization for the Advancement of Structured Information Standards, Evia's book provides TPC students and practitioners with two valu&lt;t5/&gt;able outcomes: &lt;t6/&gt;1) &lt;t7/&gt;an introduction to a development model for creating digital content adapted for users, and &lt;t8/&gt;2) &lt;t9/&gt;an accessible introduction to the new LwDITA standard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T143002Z" creationid="DSS" creationdate="20200820T131502Z">
-        <seg>作为 DITA 技术委员会的投票成员以及结构化信息标准推进组织的轻量级 DITA 小组委员会的主席，艾维亚在从产业界获取的实际经验和从学术界掌握的知识之间取得了平衡。艾维亚的书为 TPC 学生和从业者贡献了两个极具价值的成果：1）介绍为用户创作数字内容的发展模式，2）通俗易懂地介绍新的 LwDITA 标准。&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T125456Z" creationid="DSS" creationdate="20200820T131502Z">
+        <seg>作为 DITA 技术委员会的投票成员以及结构化信息标准推进组织的轻量级 DITA 小组委员会的联合主席，艾维亚在从产业界获取的实际经验和从学术界掌握的知识之间取得了平衡。艾维亚的书为 TPC 学生和从业者贡献了两个极具价值的成果：1）介绍为用户创作数字内容的发展模式，2）通俗易懂地介绍新的 LwDITA 标准。&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
       </tuv>
     </tu>
     <tu>
