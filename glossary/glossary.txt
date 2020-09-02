@@ -394,7 +394,6 @@ Susan Carpenter	苏珊·卡朋特
 Tom Johnson	汤姆•约翰逊
 Bill Hart- Davidson	比尔·哈特-戴维森
 Radu Coravu	拉杜·科拉夫
-Note	注释
 Darwinian	达尔文式
 flagship genre	标志性体裁
 information schemas	信息模式
@@ -496,3 +495,4 @@ division	块级容器元素	html标签
 franchise terms	特许经营条例
 Charlotte Robidoux	夏洛特·罗比多
 Ament	阿门特
+Note	注释、提示
