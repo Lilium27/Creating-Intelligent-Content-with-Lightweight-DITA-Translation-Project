@@ -617,8 +617,8 @@
       <tuv lang="en">
         <seg>&lt;t10/&gt;178).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095112Z" creationid="DSS" creationdate="20200730T095112Z">
-        <seg>&lt;t10/&gt;第178页）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T132610Z" creationid="DSS" creationdate="20200730T095112Z">
+        <seg>&lt;t10/&gt;178)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8818,8 +8818,8 @@
       <tuv lang="en">
         <seg>If you are more interested in workflows and recommendations for producing content than in LwDITA history, this chapter may feel like “inside baseball” accounts of who did what in the DITA technical committee and the Lightweight DITA subcom&lt;t1/&gt;mittee with the Organization for the Advancement of Structured Information Standards.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T090400Z" creationid="DSS" creationdate="20200817T090400Z">
-        <seg>如果相比 LwDITA 的历史，你对工作流和内容写作的建议更感兴趣，那么本章详细描述了结构化信息标准推进组织里的 DITA 技术委员会和轻量级 DITA 小组委员会中的每位成员都做了什么，包括许多不为人知的细节。评价。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T132538Z" creationid="DSS" creationdate="20200817T090400Z">
+        <seg>如果相比 LwDITA 的历史，你对工作流和内容写作的建议更感兴趣，那么本章详细描述了结构化信息标准推进组织里的 DITA 技术委员会和轻量级 DITA 小组委员会中的每位成员都做了什么，包括许多不为人知的细节。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9900,8 +9900,8 @@
       <tuv lang="en">
         <seg>In short, some new users (and particularly those who are not tech writers by trade) do not necessarily need to experience the full extent of DITA capability.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T131358Z" creationid="DSS" creationdate="20200730T131358Z">
-        <seg>简而言之，一些新用户（特别是那些职业不是技术写作人员的用户）不一定需要体验完整版 DITA 的功能。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T132801Z" creationid="DSS" creationdate="20200730T131358Z">
+        <seg>简而言之，一些新用户（特别是那些职业不是技术写作工程师的用户）不一定需要体验完整版 DITA 的功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13161,8 +13161,8 @@
       <tuv lang="en">
         <seg>Rather, I'm suggesting that evolution is a model of change more general than either biology or language, one that applies equally but differently to both” &lt;t8/&gt;(2015, &lt;t9/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095057Z" creationid="DSS" creationdate="20200730T095057Z">
-        <seg>相反，我想说的是，进化是一种变化的模式，比生物学或语言都更加普遍，可以平等地用在生物学或语言身上，但意义又有所不同”&lt;t8/&gt;（&lt;t9/&gt;2015年，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T132547Z" creationid="DSS" creationdate="20200730T095057Z">
+        <seg>相反，我想说的是，进化是一种变化的模式，比生物学或语言都更加普遍，可以平等地用在生物学或语言身上，但意义又有所不同”&lt;t8/&gt; &lt;t8/&gt;(2015, &lt;t9/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16590,8 +16590,8 @@
       <tuv lang="en">
         <seg>The popular John Godfrey Saxe quote, commonly misattributed to Otto von Bismarck, says that “laws, like sausages, cease to inspire respect in proportion as we know how they are made.” Web designer Jeffrey Veen, in his podcast titled &lt;t0/&gt;Presentable&lt;t1/&gt;, added standards to that list (Veen, &lt;t2/&gt;2017).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T123643Z" creationid="DSS" creationdate="20200730T123643Z">
-        <seg>著名的约翰·戈弗雷·萨克森（John Godfrey Saxe）曾说过，“法律就像香肠一样，当我们知道它是如何被制造出来的时候，它就不会再得到人们的尊重了。”这句话通常被误传为奥托·冯·俾斯麦（Otto von Bismarck）所说。网页设计师杰弗里·维恩（Jeffrey Veen）在他名为《得体》（&lt;t0/&gt;Presentable&lt;t1/&gt;）的播客中，将各种标准也加入到节目内容当中（维恩，&lt;t2/&gt;2017年）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T132632Z" creationid="DSS" creationdate="20200730T123643Z">
+        <seg>著名的约翰·戈弗雷·萨克森（John Godfrey Saxe）曾说过，“法律就像香肠一样，当我们知道它是如何被制造出来的时候，它就不会再得到人们的尊重了。”这句话通常被误传为奥托·冯·俾斯麦（Otto von Bismarck）所说。网页设计师杰弗里·维恩（Jeffrey Veen）在他名为《得体》（&lt;t0/&gt;Presentable&lt;t1/&gt;）的播客中，将各种标准也加入到节目内容当中(Veen, &lt;t2/&gt;2017)。</seg>
       </tuv>
     </tu>
     <tu>
