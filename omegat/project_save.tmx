@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(O'Keefe, &lt;t0/&gt;2009, &lt;t1/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T130301Z" creationid="DSS" creationdate="20200902T130301Z">
+        <seg>（O'Keefe, &lt;t0/&gt;2009, &lt;t1/&gt;p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(Priestley, 2012a)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T093136Z" creationid="DSS" creationdate="20200731T093136Z">
@@ -923,8 +931,8 @@
       <tuv lang="en">
         <seg>&lt;t2/&gt;16) &lt;t3/&gt;(&lt;t4/&gt;Figure &lt;t5/&gt;1.2&lt;t6/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T130204Z" creationid="DSS" creationdate="20200726T154233Z">
-        <seg>&lt;t2/&gt;16) &lt;t3/&gt;（&lt;t4/&gt;图&lt;t5/&gt;1.2&lt;t6/&gt;）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T130552Z" creationid="DSS" creationdate="20200726T154233Z">
+        <seg>&lt;t2/&gt;16） &lt;t3/&gt;（&lt;t4/&gt;图&lt;t5/&gt;1.2&lt;t6/&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2796,8 +2804,8 @@
       <tuv lang="en">
         <seg>Additionally, O'Keefe provides a sample XML file that presents a recipe for making marinara sauce.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T155305Z" creationid="DSS" creationdate="20200726T154221Z">
-        <seg>此外，奥基夫提供了一个 XML 文件作为示例，该文件是一份制作意式番茄罗勒酱的食谱。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T130600Z" creationid="DSS" creationdate="20200726T154221Z">
+        <seg>此外，奥基夫提供了一个 XML 文件作为示例，该文件是一份制作意式番茄罗勒酱的菜谱。</seg>
       </tuv>
     </tu>
     <tu>
