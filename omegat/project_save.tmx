@@ -5269,6 +5269,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DITA has grown in popularity and features since its origins as an internal grammar for structuring technical docu&lt;t3/&gt;mentation at IBM. This book introduces Lightweight DITA (LwDITA, which should be read as “Lightweight DITA”) as a proposed version of the DITA standard that reduces its dependence on complex Extensible Markup Language (XML) structures and simplifies its authoring experience.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T124954Z" creationid="DSS" creationdate="20200902T124954Z">
+        <seg>DITA 最初是 IBM 内部用来创建结构化技术文档的语法。后来，DITA 流传越来越广，也拥有了更多特性。本书介绍了轻量级 DITA（LwDITA，即“Lightweight DITA”），拟议的轻量级 DITA 是对 DITA 标准增进版本，它减少了对复杂的可扩展标记语言（XML）结构的依赖，并精简了写作过程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DITA just encoded some existing writing standards within IBM, for topic orientation and information typing.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T150328Z" creationid="lenovo" creationdate="20200804T004742Z">
@@ -5899,6 +5907,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131052Z" creationid="DSS" creationdate="20200731T091818Z">
         <seg>最终，白皮书呼吁将信息映射和 DITA 结合起来，以构建和发布内容。&lt;t8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Evia's core argument is that if technical communicators are trained with prin&lt;t0/&gt;ciples of rhetorical problem solving and computational thinking, they can create structured content in lightweight workflows with XML, HTML5, and Markdown designed to reduce the learning curve associated with DITA and similar authoring methodologies.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T125027Z" creationid="DSS" creationdate="20200902T125027Z">
+        <seg>艾维亚的核心观点是，如果技术传播人员接受过如果解决修辞问题和计算机思维原则的训练，他们就可以使用 XML、HTML5 和 Markdown 在轻量级工作流中创建结构化内容，轻量级工作流旨在降低与 DITA 及类似写作方法相关的内容的学习难度。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -18385,6 +18401,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150013Z" creationid="DSS" creationdate="20200817T041901Z">
         <seg>这种类型的培训主要会增强作者对抽象层级和智能内容解决方案背后的常见论证的理解。&lt;t6/&gt;&lt;t7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This volume aims to reconcile discrepancies and similarities in methods for authoring content in industry and academia and does so by reporting on DITA's evolution through the lens of computational thinking, which has been connected in scholarship and media to initiatives for learning to code and programming.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T125001Z" creationid="DSS" creationdate="20200902T125001Z">
+        <seg>本书旨在通过从计算机思维的角度介绍DITA的发展，调和产业界和学术界在内容创作方法上的差异和相似之处。其中，计算机思维在学术研究和媒体活动中与学习编码和编程的举措息息相关。</seg>
       </tuv>
     </tu>
     <tu>
