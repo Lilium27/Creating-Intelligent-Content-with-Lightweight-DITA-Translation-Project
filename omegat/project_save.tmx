@@ -16390,8 +16390,8 @@
       <tuv lang="en">
         <seg>The main difference from the&lt;t2/&gt; audio-enhanced example is the &lt;t3/&gt;&lt;video-poster&gt; &lt;t4/&gt;component, which provides an optional image for transformations, such as the PDF brochure, that cannot display a video.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T142646Z" creationid="lenovo" creationdate="20200825T142646Z">
-        <seg>与音频增强示例的主要区别是&lt;video-poster&gt;组件，该组件为无法播放视频的文档提供了用以转换的可选图片，如PDF手册等。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T144013Z" creationid="lenovo" creationdate="20200825T142646Z">
+        <seg>与之前添加了音频组件的示例的主要区别在于&lt;video-poster&gt;组件，该组件为无法播放视频的文档提供了用以转换的可选图片，如PDF手册等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18238,8 +18238,8 @@
       <tuv lang="en">
         <seg>This audio-enhanced topic won't make it to the printed brochure for potential franchise owners, but can be included on the company's website.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T144026Z" creationid="lenovo" creationdate="20200825T135548Z">
-        <seg>这个音频加持的主题不会出现在为潜在特许经营人印制的手册上，但可以出现在公司的网站上。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T143827Z" creationid="lenovo" creationdate="20200825T135548Z">
+        <seg>这个添加了音频组件的主题不会出现在为潜在特许经营人印制的手册上，但可以出现在公司的网站上。</seg>
       </tuv>
     </tu>
     <tu>
