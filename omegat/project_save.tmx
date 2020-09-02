@@ -8866,8 +8866,8 @@
       <tuv lang="en">
         <seg>If the promotional brochure were a real deliver&lt;t3/&gt;able, Chef Pedro would not need three versions of the same topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T153703Z" creationid="lenovo" creationdate="20200826T153703Z">
-        <seg>如果促销宣传册是真正可交付的，佩德罗就不需要同一主题的三个版本。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T144426Z" creationid="lenovo" creationdate="20200826T153703Z">
+        <seg>如果促销宣传手册是真正可交付的，佩德罗就不需要为同一主题创建三个版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16197,8 +16197,8 @@
       <tuv lang="en">
         <seg>The examples included in this chapter have featured topics for the &lt;t0/&gt;Sensei Sushi&lt;t1/&gt; brochure created in parallel XDITA, HDITA, and MDITA versions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T153400Z" creationid="lenovo" creationdate="20200826T153400Z">
-        <seg>本章中包含的示例为以分别以XDITA、HDITA和MDITA版本为唤醒寿司手册创建了特色主题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T144359Z" creationid="lenovo" creationdate="20200826T153400Z">
+        <seg>本章中包含的示例分别以XDITA、HDITA和MDITA格式为唤醒寿司手册创建了特色主题。</seg>
       </tuv>
     </tu>
     <tu>
