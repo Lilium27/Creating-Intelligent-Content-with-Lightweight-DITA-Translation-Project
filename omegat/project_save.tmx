@@ -1049,6 +1049,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t2/&gt;The sample milkshake topics that have been evolving in previous layers must be collected in a map in order to produce deliverables for their intended human and algorithmic audiences (see</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T151012Z" creationid="lenovo" creationdate="20200902T151012Z">
+        <seg>&lt;t2/&gt;必须将先前各层中不断演化的奶昔示例主题收集在映射中，才能为其预期的人类和算法受众提供可交付成果 (see</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t2/&gt;This highly structured task topic reads like a smoothie that came out of a blender combining generic, organizational, and disciplinary conven&lt;t3/&gt;tions and commonplaces from Carroll, Price, and Hargis and her co-authors, and others who attempted to capture the essence of technical documentation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T062030Z" creationid="lenovo" creationdate="20200811T130951Z">
@@ -6787,6 +6795,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T150523Z" creationid="lenovo" creationdate="20200902T150523Z">
         <seg>图 &lt;t0/&gt;8.11 &lt;t1/&gt;HDITA语法下带提示组件的奶昔配方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;8.12 &lt;t1/&gt;Milkshake recipe in MDITA extended profile syntax with the note&lt;t2/&gt; component.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T151111Z" creationid="lenovo" creationdate="20200902T151111Z">
+        <seg>图 &lt;t0/&gt;8.12 &lt;t1/&gt;MDITA扩展配置文件语法下带提示组件的奶昔配方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;8.14 &lt;t1/&gt;HDITA version of the root beer float recipe with a content reference.&lt;t2/&gt; The conref links to the source note in the milkshake recipe.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T151035Z" creationid="lenovo" creationdate="20200902T151035Z">
+        <seg>图 &lt;t0/&gt;8.14 &lt;t1/&gt;&lt;t2/&gt; The conref links to the source note in the milkshake recipe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15893,6 +15917,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T132910Z" creationid="lenovo" creationdate="20200902T132910Z">
         <seg>conref是一个相关属性，它允许作者将内容从一个主题带入另一个主题（无需复制和粘贴）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The conref is represented with a raw block of HDITA code.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T151133Z" creationid="lenovo" creationdate="20200902T151133Z">
+        <seg>conref用一个原始的HDITA代码块表示。</seg>
       </tuv>
     </tu>
     <tu>
