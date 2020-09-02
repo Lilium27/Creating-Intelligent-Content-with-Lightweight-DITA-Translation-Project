@@ -519,6 +519,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t1/&gt;In this section, we will look at an XDITA map that includes the milkshake recipe in a collection of topics that also includes recipes for a root beer float and a banana split.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T151251Z" creationid="lenovo" creationdate="20200902T151251Z">
+        <seg>&lt;t1/&gt;在本节中，我们将查看XDITA映射，其中包含一系列主题，如奶昔配方，生啤酒浮法配方和香蕉片的配方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t1/&gt;Layer &lt;t2/&gt;5 &lt;t3/&gt;addresses the processing tasks that will populate the content placeholders with the value established in the defining keys.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T124959Z" creationid="lenovo" creationdate="20200901T124959Z">
@@ -1965,6 +1973,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T141024Z">
         <seg>图&lt;t7/&gt;6.9&lt;t8/&gt; 展示了根据 MDITA 核心规定编写的介绍特许经营权的主题，其标题使用&lt;t9/&gt; atx&lt;t10/&gt; 语法格式编写。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t7/&gt;Figure &lt;t8/&gt;8.16&lt;t9/&gt; &lt;t10/&gt;shows a sample XDITA map for the Soda Fountain Operator Manual.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T151610Z" creationid="lenovo" creationdate="20200902T151507Z">
+        <seg>&lt;t7/&gt;图 &lt;t8/&gt;8.16&lt;t9/&gt; &lt;t10/&gt;显示了为《“汽水喷泉”操作员手册》制作的XDITA映射示例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6807,10 +6823,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;8.13 &lt;t1/&gt;XDITA version of the root beer float recipe with a content reference.&lt;t2/&gt; The conref links to the source note in the milkshake recipe.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T151634Z" creationid="lenovo" creationdate="20200902T151602Z">
+        <seg>图 &lt;t0/&gt;8.13 &lt;t1/&gt;XDITA版本带内容参考的生啤酒浮法配方&lt;t2/&gt;conref链接到奶昔配方中的源说明。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;8.14 &lt;t1/&gt;HDITA version of the root beer float recipe with a content reference.&lt;t2/&gt; The conref links to the source note in the milkshake recipe.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T151035Z" creationid="lenovo" creationdate="20200902T151035Z">
-        <seg>图 &lt;t0/&gt;8.14 &lt;t1/&gt;&lt;t2/&gt; The conref links to the source note in the milkshake recipe.</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T151723Z" creationid="lenovo" creationdate="20200902T151035Z">
+        <seg>图 &lt;t0/&gt;8.14 &lt;t1/&gt;&lt;t2/&gt; HDITA版本带内容参考的生啤酒浮法配方。&lt;t2/&gt;conref链接到奶昔配方中的源说明。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12458,6 +12482,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note the syntax of &lt;t3/&gt;filename#topic-id/element-id&lt;t4/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T151645Z" creationid="lenovo" creationdate="20200902T151645Z">
+        <seg>注意语法&lt;t3/&gt;filename#topic-id/element-id&lt;t4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note&lt;t0/&gt;: information that expands on or calls attention to a particular point.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T131233Z" creationid="DSS" creationdate="20200804T131233Z">
@@ -15561,6 +15593,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The XDITA map in &lt;t0/&gt;Figure &lt;t1/&gt;8.16&lt;t2/&gt; &lt;t3/&gt;includes references (&lt;t4/&gt;&lt;topicref&gt;&lt;t5/&gt;) to the three hypothetical recipes in the manual.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T151840Z" creationid="lenovo" creationdate="20200902T151840Z">
+        <seg>图8.16中的XDITA映射包括对手册中三个假设配方的引用（&lt;topicref&gt;）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The XDITA recipe, which can be saved as &lt;t0/&gt;milkshake.dita&lt;t1/&gt;, has a list item on the ordered list labeled “steps” that instructs the operator to combine all ingre&lt;t2/&gt;dients in a blender.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T143716Z" creationid="lenovo" creationdate="20200901T143716Z">
@@ -16624,6 +16664,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T040051Z" creationid="DSS" creationdate="20200808T040051Z">
         <seg>创建&lt;t0/&gt; Sensei Sushi &lt;t1/&gt;手册的地图也可以使用 MDITA 格式语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The map in the following example not only works as a collection mechanism for topics, it also provides the defining key for the &lt;t4/&gt;“icecream-flavor” &lt;t5/&gt;content variable created in layer &lt;t6/&gt;2.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T151417Z" creationid="lenovo" creationdate="20200902T151417Z">
+        <seg>在下面的示例中，该图不仅充当主题的收集机制，而且还为在第2层中创建的“冰淇淋口味”内容变量提供了定义键。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18656,6 +18704,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T162256Z" creationid="DSS" creationdate="20200821T162256Z">
         <seg>XML 标记和操作数据的功能是创建智能内容的核心。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This map can be combined with the topics developed in earlier layers and advance to layer &lt;t2/&gt;5, &lt;t3/&gt;where it will be processed by a LwDITA-aware tool and generate information products for the soda fountain operators.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T151356Z" creationid="lenovo" creationdate="20200902T151356Z">
+        <seg>可以将此映射与在前些层中开发的主题进行组合，并推进到第5层使用支持LwDITA的工具对其进行处理，为“汽水喷泉”喷泉操作员生成信息产品。</seg>
       </tuv>
     </tu>
     <tu>
