@@ -22,14 +22,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>(Hackos, &lt;t0/&gt;2016, &lt;t1/&gt;p.</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T124859Z" creationid="DSS" creationdate="20200726T093817Z">
-        <seg>（哈克斯，&lt;t0/&gt;2016 &lt;t1/&gt;年，第</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>(Horn et al., 1969, p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T084920Z" creationid="DSS" creationdate="20200731T084920Z">
@@ -74,14 +66,6 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T145138Z" creationid="DSS" creationdate="20200821T145138Z">
         <seg>(Priestley, personal communication, &lt;t0/&gt;2017, &lt;t1/&gt;November &lt;t2/&gt;21)。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>(Priestley, quoted in Etheridge, &lt;t0/&gt;2016)</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150749Z" creationid="DSS" creationdate="20200726T083909Z">
-        <seg>（普里斯特利，引自埃瑟里奇，&lt;t0/&gt;2016年）</seg>
       </tuv>
     </tu>
     <tu>
@@ -933,14 +917,6 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T130552Z" creationid="DSS" creationdate="20200726T154233Z">
         <seg>&lt;t2/&gt;16） &lt;t3/&gt;（&lt;t4/&gt;图&lt;t5/&gt;1.2&lt;t6/&gt;）。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>&lt;t2/&gt;29)</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T151048Z" creationid="DSS" creationdate="20200726T094329Z">
-        <seg>&lt;t2/&gt;29页）</seg>
       </tuv>
     </tu>
     <tu>
@@ -8626,8 +8602,8 @@
       <tuv lang="en">
         <seg>If XML and DITA are still seen as new tools by academics when some practitioners are already labeling them as arcane, then we are just writing a new chapter in the documented gap between research and practice in the field (Andersen, &lt;t7/&gt;2013; &lt;t8/&gt;Rude, &lt;t9/&gt;2015; &lt;t10/&gt;Lauren &lt;t11/&gt;&amp; &lt;t12/&gt;Pigg, &lt;t13/&gt;2016, &lt;t14/&gt;and others).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150905Z" creationid="DSS" creationdate="20200726T091834Z">
-        <seg>如果当从业者已经认为 DITA 和 XML 是过于复杂的技术之时，学术界仍将其视为新工具，那么我们是为技术传播研究和技术传播实践之间的文档差距写下了新的篇章（安德森，&lt;t7/&gt;2013&lt;t8/&gt;年；路德，&lt;t9/&gt;2015&lt;t10/&gt;年；劳伦&lt;t11/&gt;和&lt;t12/&gt;皮格，&lt;t13/&gt;2016&lt;t14/&gt;年等）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T131947Z" creationid="DSS" creationdate="20200726T091834Z">
+        <seg>如果当从业者已经认为 DITA 和 XML 是过于复杂的技术之时，学术界仍将其视为新工具，那么我们是为技术传播研究和技术传播实践之间的文档差距写下了新的篇章(Andersen, &lt;t7/&gt;2013; &lt;t8/&gt;Rude, &lt;t9/&gt;2015; &lt;t10/&gt;Lauren &lt;t11/&gt;&amp; &lt;t12/&gt;Pigg, &lt;t13/&gt;2016, &lt;t14/&gt;and others)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13137,8 +13113,8 @@
       <tuv lang="en">
         <seg>Publications from the 2000s heralded that “technical communicators will probably face a day when all organizational documents are saved in XML for&lt;t11/&gt;mat” (Sapienza, &lt;t12/&gt;2002, &lt;t13/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130731Z" creationid="DSS" creationdate="20200723T160501Z">
-        <seg>2000年代的出版物就预言 “技术传播工程师可能会迎来所有组织性的文档都保存在 XML 里的一天”（萨皮恩扎， &lt;t11/&gt;&lt;t12/&gt;2002年，&lt;t13/&gt;第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T132141Z" creationid="DSS" creationdate="20200723T160501Z">
+        <seg>2000年代的出版物就预言 “技术传播工程师可能会迎来所有组织性的文档都保存在 XML 里的一天”(Sapienza, &lt;t12/&gt;2002, &lt;t13/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17878,8 +17854,8 @@
       <tuv lang="en">
         <seg>Therefore, this is unequivocally a book about DITA, but it is not a detailed introduction and how-to to the widely adopted XML-based DITA standard (for comprehensive introductory texts to DITA XML, see Hackos, &lt;t3/&gt;2011; &lt;t4/&gt;Bellamy et al., &lt;t5/&gt;2012).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T151057Z" creationid="DSS" creationdate="20200726T135202Z">
-        <seg>因此毫无疑问，本书是一本关于 DITA 的书，但是书中没有详细介绍被广泛使用的基于 XML 的 DITA 标准（全面介绍 DITA XML 的文章，请参阅哈克斯，&lt;t3/&gt;2011&lt;t4/&gt;年；&lt;t5/&gt;贝拉米等，2012年）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T132124Z" creationid="DSS" creationdate="20200726T135202Z">
+        <seg>因此毫无疑问，本书是一本关于 DITA 的书，但是书中没有详细介绍被广泛使用的基于 XML 的 DITA 标准（全面介绍 DITA XML 的文章，请参阅 Hackos, &lt;t3/&gt;2011; &lt;t4/&gt;Bellamy et al., &lt;t5/&gt;2012）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18598,8 +18574,8 @@
       <tuv lang="en">
         <seg>Those concerns and doubts revolve around a major point of discrepancy in the world of technical communication: in industry, XML and DITA are widely used and some critics even see them as outdated and complex; in academia, “faculty are simply ignoring the subject, even though it has played a central role in the practitioner literature” (Clark, &lt;t2/&gt;2016, &lt;t3/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T151140Z" creationid="DSS" creationdate="20200726T085141Z">
-        <seg>这些担忧和怀疑围绕着技术传播领域的一个主要差异点而存在：在产业界，XML 和 DITA 被广泛使用，一些批评者甚至认为它们过于复杂，并且已经过时；而在学术界，“尽管 DITA 在从业者编写的文档中扮演着核心角色，教师们却完全忽视了它”（克拉克，&lt;&lt;t2/&gt;2016年，&lt;t3/&gt;第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T131923Z" creationid="DSS" creationdate="20200726T085141Z">
+        <seg>这些担忧和怀疑围绕着技术传播领域的一个主要差异点而存在：在产业界，XML 和 DITA 被广泛使用，一些批评者甚至认为它们过于复杂，并且已经过时；而在学术界，“尽管 DITA 在从业者编写的文档中扮演着核心角色，教师们却完全忽视了它”(Clark, &lt;t2/&gt;2016, &lt;t3/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19201,8 +19177,8 @@
       <tuv lang="en">
         <seg>Using the DITA-OT, which I will cover in more detail in &lt;t7/&gt;Chapters &lt;t8/&gt;5 &lt;t9/&gt;and &lt;t10/&gt;6&lt;t11/&gt;, &lt;t12/&gt;I transformed</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150312Z" creationid="DSS" creationdate="20200725T153832Z">
-        <seg>使用 DITA-OT（将在&lt;t7/&gt;第&lt;t8/&gt;5 &lt;t9/&gt;章和第&lt;t10/&gt;6&lt;t11/&gt;&lt;t12/&gt;章详细介绍），我将地图转换成了</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T131904Z" creationid="DSS" creationdate="20200725T153832Z">
+        <seg>使用 DITA-OT（将在&lt;t7/&gt;第&lt;t8/&gt;五&lt;t9/&gt;章和第&lt;t10/&gt;六&lt;t11/&gt;&lt;t12/&gt;章详细介绍），我将地图转换成了</seg>
       </tuv>
     </tu>
     <tu>
