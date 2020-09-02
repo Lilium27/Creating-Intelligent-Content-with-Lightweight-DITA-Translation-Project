@@ -46,14 +46,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>(O'Keefe, &lt;t0/&gt;2009, &lt;t1/&gt;p.</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143936Z" creationid="DSS" creationdate="20200726T154121Z">
-        <seg>（奥基夫，&lt;t0/&gt;2009年，&lt;t1/&gt;第</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>(Priestley, 2012a)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T093136Z" creationid="DSS" creationdate="20200731T093136Z">
@@ -240,8 +232,8 @@
       <tuv lang="en">
         <seg>354).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T152947Z" creationid="DSS" creationdate="20200726T152947Z">
-        <seg>354页）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T130004Z" creationid="DSS" creationdate="20200726T152947Z">
+        <seg>354)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -921,34 +913,18 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>&lt;t2/&gt;14):</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143840Z" creationid="DSS" creationdate="20200726T153602Z">
-        <seg>&lt;t2/&gt;14页）:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>&lt;t2/&gt;15)</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143953Z" creationid="DSS" creationdate="20200726T154132Z">
-        <seg>&lt;t2/&gt;15页）</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>&lt;t2/&gt;15).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143916Z" creationid="DSS" creationdate="20200726T154024Z">
-        <seg>&lt;t2/&gt;15页）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T130107Z" creationid="DSS" creationdate="20200726T154024Z">
+        <seg>&lt;t2/&gt;15)。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;t2/&gt;16) &lt;t3/&gt;(&lt;t4/&gt;Figure &lt;t5/&gt;1.2&lt;t6/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144018Z" creationid="DSS" creationdate="20200726T154233Z">
-        <seg>&lt;t2/&gt;16页）&lt;t3/&gt;（&lt;t4/&gt;图&lt;t5/&gt;1.2&lt;t6/&gt;）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T130204Z" creationid="DSS" creationdate="20200726T154233Z">
+        <seg>&lt;t2/&gt;16) &lt;t3/&gt;（&lt;t4/&gt;图&lt;t5/&gt;1.2&lt;t6/&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2348,8 +2324,8 @@
       <tuv lang="en">
         <seg>A chef might not be familiar with scholarship in writing studies, but authors like Karl Stolley, in his influential “The Lo-Fi Manifesto,” have argued for the adoption of open standards over software packages, identifying it as the only way to ensure that “digital works should long outlast the software that played a role in their creation” (Stolley, &lt;t0/&gt;2008).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143852Z" creationid="DSS" creationdate="20200726T153939Z">
-        <seg>厨师可能不太认识研究写作的学者，但卡尔·斯多利等作者在其颇具影响的文章《低保真宣言》（The Lo-Fi Manifesto）中主张在软件包中采用开放标准，并认为这是唯一可以确保“在数字作品的创作过程中，使数字作品比软件流传更加久远”的方法（斯多利，&lt;t0/&gt;2008年）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T130046Z" creationid="DSS" creationdate="20200726T153939Z">
+        <seg>厨师可能不太认识研究写作的学者，但卡尔·斯多利等作者在其颇具影响的文章《低保真宣言》（The Lo-Fi Manifesto）中主张在软件包中采用开放标准，并认为这是唯一可以确保“在数字作品的创作过程中，使数字作品比软件流传更加久远”的方法(Stolley, &lt;t0/&gt;2008)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7515,8 +7491,8 @@
       <tuv lang="en">
         <seg>From the practitioner side of technical communication, O'Keefe points out that XML “defines a standard for storing structured content in text files” &lt;t0/&gt;(2009, &lt;t1/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143908Z" creationid="DSS" creationdate="20200726T154021Z">
-        <seg>从技术传播的从业者的角度来看，奥基夫指出 XML “定义了在文本文件中存储结构化内容的标准”&lt;t0/&gt;（2009年，&lt;t1/&gt;第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T130055Z" creationid="DSS" creationdate="20200726T154021Z">
+        <seg>从技术传播的从业者的角度来看，奥基夫指出 XML “定义了在文本文件中存储结构化内容的标准”&lt;t0/&gt;(2009, &lt;t1/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10501,8 +10477,8 @@
       <tuv lang="en">
         <seg>Instead, authors define their own tags and their relationships.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154118Z" creationid="DSS" creationdate="20200726T154118Z">
-        <seg>相反，作者可以自行定义标签及其关系。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T130134Z" creationid="DSS" creationdate="20200726T154118Z">
+        <seg>相反，写作者可以自行定义标签及其关系。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18191,8 +18167,8 @@
       <tuv lang="en">
         <seg>This chapter presents an overview of the evolution of DITA &lt;t0/&gt;- &lt;t1/&gt;an XML-based “end-to-end architecture for creating and delivering modular technical information” (Priestley et al., 2001, p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T115759Z" creationid="DSS" creationdate="20200726T152940Z">
-        <seg>本章概述了 DITA 的发展&lt;t0/&gt;-——&lt;t1/&gt;一种基于 XML 的“用于创建和交付模块化技术信息的端到端体系结构”（普里斯特利等人，2001年，第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T125943Z" creationid="DSS" creationdate="20200726T152940Z">
+        <seg>本章概述了 DITA 的发展&lt;t0/&gt;-——&lt;t1/&gt;一种基于 XML 的“用于创建和交付模块化技术信息的端到端体系结构”(Priestley et al., 2001, p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18767,8 +18743,8 @@
       <tuv lang="en">
         <seg>To create information deliverables ready for human consumption, XML files need to go through a process of publishing that, according to O'Keefe, can involve the following roles, which “in a small group, one person may hold any or all” &lt;t0/&gt;(2009, &lt;t1/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T143833Z" creationid="DSS" creationdate="20200726T153553Z">
-        <seg>要创建可供人类使用的可交付成果，XML 文件需要经过一个发布流程。根据奥基夫（O'Keefe）的观点，这个发布流程可能涉及以下角色，“而在一个小团队中，一个人可能会承担部分或所有角色”&lt;t0/&gt;（2009年，&lt;t1/&gt;第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T130037Z" creationid="DSS" creationdate="20200726T153553Z">
+        <seg>要创建可供人类使用的可交付成果，XML 文件需要经过一个发布流程。根据奥基夫（O'Keefe）的观点，这个发布流程可能涉及以下角色，“而在一个小团队中，一个人可能会承担部分或所有角色” &lt;t0/&gt;(2009, &lt;t1/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
