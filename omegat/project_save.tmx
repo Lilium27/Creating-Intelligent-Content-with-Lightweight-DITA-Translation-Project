@@ -6824,6 +6824,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;8.9 &lt;t1/&gt;MDITA version of the milkshake recipe with two possible values for a&lt;t2/&gt; setting condition.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T131325Z" creationid="lenovo" creationdate="20200902T131325Z">
+        <seg>图 &lt;t0/&gt;8.9 &lt;t1/&gt;MDITA版本的奶昔配方，具有两个可能的设置条件值。。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FOREWORD</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T122921Z" creationid="DSS" creationdate="20200820T122921Z">
