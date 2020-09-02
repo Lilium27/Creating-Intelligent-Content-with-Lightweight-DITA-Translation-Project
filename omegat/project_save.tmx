@@ -6376,8 +6376,8 @@
       <tuv lang="en">
         <seg>FIGURE 8.7 &lt;t0/&gt;HDITA version of the milkshake recipe with two possible values for&lt;t1/&gt; a setting condition, which are specified with the HTML5 custom data attribute &lt;t2/&gt;@data-props&lt;t3/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T130025Z" creationid="lenovo" creationdate="20200902T130025Z">
-        <seg>图 8.7 &lt;t0/奶昔配方的HDITA版本，同一情形有两个可能的值，由HTML5自定义数据属性@data-props指定。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T131440Z" creationid="lenovo" creationdate="20200902T130025Z">
+        <seg>图 8.7 &lt;t0/HDITA版本的奶昔配方，具有两个可能的设置条件值，由HTML5自定义数据属性@data-props指定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6817,8 +6817,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;8.9 &lt;t1/&gt;MDITA version of the milkshake recipe with two possible values for a&lt;t2/&gt; setting condition.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T131325Z" creationid="lenovo" creationdate="20200902T131325Z">
-        <seg>图 &lt;t0/&gt;8.9 &lt;t1/&gt;MDITA版本的奶昔配方，具有两个可能的设置条件值。。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T131606Z" creationid="lenovo" creationdate="20200902T131325Z">
+        <seg>图 &lt;t0/&gt;8.9 &lt;t1/&gt;MDITA版本的奶昔配方，具有两个可能的设置条件值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18888,6 +18888,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T142304Z" creationid="lenovo" creationdate="20200827T142304Z">
         <seg>为了使文件能够转换成有效HTML5格式，每个主题引用的格式属性为@type, MDITA中值为“text/markdown”，HDITA中值为“text/html”，XDITA中值为“text/xml”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To overcome Markdown's limitations as a language for structuring content, the conditional properties are expressed with HDITA code snippets.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T131654Z" creationid="lenovo" creationdate="20200902T131654Z">
+        <seg>为了克服作为结构内容的语言的Markdown的局限性，条件属性用HDITA代码片段表示。</seg>
       </tuv>
     </tu>
     <tu>
