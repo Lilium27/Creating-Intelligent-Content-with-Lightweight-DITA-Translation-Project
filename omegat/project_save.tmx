@@ -22,14 +22,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>(Horn et al., 1969, p.</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T084920Z" creationid="DSS" creationdate="20200731T084920Z">
-        <seg>（霍恩等，1969年，第</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>(LimitedDitaProfile, &lt;t0/&gt;2011)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T154523Z" creationid="DSS" creationdate="20200731T072502Z">
@@ -186,14 +178,6 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T164322Z" creationid="DSS" creationdate="20200812T164322Z">
         <seg>243)。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>3)</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T084924Z" creationid="DSS" creationdate="20200731T084924Z">
-        <seg>3页）</seg>
       </tuv>
     </tu>
     <tu>
@@ -827,8 +811,8 @@
       <tuv lang="en">
         <seg>&lt;t14/&gt;156) &lt;t15/&gt;and argued that “technical communicators should be able to write, edit, and manage XML documentation, including XML tags, &lt;t16/&gt;document type definitions (DTDs), XML schemas, and Darwin Information Typing Architecture (DITA)” (Gesteland McShane, &lt;t17/&gt;2009, &lt;t18/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T125710Z" creationid="DSS" creationdate="20200723T161903Z">
-        <seg>&lt;t14/&gt;156页）&lt;t15/&gt;，并认为“技术传播工程师应该具备编写、校订和管理XML文档的能力，这包括 XML 标记，&lt;t16/&gt;文档类型定义（DTD），XML 体系结构和 DITA”(Gesteland McShane, &lt;t17/&gt;2009, &lt;t18/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T132159Z" creationid="DSS" creationdate="20200723T161903Z">
+        <seg>&lt;t14/&gt;156)&lt;t15/&gt;，并认为“技术传播工程师应该具备编写、校订和管理XML文档的能力，这包括 XML 标记，&lt;t16/&gt;文档类型定义（DTD），XML 体系结构和 DITA”(Gesteland McShane, &lt;t17/&gt;2009, &lt;t18/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1563,8 +1547,8 @@
       <tuv lang="en">
         <seg>&lt;t4/&gt;6).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T144229Z" creationid="DSS" creationdate="20200726T154855Z">
-        <seg>&lt;t4/&gt;6页）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T132245Z" creationid="DSS" creationdate="20200726T154855Z">
+        <seg>&lt;t4/&gt;6)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5327,8 +5311,8 @@
       <tuv lang="en">
         <seg>DITA, however, “has evolved substantially since that initial donation to encompass a very wide scope of require&lt;t1/&gt;ments indeed” (Kimber, &lt;t2/&gt;2012, &lt;t3/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130748Z" creationid="DSS" creationdate="20200726T154851Z">
-        <seg>不过 DITA “自捐赠后，已经有了很大的发展，涵盖了非常广泛的需求”（金柏，&lt;t1/&gt;&lt;t2/&gt;2012&lt;t3/&gt;年，第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T132211Z" creationid="DSS" creationdate="20200726T154851Z">
+        <seg>不过 DITA “自捐赠后，已经有了很大的发展，涵盖了非常广泛的需求”(Kimber, &lt;t2/&gt;2012, &lt;t3/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17334,8 +17318,8 @@
       <tuv lang="en">
         <seg>The topic has commonly-used HTML5 elements like headings and lists, but an additional benefit of HDITA is that topics authored in this LwDITA format do not require a transformation process to generate a publishable outcome (&lt;t0/&gt;Figure &lt;t1/&gt;1.10)&lt;t2/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T055457Z">
-        <seg>这个主题有一些常用的 HTML5 元素，比如标题和列表，但是 HDITA 的另一个好处是，用 HTML5 格式编写的主题不需要转换生成可发布的结果 (&lt;t0/&gt;Figure &lt;t1/&gt;1.10)&lt;t2/&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T132509Z" creationid="DSS" creationdate="20200817T055457Z">
+        <seg>这个主题有一些常用的 HTML5 元素，比如标题和列表，但是 HDITA 的另一个好处是，用 HTML5 格式编写的主题不需要转换生成可发布的结果 (&lt;t0/&gt;图 &lt;t1/&gt;1.10)&lt;t2/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
