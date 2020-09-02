@@ -7250,8 +7250,8 @@
       <tuv lang="en">
         <seg>For example, let's pretend that the LwDITA topic with the milkshake recipe includes a note component, with the type of warning, that tells the operator to unplug the blender after each use to prevent a fire hazard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T133433Z" creationid="lenovo" creationdate="20200902T133042Z">
-        <seg>例如，我们假设带有奶昔配方的LwDITA主题包含一个带有警告类型的注释组件，该警告组件告诉操作员每次使用后都要拔下搅拌机的插头，以防止发生火灾。 </seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T133547Z" creationid="lenovo" creationdate="20200902T133042Z">
+        <seg>例如，我们假设带有奶昔配方的LwDITA主题包含一个带有警告类型的提示组件，该警告组件告诉操作员每次使用后都要拔下搅拌机的插头，以防止发生火灾。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -8084,6 +8084,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T115511Z" creationid="DSS" creationdate="20200811T115511Z">
         <seg>然而，最近的方法都着眼于特定学科的应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, some of them required changes to many other MDITA components or allowed con&lt;t0/&gt;tent exchange exclusively among Markdown files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T134001Z" creationid="lenovo" creationdate="20200902T134001Z">
+        <seg>但是，其中一些要求更改许多其他的MDITA组件，或者仅允许在Markdown文件之间交换内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9206,6 +9214,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T141502Z">
         <seg>在 HDITA 和 MDITA 主题中，可选的简短描述组件隐含在内容的第一个段落中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In HDITA syntax, the revised milkshake recipe would look like &lt;t0/&gt;Figure &lt;t1/&gt;8.11&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T133722Z" creationid="lenovo" creationdate="20200902T133722Z">
+        <seg>用HDITA语法，修改后的奶昔配方如图8.11所示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10486,6 +10502,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T075259Z" creationid="DSS" creationdate="20200816T141942Z">
         <seg>在正文组件中，最常用来表示短小内容块的单元是段落（&lt;t0/&gt;&lt;t1/&gt;&lt;p&gt;&lt;t2/&gt;）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Instead of copying and pasting the note's content, an author can use a conref to link the topics.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T133616Z" creationid="lenovo" creationdate="20200902T133517Z">
+        <seg>作者可以使用conref链接主题，而不必复制和粘贴提示的内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14576,6 +14600,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That note should be presented in every recipe produced by the soda fountain.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T133556Z" creationid="lenovo" creationdate="20200902T133454Z">
+        <seg>该提示应出现在“汽水喷泉”产生的每个配方中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That one-line command combines the map with the topics, processing the hierarchies and relationships established by the topic</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200806T115801Z">
@@ -15141,6 +15173,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T155804Z" creationid="DSS" creationdate="20200802T155804Z">
         <seg>轻量级 DITA 小组委员会</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Lightweight DITA subcommittee at OASIS evaluated several approaches for including content references natively in Markdown syntax.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T133916Z" creationid="lenovo" creationdate="20200902T133916Z">
+        <seg>OASIS的轻量级DITA小组委员会评估了几种以Markdown语法原生包含内容引用的方法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16448,6 +16488,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T133625Z" creationid="lenovo" creationdate="20200901T133625Z">
         <seg>在MDITA扩展配置文件中编写的奶昔配方，带有GFM快捷方式参考链接，将内容占位符设置为“ icecream-flavor”，如图8.4所示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The milkshake topic, then, becomes the source for the conref, and in XDITA syntax it would look like &lt;t0/&gt;Figure &lt;t1/&gt;8.10&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T133706Z" creationid="lenovo" creationdate="20200902T133706Z">
+        <seg>奶昔主题就成为conref的来源，在XDITA语法中如图8.10所示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17912,6 +17960,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T135841Z" creationid="DSS" creationdate="20200816T134058Z">
         <seg>因此，为了在以后链接和复用文件，&lt;t8/&gt;&lt;t9/&gt; &lt;t10/&gt;franchise-intro.md&lt;t11/&gt;文件的@id会自动设置为&lt;t12/&gt; franchise-intro&lt;t13/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Therefore, there is no direct way to express a conref in MDITA core profile, and if authors want to take advantage of this reuse mechanism they would need to include a raw HDITA code snippet in an MDITA extended profile topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T134029Z" creationid="lenovo" creationdate="20200902T134029Z">
+        <seg>因此，没有直接的方法可以在MDITA核心配置文件中表达conref，并且如果作者希望利用这种复用机制，他们将需要在MDITA扩展配置文件主题中包含原始的HDITA代码片段。</seg>
       </tuv>
     </tu>
     <tu>
