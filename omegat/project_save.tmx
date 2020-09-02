@@ -15761,6 +15761,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The author can save this file as &lt;t6/&gt;fountain.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T151855Z" creationid="lenovo" creationdate="20200902T151855Z">
+        <seg>作者可以将该文件另存为Fountain.ditamap。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The author can save this recipe as &lt;t11/&gt;milkshake.html&lt;t12/&gt;, and the resulting file can be viewed in a web browser, but the recipe won't make sense for end users because the content variable for “icecream-flavor” is not established in this layer of abstraction (&lt;t13/&gt;Figure &lt;t14/&gt;8.3&lt;t15/&gt;).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T132031Z" creationid="lenovo" creationdate="20200901T132031Z">
@@ -20556,6 +20564,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T131859Z" creationid="lenovo" creationdate="20200901T131859Z">
         <seg>主要区别在于保留可变内容的元素（在HDITA中为&lt;span&gt;，而在XDITA中为&lt;ph&gt;），该属性将占位符“ icecream-flavor”设置为在更高级的图层中确定风味（ HDITA中为@ data-keyref，而XDITA中为@keyref）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ditamap&lt;t7/&gt;, and in layer &lt;t8/&gt;5 &lt;t9/&gt;a machine processor will parse the map and referenced topics in XDITA, HDITA, and MDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T153001Z" creationid="lenovo" creationdate="20200902T153001Z">
+        <seg>在第5层中，机器处理器将解析XDITA，HDITA和MDITA中的映射 和参考主题。</seg>
       </tuv>
     </tu>
     <tu>
