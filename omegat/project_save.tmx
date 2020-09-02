@@ -4908,8 +4908,8 @@
       <tuv lang="en">
         <seg>Computational thinking (CT) has been connected in scholarship and media to initiatives for learning to code and programming.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T034548Z" creationid="DSS" creationdate="20200817T034548Z">
-        <seg>在学术界和媒体界一提到计算思维（CT），就会联想到编程学习。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T123710Z" creationid="DSS" creationdate="20200817T034548Z">
+        <seg>在学术研究和媒体活动一提到计算思维（CT），就会联想到编程学习。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10125,8 +10125,8 @@
       <tuv lang="en">
         <seg>In the “Technical Writing” column, edited by Diana Patterson (she of the prestigious ACM SIGDOC Diana Award), Larry Wygant, of CAPONE &lt;t5/&gt;- &lt;t6/&gt;Chicago Area Programmers of Novas and Eclipses, rec&lt;t7/&gt;ommended some sections for user manuals aimed at attracting the attention of a reader, who was expected to be male in the “highly selective environment” of old computing described by John Carroll earlier in this chapter.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T155851Z" creationid="lenovo" creationdate="20200808T030007Z">
-        <seg>“技术写作”专栏中，来自 Novas and Eclipses 芝加哥程序员协会的编辑戴安娜·帕特森（Diana Patterson，著名的计算机协会计算机文档戴安娜奖的创始人）和拉里·怀甘特（Larry Wygant）为用户手册的一些章节做了注释以吸引读者的注意，这里的读者指的是约翰·卡罗尔在本章先前部分描述的旧计算时代“苛刻就业环境下”的男性。&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T122259Z" creationid="lenovo" creationdate="20200808T030007Z">
+        <seg>《技术写作》专栏中，来自 Novas and Eclipses 芝加哥程序员协会的编辑戴安娜·帕特森（Diana Patterson，著名的计算机协会计算机文档戴安娜奖的创始人）和拉里·怀甘特（Larry Wygant）为用户手册的一些章节做了注释以吸引读者的注意，这里的读者指的是约翰·卡罗尔在本章先前部分描述的旧计算时代“苛刻就业环境下”的男性。&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19386,8 +19386,8 @@
       <tuv lang="en">
         <seg>Whereas XDITA and MDITA were designed to be functionally equivalent to each other, MDITA was created as a compatible subset that allows authors to represent basic DITA-like components in Markdown syntax.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T130910Z" creationid="lenovo" creationdate="20200813T091349Z">
-        <seg>虽然XDITA和MDITA被设计为功能对等的，但MDITA是作为一个兼容子集创建的，它允许作者用Markdown语法表示类似于DITA的基础组件。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T124204Z" creationid="lenovo" creationdate="20200813T091349Z">
+        <seg>虽然XDITA和MDITA功能对等，但MDITA是作为一个兼容子集创建的，它允许作者用Markdown语法表示类似于DITA的基础组件。 </seg>
       </tuv>
     </tu>
     <tu>
