@@ -15187,8 +15187,8 @@
       <tuv lang="en">
         <seg>The &lt;t2/&gt;@format &lt;t3/&gt;attribute inside each topic reference (&lt;t4/&gt;&lt;topicref&gt;&lt;t5/&gt;) instructs the processor on how to treat each file linked from the map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T135213Z" creationid="lenovo" creationdate="20200827T135213Z">
-        <seg>每个主题引用中的@format属性(&lt;topicref&gt;)指示处理程序如何处理来自映射的每个文件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T132639Z" creationid="lenovo" creationdate="20200827T135213Z">
+        <seg>每个主题引用中的@format属性(&lt;topicref&gt;)指导处理程序如何处理来自映射地图的每个文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18006,8 +18006,8 @@
       <tuv lang="en">
         <seg>The topic reference components include attributes for format (in bold font), which take the value (“xdita”, “hdita”, or “mdita”) corresponding to each file's authoring language.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T140606Z" creationid="lenovo" creationdate="20200827T140606Z">
-        <seg>主题引用组件包括格式属性(粗体)，根据文件的创作语言它会取不同的值(“xdita”、“hdita”或“mdita”)。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T132907Z" creationid="lenovo" creationdate="20200827T140606Z">
+        <seg>主题引用组件包括格式属性(粗体部分)，格式属性会根据文件的创作语言取不同的值(“xdita”、“hdita”或“mdita”)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19598,8 +19598,8 @@
       <tuv lang="en">
         <seg>To produce a PDF deliverable from this map, the one-line command for the DITA-OT would be similar to the one we used to process an XDITA map in &lt;t6/&gt;Chapter &lt;t7/&gt;5&lt;t8/&gt; &lt;t9/&gt;(&lt;t10/&gt;Figure &lt;t11/&gt;6.61&lt;t12/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T135024Z" creationid="lenovo" creationdate="20200827T135322Z">
-        <seg>要从这个映射生成PDF交付品，DITA-OT的单行命令与我们在第五章中处理XDITA映射时使用的命令类似(&lt;t10/&gt;Figure &lt;t11/&gt;6.61&lt;t12/&gt;).</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T132716Z" creationid="lenovo" creationdate="20200827T135322Z">
+        <seg>要从映射生成PDF交付物，DITA-OT的单行命令与我们在第五章中处理XDITA映射时使用的命令类似(&lt;t10/&gt;图&lt;t11/&gt;6.61&lt;t12/&gt;)。</seg>
       </tuv>
     </tu>
     <tu>
