@@ -17558,8 +17558,8 @@
       <tuv lang="en">
         <seg>The scenario is pretty common in professional conferences: an instructor or trainer attends an event and is inspired by a presentation or visit to a vendor's booth that focuses on a new software application for automating content pro&lt;t0/&gt;cesses.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T133031Z" creationid="lenovo" creationdate="20200831T133031Z">
-        <seg>这种情况在专业会议中很常见：讲师或培训师参加一个活动，并受到演讲或参观供应商展台的启发，该展台侧重于用于自动化内容处理的新软件应用程序。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T143515Z" creationid="lenovo" creationdate="20200831T133031Z">
+        <seg>这种情况在专业会议中很常见：讲师或培训师参加一个活动，观看了用于自动化内容处理的新型软件的某个演示或参观了类似主题的供应商展台，得到了启发。</seg>
       </tuv>
     </tu>
     <tu>
