@@ -6408,16 +6408,16 @@
       <tuv lang="en">
         <seg>FIGURE 6.64 &lt;t0/&gt;MDITA map for the cross-format version of the &lt;t1/&gt;Sensei Sushi&lt;t2/&gt; &lt;t3/&gt;brochure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T134050Z" creationid="lenovo" creationdate="20200827T143135Z">
-        <seg>图6.64 &lt;t0/&gt;MDITA版本的跨格式映射，生成&lt;t1/&gt;唤醒寿司&lt;t2/&gt;手册</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T140019Z" creationid="lenovo" creationdate="20200827T143135Z">
+        <seg>图6.64 &lt;t0/&gt;用于生成&lt;t1/&gt;唤醒寿司&lt;t2/&gt;手册的MDITA版本的跨格式映射地图。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE 6.65 &lt;t0/&gt;Command for the DITA-OT to generate a PDF deliverable from the&lt;t1/&gt; cross-format &lt;t2/&gt;Sensei Sushi&lt;t3/&gt; MDITA map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T143221Z" creationid="lenovo" creationdate="20200827T143221Z">
-        <seg>图 6.65 &lt;t0/&gt;从跨格式唤醒寿司MDITA映射中生成PDF交付文件的DITA-OT命令</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T140234Z" creationid="lenovo" creationdate="20200827T143221Z">
+        <seg>图 6.65 利用DITA-OT转换跨格式的 &lt;t2/&gt;唤醒寿司&lt;t3/&gt; XDITA映射生成PDF交付文件所需的命令。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9678,6 +9678,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131233Z" creationid="lenovo" creationdate="20200813T015444Z">
         <seg>2012年3月，当迈克尔·普里斯特利正式提议开发“用于表示DITA主题的轻量级框架”时，轻量级DITA是基于XML的，这是可以确定的。&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In Markdown syntax there is no need for attributes specifying file types or formats.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T140118Z" creationid="DSS" creationdate="20200903T140118Z">
+        <seg>在Markdown语法中，不需要指定描述文件类型或文件格式的属性。</seg>
       </tuv>
     </tu>
     <tu>
