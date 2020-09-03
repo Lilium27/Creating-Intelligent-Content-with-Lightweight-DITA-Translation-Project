@@ -11964,8 +11964,8 @@
       <tuv lang="en">
         <seg>LwDITA is exciting because it enjoys the benefits of the semantic web and single-source authoring without the incredibly steep learning curve required for XML and DITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200903T150158Z" creationid="DSS" creationdate="20200820T142124Z">
-        <seg>LwDITA 的出现激动人心，因为它享有语义网络和同源开发的带来的便利，同时又不需要使用学习曲线极其陡峭的 XML 和 DITA。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T161101Z" creationid="DSS" creationdate="20200820T142124Z">
+        <seg>LwDITA 的出现激动人心，因为它享有语义网络和同源开发带来的便利，同时又不需要使用学习曲线极其陡峭的 XML 和 DITA。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18854,8 +18854,8 @@
       <tuv lang="en">
         <seg>This book is an extremely timely and much needed introduction to the Component Content Management and computational thinking movement in TPC.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T142138Z" creationid="DSS" creationdate="20200820T142138Z">
-        <seg>对 TPC 来说，这本书是及时雨，介绍了业界一直迫切地想要了解的组件内容管理和计算机思维运动。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T161159Z" creationid="DSS" creationdate="20200820T142138Z">
+        <seg>对 TPC 来说，这本书是及时雨，介绍了业界一直迫切想要了解的组件内容管理和计算机思维运动。</seg>
       </tuv>
     </tu>
     <tu>
