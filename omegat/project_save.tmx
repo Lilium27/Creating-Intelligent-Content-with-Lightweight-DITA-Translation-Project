@@ -12444,8 +12444,8 @@
       <tuv lang="en">
         <seg>My new office only had a laptop computer on an otherwise empty desk when I started reading some of the just-published proceedings from the &lt;t2/&gt;2004 &lt;t3/&gt;conference (now called the Summit) of the Society for Technical Communication.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T135918Z" creationid="DSS" creationdate="20200818T131517Z">
-        <seg>我的新办公室里只有一张空空如也的桌子，上面唯一放着的东西就是笔记本电脑，就是在这样的环境下，我开始阅读2004年技术传播协会会议（现在称为峰会）一些才发表不久的会议记录。&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200903T132320Z" creationid="DSS" creationdate="20200818T131517Z">
+        <seg>我的新办公室里只有一张空空如也的桌子，上面唯一放着的东西就是一台笔记本电脑，就是在这样的环境下，我开始阅读2004年技术传播协会会议（现在称为峰会）一些才发表不久的会议记录。&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19809,8 +19809,8 @@
       <tuv lang="en">
         <seg>Under the title of “Plate Tectonics of T-COM,” Dayton's presentation included a slide that prob&lt;t2/&gt;ably changed my academic life.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T140034Z" creationid="DSS" creationdate="20200818T132124Z">
-        <seg>在题为《技术传播的模块构造》的演讲中，代顿所展示的一张幻灯片可能就此改变了我的学术生活。&lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200903T133500Z" creationid="DSS" creationdate="20200818T132124Z">
+        <seg>在题为《技术传播的模块构造》的演讲中，代顿所展示的一张幻灯片可能就此改变了我的学术生涯。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
