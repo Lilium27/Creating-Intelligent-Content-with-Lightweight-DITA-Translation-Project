@@ -6392,8 +6392,8 @@
       <tuv lang="en">
         <seg>FIGURE 6.61 &lt;t0/&gt;Command for the DITA-OT to generate a PDF deliverable from the&lt;t1/&gt; cross-format &lt;t2/&gt;Sensei Sushi&lt;t3/&gt; XDITA map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T141255Z" creationid="lenovo" creationdate="20200827T141238Z">
-        <seg>图 6.61 &lt;t0/&gt;DITA-OT从&lt;t1/&gt; 跨格式 &lt;t2/&gt;唤醒寿司&lt;t3/&gt; XDITA映射生成PDF交付文件的命令。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T133008Z" creationid="lenovo" creationdate="20200827T141238Z">
+        <seg>图 6.61 利用&lt;t0/&gt;DITA-OT&lt;t1/&gt;将跨格式 &lt;t2/&gt;唤醒寿司&lt;t3/&gt; XDITA映射生成PDF交付文件所需的命令。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7049,8 +7049,8 @@
       <tuv lang="en">
         <seg>Figure 6.62&lt;t0/&gt; displays the HDITA version of the cross-format map to produce the &lt;t1/&gt;Sensei Sushi&lt;t2/&gt; introductory brochure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T141437Z" creationid="lenovo" creationdate="20200827T141437Z">
-        <seg>图 6.62&lt;t0/&gt; 显示HDITA版本的跨格式映射，生成&lt;t1/&gt;唤醒寿司&lt;t2/&gt;介绍手册。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T133218Z" creationid="lenovo" creationdate="20200827T141437Z">
+        <seg>图 6.62&lt;t0/&gt; 展示了用于创建&lt;t1/&gt;唤醒寿司&lt;t2/&gt;介绍手册的HDITA版本的跨格式映射地图。</seg>
       </tuv>
     </tu>
     <tu>
