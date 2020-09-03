@@ -6424,8 +6424,8 @@
       <tuv lang="en">
         <seg>FIGURE 6.66 &lt;t0/&gt;Table of contents of a PDF deliverable produced from the XDITA&lt;t1/&gt; version of the cross-format map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T143518Z" creationid="lenovo" creationdate="20200827T143518Z">
-        <seg>图 6.66 &lt;t0/&gt;XDITA版跨格式映射生成的PDF交付内容表。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T141223Z" creationid="lenovo" creationdate="20200827T143518Z">
+        <seg>图 6.66 &lt;t0/&gt;利用XDITA版跨格式映射生成的PDF交付物的目录。</seg>
       </tuv>
     </tu>
     <tu>
