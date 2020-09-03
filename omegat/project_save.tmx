@@ -1099,8 +1099,8 @@
       <tuv lang="en">
         <seg>&lt;t2/&gt;go back to a concept I discussed in &lt;t3/&gt;Chapter &lt;t4/&gt;1&lt;t5/&gt; &lt;t6/&gt;and prepare to combine content structured with LwDITA with principles of computational thinking.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T135032Z" creationid="lenovo" creationdate="20200827T144126Z">
-        <seg>&lt;t2/&gt;回到我在第一章中讨论的概念，准备将LwDITA结构化的内容与计算思维的原则结合起来。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T141334Z" creationid="lenovo" creationdate="20200827T144126Z">
+        <seg>&lt;t2/&gt;回到我在第一章中讨论的概念，并准备将LwDITA结构化的内容与计算机思维原则结合起来。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5880,8 +5880,8 @@
       <tuv lang="en">
         <seg>End users will not know which topic was created in which authoring format.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T143533Z" creationid="lenovo" creationdate="20200827T143533Z">
-        <seg>最终用户将不知道以何种创作格式创建的主题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T141302Z" creationid="lenovo" creationdate="20200827T143533Z">
+        <seg>最终用户将不知道主题是以何种写作格式创建的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8482,8 +8482,8 @@
       <tuv lang="en">
         <seg>I also set the foundations used in &lt;t0/&gt;Chapter &lt;t1/&gt;8&lt;t2/&gt; &lt;t3/&gt;to examine an author's role in intelligent content workflows, expanding a series of abstractions (Evia et al., &lt;t4/&gt;2015) &lt;t5/&gt;based on thinking processes recommended for technical writers.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T135107Z" creationid="lenovo" creationdate="20200827T144500Z">
-        <seg>我还将为第八章的内容打下基础，检验作者在智能内容工作流中的角色，并基于为技术作者推荐的思考流程，扩展了一系列抽象</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T141457Z" creationid="lenovo" creationdate="20200827T144500Z">
+        <seg>我还将为第八章的内容打下基础，检验作者在智能内容工作流中扮演的角色，并基于为技术文档工程师推荐的思考流程，扩展一系列抽象概念。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10348,8 +10348,8 @@
       <tuv lang="en">
         <seg>In the following chapter, I revisit the concept of abstraction as a starting point of computational thinking.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T144254Z" creationid="lenovo" creationdate="20200827T144254Z">
-        <seg>在下一章中，我将重新讨论抽象的概念，将其作为计算思维的开篇。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T141357Z" creationid="lenovo" creationdate="20200827T144254Z">
+        <seg>在下一章中，我将重新讨论抽象的概念，并将其作为计算机思维的开篇。</seg>
       </tuv>
     </tu>
     <tu>
