@@ -1291,8 +1291,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;For the purpose of this chapter, a revised version of those layers, focusing on the flexibility</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T145458Z" creationid="lenovo" creationdate="20200831T133613Z">
-        <seg>在本章中，经过修改的抽象层级着重于创作的灵活性。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T145740Z" creationid="lenovo" creationdate="20200831T133613Z">
+        <seg>在本章中，经过修改的抽象层级重点关注 LwDITA 规定的写作格式的灵活性，</seg>
       </tuv>
     </tu>
     <tu>
@@ -2667,8 +2667,8 @@
       <tuv lang="en">
         <seg>Abstractions in the LwDITA Content Lifecycle &lt;t0/&gt;165 &lt;t1/&gt;about authoring formats allowed by LwDITA and inspired by the ISTE standards for evaluating students as computational thinkers (ISTE, &lt;t2/&gt;2018), &lt;t3/&gt;looks as follows:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T133621Z" creationid="lenovo" creationdate="20200831T133621Z">
-        <seg>LwDITA允许并受ISTE标准启发而将学生评估为计算思想家的格式（ISTE，2018）看起来如下:</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T155956Z" creationid="lenovo" creationdate="20200831T133621Z">
+        <seg>并受ISTE标准启发，而将学生评估为计算思想家的格式（ISTE，2018）看起来如下:</seg>
       </tuv>
     </tu>
     <tu>
