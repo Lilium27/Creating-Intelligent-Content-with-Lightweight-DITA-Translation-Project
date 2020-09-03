@@ -4739,8 +4739,8 @@
       <tuv lang="en">
         <seg>Charlotte Robidoux's article “Rhetorically Structured Content: Developing a Collaborative Single-Sourcing Curriculum” has become a timeless call to embrace structured authoring as a unifier of academia and industry practices in technical communication.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T125523Z" creationid="lenovo" creationdate="20200826T154252Z">
-        <seg>夏洛特·罗比多（Charlotte Robidoux）的文章《修辞结构化的内容：开发一个协作的单一来源课程》已经成为永恒的号召，号召人们将结构化创作作为技术传播学术界和行业实践的统一者。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T125748Z" creationid="lenovo" creationdate="20200826T154252Z">
+        <seg>夏洛特·罗比多（Charlotte Robidoux）的文章《修辞结构化的内容：开发一个协作的同源开发课程》已经成为永恒的号召，号召人们将结构化创作作为技术传播学术界和产业界实践的统一者。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4819,8 +4819,8 @@
       <tuv lang="en">
         <seg>Clark &lt;t2/&gt;(2016) &lt;t3/&gt;notes that the idea of content strategy “can realize the interdepartmental possibilities” involving the adoption of reuse and single-sourcing outside of technical communication that authors have been promising for decades.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T133921Z" creationid="lenovo" creationdate="20200831T133921Z">
-        <seg>Clark（2016）指出，内容策略的概念“可以实现跨部门的可能性”，涉及数十年来作者一直希望的技术交流之外的重用和单一来源的采用。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T125525Z" creationid="lenovo" creationdate="20200831T133921Z">
+        <seg>Clark（2016）指出，内容策略的概念“可以实现跨部门的可能性”，涉及数十年来作者一直希望的技术交流之外的重用和同源开发的采用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8690,8 +8690,8 @@
       <tuv lang="en">
         <seg>I shared with them a small collection of HDITA sample topics that incor&lt;t2/&gt;porated some of the elements from Priestley's blog post but added the possibility of content reuse and single-sourcing with new HTML5 custom data attributes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200802T155119Z">
-        <seg>我与他们分享了一组 HDITA 主题示例，其中包含了普里斯特利博文提到的一些元素，同时使用了新的 HTML5 自定义数据属性，以增加实现内容复用和单一来源的可能性。&lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T125525Z" creationid="DSS" creationdate="20200802T155119Z">
+        <seg>我与他们分享了一组 HDITA 主题示例，其中包含了普里斯特利博文提到的一些元素，同时使用了新的 HTML5 自定义数据属性，以增加实现内容复用和同源开发的可能性。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9884,8 +9884,8 @@
       <tuv lang="en">
         <seg>In a larger operation, however, the content of a recipe collection could be used (or single-sourced) in the fountain's operation manual, website, social media presence, mobile app, and even conversational guidelines for a device like the Amazon Echo.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T134248Z" creationid="lenovo" creationdate="20200901T134248Z">
-        <seg>但是，在较大的操作中，可以在源泉的操作手册，网站，社交媒体存在，移动应用乃至诸如Amazon Echo之类的会话指南中使用配方集合（或单一来源）的内容。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T125525Z" creationid="lenovo" creationdate="20200901T134248Z">
+        <seg>但是，在较大的操作中，可以在源泉的操作手册，网站，社交媒体存在，移动应用乃至诸如Amazon Echo之类的会话指南中使用配方集合（或同源开发）的内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17854,8 +17854,8 @@
       <tuv lang="en">
         <seg>The technical communication literature shows some waves of interests for tech&lt;t0/&gt;nologies included in this layer, from single-sourcing (e.g, Ament, &lt;t1/&gt;2003; &lt;t2/&gt;Carter, &lt;t3/&gt;2003) &lt;t4/&gt;to content management (e.g., Hart-Davidson et al., &lt;t5/&gt;2007; &lt;t6/&gt;Gu &lt;t7/&gt;&amp; &lt;t8/&gt;Pullman, &lt;t9/&gt;2009), &lt;t10/&gt;and most recently component content management (e.g, Andersen, &lt;t11/&gt;2014; &lt;t12/&gt;Batova, &lt;t13/&gt;2014).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T155200Z" creationid="lenovo" creationdate="20200902T155200Z">
-        <seg>技术交流文献表明，从单一来源 (e.g, Ament, &lt;t1/&gt;2003; &lt;t2/&gt;Carter, &lt;t3/&gt;2003) &lt;t4/&gt;到内容管理 (e.g., Hart-Davidson et al., &lt;t5/&gt;2007; &lt;t6/&gt;Gu &lt;t7/&gt;&amp; &lt;t8/&gt;Pullman, &lt;t9/&gt;2009), &lt;t10/&gt;以及最近的组件内容管理(e.g, Andersen, &lt;t11/&gt;2014; &lt;t12/&gt;Batova, &lt;t13/&gt;2014).</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T125525Z" creationid="lenovo" creationdate="20200902T155200Z">
+        <seg>技术交流文献表明，从同源开发 (e.g, Ament, &lt;t1/&gt;2003; &lt;t2/&gt;Carter, &lt;t3/&gt;2003) &lt;t4/&gt;到内容管理 (e.g., Hart-Davidson et al., &lt;t5/&gt;2007; &lt;t6/&gt;Gu &lt;t7/&gt;&amp; &lt;t8/&gt;Pullman, &lt;t9/&gt;2009), &lt;t10/&gt;以及最近的组件内容管理(e.g, Andersen, &lt;t11/&gt;2014; &lt;t12/&gt;Batova, &lt;t13/&gt;2014).</seg>
       </tuv>
     </tu>
     <tu>
