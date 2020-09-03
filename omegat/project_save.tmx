@@ -8682,8 +8682,8 @@
       <tuv lang="en">
         <seg>I retake the scenario of Chef Pedro and the &lt;t0/&gt;Sensei Sushi&lt;t1/&gt; content needs in this section.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T161033Z" creationid="lenovo" creationdate="20200826T161033Z">
-        <seg>本节我又会以佩德罗的场景和唤醒寿司的内容需求为例。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T131517Z" creationid="lenovo" creationdate="20200826T161033Z">
+        <seg>本节我又会以佩德罗所处场景和唤醒寿司的内容需求为例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11612,8 +11612,8 @@
       <tuv lang="en">
         <seg>Let's revisit the &lt;t4/&gt;Sensei Sushi&lt;t5/&gt; content silos,</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T161233Z" creationid="lenovo" creationdate="20200826T161233Z">
-        <seg>我们再来看看唤醒寿司的内容竖井，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T131553Z" creationid="lenovo" creationdate="20200826T161233Z">
+        <seg>我们再来看看唤醒寿司的内容竖井：</seg>
       </tuv>
     </tu>
     <tu>
@@ -13809,8 +13809,8 @@
       <tuv lang="en">
         <seg>Robidoux cited the first edition of Ann Rockley's &lt;t0/&gt;Managing Enterprise Content: A Unified Content Strategy&lt;t1/&gt;, which in its second edition still contains a strong warning about the development or content silos or, as Rockley described the problem, the silo trap.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T130805Z" creationid="lenovo" creationdate="20200826T160125Z">
-        <seg>罗比多引用了安·罗克利（Ann Rockley）所著《企业内容管理：统一内容战略》第一版的内容。这本书的第二版依旧强烈警示了发展或内容竖井的问题，或者如Rockley所描述的竖井陷阱的问题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T130905Z" creationid="lenovo" creationdate="20200826T160125Z">
+        <seg>罗比多引用了安·罗克利（Ann Rockley）所著《企业内容管理：统一内容战略》第一版的内容。这本书的第二版依旧强烈警示了关于发展或内容竖井的问题，或者如Rockley所称竖井陷阱的问题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15195,8 +15195,8 @@
       <tuv lang="en">
         <seg>The &lt;t2/&gt;Sensei Sushi&lt;t3/&gt; content could be easily siloed according to different teams' practices and preferred authoring languages.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T161208Z" creationid="lenovo" creationdate="20200826T161208Z">
-        <seg>根据不同团队的实践和首选编写语言，唤醒寿司的内容很容易形成竖井。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T131546Z" creationid="lenovo" creationdate="20200826T161208Z">
+        <seg>根据不同团队的实践和首选写作语言，唤醒寿司的内容很容易形成竖井。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15627,8 +15627,8 @@
       <tuv lang="en">
         <seg>The Lightweight DITA subcommittee at OASIS posits that con&lt;t0/&gt;tent silos could finally communicate in a common language regardless of file format if they adopt the proposed LwDITA standard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T160830Z" creationid="lenovo" creationdate="20200826T160830Z">
-        <seg>OASIS的轻量级DITA小组委员会认为，无论文件格式如何，只用采用提议的LwDITA标准，内容竖井最终都可以使用公共语言实现互通。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T131453Z" creationid="lenovo" creationdate="20200826T160830Z">
+        <seg>OASIS的轻量级DITA小组委员会认为，无论文件格式如何，只采用提议的LwDITA标准，内容竖井最终都可以使用公共语言实现互通。</seg>
       </tuv>
     </tu>
     <tu>
