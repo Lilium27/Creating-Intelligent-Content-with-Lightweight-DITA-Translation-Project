@@ -4547,8 +4547,8 @@
       <tuv lang="en">
         <seg>Both original ideas for this book (the one about the history of the manual and the one about computational thinking in tech&lt;t0/&gt;nical writing courses) somehow ended up in the same place: they proposed Lightweight DITA (LwDITA) as a solution to more than one problem affecting technical communication and content development.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T142815Z" creationid="DSS" creationdate="20200818T142815Z">
-        <seg>创作本书的最初两个想法（一是手册的历史，二是技术写作课程中的计算机思维）最终体现在同一个地方：委员会提出轻量级 DITA（LwDITA）规范，成为技术传播和内容开发等多个问题的解决方案。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200903T135703Z" creationid="DSS" creationdate="20200818T142815Z">
+        <seg>创作本书的最初两个想法（一是手册的历史，二是技术写作课程中的计算机思维）最终体现在同一个地方：委员会提出轻量级 DITA（LwDITA）规范，将其作为技术传播和内容开发等多个问题的解决方案。</seg>
       </tuv>
     </tu>
     <tu>
