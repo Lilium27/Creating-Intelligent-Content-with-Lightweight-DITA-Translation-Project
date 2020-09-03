@@ -16452,8 +16452,8 @@
       <tuv lang="en">
         <seg>The evolution of DITA in a path that incorporates feedback from users, practices in writing instruction and communication that represent the bulk of this book will stay the same even if the LwDITA authoring formats look slightly different when the standard is finally approved.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T122329Z" creationid="DSS" creationdate="20200818T151007Z">
-        <seg>即使本书介绍的 LwDITA 的写作格式和最终标准通过时的可能看起来略有不同，但DITA的演化路径是不会变的，吸纳来自用户的反馈，编写指南和进行技术传播实践的经验，而这些正是本书的主要内容。
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200903T141917Z" creationid="DSS" creationdate="20200818T151007Z">
+        <seg>即使本书介绍的 LwDITA 的写作格式和最终标准通过时的可能看起来略有不同，但DITA的演化路径是不会变的，它吸纳来自用户的反馈，包含编写指南和进行技术传播实践的经验，而这些正是本书的主要内容。
 </seg>
       </tuv>
     </tu>
@@ -17022,8 +17022,8 @@
       <tuv lang="en">
         <seg>The need for a process or lifecycle that relies on simple markup structures and values the work of human authors to produce intelligent content will not change either.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T150835Z" creationid="DSS" creationdate="20200818T150835Z">
-        <seg>对流程或生命周期的需求也不会变，而流程和生命周期依赖简单的标记结构，珍视创作者所作的工作的价值，即编写智能内容的价值。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200903T141042Z" creationid="DSS" creationdate="20200818T150835Z">
+        <seg>对依赖简单的标记结构的流程或生命周期的需求也不会变，并且仍旧珍视创作者编写智能内容的工作价值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20562,8 +20562,8 @@
       <tuv lang="en">
         <seg>Written from the hypocenter of the fault line between academia and industry in technical communication, I hope this book reaches its target audiences in both camps.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T145948Z" creationid="DSS" creationdate="20200819T145948Z">
-        <seg>本书的内容关乎技术传播学术界和产业界之间的断层线的中心地带，我希望双方阵营的目标受众这本书都能够触达到。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200903T142039Z" creationid="DSS" creationdate="20200819T145948Z">
+        <seg>本书的内容关乎技术传播学术界和产业界之间的断层线的中心地带，我希望这本书对双方阵营的目标受众都能有所裨益。</seg>
       </tuv>
     </tu>
     <tu>
