@@ -3491,8 +3491,8 @@
       <tuv lang="en">
         <seg>And, as we will see in &lt;t3/&gt;Chapter &lt;t4/&gt;8&lt;t5/&gt;, &lt;t6/&gt;the cross-format capabilities of LwDITA allow seam&lt;t7/&gt;less content reuse at the topic, section, paragraph, or even phrase level among XDITA, HDITA, and MDITA content files.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T135017Z" creationid="lenovo" creationdate="20200827T134536Z">
-        <seg>而且，正如我们将在第八章中看到的，LwDITA的跨格式功能允许在主题、节、段落甚至短语级别上在XDITA、HDITA和MDITA内容文件之间无缝地复用内容。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T132243Z" creationid="lenovo" creationdate="20200827T134536Z">
+        <seg>而且，正如我们将在第八章中看到的，LwDITA的跨格式功能允许在主题、节、段落甚至短语级别上，在XDITA、HDITA和MDITA文件之间无缝地复用内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7754,8 +7754,8 @@
       <tuv lang="en">
         <seg>Furthermore, in DITA &lt;t2/&gt;XML you cannot reuse content from, say, an HTML file in an XML topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T134341Z" creationid="lenovo" creationdate="20200827T134341Z">
-        <seg>此外，在DITA &lt;t2/&gt;XML中，您不能复用来自XML主题中的HTML文件的内容。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T132057Z" creationid="lenovo" creationdate="20200827T134341Z">
+        <seg>此外，在DITA &lt;t2/&gt;XML中，不能复用XML主题中的HTML文件的内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9876,8 +9876,8 @@
       <tuv lang="en">
         <seg>In a desktop publishing tool or word processor, you would have to copy and paste from one format to the other, making the source files instantly obsolete and taking the content out of the authors' preferred working environments.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T134150Z" creationid="lenovo" creationdate="20200827T134150Z">
-        <seg>在桌面发布工具或字处理程序中，您将不得通过复制粘贴进行格式转换，使得源文件即可作废，而内容也脱离了作者的首选工作环境。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T132004Z" creationid="lenovo" creationdate="20200827T134150Z">
+        <seg>在桌面发布工具或字处理程序中，不得不通过复制粘贴进行格式转换，但这样做的话源文件会立即作废，而内容也脱离了写作者的首选工作环境。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22173,16 +22173,16 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;The kitchen manager had help from a technical writing intern who authored some recipes and procedures in XML</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T133344Z" creationid="lenovo" creationdate="20200827T133344Z">
-        <seg>• &lt;t0/&gt;技术写作实习生帮助后厨经理用xml文件创作了一些菜谱和流程</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T131705Z" creationid="lenovo" creationdate="20200827T133344Z">
+        <seg>• &lt;t0/&gt;技术写作实习生帮助后厨经理用xml创作了一些与菜谱和流程相关的内容</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>• &lt;t0/&gt;The legal team wrote the franchise terms topic in HTML</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T133228Z" creationid="lenovo" creationdate="20200827T133228Z">
-        <seg>• &lt;t0/&gt;法律团队用HTML编写了专营权条款主题</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T131620Z" creationid="lenovo" creationdate="20200827T133228Z">
+        <seg>• &lt;t0/&gt;法律团队用HTML编写了特许经营权条款主题</seg>
       </tuv>
     </tu>
     <tu>
@@ -22197,8 +22197,8 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;The marketing editor had been creating introductory information in Markdown.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T133446Z" creationid="lenovo" creationdate="20200827T133446Z">
-        <seg>• &lt;t0/&gt;市场营销编辑一直在用Markdown创建介绍性信息。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T131759Z" creationid="lenovo" creationdate="20200827T133446Z">
+        <seg>• &lt;t0/&gt;市场营销编辑一直在用Markdown创建介绍性信息</seg>
       </tuv>
     </tu>
     <tu>
