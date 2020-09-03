@@ -16059,8 +16059,8 @@
       <tuv lang="en">
         <seg>The brochure developer can save this map as &lt;t0/&gt;crossformat-brochure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T135202Z" creationid="lenovo" creationdate="20200827T135202Z">
-        <seg>宣传册开发人员可以将此映射保存为crossform -brochu .ditamap</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T132323Z" creationid="lenovo" creationdate="20200827T135202Z">
+        <seg>宣传册开发人员可以将此映射地图保存为&lt;t0/&gt;crossform -brochu .ditamap</seg>
       </tuv>
     </tu>
     <tu>
@@ -20892,6 +20892,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T153250Z" creationid="lenovo" creationdate="20200902T153250Z">
         <seg>不同的LwDITA创作格式创建的主题（请参见&lt;topicref&gt;条目中@format的不同值）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ditamap&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T132545Z" creationid="DSS" creationdate="20200903T132545Z">
+        <seg>ditamap&lt;t1/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
