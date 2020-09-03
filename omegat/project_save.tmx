@@ -13801,8 +13801,8 @@
       <tuv lang="en">
         <seg>Robidoux cited the first edition of Ann Rockley's &lt;t0/&gt;Managing Enterprise Content: A Unified Content Strategy&lt;t1/&gt;, which in its second edition still contains a strong warning about the development or content silos or, as Rockley described the problem, the silo trap.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T160125Z" creationid="lenovo" creationdate="20200826T160125Z">
-        <seg>罗比多引用了安·罗克利《企业内容管理:统一内容战略》第一版的内容，在第二版中依旧强烈警示了关于发展或内容竖井的或者如Rockley所描述的竖井陷阱的问题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T130805Z" creationid="lenovo" creationdate="20200826T160125Z">
+        <seg>罗比多引用了安·罗克利（Ann Rockley）所著《企业内容管理：统一内容战略》第一版的内容。这本书的第二版依旧强烈警示了发展或内容竖井的问题，或者如Rockley所描述的竖井陷阱的问题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20682,8 +20682,8 @@
       <tuv lang="en">
         <seg>Yet, when we systematically implemented structured writing guidelines from the ground up within a document set, as suggested by Ament &lt;t3/&gt;(2002), &lt;t4/&gt;we began to see clarity and improved consistency.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T155854Z" creationid="lenovo" creationdate="20200826T155854Z">
-        <seg>然而，当我们处理文档集时，如果像阿门特(2002)建议的那样，从一开始就系统化地贯彻结构化写作指导方针，我们就会开始考到清晰性和一致性的提升。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T130344Z" creationid="lenovo" creationdate="20200826T155854Z">
+        <seg>然而，当我们处理文档集时，如果像阿门特(2002)建议的那样，从一开始就系统化地贯彻结构化写作指导方针，我们就会开始看到清晰性和一致性的提升。</seg>
       </tuv>
     </tu>
     <tu>
