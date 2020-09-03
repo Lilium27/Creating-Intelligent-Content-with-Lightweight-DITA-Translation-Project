@@ -6400,8 +6400,8 @@
       <tuv lang="en">
         <seg>FIGURE 6.62 &lt;t0/&gt;HDITA map for the cross-format version of the &lt;t1/&gt;Sensei Sushi&lt;t2/&gt; &lt;t3/&gt;brochure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T141813Z" creationid="lenovo" creationdate="20200827T141813Z">
-        <seg>图 6.62 &lt;t0/&gt;HDITA版本的跨格式映射，生成&lt;t1/&gt;唤醒寿司&lt;t2/&gt;手册</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T133523Z" creationid="lenovo" creationdate="20200827T141813Z">
+        <seg>图 6.62 &lt;t0/&gt;用于生成&lt;t1/&gt;唤醒寿司&lt;t2/&gt;手册的HDITA版本的跨格式映射地图。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6897,8 +6897,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;6.63 &lt;t1/&gt;Command for the DITA-OT to generate a PDF deliverable from the&lt;t2/&gt; cross-format &lt;t3/&gt;Sensei Sushi&lt;t4/&gt; HDITA map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T142341Z" creationid="lenovo" creationdate="20200827T142341Z">
-        <seg>FIGURE &lt;t0/&gt;6.63 &lt;t1/&gt;从跨格式唤醒寿司HDITA映射中生成PDF交付文件的DITA-OT命令</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T133755Z" creationid="lenovo" creationdate="20200827T142341Z">
+        <seg>图&lt;t0/&gt;6.63 &lt;t1/&gt;利用DITA-OT将跨格式的唤醒寿司XDITA映射生成PDF交付文件所需的命令。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19582,8 +19582,8 @@
       <tuv lang="en">
         <seg>To make the file valid HTML5, the attribute for format in each topic reference is &lt;t4/&gt;@type&lt;t5/&gt;, and the values are “text/markdown” for MDITA, “text/html” for HDITA, and “text/xml” for XDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T142304Z" creationid="lenovo" creationdate="20200827T142304Z">
-        <seg>为了使文件能够转换成有效HTML5格式，每个主题引用的格式属性为@type, MDITA中值为“text/markdown”，HDITA中值为“text/html”，XDITA中值为“text/xml”。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T133637Z" creationid="lenovo" creationdate="20200827T142304Z">
+        <seg>为了使文件能够转换成有效的HTML5格式，每个主题引用的格式属性为&lt;t4/&gt;@type&lt;t5/&gt;, MDITA对应的值为“text/markdown”，HDITA对应的值为“text/html”，XDITA对应的值为“text/xml”。</seg>
       </tuv>
     </tu>
     <tu>
