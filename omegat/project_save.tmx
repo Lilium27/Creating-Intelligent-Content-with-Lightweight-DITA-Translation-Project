@@ -2595,8 +2595,8 @@
       <tuv lang="en">
         <seg>ABSTRACTIONS IN THE LwDITA&lt;t0/&gt; CONTENT LIFECYCLE</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T133020Z" creationid="lenovo" creationdate="20200831T133020Z">
-        <seg>抽象概念在LwDITA内容的生命周期</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T141727Z" creationid="lenovo" creationdate="20200831T133020Z">
+        <seg>LwDITA内容生命周期中的抽象概念</seg>
       </tuv>
     </tu>
     <tu>
@@ -8482,8 +8482,8 @@
       <tuv lang="en">
         <seg>I also set the foundations used in &lt;t0/&gt;Chapter &lt;t1/&gt;8&lt;t2/&gt; &lt;t3/&gt;to examine an author's role in intelligent content workflows, expanding a series of abstractions (Evia et al., &lt;t4/&gt;2015) &lt;t5/&gt;based on thinking processes recommended for technical writers.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T141457Z" creationid="lenovo" creationdate="20200827T144500Z">
-        <seg>我还将为第八章的内容打下基础，检验作者在智能内容工作流中扮演的角色，并基于为技术文档工程师推荐的思考流程，扩展一系列抽象概念。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T141655Z" creationid="lenovo" creationdate="20200827T144500Z">
+        <seg>我还将为第八章的内容打下基础，检验作者在智能内容工作流中扮演的角色，并基于推荐技术文档工程师采用的思考流程，扩展一系列抽象概念。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18326,8 +18326,8 @@
       <tuv lang="en">
         <seg>Then, I will connect those abstractions and models to LwDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T144522Z" creationid="lenovo" creationdate="20200827T144522Z">
-        <seg>然后，我将把这些抽象和模型与LwDITA想结合。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T141506Z" creationid="lenovo" creationdate="20200827T144522Z">
+        <seg>然后，我将把这些抽象概念和模型与LwDITA相结合。</seg>
       </tuv>
     </tu>
     <tu>
