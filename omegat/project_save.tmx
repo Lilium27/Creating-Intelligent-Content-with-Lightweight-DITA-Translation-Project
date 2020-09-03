@@ -987,8 +987,8 @@
       <tuv lang="en">
         <seg>&lt;t2/&gt;Figure 6.63&lt;t3/&gt; shows the DITA-OT command to produce a PDF deliverable from the HDITA map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T141608Z" creationid="lenovo" creationdate="20200827T141608Z">
-        <seg>&lt;t2/&gt;图 6.63&lt;t3/&gt; 显示了以从HDITA映射生成PDF交付文件的DITA-OT命令。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T133400Z" creationid="lenovo" creationdate="20200827T141608Z">
+        <seg>&lt;t2/&gt;图 6.63&lt;t3/&gt; 显展示了利用HDITA映射生成PDF交付文件的DITA-OT命令。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11412,8 +11412,8 @@
       <tuv lang="en">
         <seg>Lastly, &lt;t0/&gt;Figure 6.64&lt;t1/&gt; shows the MDITA version of the cross-format map for the &lt;t2/&gt;Sensei Sushi&lt;t3/&gt; brochure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T141739Z" creationid="lenovo" creationdate="20200827T141739Z">
-        <seg>最后，图6.64显示MDITA版本的跨格式映射，生成&lt;t1/&gt;唤醒寿司&lt;t2/&gt;介绍手册</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T133446Z" creationid="lenovo" creationdate="20200827T141739Z">
+        <seg>最后，图6.64展示了用于创建唤醒寿司介绍手册的MDITA版本的跨格式映射地图。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15483,8 +15483,8 @@
       <tuv lang="en">
         <seg>The HDITA map can be saved as &lt;t0/&gt;crossformat-brochure.html&lt;t1/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T141448Z" creationid="lenovo" creationdate="20200827T141448Z">
-        <seg>HDITA地图可以保存为crossform-brochure.html。&lt;t1/&gt;.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T133232Z" creationid="lenovo" creationdate="20200827T141448Z">
+        <seg>HDITA地图可以保存为&lt;t0/&gt;crossform-brochure.html。&lt;t1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
