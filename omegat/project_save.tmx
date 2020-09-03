@@ -4739,8 +4739,8 @@
       <tuv lang="en">
         <seg>Charlotte Robidoux's article “Rhetorically Structured Content: Developing a Collaborative Single-Sourcing Curriculum” has become a timeless call to embrace structured authoring as a unifier of academia and industry practices in technical communication.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T154252Z" creationid="lenovo" creationdate="20200826T154252Z">
-        <seg>夏洛特·罗比多的文章“修辞结构化的内容：开发一个协作的单一来源课程”已经成为永恒的号召，号召人们将结构化创作作为技术传播学术界和行业实践的统一者。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T125523Z" creationid="lenovo" creationdate="20200826T154252Z">
+        <seg>夏洛特·罗比多（Charlotte Robidoux）的文章《修辞结构化的内容：开发一个协作的单一来源课程》已经成为永恒的号召，号召人们将结构化创作作为技术传播学术界和行业实践的统一者。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8354,8 +8354,8 @@
       <tuv lang="en">
         <seg>However, the legal team could author the franchise terms topic in HDITA, the kitchen manager could write the sample recipe in XDITA, and the marketing editor could create the introductory topic in MDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T124557Z" creationid="lenovo" creationdate="20200826T153805Z">
-        <seg>In HDITA and MDITA extended profil但是，法律团队可以用HDITA编写特许经营条例主题，厨房经理可以用XDITA编写示例菜谱，营销编辑可以用MDITA创建介绍性主题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T124918Z" creationid="lenovo" creationdate="20200826T153805Z">
+        <seg>不过，法律团队可以用HDITA编写关于特许经营条例的主题，厨房经理可以用XDITA编写示例菜谱，营销编辑可以用MDITA创建介绍性主题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19286,8 +19286,8 @@
       <tuv lang="en">
         <seg>Those files, produced in differ&lt;t4/&gt;ent languages, would live together in LwDITA maps and produce cross-format deliverables, and that is the focus of the next section.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T153852Z" creationid="lenovo" creationdate="20200826T153852Z">
-        <seg>这些用不同语言生成的文件将在LwDITA映射中共存并生成跨格式的可交付内容，这是下一节的重点。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T125002Z" creationid="lenovo" creationdate="20200826T153852Z">
+        <seg>这些用不同语言生成的文件将在LwDITA映射中共存，并生成跨格式的可交付内容，这是下一节的重点。</seg>
       </tuv>
     </tu>
     <tu>
