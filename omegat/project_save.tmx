@@ -448,8 +448,8 @@
       <tuv lang="en">
         <seg>&lt;t0/&gt;Figure &lt;t1/&gt;6.66&lt;t2/&gt; &lt;t3/&gt;shows the table of contents of a PDF built in Oxygen XML from the XDITA version of this cross-format map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T135422Z" creationid="lenovo" creationdate="20200827T143025Z">
-        <seg>&lt;t0/&gt;图&lt;t1/&gt;6.66&lt;t2/&gt; &lt;t3/&gt;展示了使用Oxygen XML转换XDITA格式的跨格式映射生成的PDF文件的目录。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T135742Z" creationid="lenovo" creationdate="20200827T143025Z">
+        <seg>&lt;t0/&gt;图&lt;t1/&gt;6.66&lt;t2/&gt; &lt;t3/&gt;展示了使用Oxygen XML转换跨格式的XDITA映射生成的PDF文件的目录。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6384,8 +6384,8 @@
       <tuv lang="en">
         <seg>FIGURE 6.60 &lt;t0/&gt;XDITA map for the cross-format version of the &lt;t1/&gt;Sensei Sushi&lt;t2/&gt; &lt;t3/&gt;brochure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T135349Z" creationid="lenovo" creationdate="20200827T135349Z">
-        <seg>图 6.60 &lt;t0/&gt;用于唤醒寿司手册的跨格式XDITA映射。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T135927Z" creationid="lenovo" creationdate="20200827T135349Z">
+        <seg>图 6.60 &lt;t0/&gt;用于唤醒寿司手册的XDITA版本的跨格式映射地图。</seg>
       </tuv>
     </tu>
     <tu>
