@@ -4315,8 +4315,8 @@
       <tuv lang="en">
         <seg>Becoming familiar with these content struc&lt;t0/&gt;tures and how to represent them in the initial LwDITA authoring formats is an important step in preparing intelligent content deliverables.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T143337Z" creationid="lenovo" creationdate="20200827T143337Z">
-        <seg>熟悉这些内容结构以及如何在初始LwDITA创作格式中表示它们是准备智能内容交付的重要步骤。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T140726Z" creationid="lenovo" creationdate="20200827T143337Z">
+        <seg>熟悉这些内容结构以及如何在初始LwDITA创作格式中表示它们，是准备智能内容交付物的重要步骤。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10140,8 +10140,8 @@
       <tuv lang="en">
         <seg>In order to take advantage of the LwDITA proposed standard and make content stand out from the millions of dead pages created in word processors and desktop publishing tools, we need to</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T143408Z" creationid="lenovo" creationdate="20200827T143408Z">
-        <seg>为了利用LwDITA提出的标准，并使内容从文字处理程序和桌面发布工具创建的数百万死页面中脱颖而出，我们需要</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T140526Z" creationid="lenovo" creationdate="20200827T143408Z">
+        <seg>为了利用拟议的LwDITA标准，并使内容从文字处理程序和桌面发布工具创建的数百万死页面中脱颖而出，我们需要</seg>
       </tuv>
     </tu>
     <tu>
@@ -14169,8 +14169,8 @@
       <tuv lang="en">
         <seg>So, Is My Content Intelligent Now?</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T143305Z" creationid="lenovo" creationdate="20200827T143305Z">
-        <seg>那么，我的内容现在是智能的吗?</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T140259Z" creationid="lenovo" creationdate="20200827T143305Z">
+        <seg>那么现在我所创建的内容是智能的吗?</seg>
       </tuv>
     </tu>
     <tu>
@@ -18910,8 +18910,8 @@
       <tuv lang="en">
         <seg>This chapter introduced you to the main components available in LwDITA to structure and present information.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T143318Z" creationid="lenovo" creationdate="20200827T143318Z">
-        <seg>本章向您介绍了LwDITA中用于构造和表示信息的主要组件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T140325Z" creationid="lenovo" creationdate="20200827T143318Z">
+        <seg>本章介绍了LwDITA中用于构造和表示信息的主要组件。</seg>
       </tuv>
     </tu>
     <tu>
