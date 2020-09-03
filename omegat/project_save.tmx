@@ -16814,8 +16814,8 @@
       <tuv lang="en">
         <seg>The instructor requests a free demo or obtains departmental support to purchase an academic or trial license.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T133042Z" creationid="lenovo" creationdate="20200831T133042Z">
-        <seg>讲师请求免费演示或获得部门支持以购买学术或试用许可证。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T143844Z" creationid="lenovo" creationdate="20200831T133042Z">
+        <seg>讲师会请求免费试用，或申请部门支持以购买学术或试用许可证。</seg>
       </tuv>
     </tu>
     <tu>
