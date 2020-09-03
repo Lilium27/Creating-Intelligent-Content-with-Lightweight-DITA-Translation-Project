@@ -6865,8 +6865,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;6.57 &lt;t1/&gt;Audio content environment in HDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T145104Z" creationid="lenovo" creationdate="20200825T141516Z">
-        <seg>图 &lt;t0/&gt;6.57 &lt;t1/&gt;HDITA中的音频内容环境。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T130222Z" creationid="lenovo" creationdate="20200825T141516Z">
+        <seg>图 &lt;t0/&gt;6.57 &lt;t1/&gt;HDITA中的音频组件内容环境。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6881,8 +6881,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;6.59 &lt;t1/&gt;Video content environment in HDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T154544Z" creationid="lenovo" creationdate="20200826T154544Z">
-        <seg>图 &lt;t0/&gt;6.59 &lt;t1/&gt;HDITA的视频内容环境。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T130235Z" creationid="lenovo" creationdate="20200826T154544Z">
+        <seg>图 &lt;t0/&gt;6.59 &lt;t1/&gt;HDITA的视频组件内容环境。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13689,8 +13689,8 @@
       <tuv lang="en">
         <seg>Reporting on the practices of content developers at HP, Robidoux wrote the following about the existence of content silos:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T154520Z" creationid="lenovo" creationdate="20200826T154520Z">
-        <seg>在报告惠普内容开发人员的实践工作时，罗比多就内容竖井的存在写下了以下内容:</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T130155Z" creationid="lenovo" creationdate="20200826T154520Z">
+        <seg>在报告惠普内容开发人员的实践工作时，罗比多就内容竖井的存在写下了以下内容：</seg>
       </tuv>
     </tu>
     <tu>
