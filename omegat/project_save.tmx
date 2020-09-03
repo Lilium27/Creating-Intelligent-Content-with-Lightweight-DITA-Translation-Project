@@ -987,8 +987,8 @@
       <tuv lang="en">
         <seg>&lt;t2/&gt;Figure 6.63&lt;t3/&gt; shows the DITA-OT command to produce a PDF deliverable from the HDITA map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T133400Z" creationid="lenovo" creationdate="20200827T141608Z">
-        <seg>&lt;t2/&gt;图 6.63&lt;t3/&gt; 显展示了利用HDITA映射生成PDF交付文件的DITA-OT命令。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T133819Z" creationid="lenovo" creationdate="20200827T141608Z">
+        <seg>&lt;t2/&gt;图 6.63&lt;t3/&gt; 展示了利用HDITA映射生成PDF交付文件的DITA-OT命令。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6368,8 +6368,8 @@
       <tuv lang="en">
         <seg>FIGURE 6.50 &lt;t0/&gt;Preview of an XDITA table with the ingredients and shipped units for&lt;t1/&gt; the Fancy Roll in Oxygen's &lt;t2/&gt;author&lt;t3/&gt; mode.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T140451Z" creationid="lenovo" creationdate="20200821T151924Z">
-        <seg>FIGURE 6.50 &lt;t0/&gt;在Oxygen的作者模式下，包含Fancy Roll的成分和出货量的XDITA主题表格组件的预览。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T134036Z" creationid="lenovo" creationdate="20200821T151924Z">
+        <seg>图6.50 &lt;t0/&gt;在Oxygen的作者模式下，包含Fancy Roll的成分和出货量的XDITA主题表格组件的预览。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6392,8 +6392,8 @@
       <tuv lang="en">
         <seg>FIGURE 6.61 &lt;t0/&gt;Command for the DITA-OT to generate a PDF deliverable from the&lt;t1/&gt; cross-format &lt;t2/&gt;Sensei Sushi&lt;t3/&gt; XDITA map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T133008Z" creationid="lenovo" creationdate="20200827T141238Z">
-        <seg>图 6.61 利用&lt;t0/&gt;DITA-OT&lt;t1/&gt;将跨格式 &lt;t2/&gt;唤醒寿司&lt;t3/&gt; XDITA映射生成PDF交付文件所需的命令。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T133905Z" creationid="lenovo" creationdate="20200827T141238Z">
+        <seg>图 6.61 利用&lt;t0/&gt;DITA-OT&lt;t1/&gt;将跨格式 &lt;t2/&gt;唤醒寿司&lt;t3/&gt; XDITA映射转换生成PDF交付文件所需的命令。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6408,8 +6408,8 @@
       <tuv lang="en">
         <seg>FIGURE 6.64 &lt;t0/&gt;MDITA map for the cross-format version of the &lt;t1/&gt;Sensei Sushi&lt;t2/&gt; &lt;t3/&gt;brochure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T143135Z" creationid="lenovo" creationdate="20200827T143135Z">
-        <seg>FIGURE 6.64 &lt;t0/&gt;MDITA版本的跨格式映射，生成&lt;t1/&gt;唤醒寿司&lt;t2/&gt;手册</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T134050Z" creationid="lenovo" creationdate="20200827T143135Z">
+        <seg>图6.64 &lt;t0/&gt;MDITA版本的跨格式映射，生成&lt;t1/&gt;唤醒寿司&lt;t2/&gt;手册</seg>
       </tuv>
     </tu>
     <tu>
@@ -6785,8 +6785,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;6.39 &lt;t1/&gt;HDITA topic with a phrase component.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T131046Z" creationid="lenovo" creationdate="20200819T151109Z">
-        <seg>FIGURE &lt;t0/&gt;6.39 &lt;t1/&gt;包含短语组件的HDITA主题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T134019Z" creationid="lenovo" creationdate="20200819T151109Z">
+        <seg>图&lt;t0/&gt;6.39 &lt;t1/&gt;包含短语组件的HDITA主题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6897,8 +6897,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;6.63 &lt;t1/&gt;Command for the DITA-OT to generate a PDF deliverable from the&lt;t2/&gt; cross-format &lt;t3/&gt;Sensei Sushi&lt;t4/&gt; HDITA map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T133755Z" creationid="lenovo" creationdate="20200827T142341Z">
-        <seg>图&lt;t0/&gt;6.63 &lt;t1/&gt;利用DITA-OT将跨格式的唤醒寿司XDITA映射生成PDF交付文件所需的命令。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T133939Z" creationid="lenovo" creationdate="20200827T142341Z">
+        <seg>图&lt;t0/&gt;6.63 &lt;t1/&gt;利用DITA-OT将跨格式的唤醒寿司HDITA映射转换生成PDF交付文件所需的命令。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7130,8 +7130,8 @@
       <tuv lang="en">
         <seg>Figure &lt;t0/&gt;6.42&lt;t1/&gt; &lt;t2/&gt;shows a preview of the preformatted text in Oxygen XML's &lt;t3/&gt;author&lt;t4/&gt; mode.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T131758Z" creationid="lenovo" creationdate="20200819T152443Z">
-        <seg>Figure &lt;t0/&gt;6.42&lt;t1/&gt; &lt;t2/&gt;在 Oxygen XML &lt;t3/&gt;作者&lt;t4/&gt;模式下，包含预格式化文本组件的主题预览。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T134027Z" creationid="lenovo" creationdate="20200819T152443Z">
+        <seg>图&lt;t0/&gt;6.42&lt;t1/&gt; &lt;t2/&gt;在 Oxygen XML &lt;t3/&gt;作者&lt;t4/&gt;模式下，包含预格式化文本组件的主题预览。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7178,8 +7178,8 @@
       <tuv lang="en">
         <seg>Figure &lt;t0/&gt;6.65&lt;t1/&gt; &lt;t2/&gt;shows the DITA-OT command to generate a PDF deliverable from the MDITA map in &lt;t3/&gt;Figure &lt;t4/&gt;6.64&lt;t5/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T142530Z" creationid="lenovo" creationdate="20200827T142530Z">
-        <seg>Figure &lt;t0/&gt;6.65&lt;t1/&gt; &lt;t2/&gt;显示了从图6.64的MDITA映射中生成PDF交付文件的DITA-OT命令。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T133814Z" creationid="lenovo" creationdate="20200827T142530Z">
+        <seg>图&lt;t0/&gt;6.65&lt;t1/&gt; &lt;t2/&gt;显示了从图6.64的MDITA映射中生成PDF交付文件的DITA-OT命令。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15995,8 +15995,8 @@
       <tuv lang="en">
         <seg>The author can save this recipe as &lt;t11/&gt;milkshake.html&lt;t12/&gt;, and the resulting file can be viewed in a web browser, but the recipe won't make sense for end users because the content variable for “icecream-flavor” is not established in this layer of abstraction (&lt;t13/&gt;Figure &lt;t14/&gt;8.3&lt;t15/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T132031Z" creationid="lenovo" creationdate="20200901T132031Z">
-        <seg>作者可以将该配方保存为milkshake.html，可以在Web浏览器中查看生成的文件，但是该配方对最终用户没有意义，因为在抽象层中未建立“ icecream-flavor”的内容变量&lt;t13/&gt;Figure &lt;t14/&gt;8.3&lt;t15/&gt;)。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T134055Z" creationid="lenovo" creationdate="20200901T132031Z">
+        <seg>作者可以将该配方保存为milkshake.html，可以在Web浏览器中查看生成的文件，但是该配方对最终用户没有意义，因为在抽象层中未建立“ icecream-flavor”的内容变量&lt;t13/&gt;图 &lt;t14/&gt;8.3&lt;t15/&gt;)。</seg>
       </tuv>
     </tu>
     <tu>
