@@ -448,16 +448,16 @@
       <tuv lang="en">
         <seg>&lt;t0/&gt;Figure &lt;t1/&gt;6.66&lt;t2/&gt; &lt;t3/&gt;shows the table of contents of a PDF built in Oxygen XML from the XDITA version of this cross-format map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T143025Z" creationid="lenovo" creationdate="20200827T143025Z">
-        <seg>&lt;t0/&gt;图 &lt;t1/&gt;6.66&lt;t2/&gt; &lt;t3/&gt;显示了跨格式映射的XDITA版本在Oxygen XML中构建的PDF目录。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T135422Z" creationid="lenovo" creationdate="20200827T143025Z">
+        <seg>&lt;t0/&gt;图&lt;t1/&gt;6.66&lt;t2/&gt; &lt;t3/&gt;展示了使用Oxygen XML转换XDITA格式的跨格式映射生成的PDF文件的目录。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;t0/&gt;Figure &lt;t1/&gt;8.13&lt;t2/&gt; &lt;t3/&gt;shows the XDITA version of the root beer float recipe.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T145950Z" creationid="lenovo" creationdate="20200902T145915Z">
-        <seg>&lt;t0/&gt;Figure &lt;t1/&gt;8.13&lt;t2/&gt; &lt;t3/&gt;显示了生啤酒浮法配方的XDITA版本。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T134106Z" creationid="lenovo" creationdate="20200902T145915Z">
+        <seg>&lt;t0/&gt;图 &lt;t1/&gt;8.13&lt;t2/&gt; &lt;t3/&gt;显示了生啤酒浮法配方的XDITA版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2267,8 +2267,8 @@
       <tuv lang="en">
         <seg>A LwDITA-aware software application like Oxygen XML Editor can also process the XDITA, HDITA, and MDITA versions of the cross-format map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T142555Z" creationid="lenovo" creationdate="20200827T142555Z">
-        <seg>支持LwDITA的软件应用程序(如Oxygen XML Editor)也可以处理跨格式映射的XDITA、HDITA和MDITA版本。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T134217Z" creationid="lenovo" creationdate="20200827T142555Z">
+        <seg>支持LwDITA的软件应用程序(如Oxygen XML Editor)也可以处理XDITA、HDITA和MDITA版本的跨格式映射地图。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6392,8 +6392,8 @@
       <tuv lang="en">
         <seg>FIGURE 6.61 &lt;t0/&gt;Command for the DITA-OT to generate a PDF deliverable from the&lt;t1/&gt; cross-format &lt;t2/&gt;Sensei Sushi&lt;t3/&gt; XDITA map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T133905Z" creationid="lenovo" creationdate="20200827T141238Z">
-        <seg>图 6.61 利用&lt;t0/&gt;DITA-OT&lt;t1/&gt;将跨格式 &lt;t2/&gt;唤醒寿司&lt;t3/&gt; XDITA映射转换生成PDF交付文件所需的命令。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T135545Z" creationid="lenovo" creationdate="20200827T141238Z">
+        <seg>图 6.61 利用&lt;t0/&gt;DITA-OT&lt;t1/&gt;转换跨格式的 &lt;t2/&gt;唤醒寿司&lt;t3/&gt; XDITA映射生成PDF交付文件所需的命令。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6897,8 +6897,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;6.63 &lt;t1/&gt;Command for the DITA-OT to generate a PDF deliverable from the&lt;t2/&gt; cross-format &lt;t3/&gt;Sensei Sushi&lt;t4/&gt; HDITA map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T133939Z" creationid="lenovo" creationdate="20200827T142341Z">
-        <seg>图&lt;t0/&gt;6.63 &lt;t1/&gt;利用DITA-OT将跨格式的唤醒寿司HDITA映射转换生成PDF交付文件所需的命令。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T135537Z" creationid="lenovo" creationdate="20200827T142341Z">
+        <seg>图&lt;t0/&gt;6.63 &lt;t1/&gt;利用DITA-OT转换跨格式的唤醒寿司HDITA映射生成PDF交付文件所需的命令。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7178,8 +7178,8 @@
       <tuv lang="en">
         <seg>Figure &lt;t0/&gt;6.65&lt;t1/&gt; &lt;t2/&gt;shows the DITA-OT command to generate a PDF deliverable from the MDITA map in &lt;t3/&gt;Figure &lt;t4/&gt;6.64&lt;t5/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T133814Z" creationid="lenovo" creationdate="20200827T142530Z">
-        <seg>图&lt;t0/&gt;6.65&lt;t1/&gt; &lt;t2/&gt;显示了从图6.64的MDITA映射中生成PDF交付文件的DITA-OT命令。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T134159Z" creationid="lenovo" creationdate="20200827T142530Z">
+        <seg>图&lt;t0/&gt;6.65&lt;t1/&gt; &lt;t2/&gt;展示了利用图6.64的MDITA映射生成PDF交付文件的DITA-OT命令。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18134,8 +18134,8 @@
       <tuv lang="en">
         <seg>The “Apply Transformation Scenario(s)” dialog box in Oxygen would present the user with options to produce deliverables from each of these LwDITA maps.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T142825Z" creationid="lenovo" creationdate="20200827T142825Z">
-        <seg>Oxygen中的“应用转换场景”对话框将向用户提供从每个LwDITA映射生成可交付成果的选项。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T134321Z" creationid="lenovo" creationdate="20200827T142825Z">
+        <seg>Oxygen中的“应用转换选项”对话框将向用户提供从LwDITA映射生成可交付成果的选项。</seg>
       </tuv>
     </tu>
     <tu>
