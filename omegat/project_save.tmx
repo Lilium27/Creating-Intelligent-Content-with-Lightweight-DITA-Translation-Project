@@ -16339,8 +16339,8 @@
       <tuv lang="en">
         <seg>The curriculum in the instructor's program is modified to include the selected tool, and then the tool developer releases a paid upgrade, which the instructor's department cannot afford.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T133053Z" creationid="lenovo" creationdate="20200831T133053Z">
-        <seg>修改讲师课程中的课程以包括所选工具，然后工具开发人员发布付费升级，这是讲师部门无法负担的。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T144050Z" creationid="lenovo" creationdate="20200831T133053Z">
+        <seg>讲师会对所教项目中的课程进行修改，以包含所选工具，然后工具开发人员会发布软件的付费升级版本，而这是讲师所在部门无法负担的。</seg>
       </tuv>
     </tu>
     <tu>
