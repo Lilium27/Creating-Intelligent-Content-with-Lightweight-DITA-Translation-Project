@@ -20722,8 +20722,8 @@
       <tuv lang="en">
         <seg>Yet, the big-picture ideas of topic-based information and component content management go beyond the actual topic types enforced by the DITA standard and DITA-aware tools.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200725T082945Z">
-        <seg>然而，基于主题的信息和组件内容管理的宏远想法，超出了 DITA 标准和支持 DITA 的工具所提供的主题类型。</seg>
+      <tuv lang="ZH-CN" changeid="wqt" changedate="20200904T082948Z" creationid="DSS" creationdate="20200725T082945Z">
+        <seg>然而，基于主题的信息和组件内容管理的宏远想法，不仅仅局限于 DITA 标准和支持 DITA 的工具所提供的主题类型。</seg>
       </tuv>
     </tu>
     <tu>
