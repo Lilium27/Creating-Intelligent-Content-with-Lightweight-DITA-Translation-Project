@@ -6416,8 +6416,8 @@
       <tuv lang="en">
         <seg>FIGURE 6.50 &lt;t0/&gt;Preview of an XDITA table with the ingredients and shipped units for&lt;t1/&gt; the Fancy Roll in Oxygen's &lt;t2/&gt;author&lt;t3/&gt; mode.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T134036Z" creationid="lenovo" creationdate="20200821T151924Z">
-        <seg>图6.50 &lt;t0/&gt;在Oxygen的作者模式下，包含Fancy Roll的成分和出货量的XDITA主题表格组件的预览。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T151555Z" creationid="lenovo" creationdate="20200821T151924Z">
+        <seg>图6.50 &lt;t0/&gt;在Oxygen的作者模式下，包含Fancy Roll的配料和出货量的XDITA主题表格组件的预览。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9042,8 +9042,8 @@
       <tuv lang="en">
         <seg>If the collection of reci&lt;t0/&gt;pes has more than one author, a style guide can keep all recipes consistent in punctuation, capitalization, word usage, and other editorial decisions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T141033Z" creationid="lenovo" creationdate="20200831T141033Z">
-        <seg>如果食谱集的作者不止一个，则风格指南可以使所有食谱在标点符号、大写字母、单词用法和其他编辑决定上保持一致。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T151750Z" creationid="lenovo" creationdate="20200831T141033Z">
+        <seg>如果食谱集的作者不止一个，则风格指南可以使所有食谱在标点符号、大写字母、单词用法和其他编辑决策上保持一致。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17342,8 +17342,8 @@
       <tuv lang="en">
         <seg>The process of seeing the milkshake flavor as a variable in one layer, with additional ingredients as constants in another layer, the placement of specific requirements and steps in a third layer, and computing rules to create a unique recipe for readers in yet another layer requires, like Chef Pedro's content needs for the &lt;t1/&gt;Sensei Sushi&lt;t2/&gt; pub&lt;t3/&gt;lications from previous chapters, a different kind of thinking from the author.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131402Z" creationid="DSS" creationdate="20200809T134845Z">
-        <seg>看到奶昔口味的过程作为一个变量在第一层，额外的原料作为常量在第二层，具体要求和步骤在第三层，为读者编写独特食谱的计算机规则又在另一层，像前几章提到的厨师佩德罗对 &lt;t1/&gt;Sensei Sushi&lt;t2/&gt;&lt;t3/&gt;出版物的内容需求一样，这需要作者有不同的思维模式。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T151609Z" creationid="DSS" creationdate="20200809T134845Z">
+        <seg>看到奶昔口味的过程作为一个变量在第一层，额外的配料作为常量在第二层，具体要求和步骤在第三层，为读者编写独特食谱的计算机规则又在另一层，像前几章提到的厨师佩德罗对 &lt;t1/&gt;Sensei Sushi&lt;t2/&gt;&lt;t3/&gt;出版物的内容需求一样，这需要作者有不同的思维模式。</seg>
       </tuv>
     </tu>
     <tu>
