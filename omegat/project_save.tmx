@@ -18182,8 +18182,8 @@
       <tuv lang="en">
         <seg>The “Learning to Think Like a Computer” article from The New York Times mentioned in &lt;t0/&gt;Chapter &lt;t1/&gt;7&lt;t2/&gt; &lt;t3/&gt;provides an appropriate example for looking at each layer of abstraction and its connections to the ISTE standards and the content&lt;t4/&gt;development lifecycles presented in this chapter.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T135127Z" creationid="lenovo" creationdate="20200831T133802Z">
-        <seg>第七章提到的《纽约时报》上的“学习像计算机一样思考”一文提供了一个合适的示例，用于研究抽象的每一层及其与ISTE标准的联系以及本章中介绍的内容开发生命周期。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T134037Z" creationid="lenovo" creationdate="20200831T133802Z">
+        <seg>第七章提到的《纽约时报》上的一篇题为《学会像电脑一样思考》的文章提供了一个合适的示例，可以用于研究每一层抽象层级与ISTE标准和本章中介绍的内容开发生命周期的关系。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22029,24 +22029,24 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;Layer &lt;t1/&gt;4: &lt;t2/&gt;Linking topics and maps for collection and reuse</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T041034Z" creationid="lenovo" creationdate="20200831T133715Z">
-        <seg>•第4层：链接主题和地图以进行收集和复用</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T133511Z" creationid="lenovo" creationdate="20200831T133715Z">
+        <seg>•第四层级：链接主题和地图用以聚合和复用内容</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>• &lt;t0/&gt;Layer &lt;t1/&gt;5: &lt;t2/&gt;Processing and producing deliverables</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T133725Z" creationid="lenovo" creationdate="20200831T133725Z">
-        <seg>•第5层：处理和生产可交付成果</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T133518Z" creationid="lenovo" creationdate="20200831T133725Z">
+        <seg>•第五层级：处理和生成可交付成果</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>• &lt;t0/&gt;Layer &lt;t1/&gt;6: &lt;t2/&gt;Preparing for the future.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T133737Z" creationid="lenovo" creationdate="20200831T133737Z">
-        <seg>•第6层：为未来做准备。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T133522Z" creationid="lenovo" creationdate="20200831T133737Z">
+        <seg>•第六层级：为未来做准备</seg>
       </tuv>
     </tu>
     <tu>
