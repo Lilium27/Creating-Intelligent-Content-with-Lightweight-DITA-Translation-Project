@@ -730,8 +730,8 @@
       <tuv lang="en">
         <seg>&lt;t12/&gt;This deficiency presents a unique opportunity for implementing an approach based on principles of computational thinking.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160156Z" creationid="DSS" creationdate="20200810T121248Z">
-        <seg>&lt;t12/&gt;这个不足为实现基于计算思维原则的方法提供了一个不可多得的机会。
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T025837Z" creationid="DSS" creationdate="20200810T121248Z">
+        <seg>&lt;t12/&gt;这个不足为实现基于计算机思维原则的方法提供了一个不可多得的机会。
 </seg>
       </tuv>
     </tu>
@@ -1915,8 +1915,8 @@
       <tuv lang="en">
         <seg>&lt;t6/&gt;The article went on to mention that Jeannette Wing “gets credit for making it fashionable” (Pappano, &lt;t7/&gt;2017).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T155851Z" creationid="DSS" creationdate="20200808T071222Z">
-        <seg>&lt;t6/&gt;文章接着提到，珍妮特·温 (Jeannette Wing) “使计算思维变得流行起来，因而饱受赞扬” (Pappano, &lt;t7/&gt;2017)。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T025626Z" creationid="DSS" creationdate="20200808T071222Z">
+        <seg>&lt;t6/&gt;文章接着提到，珍妮特·温 (Jeannette Wing) “使计算机思维变得流行起来，因而饱受赞扬” (Pappano, &lt;t7/&gt;2017)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2163,8 +2163,8 @@
       <tuv lang="en">
         <seg>&lt;t8/&gt;Wing's model of computational thinking, which I introduced in &lt;t9/&gt;Chapter&lt;t10/&gt; &lt;t11/&gt;1&lt;t12/&gt;, &lt;t13/&gt;highlights the importance of abstractions over numerical processes and algo&lt;t14/&gt;rithms.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131357Z" creationid="DSS" creationdate="20200808T071348Z">
-        <seg>&lt;t8/&gt;在第&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;一&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;章中我介绍过温的计算思维模型，该模型强调了抽象能力的重要性，数值计算和算法能力都位列其后。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T025633Z" creationid="DSS" creationdate="20200808T071348Z">
+        <seg>&lt;t8/&gt;在第&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;一&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;章中我介绍过温的计算机思维模型，该模型强调了抽象能力的重要性，数值计算和算法能力都位列其后。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4059,8 +4059,8 @@
       <tuv lang="en">
         <seg>Authors in an intelligent content process based on principles of computational thinking do not need to build tools.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T154515Z" creationid="lenovo" creationdate="20200902T154515Z">
-        <seg>基于计算思维原理的智能内容处理过程中，作者无需构建工具。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T025837Z" creationid="lenovo" creationdate="20200902T154515Z">
+        <seg>基于计算机思维原理的智能内容处理过程中，作者无需构建工具。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -4419,8 +4419,8 @@
       <tuv lang="en">
         <seg>Before implementing any computing tools or developing automation solutions, a user experimenting with a computational thinking methodology or exploring the benefits of intelligent content must break down the process in a series of abstractions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T131219Z" creationid="DSS" creationdate="20200809T131219Z">
-        <seg>在使用任何计算工具或开发自动化解决方案之前，用户要想试验计算思维方法论或探索智能内容的好处，必须将过程分解为一系列抽象层级。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T025704Z" creationid="DSS" creationdate="20200809T131219Z">
+        <seg>在使用任何计算工具或开发自动化解决方案之前，用户要想试验计算机思维方法论或探索智能内容的好处，必须将过程分解为一系列抽象层级。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4963,8 +4963,8 @@
       <tuv lang="en">
         <seg>Computational thinking (CT) has been connected in scholarship and media to initiatives for learning to code and programming.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T123710Z" creationid="DSS" creationdate="20200817T034548Z">
-        <seg>在学术研究和媒体活动一提到计算思维（CT），就会联想到编程学习。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T025612Z" creationid="DSS" creationdate="20200817T034548Z">
+        <seg>在学术研究和媒体活动一提到计算机思维（CT），就会联想到编程学习。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5134,32 +5134,32 @@
       <tuv lang="en">
         <seg>Contrasting layer 4 with the ISTE standards for assessing computational thinking in students, some of its tasks could comply with sections of standards 5b (&lt;t9/&gt;Students collect data or identify relevant data sets, use digital tools to analyze them, and represent data in various ways to facilitate problem-solving and decision-making&lt;t10/&gt;) and 5c (&lt;t11/&gt;Students break problems into component parts, extract key information, and develop descriptive models to understand complex systems or facilitate problem-solving&lt;t12/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T154112Z" creationid="lenovo" creationdate="20200902T154112Z">
-        <seg>将第4层与用于评估学生的计算思维的ISTE标准进行对比，其某些任务可能符合标准5b的各个部分（学生收集数据或识别相关数据集，使用数字工具对其进行分析，并以各种方式表示数据，以促进问题解决和决策制定）和5c（学生将问题分解为各个组成部分，提取关键信息，并开发描述性模型以理解复杂系统或促进问题解决）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T025837Z" creationid="lenovo" creationdate="20200902T154112Z">
+        <seg>将第4层与用于评估学生的计算机思维的ISTE标准进行对比，其某些任务可能符合标准5b的各个部分（学生收集数据或识别相关数据集，使用数字工具对其进行分析，并以各种方式表示数据，以促进问题解决和决策制定）和5c（学生将问题分解为各个组成部分，提取关键信息，并开发描述性模型以理解复杂系统或促进问题解决）。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Contrasting layer &lt;t11/&gt;1 &lt;t12/&gt;with the ISTE standards for assessing computational thinking in students, some of its tasks could comply with sections of standards 5a (&lt;t13/&gt;Students formulate problem definitions suited for technology-assisted methods such as data analysis, abstract models and algorithmic thinking in exploring and finding solutions&lt;t14/&gt;), 5b (&lt;t15/&gt;Students collect data or identify relevant data sets, use digital tools to analyze them, and represent data in various ways to facilitate problem-solving and decision&lt;t16/&gt;making&lt;t17/&gt;), and 5c (&lt;t18/&gt;Students break problems into component parts, extract key information, and develop descriptive models to understand complex systems or facilitate problem-solving&lt;t19/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T123724Z" creationid="lenovo" creationdate="20200901T123724Z">
-        <seg>将第1层与用于评估学生的计算思维的ISTE标准进行对比，其某些任务可以符合标准5a的各个部分（学生在探索和发现中制定适合技术辅助方法的问题定义，例如数据分析，抽象模型和算法思维）解决方案），5b（学生收集数据或识别相关数据集，使用数字工具对其进行分析并以各种方式表示数据以促进问题解决和决策制定），以及5c（学生将问题分解为组成部分，提取关键信息，并开发描述性模型以了解复杂系统或促进问题解决）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T025837Z" creationid="lenovo" creationdate="20200901T123724Z">
+        <seg>将第1层与用于评估学生的计算机思维的ISTE标准进行对比，其某些任务可以符合标准5a的各个部分（学生在探索和发现中制定适合技术辅助方法的问题定义，例如数据分析，抽象模型和算法思维）解决方案），5b（学生收集数据或识别相关数据集，使用数字工具对其进行分析并以各种方式表示数据以促进问题解决和决策制定），以及5c（学生将问题分解为组成部分，提取关键信息，并开发描述性模型以了解复杂系统或促进问题解决）。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Contrasting layer &lt;t4/&gt;3 &lt;t5/&gt;with the ISTE standards for assessing computational thinking in students, some of its tasks could comply with sections of standards 5a (&lt;t6/&gt;Students formulate problem definitions suited for technology-assisted methods such as data analysis, abstract models and algorith&lt;t7/&gt;mic thinking in exploring and finding solutions&lt;t8/&gt;) and 5c (&lt;t9/&gt;Students break problems into component parts, extract key information, and develop descriptive models to understand complex systems or facilitate problem-solving&lt;t10/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T132431Z" creationid="lenovo" creationdate="20200902T132431Z">
-        <seg>将第3层与用于评估学生的计算思维的ISTE标准进行对比，某些任务可以符合标准5a的各个部分（学生在研究和发现解决方案中制定适合技术辅助方法的问题定义，方法包括数据分析，抽象模型和算法思维）和5c（学生将问题分解为各个组成部分，提取关键信息，并开发描述性模型以了解复杂系统或促进问题解决）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T025837Z" creationid="lenovo" creationdate="20200902T132431Z">
+        <seg>将第3层与用于评估学生的计算机思维的ISTE标准进行对比，某些任务可以符合标准5a的各个部分（学生在研究和发现解决方案中制定适合技术辅助方法的问题定义，方法包括数据分析，抽象模型和算法思维）和5c（学生将问题分解为各个组成部分，提取关键信息，并开发描述性模型以了解复杂系统或促进问题解决）。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Contrasting layer &lt;t9/&gt;2 &lt;t10/&gt;with the ISTE standards for assessing computational thinking in students, some of its tasks could comply with sections of standards 5a (&lt;t11/&gt;Students formulate problem definitions suited for technology-assisted methods such as data analysis, abstract models and algorithmic thinking in exploring and finding solutions&lt;t12/&gt;) and 5b (&lt;t13/&gt;Students collect data or identify relevant data sets, use digital tools to ana&lt;t14/&gt;lyze them, and represent data in various ways to facilitate problem-solving and decision-making&lt;t15/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T133914Z" creationid="lenovo" creationdate="20200901T133914Z">
-        <seg> 将第2层与用于评估学生的计算思维的ISTE标准进行对比，其某些任务可以符合标准5a的各个部分（学生在探索和寻找中寻找适合技术辅助方法的问题定义，例如数据分析，抽象模型和算法思维） 解决方案）和5b（学生收集数据或识别相关数据集，使用数字工具进行分析，并以各种方式表示数据以促进问题解决和决策的能力）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T025837Z" creationid="lenovo" creationdate="20200901T133914Z">
+        <seg> 将第2层与用于评估学生的计算机思维的ISTE标准进行对比，其某些任务可以符合标准5a的各个部分（学生在探索和寻找中寻找适合技术辅助方法的问题定义，例如数据分析，抽象模型和算法思维） 解决方案）和5b（学生收集数据或识别相关数据集，使用数字工具进行分析，并以各种方式表示数据以促进问题解决和决策的能力）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7698,8 +7698,8 @@
       <tuv lang="en">
         <seg>From an educational perspective, some authors mentioned in the next section claim that making computation, and its potential benefits, available to thinkers of all disciplines is a responsibility in academia.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T130451Z" creationid="DSS" creationdate="20200809T130451Z">
-        <seg>从教育的角度来看，在下一节中将提到的一些作者认为，让所有学科的学生都能掌握计算思维，享受其带来的益处是学术界的责任。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T025657Z" creationid="DSS" creationdate="20200809T130451Z">
+        <seg>从教育的角度来看，在下一节中将提到的一些作者认为，让所有学科的学生都能掌握计算机思维，享受其带来的益处是学术界的责任。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7810,8 +7810,8 @@
       <tuv lang="en">
         <seg>Garcia explained abstraction as a foundational element in computational thinking with the following scenario:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T132644Z" creationid="DSS" creationdate="20200809T132644Z">
-        <seg>在下面的场景中，加西亚解释说明了抽象是计算思维的一个基本元素：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T025726Z" creationid="DSS" creationdate="20200809T132644Z">
+        <seg>在下面的场景中，加西亚解释说明了抽象是计算机思维的一个基本元素：</seg>
       </tuv>
     </tu>
     <tu>
@@ -10188,8 +10188,8 @@
       <tuv lang="en">
         <seg>In previous chapters, I have highlighted the role of LwDITA code as an important component of a content-development workflow built on principles of computational thinking.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T122439Z" creationid="DSS" creationdate="20200810T122439Z">
-        <seg>在前面的章节中，我已经强调了在基于计算思维原则的内容开发工作流中，LwDITA代码组件扮演了重要的角色。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T025837Z" creationid="DSS" creationdate="20200810T122439Z">
+        <seg>在前面的章节中，我已经强调了在基于计算机思维原则的内容开发工作流中，LwDITA代码组件扮演了重要的角色。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11548,8 +11548,8 @@
       <tuv lang="en">
         <seg>Layer &lt;t0/&gt;5 &lt;t1/&gt;addresses the “metal” tools in Wing's model of computational thinking.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T154200Z" creationid="lenovo" creationdate="20200902T154200Z">
-        <seg>第5层解决了Wing计算思维模型中的“金属”工具。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T025837Z" creationid="lenovo" creationdate="20200902T154200Z">
+        <seg>第5层解决了Wing计算机思维模型中的“金属”工具。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12348,8 +12348,8 @@
       <tuv lang="en">
         <seg>Most authors probably will enter an intelligent content workflow unaware of the larger discussions on computational thinking and abstractions behind automating publication and filtering routines.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T081247Z" creationid="DSS" creationdate="20200808T081247Z">
-        <seg>大多数创作者可能在刚开始从事智能内容写作时，都没有意识到在自动化发布和过滤例程之外，业界有更多关于计算思维和抽象能力的讨论。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T025639Z" creationid="DSS" creationdate="20200808T081247Z">
+        <seg>大多数创作者可能在刚开始从事智能内容写作时，都没有意识到在自动化发布和过滤例程之外，业界有更多关于计算机思维和抽象能力的讨论。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13849,8 +13849,8 @@
       <tuv lang="en">
         <seg>Rockley &lt;t0/&gt;&amp; &lt;t1/&gt;Gollner's portrayal of content automation subject to human thinking structures bears resemblance to the model of computational thinking by Jeannette Wing that I mentioned in &lt;t2/&gt;Chapter &lt;t3/&gt;1&lt;t4/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160449Z" creationid="DSS" creationdate="20200810T133447Z">
-        <seg>罗克利&lt;t0/&gt;和&lt;t1/&gt;戈尔纳对受制于人类思维结构的内容自动化的描述，与我在第&lt;t2/&gt;&lt;t3/&gt;一&lt;t4/&gt;章中提到的珍妮特·温的计算思维模型有相似之处。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T025837Z" creationid="DSS" creationdate="20200810T133447Z">
+        <seg>罗克利&lt;t0/&gt;和&lt;t1/&gt;戈尔纳对受制于人类思维结构的内容自动化的描述，与我在第&lt;t2/&gt;&lt;t3/&gt;一&lt;t4/&gt;章中提到的珍妮特·温的计算机思维模型有相似之处。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15315,8 +15315,8 @@
       <tuv lang="en">
         <seg>The April &lt;t0/&gt;4, 2017 &lt;t1/&gt;edition of The New York Times featured a story titled “Learning to Think Like a Computer,” which contributed to introducing the concept of computational thinking to mainstream audiences.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T155805Z" creationid="DSS" creationdate="20200808T071151Z">
-        <seg>&lt;t0/&gt;&lt;t1/&gt;2017年4月4日，《纽约时报》刊登了一篇题为《学会像电脑一样思考》（Learning to Think Like a Computer）的文章，向主流观众介绍计算思维。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T025552Z" creationid="DSS" creationdate="20200808T071151Z">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;2017年4月4日，《纽约时报》刊登了一篇题为《学会像电脑一样思考》（Learning to Think Like a Computer）的文章，向主流观众介绍计算机思维。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15939,8 +15939,8 @@
       <tuv lang="en">
         <seg>The article acknowledged that computational thinking is not necessarily a new term, and that it was used by educator and mathematician Seymour Papert “in &lt;t2/&gt;1980 &lt;t3/&gt;to envision how chil&lt;t4/&gt;dren could use computers to learn” (Pappano, &lt;t5/&gt;2017).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131313Z" creationid="DSS" creationdate="20200808T071208Z">
-        <seg>文章表示，计算思维不是一个新术语，西摩·佩特（Seymour Papert）是一名教育家和数学家，他在&lt;t2/&gt;1980&lt;t3/&gt;&lt;t4/&gt;年就使用计算思维来“构想儿童可以如何使用计算机进行学习” (Pappano, &lt;t5/&gt;2017)。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T025837Z" creationid="DSS" creationdate="20200808T071208Z">
+        <seg>文章表示，计算机思维不是一个新术语，西摩·佩特（Seymour Papert）是一名教育家和数学家，他在&lt;t2/&gt;1980&lt;t3/&gt;&lt;t4/&gt;年就使用计算机思维来“构想儿童可以如何使用计算机进行学习” (Pappano, &lt;t5/&gt;2017)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21098,8 +21098,8 @@
       <tuv lang="en">
         <seg>new in the world of technical communication: it has been more than &lt;t0/&gt;17 &lt;t1/&gt;years since Hart-Davidson &lt;t2/&gt;(2001) &lt;t3/&gt;asked scholars and practitioners to see the con&lt;t4/&gt;tent chunks of single-sourcing projects as rhetorical objects and not just mere information.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131404Z" creationid="DSS" creationdate="20200809T135909Z">
-        <seg>域并不新鲜：自哈特-戴维森 (Hart-Davidson, &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;2001&lt;t3/&gt;&lt;t4/&gt;) 要求学者和从业者将同源开发项目中的内容块视为修辞对象而不仅仅是信息以来，已经超过十七年了。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T030011Z" creationid="DSS" creationdate="20200809T135909Z">
+        <seg>域并不新鲜：自哈特-戴维森 (Hart-Davidson, &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;2001&lt;t3/&gt;&lt;t4/&gt;) 要求学者和从业者将同源开发项目中的内容块视为修辞对象而不仅仅是信息以来，已过去十七年多的时间了。</seg>
       </tuv>
     </tu>
     <tu>
