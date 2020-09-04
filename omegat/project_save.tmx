@@ -10476,8 +10476,8 @@
       <tuv lang="en">
         <seg>In the world of scientific and technical communication, DITA and struc&lt;t0/&gt;tured authoring are not alone in using concepts of evolution to describe genre change.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131020Z" creationid="DSS" creationdate="20200730T094850Z">
-        <seg>在科技和技术传播的世界里，DITA 和结构化创作并不是唯一使用进化概念来描述体裁变化的。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T031020Z" creationid="DSS" creationdate="20200730T094850Z">
+        <seg>在科技和技术传播的世界里，并不只有 DITA 和结构化创作使用进化概念来描述体裁变化的。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16203,8 +16203,8 @@
       <tuv lang="en">
         <seg>The concept of evolu&lt;t0/&gt;tion, and particularly themes related to Darwin's Theory of Evolution, has been a component of DITA terminology since its origins at IBM. The &lt;t1/&gt;D&lt;t2/&gt; for &lt;t3/&gt;Darwin &lt;t4/&gt;is the first letter in the standard's acronym, and some additional Darwinian terms appear in the &lt;t5/&gt;Technical Communication&lt;t6/&gt; article from &lt;t7/&gt;2001 &lt;t8/&gt;that intro&lt;t9/&gt;duced DITA to the world outside IBM. When describing the process of topic specialization, for example, Michael Priestley and his co-authors noted in that article that “specialization also lets you manage groups of related types by mak&lt;t10/&gt;ing changes to their common ancestor, instead of maintaining each instance separately” (Priestley et al., &lt;t11/&gt;2001, &lt;t12/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T090958Z">
-        <seg>进化（evolution）的概念，特别是与达尔文进化论相关的主题，自 DITA 从 IBM 诞生以来就一直是 DITA 术语的组成部分。表示“达尔文”（Darwin）的“&lt;t1/&gt;D&lt;t2/&gt;”&lt;t3/&gt;&lt;t4/&gt;是 DITA 标准首字母缩略词中的第一个字母，另外一些与“达尔文”相关的术语出现在了发表于2001年的《&lt;t5/&gt;技术传播&lt;t6/&gt;》&lt;t7/&gt;&lt;t8/&gt;一文中，该文章向 IBM 之外的世界介绍了DITA。例如，在描述主题专门化的过程时，迈克尔·普里斯特利及其合作者在文章中指出，“主题专门化还允许管理相关类型的组合，更改他们共同的祖先元素，而不是单独维护每个实例”(Priestley et al., &lt;t11/&gt;2001, &lt;t12/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T030859Z" creationid="DSS" creationdate="20200817T090958Z">
+        <seg>进化（evolution）的概念，特别是与达尔文进化论相关的主题，自 DITA 从 IBM 诞生以来就一直是 DITA 术语的组成部分。表示“达尔文”（Darwin）的“&lt;t1/&gt;D&lt;t2/&gt;”&lt;t3/&gt;&lt;t4/&gt;是 DITA 标准首字母缩略词中的第一个字母，另外一些与“达尔文”相关的术语出现在了发表于2001年的《&lt;t5/&gt;技术传播&lt;t6/&gt;》&lt;t7/&gt;&lt;t8/&gt;一文中，该文章向 IBM 之外的世界介绍了DITA。例如，在描述主题专门化的过程时，迈克尔·普里斯特利及其合作者在文章中指出，“主题专门化还允许管理相关类型的组合，更改它们共同的祖先元素，而不是单独维护每个实例”(Priestley et al., &lt;t11/&gt;2001, &lt;t12/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
