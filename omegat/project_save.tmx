@@ -336,8 +336,8 @@
       <tuv lang="en">
         <seg>&lt;shortdesc&gt; &lt;t0/&gt;with a summary of the topic's contents</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145129Z" creationid="DSS" creationdate="20200725T065936Z">
-        <seg>&lt;shortdesc&gt; &lt;t0/&gt;是题内容的摘要</seg>
+      <tuv lang="ZH-CN" changeid="wqt" changedate="20200904T080640Z" creationid="DSS" creationdate="20200725T065936Z">
+        <seg>&lt;shortdesc&gt; &lt;t0/&gt;是主题内容的摘要</seg>
       </tuv>
     </tu>
     <tu>
@@ -7474,8 +7474,8 @@
       <tuv lang="en">
         <seg>For example, a concept could be an introduction to the sauces section in Chef Pedro's recipe book, while tasks can provide recipes for specific salsas and condiments (he can write a step about dicing tomatoes once and reuse in all the recipes that need it!), and a ref&lt;t0/&gt;erence topic can list common techniques and tools for preparing ingredients.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T130621Z" creationid="DSS" creationdate="20200724T162425Z">
-        <seg>例如，“概念”（concept）可以是对厨师佩德罗菜谱中酱汁部分的介绍，“任务”（task）可以为特定的辛香番茄酱和调味料提供菜谱（佩德罗可以写一个将番茄切成小块的操作步骤，然后在所有需要用到这一步骤的菜谱中重复使用！），“参考”（reference）可以列出准备食材的常用技术和工具。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="wqt" changedate="20200904T081006Z" creationid="DSS" creationdate="20200724T162425Z">
+        <seg>例如，“概念”（concept）可以是对厨师佩德罗菜谱中酱汁部分的介绍，“任务”（task）可以为特定的辛香番茄酱和调味料提供菜谱（佩德罗可以写一个将番茄切成小块的操作步骤，然后在所有需要用到这一步骤的菜谱中重复使用！），“参考”（reference）可以列出准备配料的常用技术和工具。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
