@@ -8826,8 +8826,8 @@
       <tuv lang="en">
         <seg>IBM eventually donated DITA as an open standard, which is currently main&lt;t0/&gt;tained by the non-profit consortium OASIS.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130746Z" creationid="DSS" creationdate="20200726T154833Z">
-        <seg>IBM 最终捐赠出 DITA，将其作为一种开放标准，目前该标准由非营利组织 OASIS 维护。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="wqt" changedate="20200904T072635Z" creationid="DSS" creationdate="20200726T154833Z">
+        <seg>IBM 最终将 DITA开源成一种开放标准，目前该标准由非营利组织 OASIS 维护。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
