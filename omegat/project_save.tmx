@@ -6288,8 +6288,8 @@
       <tuv lang="en">
         <seg>FIGURE 6.22 &lt;t0/&gt;Unordered list environment in XDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T161915Z" creationid="DSS" creationdate="20200816T161902Z">
-        <seg>图6.22&lt;t0/&gt;  XDITA 中的无序列表组件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T044755Z" creationid="DSS" creationdate="20200816T161902Z">
+        <seg>图6.22&lt;t0/&gt;  XDITA 中的无序列表组件环境。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6697,16 +6697,16 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;6.17 &lt;t1/&gt;Definition list environment in XDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T155837Z" creationid="DSS" creationdate="20200816T155837Z">
-        <seg>图&lt;t0/&gt;6.17&lt;t1/&gt; XDITA 中的定义列表组件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T044842Z" creationid="DSS" creationdate="20200816T155837Z">
+        <seg>图&lt;t0/&gt;6.17&lt;t1/&gt; XDITA 中的定义列表组件环境。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;6.18 &lt;t1/&gt;Definition list environment in HDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T160018Z" creationid="DSS" creationdate="20200816T160018Z">
-        <seg>图&lt;t0/&gt;6.18&lt;t1/&gt; HDITA 中的定义列表组件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T044828Z" creationid="DSS" creationdate="20200816T160018Z">
+        <seg>图&lt;t0/&gt;6.18&lt;t1/&gt; HDITA 中的定义列表组件环境。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6721,32 +6721,32 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;6.20 &lt;t1/&gt;Ordered list environment in XDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T161616Z" creationid="DSS" creationdate="20200816T161616Z">
-        <seg>图&lt;t0/&gt;6.20&lt;t1/&gt; XDITA 中的有序列表组件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T044834Z" creationid="DSS" creationdate="20200816T161616Z">
+        <seg>图&lt;t0/&gt;6.20&lt;t1/&gt; XDITA 中的有序列表组件环境。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;6.23 &lt;t1/&gt;Unordered list environment in HDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T151055Z" creationid="DSS" creationdate="20200817T125308Z">
-        <seg>图6.23 HDITA 中的无序列表组件，&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T044818Z" creationid="DSS" creationdate="20200817T125308Z">
+        <seg>图6.23 HDITA 中的无序列表组件环境，&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;6.24 &lt;t1/&gt;Ordered list environment in MDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T132238Z" creationid="DSS" creationdate="20200817T132238Z">
-        <seg>图&lt;t0/&gt;6.24&lt;t1/&gt; MDITA 中的有序列表组件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T044907Z" creationid="DSS" creationdate="20200817T132238Z">
+        <seg>图&lt;t0/&gt;6.24&lt;t1/&gt; MDITA 中的有序列表组件环境。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;6.25 &lt;t1/&gt;Unordered list environment in MDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T132042Z" creationid="DSS" creationdate="20200817T132042Z">
-        <seg>图&lt;t0/&gt;6.25&lt;t1/&gt; MDITA 中的无序列表组件，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T044804Z" creationid="DSS" creationdate="20200817T132042Z">
+        <seg>图&lt;t0/&gt;6.25&lt;t1/&gt; MDITA 中的无序列表组件环境。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13014,8 +13014,8 @@
       <tuv lang="en">
         <seg>Ordered list environment in HDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T161636Z" creationid="DSS" creationdate="20200816T161636Z">
-        <seg>HDITA 中的有序列表组件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T045057Z" creationid="DSS" creationdate="20200816T161636Z">
+        <seg>HDITA 中的有序列表组件环境。</seg>
       </tuv>
     </tu>
     <tu>
