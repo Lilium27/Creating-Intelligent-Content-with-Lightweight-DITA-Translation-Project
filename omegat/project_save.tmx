@@ -56,8 +56,8 @@
       <tuv lang="en">
         <seg>.), &lt;t3/&gt;its success depends on the content strategy that governs its life cycle” &lt;t4/&gt;(2014, &lt;t5/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T145933Z" creationid="lenovo" creationdate="20200831T134055Z">
-        <seg>）, &lt;t3/&gt;智能内容的成功取决于决定其生命周期的内容策略” &lt;t4/&gt;(2014, &lt;t5/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T150059Z" creationid="lenovo" creationdate="20200831T134055Z">
+        <seg>），&lt;t3/&gt;智能内容的成功取决于决定其生命周期的内容策略” &lt;t4/&gt;(2014, &lt;t5/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2563,8 +2563,8 @@
       <tuv lang="en">
         <seg>A simple and direct definition of content strategy, for those who do not have time to read Clark's excellent analysis of the term, comes from Rahel Anne Bailie, who is an active member of the Lightweight DITA subcommittee at OASIS.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T134107Z" creationid="lenovo" creationdate="20200831T134107Z">
-        <seg>对于那些没有时间阅读Clark对术语的出色分析的人来说，内容策略的简单直接的定义来自Rahel Anne Bailie，他是OASIS轻量级DITA小组委员会的活跃成员。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T150442Z" creationid="lenovo" creationdate="20200831T134107Z">
+        <seg>对于那些没有时间阅读克拉克对内容策略的出色分析的人来说，OASIS轻量级DITA小组委员会的活跃成员拉埃尔·阿内·拜利对内容策略做了一个简单而直接的定义。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3555,8 +3555,8 @@
       <tuv lang="en">
         <seg>Andersen debunks the role of technology over strategy when she explains that while “high-speed networks and the evolution of content technologies (e.g., Web &lt;t0/&gt;2.0, &lt;t1/&gt;CM systems) and their underlying standards (e.g., XML, HTML5, DITA) have made possible the emergence of intelligent content &lt;t2/&gt;(.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T145910Z" creationid="lenovo" creationdate="20200831T134038Z">
-        <seg>安德森解释说，“尽管高速网络和内容技术（例如Web 2.0和CM系统）的发展，及其底层标准（例如XML、HTML5和DITA）的存在使智能内容的出现成为可能，但安德森却否认了技术对策略的作用（…</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T150208Z" creationid="lenovo" creationdate="20200831T134038Z">
+        <seg>安德森否认了技术对策略的作用，她解释到：“尽管高速网络和内容技术（例如Web 2.0和CM系统）的发展，及其底层标准（例如XML、HTML5和DITA）的存在使智能内容的出现成为可能（…</seg>
       </tuv>
     </tu>
     <tu>
