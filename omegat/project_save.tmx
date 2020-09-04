@@ -6352,8 +6352,8 @@
       <tuv lang="en">
         <seg>FIGURE 6.42 &lt;t0/&gt;Preview of an XDITA topic with a preformatted text environment in&lt;t1/&gt; Oxygen XML's &lt;t2/&gt;author&lt;t3/&gt; mode.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T133326Z" creationid="lenovo" creationdate="20200821T133742Z">
-        <seg>图 6.42 &lt;t0/&gt;在&lt;t1/&gt; Oxygen XML的&lt;t2/&gt;作者&lt;t3/&gt;模式下，包含预格式化文本组件的XDITA主题的预览。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T045706Z" creationid="lenovo" creationdate="20200821T133742Z">
+        <seg>图 6.42 &lt;t0/&gt;在&lt;t1/&gt; Oxygen XML的&lt;t2/&gt;作者&lt;t3/&gt;模式下，包含预格式化文本组件环境的XDITA主题的预览。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7194,16 +7194,16 @@
       <tuv lang="en">
         <seg>Figure &lt;t0/&gt;6.57&lt;t1/&gt; &lt;t2/&gt;shows an HDITA topic with the audio environment.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T144312Z" creationid="lenovo" creationdate="20200825T141057Z">
-        <seg>图 &lt;t0/&gt;6.57&lt;t1/&gt; &lt;t2/&gt;展示了包含音频组件内容环境的HDITA主题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T045722Z" creationid="lenovo" creationdate="20200825T141057Z">
+        <seg>图 &lt;t0/&gt;6.57&lt;t1/&gt; &lt;t2/&gt;展示了包含音频组件环境的HDITA主题。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Figure &lt;t0/&gt;6.59&lt;t1/&gt; &lt;t2/&gt;shows an HDITA topic with the video environment.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T144128Z" creationid="lenovo" creationdate="20200826T153118Z">
-        <seg>图 &lt;t0/&gt;6.59&lt;t1/&gt; &lt;t2/&gt;展示了包含视频组件内容环境的HDITA主题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T063451Z" creationid="lenovo" creationdate="20200826T153118Z">
+        <seg>图 &lt;t0/&gt;6.59&lt;t1/&gt; &lt;t2/&gt;展示了包含视频组件环境的HDITA主题。</seg>
       </tuv>
     </tu>
     <tu>
