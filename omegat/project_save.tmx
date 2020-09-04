@@ -12292,8 +12292,8 @@
       <tuv lang="en">
         <seg>Michael Priestley, Senior Technical Staff Member and Enterprise Content Technology Strategist at IBM and known as one of DITA's “founding fathers” (Etheridge, &lt;t0/&gt;2016), &lt;t1/&gt;defines Lightweight DITA (LwDITA, which should be read as “Lightweight DITA”) as a simplified schema for structuring content, with fewer elements, tighter content models and a simplified specialization archi&lt;t2/&gt;tecture to define new types compared to those of DITA XML.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T150956Z" creationid="DSS" creationdate="20200726T082353Z">
-        <seg>迈克尔·普里斯特利是 IBM 高级技术人员和企业内容技术策略师，被誉为 DITA 的“创始人”（埃瑟里奇，&lt;t0/&gt;2016&lt;t1/&gt;&lt;t2/&gt;年），他认为轻量级 DITA （LwDITA，全称为“Lightweight DITA”）一种创建结构化内容的简单方式，与 DITA XML  相比，可以用更少的元素、更紧凑的内容模型和简化的专有体系结构来定义新类型。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T032731Z" creationid="DSS" creationdate="20200726T082353Z">
+        <seg>迈克尔·普里斯特利是 IBM 高级技术人员和企业内容技术策略师，被誉为 DITA 的“创始人”（埃瑟里奇，&lt;t0/&gt;2016&lt;t1/&gt;&lt;t2/&gt;年），他认为轻量级 DITA （LwDITA，全称为“Lightweight DITA”）一种创建结构化内容的简单方式，与 DITA XML  相比，可以用更少的元素、更紧凑的内容模型和简化的专门化体系结构来定义新类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13046,8 +13046,8 @@
       <tuv lang="en">
         <seg>Other elements, like &lt;t18/&gt;&lt;lcObjective&gt; &lt;t19/&gt;for a single learning objective or &lt;t20/&gt;&lt;lcDelivery&gt; &lt;t21/&gt;for delivery method of educational content, are peculiar to the DITA learning and training specialization.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T063756Z" creationid="lenovo" creationdate="20200811T162957Z">
-        <seg>其他元素，如表示单一的学习目标的&lt;t18/&gt;&lt;lcObjective&gt; &lt;t19/&gt;，或表示教育内容传达方式的&lt;t20/&gt;&lt;lcDelivery&gt; &lt;t21/&gt;，是DITA学习和培训专业化所特有的。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T033102Z" creationid="lenovo" creationdate="20200811T162957Z">
+        <seg>其他元素，如表示单一的学习目标的&lt;t18/&gt;&lt;lcObjective&gt; &lt;t19/&gt;，或表示教育内容传达方式的&lt;t20/&gt;&lt;lcDelivery&gt; &lt;t21/&gt;，是DITA学习和培训专门化所特有的。</seg>
       </tuv>
     </tu>
     <tu>
