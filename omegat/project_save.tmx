@@ -3683,8 +3683,8 @@
       <tuv lang="en">
         <seg>As a franchise owner, he wants to ensure that the food in his restau&lt;t0/&gt;rants is consistent, and his kitchen staff needs up-to-date documentation with recipes and techniques adopted in all of his restaurants.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T161402Z" creationid="DSS" creationdate="20200726T153403Z">
-        <seg>作为餐馆老板，他希望能够确保所有餐馆里的食材都是一致的，厨房员工也需要知晓佩德罗所有餐馆的最新菜谱和采用的技艺。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="wqt" changedate="20200904T062052Z" creationid="DSS" creationdate="20200726T153403Z">
+        <seg>作为餐馆老板，他希望能够确保所有餐馆里的餐点都是一致的，厨房员工也需要知晓佩德罗所有餐馆的最新菜谱和采用的技艺。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4835,8 +4835,8 @@
       <tuv lang="en">
         <seg>Chef Pedro, like many content owners in this world, has been using Microsoft Word for most of his information prod&lt;t2/&gt;ucts, and the publications department in his company takes some of those Word files and, through long sessions of copy and pasting, produces menus and flyers in Adobe InDesign and maintains the restaurant's website using WordPress.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130737Z" creationid="DSS" creationdate="20200726T153439Z">
-        <seg>厨师佩德罗像世界上许多内容创作者一样，一直在使用 Microsoft Word 来编写他的信息产品。佩德罗公司的出版部门通过漫长的复制和粘贴部分 Word 文件，利用 Adobe InDesign 制作菜单和传单，并用 WordPress 维护餐馆的网站。&lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="wqt" changedate="20200904T062337Z" creationid="DSS" creationdate="20200726T153439Z">
+        <seg>厨师佩德罗像世界上许多内容创作者一样，一直在使用 Microsoft Word 来编写他的信息产品。佩德罗公司的出版部门拿到部分 Word 文件，通过漫长的复制和粘贴获取内容，利用 Adobe InDesign 制作菜单和传单，并用 WordPress 维护餐馆的网站。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
