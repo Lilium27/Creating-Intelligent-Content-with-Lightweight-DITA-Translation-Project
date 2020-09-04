@@ -3131,8 +3131,8 @@
       <tuv lang="en">
         <seg>Although the benefits of a well-planned and implemented intel&lt;t9/&gt;ligent content workflow built on XML or DITA are undeniable, this type of solution presents significant challenges that have repercussions in the academic and workplace facets of the profession.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T160158Z" creationid="DSS" creationdate="20200726T140905Z">
-        <seg>虽然精心规划和部署的 XML 或 DITA 智能内容工作流的优势不可否认，但这种解决方案也带来了重大挑战，对该领域的学术研究和职场工作都产生了影响。&lt;t9/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="wqt" changedate="20200904T031820Z" creationid="DSS" creationdate="20200726T140905Z">
+        <seg>虽然基于 XML 或 DITA的精心规划和部署的 智能内容工作流的优势不可否认，但这种解决方案也带来了重大挑战，对该领域的学术研究和职场工作都产生了影响。&lt;t9/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19769,8 +19769,8 @@
       <tuv lang="en">
         <seg>Traditionally, and as mentioned in the Adobe video, intelligent content work&lt;t0/&gt;flows for technical communication rely on structure provided by Extensible Markup Language (XML) and some of its specific grammars like DocBook, S1000D, and DITA (Cowan, &lt;t1/&gt;2010; &lt;t2/&gt;Glushko &lt;t3/&gt;&amp; &lt;t4/&gt;McGrath, &lt;t5/&gt;2008; &lt;t6/&gt;Hackos, &lt;t7/&gt;2011, &lt;t8/&gt;among others).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T160101Z" creationid="DSS" creationdate="20200726T140838Z">
-        <seg>从传统上来看，也正如 Adobe 视频中提到的，用于技术传播的智能内容工作流依赖于可扩展标记语言（XML）的结构及其一些特定的语法，如 DocBook、S1000D 和 DITA (Cowan, &lt;t1/&gt;2010; &lt;t2/&gt;Glushko &lt;t3/&gt;&amp; &lt;t4/&gt;McGrath, &lt;t5/&gt;2008; &lt;t6/&gt;Hackos, &lt;t7/&gt;2011, &lt;t8/&gt;among others)。&lt;t8/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="wqt" changedate="20200904T031604Z" creationid="DSS" creationdate="20200726T140838Z">
+        <seg>从传统上来看，也正如 Adobe 视频中提到的，用于技术传播的智能内容工作流依赖于可扩展标记语言（XML）的结构以及一些特定的语法，如 DocBook、S1000D 和 DITA (Cowan, &lt;t1/&gt;2010; &lt;t2/&gt;Glushko &lt;t3/&gt;&amp; &lt;t4/&gt;McGrath, &lt;t5/&gt;2008; &lt;t6/&gt;Hackos, &lt;t7/&gt;2011, &lt;t8/&gt;among others)。&lt;t8/&gt;</seg>
       </tuv>
     </tu>
     <tu>
