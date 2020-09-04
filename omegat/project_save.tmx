@@ -2339,8 +2339,8 @@
       <tuv lang="en">
         <seg>A chef might not be familiar with scholarship in writing studies, but authors like Karl Stolley, in his influential “The Lo-Fi Manifesto,” have argued for the adoption of open standards over software packages, identifying it as the only way to ensure that “digital works should long outlast the software that played a role in their creation” (Stolley, &lt;t0/&gt;2008).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T130046Z" creationid="DSS" creationdate="20200726T153939Z">
-        <seg>厨师可能不太认识研究写作的学者，但卡尔·斯多利等作者在其颇具影响的文章《低保真宣言》（The Lo-Fi Manifesto）中主张在软件包中采用开放标准，并认为这是唯一可以确保“在数字作品的创作过程中，使数字作品比软件流传更加久远”的方法(Stolley, &lt;t0/&gt;2008)。</seg>
+      <tuv lang="ZH-CN" changeid="wqt" changedate="20200904T064114Z" creationid="DSS" creationdate="20200726T153939Z">
+        <seg>厨师可能不太认识研究写作的学者，但卡尔·斯多利等作者在其颇具影响的文章《低保真宣言》（The Lo-Fi Manifesto）中主张在软件包中采用开放标准，并认为这是唯一可以确保“在数字作品的创作过程中，使数字作品比软件存活更久”的方法(Stolley, &lt;t0/&gt;2008)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17342,8 +17342,8 @@
       <tuv lang="en">
         <seg>The promise: a centralized content repository structured in XML can be the source for many user deliverables.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T081256Z" creationid="DSS" creationdate="20200727T081256Z">
-        <seg>XML 结构的集中化内容存储库可以作为许多用户交付内容的信息来源。</seg>
+      <tuv lang="ZH-CN" changeid="wqt" changedate="20200904T063358Z" creationid="DSS" creationdate="20200727T081256Z">
+        <seg>打出的旗号是：XML 结构的集中化内容存储库可以作为许多用户交付内容的信息来源。</seg>
       </tuv>
     </tu>
     <tu>
