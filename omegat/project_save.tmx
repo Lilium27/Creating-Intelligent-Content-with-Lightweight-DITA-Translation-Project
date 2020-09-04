@@ -553,8 +553,8 @@
       <tuv lang="en">
         <seg>&lt;t1/&gt;The spec adds that “an ordered list marker is a sequence of 1-9 arabic &lt;t2/&gt;(sic)&lt;t3/&gt; digits (0—9), followed by either a .</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T044325Z" creationid="DSS" creationdate="20200904T044325Z">
-        <seg>规范还表示“有序列表标记是由1-9个阿拉伯数字(0-9)组成的序列，数字后面跟着一个 . 或</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T044355Z" creationid="DSS" creationdate="20200904T044325Z">
+        <seg>规范还表示“有序列表标记是由1-9个阿拉伯数字(0-9)组成的序列，数字后面跟着一个“. ”或</seg>
       </tuv>
     </tu>
     <tu>
@@ -20882,8 +20882,8 @@
       <tuv lang="en">
         <seg>character or a ) character.” (GitHub Flavored Markdown Spec, 2017) &lt;t4/&gt;Figure 6.24&lt;t5/&gt; shows the list for poten&lt;t6/&gt;tial investors in MDITA syntax.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T044344Z" creationid="DSS" creationdate="20200904T044344Z">
-        <seg>一个 “）”</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T044706Z" creationid="DSS" creationdate="20200904T044344Z">
+        <seg>一个 “）”(GitHub Flavored Markdown Spec, 2017)。图6.24 展示了使用MDITA语法为潜在投资者编写列表。</seg>
       </tuv>
     </tu>
     <tu>
