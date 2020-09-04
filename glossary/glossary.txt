@@ -498,3 +498,4 @@ Ament	阿门特
 Note	注释、提示
 beer float recipe	生啤酒浮法配方
 ingredients	配料
+soda fountain	冷饮柜台
