@@ -21908,8 +21908,8 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;Darwin&lt;t1/&gt;: for specialization and how things could “evolve” from a base &lt;t2/&gt;• &lt;t3/&gt;Information Typing&lt;t4/&gt;: for representation of knowledge as typed units &lt;t5/&gt;• &lt;t6/&gt;Architecture&lt;t7/&gt;: a statement that this was not just a monolithic design but an exten&lt;t8/&gt;sible tool that could support many uses (Day, quoted in DITAWriter, &lt;t9/&gt;2016).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T032318Z" creationid="DSS" creationdate="20200726T154813Z">
-        <seg>•&lt;t0/&gt;达尔文&lt;t1/&gt;：代表专门化以及事物如何从一个基础形态“演进”；&lt;t2/&gt;•&lt;t3/&gt;信息类型化&lt;t4/&gt;：用不同类型单元表示知识； &lt;t5/&gt;• &lt;t6/&gt;架构&lt;t7/&gt;&lt;t8/&gt;：表示这不仅仅是一个整体设计理念，还是一个可扩展的工具，可以支持多种用途 (Day, quoted in DITAWriter, &lt;t9/&gt;2016)。
+      <tuv lang="ZH-CN" changeid="wqt" changedate="20200904T070854Z" creationid="DSS" creationdate="20200726T154813Z">
+        <seg>•&lt;t0/&gt;达尔文&lt;t1/&gt;：代表专门化以及事物如何从一个基础形态“演进”；&lt;t2/&gt;•&lt;t3/&gt;信息类型化&lt;t4/&gt;：用不同类型单元表示知识； &lt;t5/&gt;• &lt;t6/&gt;架构&lt;t7/&gt;&lt;t8/&gt;：表示这不是一个庞大而僵化的设计，而是一个可扩展的工具，可以支持多种用途 (Day, quoted in DITAWriter, &lt;t9/&gt;2016)。
 </seg>
       </tuv>
     </tu>
