@@ -551,6 +551,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t1/&gt;The spec adds that “an ordered list marker is a sequence of 1-9 arabic &lt;t2/&gt;(sic)&lt;t3/&gt; digits (0—9), followed by either a .</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T044325Z" creationid="DSS" creationdate="20200904T044325Z">
+        <seg>规范还表示“有序列表标记是由1-9个阿拉伯数字(0-9)组成的序列，数字后面跟着一个 . 或</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t1/&gt;The spec also explains that a fenced code block begins with a code fence, indented no more than three spaces, and then defines code fence as “a sequence of at least three consecutive backtick characters (') or tildes &lt;t2/&gt;(〜)&lt;t3/&gt;.(Tildes and backticks cannot be mixed.)” (GitHub Flavored Markdown Spec, 2017).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T132846Z" creationid="lenovo" creationdate="20200819T154626Z">
@@ -20868,6 +20876,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T090322Z" creationid="DSS" creationdate="20200817T090322Z">
         <seg>本章介绍了开发用于结构化内容和发布内容的 LwDITA 标准的幕后过程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>character or a ) character.” (GitHub Flavored Markdown Spec, 2017) &lt;t4/&gt;Figure 6.24&lt;t5/&gt; shows the list for poten&lt;t6/&gt;tial investors in MDITA syntax.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T044344Z" creationid="DSS" creationdate="20200904T044344Z">
+        <seg>一个 “）”</seg>
       </tuv>
     </tu>
     <tu>
