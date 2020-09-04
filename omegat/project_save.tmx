@@ -1491,8 +1491,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;Thus, in HDITA the definition list environment looks as shown in &lt;t4/&gt;Figure &lt;t5/&gt;6.18&lt;t6/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T155706Z" creationid="DSS" creationdate="20200816T155706Z">
-        <seg>&lt;t3/&gt;因此，在 HDITA  中，定义列表组件如图&lt;t4/&gt;&lt;t5/&gt;6.18&lt;t6/&gt;所示。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T045416Z" creationid="DSS" creationdate="20200816T155706Z">
+        <seg>&lt;t3/&gt;因此，在 HDITA  中，定义列表组件环境如图&lt;t4/&gt;&lt;t5/&gt;6.18&lt;t6/&gt;所示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6296,16 +6296,16 @@
       <tuv lang="en">
         <seg>FIGURE 6.27 &lt;t0/&gt;Preview of the XDITA topic with image and figure environments in&lt;t1/&gt; Oxygen XML &lt;t2/&gt;author&lt;t3/&gt; mode.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T134645Z">
-        <seg>图6.27 在 Oxygen XML 作者模式下，包含图像和图形组件的 XDITA主题的预览。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T045527Z" creationid="DSS" creationdate="20200817T134645Z">
+        <seg>图6.27 在 Oxygen XML 作者模式下，包含图像和图形组件环境的 XDITA主题的预览。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE 6.29 &lt;t0/&gt;Preview of the HDITA topic with image and figure environments in&lt;t1/&gt; a web browser.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T143646Z">
-        <seg>图6.29 &lt;t0/&gt;&lt;t1/&gt;包含图像和图形组件的 HDITA 主题在浏览器中的预览。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T045601Z" creationid="DSS" creationdate="20200817T143646Z">
+        <seg>图6.29 &lt;t0/&gt;&lt;t1/&gt;包含图像和图形组件环境的 HDITA 主题在浏览器中的预览。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6713,8 +6713,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;6.19 &lt;t1/&gt;Definition list environment in an MDITA extended profile topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T160249Z">
-        <seg>图&lt;t0/&gt;6.19&lt;t1/&gt; 包含扩展配置的 MDITA 主题中的定义列表组件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T045443Z" creationid="DSS" creationdate="20200816T160249Z">
+        <seg>图&lt;t0/&gt;6.19&lt;t1/&gt; 包含扩展配置的 MDITA 主题中的定义列表组件环境。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9516,8 +9516,8 @@
       <tuv lang="en">
         <seg>In HDITA, a paragraph&lt;t1/&gt; is also represented by opening and closing &lt;t2/&gt;&lt;p&gt; &lt;t3/&gt;tags, and paragraphs should be inside a body environment.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T075259Z" creationid="DSS" creationdate="20200816T142318Z">
-        <seg>在 HDITA 中，段落也是由一对 &lt;t1/&gt;&lt;t2/&gt;&lt;p&gt; &lt;t3/&gt;标签表示，并且段落包含在主正文组件中。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T045354Z" creationid="DSS" creationdate="20200816T142318Z">
+        <seg>在 HDITA 中，段落也是由一对 &lt;t1/&gt;&lt;t2/&gt;&lt;p&gt; &lt;t3/&gt;标签表示，并且段落应该包含在主正文组件环境中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9852,8 +9852,8 @@
       <tuv lang="en">
         <seg>In XDITA, the body&lt;t1/&gt; environment can hold several topic components.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T075259Z" creationid="DSS" creationdate="20200816T142237Z">
-        <seg>在 XDITA 中，正文组件可以包含多个主题组件。&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T045317Z" creationid="DSS" creationdate="20200816T142237Z">
+        <seg>在 XDITA 中，正文组件所创建的环境可以包含多个主题组件。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19881,8 +19881,8 @@
       <tuv lang="en">
         <seg>Unlike its counterpart in&lt;t2/&gt; XDITA, this definition list does not need the holding definition entry environment to contain pairs of definition term and definition description.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T160224Z" creationid="DSS" creationdate="20200816T160224Z">
-        <seg>与 XDITA 中的定义列表组件不同的是，本例中定义列表不需要定义条目来包裹成对的定义术语和定义描述。&lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T045431Z" creationid="DSS" creationdate="20200816T160224Z">
+        <seg>与 XDITA 中的定义列表组件不同的是，本例中定义列表不需要定义条目环境来包裹成对的定义术语和定义描述。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
