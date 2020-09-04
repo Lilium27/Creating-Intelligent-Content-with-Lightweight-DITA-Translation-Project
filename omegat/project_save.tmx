@@ -11156,8 +11156,8 @@
       <tuv lang="en">
         <seg>It was not supposed to be like this.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T121834Z" creationid="DSS" creationdate="20200720T160228Z">
-        <seg>不过之前可不是这样的。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T034546Z" creationid="DSS" creationdate="20200720T160228Z">
+        <seg>这并非正确的导向。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18934,8 +18934,8 @@
       <tuv lang="en">
         <seg>This chapter presents an overview of the evolution of DITA &lt;t0/&gt;- &lt;t1/&gt;an XML-based “end-to-end architecture for creating and delivering modular technical information” (Priestley et al., 2001, p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T125943Z" creationid="DSS" creationdate="20200726T152940Z">
-        <seg>本章概述了 DITA 的发展&lt;t0/&gt;-——&lt;t1/&gt;一种基于 XML 的“用于创建和交付模块化技术信息的端到端体系结构”(Priestley et al., 2001, p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T034312Z" creationid="DSS" creationdate="20200726T152940Z">
+        <seg>本章概述了 DITA 的发展&lt;t0/&gt;——&lt;t1/&gt;一种基于 XML 的“用于创建和交付模块化技术信息的端到端体系结构”(Priestley et al., 2001, p.</seg>
       </tuv>
     </tu>
     <tu>
