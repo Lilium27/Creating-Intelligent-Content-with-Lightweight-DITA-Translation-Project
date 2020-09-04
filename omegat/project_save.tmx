@@ -2163,8 +2163,8 @@
       <tuv lang="en">
         <seg>&lt;t8/&gt;Topic-based writing is described as “authoring an information set as a collection of discrete units called &lt;t9/&gt;topics&lt;t10/&gt;, rather than as a whole book or help system” (Baker, &lt;t11/&gt;2016 &lt;t12/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T131421Z" creationid="DSS" creationdate="20200724T154341Z">
-        <seg>&lt;t8/&gt;基于主题的写作会“编写一个信息集，聚合不同&lt;t9/&gt;主题&lt;t10/&gt;的离散单元，而非编写一本书或一个帮助系统”(Baker, &lt;t11/&gt;2016 &lt;t12/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="wqt" changedate="20200904T074713Z" creationid="DSS" creationdate="20200724T154341Z">
+        <seg>&lt;t8/&gt;基于主题的写作会“编写一个信息集，集合名为&lt;t9/&gt;主题&lt;t10/&gt;的离散单元，而非编写一本书或一个帮助系统”(Baker, &lt;t11/&gt;2016 &lt;t12/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3283,8 +3283,8 @@
       <tuv lang="en">
         <seg>An effective topic covers only one subject.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wqt" changedate="20200904T074007Z" creationid="DSS" creationdate="20200724T154230Z">
-        <seg>一个有效的主题只涵盖一个对象。</seg>
+      <tuv lang="ZH-CN" changeid="wqt" changedate="20200904T074125Z" creationid="DSS" creationdate="20200724T154230Z">
+        <seg>一个有效的主题只涵盖一个问题。</seg>
       </tuv>
     </tu>
     <tu>
