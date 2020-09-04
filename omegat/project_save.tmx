@@ -16693,8 +16693,8 @@
       <tuv lang="en">
         <seg>The future of technical communication still involves XML; therefore, the follow&lt;t2/&gt;ing sections include brief introductions to Extensible Markup Language and the Darwin Information Typing Architecture, providing examples of the main content and collection types included in the latter.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wqt" changedate="20200904T055903Z" creationid="DSS" creationdate="20200726T153005Z">
-        <seg>未来技术传播的发展仍然与 XML 有关，因此，接下来的几章首先会对 XML 和 DITA 作简要介绍，并提供 DITA 所包含的主要内容和集合类型的示例。&lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="wqt" changedate="20200904T055932Z" creationid="DSS" creationdate="20200726T153005Z">
+        <seg>未来技术传播的发展仍然与 XML 有关，因此，接下来的本章首先会对 XML 和 DITA 作简要介绍，并提供 DITA 所包含的主要内容和集合类型的示例。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
