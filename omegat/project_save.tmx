@@ -7570,8 +7570,8 @@
       <tuv lang="en">
         <seg>For someone like Chef Pedro (and even for many of my technical writing students), creating the tags to structure content in XML can be an easy-to- learn task.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153808Z" creationid="DSS" creationdate="20200726T153808Z">
-        <seg>对于像佩德罗这样的人（甚至对于我的许多正在学习使用技术写作的学生）来说，利用 XML 的标记来创建结构化内容非常容易。</seg>
+      <tuv lang="ZH-CN" changeid="wqt" changedate="20200904T062819Z" creationid="DSS" creationdate="20200726T153808Z">
+        <seg>对于像佩德罗这样的人（甚至对于我的许多正在学习使用技术写作的学生）来说，学会用 XML 的标记来创建结构化内容非常容易。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12814,8 +12814,8 @@
       <tuv lang="en">
         <seg>On the other hand, producing information deliverables based on that structure (say, a webpage with a specific recipe) is not necessarily simple when implementing a custom XML content type.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153823Z" creationid="DSS" creationdate="20200726T153823Z">
-        <seg>但利用某一特定的XML内容类型根据结构（比如特定菜谱的网页）生成可交付成果并不一定简单。</seg>
+      <tuv lang="ZH-CN" changeid="wqt" changedate="20200904T062936Z" creationid="DSS" creationdate="20200726T153823Z">
+        <seg>但利用某一特定的XML内容类型，根据结构（比如特定菜谱的网页）生成可交付成果并不一定简单。</seg>
       </tuv>
     </tu>
     <tu>
