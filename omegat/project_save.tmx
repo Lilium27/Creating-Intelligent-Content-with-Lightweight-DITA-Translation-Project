@@ -7458,8 +7458,8 @@
       <tuv lang="en">
         <seg>For example, Chef Pedro is going to need to provide ingredients for his recipes, so he could create an ingredients specialization to include this specific element (i.e., &lt;t13/&gt;&lt;ingredients&gt; &lt;t14/&gt;as a specialization of &lt;t15/&gt;&lt;prereq&gt; &lt;t16/&gt;for pre-requisites).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150054Z" creationid="DSS" creationdate="20200725T143942Z">
-        <seg>例如， 佩德罗需要为菜谱编写食材，所以他可以创建特有的食材标签来包含每个特定食材（如  &lt;t13/&gt;&lt;ingredients&gt; &lt;t14/&gt; 是表示前期准备的标签 &lt;t15/&gt;&lt;prereq&gt; &lt;t16/&gt; 下的特有标签）。</seg>
+      <tuv lang="ZH-CN" changeid="wqt" changedate="20200904T085645Z" creationid="DSS" creationdate="20200725T143942Z">
+        <seg>例如， 佩德罗需要为菜谱编写配料，所以他可以创建特有的食材标签来包含每个特定食材（如  &lt;t13/&gt;&lt;ingredients&gt; &lt;t14/&gt; 是表示前期准备的标签 &lt;t15/&gt;&lt;prereq&gt; &lt;t16/&gt; 下的特有标签）。</seg>
       </tuv>
     </tu>
     <tu>
