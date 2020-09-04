@@ -617,8 +617,8 @@
       <tuv lang="en">
         <seg>&lt;t10/&gt;Actually, the all- inclusive edition of the DITA &lt;t11/&gt;1.3 &lt;t12/&gt;standard has &lt;t13/&gt;26 &lt;t14/&gt;document types (predefined document, or even genre, templates) and &lt;t15/&gt;621 &lt;t16/&gt;element types (placeholders or structures for specific content moves).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T145654Z" creationid="DSS" creationdate="20200725T083511Z">
-        <seg>&lt;t10/&gt;实际上，DITA &lt;t11/&gt;1.3&lt;t12/&gt;标准的完整版本包含&lt;t13/&gt;26&lt;t14/&gt;种文档类型（预定义文档、类型或模板）和&lt;t15/&gt;621&lt;t16/&gt;种元素类型（用于特定内容操作的占位符或结构）。</seg>
+      <tuv lang="ZH-CN" changeid="wqt" changedate="20200904T084255Z" creationid="DSS" creationdate="20200725T083511Z">
+        <seg>&lt;t10/&gt;实际上，DITA &lt;t11/&gt;1.3&lt;t12/&gt;标准的完整版本包含&lt;t13/&gt;26&lt;t14/&gt;种文档类型（预定义文档、类型或模板）和&lt;t15/&gt;621&lt;t16/&gt;种元素类型（用于特定内容文步的占位符或结构）。</seg>
       </tuv>
     </tu>
     <tu>
