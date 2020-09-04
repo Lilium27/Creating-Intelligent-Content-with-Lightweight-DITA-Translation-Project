@@ -7474,8 +7474,8 @@
       <tuv lang="en">
         <seg>For example, Chef Pedro is going to need to provide ingredients for his recipes, so he could create an ingredients specialization to include this specific element (i.e., &lt;t13/&gt;&lt;ingredients&gt; &lt;t14/&gt;as a specialization of &lt;t15/&gt;&lt;prereq&gt; &lt;t16/&gt;for pre-requisites).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wqt" changedate="20200904T085645Z" creationid="DSS" creationdate="20200725T143942Z">
-        <seg>例如， 佩德罗需要为菜谱编写配料，所以他可以创建特有的食材标签来包含每个特定食材（如  &lt;t13/&gt;&lt;ingredients&gt; &lt;t14/&gt; 是表示前期准备的标签 &lt;t15/&gt;&lt;prereq&gt; &lt;t16/&gt; 下的特有标签）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T151455Z" creationid="DSS" creationdate="20200725T143942Z">
+        <seg>例如， 佩德罗需要为菜谱编写配料，所以他可以创建特有的配料标签来包含每个特定配料（如  &lt;t13/&gt;&lt;ingredients&gt; &lt;t14/&gt; 是表示前期准备的标签 &lt;t15/&gt;&lt;prereq&gt; &lt;t16/&gt; 下的特有标签）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16299,8 +16299,8 @@
       <tuv lang="en">
         <seg>The content needs of the com&lt;t2/&gt;pany now are many: they will need guides for workers in the corporate-owned restaurants, guidelines and expectations for franchise owners, and because of the nature of this business (restaurants), they will also require collections of recipes and acceptable ingredients that can be reused in end-user products like a menu for print and online channels.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131305Z" creationid="DSS" creationdate="20200807T043637Z">
-        <seg>目前，公司在内容上有很多需求：他们需要制作指导企业餐厅员工的手册，管理品牌特许经营权所有者的指导方针和期望。与此同时，因为餐饮行业的本质所需，他们还要集中管理受顾客喜爱的菜谱和原料，以便在打印版菜单或在线菜单等终端用户产品中复用。 &lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T151522Z" creationid="DSS" creationdate="20200807T043637Z">
+        <seg>目前，公司在内容上有很多需求：他们需要制作指导企业餐厅员工的手册，管理品牌特许经营权所有者的指导方针和期望。与此同时，因为餐饮行业的本质所需，他们还要集中管理受顾客喜爱的菜谱和配料，以便在打印版菜单或在线菜单等终端用户产品中复用。 &lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20361,8 +20361,8 @@
       <tuv lang="en">
         <seg>While earlier cookbooks may have had separate recipes for strawberry milkshakes, raspberry milk&lt;t1/&gt;shakes and boysenberry milkshakes, eventually, he imagines, someone said, “Why don't we collapse that into one milkshake recipe?”</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131402Z" creationid="DSS" creationdate="20200809T132712Z">
-        <seg>虽然早期的食谱中可能会为草莓奶昔、覆盆子奶昔和波森莓奶昔分别提供食谱，但加西亚猜想，最终有人会说，“为什么不把它们合成一个奶昔食谱呢?”&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T151307Z" creationid="DSS" creationdate="20200809T132712Z">
+        <seg>虽然早期的烹饪书中可能会为草莓奶昔、覆盆子奶昔和波森莓奶昔分别提供食谱，但加西亚猜想，最终有人会说，“为什么不把它们合成一个奶昔食谱呢?”&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
