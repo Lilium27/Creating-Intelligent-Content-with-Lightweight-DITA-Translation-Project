@@ -1627,8 +1627,8 @@
       <tuv lang="en">
         <seg>&lt;t4/&gt;In many technical communication practices, “efficient content reuse does not involve copy-and-pasting; instead it uses &lt;t5/&gt;transclusion&lt;t6/&gt;, whereby content is authored in one location and used by reference in other locations” (Eberlein, &lt;t7/&gt;2016 &lt;t8/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T154638Z" creationid="DSS" creationdate="20200720T155448Z">
-        <seg>&lt;t4/&gt;在众多的技术传播实践中，“有效内容的重用不是复制粘贴，而是&lt;t5/&gt;引用&lt;t6/&gt;，即在一个地方创作内容，在其他地方引用该内容”(Eberlein, &lt;t7/&gt;2016 &lt;t8/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T041034Z" creationid="DSS" creationdate="20200720T155448Z">
+        <seg>&lt;t4/&gt;在众多的技术传播实践中，“有效内容的复用不是复制粘贴，而是&lt;t5/&gt;引用&lt;t6/&gt;，即在一个地方创作内容，在其他地方引用该内容”(Eberlein, &lt;t7/&gt;2016 &lt;t8/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4851,8 +4851,8 @@
       <tuv lang="en">
         <seg>Clark &lt;t2/&gt;(2016) &lt;t3/&gt;notes that the idea of content strategy “can realize the interdepartmental possibilities” involving the adoption of reuse and single-sourcing outside of technical communication that authors have been promising for decades.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T125525Z" creationid="lenovo" creationdate="20200831T133921Z">
-        <seg>Clark（2016）指出，内容策略的概念“可以实现跨部门的可能性”，涉及数十年来作者一直希望的技术交流之外的重用和同源开发的采用。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T041034Z" creationid="lenovo" creationdate="20200831T133921Z">
+        <seg>Clark（2016）指出，内容策略的概念“可以实现跨部门的可能性”，涉及数十年来作者一直希望的技术交流之外的复用和同源开发的采用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14978,8 +14978,8 @@
       <tuv lang="en">
         <seg>That generic LwDITA topic can also accommodate enough components and attributes to create con&lt;t1/&gt;tent that sticks to the requirements of “modular, structured, reusable, format free, and semantically rich and, as a consequence, discoverable, reconfigurable, and adaptable” presented by Rockley et al.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200804T162432Z">
-        <seg>通用的 LwDITA 主题也可以容纳足够多的组件和属性，以创建符合罗克利等人提出的“模块化、结构化、可重用、格式自由、语义丰富，因而可发现、可重构和可修改”的要求的内容。&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T041034Z" creationid="DSS" creationdate="20200804T162432Z">
+        <seg>通用的 LwDITA 主题也可以容纳足够多的组件和属性，以创建符合罗克利等人提出的“模块化、结构化、可复用、格式自由、语义丰富，因而可发现、可重构和可修改”的要求的内容。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18630,8 +18630,8 @@
       <tuv lang="en">
         <seg>These layers of abstraction are not necessarily new to the field of technical communication (they include long-discussed concepts and principles like separating content from design, and planning for single-sourcing and content reuse, among others), but are essential building blocks of intelligent content solutions that are still not fully embraced in academia.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T041910Z" creationid="DSS" creationdate="20200817T041910Z">
-        <seg>抽象层级对技术传播领域来说不一定是新鲜的观点（抽象层级的概念包括讨论各种已久的概念和原则，如将内容与设计分离、同源规划和内容重用等），但在学术界还没有完全接受智能内容解决方案基本构建块的概念。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T041034Z" creationid="DSS" creationdate="20200817T041910Z">
+        <seg>抽象层级对技术传播领域来说不一定是新鲜的观点（抽象层级的概念包括讨论各种已久的概念和原则，如将内容与设计分离、同源规划和内容复用等），但在学术界还没有完全接受智能内容解决方案基本构建块的概念。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20185,8 +20185,8 @@
       <tuv lang="en">
         <seg>When he talks about “reusable content,” Mathewson is referring to the “prac&lt;t0/&gt;tice of using content components in multiple information products” (Eberlein, &lt;t1/&gt;2016 &lt;t2/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T154604Z" creationid="DSS" creationdate="20200720T153908Z">
-        <seg>马修森所说的“可重用内容”是指“在多个信息产品中使用内容组件的&lt;t0/&gt;实践” (Eberlein, &lt;t1/&gt;2016 &lt;t2/&gt;p.，&lt;t1/&gt;2016&lt;t2/&gt;年，第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T041034Z" creationid="DSS" creationdate="20200720T153908Z">
+        <seg>马修森所说的“可复用内容”是指“在多个信息产品中使用内容组件的&lt;t0/&gt;实践” (Eberlein, &lt;t1/&gt;2016 &lt;t2/&gt;p.，&lt;t1/&gt;2016&lt;t2/&gt;年，第</seg>
       </tuv>
     </tu>
     <tu>
@@ -22005,8 +22005,8 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;Layer &lt;t1/&gt;4: &lt;t2/&gt;Linking topics and maps for collection and reuse</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T133715Z" creationid="lenovo" creationdate="20200831T133715Z">
-        <seg>•第4层：链接主题和地图以进行收集和重用</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T041034Z" creationid="lenovo" creationdate="20200831T133715Z">
+        <seg>•第4层：链接主题和地图以进行收集和复用</seg>
       </tuv>
     </tu>
     <tu>
