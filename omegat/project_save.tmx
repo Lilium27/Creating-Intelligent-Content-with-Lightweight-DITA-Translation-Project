@@ -4867,8 +4867,8 @@
       <tuv lang="en">
         <seg>Clark's meticulous literature review on the term is eye-opening and inspiring to take the first step through the layers of abstraction behind developing intelligent content with</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T144302Z" creationid="lenovo" creationdate="20200831T133942Z">
-        <seg>克拉克对术语“内容策略”细致的文献综述令人大开眼界，并启发人们迈出第一步，通过LwDITA开发智能内容背后的</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T144427Z" creationid="lenovo" creationdate="20200831T133942Z">
+        <seg>克拉克对术语“内容策略”细致的文献综述令人大开眼界，并启发人们迈出了解使用LwDITA开发智能内容背后的</seg>
       </tuv>
     </tu>
     <tu>
@@ -12070,6 +12070,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T140623Z" creationid="DSS" creationdate="20200816T140301Z">
         <seg>支持 LwDITA 的工具可以自动利用&lt;title&gt;标签生成&lt;t7/&gt;&lt;h1&gt; &lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;，并减少创作者的重复劳动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LwDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T144308Z" creationid="DSS" creationdate="20200904T144308Z">
+        <seg>抽象层级。</seg>
       </tuv>
     </tu>
     <tu>
