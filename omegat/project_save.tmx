@@ -14833,8 +14833,8 @@
       <tuv lang="en">
         <seg>Task: includes procedures (“how to” information)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T162501Z" creationid="DSS" creationdate="20200724T162450Z">
-        <seg>任务（task）：包括步骤（指南信息）
+      <tuv lang="ZH-CN" changeid="wqt" changedate="20200904T075830Z" creationid="DSS" creationdate="20200724T162450Z">
+        <seg>任务（task）：包含步骤（“如何做”的信息）
 </seg>
       </tuv>
     </tu>
