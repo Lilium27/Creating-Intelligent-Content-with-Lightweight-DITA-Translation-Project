@@ -15323,8 +15323,8 @@
       <tuv lang="en">
         <seg>The Component Content Management paradigm shift—which Carlos describes in &lt;t0/&gt;Chapter &lt;t1/&gt;2&lt;t2/&gt;, &lt;t3/&gt;which Tatiana Batova and Rebekka Andersen outline in their &lt;t4/&gt;2017 &lt;t5/&gt;IEEE Transactions&lt;t6/&gt; article on skills needed for Component Content Management, and which JoAnn Hackos describes in her &lt;t7/&gt;2015 &lt;t8/&gt;ISO/IEC/IEEE &lt;t9/&gt;26531 &lt;t10/&gt;standard on content management— has helped our field understand that in the digital era technical writers in the workplace don't “write” so much as they develop, delineate, and manage small content modules which they collect into information architectures.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T143231Z" creationid="DSS" creationdate="20200820T140401Z">
-        <seg>&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;卡洛斯在第二章中介绍的组件内容管理范式转变，塔蒂阿娜·巴特瓦（Tatiana Batova）和瑞贝卡·安德森（Rebekka Andersen）在2017年 &lt;t5/&gt;IEEE&lt;t6/&gt; &lt;t7/&gt;期刊文章中提及的使用内容管理组件所需的技能，和乔安·哈克斯（JoAnn Hackos）在2015年 &lt;t8/&gt;ISO / IEC / IEEE &lt;t9/&gt;26531&lt;t10/&gt; 标准中介绍的内容管理技能，让技术传播领域的人知道，在数字时代，职业的技术写作工程师不再需要“写”那么多内容，而是需要开发、规划和管理从各处收集的小内容模块，使之成为信息体系。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T032052Z" creationid="DSS" creationdate="20200820T140401Z">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;卡洛斯在第二章中介绍的组件内容管理范式转变，塔蒂阿娜·巴特瓦（Tatiana Batova）和瑞贝卡·安德森（Rebekka Andersen）在2017年 &lt;t5/&gt;IEEE&lt;t6/&gt; &lt;t7/&gt;期刊文章中提及的使用内容管理组件所需的技能，和乔安·哈克斯（JoAnn Hackos）在2015年 &lt;t8/&gt;ISO / IEC / IEEE &lt;t9/&gt;26531&lt;t10/&gt; 标准中介绍的内容管理技能，让技术传播领域的人知道，在数字时代，职业的技术文档工程师不再需要“写”那么多内容，而是需要开发、规划和管理从各处收集的小内容模块，使之成为信息体系。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18686,8 +18686,8 @@
       <tuv lang="en">
         <seg>These users can be casual content contributors (e.g., a subject matter expert who authors short topics that a technical author will later integrate into a larger DITA collection) or authors who are not working with DITA XML (e.g., marketing professionals creating intelligent content for multi&lt;t5/&gt;channel publishing, or even technical writers who prefer to write in HTML or Markdown).&lt;t6/&gt; Chapter &lt;t7/&gt;4&lt;t8/&gt; &lt;t9/&gt;identifies additional user types for the three ini&lt;t10/&gt;tial authoring formats of LwDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T122329Z" creationid="DSS" creationdate="20200730T095547Z">
-        <seg>这些用户可能是非职业的内容贡献者（比如，编写简短主题的主题专家，这些主题将由技术文档工程师整合成一个更大的 DITA 集合）或作者不使用 DITA XML（例如，创建可以多渠道发布的智能内容的营销专业人士，甚至是喜欢用 HTML 或 Markdown 的技术写作人员）。&lt;t5/&gt;&lt;t6/&gt;第&lt;t7/&gt;4&lt;t8/&gt; &lt;t9/&gt;&lt;t10/&gt;章介绍了LwDITA的三种初始写作格式的其他用户类型。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T031843Z" creationid="DSS" creationdate="20200730T095547Z">
+        <seg>这些用户可能是非职业的内容贡献者（比如，编写简短主题的主题专家，这些主题将由技术文档工程师整合成一个更大的 DITA 集合）或不使用 DITA XML 的创作者（例如，创建可以多渠道发布的智能内容的营销专业人士，甚至是喜欢用 HTML 或 Markdown 的技术文档工程师）。&lt;t5/&gt;&lt;t6/&gt;第&lt;t7/&gt;4&lt;t8/&gt; &lt;t9/&gt;&lt;t10/&gt;章介绍了LwDITA的三种初始写作格式的其他用户类型。</seg>
       </tuv>
     </tu>
     <tu>
