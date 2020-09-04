@@ -4859,16 +4859,16 @@
       <tuv lang="en">
         <seg>Clark &lt;t2/&gt;(2016) &lt;t3/&gt;notes that the idea of content strategy “can realize the interdepartmental possibilities” involving the adoption of reuse and single-sourcing outside of technical communication that authors have been promising for decades.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T143852Z" creationid="lenovo" creationdate="20200831T133921Z">
-        <seg>Clark（2016）指出，内容策略的概念“可以实现跨部门的可能性”，“跨部门的可能性”关系到在技术传播之外的领域里采用内容复用和同源开发功能，这是数十年来创作者们一直期盼的。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T144050Z" creationid="lenovo" creationdate="20200831T133921Z">
+        <seg>克拉克（2016）指出，内容策略的概念“可以实现跨部门的可能性”，“跨部门的可能性”关系到在技术传播之外的领域里采用内容复用和同源开发功能，这是数十年来创作者们一直期盼的。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Clark's meticulous literature review on the term is eye-opening and inspiring to take the first step through the layers of abstraction behind developing intelligent content with</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T133942Z" creationid="lenovo" creationdate="20200831T133942Z">
-        <seg>克拉克（Clark）对该术语的细致文献回顾令人大开眼界，并启发人们迈出第一步，通过LwDITA开发智能内容背后的抽象层次。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T144302Z" creationid="lenovo" creationdate="20200831T133942Z">
+        <seg>克拉克对术语“内容策略”细致的文献综述令人大开眼界，并启发人们迈出第一步，通过LwDITA开发智能内容背后的</seg>
       </tuv>
     </tu>
     <tu>
@@ -8186,8 +8186,8 @@
       <tuv lang="en">
         <seg>However, Clark also analyzes the dis&lt;t4/&gt;crepancies in definition and implementation of content strategy in the realms of documentation, marketing, web development, and others.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T133936Z" creationid="lenovo" creationdate="20200831T133936Z">
-        <seg>但是，Clark还分析了在文档，市场营销，Web开发等领域中内容策略定义和实施方面的差异。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T144053Z" creationid="lenovo" creationdate="20200831T133936Z">
+        <seg>不过，克拉克还分析了在文档、市场营销、网页开发等不同领域中对内容策略的定义和应用的差异。</seg>
       </tuv>
     </tu>
     <tu>
