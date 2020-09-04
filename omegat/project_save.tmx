@@ -21098,8 +21098,8 @@
       <tuv lang="en">
         <seg>kitchen team requires a web version of the recipe, the DITA-OT also provides that option and allows the author to link to a Cascading Style Sheet (CSS) file for formatting and design (&lt;t0/&gt;Figure &lt;t1/&gt;1.5&lt;t2/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T035736Z" creationid="DSS" creationdate="20200725T074323Z">
-        <seg>需要一份网页形式的菜谱，DITA-OT 也提供了这个选项，并允许作者为网页的格式和设计嵌入层叠样式表（Cascading Style Sheet, CSS）文件（&lt;t0/&gt;图&lt;t1/&gt;1.5&lt;t2/&gt;）。</seg>
+      <tuv lang="ZH-CN" changeid="wqt" changedate="20200904T082417Z" creationid="DSS" creationdate="20200725T074323Z">
+        <seg>需要一份网页版本的菜谱，DITA-OT 也提供了这个选项，并允许作者为网页的格式和设计嵌入层叠样式表（Cascading Style Sheet, CSS）文件（&lt;t0/&gt;图&lt;t1/&gt;1.5&lt;t2/&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
