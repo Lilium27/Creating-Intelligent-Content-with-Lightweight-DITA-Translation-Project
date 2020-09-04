@@ -5711,8 +5711,8 @@
       <tuv lang="en">
         <seg>Document architect, who defines and implements document structure</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200727T081311Z" creationid="DSS" creationdate="20200726T153640Z">
-        <seg>文档架构师，定义文档结构使之实现并</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T035326Z" creationid="DSS" creationdate="20200726T153640Z">
+        <seg>文档架构师，定义文档结构并使之实现</seg>
       </tuv>
     </tu>
     <tu>
@@ -14369,8 +14369,8 @@
       <tuv lang="en">
         <seg>Someone mentioned structured authoring with XML and that caught Chef Pedro's attention.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153510Z" creationid="DSS" creationdate="20200726T153510Z">
-        <seg>有人提到可以使用  XML 进行结构化创作，这引起了佩德罗的注意。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T035238Z" creationid="DSS" creationdate="20200726T153510Z">
+        <seg>有人提到可以使用 XML 进行结构化创作，这引起了佩德罗的注意。</seg>
       </tuv>
     </tu>
     <tu>
