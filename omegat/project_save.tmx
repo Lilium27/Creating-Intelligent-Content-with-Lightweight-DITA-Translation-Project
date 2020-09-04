@@ -7530,8 +7530,8 @@
       <tuv lang="en">
         <seg>For now, just focus on the fact that XML uses tags to identify the types of rhetorical “moves” that the content on the page represents.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T162413Z" creationid="DSS" creationdate="20200726T154454Z">
-        <seg>现在只需要知道 XML 使用标签来识别页面内容所表示的修辞关系。</seg>
+      <tuv lang="ZH-CN" changeid="wqt" changedate="20200904T065054Z" creationid="DSS" creationdate="20200726T154454Z">
+        <seg>现在只需要知道 XML 使用标签来识别页面内容所表示的修辞“文步”。</seg>
       </tuv>
     </tu>
     <tu>
