@@ -873,6 +873,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t2/&gt;14).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T150914Z" creationid="DSS" creationdate="20200904T150914Z">
+        <seg>&lt;t2/&gt;14)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t2/&gt;15)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T035448Z" creationid="DSS" creationdate="20200904T035448Z">
@@ -1315,8 +1323,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;Going back to the adaptive milkshake rec&lt;t4/&gt;ipe from Dan Garcia's example, in a LwDITA workflow an author would need to (following Bailie's definition) analyze and plan before writing any content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T134132Z" creationid="lenovo" creationdate="20200831T134132Z">
-        <seg>&lt;t3/&gt;回到丹·加西亚（Dan Garcia）的示例中的自适应奶昔配方，在LwDITA工作流程中，作者在书写任何内容之前需要（按照Bailie的定义）进行分析和计划。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T151220Z" creationid="lenovo" creationdate="20200831T134132Z">
+        <seg>&lt;t3/&gt;回到丹·加西亚示例中的自适应奶昔配方，在LwDITA工作流程中，创作者在编写任何内容之前需要（按照拜利的定义）进行分析和计划。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4227,8 +4235,8 @@
       <tuv lang="en">
         <seg>Bailie defines content strategy as “the analysis and planning to develop a repeatable system that governs the management of content throughout the entire content lifecycle” &lt;t0/&gt;(2014, &lt;t1/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T150859Z" creationid="lenovo" creationdate="20200831T134119Z">
-        <seg>拜利将内容策略定义为“为开发可以在整个内容生命周期中统筹内容管理的可重复系统而进行的分析和规划” &lt;t0/&gt;(2014, &lt;t1/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T151006Z" creationid="lenovo" creationdate="20200831T134119Z">
+        <seg>拜利将内容策略定义为“为开发可以在整个内容生命周期中统筹内容管理的可复用系统，而进行的分析和规划” &lt;t0/&gt;(2014, &lt;t1/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
