@@ -3131,8 +3131,8 @@
       <tuv lang="en">
         <seg>Although the benefits of a well-planned and implemented intel&lt;t9/&gt;ligent content workflow built on XML or DITA are undeniable, this type of solution presents significant challenges that have repercussions in the academic and workplace facets of the profession.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wqt" changedate="20200904T031820Z" creationid="DSS" creationdate="20200726T140905Z">
-        <seg>虽然基于 XML 或 DITA的精心规划和部署的 智能内容工作流的优势不可否认，但这种解决方案也带来了重大挑战，对该领域的学术研究和职场工作都产生了影响。&lt;t9/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T033715Z" creationid="DSS" creationdate="20200726T140905Z">
+        <seg>虽然不可否认基于 XML 或 DITA 精心规划和部署的智能内容工作流的优势，但这种解决方案也带来了重大挑战，对该领域的学术研究和职场工作都产生了影响。&lt;t9/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13729,8 +13729,8 @@
       <tuv lang="en">
         <seg>Researchers work with practitioners that include community partners, government officials, and med&lt;t1/&gt;ics.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130733Z" creationid="DSS" creationdate="20200726T140501Z">
-        <seg>研究人员与包括社区合作伙伴、政府官员和医疗人员在内的众多从业者合作。&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T033558Z" creationid="DSS" creationdate="20200726T140501Z">
+        <seg>研究人员也与包括社区合作伙伴、政府官员和医疗人员在内的众多从业者合作。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
