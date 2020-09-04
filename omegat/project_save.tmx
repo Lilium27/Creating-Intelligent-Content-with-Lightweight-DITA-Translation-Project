@@ -19382,8 +19382,8 @@
       <tuv lang="en">
         <seg>Those pre-established content types are enforced by files that are commonly referred to as DTDs, although DTD is only one of the markup languages used to verify the structure of those files.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T125644Z" creationid="DSS" creationdate="20200724T125644Z">
-        <seg>尽管 DTD 只是用于校验这些文件结构的标记语言之一，这些预先建立的内容类型通常由 DTD 文件执行。</seg>
+      <tuv lang="ZH-CN" changeid="wqt" changedate="20200904T073638Z" creationid="DSS" creationdate="20200724T125644Z">
+        <seg>尽管 DTD 只是用于校验这些文件结构的标记语言之一，但常用DTD来代指用于执行预先建立的内容类型的文件。</seg>
       </tuv>
     </tu>
     <tu>
