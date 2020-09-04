@@ -2683,8 +2683,8 @@
       <tuv lang="en">
         <seg>Abstractions in the LwDITA Content Lifecycle &lt;t0/&gt;165 &lt;t1/&gt;about authoring formats allowed by LwDITA and inspired by the ISTE standards for evaluating students as computational thinkers (ISTE, &lt;t2/&gt;2018), &lt;t3/&gt;looks as follows:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T155956Z" creationid="lenovo" creationdate="20200831T133621Z">
-        <seg>并受ISTE标准启发，而将学生评估为计算思想家的格式（ISTE，2018）看起来如下:</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T132624Z" creationid="lenovo" creationdate="20200831T133621Z">
+        <seg>并受ISTE标准启发，评估学生是否拥有计算机思维能力（ISTE，2018），各个层级如下所示：</seg>
       </tuv>
     </tu>
     <tu>
