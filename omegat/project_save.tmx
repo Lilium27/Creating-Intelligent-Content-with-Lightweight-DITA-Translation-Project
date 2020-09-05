@@ -11908,8 +11908,8 @@
       <tuv lang="en">
         <seg>LwDITA also defines mappings between XML, HTML5, and Markdown, enabling authoring, collabora&lt;t3/&gt;tion, and publishing across different markup languages.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T090716Z" creationid="DSS" creationdate="20200817T090716Z">
-        <seg>LwDITA 还定义了 XML、HTML5 和 Markdown 之间的映射干系，支持跨不同标记语言的创作、协作和发布。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200905T131129Z" creationid="DSS" creationdate="20200817T090716Z">
+        <seg>LwDITA 还定义了 XML、HTML5 和 Markdown 之间的映射关系，支持跨不同标记语言的创作、协作和发布。</seg>
       </tuv>
     </tu>
     <tu>
