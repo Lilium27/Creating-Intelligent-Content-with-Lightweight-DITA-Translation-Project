@@ -2379,8 +2379,8 @@
       <tuv lang="en">
         <seg>A con&lt;t0/&gt;tent unit can include a whole milkshake or root beer float recipe, but a picture illustrating how to use the mixer and a how-to video for making whipped cream are also content units that need their own row and ID.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T135854Z" creationid="lenovo" creationdate="20200831T135854Z">
-        <seg>内容单元可以包括整个奶昔或生啤酒浮法配方，但是说明如何使用搅拌器的图片以及制作鲜奶油的操作视频也是内容单元，它们需要自己的行和ID。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T143511Z" creationid="lenovo" creationdate="20200831T135854Z">
+        <seg>一个内容单元可以包括整个奶昔或漂浮沙士食谱，但是说明如何使用搅拌器的图片以及制作鲜奶油的操作视频也是内容单元，它们也需要属于自己的 ID，并占据一行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8042,8 +8042,8 @@
       <tuv lang="en">
         <seg>Halvorson &lt;t1/&gt;&amp; &lt;t2/&gt;Rach &lt;t3/&gt;(2012) &lt;t4/&gt;say that there “is no one perfect format, size, or timing for an audit; there are many different (and totally valid) ways to audit your content,” and they recom&lt;t5/&gt;mend including at least the following columns:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T142758Z" creationid="lenovo" creationdate="20200831T135823Z">
-        <seg>哈尔弗森（Halvorson）和瑞秋（Rach）（2012）表示，“内容审核没有完美的格式、大小或时间点；审核内容的方式有很多种（并且完全有效）”。他们建议审核的内容至少包括以下几项：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T143413Z" creationid="lenovo" creationdate="20200831T135823Z">
+        <seg>哈尔弗森（Halvorson）和瑞秋（Rach）（2012）表示，“内容审核没有完美的格式、大小或时间点；审核内容的方式有很多种（并且完全有效）”。他们建议审核的内容至少包括以下几项（列）：</seg>
       </tuv>
     </tu>
     <tu>
@@ -19809,8 +19809,8 @@
       <tuv lang="en">
         <seg>Traditionally, a content audit is based on a spreadsheet with columns representing bits of informa&lt;t0/&gt;tion and rows for each piece of content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T142209Z" creationid="lenovo" creationdate="20200831T135408Z">
-        <seg>传统上，内容审核基于电子表格进行，列代表信息点，行则代表每条内容。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T143407Z" creationid="lenovo" creationdate="20200831T135408Z">
+        <seg>传统上，内容审核基于电子表格进行，列代表信息单元，行则代表每条内容。</seg>
       </tuv>
     </tu>
     <tu>
