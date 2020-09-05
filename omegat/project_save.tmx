@@ -2227,8 +2227,8 @@
       <tuv lang="en">
         <seg>&lt;t9/&gt;Chapters &lt;t10/&gt;7&lt;t11/&gt; &lt;t12/&gt;and &lt;t13/&gt;8&lt;t14/&gt; &lt;t15/&gt;present an analysis of the abstractions behind the computational thinking and rhetorical problem solving processes that generate intelligent content with LwDITA, but the next section focuses on the potential benefits of LwDITA for content developers who do not need the features of full DITA XML.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150018Z" creationid="DSS" creationdate="20200817T041942Z">
-        <seg>第七章和第八章分析了在使用 LwDITA 编写智能内容时，隐藏在计算机思维和解决修辞问题过程背后的抽象概念，但下一节将重点讨论对于不需要使用 DITA XML 各种特性的内容开发人员来说， LwDITA 的潜在好处。&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200905T064044Z" creationid="DSS" creationdate="20200817T041942Z">
+        <seg>第七章和第八章分析了在使用 LwDITA 编写智能内容时，隐藏在计算机思维和解决修辞问题过程背后的抽象概念，但下一节将重点讨论对于不需要使用完整版 DITA XML 各种特性的内容开发人员来说， LwDITA 的潜在好处。&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;</seg>
       </tuv>
     </tu>
     <tu>
