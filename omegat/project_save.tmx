@@ -10796,8 +10796,8 @@
       <tuv lang="en">
         <seg>Information development and content management standards, like DITA and LwDITA, can be good examples of that description, as the process behind their releases can be complicated, and the consensus-driven nature of standards development takes time.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T124257Z" creationid="DSS" creationdate="20200730T124257Z">
-        <seg>信息开发和内容管理标准（如DITA和LwDITA）就是印证这句话的很好的例子，因为内容发布背后的过程可能及其复杂，而且标准开发的共识驱动性质需要时间。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200905T133037Z" creationid="DSS" creationdate="20200730T124257Z">
+        <seg>信息开发和内容管理标准（如DITA和LwDITA）就是印证这句话的很好的例子，因为内容发布背后的过程可能及其复杂，而且标准开发的共识驱动这一特性需要时间的历练。</seg>
       </tuv>
     </tu>
     <tu>
