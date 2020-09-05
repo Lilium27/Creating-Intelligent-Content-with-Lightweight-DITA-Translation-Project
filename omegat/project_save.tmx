@@ -18830,8 +18830,8 @@
       <tuv lang="en">
         <seg>They will probably not use advanced programming languages, but they work with XML, HTML5, and even Markdown code that for them requires a different kind of thinking than desktop publishing workflows involving long document files with a word pro&lt;t3/&gt;cessor.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T083734Z" creationid="DSS" creationdate="20200817T083734Z">
-        <seg>他们可能不需要使用高级编程语言，但会使用 XML、HTML5，甚至是 Markdown。对他们来说，这些使用代码需要一种不同于桌面发布工作流的思维方式，而桌面发布工作流使用文字处理器处理长文档。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200905T124815Z" creationid="DSS" creationdate="20200817T083734Z">
+        <seg>他们可能不需要使用高级编程语言，但会使用 XML、HTML5，甚至是 Markdown。对他们来说，使用这些代码需要一种不同于桌面发布工作流的思维方式，而桌面发布工作流使用文字处理器处理长文档。</seg>
       </tuv>
     </tu>
     <tu>
