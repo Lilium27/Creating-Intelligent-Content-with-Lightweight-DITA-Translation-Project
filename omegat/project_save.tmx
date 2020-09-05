@@ -12748,8 +12748,8 @@
       <tuv lang="en">
         <seg>Note</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T133034Z" creationid="DSS" creationdate="20200804T162547Z">
-        <seg>注释组件</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T164023Z" creationid="DSS" creationdate="20200804T162547Z">
+        <seg>注释  </seg>
       </tuv>
     </tu>
     <tu>
@@ -16187,8 +16187,8 @@
       <tuv lang="en">
         <seg>The combination of XML, HTML5, and Markdown in the initial LwDITA authoring formats enhances the diversity of authors in a DITA- like environment, but it also represents challenges for compatibility and equivalency of models and structures.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T045249Z" creationid="DSS" creationdate="20200804T162926Z">
-        <seg>在 LwDITA 最初的写作格式中，XML、HTML5 和 Markdown 的组合提升了类 DITA 环境中作者的多样性，但也带来了对模型和结构的兼容性和对等性的挑战。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T164034Z" creationid="DSS" creationdate="20200804T162926Z">
+        <seg>在 LwDITA 最初的写作格式中，XML、HTML5 和 Markdown 的组合提升了类 DITA 环境中写作者的多样性，但也带来了对模型和结构的兼容性和对等性的挑战。</seg>
       </tuv>
     </tu>
     <tu>
