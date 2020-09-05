@@ -2955,8 +2955,8 @@
       <tuv lang="en">
         <seg>After processing, the resulting recipe will give the exact instructions for each context.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T140248Z" creationid="lenovo" creationdate="20200831T140248Z">
-        <seg>处理后，生成的配方将为每个上下文提供确切的说明。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T145650Z" creationid="lenovo" creationdate="20200831T140248Z">
+        <seg>元数据经过处理后，生成的食谱将为每个上下文语境提供确切的操作指南。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17062,8 +17062,8 @@
       <tuv lang="en">
         <seg>The metadata, which end users do not see, can set specific rules for each of those environments.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T140239Z" creationid="lenovo" creationdate="20200831T140239Z">
-        <seg>最终用户看不到的元数据可以为每个环境设置特定的规则。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T145551Z" creationid="lenovo" creationdate="20200831T140239Z">
+        <seg>终端用户看不到的这些元数据可以为每个环境设置特定的规则，</seg>
       </tuv>
     </tu>
     <tu>
