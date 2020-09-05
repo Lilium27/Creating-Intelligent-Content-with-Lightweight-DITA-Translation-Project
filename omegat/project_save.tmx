@@ -1561,6 +1561,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t4/&gt;28).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T144937Z" creationid="DSS" creationdate="20200905T144937Z">
+        <seg>&lt;t4/&gt;28)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t4/&gt;311).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T031021Z" creationid="DSS" creationdate="20200824T031021Z">
@@ -1843,8 +1851,8 @@
       <tuv lang="en">
         <seg>&lt;t5/&gt;These attributes are foundational for the filtering and processing of content that will take place in future layers.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T140206Z" creationid="lenovo" creationdate="20200831T140206Z">
-        <seg>&lt;t5/&gt;这些属性是将来将要进行的内容过滤和处理的基础。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T145106Z" creationid="lenovo" creationdate="20200831T140206Z">
+        <seg>&lt;t5/&gt;这些属性是在未来的层级中过滤和处理内容的基础。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12292,8 +12300,8 @@
       <tuv lang="en">
         <seg>Metadata: Lauren Creekmore defines metadata as “attributes of content you can use to structure, semantically define, and target content” (in Abel &lt;t0/&gt;&amp; &lt;t1/&gt;Bailie, &lt;t2/&gt;2014, &lt;t3/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T140156Z" creationid="lenovo" creationdate="20200831T140156Z">
-        <seg>元数据：Lauren Creekmore将元数据定义为“可用于构造，语义定义和目标内容的内容属性” (in Abel &lt;t0/&gt;&amp; &lt;t1/&gt;Bailie, &lt;t2/&gt;2014, &lt;t3/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T144851Z" creationid="lenovo" creationdate="20200831T140156Z">
+        <seg>元数据：劳伦·克里克莫尔（Lauren Creekmore）将元数据定义为“可用于结构化、语义化定义和定位内容的内容属性” (in Abel &lt;t0/&gt;&amp; &lt;t1/&gt;Bailie, &lt;t2/&gt;2014, &lt;t3/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
