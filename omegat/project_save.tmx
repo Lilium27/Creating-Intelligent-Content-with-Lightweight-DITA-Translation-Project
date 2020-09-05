@@ -8042,8 +8042,8 @@
       <tuv lang="en">
         <seg>Halvorson &lt;t1/&gt;&amp; &lt;t2/&gt;Rach &lt;t3/&gt;(2012) &lt;t4/&gt;say that there “is no one perfect format, size, or timing for an audit; there are many different (and totally valid) ways to audit your content,” and they recom&lt;t5/&gt;mend including at least the following columns:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T135823Z" creationid="lenovo" creationdate="20200831T135823Z">
-        <seg>Halvorson＆Rach（2012）表示，“没有一种完美的格式、规模或审核时间。 审核内容的方式有很多种（并且完全有效），”他们建议的至少包括以下几列：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T142758Z" creationid="lenovo" creationdate="20200831T135823Z">
+        <seg>哈尔弗森（Halvorson）和瑞秋（Rach）（2012）表示，“内容审核没有完美的格式、大小或时间点；审核内容的方式有很多种（并且完全有效）”。他们建议审核的内容至少包括以下几项：</seg>
       </tuv>
     </tu>
     <tu>
@@ -19809,8 +19809,8 @@
       <tuv lang="en">
         <seg>Traditionally, a content audit is based on a spreadsheet with columns representing bits of informa&lt;t0/&gt;tion and rows for each piece of content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T135408Z" creationid="lenovo" creationdate="20200831T135408Z">
-        <seg>传统上，内容审核基于电子表格，列代表信息点，而行则代表内容条例。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T142209Z" creationid="lenovo" creationdate="20200831T135408Z">
+        <seg>传统上，内容审核基于电子表格进行，列代表信息点，行则代表每条内容。</seg>
       </tuv>
     </tu>
     <tu>
