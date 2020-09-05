@@ -14545,8 +14545,8 @@
       <tuv lang="en">
         <seg>Structured authoring can provide many ben&lt;t0/&gt;efits, including consistency of format and sections among recipes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T140431Z" creationid="lenovo" creationdate="20200831T140431Z">
-        <seg>结构化的创作可以带来很多好处，包括格式的一致性和配方之间的一致性。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T150724Z" creationid="lenovo" creationdate="20200831T140431Z">
+        <seg>结构化的创作可以带来诸多益处，包括食谱之间的格式一致性和内容小节一致性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15181,6 +15181,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T153828Z" creationid="DSS" creationdate="20200726T153828Z">
         <seg>这时，像 DITA 这样的标准就可以派上用场了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T150744Z" creationid="DSS" creationdate="20200905T150744Z">
+        <seg>食谱</seg>
       </tuv>
     </tu>
     <tu>
@@ -21210,8 +21218,8 @@
       <tuv lang="en">
         <seg>recipe can be its own content type specific characteristics and headings.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T140434Z" creationid="lenovo" creationdate="20200831T140434Z">
-        <seg>配方可以是其自己的内容类型特定的特征和标题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T151007Z" creationid="lenovo" creationdate="20200831T140434Z">
+        <seg>可以拥有属于其内容类型特定的特性和标题。</seg>
       </tuv>
     </tu>
     <tu>
