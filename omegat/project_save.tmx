@@ -400,8 +400,8 @@
       <tuv lang="en">
         <seg>&lt;t0/&gt;Creating Intelligent Content with Lightweight DITA&lt;t1/&gt; shows structured authoring in practice with&lt;t2/&gt;out the need for sophisticated software tools.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130812Z" creationid="DSS" creationdate="20200726T091855Z">
-        <seg>&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;在实践中展现了结构化创作，无需复杂的软件工具。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200905T051736Z" creationid="DSS" creationdate="20200726T091855Z">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;展现了无需复杂的软件工具的结构化实践创作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10964,8 +10964,8 @@
       <tuv lang="en">
         <seg>It aims to address concerns and doubts about the adoption and evolution of DITA as a major standard for technical publications.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T085122Z" creationid="DSS" creationdate="20200726T085122Z">
-        <seg>它旨在解决人们对采用 DITA 作为技术出版物的主要标准及其发展的担忧和。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200905T051501Z" creationid="DSS" creationdate="20200726T085122Z">
+        <seg>它旨在解决人们对采用 DITA 作为技术出版物的主要标准及其发展的担忧和怀疑。</seg>
       </tuv>
     </tu>
     <tu>
