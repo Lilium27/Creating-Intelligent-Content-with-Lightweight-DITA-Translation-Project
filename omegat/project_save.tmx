@@ -1681,6 +1681,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t5/&gt;20).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T140021Z" creationid="DSS" creationdate="20200905T140021Z">
+        <seg>&lt;t5/&gt;20)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t5/&gt;329).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T123153Z" creationid="DSS" creationdate="20200825T123153Z">
@@ -1931,8 +1939,8 @@
       <tuv lang="en">
         <seg>&lt;t6/&gt;Getto &lt;t7/&gt;&amp; &lt;t8/&gt;St. Amant &lt;t9/&gt;(2014) &lt;t10/&gt;present an overview of personas and their usage at the intersection of user experience and technical communication.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T134823Z" creationid="lenovo" creationdate="20200831T134823Z">
-        <seg>Getto＆St. Amant（2014）在用户体验与技术交流的交汇处概述了角色及其用法。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T140720Z" creationid="lenovo" creationdate="20200831T134823Z">
+        <seg>杰托（Getto）和圣阿曼特（St. Amant）（2014）在用户体验与技术传播的交汇点概述了用户画像及其应用。 </seg>
       </tuv>
     </tu>
     <tu>
