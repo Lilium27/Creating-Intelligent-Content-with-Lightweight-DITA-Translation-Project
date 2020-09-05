@@ -3507,8 +3507,8 @@
       <tuv lang="en">
         <seg>And then, the conversation about an Information Mapping and DITA merger ended, and in an updated version of that presentation, Priestley did not include any mention of Information Mapping and its trademarked content types (Priestley, 2013a).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T131119Z" creationid="DSS" creationdate="20200801T131005Z">
-        <seg>就这样，关于信息映射和 DITA 合并的讨论结束了。后来普里斯特利y更新了演讲内容，没有提到任何关于信息映射的信息及其已经注册了商标的内容类型（普里斯特利， 2013年）。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200905T140104Z" creationid="DSS" creationdate="20200801T131005Z">
+        <seg>就这样，关于信息映射和 DITA 合并的讨论结束了。后来普里斯特利更新了演讲内容，没有提到任何关于信息映射的信息及其已经注册了商标的内容类型（Priestley, 2013）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12172,8 +12172,8 @@
       <tuv lang="en">
         <seg>MP: So when people say “DITA is too complex,” we want to be able to reply, “which DITA?” We have a base, which is fairly simple, and others, which have more functionality.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200801T131529Z" creationid="DSS" creationdate="20200801T131529Z">
-        <seg>迈克尔·普里斯特利：当大家说“DITA 太复杂了”时，我们希望可以回答这个问题，“是哪个版本的 DITA?”我们设计了一个相当简单的基础版本，以及有更多的功能技术内容版本和完整版本。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200905T141009Z" creationid="DSS" creationdate="20200801T131529Z">
+        <seg>迈克尔·普里斯特利：当大家说“DITA 太复杂了”时，我们希望他们可以回答这个问题，“哪个版本的 DITA太复杂了?”我们设计了一个相当简单的基础版本，以及有更多的功能技术内容版本和完整版本。</seg>
       </tuv>
     </tu>
     <tu>
