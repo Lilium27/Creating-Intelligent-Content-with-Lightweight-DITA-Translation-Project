@@ -1721,6 +1721,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t5/&gt;51-52).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T150548Z" creationid="DSS" creationdate="20200905T150548Z">
+        <seg>&lt;t5/&gt;51-52)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t5/&gt;9).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T124856Z" creationid="DSS" creationdate="20200825T124856Z">
@@ -11460,8 +11468,8 @@
       <tuv lang="en">
         <seg>Language: “If you have content in multiple languages, you'll want to re&lt;t0/&gt;cord the language or dialect used on each piece of content” (Halvorson &lt;t1/&gt;&amp; &lt;t2/&gt;Rach, &lt;t3/&gt;2012, &lt;t4/&gt;pp.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T140412Z" creationid="lenovo" creationdate="20200831T140412Z">
-        <seg>语言：“如果您有多种语言的内容，则需要记录每一种内容所使用的语言或方言”。(Halvorson &lt;t1/&gt;&amp; &lt;t2/&gt;Rach, &lt;t3/&gt;2012, &lt;t4/&gt;pp.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T150534Z" creationid="lenovo" creationdate="20200831T140412Z">
+        <seg>语言：“如果内容使用多种语言，则需要记录每个内容片段使用的语言或方言”(Halvorson &lt;t1/&gt;&amp; &lt;t2/&gt;Rach, &lt;t3/&gt;2012, &lt;t4/&gt;pp.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11476,8 +11484,8 @@
       <tuv lang="en">
         <seg>Last update: “When was the last time somebody in your organization paid attention to this piece of content?”</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T140355Z" creationid="lenovo" creationdate="20200831T140355Z">
-        <seg>最近更新：“您组织中的某人上一次关注此内容是什么时候？”</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T150434Z" creationid="lenovo" creationdate="20200831T140355Z">
+        <seg>最近更新：“组织中上一次有人注意到这部分内容是什么时候？”</seg>
       </tuv>
     </tu>
     <tu>
