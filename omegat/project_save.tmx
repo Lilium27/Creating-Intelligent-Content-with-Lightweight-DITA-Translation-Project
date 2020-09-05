@@ -2267,8 +2267,8 @@
       <tuv lang="en">
         <seg>&lt;t9/&gt;all increasing expectation about the proposed standard but working to the detriment of the subcommittee's actual purpose of developing the technical specification for an open standard and not software applications or industry-specific workflows.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T154729Z" creationid="DSS" creationdate="20200803T115907Z">
-        <seg>&lt;t9/&gt;大家对提议的标准的期望在不断增加，但这却有损小组委员会的实际目的：为开放标准开发技术规范，而不是为了软件程序或特定行业的工作流开发。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200905T143911Z" creationid="DSS" creationdate="20200803T115907Z">
+        <seg>&lt;t9/&gt;大家对提议的标准的期望在不断增加，但这却有损小组委员会的实际目的：为开放标准，而不是为了软件程序或特定行业的工作流开发技术规范。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12532,8 +12532,8 @@
       <tuv lang="en">
         <seg>My samples included a hastily assembled “MarkDITA” topic prototype that used a combination of HDITA tags with Markdown syntax to recreate a DITA task (&lt;t3/&gt;Figure &lt;t4/&gt;3.2&lt;t5/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200802T155137Z">
-        <seg>这些示例中包括一个仓促组合的“MarkDITA”主题原型，它使用 Markdown 语法以 HDITA 标签组合重新创建了一个 DITA 任务（&lt;t3/&gt;图&lt;t4/&gt;3.2&lt;t5/&gt;）。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200905T142405Z" creationid="DSS" creationdate="20200802T155137Z">
+        <seg>这些示例中包括一个仓促组建的“MarkDITA”主题原型，它使用 Markdown 语法以 HDITA 标签组合重新创建了一个 DITA 任务（&lt;t3/&gt;图&lt;t4/&gt;3.2&lt;t5/&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
