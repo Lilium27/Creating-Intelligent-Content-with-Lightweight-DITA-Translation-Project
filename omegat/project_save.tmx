@@ -7610,8 +7610,8 @@
       <tuv lang="en">
         <seg>For the milkshake entry, the collection should include a versatile recipe with a list of ingredients and steps.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T153333Z" creationid="lenovo" creationdate="20200831T134241Z">
-        <seg>对于奶昔条目，该集合应包括通用配方，其中列出了配料和制作步骤。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T134403Z" creationid="lenovo" creationdate="20200831T134241Z">
+        <seg>对于奶昔条目，集合应包括列出了配料和制作步骤的通用配方。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -11652,8 +11652,8 @@
       <tuv lang="en">
         <seg>Let's assume that the overarching task is to develop a collection of soda fountain recipes and procedures.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T153410Z" creationid="lenovo" creationdate="20200831T134215Z">
-        <seg>假设首要任务是开发冷饮柜台食谱和制作步骤的集合。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T134326Z" creationid="lenovo" creationdate="20200831T134215Z">
+        <seg>假设首要任务是开发冷饮柜台食谱和制作流程的集合。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16854,8 +16854,8 @@
       <tuv lang="en">
         <seg>The ingredients list should accommodate different flavors in one single template, instead of hav&lt;t0/&gt;ing separate recipes for each possible flavor.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T134255Z" creationid="lenovo" creationdate="20200831T134255Z">
-        <seg>成分列表应在一个模板中容纳不同的口味，而不是针对每种可能的口味使用单独的配方。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T134634Z" creationid="lenovo" creationdate="20200831T134255Z">
+        <seg>配料列表应该是一个可以兼容不同口味的模板，而不是为每种可能的口味都提供单独的食谱。</seg>
       </tuv>
     </tu>
     <tu>
