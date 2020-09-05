@@ -9380,8 +9380,8 @@
       <tuv lang="en">
         <seg>In &lt;t2/&gt;Chapter &lt;t3/&gt;1&lt;t4/&gt; &lt;t5/&gt;we saw how DITA XML is frequently associated in the world of techni&lt;t6/&gt;cal communication with the content types of concept, task, and reference.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T135132Z" creationid="lenovo" creationdate="20200831T140730Z">
-        <seg>在第一章中，我们了解了DITA XML在技术交流领域中经常与概念，任务和参考的内容类型相关联。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T152147Z" creationid="lenovo" creationdate="20200831T140730Z">
+        <seg>在第一章中，我们了解了DITA XML在技术传播领域中经常与概念（concept），任务（task）和参考（reference）内容类型相关联。 </seg>
       </tuv>
     </tu>
     <tu>
