@@ -5085,8 +5085,8 @@
       <tuv lang="en">
         <seg>Conduct a content audit or inventory.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T135006Z" creationid="lenovo" creationdate="20200831T135006Z">
-        <seg>进行内容审核或清单。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T141121Z" creationid="lenovo" creationdate="20200831T135006Z">
+        <seg>进行内容审核或内容清点。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -16083,8 +16083,8 @@
       <tuv lang="en">
         <seg>The author could be creating origi&lt;t0/&gt;nal content for the recipes or collecting legacy documentation (in this case, as Dan Garcia mentioned, from the pages of an existing cookbook).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T135148Z" creationid="lenovo" creationdate="20200831T135148Z">
-        <seg>作者可能正在为食谱创建原始内容，或者正在收集旧版文档（如Dan Garcia所述，在这种情况下内容是从现有食谱的页面中获得的）。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T141351Z" creationid="lenovo" creationdate="20200831T135148Z">
+        <seg>写作者可能正在为食谱编写原始内容，也可能在收集遗留文档（如丹·加西亚所述，在这种情况下，内容是从现有烹饪书中获取的）。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -18446,8 +18446,8 @@
       <tuv lang="en">
         <seg>Then, those needs statements can be converted into specific topics and tasks for the recipes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T134944Z" creationid="lenovo" creationdate="20200831T134944Z">
-        <seg>然后，可以将这些需求陈述转换为配方的特定主题和任务。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T141002Z" creationid="lenovo" creationdate="20200831T134944Z">
+        <seg>然后，写作者可以将这些需求陈述转换为特定的食谱主题和任务。</seg>
       </tuv>
     </tu>
     <tu>
