@@ -987,8 +987,8 @@
       <tuv lang="en">
         <seg>&lt;t2/&gt;Existing tools can provide UI masking of features that can be enabled later on (license upgrade, etc.)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T070143Z" creationid="DSS" creationdate="20200730T132000Z">
-        <seg>&lt;t2/&gt;现有的工具可以为以后启用的特性提供 UI 界面（通过授权升级等）。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200905T133857Z" creationid="DSS" creationdate="20200730T132000Z">
+        <seg>&lt;t2/&gt;现有的工具可以提供 UI 界面，这些特性在后续可以使用（通过授权升级等）。</seg>
       </tuv>
     </tu>
     <tu>
