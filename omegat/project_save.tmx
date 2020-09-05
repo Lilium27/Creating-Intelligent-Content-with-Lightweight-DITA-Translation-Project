@@ -8634,8 +8634,8 @@
       <tuv lang="en">
         <seg>I had not interacted with Priestley before, although we followed each other on Twitter based on common friends and our shared interest on DITA, and one of my students conducting a research study had interviewed him in &lt;t0/&gt;2012 &lt;t1/&gt;(and I incorporated some of his comments into my syllabus).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T133333Z" creationid="DSS" creationdate="20200802T120218Z">
-        <seg>虽然我和普里斯特利基于共同好友以及对 DITA 的共同兴趣在Twitter 上关注了彼此，但从未有过交流。&lt;t0/&gt;2012 &lt;t1/&gt;年，我的一个学生在进行一项研究时采访了他（我把他的一些意见写进了教学大纲)。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200905T142019Z" creationid="DSS" creationdate="20200802T120218Z">
+        <seg>虽然我和普里斯特利由于共同好友的缘故再Twitter上互关并且对DITA有共同的兴趣，但从未有过交流。&lt;t0/&gt;2012 &lt;t1/&gt;年，我的一个学生在进行一项研究时采访了他（我把他的一些意见写进了教学大纲)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15907,8 +15907,8 @@
       <tuv lang="en">
         <seg>The XDITA/HDITA proposal added two elements to the LwDITA catalog (&lt;t0/&gt;&lt;address&gt; &lt;t1/&gt;and &lt;t2/&gt;&lt;aside&gt;&lt;t3/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T091926Z" creationid="DSS" creationdate="20200817T091926Z">
-        <seg>关于 XDITA/HDITA 的提议向 LwDITA 中增加了两个元素(&lt;t0/&gt;&lt;address&gt; &lt;t1/&gt;and &lt;t2/&gt;&lt;aside&gt;&lt;t3/&gt;)。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200905T141517Z" creationid="DSS" creationdate="20200817T091926Z">
+        <seg> XDITA/HDITA 提议往 LwDITA 中增加了两个元素(&lt;t0/&gt;&lt;address&gt; &lt;t1/&gt;and &lt;t2/&gt;&lt;aside&gt;&lt;t3/&gt;)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19150,8 +19150,8 @@
       <tuv lang="en">
         <seg>This proposal suggests a third way &lt;t0/&gt;一 &lt;t1/&gt;defining both a lightweight XML model based on DITA that can be used for validated authoring and com&lt;t2/&gt;plex publishing chains, and a lightweight HTML5 model that can be used for either authoring or display.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T091524Z" creationid="DSS" creationdate="20200817T091524Z">
-        <seg>采取第三种解决方案&lt;t0/&gt;——&lt;t1/&gt;基于 DITA 定义一个轻量级 XML 模型，该模型可用于检验写作和复杂的出版链，同时定义一个轻量级的 HTML5 模型，用于写作或展示。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200905T141328Z" creationid="DSS" creationdate="20200817T091524Z">
+        <seg>采取第三种解决方案&lt;t0/&gt;——&lt;t1/&gt;基于 DITA 定义一个轻量级 XML 模型，该模型可用于检验写作和复杂出版链，同时定义一个轻量级的 HTML5 模型，用于写作或展示。</seg>
       </tuv>
     </tu>
     <tu>
