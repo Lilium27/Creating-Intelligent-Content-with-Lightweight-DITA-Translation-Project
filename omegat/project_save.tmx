@@ -13118,8 +13118,8 @@
       <tuv lang="en">
         <seg>Our work with the preliminary HDITA format was eventually published as the article “Structured Authoring without XML: Evaluating Lightweight DITA for Technical Documentation” in the journal &lt;t7/&gt;Technical Communication&lt;t8/&gt; (Evia &lt;t9/&gt;&amp; &lt;t10/&gt;Priestley, &lt;t11/&gt;2016).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T133534Z" creationid="DSS" creationdate="20200802T122522Z">
-        <seg>关于 HDITA 格式的初步探究写在《不使用 XML 的结构化写作：为技术文档写作评估轻量级 DITA》（Structured Authoring without XML: Evaluating Lightweight DITA for Technical Documentation）一文中，该文最终发表在《技术传播》（&lt;t7/&gt;Technical Communication&lt;t8/&gt;）杂志上。（艾维亚&lt;t9/&gt;和&lt;t10/&gt;普里斯特利，&lt;t11/&gt;2016年）。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200905T142139Z" creationid="DSS" creationdate="20200802T122522Z">
+        <seg>关于 HDITA 格式的初步探究写在《不使用 XML 的结构化写作：为技术文档写作评估轻量级 DITA》（Structured Authoring without XML: Evaluating Lightweight DITA for Technical Documentation）一文中，该文最终发表在《技术传播》（&lt;t7/&gt;Technical Communication&lt;t8/&gt;）杂志上。（Evia &lt;t9/&gt;&amp; &lt;t10/&gt;Priestley, &lt;t11/&gt;2016）。</seg>
       </tuv>
     </tu>
     <tu>
