@@ -8218,8 +8218,8 @@
       <tuv lang="en">
         <seg>However, I do assume that readers from industry and academia will have a technological curiosity about content development in workflows that go beyond a word processor or a “What You See Is What You Get” (WYSIWYG) web editor.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T151140Z" creationid="DSS" creationdate="20200726T135307Z">
-        <seg>不过，我的确假定来自产业界和学术界的读者对工作流程中的内容开发充满技术上的好奇心，而我所指的工作流程可不仅仅是文字处理器或“所见即所得”（WYSIWYG）的网络编辑器。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200905T053523Z" creationid="DSS" creationdate="20200726T135307Z">
+        <seg>不过，我的确认为来自产业界和学术界的读者会对工作流程中的内容开发在技术上充满好奇心，而我所指的工作流程可不仅仅是文字处理器或“所见即所得”（WYSIWYG）的网络编辑器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18582,8 +18582,8 @@
       <tuv lang="en">
         <seg>Therefore, this is unequivocally a book about DITA, but it is not a detailed introduction and how-to to the widely adopted XML-based DITA standard (for comprehensive introductory texts to DITA XML, see Hackos, &lt;t3/&gt;2011; &lt;t4/&gt;Bellamy et al., &lt;t5/&gt;2012).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T132124Z" creationid="DSS" creationdate="20200726T135202Z">
-        <seg>因此毫无疑问，本书是一本关于 DITA 的书，但是书中没有详细介绍被广泛使用的基于 XML 的 DITA 标准（全面介绍 DITA XML 的文章，请参阅 Hackos, &lt;t3/&gt;2011; &lt;t4/&gt;Bellamy et al., &lt;t5/&gt;2012）。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200905T053404Z" creationid="DSS" creationdate="20200726T135202Z">
+        <seg>因此毫无疑问，本书是一本关于 DITA 的书，但是此书并非基于 XML 的 DITA 标准的详细介绍和使用指南（全面介绍 DITA XML 的文章，请参阅 Hackos, &lt;t3/&gt;2011; &lt;t4/&gt;Bellamy et al., &lt;t5/&gt;2012）。</seg>
       </tuv>
     </tu>
     <tu>
