@@ -7706,8 +7706,8 @@
       <tuv lang="en">
         <seg>Format: Explain if the content unit is a piece of “text, video, PDF, etc.”</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T140009Z" creationid="lenovo" creationdate="20200831T140009Z">
-        <seg>格式：如果内容单位是“文本，视频，PDF等”，请说明</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T144138Z" creationid="lenovo" creationdate="20200831T140009Z">
+        <seg>格式：如果内容单位是“文本、视频、PDF等”，请标注说明。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9082,8 +9082,8 @@
       <tuv lang="en">
         <seg>If the soda fountain has several folders for recipes and images, the “home” for each unit should be specified to avoid miss&lt;t0/&gt;ing pieces and duplication.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T140053Z" creationid="lenovo" creationdate="20200831T140053Z">
-        <seg>如果“汽水喷泉”有多个用于存放配方和图像的文件夹，则应指定每个单元的“主页”，以免丢失和重复。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T144700Z" creationid="lenovo" creationdate="20200831T140053Z">
+        <seg>如果冷饮柜台项目有多个用于存放食谱和图像的文件夹，则应指定每个单元储存在哪里，以免资源丢失和重复。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11660,8 +11660,8 @@
       <tuv lang="en">
         <seg>Let's assume that the overarching task is to develop a collection of soda fountain recipes and procedures.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T134326Z" creationid="lenovo" creationdate="20200831T134215Z">
-        <seg>假设首要任务是开发冷饮柜台食谱和制作流程的集合。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T144643Z" creationid="lenovo" creationdate="20200831T134215Z">
+        <seg>假设现在的首要任务是开发冷饮柜台食谱和制作流程的集合。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14449,8 +14449,8 @@
       <tuv lang="en">
         <seg>Source: “Specify whether the content is created in-house, by a con&lt;t0/&gt;tent partner (newsfeeds, articles, blog posts, and so on), or by your users.”</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T140027Z" creationid="lenovo" creationdate="20200831T140027Z">
-        <seg>来源：“指定内容是内部创建，由内容合作伙伴（新闻源，文章，博客文章等）还是由用户创建。”</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T144331Z" creationid="lenovo" creationdate="20200831T140027Z">
+        <seg>来源：“指定内容是由内部、内容合作伙伴（新闻，文章，博客等）还是用户创建。”</seg>
       </tuv>
     </tu>
     <tu>
@@ -20506,8 +20506,8 @@
       <tuv lang="en">
         <seg>Without a content strategy, a user cannot advance in the LwDITA process layers of abstraction.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T145312Z" creationid="lenovo" creationdate="20200831T134027Z">
-        <seg>没有内容策略，用户将无法进入 LwDITA 的抽象过程层级。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T144631Z" creationid="lenovo" creationdate="20200831T134027Z">
+        <seg>没有内容策略，用户将无法了解 LwDITA 的抽象过程层级。</seg>
       </tuv>
     </tu>
     <tu>
