@@ -11540,8 +11540,8 @@
       <tuv lang="en">
         <seg>Layer &lt;t0/&gt;1: &lt;t1/&gt;Developing a Content Strategy</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T145852Z" creationid="lenovo" creationdate="20200831T133857Z">
-        <seg>第1层级：制定内容策略</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T150023Z" creationid="lenovo" creationdate="20200831T133857Z">
+        <seg>第一层级：制定内容策略</seg>
       </tuv>
     </tu>
     <tu>
@@ -11644,8 +11644,8 @@
       <tuv lang="en">
         <seg>Layer &lt;t7/&gt;3 &lt;t8/&gt;provides more details about this sample use of metadata.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T140257Z" creationid="lenovo" creationdate="20200831T140257Z">
-        <seg>第3层提供有关此元数据样本使用的更多详细信息。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T150137Z" creationid="lenovo" creationdate="20200831T140257Z">
+        <seg>第三层级提供关于如何使用此元数据样本的更多细节。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19833,8 +19833,8 @@
       <tuv lang="en">
         <seg>Traffic/usage statistics: “If it's feasible, get the skinny on how people are using (or not using) each piece of content.”</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T140339Z" creationid="lenovo" creationdate="20200831T140339Z">
-        <seg>流量/使用情况统计信息：“如果可行，请紧贴人们如何使用（或不使用）每条内容。”</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T150340Z" creationid="lenovo" creationdate="20200831T140339Z">
+        <seg>流量或使用情况统计信息：“如果可行的话，仔细了解用户是如何使用（或没有使用）每条内容的。”</seg>
       </tuv>
     </tu>
     <tu>
@@ -22053,40 +22053,40 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;Layer &lt;t1/&gt;2: &lt;t2/&gt;Authoring modular content with LwDITA</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T145803Z" creationid="lenovo" creationdate="20200831T133644Z">
-        <seg>•第2层级：使用LwDITA创作模块化内容</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T145941Z" creationid="lenovo" creationdate="20200831T133644Z">
+        <seg>•第二层级：使用LwDITA创作模块化内容</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>• &lt;t0/&gt;Layer &lt;t1/&gt;3: &lt;t2/&gt;Separating content from design and context</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T145805Z" creationid="lenovo" creationdate="20200831T133701Z">
-        <seg>•第3层级：将内容与设计和上下文分开</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T145944Z" creationid="lenovo" creationdate="20200831T133701Z">
+        <seg>•第三层级：将内容与设计和上下文分开</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>• &lt;t0/&gt;Layer &lt;t1/&gt;4: &lt;t2/&gt;Linking topics and maps for collection and reuse</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T145808Z" creationid="lenovo" creationdate="20200831T133715Z">
-        <seg>•第4层级：链接主题和地图用以聚合和复用内容</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T145946Z" creationid="lenovo" creationdate="20200831T133715Z">
+        <seg>•第四层级：链接主题和地图用以聚合和复用内容</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>• &lt;t0/&gt;Layer &lt;t1/&gt;5: &lt;t2/&gt;Processing and producing deliverables</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T145810Z" creationid="lenovo" creationdate="20200831T133725Z">
-        <seg>•第5层级：处理和生成可交付成果</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T145950Z" creationid="lenovo" creationdate="20200831T133725Z">
+        <seg>•第五层级：处理和生成可交付成果</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>• &lt;t0/&gt;Layer &lt;t1/&gt;6: &lt;t2/&gt;Preparing for the future.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T145834Z" creationid="lenovo" creationdate="20200831T133737Z">
-        <seg>•第6层级：为未来做准备</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T150007Z" creationid="lenovo" creationdate="20200831T133737Z">
+        <seg>•第六层级：为未来做准备</seg>
       </tuv>
     </tu>
     <tu>
