@@ -3339,8 +3339,8 @@
       <tuv lang="en">
         <seg>An example would be a context metadata for the milkshake recipe.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T140218Z" creationid="lenovo" creationdate="20200831T140218Z">
-        <seg>一个示例是奶昔配方的上下文元数据。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T145143Z" creationid="lenovo" creationdate="20200831T140218Z">
+        <seg>奶昔食谱的上下文元数据就是一个示例，</seg>
       </tuv>
     </tu>
     <tu>
@@ -17454,8 +17454,8 @@
       <tuv lang="en">
         <seg>The recipe could be the same, with some variations about available equip&lt;t6/&gt;ment and ingredients, for personnel preparing it in a restaurant or a food truck environment.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T140227Z" creationid="lenovo" creationdate="20200831T140227Z">
-        <seg>食谱可能是相同的，只是在餐厅或食品卡车环境中准备人员的可用设备和配料有所不同。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T145430Z" creationid="lenovo" creationdate="20200831T140227Z">
+        <seg>食谱应该是相同的，以供工作人员在餐馆或餐车环境中准备餐品，只是环境中可用的设备和配料会有所不同。</seg>
       </tuv>
     </tu>
     <tu>
