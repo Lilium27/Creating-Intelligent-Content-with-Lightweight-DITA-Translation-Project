@@ -4219,8 +4219,8 @@
       <tuv lang="en">
         <seg>Bailie &lt;t0/&gt;&amp; &lt;t1/&gt;Urbina recommend developing personas and scenarios to understand the audience.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T134555Z" creationid="lenovo" creationdate="20200831T134542Z">
-        <seg>拜利和厄比纳建议开发角色和场景以了解受众。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T135717Z" creationid="lenovo" creationdate="20200831T134542Z">
+        <seg>拜利和厄比纳建议创建用户画像、研究使用场景，以了解受众。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5663,7 +5663,7 @@
       <tuv lang="en">
         <seg>Determine who will be the users of the milkshake recipe.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T134504Z" creationid="lenovo" creationdate="20200831T134504Z">
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T135530Z" creationid="lenovo" creationdate="20200831T134504Z">
         <seg>确定谁将成为奶昔配方的使用者。</seg>
       </tuv>
     </tu>
@@ -8986,8 +8986,8 @@
       <tuv lang="en">
         <seg>If possible, conduct observations and interviews.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T134517Z" creationid="lenovo" creationdate="20200831T134517Z">
-        <seg>如果可能，进行观察和采访。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T135616Z" creationid="lenovo" creationdate="20200831T134517Z">
+        <seg>如果可能的话，可以观察用户行为和采访用户。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13230,8 +13230,8 @@
       <tuv lang="en">
         <seg>Perform an audience analysis.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T134455Z" creationid="lenovo" creationdate="20200831T134455Z">
-        <seg>执行受众分析。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T135525Z" creationid="lenovo" creationdate="20200831T134455Z">
+        <seg>进行受众分析，</seg>
       </tuv>
     </tu>
     <tu>
