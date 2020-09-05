@@ -19824,8 +19824,8 @@
       <tuv lang="en">
         <seg>Track&lt;t0/&gt;: a link to time-based text data relevant to audio or video content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T155403Z" creationid="DSS" creationdate="20200804T155044Z">
-        <seg>踪迹（track）&lt;t0/&gt;：与音频或视频内容相关的基于时间的文本数据的链接。
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T153540Z" creationid="DSS" creationdate="20200804T155044Z">
+        <seg>音轨（track）&lt;t0/&gt;：与音频或视频内容相关的基于时间的文本数据的链接。
 </seg>
       </tuv>
     </tu>
