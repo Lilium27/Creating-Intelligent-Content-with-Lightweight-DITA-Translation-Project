@@ -19542,8 +19542,8 @@
       <tuv lang="en">
         <seg>Title/Topics: Most recipes will have a clear title; other smaller units can use “a short description of the key topics or themes covered.”</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T135913Z" creationid="lenovo" creationdate="20200831T135913Z">
-        <seg>标题/主题：大多数食谱都有明确的标题；其他较小的单位可以使用“对所涵盖的关键主题或主题的简短描述”。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T144006Z" creationid="lenovo" creationdate="20200831T135913Z">
+        <seg>标题或主题：大多数食谱都有明确的标题；其他较小的单位可以使用“对其所涵盖的关键主题或中心思想的简短描述”来表示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19865,8 +19865,8 @@
       <tuv lang="en">
         <seg>URL: If the content units live on the web.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T135952Z" creationid="lenovo" creationdate="20200831T135952Z">
-        <seg>URL：如果内容单元位于网络上。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T144059Z" creationid="lenovo" creationdate="20200831T135952Z">
+        <seg>URL：如果内容单元会展示在网络上，那么就需要标注 URL。</seg>
       </tuv>
     </tu>
     <tu>
