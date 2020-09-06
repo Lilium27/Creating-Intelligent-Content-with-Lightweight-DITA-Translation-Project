@@ -633,16 +633,16 @@
       <tuv lang="en">
         <seg>&lt;t10/&gt;Chapters &lt;t11/&gt;5 &lt;t12/&gt;and &lt;t13/&gt;6&lt;t14/&gt; &lt;t15/&gt;include separate sections for each authoring format; nevertheless, any LwDITA map can reference any LwDITA topic regardless of authoring format.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T134914Z" creationid="DSS" creationdate="20200806T082220Z">
-        <seg>&lt;t10/&gt;第&lt;t11/&gt;五&lt;t12/&gt;章和第&lt;t13/&gt;六&lt;t14/&gt;&lt;t15/&gt;章会单独介绍每种写作格式，不过无论选择何种编写格式， LwDITA 地图都可以引用。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200806T082220Z">
+        <seg>&lt;t10/&gt;第&lt;t11/&gt;五&lt;t12/&gt;章和第&lt;t13/&gt;六&lt;t14/&gt;&lt;t15/&gt;章会单独介绍每种写作格式，不过无论选择何种编写格式， LwDITA 映射都可以引用。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;t10/&gt;Figure &lt;t11/&gt;5.13&lt;t12/&gt; &lt;t13/&gt;shows a version of the brochure map created in MDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T040247Z" creationid="DSS" creationdate="20200808T040247Z">
-        <seg>&lt;t10/&gt;图&lt;t11/&gt;5.13&lt;t12/&gt;&lt;t13/&gt; 展示了用于创建宣传手册的 MDITA 格式地图。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200808T040247Z">
+        <seg>&lt;t10/&gt;图&lt;t11/&gt;5.13&lt;t12/&gt;&lt;t13/&gt; 展示了用于创建宣传手册的 MDITA 格式映射。</seg>
       </tuv>
     </tu>
     <tu>
@@ -714,8 +714,8 @@
       <tuv lang="en">
         <seg>&lt;t12/&gt;Figure &lt;t13/&gt;5.1&lt;t14/&gt; &lt;t15/&gt;shows the recipe critiques DITA map, which you can save as &lt;t16/&gt;marinara-critique.ditamap&lt;t17/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T153716Z" creationid="DSS" creationdate="20200806T085605Z">
-        <seg>&lt;t12/&gt;图&lt;t13/&gt;5.1&lt;t14/&gt;&lt;t15/&gt;即为菜谱评价网站的 DITA 地图，你可以将其保存为 &lt;t16/&gt;marinara- reviews .ditamap&lt;t17/&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200806T085605Z">
+        <seg>&lt;t12/&gt;图&lt;t13/&gt;5.1&lt;t14/&gt;&lt;t15/&gt;即为菜谱评价网站的 DITA 映射，你可以将其保存为 &lt;t16/&gt;marinara- reviews .ditamap&lt;t17/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1307,8 +1307,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;Figure &lt;t4/&gt;5.11 &lt;t5/&gt;shows a simple web view of the HDITA map, without any content processing or formatting, as seen on a browser.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T075006Z" creationid="DSS" creationdate="20200807T075006Z">
-        <seg>&lt;t3/&gt;图&lt;t4/&gt;5.11&lt;t5/&gt;展示了由 HDITA 地图生成的简单网页，没有做任何内容处理，也没有添加额外的格式，就像在浏览器上看到的那样。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200807T075006Z">
+        <seg>&lt;t3/&gt;图&lt;t4/&gt;5.11&lt;t5/&gt;展示了由 HDITA 映射生成的简单网页，没有做任何内容处理，也没有添加额外的格式，就像在浏览器上看到的那样。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1363,8 +1363,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;In&lt;t4/&gt; Chapter &lt;t5/&gt;1&lt;t6/&gt; &lt;t7/&gt;I included some examples of DITA maps and promised that I will show you how to process them with DITA-aware tools and generate end user documents.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200827T045003Z" creationid="DSS" creationdate="20200806T085457Z">
-        <seg>在&lt;t3/&gt;&lt;t4/&gt;第&lt;t5/&gt;一&lt;t6/&gt;&lt;t7/&gt;章中，我提供了一些 DITA 地图示例，并承诺将展示如何使用 DITA 相关工具处理它们以生成最终用户文档，现</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200806T085457Z">
+        <seg>在&lt;t3/&gt;&lt;t4/&gt;第&lt;t5/&gt;一&lt;t6/&gt;&lt;t7/&gt;章中，我提供了一些 DITA 映射示例，并承诺将展示如何使用 DITA 相关工具处理它们以生成最终用户文档，现</seg>
       </tuv>
     </tu>
     <tu>
@@ -1627,8 +1627,8 @@
       <tuv lang="en">
         <seg>&lt;t4/&gt;Figure 5.12&lt;t5/&gt; shows the DITA-OT command for process&lt;t6/&gt;ing an HDITA map and producing a PDF deliverable, which looks very similar to the one used for the XDITA map transformation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131309Z" creationid="DSS" creationdate="20200808T033636Z">
-        <seg>图5.12&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;展示了利用 DITA-OT 转换 HDITA 格式的地图，并生成 PDF 交付文件所需输入的命令，它与转换 XDITA 格式的地图所需的命令非常相似。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200808T033636Z">
+        <seg>图5.12&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;展示了利用 DITA-OT 转换 HDITA 格式的映射，并生成 PDF 交付文件所需输入的命令，它与转换 XDITA 格式的映射所需的命令非常相似。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1875,8 +1875,8 @@
       <tuv lang="en">
         <seg>&lt;t5/&gt;represented in HDITA are the navigation element (&lt;t6/&gt;&lt;nav&gt;&lt;t7/&gt;) for open&lt;t8/&gt;i&lt;t9/&gt;ng a map environment, the title (&lt;t10/&gt;&lt;title&gt; &lt;t11/&gt;and &lt;t12/&gt;&lt;h1&gt;&lt;t13/&gt;5&lt;t14/&gt;) to label the map and its deliverables, and a hyper reference inside a list item (&lt;t15/&gt;&lt;a href&gt; &lt;t16/&gt;inside a &lt;t17/&gt;&lt;li&gt;&lt;t18/&gt;) to express a topic reference.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T153544Z" creationid="DSS" creationdate="20200807T072106Z">
-        <seg>&lt;t5/&gt;有用以创建地图环境的导航元素 (&lt;t6/&gt;&lt;nav&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;)，标记地图及其交付物的标题元素 (&lt;t10/&gt;&lt;title&gt; &lt;t11/&gt;and &lt;t12/&gt;&lt;h1&gt;&lt;t13/&gt;5&lt;t14/&gt;)，以及表示主题引用的超引用元素，该元素嵌套在列表项元素中 （即&lt;t15/&gt;&lt;a href&gt; &lt;t16/&gt;嵌套在 &lt;t17/&gt;&lt;li&gt;&lt;t18/&gt;中）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200807T072106Z">
+        <seg>&lt;t5/&gt;有用以创建映射环境的导航元素 (&lt;t6/&gt;&lt;nav&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;)，标记映射及其交付物的标题元素 (&lt;t10/&gt;&lt;title&gt; &lt;t11/&gt;and &lt;t12/&gt;&lt;h1&gt;&lt;t13/&gt;5&lt;t14/&gt;)，以及表示主题引用的超引用元素，该元素嵌套在列表项元素中 （即&lt;t15/&gt;&lt;a href&gt; &lt;t16/&gt;嵌套在 &lt;t17/&gt;&lt;li&gt;&lt;t18/&gt;中）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2403,8 +2403,8 @@
       <tuv lang="en">
         <seg>A conventional HTML editor probably will not be able to process the file as an HDITA map, and that's when the authors would need a LwDITA-aware tool or the DITA-OT.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T073350Z" creationid="DSS" creationdate="20200807T073350Z">
-        <seg>传统的 HTML 编辑器可能无法解析 HDITA 地图，这时创作者就需要支持 LwDITA 的工具或 DITA-OT 的帮助。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200807T073350Z">
+        <seg>传统的 HTML 编辑器可能无法解析 HDITA 映射，这时创作者就需要支持 LwDITA 的工具或 DITA-OT 的帮助。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2779,8 +2779,8 @@
       <tuv lang="en">
         <seg>According to the DITA-OT documentation, the command that builds DITA (and LwDITA) deliverables from topics and maps from a Terminal or Command Prompt window looks like &lt;t0/&gt;Figure &lt;t1/&gt;5.5</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200806T113320Z">
-        <seg>参考 DITA-OT 文档，从终端或命令提示符窗口利用主题和地图构建 DITA（和 LwDITA）交付物的命令如&lt;t0/&gt;图&lt;t1/&gt;5.5所示。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200806T113320Z">
+        <seg>参考 DITA-OT 文档，从终端或命令提示符窗口利用主题和映射构建 DITA（和 LwDITA）交付物的命令如&lt;t0/&gt;图&lt;t1/&gt;5.5所示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2955,8 +2955,8 @@
       <tuv lang="en">
         <seg>After processing, the resulting deliverable will replace all &lt;t3/&gt;“icecream-flavor”&lt;t4/&gt; placeholders found in the topics with the actual content defined in the &lt;t5/&gt;&lt;key&gt; &lt;t6/&gt;element on the map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T160011Z" creationid="lenovo" creationdate="20200902T160011Z">
-        <seg> 经过处理后，生成的可交付成果将用在地图上&lt;key&gt;元素中定义的实际内容替换在主题中找到的所有“冰淇淋口味”占位符。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090331Z" creationid="lenovo" creationdate="20200902T160011Z">
+        <seg> 经过处理后，生成的可交付成果将用在映射上&lt;key&gt;元素中定义的实际内容替换在主题中找到的所有“冰淇淋口味”占位符。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3571,8 +3571,8 @@
       <tuv lang="en">
         <seg>And, as with LwDITA topics, you can specify a LwDITA map in XDITA, HDITA, or MDITA, as well as possible future authoring formats.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200806T075936Z">
-        <seg>并且，与 LwDITA 主题一样，你可以用XDITA、HDITA、MDITA 或未来可能的写作格式来编写 LwDITA 地图映射关系。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090227Z" creationid="DSS" creationdate="20200806T075936Z">
+        <seg>并且，与 LwDITA 主题一样，你可以用XDITA、HDITA、MDITA 或未来可能的写作格式来编写 LwDITA 关系。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3915,8 +3915,8 @@
       <tuv lang="en">
         <seg>As we will frequently see when examining the LwDITA map and topic components, the MDITA syntax is by far the easiest of the three initial authoring formats.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200808T040101Z">
-        <seg>正如我们在观察 LwDITA 地图和主题组件时经常发现的那样，MDITA 语法是到目前为止三种最初的写作格式中最简单的。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200808T040101Z">
+        <seg>正如我们在观察 LwDITA 映射和主题组件时经常发现的那样，MDITA 语法是到目前为止三种最初的写作格式中最简单的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4835,8 +4835,8 @@
       <tuv lang="en">
         <seg>Chef Pedro and his team can use any text editor to create the HDITA ver&lt;t0/&gt;sion of the map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131307Z" creationid="DSS" creationdate="20200807T072554Z">
-        <seg>厨师佩德罗及其团队可以使用任何文本编辑器创建 HDITA 格式的地图。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200807T072554Z">
+        <seg>厨师佩德罗及其团队可以使用任何文本编辑器创建 HDITA 格式的映射。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4867,8 +4867,8 @@
       <tuv lang="en">
         <seg>Chef Pedro's team could alternatively create the map for the &lt;t0/&gt;Sensei Sushi &lt;t1/&gt;brochure in HDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T071148Z" creationid="DSS" creationdate="20200807T071148Z">
-        <seg>厨师佩德罗的团队也可以选择用 HDITA 创建&lt;t0/&gt; Sensei Sushi &lt;t1/&gt;手册的地图。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200807T071148Z">
+        <seg>厨师佩德罗的团队也可以选择用 HDITA 创建&lt;t0/&gt; Sensei Sushi &lt;t1/&gt;手册的映射。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5374,8 +5374,8 @@
       <tuv lang="en">
         <seg>DITA Maps</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200725T144023Z" creationid="DSS" creationdate="20200725T144023Z">
-        <seg>DITA 地图</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200725T144023Z">
+        <seg>DITA 映射</seg>
       </tuv>
     </tu>
     <tu>
@@ -5615,8 +5615,8 @@
       <tuv lang="en">
         <seg>Deliverables created from the sample map in&lt;t0/&gt; Figure &lt;t1/&gt;1.13&lt;t2/&gt; &lt;t3/&gt;can include a print cookbook or an online recipe guide, based on the automation tools used by Chef Pedro and his team in a specific publishing scenario.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T083615Z" creationid="DSS" creationdate="20200817T083615Z">
-        <seg>基于佩德罗和其团队在特定发布场景中使用的自动化工具，根据图&lt;t0/&gt;&lt;t1/&gt;1.13&lt;t2/&gt;&lt;t3/&gt;中的示例地图创建的可交付成果可以包括一本纸质烹饪书或一份在线菜谱指南。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200817T083615Z">
+        <seg>基于佩德罗和其团队在特定发布场景中使用的自动化工具，根据图&lt;t0/&gt;&lt;t1/&gt;1.13&lt;t2/&gt;&lt;t3/&gt;中的示例映射创建的可交付成果可以包括一本纸质烹饪书或一份在线菜谱指南。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6032,8 +6032,8 @@
       <tuv lang="en">
         <seg>Even before we started using the term “authoring formats” (which came from Eliot Kimber &lt;t0/&gt;一 &lt;t1/&gt;the ultimate expert on XML for technical communica&lt;t2/&gt;tion and a vital member of the DITA Technical Committee), in the Lightweight DITA subcommittee the analogy of flavors drove the development of mappings to represent DITA components in diverse markup languages.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T121610Z" creationid="lenovo" creationdate="20200812T044956Z">
-        <seg>在我们开始使用术语“写作格式”前（这一概念由艾略特·金伯 （Eliot Kimber）提出 &lt;t0/&gt;—— &lt;t1/&gt;&lt;t2/&gt;他是技术传播领域的XML专家，同时还是DITA技术委员会的重要成员），在轻量级DITA的小组委员会上，冰淇淋口味的比喻推动了地图映射的发展，以多种标记语言表示DITA组件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090227Z" creationid="lenovo" creationdate="20200812T044956Z">
+        <seg>在我们开始使用术语“写作格式”前（这一概念由艾略特·金伯 （Eliot Kimber）提出 &lt;t0/&gt;—— &lt;t1/&gt;&lt;t2/&gt;他是技术传播领域的XML专家，同时还是DITA技术委员会的重要成员），在轻量级DITA的小组委员会上，冰淇淋口味的比喻推动了的发展，以多种标记语言表示DITA组件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6176,8 +6176,8 @@
       <tuv lang="en">
         <seg>FIGURE 1.13 &lt;t0/&gt;DITA map aggregating different LwDITA formats.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T085106Z">
-        <seg>图1.13 &lt;t0/&gt;聚合了不同 LwDITA 格式的主题的 DITA 地图。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200817T085106Z">
+        <seg>图1.13 &lt;t0/&gt;聚合了不同 LwDITA 格式的主题的 DITA 映射。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6208,8 +6208,8 @@
       <tuv lang="en">
         <seg>FIGURE 1.6 &lt;t0/&gt;DITA map for Chef Pedro's recipe critique website.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T114224Z" creationid="DSS" creationdate="20200725T153901Z">
-        <seg>图1.6 佩德罗菜谱评价网站的 &lt;t0/&gt;DITA 地图。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200725T153901Z">
+        <seg>图1.6 佩德罗菜谱评价网站的 &lt;t0/&gt;DITA 映射。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6240,16 +6240,16 @@
       <tuv lang="en">
         <seg>FIGURE 5.11 &lt;t0/&gt;Quick web deliverable created by the HDITA version of the &lt;t1/&gt;Sensei</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131308Z" creationid="DSS" creationdate="20200808T032547Z">
-        <seg>图5.11&lt;t0/&gt;&lt;t1/&gt;由 HDITA 格式的 Sensei Sushi 手册地图快速生成的</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200808T032547Z">
+        <seg>图5.11&lt;t0/&gt;&lt;t1/&gt;由 HDITA 格式的 Sensei Sushi 手册映射快速生成的</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE 5.12 &lt;t0/&gt;Command for the DITA-OT to generate a PDF deliverable from the&lt;t1/&gt; HDITA version of the &lt;t2/&gt;Sensei Sushi&lt;t3/&gt; brochure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T034040Z" creationid="DSS" creationdate="20200808T033938Z">
-        <seg>图5.12&lt;t0/&gt;&lt;t1/&gt; 利用 DITA-OT 将 &lt;t2/&gt;Sensei Sushi&lt;t3/&gt; 手册的 HDITA 地图生成 PDF 交付物所需输入的命令。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200808T033938Z">
+        <seg>图5.12&lt;t0/&gt;&lt;t1/&gt; 利用 DITA-OT 将 &lt;t2/&gt;Sensei Sushi&lt;t3/&gt; 手册的 HDITA 映射生成 PDF 交付物所需输入的命令。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6272,8 +6272,8 @@
       <tuv lang="en">
         <seg>FIGURE 5.6 &lt;t0/&gt;Command for the DITA-OT to generate a web deliverable from the&lt;t1/&gt; marinara sauce critique DITA map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T075915Z" creationid="DSS" creationdate="20200807T035726Z">
-        <seg>图5.6 &lt;t0/&gt;利用 DITA-OT 将意式番茄罗勒酱评论的 DITA 地图生成网页交付物所需输入的命令。&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200807T035726Z">
+        <seg>图5.6 &lt;t0/&gt;利用 DITA-OT 将意式番茄罗勒酱评论的 DITA 映射生成网页交付物所需输入的命令。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6528,8 +6528,8 @@
       <tuv lang="en">
         <seg>FIGURE 8.16 &lt;t0/&gt;XDITA map for a soda fountain operator manual.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T153322Z" creationid="lenovo" creationdate="20200902T153322Z">
-        <seg>图 8.16 &lt;t0/&gt;《汽水喷泉操作手册》的XDITA地图。&lt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090331Z" creationid="lenovo" creationdate="20200902T153322Z">
+        <seg>图 8.16 &lt;t0/&gt;《汽水喷泉操作手册》的XDITA映射。&lt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6633,32 +6633,32 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;5.1 &lt;t1/&gt;DITA map for Chef Pedro's recipe critique website.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T122316Z" creationid="DSS" creationdate="20200806T092440Z">
-        <seg>图 &lt;t0/&gt;5.1 &lt;t1/&gt;佩德罗菜谱评价网站的 DITA 地图。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200806T092440Z">
+        <seg>图 &lt;t0/&gt;5.1 &lt;t1/&gt;佩德罗菜谱评价网站的 DITA 映射。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;5.10 &lt;t1/&gt;HDITA version of the map to create the &lt;t2/&gt;Sensei Sushi&lt;t3/&gt; promotional&lt;t4/&gt; brochure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T080331Z" creationid="DSS" creationdate="20200807T075105Z">
-        <seg>图&lt;t0/&gt;5.10 &lt;t1/&gt;用于创建 &lt;t2/&gt;Sensei Sushi&lt;t3/&gt; 宣传手册的 HDITA 格式地图。&lt;t4/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200807T075105Z">
+        <seg>图&lt;t0/&gt;5.10 &lt;t1/&gt;用于创建 &lt;t2/&gt;Sensei Sushi&lt;t3/&gt; 宣传手册的 HDITA 格式映射。&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;5.13 &lt;t1/&gt;MDITA version of the map to create the &lt;t2/&gt;Sensei Sushi&lt;t3/&gt; promotional&lt;t4/&gt; brochure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T041851Z" creationid="DSS" creationdate="20200808T041851Z">
-        <seg>图&lt;t0/&gt;5.13&lt;t1/&gt; 用于创建 &lt;t2/&gt;Sensei Sushi&lt;t3/&gt; 宣传手册的 HDITA 格式地图。&lt;t4/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200808T041851Z">
+        <seg>图&lt;t0/&gt;5.13&lt;t1/&gt; 用于创建 &lt;t2/&gt;Sensei Sushi&lt;t3/&gt; 宣传手册的 HDITA 格式映射。&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;5.14 &lt;t1/&gt;Command for the DITA-OT to generate a PDF deliverable from the&lt;t2/&gt; MDITA version of the &lt;t3/&gt;Sensei Sushi&lt;t4/&gt; brochure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T042726Z" creationid="DSS" creationdate="20200808T042617Z">
-        <seg>图&lt;t0/&gt;5.14 &lt;t1/&gt;利用 DITA-OT &lt;t2/&gt;将&lt;t3/&gt;Sensei Sushi&lt;t4/&gt; 手册的 MDITA 地图生成 PDF 交付物所需输入的命令。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200808T042617Z">
+        <seg>图&lt;t0/&gt;5.14 &lt;t1/&gt;利用 DITA-OT &lt;t2/&gt;将&lt;t3/&gt;Sensei Sushi&lt;t4/&gt; 手册的 MDITA 映射生成 PDF 交付物所需输入的命令。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6681,16 +6681,16 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;5.8 &lt;t1/&gt;XDITA version of the map to create the Sensei Sushi promotional&lt;t2/&gt; brochure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T080203Z" creationid="DSS" creationdate="20200807T065351Z">
-        <seg>图&lt;t0/&gt;5.8 &lt;t1/&gt;用于创建 Sensei Sushi 宣传手册的 XDITA 格式地图。&lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200807T065351Z">
+        <seg>图&lt;t0/&gt;5.8 &lt;t1/&gt;用于创建 Sensei Sushi 宣传手册的 XDITA 格式映射。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;5.9 &lt;t1/&gt;Command for the DITA-OT to generate a PDF deliverable from the&lt;t2/&gt; XDITA version of the &lt;t3/&gt;Sensei Sushi&lt;t4/&gt; brochure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T080218Z" creationid="DSS" creationdate="20200807T072411Z">
-        <seg>图5.9 &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;利用 DITA-OT 将&lt;t3/&gt;Sensei Sushi&lt;t4/&gt; 手册的 XDITA 地图生成 PDF 交付物所需输入的命令。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200807T072411Z">
+        <seg>图5.9 &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;利用 DITA-OT 将&lt;t3/&gt;Sensei Sushi&lt;t4/&gt; 手册的 XDITA 映射生成 PDF 交付物所需输入的命令。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7121,48 +7121,48 @@
       <tuv lang="en">
         <seg>Figure 6.62&lt;t0/&gt; displays the HDITA version of the cross-format map to produce the &lt;t1/&gt;Sensei Sushi&lt;t2/&gt; introductory brochure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T085630Z" creationid="lenovo" creationdate="20200827T141437Z">
-        <seg>图 6.62&lt;t0/&gt; 展示了用于创建&lt;t1/&gt;Sensei Sushi&lt;t2/&gt;介绍手册的HDITA版本的跨格式地图。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="lenovo" creationdate="20200827T141437Z">
+        <seg>图 6.62&lt;t0/&gt; 展示了用于创建&lt;t1/&gt;Sensei Sushi&lt;t2/&gt;介绍手册的HDITA版本的跨格式映射。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Figure &lt;t0/&gt;1.6&lt;t1/&gt; &lt;t2/&gt;shows a very basic DITA map for Chef Pedro's recipe critique website.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T114223Z" creationid="DSS" creationdate="20200725T153515Z">
-        <seg>图&lt;t0/&gt;1.6&lt;t1/&gt; &lt;t2/&gt;展示了佩德罗菜谱评价网站的一个非常基本的 DITA 地图。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200725T153515Z">
+        <seg>图&lt;t0/&gt;1.6&lt;t1/&gt; &lt;t2/&gt;展示了佩德罗菜谱评价网站的一个非常基本的 DITA 映射。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Figure &lt;t0/&gt;5.10 &lt;t1/&gt;shows the HDITA version of the map for creating the brochure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T075131Z" creationid="DSS" creationdate="20200807T072510Z">
-        <seg>图&lt;t0/&gt;5.10&lt;t1/&gt;展示了用于创建宣传手册的 HDITA 格式地图。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200807T072510Z">
+        <seg>图&lt;t0/&gt;5.10&lt;t1/&gt;展示了用于创建宣传手册的 HDITA 格式映射。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Figure &lt;t0/&gt;5.14&lt;t1/&gt; &lt;t2/&gt;shows the DITA-OT command for processing an MDITA map and producing a PDF deliverable, which looks very similar to the one used for the transformations in XDITA and HDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T041001Z" creationid="DSS" creationdate="20200808T040618Z">
-        <seg>图&lt;t0/&gt;5.10&lt;t1/&gt;&lt;t2/&gt;展示了利用 DITA-OT 转换 MDITA 格式的地图，并生成 PDF 交付文件所需输入的命令，它与转换 XDITA 和 HDITA 格式的地图所需的命令非常相似。。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200808T040618Z">
+        <seg>图&lt;t0/&gt;5.10&lt;t1/&gt;&lt;t2/&gt;展示了利用 DITA-OT 转换 MDITA 格式的映射，并生成 PDF 交付文件所需输入的命令，它与转换 XDITA 和 HDITA 格式的映射所需的命令非常相似。。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Figure &lt;t0/&gt;5.8&lt;t1/&gt; &lt;t2/&gt;shows the XDITA version of the map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T063955Z" creationid="DSS" creationdate="20200807T063955Z">
-        <seg>图&lt;t0/&gt;5.8&lt;t1/&gt;&lt;t2/&gt;展示了 XDITA 格式的地图。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200807T063955Z">
+        <seg>图&lt;t0/&gt;5.8&lt;t1/&gt;&lt;t2/&gt;展示了 XDITA 格式的映射。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Figure &lt;t0/&gt;5.9&lt;t1/&gt; &lt;t2/&gt;shows the DITA-OT command for processing an XDITA map and producing a PDF deliverable, which looks very similar to the one used for the DITA map transformation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T041025Z" creationid="DSS" creationdate="20200807T070824Z">
-        <seg>图&lt;t0/&gt;5.9&lt;t1/&gt;&lt;t2/&gt;展示了利用 DITA-OT 转换 XDITA 格式的地图，并生成 PDF 交付文件所需输入的命令，它与转换 DITA 格式的地图所需的命令非常相似。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200807T070824Z">
+        <seg>图&lt;t0/&gt;5.9&lt;t1/&gt;&lt;t2/&gt;展示了利用 DITA-OT 转换 XDITA 格式的映射，并生成 PDF 交付文件所需输入的命令，它与转换 DITA 格式的映射所需的命令非常相似。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7586,8 +7586,8 @@
       <tuv lang="en">
         <seg>For processing purposes, a single DITA map can combine topics created in different LwDITA formats (&lt;t0/&gt;Figure &lt;t1/&gt;1.13&lt;t2/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T083516Z">
-        <seg>在处理过程中，单个 DITA 地图可以组合使用不同 LwDITA 格式创建的主题（图&lt;t0/&gt;&lt;t1/&gt;1.13&lt;t2/&gt;）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200817T083516Z">
+        <seg>在处理过程中，单个 DITA 映射可以组合使用不同 LwDITA 格式创建的主题（图&lt;t0/&gt;&lt;t1/&gt;1.13&lt;t2/&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8194,8 +8194,8 @@
       <tuv lang="en">
         <seg>Highlighting Components (available in both topic and map)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200804T134114Z">
-        <seg>重点组件（主题和地图中都可以使用）</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200804T134114Z">
+        <seg>重点组件（主题和映射中都可以使用）</seg>
       </tuv>
     </tu>
     <tu>
@@ -8298,8 +8298,8 @@
       <tuv lang="en">
         <seg>However, before I talk about the specifics of the LwDITA map, I need to bring back the DITA map from&lt;t11/&gt; Chapter &lt;t12/&gt;1&lt;t13/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T134923Z" creationid="DSS" creationdate="20200806T084525Z">
-        <seg>不过在介绍 LwDITA 地图的细节之前，我需要先谈谈第&lt;t11/&gt;&lt;t12/&gt;一&lt;t13/&gt;章中的 DITA 地图。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200806T084525Z">
+        <seg>不过在介绍 LwDITA 映射的细节之前，我需要先谈谈第&lt;t11/&gt;&lt;t12/&gt;一&lt;t13/&gt;章中的 DITA 映射。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8938,8 +8938,8 @@
       <tuv lang="en">
         <seg>If all Chef Pedro needed were a basic web version of the brochure, and if all the topics referenced in the map were also created in HDITA, this version of the map could provide the navigation structure for it.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200807T074947Z">
-        <seg>如果厨师佩德罗需要的只是一个简单的网页版宣传手册，并且地图中引用的所有主题都是由 HDITA 格式创建的，那么地图就可以提供导航结构。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200807T074947Z">
+        <seg>如果厨师佩德罗需要的只是一个简单的网页版宣传手册，并且映射中引用的所有主题都是由 HDITA 格式创建的，那么映射就可以提供导航结构。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9002,8 +9002,8 @@
       <tuv lang="en">
         <seg>If no transformation scenario has been selected, the dialog box will direct you to the “Configure Transformation Scenario(s)” win&lt;t0/&gt;dow.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131303Z" creationid="DSS" creationdate="20200807T035059Z">
-        <seg>如果没有选择任何地图，对话框将引导你到“配置转换选项”（Configure Transformation Scenario(s)）窗口。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200807T035059Z">
+        <seg>如果没有选择任何映射，对话框将引导你到“配置转换选项”（Configure Transformation Scenario(s)）窗口。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9316,8 +9316,8 @@
       <tuv lang="en">
         <seg>In &lt;t0/&gt;Chapter &lt;t1/&gt;3&lt;t2/&gt; &lt;t3/&gt;I introduced the components of a LwDITA map, and those are expressed in XDITA as follows:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T135008Z" creationid="DSS" creationdate="20200807T062627Z">
-        <seg>在&lt;t0/&gt;第&lt;t1/&gt;三&lt;t2/&gt;&lt;t3/&gt;章中，我介绍了构建 LwDITA 地图的组件，在 XDITA 中这些组件的使用方式如下：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200807T062627Z">
+        <seg>在&lt;t0/&gt;第&lt;t1/&gt;三&lt;t2/&gt;&lt;t3/&gt;章中，我介绍了构建 LwDITA 映射的组件，在 XDITA 中这些组件的使用方式如下：</seg>
       </tuv>
     </tu>
     <tu>
@@ -9796,24 +9796,24 @@
       <tuv lang="en">
         <seg>In Oxygen XML Editor, the HDITA map would be processed through the same steps as the XDITA and HDITA maps: by clicking on the “Apply Transformation Scenario(s)” button on the main toolbar.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T041309Z" creationid="DSS" creationdate="20200808T041309Z">
-        <seg>在 Oxygen XML Editor 中，处理 MDITA 地图的步骤与处理 XDITA 和 HDITA 地图的步骤相同：单击主工具栏上的“应用转换选项”按钮。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200808T041309Z">
+        <seg>在 Oxygen XML Editor 中，处理 MDITA 映射的步骤与处理 XDITA 和 HDITA 映射的步骤相同：单击主工具栏上的“应用转换选项”按钮。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>In Oxygen XML Editor, the HDITA map would be processed through the same steps as the XDITA map: by clicking on the “Apply Transformation Scenario(s)” button on the main toolbar.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T034344Z" creationid="DSS" creationdate="20200808T034344Z">
-        <seg>在 Oxygen XML Editor 中，处理 HDITA 地图的步骤与处理 XDITA 地图的步骤相同：单击主工具栏上的“应用转换选项”按钮。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200808T034344Z">
+        <seg>在 Oxygen XML Editor 中，处理 HDITA 映射的步骤与处理 XDITA 映射的步骤相同：单击主工具栏上的“应用转换选项”按钮。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>In Oxygen XML Editor, the XDITA map would be processed through the same steps as the DITA map: by clicking on the “Apply Transformation Scenario(s)” button on the main toolbar.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T041136Z" creationid="DSS" creationdate="20200807T070844Z">
-        <seg>在 Oxygen XML Editor 中，处理 XDITA 地图的步骤与处理 DITA 地图的步骤相同：单击主工具栏上的“应用转换选项”按钮。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200807T070844Z">
+        <seg>在 Oxygen XML Editor 中，处理 XDITA 映射的步骤与处理 DITA 映射的步骤相同：单击主工具栏上的“应用转换选项”按钮。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10444,8 +10444,8 @@
       <tuv lang="en">
         <seg>In the previous chapter I analyzed the LwDITA document type of map, which works as a collection and organization mechanism for content units.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T061026Z" creationid="DSS" creationdate="20200808T061026Z">
-        <seg>在上一章中，我分析了 LwDITA 的地图文档类型，地图的作用是聚合和组织内容单元，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200808T061026Z">
+        <seg>在上一章中，我分析了 LwDITA 的映射文档类型，映射的作用是聚合和组织内容单元，</seg>
       </tuv>
     </tu>
     <tu>
@@ -10636,8 +10636,8 @@
       <tuv lang="en">
         <seg>In this first part, the processing tool will take the map and topics and populate the &lt;t0/&gt;“icecream-flavor”&lt;t1/&gt; variable with the &lt;t2/&gt;&lt;key&gt; &lt;t3/&gt;value established in the XDITA map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T155933Z" creationid="lenovo" creationdate="20200902T155933Z">
-        <seg>在第一部分中，处理工具将获取映射和主题，并使用XDITA地图中建立的&lt;key&gt;值填充“ icecream-flavor”变量。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090331Z" creationid="lenovo" creationdate="20200902T155933Z">
+        <seg>在第一部分中，处理工具将获取映射和主题，并使用XDITA映射中建立的&lt;key&gt;值填充“ icecream-flavor”变量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10700,16 +10700,16 @@
       <tuv lang="en">
         <seg>In this section, I will use a software tool to process the DITA map, from&lt;t8/&gt; Chapter &lt;t9/&gt;1&lt;t10/&gt;, &lt;t11/&gt;that Chef Pedro created for his recipe critiques website.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T134935Z" creationid="DSS" creationdate="20200806T085539Z">
-        <seg>在本节中，我将使用一个软件工具来处理来自&lt;t8/&gt;第&lt;t9/&gt;一&lt;t10/&gt;&lt;t11/&gt;章的DITA地图，该地图是厨师佩德罗为其菜谱评价网站创建的。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200806T085539Z">
+        <seg>在本节中，我将使用一个软件工具来处理来自&lt;t8/&gt;第&lt;t9/&gt;一&lt;t10/&gt;&lt;t11/&gt;章的DITA映射，该映射是厨师佩德罗为其菜谱评价网站创建的。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>In this specific example, the map will only reference those topics that are needed to build a promotional brochure for the &lt;t4/&gt;Sensei Sushi&lt;t5/&gt; franchise opportunity.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200807T061002Z">
-        <seg>在下面这个特定的例子中，地图将只引用那些有助于构建 &lt;t4/&gt;Sensei Sushi&lt;t5/&gt; 品牌加盟宣传手册的主题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200807T061002Z">
+        <seg>在下面这个特定的例子中，映射将只引用那些有助于构建 &lt;t4/&gt;Sensei Sushi&lt;t5/&gt; 品牌加盟宣传手册的主题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11380,8 +11380,8 @@
       <tuv lang="en">
         <seg>Just as LwDITA defines a subset of DITA features for topics, it also defines a subset for the DITA map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200806T075931Z">
-        <seg>它可以将主题分组。正如 LwDITA 的主题特性是 DITA 主题特性的子集一样，LwDITA 地图的特性也是 DITA 地图特性的子集。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200806T075931Z">
+        <seg>它可以将主题分组。正如 LwDITA 的主题特性是 DITA 主题特性的子集一样，LwDITA 映射的特性也是 DITA 映射特性的子集。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11444,8 +11444,8 @@
       <tuv lang="en">
         <seg>Key definition&lt;t0/&gt;: defines a variable at the map level.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T153719Z" creationid="DSS" creationdate="20200804T153632Z">
-        <seg>关键定义（key definition）&lt;t0/&gt;：在地图里定义一个变量。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200804T153632Z">
+        <seg>关键定义（key definition）&lt;t0/&gt;：在映射里定义一个变量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11492,8 +11492,8 @@
       <tuv lang="en">
         <seg>Lastly, &lt;t0/&gt;Figure 6.64&lt;t1/&gt; shows the MDITA version of the cross-format map for the &lt;t2/&gt;Sensei Sushi&lt;t3/&gt; brochure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T085704Z" creationid="lenovo" creationdate="20200827T141739Z">
-        <seg>最后，图6.64展示了用于创建Sensei Sushi介绍手册的MDITA版本的跨格式地图。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="lenovo" creationdate="20200827T141739Z">
+        <seg>最后，图6.64展示了用于创建Sensei Sushi介绍手册的MDITA版本的跨格式映射。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12236,24 +12236,24 @@
       <tuv lang="en">
         <seg>Map (&lt;t0/&gt;&lt;map&gt;&lt;t1/&gt;) &lt;t2/&gt;- &lt;t3/&gt;describes the relationships among a set of resources, such as LwDITA topics</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200807T062825Z">
-        <seg>地图 (&lt;t0/&gt;&lt;map&gt;&lt;t1/&gt;)&lt;t2/&gt;&lt;t3/&gt;描述了一组资源之间的关系，如一组 LwDITA 主题之间的关系。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200807T062825Z">
+        <seg>映射 (&lt;t0/&gt;&lt;map&gt;&lt;t1/&gt;)&lt;t2/&gt;&lt;t3/&gt;描述了一组资源之间的关系，如一组 LwDITA 主题之间的关系。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Map Components</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T151530Z" creationid="DSS" creationdate="20200804T151530Z">
-        <seg>地图组件</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200804T151530Z">
+        <seg>映射组件</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Map&lt;t0/&gt;: a component that describes the relationships among a set of resources, such as LwDITA topics.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200804T153616Z">
-        <seg>地图（map）&lt;t0/&gt;：描述一组资源之间关系的组件，如一组LwDITA主题之间的关系。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200804T153616Z">
+        <seg>映射（map）&lt;t0/&gt;：描述一组资源之间关系的组件，如一组LwDITA主题之间的关系。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12821,8 +12821,8 @@
       <tuv lang="en">
         <seg>Of course, you will also need all the topics that the map references (inside each &lt;t6/&gt;&lt;topicref&gt; &lt;t7/&gt;tag), but we will work with those in the next chapter.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200807T064957Z">
-        <seg>当然，你还需要创建地图引用的所有主题（即每个 &lt;t6/&gt;&lt;topicref&gt; &lt;t7/&gt;标签里的内容），不过这将在下一章进行讲解，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200807T064957Z">
+        <seg>当然，你还需要创建映射引用的所有主题（即每个 &lt;t6/&gt;&lt;topicref&gt; &lt;t7/&gt;标签里的内容），不过这将在下一章进行讲解，</seg>
       </tuv>
     </tu>
     <tu>
@@ -13486,8 +13486,8 @@
       <tuv lang="en">
         <seg>Priestley pointed out that the simplified map had &lt;t0/&gt;6 &lt;t1/&gt;elements &lt;t2/&gt;(5 &lt;t3/&gt;if the &lt;t4/&gt;&lt;topicref&gt; &lt;t5/&gt;element was modified to include a title).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T154623Z" creationid="DSS" creationdate="20200731T080324Z">
-        <seg>普里斯特利指出简化后的地图有&lt;t0/&gt;6 &lt;t1/&gt;个元素（如果 &lt;topicref&gt; 元素包含标题的话，则为&lt;t2/&gt;5&lt;t3/&gt;个)。&lt;t4/&gt;&lt;t5/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200731T080324Z">
+        <seg>普里斯特利指出简化后的映射有&lt;t0/&gt;6 &lt;t1/&gt;个元素（如果 &lt;topicref&gt; 元素包含标题的话，则为&lt;t2/&gt;5&lt;t3/&gt;个)。&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13833,16 +13833,16 @@
       <tuv lang="en">
         <seg>Revisiting the DITA Map</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T084603Z" creationid="DSS" creationdate="20200806T084603Z">
-        <seg>重新讨论 DITA 地图</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200806T084603Z">
+        <seg>重新讨论 DITA 映射</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Revisiting the reference information from &lt;t0/&gt;Chapter &lt;t1/&gt;5&lt;t2/&gt;, &lt;t3/&gt;and according to the DITA-OT documentation, the general structure for a command that builds DITA (and LwDITA) deliverables from topics and maps is shown in &lt;t4/&gt;figure &lt;t5/&gt;8.17&lt;t6/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T160149Z" creationid="lenovo" creationdate="20200902T160149Z">
-        <seg>再次阅读第5章中的参考信息，并根据DITA-OT文档，从主题和地图构建DITA（和LwDITA）可交付成果的命令的一般结构如图8.17所示。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090331Z" creationid="lenovo" creationdate="20200902T160149Z">
+        <seg>再次阅读第5章中的参考信息，并根据DITA-OT文档，从主题和映射构建DITA（和LwDITA）可交付成果的命令的一般结构如图8.17所示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14737,8 +14737,8 @@
       <tuv lang="en">
         <seg>THE LwDITA MAP COMPONENTS</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T055514Z" creationid="DSS" creationdate="20200721T144144Z">
-        <seg>LwDITA 地图组件</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200721T144144Z">
+        <seg>LwDITA 映射组件</seg>
       </tuv>
     </tu>
     <tu>
@@ -15098,8 +15098,8 @@
       <tuv lang="en">
         <seg>That one-line command combines the map with the topics, processing the hierarchies and relationships established by the topic</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200806T115801Z">
-        <seg>该单行命令将地图与主题组合在一起，处理由主题引用建立的</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200806T115801Z">
+        <seg>该单行命令将映射与主题组合在一起，处理由主题引用建立的</seg>
       </tuv>
     </tu>
     <tu>
@@ -15331,8 +15331,8 @@
       <tuv lang="en">
         <seg>The &lt;t7/&gt;&lt;topicmeta&gt; &lt;t8/&gt;element at the map level (in bold font) provides the main title (&lt;t9/&gt;&lt;navtitle&gt;&lt;t10/&gt;) for deliverables produced with this specific map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T070133Z" creationid="DSS" creationdate="20200807T070133Z">
-        <seg>地图级别的 &lt;t7/&gt;&lt;topicmeta&gt; &lt;t8/&gt;元素（粗体）为使用该特定地图生成的可交付内容定义了主标题(&lt;t9/&gt; &lt;navtitle&gt;&lt;t10/&gt;)。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200807T070133Z">
+        <seg>映射级别的 &lt;t7/&gt;&lt;topicmeta&gt; &lt;t8/&gt;元素（粗体）为使用该特定映射生成的可交付内容定义了主标题(&lt;t9/&gt; &lt;navtitle&gt;&lt;t10/&gt;)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15355,8 +15355,8 @@
       <tuv lang="en">
         <seg>The &lt;t9/&gt;&lt;h1&gt; &lt;t10/&gt;element at the map level (in bold font) provides the main title for deliverables produced with this specific map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T075506Z" creationid="DSS" creationdate="20200807T075506Z">
-        <seg>地图级别的 &lt;t9/&gt;&lt;h1&gt; &lt;t10/&gt;元素（粗体）为使用该特定地图生成的可交付内容定义了主标题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200807T075506Z">
+        <seg>映射级别的 &lt;t9/&gt;&lt;h1&gt; &lt;t10/&gt;元素（粗体）为使用该特定映射生成的可交付内容定义了主标题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15563,8 +15563,8 @@
       <tuv lang="en">
         <seg>The HDITA Map</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T070854Z" creationid="DSS" creationdate="20200807T070854Z">
-        <seg>HDITA 格式的地图</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200807T070854Z">
+        <seg>HDITA 格式的映射</seg>
       </tuv>
     </tu>
     <tu>
@@ -15579,8 +15579,8 @@
       <tuv lang="en">
         <seg>The HDITA map can be saved as &lt;t0/&gt;crossformat-brochure.html&lt;t1/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T133232Z" creationid="lenovo" creationdate="20200827T141448Z">
-        <seg>HDITA地图可以保存为&lt;t0/&gt;crossform-brochure.html。&lt;t1/&gt;.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="lenovo" creationdate="20200827T141448Z">
+        <seg>HDITA映射可以保存为&lt;t0/&gt;crossform-brochure.html。&lt;t1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15755,8 +15755,8 @@
       <tuv lang="en">
         <seg>The LwDITA map to create the &lt;t0/&gt;Sensei Sushi&lt;t1/&gt; brochure can be represented in the three initial LwDITA authoring formats, as I explain in the following sections.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T062420Z" creationid="DSS" creationdate="20200807T062420Z">
-        <seg>用于创建 &lt;t0/&gt;Sensei Sushi&lt;t1/&gt; 手册的 LwDITA 地图可以用三种最初的 LwDITA 写作格式来表示，我将在下面的部分中进行解释。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200807T062420Z">
+        <seg>用于创建 &lt;t0/&gt;Sensei Sushi&lt;t1/&gt; 手册的 LwDITA 映射可以用三种最初的 LwDITA 写作格式来表示，我将在下面的部分中进行解释。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15779,8 +15779,8 @@
       <tuv lang="en">
         <seg>The LwDITA topic and map can be represented, with some limitations and substitutions, in three author&lt;t0/&gt;ing formats: XDITA (based on a simplified grammar of DITA XML), HDITA (based on HTML5), and MDITA (based on Markdown).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200803T151659Z">
-        <seg>LwDITA 主题和地图可以用三种写作格式表示：XDITA（基于DITA XML的简化语法）、HDITA（基于HTML5）和MDITA（基于Markdown），不过在使用时有一些限制和需要替换的地方。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200803T151659Z">
+        <seg>LwDITA 主题和映射可以用三种写作格式表示：XDITA（基于DITA XML的简化语法）、HDITA（基于HTML5）和MDITA（基于Markdown），不过在使用时有一些限制和需要替换的地方。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15811,8 +15811,8 @@
       <tuv lang="en">
         <seg>The MDITA Map</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T034353Z" creationid="DSS" creationdate="20200808T034353Z">
-        <seg>MDITA 格式的地图</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200808T034353Z">
+        <seg>MDITA 格式的映射</seg>
       </tuv>
     </tu>
     <tu>
@@ -15891,8 +15891,8 @@
       <tuv lang="en">
         <seg>The XDITA Map</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T062442Z" creationid="DSS" creationdate="20200807T062442Z">
-        <seg>XDITA 格式的地图</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200807T062442Z">
+        <seg>XDITA 格式的映射</seg>
       </tuv>
     </tu>
     <tu>
@@ -16155,8 +16155,8 @@
       <tuv lang="en">
         <seg>The brochure developer can save this map as &lt;t0/&gt;crossformat-brochure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T132323Z" creationid="lenovo" creationdate="20200827T135202Z">
-        <seg>宣传册开发人员可以将此映射地图保存为&lt;t0/&gt;crossform -brochu .ditamap</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090227Z" creationid="lenovo" creationdate="20200827T135202Z">
+        <seg>宣传册开发人员可以将此保存为&lt;t0/&gt;crossform -brochu .ditamap</seg>
       </tuv>
     </tu>
     <tu>
@@ -16395,8 +16395,8 @@
       <tuv lang="en">
         <seg>The core components of a LwDITA map that can be</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T071832Z" creationid="DSS" creationdate="20200807T071832Z">
-        <seg>HDITA 中包含的 LwDITA 地图的核心组件</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200807T071832Z">
+        <seg>HDITA 中包含的 LwDITA 映射的核心组件</seg>
       </tuv>
     </tu>
     <tu>
@@ -16483,8 +16483,8 @@
       <tuv lang="en">
         <seg>The document type of map enables this grouping of topics.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T075903Z" creationid="DSS" creationdate="20200806T075903Z">
-        <seg>这得益于地图（map）文档类型，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200806T075903Z">
+        <seg>这得益于映射（map）文档类型，</seg>
       </tuv>
     </tu>
     <tu>
@@ -16669,8 +16669,8 @@
       <tuv lang="en">
         <seg>The first topic reference in the DITA map from &lt;t0/&gt;Figure &lt;t1/&gt;5.1&lt;t2/&gt; &lt;t3/&gt;is the DITA task version of the marinara sauce recipe from&lt;t4/&gt; Chapter &lt;t5/&gt;1&lt;t6/&gt; &lt;t7/&gt;(&lt;t8/&gt;Figure &lt;t9/&gt;5.2&lt;t10/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T075749Z" creationid="DSS" creationdate="20200806T090153Z">
-        <seg>&lt;t0/&gt;图&lt;t1/&gt;5.1&lt;t2/&gt;&lt;t3/&gt;展示的 DITA 地图的第一个主题引自&lt;t4/&gt;第&lt;t5/&gt;一&lt;t6/&gt;&lt;t7/&gt;章中的意式番茄罗勒酱菜谱，它是一个 DITA 任务（task）主题（&lt;t8/&gt;图&lt;t9/&gt;5.2&lt;t10/&gt;）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200806T090153Z">
+        <seg>&lt;t0/&gt;图&lt;t1/&gt;5.1&lt;t2/&gt;&lt;t3/&gt;展示的 DITA 映射的第一个主题引自&lt;t4/&gt;第&lt;t5/&gt;一&lt;t6/&gt;&lt;t7/&gt;章中的意式番茄罗勒酱菜谱，它是一个 DITA 任务（task）主题（&lt;t8/&gt;图&lt;t9/&gt;5.2&lt;t10/&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16974,8 +16974,8 @@
       <tuv lang="en">
         <seg>The list items reference specific topics, and the heading one (in bold font) provides the main title for deliverables produced with this specific map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200808T042505Z">
-        <seg>列表项引用特定主题，一级标题（粗体的部分）为使用此地图生成的交付成果提供主标题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200808T042505Z">
+        <seg>列表项引用特定主题，一级标题（粗体的部分）为使用此映射生成的交付成果提供主标题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17022,8 +17022,8 @@
       <tuv lang="en">
         <seg>The map for creating the &lt;t0/&gt;Sensei Sush&lt;t1/&gt;i brochure can also be coded in MDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T040051Z" creationid="DSS" creationdate="20200808T040051Z">
-        <seg>创建&lt;t0/&gt; Sensei Sushi &lt;t1/&gt;手册的地图也可以使用 MDITA 格式语言。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200808T040051Z">
+        <seg>创建&lt;t0/&gt; Sensei Sushi &lt;t1/&gt;手册的映射也可以使用 MDITA 格式语言。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17038,24 +17038,24 @@
       <tuv lang="en">
         <seg>The map includes&lt;t1/&gt; links (or topic references) to the marinara sauce recipe, Chef Pedro's critique of the recipe, and an “about” page with information about the author.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T130631Z" creationid="DSS" creationdate="20200725T154134Z">
-        <seg>地图上有关联到&lt;t1/&gt;意式番茄罗勒酱菜谱、厨师佩德罗对菜谱的评价和介绍作者信息的“关于”页面的链接（或主题引用）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200725T154134Z">
+        <seg>映射上有关联到&lt;t1/&gt;意式番茄罗勒酱菜谱、厨师佩德罗对菜谱的评价和介绍作者信息的“关于”页面的链接（或主题引用）。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The map includes&lt;t2/&gt; links (or topic references) to the marinara sauce recipe, Chef Pedro's critique of the recipe, and an “about” page with information about the author.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T130659Z" creationid="DSS" creationdate="20200806T092641Z">
-        <seg>地图上有关联到&lt;t2/&gt;意式番茄罗勒酱菜谱、厨师佩德罗对菜谱的评价和介绍作者信息的“关于”页面的链接（或主题引用）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200806T092641Z">
+        <seg>映射上有关联到&lt;t2/&gt;意式番茄罗勒酱菜谱、厨师佩德罗对菜谱的评价和介绍作者信息的“关于”页面的链接（或主题引用）。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The metadata and rules included in topics, phrases, and maps preserve the rhetorical effectiveness of intelligent content repositories.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T142356Z" creationid="lenovo" creationdate="20200901T142356Z">
-        <seg>主题、短语和地图中包含的元数据和规则保留了智能内容存储库的修辞效力。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090331Z" creationid="lenovo" creationdate="20200901T142356Z">
+        <seg>主题、短语和映射中包含的元数据和规则保留了智能内容存储库的修辞效力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17190,8 +17190,8 @@
       <tuv lang="en">
         <seg>The only components included in an MDITA version of the brochure map would be a title (represented by a Markdown &lt;t2/&gt;atx&lt;t3/&gt; heading of &lt;t4/&gt;# &lt;t5/&gt;in this case) and list items &lt;t6/&gt;(&lt;t7/&gt;-&lt;t8/&gt;) &lt;t9/&gt;that include links to each topic and its navigation title.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200808T040145Z">
-        <seg>MDITA格式的手册地图中包含的唯一组件是标题（在本例中用 Markdown 中的 # 表示标题）和列表项 (-) ，列表项将提供关联到到每个主题的连接，并形成导航标题。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200808T040145Z">
+        <seg>MDITA格式的手册映射中包含的唯一组件是标题（在本例中用 Markdown 中的 # 表示标题）和列表项 (-) ，列表项将提供关联到到每个主题的连接，并形成导航标题。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17350,16 +17350,16 @@
       <tuv lang="en">
         <seg>The process for generating end user deliverables from DITA maps is the same for transforming LwDITA maps (regardless of XDITA, HDITA, or MDITA authoring format).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T085531Z" creationid="DSS" creationdate="20200807T042224Z">
-        <seg>从DITA地图生成用户交付物的过程与从 LwDITA 地图（XDITA、HDITA 或 MDITA 写作格式皆可）生成交付物的过程相同。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200807T042224Z">
+        <seg>从DITA映射生成用户交付物的过程与从 LwDITA 映射（XDITA、HDITA 或 MDITA 写作格式皆可）生成交付物的过程相同。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The process of assembling topic collections depends on DITA maps, which are defined as “the glue that binds your topics together, the driver for producing your output, and the infor&lt;t0/&gt;mation path for your users to follow” (Bellamy et al., &lt;t1/&gt;2012, &lt;t2/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T085310Z" creationid="DSS" creationdate="20200725T144801Z">
-        <seg>组合主题集合的过程依赖于 DITA 地图，DITA 地图是“将主题绑定在一起的粘合剂，是生成输出物的驱动器，也是用户可以遵循的信息路径”(Bellamy et al., &lt;t1/&gt;2012, &lt;t2/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200725T144801Z">
+        <seg>组合主题集合的过程依赖于 DITA 映射，DITA 映射是“将主题绑定在一起的粘合剂，是生成输出物的驱动器，也是用户可以遵循的信息路径”(Bellamy et al., &lt;t1/&gt;2012, &lt;t2/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17542,24 +17542,24 @@
       <tuv lang="en">
         <seg>The resulting PDF should look very similar to the one produced with the XDITA and HDITA maps, as the end users do not need to know which LwDITA authoring format was used to create the brochure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T041404Z" creationid="DSS" creationdate="20200808T041404Z">
-        <seg>生成的 PDF 应该与使用 XDITA 和 HDITA 地图生成的 PDF 非常相似，因为终端用户不需要知道创建手册到底使用了哪种 LwDITA 写作格式。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200808T041404Z">
+        <seg>生成的 PDF 应该与使用 XDITA 和 HDITA 映射生成的 PDF 非常相似，因为终端用户不需要知道创建手册到底使用了哪种 LwDITA 写作格式。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The resulting PDF should look very similar to the one produced with the XDITA map, as the end users do not need to know which LwDITA authoring format was used to create the brochure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T034345Z" creationid="DSS" creationdate="20200808T034345Z">
-        <seg>生成的 PDF 应该与使用 XDITA 地图生成的 PDF 非常相似，因为终端用户不需要知道创建手册到底使用了哪种 LwDITA 写作格式。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200808T034345Z">
+        <seg>生成的 PDF 应该与使用 XDITA 映射生成的 PDF 非常相似，因为终端用户不需要知道创建手册到底使用了哪种 LwDITA 写作格式。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The resulting files appear automatically (after a few minutes) in a folder named &lt;t13/&gt;out&lt;t14/&gt; that Oxygen will cre&lt;t15/&gt;ate in the same folder where the map is located.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131303Z" creationid="DSS" creationdate="20200807T041402Z">
-        <seg>Oxygen 会在地图所在的同一个文件夹中创建一个名为 &lt;t13/&gt;out&lt;t14/&gt;&lt;t15/&gt; 的文件夹，生成的文件（几分钟后）会自动出现在 out 文件夹中。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200807T041402Z">
+        <seg>Oxygen 会在映射所在的同一个文件夹中创建一个名为 &lt;t13/&gt;out&lt;t14/&gt;&lt;t15/&gt; 的文件夹，生成的文件（几分钟后）会自动出现在 out 文件夹中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18454,8 +18454,8 @@
       <tuv lang="en">
         <seg>Then, the map includes links (&lt;t5/&gt;&lt;topicref&gt;&lt;t6/&gt;) for the individual files needed for the website.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150236Z" creationid="DSS" creationdate="20200725T153537Z">
-        <seg>然后，该地图包含网站所需的各个文件的链接（&lt;t5/&gt;&lt;topicref&gt;&lt;t6/&gt;）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200725T153537Z">
+        <seg>然后，该映射包含网站所需的各个文件的链接（&lt;t5/&gt;&lt;topicref&gt;&lt;t6/&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19014,8 +19014,8 @@
       <tuv lang="en">
         <seg>This chapter provides an overview, with examples, of LwDITA maps.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T075940Z" creationid="DSS" creationdate="20200806T075940Z">
-        <seg>本章将介绍 LwDITA 地图，并提供示例。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200806T075940Z">
+        <seg>本章将介绍 LwDITA 映射，并提供示例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19462,8 +19462,8 @@
       <tuv lang="en">
         <seg>Those topics can be present in several combinations grouped in maps.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200807T060945Z">
-        <seg>这些主题可以在地图中分为不同的组合。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200807T060945Z">
+        <seg>这些主题可以在映射中分为不同的组合。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19614,8 +19614,8 @@
       <tuv lang="en">
         <seg>To create a PDF deliverable from the HDITA map, or if the project had any single-sourcing or content reuse requirements, Chef Pedro and his team would need to process it through a LwDITA-aware tool.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T033619Z" creationid="DSS" creationdate="20200808T033619Z">
-        <seg>如果想要利用 HDITA 地图创建 PDF 交付文件，又或者如果项目有任何同源开发或内容复用的需求，厨师佩德罗及其团队需要使用支持 LwDITA 的工具。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200808T033619Z">
+        <seg>如果想要利用 HDITA 映射创建 PDF 交付文件，又或者如果项目有任何同源开发或内容复用的需求，厨师佩德罗及其团队需要使用支持 LwDITA 的工具。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19743,16 +19743,16 @@
       <tuv lang="en">
         <seg>Topic metadata (&lt;t0/&gt;&lt;topicmeta&gt;&lt;t1/&gt;) &lt;t2/&gt;- &lt;t3/&gt;defines the metadata that applies to a topic when it appears in a map</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200807T063035Z">
-        <seg>主题元数据(&lt;t0/&gt;&lt;topicmeta&gt;&lt;t1/&gt;)&lt;t2/&gt;&lt;t3/&gt;可以定义地图中用于描述主题的元数据。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200807T063035Z">
+        <seg>主题元数据(&lt;t0/&gt;&lt;topicmeta&gt;&lt;t1/&gt;)&lt;t2/&gt;&lt;t3/&gt;可以定义映射中用于描述主题的元数据。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Topic metadata&lt;t0/&gt;: defines the metadata that applies to a topic when it appears in a map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200804T153701Z">
-        <seg>主题元数据（topic metadata）&lt;t0/&gt;：定义地图中用于描述主题的元数据。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200804T153701Z">
+        <seg>主题元数据（topic metadata）&lt;t0/&gt;：定义映射中用于描述主题的元数据。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19792,8 +19792,8 @@
       <tuv lang="en">
         <seg>Topics and maps authored in XDITA are fully compatible with content created according to the DITA &lt;t1/&gt;1.3 &lt;t2/&gt;standard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T081524Z" creationid="DSS" creationdate="20200803T151721Z">
-        <seg>用 XDITA 编写的主题和地图与根据 DITA &lt;t1/&gt;1.3&lt;t2/&gt;标准创建的内容完全兼容。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200803T151721Z">
+        <seg>用 XDITA 编写的主题和映射与根据 DITA &lt;t1/&gt;1.3&lt;t2/&gt;标准创建的内容完全兼容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19857,8 +19857,8 @@
       <tuv lang="en">
         <seg>Transforming LwDITA Maps</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T032331Z" creationid="DSS" creationdate="20200807T041606Z">
-        <seg>转换 LwDITA 地图</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200807T041606Z">
+        <seg>转换 LwDITA 映射</seg>
       </tuv>
     </tu>
     <tu>
@@ -20001,8 +20001,8 @@
       <tuv lang="en">
         <seg>Using the DITA-OT, which I will cover in more detail in &lt;t7/&gt;Chapters &lt;t8/&gt;5 &lt;t9/&gt;and &lt;t10/&gt;6&lt;t11/&gt;, &lt;t12/&gt;I transformed</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T131904Z" creationid="DSS" creationdate="20200725T153832Z">
-        <seg>使用 DITA-OT（将在&lt;t7/&gt;第&lt;t8/&gt;五&lt;t9/&gt;章和第&lt;t10/&gt;六&lt;t11/&gt;&lt;t12/&gt;章详细介绍），我将地图转换成了</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200725T153832Z">
+        <seg>使用 DITA-OT（将在&lt;t7/&gt;第&lt;t8/&gt;五&lt;t9/&gt;章和第&lt;t10/&gt;六&lt;t11/&gt;&lt;t12/&gt;章详细介绍），我将映射转换成了</seg>
       </tuv>
     </tu>
     <tu>
@@ -20273,8 +20273,8 @@
       <tuv lang="en">
         <seg>When opened on a browser, the map creates a navigation menu for the topic collection.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200808T032343Z">
-        <seg>在浏览器上打开该交付物，地图将为主题集合创建一个导航菜单。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200808T032343Z">
+        <seg>在浏览器上打开该交付物，映射将为主题集合创建一个导航菜单。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20818,8 +20818,8 @@
       <tuv lang="en">
         <seg>You can create the XDITA map from &lt;t0/&gt;Figure &lt;t1/&gt;5.8&lt;t2/&gt; &lt;t3/&gt;in any text editor or in a LwDITA-aware tool like Oxygen XML Editor.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T080023Z" creationid="DSS" creationdate="20200807T064851Z">
-        <seg>你可以在任何文本编辑器或 Oxygen XML Editor 等支持 LwDITA 的工具中创建图&lt;t0/&gt;&lt;t1/&gt;5.8&lt;t2/&gt;&lt;t3/&gt;中的 XDITA 地图。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200807T064851Z">
+        <seg>你可以在任何文本编辑器或 Oxygen XML Editor 等支持 LwDITA 的工具中创建图&lt;t0/&gt;&lt;t1/&gt;5.8&lt;t2/&gt;&lt;t3/&gt;中的 XDITA 映射。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20962,8 +20962,8 @@
       <tuv lang="en">
         <seg>content types for its initial release: topic and map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200803T151649Z">
-        <seg>内容类型：主题（topic）和地图（map）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200803T151649Z">
+        <seg>内容类型：主题（topic）和映射（map）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20986,8 +20986,8 @@
       <tuv lang="en">
         <seg>describe the DITA map as “the glue that binds your topics together, the driver for producing your output, and the information path for your users to follow” (Bellamy et al., &lt;t0/&gt;2012, &lt;t1/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200806T084808Z">
-        <seg>称 DITA 地图是“将主题绑定在一起的粘合剂，是生成输出物的驱动器，也是用户可以遵循的信息路径”(Bellamy et al., &lt;t0/&gt;2012, &lt;t1/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200806T084808Z">
+        <seg>称 DITA 映射是“将主题绑定在一起的粘合剂，是生成输出物的驱动器，也是用户可以遵循的信息路径”(Bellamy et al., &lt;t0/&gt;2012, &lt;t1/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21162,8 +21162,8 @@
       <tuv lang="en">
         <seg>looks like a wrench tool with a play button) on the main toolbar while a map is open in the editor window.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T040929Z" creationid="DSS" creationdate="20200807T035052Z">
-        <seg>看起来像一个扳手，扳手下方有一个播放按钮），同时在编辑器窗口中打开一个地图。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200807T035052Z">
+        <seg>看起来像一个扳手，扳手下方有一个播放按钮），同时在编辑器窗口中打开一个映射。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21226,8 +21226,8 @@
       <tuv lang="en">
         <seg>recommend using DITA maps to create an information set that specify which topics should be included in a user deliverable produced from the map, define an information architecture with the navigation for a set of topics, and create relationships between topics (Bellamy et al., &lt;t2/&gt;2012).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T131836Z" creationid="DSS" creationdate="20200725T145928Z">
-        <seg>建议使用 DITA 地图创建一个信息集合，DITA 地图指定了哪些主题应该被包括在用户输出的可交付成果中，使用主题导航定义了信息体系结构，并创建了主题之间的关系(Bellamy et al., &lt;t2/&gt;2012)。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200725T145928Z">
+        <seg>建议使用 DITA 映射创建一个信息集合，DITA 映射指定了哪些主题应该被包括在用户输出的可交付成果中，使用主题导航定义了信息体系结构，并创建了主题之间的关系(Bellamy et al., &lt;t2/&gt;2012)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22085,8 +22085,8 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;Layer &lt;t1/&gt;4: &lt;t2/&gt;Linking topics and maps for collection and reuse</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T145946Z" creationid="lenovo" creationdate="20200831T133715Z">
-        <seg>•第四层级：链接主题和地图用以聚合和复用内容</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="lenovo" creationdate="20200831T133715Z">
+        <seg>•第四层级：链接主题和映射用以聚合和复用内容</seg>
       </tuv>
     </tu>
     <tu>
