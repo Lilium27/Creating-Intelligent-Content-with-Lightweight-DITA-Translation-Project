@@ -10372,8 +10372,8 @@
       <tuv lang="en">
         <seg>In the committee note &lt;t0/&gt;Lightweight DITA: An Introduction&lt;t1/&gt; we point out that the “XDITA and HDITA content models are designed to be functionally equiv&lt;t2/&gt;alent to each other” (Evia et al., &lt;t3/&gt;2018, &lt;t4/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T124841Z" creationid="lenovo" creationdate="20200813T075621Z">
-        <seg>在委员会资料《轻量级 DITA 简介》中，我们指出“XDITA和HDITA内容模型在功能上是对等的” (Evia et al., 2018, p.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T080255Z" creationid="lenovo" creationdate="20200813T075621Z">
+        <seg>在委员会纪事《轻量级 DITA 简介》中，我们指出“XDITA和HDITA内容模型在功能上是对等的” (Evia et al., 2018, p.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15451,8 +15451,8 @@
       <tuv lang="en">
         <seg>The DITA Technical Committee at OASIS released a white paper/committee note titled DITA &lt;t0/&gt;1.3: &lt;t1/&gt;Why Three Editions?</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T072754Z" creationid="lenovo" creationdate="20200812T031118Z">
-        <seg>OASIS的DITA技术委员会发布了一份白皮书或者说委员会说明，名为《DITA &lt;t0/&gt;1.3：&lt;t1/&gt;为什么划分三版?》</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T080237Z" creationid="lenovo" creationdate="20200812T031118Z">
+        <seg>OASIS的DITA技术委员会发布了一份白皮书或者说委员会纪事，名为《DITA &lt;t0/&gt;1.3：&lt;t1/&gt;为什么划分三版?》</seg>
       </tuv>
     </tu>
     <tu>
@@ -16219,8 +16219,8 @@
       <tuv lang="en">
         <seg>The committee note &lt;t0/&gt;Lightweight DITA: An Introduction&lt;t1/&gt; explains that the LwDITA topic includes a subset of conventions or components (the pigeonhole structures mentioned in &lt;t2/&gt;Chapter &lt;t3/&gt;2&lt;t4/&gt;) &lt;t5/&gt;that were “carefully chosen to include only the most basic constructions that are needed to structure information effec&lt;t6/&gt;tively.” To select those components, the subcommittee “considered the needs of diverse industries and sectors (including education, engineering, healthcare, and marketing)” (Evia et al., &lt;t7/&gt;2018, &lt;t8/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T072454Z" creationid="DSS" creationdate="20200803T152229Z">
-        <seg>委员会白皮书《&lt;t0/&gt;轻量级DITA简介&lt;t1/&gt;》解释到，LwDITA主题包括一个规范或组件（即在第&lt;t2/&gt;&lt;t3/&gt;二&lt;t4/&gt; &lt;t5/&gt;&lt;t6/&gt;章中提到的鸽笼式结构）的子集，它们“经过委员会的精心挑选，只包括最基础的必要结构，用以有效构造信息。”为了挑选组件，小组委员会"考虑了不同行业和部门（包括教育、工程、医疗保健和营销等领域）的需求"(Evia et al., &lt;t7/&gt;2018, &lt;t8/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T080249Z" creationid="DSS" creationdate="20200803T152229Z">
+        <seg>委员会纪事《&lt;t0/&gt;轻量级DITA简介&lt;t1/&gt;》解释到，LwDITA主题包括一个规范或组件（即在第&lt;t2/&gt;&lt;t3/&gt;二&lt;t4/&gt; &lt;t5/&gt;&lt;t6/&gt;章中提到的鸽笼式结构）的子集，它们“经过委员会的精心挑选，只包括最基础的必要结构，用以有效构造信息。”为了挑选组件，小组委员会"考虑了不同行业和部门（包括教育、工程、医疗保健和营销等领域）的需求"(Evia et al., &lt;t7/&gt;2018, &lt;t8/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
