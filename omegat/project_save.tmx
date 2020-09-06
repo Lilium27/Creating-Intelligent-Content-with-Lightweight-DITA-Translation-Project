@@ -1611,8 +1611,8 @@
       <tuv lang="en">
         <seg>&lt;t4/&gt;Actually, the OASIS email &lt;t5/&gt;list archives mention a DITA “profile for modest needs” that sounds similar to Lightweight DITA on a message sent by Don Day (member of the origi&lt;t6/&gt;nal DITA development team at IBM), who then chaired the DITA Technical Committee, on April &lt;t7/&gt;4, 2011.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131038Z" creationid="DSS" creationdate="20200730T130743Z">
-        <seg>&lt;t4/&gt;实际上，OASIS 电子邮件&lt;t5/&gt;&lt;t6/&gt;存档中记录了一条信息，里面写着“用于简单需求的 DITA 概述”，这很像轻量级 DITA 的概念。这条信息发于2011年&lt;t7/&gt;4月4日，来自唐·戴（最初 IBM DITA 开发团队的成员）， 唐·戴当时是 DITA 技术委员会的主席。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T084527Z" creationid="DSS" creationdate="20200730T130743Z">
+        <seg>&lt;t4/&gt;实际上，OASIS 电子邮件&lt;t5/&gt;&lt;t6/&gt;存档中记录了一条信息，里面写着“用于简单需求的 DITA 概要”，这很像轻量级 DITA 的概念。这条信息发于2011年&lt;t7/&gt;4月4日，来自唐·戴（最初 IBM DITA 开发团队的成员）， 唐·戴当时是 DITA 技术委员会的主席。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8762,8 +8762,8 @@
       <tuv lang="en">
         <seg>I scheduled a follow-up call with Priestley, who invited Jenifer Schlotfeldt &lt;t0/&gt;一 &lt;t1/&gt;Senior Content Strategist at IBM who was working on the Bluemix documentation project.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T155108Z" creationid="DSS" creationdate="20200802T155108Z">
-        <seg>我计划再与普里斯特利通次话，沟通后续问题，普里斯特利邀请了珍妮弗·斯洛特菲尔德&lt;t0/&gt;&lt;t1/&gt;IBM 高级内容策略师，参与了 Bluemix 文档项目）与我们一起交流。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T084511Z" creationid="DSS" creationdate="20200802T155108Z">
+        <seg>我计划再与普里斯特利通次话，沟通后续问题，普里斯特利邀请了珍妮弗·斯洛特菲尔德&lt;t0/&gt;&lt;t1/&gt;（IBM 高级内容策略师，参与了 Bluemix 文档项目）与我们一起交流。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16934,8 +16934,8 @@
       <tuv lang="en">
         <seg>The limited DITA profile was presented as an on-ramp for DITA users who were casual content contributors and did not need all the standard's features.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T072004Z" creationid="DSS" creationdate="20200731T073239Z">
-        <seg>限定版DITA概要是非职业的内容创作者和无需使用 DITA 所有特性的用户接触 DITA  的入口。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T084607Z" creationid="DSS" creationdate="20200731T073239Z">
+        <seg>《限制性DITA概要》是非职业的内容创作者和无需使用 DITA 所有特性的用户接触 DITA 的入口。</seg>
       </tuv>
     </tu>
     <tu>
