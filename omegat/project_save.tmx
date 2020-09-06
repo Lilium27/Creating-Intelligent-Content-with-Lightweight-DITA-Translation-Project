@@ -10540,8 +10540,8 @@
       <tuv lang="en">
         <seg>In the “Technical Writing” column, edited by Diana Patterson (she of the prestigious ACM SIGDOC Diana Award), Larry Wygant, of CAPONE &lt;t5/&gt;- &lt;t6/&gt;Chicago Area Programmers of Novas and Eclipses, rec&lt;t7/&gt;ommended some sections for user manuals aimed at attracting the attention of a reader, who was expected to be male in the “highly selective environment” of old computing described by John Carroll earlier in this chapter.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T122259Z" creationid="lenovo" creationdate="20200808T030007Z">
-        <seg>《技术写作》专栏中，来自 Novas and Eclipses 芝加哥程序员协会的编辑戴安娜·帕特森（Diana Patterson，著名的计算机协会计算机文档戴安娜奖的创始人）和拉里·怀甘特（Larry Wygant）为用户手册的一些章节做了注释以吸引读者的注意，这里的读者指的是约翰·卡罗尔在本章先前部分描述的旧计算时代“苛刻就业环境下”的男性。&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200906T062202Z" creationid="lenovo" creationdate="20200808T030007Z">
+        <seg>《技术写作》专栏中，来自 Novas and Eclipses 芝加哥程序员协会的编辑戴安娜·帕特森（Diana Patterson，著名ACM计算机文档戴安娜奖的创始人）和拉里·怀甘特（Larry Wygant）为用户手册的一些章节做了注释以吸引读者的注意，这里的读者指的是约翰·卡罗尔在本章先前部分描述的旧计算时代“苛刻就业环境下”的男性。&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
