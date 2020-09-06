@@ -1779,8 +1779,8 @@
       <tuv lang="en">
         <seg>&lt;t5/&gt;Following their model, the rhetorical conventions of a technical manual presented by Cohen and Cunningham can be described as generic &lt;t6/&gt;- &lt;t7/&gt;they were specific to a genre (the technical manual).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T161408Z" creationid="lenovo" creationdate="20200810T073211Z">
-        <seg>&lt;t5/&gt;根据他们的模型，柯亨和坎宁安提出的技术手册的修辞惯例可以说是通用的&lt;t6/&gt;——&lt;t7/&gt;它们适用于特定体裁（即技术手册）。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200906T062602Z" creationid="lenovo" creationdate="20200810T073211Z">
+        <seg>&lt;t5/&gt;根据他们的模型，柯亨和坎宁安提出的技术手册的修辞惯例可以说是通用的&lt;t6/&gt;——&lt;t7/&gt;而以往的修辞惯例仅适用于特定体裁（即技术手册）。</seg>
       </tuv>
     </tu>
     <tu>
