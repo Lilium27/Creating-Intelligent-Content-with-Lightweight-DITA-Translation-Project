@@ -17198,8 +17198,8 @@
       <tuv lang="en">
         <seg>The opening and closing XML tags for topic&lt;t2/&gt; (in bold font) create an environment for content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200813T151052Z">
-        <seg>用于标记主题开始和结束 XML 标记（图中粗体部分）&lt;t2/&gt;创建了内容写作环境。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T113541Z" creationid="DSS" creationdate="20200813T151052Z">
+        <seg>用于标记主题的 XML 开闭标签（图中粗体部分）&lt;t2/&gt;创建了内容写作环境。</seg>
       </tuv>
     </tu>
     <tu>
