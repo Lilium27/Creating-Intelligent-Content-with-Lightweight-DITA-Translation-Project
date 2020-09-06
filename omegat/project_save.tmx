@@ -1483,8 +1483,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;These professionals work in environments that depend on the separation of content in concept, task, reference, and other types.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095458Z" creationid="DSS" creationdate="20200730T095458Z">
-        <seg>&lt;t3/&gt;这些专业人员工作的环境依赖于概念（concept）、任务（task）、引用（reference）和其他类型的内容分离。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T121042Z" creationid="DSS" creationdate="20200730T095458Z">
+        <seg>&lt;t3/&gt;这些专业人员工作的环境依赖于概念（concept）、任务（task）、参考（reference）和其他类型的内容分离。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5358,8 +5358,8 @@
       <tuv lang="en">
         <seg>DITA &lt;t13/&gt;1.3, &lt;t14/&gt;in contrast, has users in diverse industries that share a need for struc&lt;t15/&gt;tured information and versatile publishing, but do not have a clear need for concept, task, and reference as core content types.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T072734Z" creationid="lenovo" creationdate="20200812T031035Z">
-        <seg>相比之下，DITA &lt;t13/&gt;1.3 &lt;t14/&gt;&lt;t15/&gt;拥有来自不同行业的用户，这些用户都有结构化信息和通用发布的需求，但是对概念、任务和引用作为核心内容类型的需求并不明确。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T121014Z" creationid="lenovo" creationdate="20200812T031035Z">
+        <seg>相比之下，DITA &lt;t13/&gt;1.3 &lt;t14/&gt;&lt;t15/&gt;拥有来自不同行业的用户，这些用户都有结构化信息和通用发布的需求，但是对概念、任务和参考作为核心内容类型的需求并不明确。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5406,8 +5406,8 @@
       <tuv lang="en">
         <seg>DITA classic topic types: concept, task, and reference, constrained to light&lt;t0/&gt;weight topic model</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200801T123241Z">
-        <seg>DITA 经典主题类型：受限于轻量级主题模型的概念（concept）、任务（task）和引用（reference）&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T121108Z" creationid="DSS" creationdate="20200801T123241Z">
+        <seg>DITA 经典主题类型：受限于轻量级主题模型的概念（concept）、任务（task）和参考（reference）&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6080,8 +6080,8 @@
       <tuv lang="en">
         <seg>Even when concept, task, reference, and the other document types from the DITA &lt;t1/&gt;1.3 &lt;t2/&gt;specification are available for more rigorous structure, the generic topic can be powerful for users trained to &lt;t3/&gt;think&lt;t4/&gt; about structured content before writing.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T081630Z" creationid="DSS" creationdate="20200804T160501Z">
-        <seg>即使 DITA &lt;t1/&gt;1.3&lt;t2/&gt;中的概念（concept）、任务（task）、引用（referenve）和其他文档类型可以用于构造更严密的结构，对于训练有素、能够在编写之前&lt;t3/&gt;思考&lt;t4/&gt;如何结构化内容的用户来说，通用主题仍然很强大。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T121146Z" creationid="DSS" creationdate="20200804T160501Z">
+        <seg>即使 DITA &lt;t1/&gt;1.3&lt;t2/&gt;中的概念（concept）、任务（task）、参考（referenve）和其他文档类型可以用于构造更严密的结构，对于训练有素、能够在编写之前&lt;t3/&gt;思考&lt;t4/&gt;如何结构化内容的用户来说，通用主题仍然很强大。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7906,8 +7906,8 @@
       <tuv lang="en">
         <seg>Going back to the Miller and Selzer taxonomy of topical conventions, that early work captured the generic structures of fixed types that included the classical DITA trio of concept, task, and reference.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T070810Z" creationid="lenovo" creationdate="20200811T073851Z">
-        <seg>回到米勒和瑟尔泽对主题规范的分类，早期工作抓住了固定类型的通用结构，其中包括经典DITA的三大支柱——概念（concept）、任务（task）和引用（reference）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T121005Z" creationid="lenovo" creationdate="20200811T073851Z">
+        <seg>回到米勒和瑟尔泽对主题规范的分类，早期工作抓住了固定类型的通用结构，其中包括经典DITA的三大支柱——概念（concept）、任务（task）和参考（reference）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9508,8 +9508,8 @@
       <tuv lang="en">
         <seg>In HDITA (the HTML5-based version of LwDITA), those specialized elements were “generic article or section elements with a custom attribute that uses a simplified form of the DITA class syntax.” &lt;t0/&gt;Table 3.2&lt;t1/&gt; reproduces the table of specialized structural elements that enabled the representation of concept, task, and reference in XDITA and HDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150835Z" creationid="DSS" creationdate="20200817T091857Z">
-        <seg>在 HDITA（基于 HTML5 的 LwDITA 版本）中，那些专门化元素是“具有自定义属性的通用项目或节元素，使用了 DITA 类语法的简化形式。”表3.2重现了专门化结构元素，这些元素可以在 XDITA 和 HDITA 中表示概念（concept）、任务（task）和引用（reference）。&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T121125Z" creationid="DSS" creationdate="20200817T091857Z">
+        <seg>在 HDITA（基于 HTML5 的 LwDITA 版本）中，那些专门化元素是“具有自定义属性的通用项目或节元素，使用了 DITA 类语法的简化形式。”表3.2重现了专门化结构元素，这些元素可以在 XDITA 和 HDITA 中表示概念（concept）、任务（task）和参考（reference）。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12982,8 +12982,8 @@
       <tuv lang="en">
         <seg>One of the most notorious characteristics of LwDITA in its initial release is that it does not include the document types of concept, task, and reference that many users associate with the Darwin Information Typing Architecture.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T095146Z" creationid="DSS" creationdate="20200730T095146Z">
-        <seg>在最初版本的 LwDITA 中，最不受欢迎的一个特征是，它不包括许多用户在 DITA 中会用到的概念（concept）、任务（task）和引用（reference）文档类型。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T121024Z" creationid="DSS" creationdate="20200730T095146Z">
+        <seg>在最初版本的 LwDITA 中，最不受欢迎的一个特征是，它不包括许多用户在 DITA 中会用到的概念（concept）、任务（task）和参考（reference）文档类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13518,8 +13518,8 @@
       <tuv lang="en">
         <seg>Priestley's blog post from 2014 still included specializations for concept, task, and reference in XDITA (the XML-based version of LwDITA).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T091815Z" creationid="DSS" creationdate="20200817T091815Z">
-        <seg>普里斯特利2014年的博文仍然包含着 XDITA（基于 xml 的 LwDITA 版本）中的概念（concept）、任务（task）和引用（reference）的专门化。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T121118Z" creationid="DSS" creationdate="20200817T091815Z">
+        <seg>普里斯特利2014年的博文仍然包含着 XDITA（基于 xml 的 LwDITA 版本）中的概念（concept）、任务（task）和参考（reference）的专门化。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15098,8 +15098,8 @@
       <tuv lang="en">
         <seg>That one-line command combines the map with the topics, processing the hierarchies and relationships established by the topic</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200806T115801Z">
-        <seg>该单行命令将映射与主题组合在一起，处理由主题引用建立的</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T121312Z" creationid="DSS" creationdate="20200806T115801Z">
+        <seg>该单行命令将映射与主题组合在一起，处理由主题参考建立的</seg>
       </tuv>
     </tu>
     <tu>
@@ -15899,8 +15899,8 @@
       <tuv lang="en">
         <seg>The XDITA and HDITA introductory blog post, however, still included specialized structural types for concept, task, and reference, which relied on HTML5 custom data attributes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T091641Z" creationid="DSS" creationdate="20200817T091641Z">
-        <seg>然而，在介绍 XDITA 和 HDITA 的博文中，仍然包含了专门化结构类型概念（concept）、任务（task）和引用（reference），它们依赖于 HTML5 自定义数据属性。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T121112Z" creationid="DSS" creationdate="20200817T091641Z">
+        <seg>然而，在介绍 XDITA 和 HDITA 的博文中，仍然包含了专门化结构类型概念（concept）、任务（task）和参考（reference），它们依赖于 HTML5 自定义数据属性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17046,8 +17046,8 @@
       <tuv lang="en">
         <seg>The map includes&lt;t2/&gt; links (or topic references) to the marinara sauce recipe, Chef Pedro's critique of the recipe, and an “about” page with information about the author.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200806T092641Z">
-        <seg>映射上有关联到&lt;t2/&gt;意式番茄罗勒酱菜谱、厨师佩德罗对菜谱的评价和介绍作者信息的“关于”页面的链接（或主题引用）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T121239Z" creationid="DSS" creationdate="20200806T092641Z">
+        <seg>映射上有关联到&lt;t2/&gt;意式番茄罗勒酱菜谱、厨师佩德罗对菜谱的评价和介绍作者信息的“关于”页面的链接（或主题参考）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17966,8 +17966,8 @@
       <tuv lang="en">
         <seg>The technical content edition adds the technical communication content types (concept, task, reference) that defined DITA in its origins at IBM, and adds the content types of glossary entry, glossary group, and troubleshooting.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T073415Z" creationid="lenovo" creationdate="20200812T031321Z">
-        <seg>技术内容版添加了从IBM诞生初期的DITA所包含的技术传播内容类型(概念、任务、引用)，以及术语表条目、术语表组和故障诊断的内容类型。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T121019Z" creationid="lenovo" creationdate="20200812T031321Z">
+        <seg>技术内容版添加了从IBM诞生初期的DITA所包含的技术传播内容类型(概念、任务、参考)，以及术语表条目、术语表组和故障诊断的内容类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19767,8 +19767,8 @@
       <tuv lang="en">
         <seg>Topic reference&lt;t0/&gt;: identifies and links to a topic or external content source.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200804T153729Z">
-        <seg>主题引用（topic reference）&lt;t0/&gt;：标识或链接到某个主题或外部内容资源。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T121139Z" creationid="DSS" creationdate="20200804T153729Z">
+        <seg>主题参考（topic reference）&lt;t0/&gt;：标识或链接到某个主题或外部内容资源。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20353,8 +20353,8 @@
       <tuv lang="en">
         <seg>Whereas the traditional topic types associated with DITA XML are concept, task, and reference, Information Mapping's core six information types are principle, pro&lt;t1/&gt;cess, procedure, concept, fact, and structure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200731T085513Z">
-        <seg>与 DITA XML 相关的传统主题类型是概念（concept）、任务（task）和引用（reference），而信息映射的六种核心信息类型是原则（principle）、过程（process）、步骤（procedure）、概念（concept）、事实（fact）和结构（structure）。&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T121101Z" creationid="DSS" creationdate="20200731T085513Z">
+        <seg>与 DITA XML 相关的传统主题类型是概念（concept）、任务（task）和参考（reference），而信息映射的六种核心信息类型是原则（principle）、过程（process）、步骤（procedure）、概念（concept）、事实（fact）和结构（structure）。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21650,8 +21650,8 @@
       <tuv lang="en">
         <seg>{{ &lt;t0/&gt;Analysis of lightweight DITA related personas, scenarios, and requirements &lt;t1/&gt;{{ &lt;t2/&gt;Lightweight authoring profiles for topic, concept, task, reference, potentially others</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200802T161920Z">
-        <seg>&lt;t0/&gt;对与轻量级 DITA 相关的人物画像、场景和需求的分析 &lt;t1/&gt;&lt;t2/&gt;为主题（topic）、概念（concept）、任务（task）、引用（reference）以及可能出现的其他内容撰写轻量级简介</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T121135Z" creationid="DSS" creationdate="20200802T161920Z">
+        <seg>&lt;t0/&gt;对与轻量级 DITA 相关的人物画像、场景和需求的分析 &lt;t1/&gt;&lt;t2/&gt;为主题（topic）、概念（concept）、任务（task）、参考（reference）以及可能出现的其他内容撰写轻量级简介</seg>
       </tuv>
     </tu>
     <tu>
