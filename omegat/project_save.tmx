@@ -7482,8 +7482,8 @@
       <tuv lang="en">
         <seg>For exam&lt;t1/&gt;ple, Pedro can hire a technical writer to create recipe topics in XDITA (based on XML) while a marketing professional writes a description of the cookbook's features in HDITA (based on HTML5), and an engineer uses MDITA (based on Markdown) to create a reference for a specific command from the kitchen's laboratory.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T040058Z" creationid="DSS" creationdate="20200817T043030Z">
-        <seg>例如，佩德罗可以雇佣一个技术文档工程师用 XDITA（基于 XML）创建菜谱主题，雇佣一个市场营销专员用 HDITA（基于 HTML5）编写菜谱特性简介，再雇佣一个工程师使用 MDITA（基于 Markdown）为厨房实验室的特殊命令创建一个引用主题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T120812Z" creationid="DSS" creationdate="20200817T043030Z">
+        <seg>例如，佩德罗可以雇佣一个技术文档工程师用 XDITA（基于 XML）创建菜谱主题，雇佣一个市场营销专员用 HDITA（基于 HTML5）编写菜谱特性简介，再雇佣一个工程师使用 MDITA（基于 Markdown）为厨房实验室的特殊命令创建一个参考主题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17038,8 +17038,8 @@
       <tuv lang="en">
         <seg>The map includes&lt;t1/&gt; links (or topic references) to the marinara sauce recipe, Chef Pedro's critique of the recipe, and an “about” page with information about the author.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200725T154134Z">
-        <seg>映射上有关联到&lt;t1/&gt;意式番茄罗勒酱菜谱、厨师佩德罗对菜谱的评价和介绍作者信息的“关于”页面的链接（或主题引用）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T120519Z" creationid="DSS" creationdate="20200725T154134Z">
+        <seg>映射上有关联到&lt;t1/&gt;意式番茄罗勒酱菜谱、厨师佩德罗对菜谱的评价和介绍作者信息的“关于”页面的链接（或主题参考）。</seg>
       </tuv>
     </tu>
     <tu>
