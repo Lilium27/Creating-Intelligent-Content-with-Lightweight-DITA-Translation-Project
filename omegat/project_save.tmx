@@ -7009,8 +7009,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;8.14 &lt;t1/&gt;HDITA version of the root beer float recipe with a content reference.&lt;t2/&gt; The conref links to the source note in the milkshake recipe.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T151723Z" creationid="lenovo" creationdate="20200902T151035Z">
-        <seg>图 &lt;t0/&gt;8.14 &lt;t1/&gt;&lt;t2/&gt; HDITA版本带内容参考的生啤酒浮法配方。&lt;t2/&gt;conref链接到奶昔配方中的源说明。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T152556Z" creationid="lenovo" creationdate="20200902T151035Z">
+        <seg>图 &lt;t0/&gt;8.14 &lt;t1/&gt;&lt;t2/&gt; HDITA版本带内容参考的生啤酒浮法配方。conref链接到奶昔配方中的源说明。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17726,8 +17726,8 @@
       <tuv lang="en">
         <seg>The section environment opens&lt;t2/&gt; with a heading &lt;t3/&gt;2, &lt;t4/&gt;which in this example is represented by &lt;t5/&gt;## &lt;t6/&gt;in &lt;t7/&gt;atx &lt;t8/&gt;syntax.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T135502Z" creationid="lenovo" creationdate="20200821T145839Z">
-        <seg>节环境&lt;t2/&gt;由二级标题标记创建， &lt;t4/&gt;即示例中用&lt;t7/&gt;atx &lt;t8/&gt;语法表示的&lt;t5/&gt;##&lt;t6/&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T152458Z" creationid="lenovo" creationdate="20200821T145839Z">
+        <seg>节环境&lt;t2/&gt;由二级标题标记创建， &lt;t4/&gt;即示例中用&lt;t5/&gt;atx&lt;t6/&gt; 语法表示的&lt;t7/&gt;##&lt;t8/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18038,8 +18038,8 @@
       <tuv lang="en">
         <seg>The title for the section should be&lt;t1/&gt; provided in a heading 2 following HTML5 syntax.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T135240Z" creationid="lenovo" creationdate="20200821T143703Z">
-        <seg>节标题遵循HTML5的语法采用二级标题标签（&lt;h2&gt;）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T152417Z" creationid="lenovo" creationdate="20200821T143703Z">
+        <seg>节标题遵循HTML5的语法采用二级标题标签。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19534,8 +19534,8 @@
       <tuv lang="en">
         <seg>Thus, the author can flag the phrase-level content with a &lt;t2/&gt;&lt;ph&gt; &lt;t3/&gt;and an attribute for &lt;t4/&gt;@translate &lt;t5/&gt;with the value of “&lt;t6/&gt;no&lt;t7/&gt;”.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T130307Z" creationid="lenovo" creationdate="20200819T145955Z">
-        <seg>因此，作者可以将这一短语级内容添加&lt;t2/&gt;&lt;ph&gt; &lt;t3/&gt;标签，并附上值为 “&lt;t6/&gt;no&lt;t7/&gt;”的&lt;t4/&gt;@translate &lt;t5/&gt;属性。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T152326Z" creationid="lenovo" creationdate="20200819T145955Z">
+        <seg>因此，作者可以将这一短语级内容添加&lt;t2/&gt;&lt;ph&gt; &lt;t3/&gt;标签，并附上值为 “&lt;t4/&gt;no&lt;t5/&gt;”的&lt;t6/&gt;@translate&lt;t7/&gt;属性。</seg>
       </tuv>
     </tu>
     <tu>
