@@ -72,8 +72,8 @@
       <tuv lang="en">
         <seg>10).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T133000Z" creationid="DSS" creationdate="20200731T091939Z">
-        <seg>10)。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090722Z" creationid="DSS" creationdate="20200731T091939Z">
+        <seg>10)等言论。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8354,8 +8354,8 @@
       <tuv lang="en">
         <seg>However, many of its claims were based on an &lt;t9/&gt;us-before-them&lt;t10/&gt; trope, which included sentences like “Before you start your DITA project, train your writers in Information Mapping&lt;t11/&gt;®&lt;t12/&gt;,” or “Becoming familiar with Information Mapping&lt;t13/&gt;® &lt;t14/&gt;is a necessary first step towards a successful DITA implementation” (2011, p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T132954Z" creationid="DSS" creationdate="20200731T091934Z">
-        <seg>然而，白皮书中许多声明是基于“&lt;t9/&gt;先学信息映射®，再学 DITA&lt;t10/&gt;”的论调，包括 “在开始 DITA 项目之前，训练写作者使用信息映射&lt;t11/&gt;®&lt;t12/&gt;”或“熟悉信息映射&lt;t13/&gt;® &lt;t14/&gt;是成功迈向 DITA 实践不可或缺的第一步”(2011, p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090714Z" creationid="DSS" creationdate="20200731T091934Z">
+        <seg>然而，白皮书中许多声明是基于“&lt;t9/&gt;先学信息映射®，再学 DITA&lt;t10/&gt;”的论调，包括“在开始 DITA 项目之前，训练写作者使用信息映射&lt;t11/&gt;®&lt;t12/&gt;”或“熟悉信息映射&lt;t13/&gt;® &lt;t14/&gt;是成功迈向 DITA 实践不可或缺的第一步”(2011, p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15635,8 +15635,8 @@
       <tuv lang="en">
         <seg>The IM white paper implied that authors had to “learn hundreds of DITA tags and attributes to structure the content correctly.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T091954Z" creationid="DSS" creationdate="20200731T091954Z">
-        <seg>IM 白皮书暗示，作者必须“学习数百个 DITA 标签和属性，以便正确地将内容结构化，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090737Z" creationid="DSS" creationdate="20200731T091954Z">
+        <seg>IM 白皮书暗示，写作者必须“学习数百个 DITA 标签和属性，以便正确地将内容结构化，</seg>
       </tuv>
     </tu>
     <tu>
