@@ -18262,8 +18262,8 @@
       <tuv lang="en">
         <seg>The “format free” characteristic of intel&lt;t0/&gt;ligent content (Rockley et al., 2015) depends on the separation of content and presentation; after all, this sample topic can be transformed to different deliv&lt;t1/&gt;erables with a variety of formats and stylesheets.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200813T153041Z">
-        <seg>智能内容的“无格式”特征 (Rockley et al., 2015) 依赖内容与形式的分离，同样的主题可以转换为具有各种格式和样式的交付文件。&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T114502Z" creationid="DSS" creationdate="20200813T153041Z">
+        <seg>智能内容“无格式自由”的特征 (Rockley et al., 2015) 依赖内容与形式的分离，最终，同样的主题可以转换为具有各种格式和样式的交付文件。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
