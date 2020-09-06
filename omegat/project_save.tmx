@@ -545,8 +545,8 @@
       <tuv lang="en">
         <seg>&lt;t1/&gt;The CommonMark initiative, which aims to propose a Markdown standard, adds that it is a “plain text format for writing structured documents, based on for&lt;t2/&gt;matting conventions from email and usenet” (CommonMark, n.d.).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T133557Z" creationid="DSS" creationdate="20200802T125805Z">
-        <seg>&lt;t1/&gt;&lt;t2/&gt;CommonMark 倡议旨在提出一种 Markdown 标准，并补充到，Markdown“基于电子邮件和新闻组的格式约定，是一种用于编写结构化文档的纯文本格式”(CommonMark, n.d.)。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T072423Z" creationid="DSS" creationdate="20200802T125805Z">
+        <seg>&lt;t1/&gt;&lt;t2/&gt;CommonMark 倡议旨在提出一种 Markdown 标准，并补充到，Markdown“基于电子邮件和新闻组的格式规范，是一种用于编写结构化文档的纯文本格式”(CommonMark, n.d.)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1291,8 +1291,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;Embracing the six con&lt;t4/&gt;tent types of Information Mapping, the Lightweight DITA prototype wrapped up &lt;t5/&gt;2012 &lt;t6/&gt;with a total of &lt;t7/&gt;12 &lt;t8/&gt;potential content types and the many tags or generic conventions associated with them.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131054Z" creationid="DSS" creationdate="20200801T130616Z">
-        <seg>&lt;t3/&gt;&lt;t4/&gt; &lt;t5/&gt;2012&lt;t6/&gt;年末，包括信息映射的六种内容类型在内，轻量级DITA原型总共包含了 &lt;t7/&gt;12&lt;t8/&gt;种潜在的内容类型以及许多与其相关的标签或通用规则。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T072321Z" creationid="DSS" creationdate="20200801T130616Z">
+        <seg>&lt;t3/&gt;&lt;t4/&gt; &lt;t5/&gt;2012&lt;t6/&gt;年末，包括信息映射的六种内容类型在内，轻量级DITA原型总共包含了 &lt;t7/&gt;12&lt;t8/&gt;种潜在的内容类型以及许多与其相关的标签或通用规范。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4459,8 +4459,8 @@
       <tuv lang="en">
         <seg>Before describing the LwDITA topical conventions and tracking how they evolved from DITA &lt;t0/&gt;1.3 &lt;t1/&gt;elements and produced their own offspring in the LwDITA three core authoring formats, the following section looks at the evo&lt;t2/&gt;lution of DITA as documented in the OASIS public email list and meeting minutes archive.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T081325Z" creationid="DSS" creationdate="20200730T122831Z">
-        <seg>在介绍 LwDITA 主题规则，阐述 LwDITA 的元素是如何从 DITA &lt;t0/&gt;1.3 &lt;t1/&gt;&lt;t2/&gt;中的元素演变而来，又是如何在 LwDITA 三种核心写作格式中生成它们自己的后代元素之前，下面一节将先回顾 OASIS 公共电子邮件记录和会议纪要中记录的 DITA 的演变过程。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T072250Z" creationid="DSS" creationdate="20200730T122831Z">
+        <seg>在介绍 LwDITA 主题规范，阐述 LwDITA 的元素是如何从 DITA &lt;t0/&gt;1.3 &lt;t1/&gt;&lt;t2/&gt;中的元素演变而来，又是如何在 LwDITA 三种核心写作格式中生成它们自己的后代元素之前，下面一节将先回顾 OASIS 公共电子邮件记录和会议纪要中记录的 DITA 的演变过程。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10308,8 +10308,8 @@
       <tuv lang="en">
         <seg>In that initial proposal, which was still depending on XML as its only authoring language, the simplified topic content model included the following elements or topical conventions:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200731T073542Z">
-        <seg>最初的提议仍然依赖 XML 作为其唯一的创作语言，在最初的提议中，简化的主题内容模型包括以下元素或主题规则：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T072304Z" creationid="DSS" creationdate="20200731T073542Z">
+        <seg>最初的提议仍然依赖 XML 作为其唯一的创作语言，在最初的提议中，简化的主题内容模型包括以下元素或主题规范：</seg>
       </tuv>
     </tu>
     <tu>
