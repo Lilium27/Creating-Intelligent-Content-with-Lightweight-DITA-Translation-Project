@@ -3867,8 +3867,8 @@
       <tuv lang="en">
         <seg>As such, it's a pleasure to have it in the ATTW Book Series in Technical and Professional Communication.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T142248Z" creationid="DSS" creationdate="20200820T142248Z">
-        <seg>因此，很高兴能在 ATTW 技术传播和专业传播系列丛书中看到它。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T061814Z" creationid="DSS" creationdate="20200820T142248Z">
+        <seg>因此，很高兴能在 ATTW 专业技术传播系列丛书中看到它。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13961,8 +13961,8 @@
       <tuv lang="en">
         <seg>Russell Willerton &lt;t1/&gt;(2015) &lt;t2/&gt;assembled a thorough overview of eth&lt;t3/&gt;ics in the technical and professional communication literature that includes a section on characteristics of available codes for the profession.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200831T142326Z" creationid="lenovo" creationdate="20200831T142326Z">
-        <seg>拉塞尔·威尔顿（Russell Willerton，2015）在技术和专业传播文献中对道德规范进行了全面的概述，其中包括有关该行业可用规范特征的部分。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T062034Z" creationid="lenovo" creationdate="20200831T142326Z">
+        <seg>拉塞尔·威尔顿（Russell Willerton，2015）在专业技术传播文献中对道德规范进行了全面的概述，其中包括有关该行业可用规范特征的部分。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21820,8 +21820,8 @@
       <tuv lang="en">
         <seg>“This layer has the objec&lt;t2/&gt;tive of introducing component-based XML authoring and filtering with the purpose of presenting modules created in XML as equivalents of more tra&lt;t3/&gt;ditional technical and professional writing genres.”</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131444Z" creationid="DSS" creationdate="20200813T115353Z">
-        <seg>“这一层级的目标是介绍基于组件的 XML 写作和过滤过程，将用 XML 创建的模块表示为更传统的技术和专业写作体裁的等价内容。”&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T061954Z" creationid="DSS" creationdate="20200813T115353Z">
+        <seg>“这一层级的目标是介绍基于组件的 XML 写作和过滤过程，将用 XML 创建的模块表示为更传统的专业技术写作体裁的等价内容。”&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
