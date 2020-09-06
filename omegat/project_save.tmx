@@ -3323,8 +3323,8 @@
       <tuv lang="en">
         <seg>An effective topic covers only one subject.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wqt" changedate="20200904T074125Z" creationid="DSS" creationdate="20200724T154230Z">
-        <seg>一个有效的主题只涵盖一个问题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T074214Z" creationid="DSS" creationdate="20200724T154230Z">
+        <seg>一个有效的主题只涵盖一个对象。</seg>
       </tuv>
     </tu>
     <tu>
