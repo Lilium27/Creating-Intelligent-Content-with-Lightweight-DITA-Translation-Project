@@ -10692,8 +10692,8 @@
       <tuv lang="en">
         <seg>In this section, I present those components with their corresponding map&lt;t0/&gt;pings in the three initial LwDITA authoring formats and a brief example.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T142030Z" creationid="lenovo" creationdate="20200825T124352Z">
-        <seg>在本节中，我将介绍如何使用三种初始LwDITA写作格式表示这些组件及其地图映射，并提供一个简单示例。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090058Z" creationid="lenovo" creationdate="20200825T124352Z">
+        <seg>在本节中，我将介绍如何使用三种初始LwDITA写作格式表示这些组件及其映射，并提供一个简单示例。</seg>
       </tuv>
     </tu>
     <tu>
