@@ -2339,8 +2339,8 @@
       <tuv lang="en">
         <seg>A LwDITA-aware software application like Oxygen XML Editor can also process the XDITA, HDITA, and MDITA versions of the cross-format map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T134217Z" creationid="lenovo" creationdate="20200827T142555Z">
-        <seg>支持LwDITA的软件应用程序(如Oxygen XML Editor)也可以处理XDITA、HDITA和MDITA版本的跨格式映射地图。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T085820Z" creationid="lenovo" creationdate="20200827T142555Z">
+        <seg>支持LwDITA的软件应用程序(如Oxygen XML Editor)也可以处理XDITA、HDITA和MDITA版本的跨格式映射。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6472,16 +6472,16 @@
       <tuv lang="en">
         <seg>FIGURE 6.62 &lt;t0/&gt;HDITA map for the cross-format version of the &lt;t1/&gt;Sensei Sushi&lt;t2/&gt; &lt;t3/&gt;brochure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T063449Z" creationid="lenovo" creationdate="20200827T141813Z">
-        <seg>图 6.62 &lt;t0/&gt;用于生成&lt;t1/&gt;Sensei Sushi&lt;t2/&gt;手册的HDITA版本的跨格式映射地图。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T085753Z" creationid="lenovo" creationdate="20200827T141813Z">
+        <seg>图 6.62 &lt;t0/&gt;用于生成&lt;t1/&gt;Sensei Sushi&lt;t2/&gt;手册的HDITA版本的跨格式映射。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE 6.64 &lt;t0/&gt;MDITA map for the cross-format version of the &lt;t1/&gt;Sensei Sushi&lt;t2/&gt; &lt;t3/&gt;brochure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T063449Z" creationid="lenovo" creationdate="20200827T143135Z">
-        <seg>图6.64 &lt;t0/&gt;用于生成&lt;t1/&gt;Sensei Sushi&lt;t2/&gt;手册的MDITA版本的跨格式映射地图。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T085841Z" creationid="lenovo" creationdate="20200827T143135Z">
+        <seg>图6.64 &lt;t0/&gt;用于生成&lt;t1/&gt;Sensei Sushi&lt;t2/&gt;手册的MDITA版本的跨格式映射。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7121,8 +7121,8 @@
       <tuv lang="en">
         <seg>Figure 6.62&lt;t0/&gt; displays the HDITA version of the cross-format map to produce the &lt;t1/&gt;Sensei Sushi&lt;t2/&gt; introductory brochure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T063449Z" creationid="lenovo" creationdate="20200827T141437Z">
-        <seg>图 6.62&lt;t0/&gt; 展示了用于创建&lt;t1/&gt;Sensei Sushi&lt;t2/&gt;介绍手册的HDITA版本的跨格式映射地图。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T085630Z" creationid="lenovo" creationdate="20200827T141437Z">
+        <seg>图 6.62&lt;t0/&gt; 展示了用于创建&lt;t1/&gt;Sensei Sushi&lt;t2/&gt;介绍手册的HDITA版本的跨格式地图。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11492,8 +11492,8 @@
       <tuv lang="en">
         <seg>Lastly, &lt;t0/&gt;Figure 6.64&lt;t1/&gt; shows the MDITA version of the cross-format map for the &lt;t2/&gt;Sensei Sushi&lt;t3/&gt; brochure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T063449Z" creationid="lenovo" creationdate="20200827T141739Z">
-        <seg>最后，图6.64展示了用于创建Sensei Sushi介绍手册的MDITA版本的跨格式映射地图。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T085704Z" creationid="lenovo" creationdate="20200827T141739Z">
+        <seg>最后，图6.64展示了用于创建Sensei Sushi介绍手册的MDITA版本的跨格式地图。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15283,8 +15283,8 @@
       <tuv lang="en">
         <seg>The &lt;t2/&gt;@format &lt;t3/&gt;attribute inside each topic reference (&lt;t4/&gt;&lt;topicref&gt;&lt;t5/&gt;) instructs the processor on how to treat each file linked from the map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T132639Z" creationid="lenovo" creationdate="20200827T135213Z">
-        <seg>每个主题引用中的@format属性(&lt;topicref&gt;)指导处理程序如何处理来自映射地图的每个文件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T085552Z" creationid="lenovo" creationdate="20200827T135213Z">
+        <seg>每个主题引用中的@format属性(&lt;topicref&gt;)指导处理程序如何处理来自映射的每个文件。</seg>
       </tuv>
     </tu>
     <tu>
