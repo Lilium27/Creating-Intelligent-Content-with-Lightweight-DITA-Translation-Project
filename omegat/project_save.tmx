@@ -3131,8 +3131,8 @@
       <tuv lang="en">
         <seg>Although concept, task, and ref&lt;t0/&gt;erence are still defined types in the DITA standard, the official specification for DITA &lt;t1/&gt;1.3 &lt;t2/&gt;also includes topic types for troubleshooting, which “provides markup for corrective action information such as troubleshooting and alarm clearing” &lt;t3/&gt;(2.7.1.6 &lt;t4/&gt;Troubleshooting topic, &lt;t5/&gt;2016) &lt;t6/&gt;and glossary, which “defines a single sense of one term” &lt;t7/&gt;(2.7.1.7 &lt;t8/&gt;Glossary entry topic, &lt;t9/&gt;2016).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T131629Z" creationid="DSS" creationdate="20200725T083311Z">
-        <seg>虽然概念（concept）、任务（task）和参考（reference）仍是 DITA 标准中定义好的类型，DITA&lt;t1/&gt;1.3 &lt;t2/&gt;官方规范还包括了关于排除故障的主题类型，这些主题类型“提供编写纠正行为信息的标记，比如‘故障排除’（troubleshooting）和‘警示清除’（alarm clearing）”&lt;t3/&gt;（2.7.1.6 主题“&lt;t4/&gt;故障排除&lt;t5/&gt;”（troubleshooting），2016&lt;t6/&gt;年），还包括了术语表，术语表“定义了每个术语的含义”&lt;t7/&gt;（2.7.1.7 主题“&lt;t8/&gt;术语表条目&lt;t9/&gt;”(2.7.1.7 &lt;t8/&gt;Glossary entry topic, &lt;t9/&gt;2016)。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T152119Z" creationid="DSS" creationdate="20200725T083311Z">
+        <seg>虽然概念（concept）、任务（task）和参考（reference）仍是 DITA 标准中定义好的类型，DITA&lt;t1/&gt;1.3 &lt;t2/&gt;官方规范还包括了关于排除故障的主题类型，这些主题类型“提供编写纠正行为信息的标记，比如‘故障排除’（troubleshooting）和‘警示清除’（alarm clearing）”&lt;t3/&gt;（2.7.1.6 主题“&lt;t4/&gt;故障排除&lt;t5/&gt;”（troubleshooting），2016&lt;t6/&gt;年），还包括了术语表，术语表“定义了每个术语的含义”&lt;t7/&gt;(2.7.1.7 &lt;t8/&gt;Glossary entry topic, &lt;t9/&gt;2016)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11828,8 +11828,8 @@
       <tuv lang="en">
         <seg>Looking, for example, at the &lt;t0/&gt;17 &lt;t1/&gt;document types and &lt;t2/&gt;440 &lt;t3/&gt;element types available on the technical content edition of the DITA &lt;t4/&gt;1.3 &lt;t5/&gt;standard, I couldn't stop hear&lt;t6/&gt;ing the voice of John Carroll from the interview I reported on &lt;t7/&gt;Chapter &lt;t8/&gt;2&lt;t9/&gt;: &lt;t10/&gt;“All &lt;t11/&gt;this being said, the manuals didn't work.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T081248Z" creationid="DSS" creationdate="20200730T095155Z">
-        <seg>例如，在 DITA &lt;t4/&gt;1.3 &lt;t5/&gt;技术内容版本中有&lt;t0/&gt;17 &lt;t1/&gt;种可用文档类型和&lt;t2/&gt;440 &lt;t3/&gt;种元素类型，&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;我不禁想到约翰•卡罗尔在&lt;t7/&gt;第&lt;t8/&gt;二&lt;t9/&gt;章中提到的采访中所说的话：&lt;t10/&gt;“&lt;t11/&gt;这么看来手册不起作用，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T152158Z" creationid="DSS" creationdate="20200730T095155Z">
+        <seg>例如，在 DITA 1.3 技术内容版本中有&lt;t0/&gt;17 &lt;t1/&gt;种可用文档类型和&lt;t2/&gt;440 &lt;t3/&gt;种元素类型，&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;我不禁想到约翰•卡罗尔在&lt;t7/&gt;第&lt;t8/&gt;二&lt;t9/&gt;章中提到的采访中所说的话：&lt;t10/&gt;“&lt;t11/&gt;这么看来手册不起作用，</seg>
       </tuv>
     </tu>
     <tu>
@@ -12268,8 +12268,8 @@
       <tuv lang="en">
         <seg>Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML)” (Gruber, &lt;t0/&gt;2004).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T133543Z" creationid="DSS" creationdate="20200802T124258Z">
-        <seg>Markdown 允许用户使用易于阅读、易于编写的纯文本格式进行写作，再将文本转换为结构严密的 XHTML（或 HTML）”(Gruber, &lt;t0/&gt;2004)。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T152214Z" creationid="DSS" creationdate="20200802T124258Z">
+        <seg>Markdown 允许用户使用易于阅读、易于编写的纯文本格式进行写作，再将文本转换为结构严密的 XHTML（或 HTML）”(Gruber, &lt;t0/&gt;2004)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13697,8 +13697,8 @@
       <tuv lang="en">
         <seg>Rather, I'm suggesting that evolution is a model of change more general than either biology or language, one that applies equally but differently to both” &lt;t8/&gt;(2015, &lt;t9/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T132547Z" creationid="DSS" creationdate="20200730T095057Z">
-        <seg>相反，我想说的是，进化是一种变化的模式，比生物学或语言都更加普遍，可以平等地用在生物学或语言身上，但意义又有所不同”&lt;t8/&gt; &lt;t8/&gt;(2015, &lt;t9/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T152130Z" creationid="DSS" creationdate="20200730T095057Z">
+        <seg>相反，我想说的是，进化是一种变化的模式，比生物学或语言都更加普遍，可以平等地用在生物学或语言身上，但意义又有所不同”&lt;t8/&gt;(2015, &lt;t9/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18270,8 +18270,8 @@
       <tuv lang="en">
         <seg>The “future” of technical communication described in the Adobe video focuses on what Rebekka Andersen describes as “structured content that is highly adaptable and portable and can be configured on the fly in response to specific user requests” &lt;t0/&gt;(2014, &lt;t1/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T033313Z" creationid="DSS" creationdate="20200723T160253Z">
-        <seg>Adobe 视频中描绘的技术传播的“未来”关注的重点是瑞贝卡·安德森（Rebekka Andersen）所说的“具有高度适应性和可移植性，并且可以根据用户的具体要求随时进行配置的结构化内容” &lt;t0/&gt;&lt;t0/&gt;(2014, &lt;t1/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T152039Z" creationid="DSS" creationdate="20200723T160253Z">
+        <seg>Adobe 视频中描绘的技术传播的“未来”关注的重点是瑞贝卡·安德森（Rebekka Andersen）所说的“具有高度适应性和可移植性，并且可以根据用户的具体要求随时进行配置的结构化内容”&lt;t0/&gt;(2014, &lt;t1/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19841,8 +19841,8 @@
       <tuv lang="en">
         <seg>Traditionally, and as mentioned in the Adobe video, intelligent content work&lt;t0/&gt;flows for technical communication rely on structure provided by Extensible Markup Language (XML) and some of its specific grammars like DocBook, S1000D, and DITA (Cowan, &lt;t1/&gt;2010; &lt;t2/&gt;Glushko &lt;t3/&gt;&amp; &lt;t4/&gt;McGrath, &lt;t5/&gt;2008; &lt;t6/&gt;Hackos, &lt;t7/&gt;2011, &lt;t8/&gt;among others).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wqt" changedate="20200904T031604Z" creationid="DSS" creationdate="20200726T140838Z">
-        <seg>从传统上来看，也正如 Adobe 视频中提到的，用于技术传播的智能内容工作流依赖于可扩展标记语言（XML）的结构以及一些特定的语法，如 DocBook、S1000D 和 DITA (Cowan, &lt;t1/&gt;2010; &lt;t2/&gt;Glushko &lt;t3/&gt;&amp; &lt;t4/&gt;McGrath, &lt;t5/&gt;2008; &lt;t6/&gt;Hackos, &lt;t7/&gt;2011, &lt;t8/&gt;among others)。&lt;t8/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T152052Z" creationid="DSS" creationdate="20200726T140838Z">
+        <seg>从传统上来看，也正如 Adobe 视频中提到的，用于技术传播的智能内容工作流依赖于可扩展标记语言（XML）的结构以及一些特定的语法，如 DocBook、S1000D 和 DITA (Cowan, &lt;t1/&gt;2010; &lt;t2/&gt;Glushko &lt;t3/&gt;&amp; &lt;t4/&gt;McGrath, &lt;t5/&gt;2008; &lt;t6/&gt;Hackos, &lt;t7/&gt;2011, &lt;t8/&gt;among others)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20249,8 +20249,8 @@
       <tuv lang="en">
         <seg>When he talks about “reusable content,” Mathewson is referring to the “prac&lt;t0/&gt;tice of using content components in multiple information products” (Eberlein, &lt;t1/&gt;2016 &lt;t2/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T041034Z" creationid="DSS" creationdate="20200720T153908Z">
-        <seg>马修森所说的“可复用内容”是指“在多个信息产品中使用内容组件的&lt;t0/&gt;实践” (Eberlein, &lt;t1/&gt;2016 &lt;t2/&gt;p.，&lt;t1/&gt;2016&lt;t2/&gt;年，第</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T151956Z" creationid="DSS" creationdate="20200720T153908Z">
+        <seg>马修森所说的“可复用内容”是指“在多个信息产品中使用内容组件的&lt;t0/&gt;实践” (Eberlein, &lt;t1/&gt;2016 &lt;t2/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
