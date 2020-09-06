@@ -17358,8 +17358,8 @@
       <tuv lang="en">
         <seg>The process of assembling topic collections depends on DITA maps, which are defined as “the glue that binds your topics together, the driver for producing your output, and the infor&lt;t0/&gt;mation path for your users to follow” (Bellamy et al., &lt;t1/&gt;2012, &lt;t2/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T131700Z" creationid="DSS" creationdate="20200725T144801Z">
-        <seg>组合主题集合的过程依赖于 DITA 地图的映射关系，DITA 地图是“将主题绑定在一起的粘合剂，是生成输出物的驱动器，也是用户可以遵循的信息路径”(Bellamy et al., &lt;t1/&gt;2012, &lt;t2/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T085310Z" creationid="DSS" creationdate="20200725T144801Z">
+        <seg>组合主题集合的过程依赖于 DITA 地图，DITA 地图是“将主题绑定在一起的粘合剂，是生成输出物的驱动器，也是用户可以遵循的信息路径”(Bellamy et al., &lt;t1/&gt;2012, &lt;t2/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
