@@ -17574,8 +17574,8 @@
       <tuv lang="en">
         <seg>The revised proposal of April &lt;t3/&gt;2014 &lt;t4/&gt;had the goal “to align a lightweight DITA profile in XML with an equivalent markup specification based on HTML5” (Priestley, &lt;t5/&gt;2014).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131101Z" creationid="DSS" creationdate="20200809T115524Z">
-        <seg>2014年4月，委员会对提案进行了修订，修订后的提案目标是“使基于 XML 的轻量级 DITA 的标记规范与基于 HTML5 的标记规范保持一致” (Priestley, 2014)。&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T084959Z" creationid="DSS" creationdate="20200809T115524Z">
+        <seg>2014年4月，委员会对提案进行了修订，修订后的提案目标是“使基于 XML 的轻量级 DITA 概要与基于 HTML5 的标记规范保持一致” (Priestley, 2014)。&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
