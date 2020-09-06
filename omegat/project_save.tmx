@@ -8546,8 +8546,8 @@
       <tuv lang="en">
         <seg>I acknowledge that, as a whole, these chapters contain plenty of dense refer&lt;t0/&gt;ence material, and I have attempted to include examples of the most common topical conventions available in LwDITA, with emphasis on frequent structures used by content creators.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200806T082635Z">
-        <seg>总的来说，这些章节包含了大量密集的参考材料，我试图使用 LwDITA 中最常见的主题规则来做展示，重点介绍内容创作者常用的结构。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T072530Z" creationid="DSS" creationdate="20200806T082635Z">
+        <seg>总的来说，这些章节包含了大量密集的参考材料，我试图使用 LwDITA 中最常见的主题规范来做展示，重点介绍内容创作者常用的结构。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11908,8 +11908,8 @@
       <tuv lang="en">
         <seg>LwDITA Topical Conventions</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200803T121941Z">
-        <seg>LwDITA 的主题协定</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T072439Z" creationid="DSS" creationdate="20200803T121941Z">
+        <seg>LwDITA 的主题规范</seg>
       </tuv>
     </tu>
     <tu>
@@ -16219,8 +16219,8 @@
       <tuv lang="en">
         <seg>The committee note &lt;t0/&gt;Lightweight DITA: An Introduction&lt;t1/&gt; explains that the LwDITA topic includes a subset of conventions or components (the pigeonhole structures mentioned in &lt;t2/&gt;Chapter &lt;t3/&gt;2&lt;t4/&gt;) &lt;t5/&gt;that were “carefully chosen to include only the most basic constructions that are needed to structure information effec&lt;t6/&gt;tively.” To select those components, the subcommittee “considered the needs of diverse industries and sectors (including education, engineering, healthcare, and marketing)” (Evia et al., &lt;t7/&gt;2018, &lt;t8/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T134843Z" creationid="DSS" creationdate="20200803T152229Z">
-        <seg>委员会白皮书《&lt;t0/&gt;轻量级DITA简介&lt;t1/&gt;》解释到，LwDITA主题包括一个协定或组件（即在第&lt;t2/&gt;&lt;t3/&gt;二&lt;t4/&gt; &lt;t5/&gt;&lt;t6/&gt;章中提到的鸽笼式结构）的子集，它们“经过委员会的精心挑选，只包括最基础的必要结构，用以有效构造信息。”为了挑选组件，小组委员会"考虑了不同行业和部门（包括教育、工程、医疗保健和营销等领域）的需求"(Evia et al., &lt;t7/&gt;2018, &lt;t8/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T072454Z" creationid="DSS" creationdate="20200803T152229Z">
+        <seg>委员会白皮书《&lt;t0/&gt;轻量级DITA简介&lt;t1/&gt;》解释到，LwDITA主题包括一个规范或组件（即在第&lt;t2/&gt;&lt;t3/&gt;二&lt;t4/&gt; &lt;t5/&gt;&lt;t6/&gt;章中提到的鸽笼式结构）的子集，它们“经过委员会的精心挑选，只包括最基础的必要结构，用以有效构造信息。”为了挑选组件，小组委员会"考虑了不同行业和部门（包括教育、工程、医疗保健和营销等领域）的需求"(Evia et al., &lt;t7/&gt;2018, &lt;t8/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16507,8 +16507,8 @@
       <tuv lang="en">
         <seg>The element types in DITA also inherited generic, institutional, and disciplinary conventions from another title that was originally published in the 1980s: IBM's &lt;t2/&gt;Producing Quality Technical Information.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T070810Z" creationid="lenovo" creationdate="20200810T130833Z">
-        <seg>DITA的元素类型同样继承了IBM在20世纪80年代首次出版的《产出高质量技术信息》一书中的通用型、组织型和规范型规范。&lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T072734Z" creationid="lenovo" creationdate="20200810T130833Z">
+        <seg>DITA的元素类型同样继承了IBM在20世纪80年代首次出版的《产出高质量技术信息》一书中的通用型、组织型和规范型约定。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19414,8 +19414,8 @@
       <tuv lang="en">
         <seg>Those moves advanced from the organizational realm (Apple Computer, in his case) and became dis&lt;t1/&gt;ciplinary conventions: task and reference (along with concept) are the main content types associated with the DITA standard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T070810Z" creationid="lenovo" creationdate="20200810T081056Z">
-        <seg>从组织领域（他举的案例是Apple Computer）脱胎的这些文步成为了规范性规范：任务和参考（以及概念）是与DITA标准密切相关的内容类型。&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T072546Z" creationid="lenovo" creationdate="20200810T081056Z">
+        <seg>从组织领域（他举的案例是Apple Computer）脱胎的这些文步成为了规范性约定：任务和参考（以及概念）是与DITA标准密切相关的内容类型。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
