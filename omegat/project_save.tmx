@@ -19286,8 +19286,8 @@
       <tuv lang="en">
         <seg>This volume aims to reconcile discrepancies and similarities in methods for authoring content in industry and academia and does so by reporting on DITA's evolution through the lens of computational thinking, which has been connected in scholarship and media to initiatives for learning to code and programming.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T125001Z" creationid="DSS" creationdate="20200902T125001Z">
-        <seg>本书旨在通过从计算机思维的角度介绍DITA的发展，调和产业界和学术界在内容创作方法上的差异和相似之处。其中，计算机思维在学术研究和媒体活动中与学习编码和编程的举措息息相关。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T071826Z" creationid="DSS" creationdate="20200902T125001Z">
+        <seg>本书旨在通过从计算机思维的角度介绍DITA的发展，调和产业界和学术界在内容创作方法上的差异和相似之处。介于此，学界和媒体常常提倡学习代码和编程。</seg>
       </tuv>
     </tu>
     <tu>
