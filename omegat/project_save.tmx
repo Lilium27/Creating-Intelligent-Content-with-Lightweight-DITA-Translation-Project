@@ -5222,16 +5222,16 @@
       <tuv lang="en">
         <seg>Controls (&lt;t0/&gt;&lt;media-controls&gt;&lt;t1/&gt;)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T135204Z" creationid="lenovo" creationdate="20200825T135204Z">
-        <seg>开关 (&lt;t0/&gt;&lt;media-controls&gt;&lt;t1/&gt;)</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200906T083310Z" creationid="lenovo" creationdate="20200825T135204Z">
+        <seg>控件 (&lt;t0/&gt;&lt;media-controls&gt;&lt;t1/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Controls (&lt;t0/&gt;@controls&lt;t1/&gt;)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T152828Z" creationid="lenovo" creationdate="20200826T152828Z">
-        <seg>开关 (&lt;t0/&gt;@controls&lt;t1/&gt;)</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200906T083310Z" creationid="lenovo" creationdate="20200826T152828Z">
+        <seg>控件 (&lt;t0/&gt;@controls&lt;t1/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
