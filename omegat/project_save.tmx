@@ -9364,8 +9364,8 @@
       <tuv lang="en">
         <seg>In &lt;t1/&gt;Chapter &lt;t2/&gt;8&lt;t3/&gt;, &lt;t4/&gt;I introduce a model for content development with LwDITA that fosters rhe&lt;t5/&gt;torical effectiveness through context-setting metadata and human-in-the-loop (HITL) requirements for automation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131435Z" creationid="DSS" creationdate="20200812T143406Z">
-        <seg>在&lt;t1/&gt;第&lt;t2/&gt;八&lt;t3/&gt;章&lt;t4/&gt;&lt;t5/&gt;中，我将介绍一个使用 LwDITA 进行内容开发的模型，该模型通过上下文元数据和人类参与机器自动化循环训练（HITL）来提升修辞效果。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T150146Z" creationid="DSS" creationdate="20200812T143406Z">
+        <seg>在&lt;t1/&gt;第&lt;t2/&gt;八&lt;t3/&gt;章&lt;t4/&gt;&lt;t5/&gt;中，我将介绍一个使用 LwDITA 进行内容开发的模型，该模型通过上下文元数据和人类参与机器训练（HITL）来提升修辞效果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17974,8 +17974,8 @@
       <tuv lang="en">
         <seg>The technology plan should also cover decisions about content management applications or services, and tools for processing of deliverables.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T123353Z" creationid="lenovo" creationdate="20200901T123353Z">
-        <seg>技术计划还应涵盖有关内容管理应用程序或服务的决策，以及用于处理可交付成果的工具。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T145547Z" creationid="lenovo" creationdate="20200901T123353Z">
+        <seg>技术计划还应涵盖有关内容管理应用程序或服务、以及使用工具的决策，以处理可交付成果。 </seg>
       </tuv>
     </tu>
     <tu>
