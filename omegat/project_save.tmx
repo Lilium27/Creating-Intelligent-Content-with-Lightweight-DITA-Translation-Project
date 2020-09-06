@@ -216,8 +216,8 @@
       <tuv lang="en">
         <seg>8&lt;t2/&gt;), &lt;t3/&gt;however, shows both possible blender options in the same step and would be confusing for an actual human operator.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T130045Z" creationid="lenovo" creationdate="20200902T130045Z">
-        <seg>但是，最终的Web渲染（图8.8）在同一步骤中同时显示了两个可能的搅拌器选项，这对于实际的操作人员来说会造成混淆。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153128Z" creationid="lenovo" creationdate="20200902T130045Z">
+        <seg>但是，最终的Web渲染（图8.8）在同一步骤中同时显示了两个可能的搅拌器选项，这对于实际的操作人员来说会造成混淆。&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -803,8 +803,8 @@
       <tuv lang="en">
         <seg>&lt;t14/&gt;The current topic of interest receives attention in conference pres&lt;t15/&gt;entations and journal articles for a while, and instructors evaluate ways to teach the technology &lt;t16/&gt;du jour&lt;t17/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T155327Z" creationid="lenovo" creationdate="20200902T155327Z">
-        <seg>&lt;t14/&gt;当前感兴趣的主题会在一段时间的会议演讲和期刊文章中引起关注，并且讲师会评估在职学习技术的方法。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153225Z" creationid="lenovo" creationdate="20200902T155327Z">
+        <seg>&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;当前感兴趣的主题会在一段时间的会议演讲和期刊文章中引起关注，并且讲师会评估在职学习技术的方法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1867,8 +1867,8 @@
       <tuv lang="en">
         <seg>&lt;t5/&gt;This MDITA version can be saved as &lt;t6/&gt;milkshake.md&lt;t7/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T130358Z" creationid="lenovo" creationdate="20200902T130358Z">
-        <seg>该MDITA版本可以另存为milkshake.md。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153137Z" creationid="lenovo" creationdate="20200902T130358Z">
+        <seg>该MDITA版本可以另存为milkshake.md。&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2059,8 +2059,8 @@
       <tuv lang="en">
         <seg>&lt;t7/&gt;Figure &lt;t8/&gt;8.16&lt;t9/&gt; &lt;t10/&gt;in layer &lt;t11/&gt;4, &lt;t12/&gt;shows an XDITA map in which the &lt;t13/&gt;&lt;key&gt; &lt;t14/&gt;value has been established as &lt;t15/&gt;“strawberry&lt;t16/&gt;”.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T160014Z" creationid="lenovo" creationdate="20200902T160014Z">
-        <seg>第4层中的图8.16显示了XDITA映射，其中&lt;key&gt;值已被设置为“ strawberry”。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153420Z" creationid="lenovo" creationdate="20200902T160014Z">
+        <seg>第4层中的图8.16显示了XDITA映射，其中&lt;key&gt;值已被设置为“ strawberry”。&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2955,8 +2955,8 @@
       <tuv lang="en">
         <seg>After processing, the resulting deliverable will replace all &lt;t3/&gt;“icecream-flavor”&lt;t4/&gt; placeholders found in the topics with the actual content defined in the &lt;t5/&gt;&lt;key&gt; &lt;t6/&gt;element on the map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090331Z" creationid="lenovo" creationdate="20200902T160011Z">
-        <seg> 经过处理后，生成的可交付成果将用在映射上&lt;key&gt;元素中定义的实际内容替换在主题中找到的所有“冰淇淋口味”占位符。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153412Z" creationid="lenovo" creationdate="20200902T160011Z">
+        <seg> 经过处理后，生成的可交付成果将用在映射上&lt;key&gt;元素中定义的实际内容替换在主题中找到的所有“冰淇淋口味”占位符。&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3243,8 +3243,8 @@
       <tuv lang="en">
         <seg>An HDITA version of the milk&lt;t4/&gt;shake recipe, with context information to specify the blender used in each location, would look like&lt;t5/&gt; Figure 8.7&lt;t6/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T123719Z" creationid="lenovo" creationdate="20200902T123719Z">
-        <seg>图8.7是HDITA版本的奶昔配方，带有上下文信息以指定每个位置使用的搅拌器。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153127Z" creationid="lenovo" creationdate="20200902T123719Z">
+        <seg>图8.7是HDITA版本的奶昔配方，带有上下文信息以指定每个位置使用的搅拌器。&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3459,8 +3459,8 @@
       <tuv lang="en">
         <seg>And if the emphasis is placed on a specific software package instead of a methodology based on human tasks of abstractions, authors in industry and academia will face the tools' acquisition problems identi&lt;t18/&gt;fied by Carliner that I mentioned in the introduction to this chapter.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T155439Z" creationid="lenovo" creationdate="20200902T155439Z">
-        <seg>而且，如果重点放在特定的软件包上，而不是基于抽象的人工任务的方法，那么行业和学术界的作者将面临我在本章引言中提到的Carliner确定的工具获取问题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153226Z" creationid="lenovo" creationdate="20200902T155439Z">
+        <seg>而且，如果重点放在特定的软件包上，而不是基于抽象的人工任务的方法，那么行业和学术界的作者将面临我在本章引言中提到的Carliner确定的工具获取问题。&lt;t18/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3619,8 +3619,8 @@
       <tuv lang="en">
         <seg>Any LwDITA topics referenced in this map will inherit that key definition in layer 5, and all elements with a placeholder for &lt;t6/&gt;“icecream-flavor”&lt;t7/&gt; will display the key of, in this example, strawberry.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T153840Z" creationid="lenovo" creationdate="20200902T153840Z">
-        <seg>此映射中引用的所有LwDITA主题都将继承第5层中的键定义，并且在此示例中，带有占位符“ icecream-flavor”的所有元素都将显示草莓。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153216Z" creationid="lenovo" creationdate="20200902T153840Z">
+        <seg>此映射中引用的所有LwDITA主题都将继承第5层中的键定义，并且在此示例中，带有占位符“ icecream-flavor”的所有元素都将显示草莓。&lt;t6/&gt;&lt;t7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5150,16 +5150,16 @@
       <tuv lang="en">
         <seg>Content references added to LwDITA topics in layer &lt;t0/&gt;4</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T155813Z" creationid="lenovo" creationdate="20200902T155813Z">
-        <seg>在第4层中将内容引用添加到LwDITA主题</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153229Z" creationid="lenovo" creationdate="20200902T155813Z">
+        <seg>在第4层中将内容引用添加到LwDITA主题&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Content strategy rules developed in layer &lt;t0/&gt;1</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T155730Z" creationid="lenovo" creationdate="20200902T155730Z">
-        <seg>在第1层中开发的内容策略规则</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153227Z" creationid="lenovo" creationdate="20200902T155730Z">
+        <seg>在第1层中开发的内容策略规则&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5182,16 +5182,16 @@
       <tuv lang="en">
         <seg>Context filters added to LwDITA topics in layer &lt;t0/&gt;3</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T155758Z" creationid="lenovo" creationdate="20200902T155758Z">
-        <seg>在第3层中向LwDITA主题添加了上下文过滤器</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153228Z" creationid="lenovo" creationdate="20200902T155758Z">
+        <seg>在第3层中向LwDITA主题添加了上下文过滤器&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Contrasting layer 4 with the ISTE standards for assessing computational thinking in students, some of its tasks could comply with sections of standards 5b (&lt;t9/&gt;Students collect data or identify relevant data sets, use digital tools to analyze them, and represent data in various ways to facilitate problem-solving and decision-making&lt;t10/&gt;) and 5c (&lt;t11/&gt;Students break problems into component parts, extract key information, and develop descriptive models to understand complex systems or facilitate problem-solving&lt;t12/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T025837Z" creationid="lenovo" creationdate="20200902T154112Z">
-        <seg>将第4层与用于评估学生的计算机思维的ISTE标准进行对比，其某些任务可能符合标准5b的各个部分（学生收集数据或识别相关数据集，使用数字工具对其进行分析，并以各种方式表示数据，以促进问题解决和决策制定）和5c（学生将问题分解为各个组成部分，提取关键信息，并开发描述性模型以理解复杂系统或促进问题解决）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153218Z" creationid="lenovo" creationdate="20200902T154112Z">
+        <seg>将第4层与用于评估学生的计算机思维的ISTE标准进行对比，其某些任务可能符合标准5b的各个部分（学生收集数据或识别相关数据集，使用数字工具对其进行分析，并以各种方式表示数据，以促进问题解决和决策制定）和5c（学生将问题分解为各个组成部分，提取关键信息，并开发描述性模型以理解复杂系统或促进问题解决）。&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5206,8 +5206,8 @@
       <tuv lang="en">
         <seg>Contrasting layer &lt;t4/&gt;3 &lt;t5/&gt;with the ISTE standards for assessing computational thinking in students, some of its tasks could comply with sections of standards 5a (&lt;t6/&gt;Students formulate problem definitions suited for technology-assisted methods such as data analysis, abstract models and algorith&lt;t7/&gt;mic thinking in exploring and finding solutions&lt;t8/&gt;) and 5c (&lt;t9/&gt;Students break problems into component parts, extract key information, and develop descriptive models to understand complex systems or facilitate problem-solving&lt;t10/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T025837Z" creationid="lenovo" creationdate="20200902T132431Z">
-        <seg>将第3层与用于评估学生的计算机思维的ISTE标准进行对比，某些任务可以符合标准5a的各个部分（学生在研究和发现解决方案中制定适合技术辅助方法的问题定义，方法包括数据分析，抽象模型和算法思维）和5c（学生将问题分解为各个组成部分，提取关键信息，并开发描述性模型以了解复杂系统或促进问题解决）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153151Z" creationid="lenovo" creationdate="20200902T132431Z">
+        <seg>将第3层与用于评估学生的计算机思维的ISTE标准进行对比，某些任务可以符合标准5a的各个部分（学生在研究和发现解决方案中制定适合技术辅助方法的问题定义，方法包括数据分析，抽象模型和算法思维）和5c（学生将问题分解为各个组成部分，提取关键信息，并开发描述性模型以了解复杂系统或促进问题解决）。&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5326,8 +5326,8 @@
       <tuv lang="en">
         <seg>Cross-topic linking works regardless of authoring for&lt;t4/&gt;mat: an XDITA topic can link to topics in HDITA and MDITA, and vice versa.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T132747Z" creationid="lenovo" creationdate="20200902T132747Z">
-        <seg>跨主题链接的工作与创作格式无关：XDITA主题可以链接到HDITA和MDITA中的主题，反之亦然。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153152Z" creationid="lenovo" creationdate="20200902T132747Z">
+        <seg>跨主题链接的工作与创作格式无关：XDITA主题可以链接到HDITA和MDITA中的主题，反之亦然。&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6552,8 +6552,8 @@
       <tuv lang="en">
         <seg>FIGURE 8.7 &lt;t0/&gt;HDITA version of the milkshake recipe with two possible values for&lt;t1/&gt; a setting condition, which are specified with the HTML5 custom data attribute &lt;t2/&gt;@data-props&lt;t3/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T131440Z" creationid="lenovo" creationdate="20200902T130025Z">
-        <seg>图 8.7 &lt;t0/HDITA版本的奶昔配方，具有两个可能的设置条件值，由HTML5自定义数据属性@data-props指定。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153128Z" creationid="lenovo" creationdate="20200902T130025Z">
+        <seg>图 8.7 &lt;t0/HDITA版本的奶昔配方，具有两个可能的设置条件值，由HTML5自定义数据属性@data-props指定。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6993,8 +6993,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;8.12 &lt;t1/&gt;Milkshake recipe in MDITA extended profile syntax with the note&lt;t2/&gt; component.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T151111Z" creationid="lenovo" creationdate="20200902T151111Z">
-        <seg>图 &lt;t0/&gt;8.12 &lt;t1/&gt;MDITA扩展配置文件语法下带提示组件的奶昔配方。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153202Z" creationid="lenovo" creationdate="20200902T151111Z">
+        <seg>图 &lt;t0/&gt;8.12 &lt;t1/&gt;&lt;t2/&gt;MDITA扩展配置文件语法下带提示组件的奶昔配方。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7033,8 +7033,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;8.9 &lt;t1/&gt;MDITA version of the milkshake recipe with two possible values for a&lt;t2/&gt; setting condition.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T131606Z" creationid="lenovo" creationdate="20200902T131325Z">
-        <seg>图 &lt;t0/&gt;8.9 &lt;t1/&gt;MDITA版本的奶昔配方，具有两个可能的设置条件值。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153140Z" creationid="lenovo" creationdate="20200902T131325Z">
+        <seg>图 &lt;t0/&gt;8.9 &lt;t1/&gt;&lt;t2/&gt;MDITA版本的奶昔配方，具有两个可能的设置条件值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7266,8 +7266,8 @@
       <tuv lang="en">
         <seg>Figure &lt;t0/&gt;8.15&lt;t1/&gt; &lt;t2/&gt;shows the root beer float recipe in MDITA extended profile syn&lt;t3/&gt;tax.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T150112Z" creationid="lenovo" creationdate="20200902T150112Z">
-        <seg>图 &lt;t0/&gt;8.15&lt;t1/&gt; &lt;t2/&gt;&gt;显示了使用MDITA语法的生啤酒配方。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153158Z" creationid="lenovo" creationdate="20200902T150112Z">
+        <seg>图 &lt;t0/&gt;8.15&lt;t1/&gt; &lt;t2/&gt;&lt;t3/&gt;&gt;显示了使用MDITA语法的生啤酒配方。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7362,8 +7362,8 @@
       <tuv lang="en">
         <seg>Following the discussion about con&lt;t10/&gt;tent silos from layer &lt;t11/&gt;2, &lt;t12/&gt;the map on &lt;t13/&gt;Figure &lt;t14/&gt;8.16&lt;t15/&gt; &lt;t16/&gt;includes topics created in the</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T153218Z" creationid="lenovo" creationdate="20200902T153146Z">
-        <seg>在讨论了第2层的内容竖井之后，图8.16上的映射包括以</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153206Z" creationid="lenovo" creationdate="20200902T153146Z">
+        <seg>在讨论了第2层的内容竖井之后，图8.16上的映射包括以&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8386,8 +8386,8 @@
       <tuv lang="en">
         <seg>However, some of them required changes to many other MDITA components or allowed con&lt;t0/&gt;tent exchange exclusively among Markdown files.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T134001Z" creationid="lenovo" creationdate="20200902T134001Z">
-        <seg>但是，其中一些要求更改许多其他的MDITA组件，或者仅允许在Markdown文件之间交换内容。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153156Z" creationid="lenovo" creationdate="20200902T134001Z">
+        <seg>但是，其中一些要求更改许多其他的MDITA组件，或者仅允许在Markdown文件之间交换内容。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8426,8 +8426,8 @@
       <tuv lang="en">
         <seg>However, the cross-reference component in LwDITA also enables one of DITA's strongest content reuse features: the content reference &lt;t5/&gt;- &lt;t6/&gt;or &lt;t7/&gt;conref&lt;t8/&gt; for short.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T132828Z" creationid="lenovo" creationdate="20200902T132828Z">
-        <seg>但是，LwDITA中的交叉引用组件还启用了DITA最强大的内容复用功能之一：内容引用或简称conref。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153153Z" creationid="lenovo" creationdate="20200902T132828Z">
+        <seg>但是，LwDITA中的交叉引用组件还启用了DITA最强大的内容复用功能之一：内容引用或简称conref。&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9324,8 +9324,8 @@
       <tuv lang="en">
         <seg>In &lt;t0/&gt;Chapter &lt;t1/&gt;6&lt;t2/&gt;, &lt;t3/&gt;we saw how to represent a cross-reference component in the LwDITA authoring formats.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T135937Z" creationid="lenovo" creationdate="20200902T132659Z">
-        <seg>在第六章中，我们了解了如何用LwDITA创作格式表示交叉引用组件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153152Z" creationid="lenovo" creationdate="20200902T132659Z">
+        <seg>在第六章中，我们了解了如何用LwDITA创作格式表示交叉引用组件。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9540,8 +9540,8 @@
       <tuv lang="en">
         <seg>In HDITA syntax, the revised milkshake recipe would look like &lt;t0/&gt;Figure &lt;t1/&gt;8.11&lt;t2/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T133722Z" creationid="lenovo" creationdate="20200902T133722Z">
-        <seg>用HDITA语法，修改后的奶昔配方如图8.11所示。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153155Z" creationid="lenovo" creationdate="20200902T133722Z">
+        <seg>用HDITA语法，修改后的奶昔配方如图8.11所示。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9564,8 +9564,8 @@
       <tuv lang="en">
         <seg>In HDITA, the conditional attribute &lt;t0/&gt;@data-props&lt;t1/&gt;, placed inside the HTML5 &lt;t2/&gt;&lt;span&gt; &lt;t3/&gt;element, can achieve similar results.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T123656Z" creationid="lenovo" creationdate="20200902T123656Z">
-        <seg>在HDITA中，置于HTML5 &lt;span&gt;元素内的条件属性@ data-props可以实现类似的结果。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153126Z" creationid="lenovo" creationdate="20200902T123656Z">
+        <seg>在HDITA中，置于HTML5 &lt;span&gt;元素内的条件属性@ data-props可以实现类似的结果。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10164,8 +10164,8 @@
       <tuv lang="en">
         <seg>In layer &lt;t4/&gt;5, &lt;t5/&gt;processing the topic with the proper conditional code will produce correct deliverables for each location.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T130055Z" creationid="lenovo" creationdate="20200902T130055Z">
-        <seg>在第5层中，使用适当的条件代码处理主题将为每个位置产生正确的可交付成果。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153129Z" creationid="lenovo" creationdate="20200902T130055Z">
+        <seg>在第5层中，使用适当的条件代码处理主题将为每个位置产生正确的可交付成果。&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10220,8 +10220,8 @@
       <tuv lang="en">
         <seg>In order to use the conditional variable &lt;t0/&gt;@data-props&lt;t1/&gt;, a Markdown-based author would have to use a few code snippets of HDITA in MDITA extended profile.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T130326Z" creationid="lenovo" creationdate="20200902T130326Z">
-        <seg>为了使用条件变量@ data-props，基于Markdown的作者将不得不在MDITA扩展配置文件中使用HDITA的一些代码片段。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153130Z" creationid="lenovo" creationdate="20200902T130326Z">
+        <seg>为了使用条件变量@ data-props，基于Markdown的作者将不得不在MDITA扩展配置文件中使用HDITA的一些代码片段。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10636,8 +10636,8 @@
       <tuv lang="en">
         <seg>In this first part, the processing tool will take the map and topics and populate the &lt;t0/&gt;“icecream-flavor”&lt;t1/&gt; variable with the &lt;t2/&gt;&lt;key&gt; &lt;t3/&gt;value established in the XDITA map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090331Z" creationid="lenovo" creationdate="20200902T155933Z">
-        <seg>在第一部分中，处理工具将获取映射和主题，并使用XDITA映射中建立的&lt;key&gt;值填充“ icecream-flavor”变量。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153410Z" creationid="lenovo" creationdate="20200902T155933Z">
+        <seg>在第一部分中，处理工具将获取映射和主题，并使用XDITA映射中建立的&lt;key&gt;值填充“ icecream-flavor”变量。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10660,16 +10660,16 @@
       <tuv lang="en">
         <seg>In this layer, developers would build applications based on the algorithms cre&lt;t2/&gt;ated in previous layers of abstraction.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T154422Z" creationid="lenovo" creationdate="20200902T154422Z">
-        <seg>在这一层中，开发人员将基于先前抽象层中创建的算法来构建应用程序。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153224Z" creationid="lenovo" creationdate="20200902T154422Z">
+        <seg>在这一层中，开发人员将基于先前抽象层中创建的算法来构建应用程序。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>In this layer, we will work with maps as the main mechanism to organize top&lt;t0/&gt;ics and create information hierarchies.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T150754Z" creationid="lenovo" creationdate="20200902T150754Z">
-        <seg>在这一层中，我们将使用映射作为组织主题和创建信息层次结构的主要机制。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153159Z" creationid="lenovo" creationdate="20200902T150754Z">
+        <seg>在这一层中，我们将使用映射作为组织主题和创建信息层次结构的主要机制。 &lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11540,8 +11540,8 @@
       <tuv lang="en">
         <seg>Layer 4 tasks focus on Bailie &amp; Urbina's &lt;t1/&gt;collect&lt;t2/&gt; and &lt;t3/&gt;manage&lt;t4/&gt; stages.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T154004Z" creationid="lenovo" creationdate="20200902T154004Z">
-        <seg>第4层任务的重点是拜利和厄比纳的收集和管理阶段。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153217Z" creationid="lenovo" creationdate="20200902T154004Z">
+        <seg>第4层任务的重点是拜利和厄比纳的收集和管理阶段。&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11556,8 +11556,8 @@
       <tuv lang="en">
         <seg>Layer &lt;t0/&gt;2 &lt;t1/&gt;introduced the key reference attribute as a placeholder for content reuse.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T132843Z" creationid="lenovo" creationdate="20200902T132843Z">
-        <seg>第2层引入了关键引用属性作为内容复用的占位符。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153153Z" creationid="lenovo" creationdate="20200902T132843Z">
+        <seg>第2层引入了关键引用属性作为内容复用的占位符。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11596,24 +11596,24 @@
       <tuv lang="en">
         <seg>Layer &lt;t0/&gt;4: &lt;t1/&gt;Linking Topics and Maps for Collection and Reuse</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T132512Z" creationid="lenovo" creationdate="20200902T132512Z">
-        <seg>第四层：链接主题和映射以收集和复用</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153151Z" creationid="lenovo" creationdate="20200902T132512Z">
+        <seg>第四层：链接主题和映射以收集和复用&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Layer &lt;t0/&gt;5 &lt;t1/&gt;addresses the “metal” tools in Wing's model of computational thinking.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T025837Z" creationid="lenovo" creationdate="20200902T154200Z">
-        <seg>第5层解决了Wing计算机思维模型中的“金属”工具。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153224Z" creationid="lenovo" creationdate="20200902T154200Z">
+        <seg>第5层解决了Wing计算机思维模型中的“金属”工具。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Layer &lt;t0/&gt;5: &lt;t1/&gt;Processing and Producing Deliverables</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T154123Z" creationid="lenovo" creationdate="20200902T154123Z">
-        <seg>第5层：处理和生产可交付成果</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153223Z" creationid="lenovo" creationdate="20200902T154123Z">
+        <seg>第5层：处理和生产可交付成果&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11644,8 +11644,8 @@
       <tuv lang="en">
         <seg>Layer &lt;t1/&gt;3 &lt;t2/&gt;tasks focus on Bailie &lt;t3/&gt;&amp; &lt;t4/&gt;Urbina's &lt;t5/&gt;manage&lt;t6/&gt; stage.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T131146Z" creationid="lenovo" creationdate="20200902T131146Z">
-        <seg>第3层任务的重点是拜利和厄比纳的管理阶段。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153139Z" creationid="lenovo" creationdate="20200902T131146Z">
+        <seg>第3层任务的重点是拜利和厄比纳的管理阶段。&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12036,8 +12036,8 @@
       <tuv lang="en">
         <seg>LwDITA maps are essential for some mental abstractions that take place in layer &lt;t1/&gt;4.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T150844Z" creationid="lenovo" creationdate="20200902T150844Z">
-        <seg>LwDITA映射对于第4层中某些抽象思维至关重要。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153201Z" creationid="lenovo" creationdate="20200902T150844Z">
+        <seg>LwDITA映射对于第4层中某些抽象思维至关重要。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12060,8 +12060,8 @@
       <tuv lang="en">
         <seg>LwDITA topics authored in layer &lt;t0/&gt;2</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T155741Z" creationid="lenovo" creationdate="20200902T155741Z">
-        <seg>第2层中创作的LwDITA主题</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153228Z" creationid="lenovo" creationdate="20200902T155741Z">
+        <seg>第2层中创作的LwDITA主题&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12838,8 +12838,8 @@
       <tuv lang="en">
         <seg>On a given day, the author or a manager enters the &lt;t0/&gt;&lt;key&gt; &lt;t1/&gt;value on the map estab&lt;t2/&gt;lishing the ice cream flavor for that day.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T160000Z" creationid="lenovo" creationdate="20200902T160000Z">
-        <seg>在给定的一天，作者或管理者在映射上输入&lt;key&gt;值，以建立当天的冰淇淋风味。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153412Z" creationid="lenovo" creationdate="20200902T160000Z">
+        <seg>在给定的一天，作者或管理者在映射上输入&lt;key&gt;值，以建立当天的冰淇淋风味。 &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13841,8 +13841,8 @@
       <tuv lang="en">
         <seg>Revisiting the reference information from &lt;t0/&gt;Chapter &lt;t1/&gt;5&lt;t2/&gt;, &lt;t3/&gt;and according to the DITA-OT documentation, the general structure for a command that builds DITA (and LwDITA) deliverables from topics and maps is shown in &lt;t4/&gt;figure &lt;t5/&gt;8.17&lt;t6/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090331Z" creationid="lenovo" creationdate="20200902T160149Z">
-        <seg>再次阅读第5章中的参考信息，并根据DITA-OT文档，从主题和映射构建DITA（和LwDITA）可交付成果的命令的一般结构如图8.17所示。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153421Z" creationid="lenovo" creationdate="20200902T160149Z">
+        <seg>再次阅读第5章中的参考信息，并根据DITA-OT文档，从主题和映射构建DITA（和LwDITA）可交付成果的命令的一般结构如图8.17所示。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14233,8 +14233,8 @@
       <tuv lang="en">
         <seg>Since no filters&lt;t1/&gt; were applied during the transformation, the first step includes the values of both blenders without considering the setting where the recipe will be used.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T123538Z" creationid="lenovo" creationdate="20200902T123330Z">
-        <seg>由于在转换过程中没有应用任何过滤器，所以第一步包括两个搅拌器的值，而不考虑将配方使用的情形。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153122Z" creationid="lenovo" creationdate="20200902T123330Z">
+        <seg>由于在转换过程中没有应用任何过滤器，所以第一步包括两个搅拌器的值，而不考虑将配方使用的情形。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15243,8 +15243,8 @@
       <tuv lang="en">
         <seg>The &lt;t0/&gt;@conref &lt;t1/&gt;(in XDITA) or &lt;t2/&gt;@data-conref &lt;t3/&gt;(in HDITA and MDITA extended profile) attribute is available on the following LwDITA content components:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T150149Z" creationid="lenovo" creationdate="20200902T150149Z">
-        <seg>@conref（在XDITA中）或@ data-conref（在HDITA和MDITA扩展配置文件中）属性在以下LwDITA内容组件上可用：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153158Z" creationid="lenovo" creationdate="20200902T150149Z">
+        <seg>@conref（在XDITA中）或@ data-conref（在HDITA和MDITA扩展配置文件中）属性在以下LwDITA内容组件上可用：&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15259,8 +15259,8 @@
       <tuv lang="en">
         <seg>The &lt;t1/&gt;&lt;keydef&gt;&lt;t2/&gt; &lt;t3/&gt;environment declares the value for the “icecream-flavor” variable in any linked topics.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T153518Z" creationid="lenovo" creationdate="20200902T153518Z">
-        <seg>&lt;keydef&gt;环境在任何链接主题中声明“冰淇淋口味”变量的值。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153206Z" creationid="lenovo" creationdate="20200902T153518Z">
+        <seg>&lt;keydef&gt;环境在任何链接主题中声明“冰淇淋口味”变量的值。&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15587,8 +15587,8 @@
       <tuv lang="en">
         <seg>The HDITA recipe, which can be saved as &lt;t0/&gt;milkshake.html&lt;t1/&gt;, is a valid HTML5 topic; therefore, it can be seen on a web browser at this stage.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T124007Z" creationid="lenovo" creationdate="20200902T124007Z">
-        <seg>HDITA食谱可以保存为milkshake.html，它是有效的HTML5主题； 因此，现阶段可以在网络浏览器上看到它。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153127Z" creationid="lenovo" creationdate="20200902T124007Z">
+        <seg>HDITA食谱可以保存为milkshake.html，它是有效的HTML5主题； 因此，现阶段可以在网络浏览器上看到它。 &lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15827,8 +15827,8 @@
       <tuv lang="en">
         <seg>The MDITA topic, in this layer, would not make sense for human users, and it must be pro&lt;t0/&gt;cessed by a LwDITA-aware tool in layer &lt;t1/&gt;5.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T130957Z" creationid="lenovo" creationdate="20200902T130957Z">
-        <seg>在这一层中，MDITA主题对人类用户而言毫无意义，并且必须由第5层中支持LwDITA的工具进行处理。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153138Z" creationid="lenovo" creationdate="20200902T130957Z">
+        <seg>在这一层中，MDITA主题对人类用户而言毫无意义，并且必须由第5层中支持LwDITA的工具进行处理。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15907,16 +15907,16 @@
       <tuv lang="en">
         <seg>The XDITA map also has a navigation title (&lt;t0/&gt;&lt;navtitle&gt;&lt;t1/&gt;) that can specify the main heading for any user products created in the next layer of abstraction.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T153528Z" creationid="lenovo" creationdate="20200902T153528Z">
-        <seg>XDITA映射还具有导航标题（&lt;navtitle&gt;），可以为在下一个抽象层中创建的任何用户产品指定主要标题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153208Z" creationid="lenovo" creationdate="20200902T153528Z">
+        <seg>XDITA映射还具有导航标题（&lt;navtitle&gt;），可以为在下一个抽象层中创建的任何用户产品指定主要标题。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The XDITA map in &lt;t0/&gt;Figure &lt;t1/&gt;8.16&lt;t2/&gt; &lt;t3/&gt;includes references (&lt;t4/&gt;&lt;topicref&gt;&lt;t5/&gt;) to the three hypothetical recipes in the manual.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T151840Z" creationid="lenovo" creationdate="20200902T151840Z">
-        <seg>图8.16中的XDITA映射包括对手册中三个假设配方的引用（&lt;topicref&gt;）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153204Z" creationid="lenovo" creationdate="20200902T151840Z">
+        <seg>图8.16中的XDITA映射包括对手册中三个假设配方的引用（&lt;topicref&gt;）。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16083,8 +16083,8 @@
       <tuv lang="en">
         <seg>The author can save this file as &lt;t6/&gt;fountain.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T151855Z" creationid="lenovo" creationdate="20200902T151855Z">
-        <seg>作者可以将该文件另存为Fountain.ditamap。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153205Z" creationid="lenovo" creationdate="20200902T151855Z">
+        <seg>作者可以将该文件另存为Fountain.ditamap。&lt;t6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16115,8 +16115,8 @@
       <tuv lang="en">
         <seg>The author would need to update the note manu&lt;t0/&gt;ally on every topic that includes it.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T134158Z" creationid="lenovo" creationdate="20200902T134158Z">
-        <seg> 作者需要针对包含该提示的每个主题手动更新该提示。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153157Z" creationid="lenovo" creationdate="20200902T134158Z">
+        <seg> 作者需要针对包含该提示的每个主题手动更新该提示。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16203,8 +16203,8 @@
       <tuv lang="en">
         <seg>The command has the reference to the built-in (&lt;t0/&gt;bin&lt;t1/&gt;) subdirectory and the &lt;t2/&gt;dita &lt;t3/&gt;executable program, with the &lt;t4/&gt;fountain.ditamap&lt;t5/&gt; file created in layer &lt;t6/&gt;4 &lt;t7/&gt;as input, and &lt;t8/&gt;html5&lt;t9/&gt; as the delivery format.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T160217Z" creationid="lenovo" creationdate="20200902T160217Z">
-        <seg>该命令具有对内置（bin）子目录和dita可执行程序的引用，其中在第4层中创建的Fountain.ditamap文件作为输入，而html5作为传递格式。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153422Z" creationid="lenovo" creationdate="20200902T160217Z">
+        <seg>该命令具有对内置（bin）子目录和dita可执行程序的引用，其中在第4层中创建的Fountain.ditamap文件作为输入，而html5作为传递格式。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16435,8 +16435,8 @@
       <tuv lang="en">
         <seg>The defining key for the &lt;t2/&gt;“icecream-flavor”&lt;t3/&gt; content variable is provided in the key definition (&lt;t4/&gt;&lt;keydef&gt;&lt;t5/&gt;) environment.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T153606Z" creationid="lenovo" creationdate="20200902T153606Z">
-        <seg>键定义（&lt;keydef&gt;）环境中提供了“ icecream-flavor”内容变量的定义键。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153216Z" creationid="lenovo" creationdate="20200902T153606Z">
+        <seg>键定义（&lt;keydef&gt;）环境中提供了“ icecream-flavor”内容变量的定义键。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16990,8 +16990,8 @@
       <tuv lang="en">
         <seg>The main automation tool that will take our milkshake example through layer &lt;t0/&gt;5 &lt;t1/&gt;is the DITA Open Toolkit &lt;t2/&gt;- &lt;t3/&gt;the open source implementation of the DITA standard that we discussed in previous chapters.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T155615Z" creationid="lenovo" creationdate="20200902T155615Z">
-        <seg>在第5层中以奶昔为例的主要自动化工具是DITA Open Toolkit，是我们在上一章中讨论的DITA标准开源工具。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153226Z" creationid="lenovo" creationdate="20200902T155615Z">
+        <seg>在第5层中以奶昔为例的主要自动化工具是DITA Open Toolkit，是我们在上一章中讨论的DITA标准开源工具。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17030,8 +17030,8 @@
       <tuv lang="en">
         <seg>The map in the following example not only works as a collection mechanism for topics, it also provides the defining key for the &lt;t4/&gt;“icecream-flavor” &lt;t5/&gt;content variable created in layer &lt;t6/&gt;2.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T151417Z" creationid="lenovo" creationdate="20200902T151417Z">
-        <seg>在下面的示例中，该图不仅充当主题的收集机制，而且还为在第2层中创建的“冰淇淋口味”内容变量提供了定义键。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153204Z" creationid="lenovo" creationdate="20200902T151417Z">
+        <seg>在下面的示例中，该图不仅充当主题的收集机制，而且还为在第2层中创建的“冰淇淋口味”内容变量提供了定义键。&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17094,8 +17094,8 @@
       <tuv lang="en">
         <seg>The milkshake topic, then, becomes the source for the conref, and in XDITA syntax it would look like &lt;t0/&gt;Figure &lt;t1/&gt;8.10&lt;t2/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T133706Z" creationid="lenovo" creationdate="20200902T133706Z">
-        <seg>奶昔主题就成为conref的来源，在XDITA语法中如图8.10所示。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153155Z" creationid="lenovo" creationdate="20200902T133706Z">
+        <seg>奶昔主题就成为conref的来源，在XDITA语法中如图8.10所示。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17486,8 +17486,8 @@
       <tuv lang="en">
         <seg>The recipe main elements are still in Markdown, but the available values for the conditional setting attribute are the same as those used in the HDITA topic, as shown in &lt;t2/&gt;Figure &lt;t3/&gt;8.9&lt;t4/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T130342Z" creationid="lenovo" creationdate="20200902T130342Z">
-        <seg>配方主要元素仍在Markdown中，但条件设置属性的可用值与HDITA主题中使用的值相同，如图8.9所示。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153131Z" creationid="lenovo" creationdate="20200902T130342Z">
+        <seg>配方主要元素仍在Markdown中，但条件设置属性的可用值与HDITA主题中使用的值相同，如图8.9所示。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17614,8 +17614,8 @@
       <tuv lang="en">
         <seg>The same results can be achieved with many DITA-aware programs (open source and commercial) with a graphical user inter&lt;t4/&gt;face, and I will also show how to process the milkshake example in Oxygen XML.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T155710Z" creationid="lenovo" creationdate="20200902T155710Z">
-        <seg>使用具有图形用户界面的许多DITA感知程序（开放源代码和商业程序）可以实现相同的结果，并且我还将展示如何在Oxygen XML中处理奶昔示例。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153227Z" creationid="lenovo" creationdate="20200902T155710Z">
+        <seg>使用具有图形用户界面的许多DITA感知程序（开放源代码和商业程序）可以实现相同的结果，并且我还将展示如何在Oxygen XML中处理奶昔示例。&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17806,8 +17806,8 @@
       <tuv lang="en">
         <seg>The source ele&lt;t2/&gt;ment from the content reference can be updated and, after reprocessing the topic collection, all target topics that link to it will be automatically updated.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T132923Z" creationid="lenovo" creationdate="20200902T132923Z">
-        <seg>内容引用中的源元素可以更新，并且在重新处理主题集合之后，链接到它的所有目标主题都将自动更新。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153154Z" creationid="lenovo" creationdate="20200902T132923Z">
+        <seg>内容引用中的源元素可以更新，并且在重新处理主题集合之后，链接到它的所有目标主题都将自动更新。 &lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17934,8 +17934,8 @@
       <tuv lang="en">
         <seg>The tasks involved in this layer are related to several stages of the content&lt;t0/&gt;development lifecycles featured earlier in the previous chapter.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T131013Z" creationid="lenovo" creationdate="20200902T131013Z">
-        <seg>该层涉及的任务与上一章前面介绍的内容开发生命周期的多个阶段有关。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153138Z" creationid="lenovo" creationdate="20200902T131013Z">
+        <seg>该层涉及的任务与上一章前面介绍的内容开发生命周期的多个阶段有关。 &lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17958,8 +17958,8 @@
       <tuv lang="en">
         <seg>The technical communication literature shows some waves of interests for tech&lt;t0/&gt;nologies included in this layer, from single-sourcing (e.g, Ament, &lt;t1/&gt;2003; &lt;t2/&gt;Carter, &lt;t3/&gt;2003) &lt;t4/&gt;to content management (e.g., Hart-Davidson et al., &lt;t5/&gt;2007; &lt;t6/&gt;Gu &lt;t7/&gt;&amp; &lt;t8/&gt;Pullman, &lt;t9/&gt;2009), &lt;t10/&gt;and most recently component content management (e.g, Andersen, &lt;t11/&gt;2014; &lt;t12/&gt;Batova, &lt;t13/&gt;2014).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T125525Z" creationid="lenovo" creationdate="20200902T155200Z">
-        <seg>技术交流文献表明，从同源开发 (e.g, Ament, &lt;t1/&gt;2003; &lt;t2/&gt;Carter, &lt;t3/&gt;2003) &lt;t4/&gt;到内容管理 (e.g., Hart-Davidson et al., &lt;t5/&gt;2007; &lt;t6/&gt;Gu &lt;t7/&gt;&amp; &lt;t8/&gt;Pullman, &lt;t9/&gt;2009), &lt;t10/&gt;以及最近的组件内容管理(e.g, Andersen, &lt;t11/&gt;2014; &lt;t12/&gt;Batova, &lt;t13/&gt;2014).</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153225Z" creationid="lenovo" creationdate="20200902T155200Z">
+        <seg>技术交流文献表明，从同源开发 (e.g, Ament, &lt;t0/&gt;&lt;t1/&gt;2003; &lt;t2/&gt;Carter, &lt;t3/&gt;2003) &lt;t4/&gt;到内容管理 (e.g., Hart-Davidson et al., &lt;t5/&gt;2007; &lt;t6/&gt;Gu &lt;t7/&gt;&amp; &lt;t8/&gt;Pullman, &lt;t9/&gt;2009), &lt;t10/&gt;以及最近的组件内容管理(e.g, Andersen, &lt;t11/&gt;2014; &lt;t12/&gt;Batova, &lt;t13/&gt;2014).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18782,8 +18782,8 @@
       <tuv lang="en">
         <seg>They also cover some of the work included in Andersen's &lt;t5/&gt;Analyzing the customer and business needs &lt;t6/&gt;and &lt;t7/&gt;Developing an information architecture&lt;t8/&gt; stages.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T154036Z" creationid="lenovo" creationdate="20200902T154036Z">
-        <seg>它们还涵盖了安德森分析客户和业务需求以及开发信息架构阶段中包含的一些工作。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153217Z" creationid="lenovo" creationdate="20200902T154036Z">
+        <seg>它们还涵盖了安德森分析客户和业务需求以及开发信息架构阶段中包含的一些工作。&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19102,8 +19102,8 @@
       <tuv lang="en">
         <seg>This map can be combined with the topics developed in earlier layers and advance to layer &lt;t2/&gt;5, &lt;t3/&gt;where it will be processed by a LwDITA-aware tool and generate information products for the soda fountain operators.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T151356Z" creationid="lenovo" creationdate="20200902T151356Z">
-        <seg>可以将此映射与在前些层中开发的主题进行组合，并推进到第5层使用支持LwDITA的工具对其进行处理，为“汽水喷泉”喷泉操作员生成信息产品。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153203Z" creationid="lenovo" creationdate="20200902T151356Z">
+        <seg>可以将此映射与在前些层中开发的主题进行组合，并推进到第5层使用支持LwDITA的工具对其进行处理，为“汽水喷泉”喷泉操作员生成信息产品。&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19126,8 +19126,8 @@
       <tuv lang="en">
         <seg>This means that, for example, end users will not know what came from MDITA and what came from HDITA: they will just see a uni&lt;t4/&gt;fied deliverable.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T153204Z" creationid="lenovo" creationdate="20200902T153204Z">
-        <seg>举例来说，这意味着最终用户将不知道来自MDITA和来自HDITA的信息：他们只会看到统一的可交付成果。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153208Z" creationid="lenovo" creationdate="20200902T153204Z">
+        <seg>举例来说，这意味着最终用户将不知道来自MDITA和来自HDITA的信息：他们只会看到统一的可交付成果。&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19526,8 +19526,8 @@
       <tuv lang="en">
         <seg>Thus, the MDITA version of the milkshake topic with the warning note would look as &lt;t1/&gt;Figure &lt;t2/&gt;8.12&lt;t3/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T134050Z" creationid="lenovo" creationdate="20200902T134050Z">
-        <seg>因此，带有警告提示的奶昔主题的MDITA版本将如图8.12所示。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153157Z" creationid="lenovo" creationdate="20200902T134050Z">
+        <seg>因此，带有警告提示的奶昔主题的MDITA版本将如图8.12所示。&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19654,8 +19654,8 @@
       <tuv lang="en">
         <seg>To generate the web version of the soda fountain operator manual, you would need to enter the command shown on &lt;t0/&gt;Figure &lt;t1/&gt;8.18&lt;t2/&gt; &lt;t3/&gt;on a command-line environment &lt;t4/&gt;inside the directory or folder where you installed the DITA-OT&lt;t5/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T160205Z" creationid="lenovo" creationdate="20200902T160205Z">
-        <seg>要生成网络版本的“汽水喷泉”操作员手册，您需要在安装DITA-OT的目录或文件夹内的命令行环境中输入图8.18所示的命令。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153421Z" creationid="lenovo" creationdate="20200902T160205Z">
+        <seg>要生成网络版本的“汽水喷泉”操作员手册，您需要在安装DITA-OT的目录或文件夹内的命令行环境中输入图8.18所示的命令。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20698,8 +20698,8 @@
       <tuv lang="en">
         <seg>XDITA map to collect topics created in layer &lt;t0/&gt;4.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T155823Z" creationid="lenovo" creationdate="20200902T155823Z">
-        <seg>XDITA映射以收集在第4层中创建的主题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153230Z" creationid="lenovo" creationdate="20200902T155823Z">
+        <seg>XDITA映射以收集在第4层中创建的主题。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21002,8 +21002,8 @@
       <tuv lang="en">
         <seg>different LwDITA authoring formats (see the different values of &lt;t0/&gt;@format &lt;t1/&gt;in the &lt;t2/&gt;&lt;topicref&gt; &lt;t3/&gt;entries).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T153250Z" creationid="lenovo" creationdate="20200902T153250Z">
-        <seg>不同的LwDITA创作格式创建的主题（请参见&lt;topicref&gt;条目中@format的不同值）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153207Z" creationid="lenovo" creationdate="20200902T153250Z">
+        <seg>不同的LwDITA创作格式创建的主题（请参见&lt;topicref&gt;条目中@format的不同值）。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21018,8 +21018,8 @@
       <tuv lang="en">
         <seg>ditamap&lt;t7/&gt;, and in layer &lt;t8/&gt;5 &lt;t9/&gt;a machine processor will parse the map and referenced topics in XDITA, HDITA, and MDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T153001Z" creationid="lenovo" creationdate="20200902T153001Z">
-        <seg>在第5层中，机器处理器将解析XDITA，HDITA和MDITA中的映射 和参考主题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153205Z" creationid="lenovo" creationdate="20200902T153001Z">
+        <seg>在第5层中，机器处理器将解析XDITA，HDITA和MDITA中的映射 和参考主题。&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21122,8 +21122,8 @@
       <tuv lang="en">
         <seg>included in Andersen's &lt;t0/&gt;Developing an information architecture&lt;t1/&gt; and &lt;t2/&gt;Creating structured content&lt;t3/&gt; stages.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T131857Z" creationid="lenovo" creationdate="20200902T131857Z">
-        <seg>包含在安德森的开发信息体系结构和创建结构化的内容阶段。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153150Z" creationid="lenovo" creationdate="20200902T131857Z">
+        <seg>包含在安德森的开发信息体系结构和创建结构化的内容阶段。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
