@@ -7642,8 +7642,8 @@
       <tuv lang="en">
         <seg>For the milkshake example, the selected standard will be LwDITA, authored in the following two options:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T123532Z" creationid="lenovo" creationdate="20200901T123532Z">
-        <seg>对于奶昔示例，选定的标准将是LwDITA，由以下两个选项编写：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T151321Z" creationid="lenovo" creationdate="20200901T123532Z">
+        <seg>对于奶昔示例而言，选定的标准将是 LwDITA，由以下两个选项编写：</seg>
       </tuv>
     </tu>
     <tu>
@@ -13022,8 +13022,8 @@
       <tuv lang="en">
         <seg>Option a: With the text editor Atom by GitHub, with the DITA Open Toolkit as processing tool, and with content and source code stored and delivered in GitHub and GitHub Pages, respectively.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T123542Z" creationid="lenovo" creationdate="20200901T123542Z">
-        <seg>选项a：使用GitHub的文本编辑器Atom，使用DITA Open Toolkit作为处理工具以及分别在GitHub和GitHub Pages中存储和交付的内容和源代码。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T151636Z" creationid="lenovo" creationdate="20200901T123542Z">
+        <seg>选项a：使用GitHub文本编辑器Atom和处理工具DITA Open Toolkit，源代码存储在 GitHub 中，由 GitHub Pages 交付。</seg>
       </tuv>
     </tu>
     <tu>
