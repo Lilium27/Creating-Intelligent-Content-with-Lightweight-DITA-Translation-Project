@@ -21146,8 +21146,8 @@
       <tuv lang="en">
         <seg>its support for LwDITA topics and maps.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200806T093329Z">
-        <seg>其对 LwDITA 主题和地图映射的支持。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T085901Z" creationid="DSS" creationdate="20200806T093329Z">
+        <seg>其对 LwDITA 主题和映射的支持。</seg>
       </tuv>
     </tu>
     <tu>
