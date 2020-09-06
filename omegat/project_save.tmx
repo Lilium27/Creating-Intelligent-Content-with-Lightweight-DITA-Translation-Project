@@ -22389,8 +22389,8 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;agrees</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015525Z" creationid="lenovo" creationdate="20200811T015437Z">
-        <seg>• &lt;t0/&gt;约定</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200906T062859Z" creationid="lenovo" creationdate="20200811T015437Z">
+        <seg>• &lt;t0/&gt;约定（agrees）</seg>
       </tuv>
     </tu>
     <tu>
@@ -22413,16 +22413,16 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;can</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015256Z" creationid="lenovo" creationdate="20200811T015256Z">
-        <seg>• &lt;t0/&gt;能</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200906T062824Z" creationid="lenovo" creationdate="20200811T015256Z">
+        <seg>• &lt;t0/&gt;（can）能</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>• &lt;t0/&gt;draws a conclusion</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015626Z" creationid="lenovo" creationdate="20200811T015626Z">
-        <seg>• &lt;t0/&gt;得出……结论draws a conclusion</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200906T062717Z" creationid="lenovo" creationdate="20200811T015626Z">
+        <seg>• &lt;t0/&gt;得出……结论</seg>
       </tuv>
     </tu>
     <tu>
@@ -22437,16 +22437,16 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;has a requirement</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015402Z" creationid="lenovo" creationdate="20200811T015402Z">
-        <seg>• &lt;t0/&gt;有……需求</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200906T062849Z" creationid="lenovo" creationdate="20200811T015402Z">
+        <seg>• &lt;t0/&gt;有……需求（has a requirement）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>• &lt;t0/&gt;has the capability</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015428Z" creationid="lenovo" creationdate="20200811T015246Z">
-        <seg>• &lt;t0/&gt;有……能力</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200906T062817Z" creationid="lenovo" creationdate="20200811T015246Z">
+        <seg>• &lt;t0/&gt;有……能力（has the capability）</seg>
       </tuv>
     </tu>
     <tu>
@@ -22477,24 +22477,24 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;infers</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015618Z" creationid="lenovo" creationdate="20200811T015618Z">
-        <seg>• &lt;t0/&gt;推断</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200906T062939Z" creationid="lenovo" creationdate="20200811T015618Z">
+        <seg>• &lt;t0/&gt;推断（infers）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>• &lt;t0/&gt;is capable</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015304Z" creationid="lenovo" creationdate="20200811T015304Z">
-        <seg>• &lt;t0/&gt;可以</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200906T062832Z" creationid="lenovo" creationdate="20200811T015304Z">
+        <seg>• &lt;t0/&gt;可以（is capable）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>• &lt;t0/&gt;is in agreement</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015503Z" creationid="lenovo" creationdate="20200811T015503Z">
-        <seg>• &lt;t0/&gt;与……一致</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200906T062910Z" creationid="lenovo" creationdate="20200811T015503Z">
+        <seg>• &lt;t0/&gt;与……一致（is in agreement）</seg>
       </tuv>
     </tu>
     <tu>
@@ -22509,16 +22509,16 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;performs the printing</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015548Z" creationid="lenovo" creationdate="20200811T015548Z">
-        <seg>• &lt;t0/&gt;完成打印</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200906T062931Z" creationid="lenovo" creationdate="20200811T015548Z">
+        <seg>• &lt;t0/&gt;完成打印（performs the printing）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>• &lt;t0/&gt;prints</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015531Z" creationid="lenovo" creationdate="20200811T015531Z">
-        <seg>• &lt;t0/&gt;打印</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200906T062920Z" creationid="lenovo" creationdate="20200811T015531Z">
+        <seg>• &lt;t0/&gt;打印（prints）</seg>
       </tuv>
     </tu>
     <tu>
@@ -22533,8 +22533,8 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;requires</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015309Z" creationid="lenovo" creationdate="20200811T015309Z">
-        <seg>• &lt;t0/&gt;需要</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200906T062841Z" creationid="lenovo" creationdate="20200811T015309Z">
+        <seg>• &lt;t0/&gt;需要（requires）</seg>
       </tuv>
     </tu>
     <tu>
