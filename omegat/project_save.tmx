@@ -7642,8 +7642,8 @@
       <tuv lang="en">
         <seg>For the milkshake example, the selected standard will be LwDITA, authored in the following two options:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T151321Z" creationid="lenovo" creationdate="20200901T123532Z">
-        <seg>对于奶昔示例而言，选定的标准将是 LwDITA，由以下两个选项编写：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T151927Z" creationid="lenovo" creationdate="20200901T123532Z">
+        <seg>对于奶昔示例而言，选定的标准将是 LwDITA，创作工具链有以下2个选择：</seg>
       </tuv>
     </tu>
     <tu>
@@ -13030,8 +13030,8 @@
       <tuv lang="en">
         <seg>Option b: With the LwDITA-aware application Oxygen XML, and with content and source code stored and delivered in GitHub and GitHub Pages, respectively.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T123551Z" creationid="lenovo" creationdate="20200901T123551Z">
-        <seg>选项b：使用支持LwDITA的应用程序Oxygen XML，以及分别在GitHub和GitHub Pages中存储和交付的内容和源代码。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T151653Z" creationid="lenovo" creationdate="20200901T123551Z">
+        <seg>选项b：使用支持LwDITA的应用程序Oxygen XML，源代码存储在 GitHub 中，由 GitHub Pages 交付。</seg>
       </tuv>
     </tu>
     <tu>
