@@ -1107,8 +1107,8 @@
       <tuv lang="en">
         <seg>&lt;t2/&gt;This highly structured task topic reads like a smoothie that came out of a blender combining generic, organizational, and disciplinary conven&lt;t3/&gt;tions and commonplaces from Carroll, Price, and Hargis and her co-authors, and others who attempted to capture the essence of technical documentation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T062030Z" creationid="lenovo" creationdate="20200811T130951Z">
-        <seg>&lt;t2/&gt;&lt;t3/&gt;这种高度结构化的任务主题更像是一个融合产物，融合了通用型、组织架构型、和规范型惯例，以及卡罗尔、哈吉斯和其合著者以及其他想要抓住技术文档本质的人的常规做法。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T070810Z" creationid="lenovo" creationdate="20200811T130951Z">
+        <seg>&lt;t2/&gt;&lt;t3/&gt;这种高度结构化的任务主题更像是一个融合产物，融合了通用型、组织架构型、和规范型规范，以及卡罗尔、哈吉斯和其合著者以及其他想要抓住技术文档本质的人的常规做法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1411,8 +1411,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;Studies about rhetorical conventions in technical and professional communication genres have not disappeared, as Kim Sydow Campbell and Jefrey S. Naidoo showed on their study of structural moves in marketing white papers (Campbell &lt;t4/&gt;&amp; &lt;t5/&gt;Naidoo, &lt;t6/&gt;2017).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T121911Z" creationid="lenovo" creationdate="20200808T021456Z">
-        <seg>&lt;t3/&gt;金·西多·坎贝尔和杰弗雷·奈杜在研究市场营销白皮书中的结构文步时指出，对专业技术传播体裁中修辞惯例的研究并未消失。 (Campbell &lt;t4/&gt;&amp; &lt;t5/&gt;Naidoo, &lt;t6/&gt;2017).</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T070810Z" creationid="lenovo" creationdate="20200808T021456Z">
+        <seg>&lt;t3/&gt;金·西多·坎贝尔和杰弗雷·奈杜在研究市场营销白皮书中的结构文步时指出，对专业技术传播体裁中修辞规范的研究并未消失。 (Campbell &lt;t4/&gt;&amp; &lt;t5/&gt;Naidoo, &lt;t6/&gt;2017).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1643,8 +1643,8 @@
       <tuv lang="en">
         <seg>&lt;t4/&gt;In Rigo's out&lt;t5/&gt;line, “each statement, command, option, parameter, or similar independent item” requires the name of the statement or command, a paragraph describing its function, a formal definition using the documentation conventions stated in the Introduction, examples of valid commands/statements, summary of rules, and additional examples as needed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T161828Z" creationid="lenovo" creationdate="20200809T235345Z">
-        <seg>里戈的大纲中，“所有语句、命令、参数或类似的独立项”需要标明语句或命令的名称、一段功能介绍、基于简介中的文档惯例所确定的正式定义、有效命令或语句的示例、规则总结，以及需要的其他示例。&lt;t4/&gt;&lt;t5/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T070810Z" creationid="lenovo" creationdate="20200809T235345Z">
+        <seg>里戈的大纲中，“所有语句、命令、参数或类似的独立项”需要标明语句或命令的名称、一段功能介绍、基于简介中的文档规范所确定的正式定义、有效命令或语句的示例、规则总结，以及需要的其他示例。&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1779,8 +1779,8 @@
       <tuv lang="en">
         <seg>&lt;t5/&gt;Following their model, the rhetorical conventions of a technical manual presented by Cohen and Cunningham can be described as generic &lt;t6/&gt;- &lt;t7/&gt;they were specific to a genre (the technical manual).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200906T062602Z" creationid="lenovo" creationdate="20200810T073211Z">
-        <seg>&lt;t5/&gt;根据他们的模型，柯亨和坎宁安提出的技术手册的修辞惯例可以说是通用的&lt;t6/&gt;——&lt;t7/&gt;而以往的修辞惯例仅适用于特定体裁（即技术手册）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T070810Z" creationid="lenovo" creationdate="20200810T073211Z">
+        <seg>&lt;t5/&gt;根据他们的模型，柯亨和坎宁安提出的技术手册的修辞规范可以说是通用的&lt;t6/&gt;——&lt;t7/&gt;而以往的修辞规范仅适用于特定体裁（即技术手册）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2075,8 +2075,8 @@
       <tuv lang="en">
         <seg>&lt;t7/&gt;For a discourse community of technical communicators producing computer manuals before the dawn of minimalism in technical communication, those rhetorical conven&lt;t8/&gt;tions were documented and analyzed in computing-related publications &lt;t9/&gt;- &lt;t10/&gt;and those are the origins of LwDITA and intelligent content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T155322Z" creationid="lenovo" creationdate="20200808T021917Z">
-        <seg>&lt;t7/&gt;&lt;t8/&gt;在极简主义进入技术传播领域前，在由撰写计算机手册的技术传播工程师所组成的话语体系中，计算机相关的出版物中记录并分析了这些修辞惯例&lt;t9/&gt;- &lt;t10/&gt;并且这些惯例成为了轻量级DITA的起源。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T070810Z" creationid="lenovo" creationdate="20200808T021917Z">
+        <seg>&lt;t7/&gt;&lt;t8/&gt;在极简主义进入技术传播领域前，在由撰写计算机手册的技术传播工程师所组成的话语体系中，计算机相关的出版物中记录并分析了这些修辞规范&lt;t9/&gt;- &lt;t10/&gt;并且这些规范成为了轻量级DITA的起源。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2827,8 +2827,8 @@
       <tuv lang="en">
         <seg>Adding to the conversation about turning characteristics into elements or conventions, Carey et al.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T042345Z" creationid="lenovo" creationdate="20200811T030902Z">
-        <seg>凯里（Carey）等人还谈到了如何将特征转化为元素或惯例。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T070810Z" creationid="lenovo" creationdate="20200811T030902Z">
+        <seg>凯里（Carey）等人还谈到了如何将特征转化为元素或规范。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3515,8 +3515,8 @@
       <tuv lang="en">
         <seg>And then the file has a few moves/ genre conventions of the introductory topic: a short description (&lt;t1/&gt;&lt;shortdesc&gt;),</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T074812Z" creationid="lenovo" creationdate="20200812T034653Z">
-        <seg>文件包含介绍性主题所有的一些文步或者说体裁惯例：一个简短的描述 (&lt;t1/&gt;&lt;shortdesc&gt;),</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T070810Z" creationid="lenovo" creationdate="20200812T034653Z">
+        <seg>文件包含介绍性主题所有的一些文步或者说体裁规范：一个简短的描述 (&lt;t1/&gt;&lt;shortdesc&gt;),</seg>
       </tuv>
     </tu>
     <tu>
@@ -4931,8 +4931,8 @@
       <tuv lang="en">
         <seg>Cohen (then a technical writer at IBM) and Cunningham (then a profes&lt;t0/&gt;sor of technical and professional writing at Texas Tech University) were quite prescriptive when documenting rhetorical conventions of the manual.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T030406Z" creationid="lenovo" creationdate="20200810T025821Z">
-        <seg>柯亨（当时是IBM的一技术文档工程师）和坎宁安（当时是德克萨斯理工大学专业技术写作方向的教授）起草的手册修辞惯例相当规范。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T070810Z" creationid="lenovo" creationdate="20200810T025821Z">
+        <seg>柯亨（当时是IBM的一技术文档工程师）和坎宁安（当时是德克萨斯理工大学专业技术写作方向的教授）起草的手册修辞规范相当规范。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5166,8 +5166,8 @@
       <tuv lang="en">
         <seg>Content structured with XDITA is also compatible with DITA; i.e., all XDITA topical compo&lt;t0/&gt;nents share syntax conventions with DITA, and collections of DITA topics can include XDITA files.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T123758Z" creationid="lenovo" creationdate="20200813T021402Z">
-        <seg>使用XDITA构造的内容也与DITA兼容；例如，XDITA的所有主题组件与DITA都适用相同的语法惯例，XDITA文件能够使用DITA主题集。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T070810Z" creationid="lenovo" creationdate="20200813T021402Z">
+        <seg>使用XDITA构造的内容也与DITA兼容；例如，XDITA的所有主题组件与DITA都适用相同的语法规范，XDITA文件能够使用DITA主题集。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7322,8 +7322,8 @@
       <tuv lang="en">
         <seg>Focusing on a different genre of technical writing, Carolyn Miller and Jack Selzer analyzed the structure and argumentation elements of technical reports by detailing their rhetorical conventions, or topical basis of discourse.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T033628Z" creationid="lenovo" creationdate="20200810T072714Z">
-        <seg>卡洛琳·米勒（Carolyn Miller）和杰克·瑟尔泽（Jack Selzer）以技术写作的不同体裁作为研究重点，通过仔细研究其修辞惯例或语篇主题基础，分析了技术报告的结构和论证要素。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T070810Z" creationid="lenovo" creationdate="20200810T072714Z">
+        <seg>卡洛琳·米勒（Carolyn Miller）和杰克·瑟尔泽（Jack Selzer）以技术写作的不同体裁作为研究重点，通过仔细研究其修辞规范或语篇主题基础，分析了技术报告的结构和论证要素。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7506,8 +7506,8 @@
       <tuv lang="en">
         <seg>For example, Linda Flower explored transferable tasks in professional writing through the use of schemas and writing plans, acknowledging that “many discourse conventions are, in fact, formalizations of rhetorical moves” (Flower, &lt;t0/&gt;1989, &lt;t1/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T153535Z" creationid="lenovo" creationdate="20200807T014143Z">
-        <seg>例如，琳达·弗劳尔（Linda Flower）通过图式和写作计划探索了专业写作中的可转换的任务，她承认“实际上，很多语篇惯例不过是修辞文步的正式形式。” (Flower, &lt;t0/&gt;1989, &lt;t1/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T070810Z" creationid="lenovo" creationdate="20200807T014143Z">
+        <seg>例如，琳达·弗劳尔（Linda Flower）通过图式和写作计划探索了专业写作中的可转换的任务，她承认“实际上，很多语篇规范不过是修辞文步的正式形式。” (Flower, &lt;t0/&gt;1989, &lt;t1/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7906,8 +7906,8 @@
       <tuv lang="en">
         <seg>Going back to the Miller and Selzer taxonomy of topical conventions, that early work captured the generic structures of fixed types that included the classical DITA trio of concept, task, and reference.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T042729Z" creationid="lenovo" creationdate="20200811T073851Z">
-        <seg>回到米勒和瑟尔泽对主题惯例的分类，早期工作抓住了固定类型的通用结构，其中包括经典DITA的三大支柱——概念（concept）、任务（task）和引用（reference）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T070810Z" creationid="lenovo" creationdate="20200811T073851Z">
+        <seg>回到米勒和瑟尔泽对主题规范的分类，早期工作抓住了固定类型的通用结构，其中包括经典DITA的三大支柱——概念（concept）、任务（task）和引用（reference）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8074,8 +8074,8 @@
       <tuv lang="en">
         <seg>Hargis specified that the quality characteristics were not presented as generic conventions or, as she called them, “elements”.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T014424Z" creationid="lenovo" creationdate="20200811T014424Z">
-        <seg>哈吉斯指出，质量特征不是作为通用的惯例或她所说的“要素”来呈现的。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T070810Z" creationid="lenovo" creationdate="20200811T014424Z">
+        <seg>哈吉斯指出，质量特征不是作为通用的规范或她所说的“要素”来呈现的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9332,8 +9332,8 @@
       <tuv lang="en">
         <seg>In &lt;t0/&gt;Chapter&lt;t1/&gt; &lt;t2/&gt;1&lt;t3/&gt;, &lt;t4/&gt;I gave a brief historical overview of the early DITA days at IBM, when the Customer and Service Information (C&amp;SI), with work primarily conducted by Dave Schell, Don Day, and Michael Priestley started exploring XML as a lan&lt;t5/&gt;guage to create tags that would create templates for the genre conventions of commonly used content structures in the company's documentation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130931Z" creationid="lenovo" creationdate="20200811T073508Z">
-        <seg>在 &lt;t0/&gt;第一&lt;t1/&gt; &lt;t2/&gt;章中&lt;t3/&gt;, &lt;t4/&gt;&lt;t5/&gt;我简短回顾了DITA在IBM的早期发展史，戴夫·席尔、唐·戴以及迈克尔·普里斯特利做出了杰出贡献，彼时用户与服务信息部门开始探索将XML作为一门语言来创建标签，为通用内容结构的体裁惯例创建模板，并应用至公司的所有文档。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T070810Z" creationid="lenovo" creationdate="20200811T073508Z">
+        <seg>在 &lt;t0/&gt;第一&lt;t1/&gt; &lt;t2/&gt;章中&lt;t3/&gt;, &lt;t4/&gt;&lt;t5/&gt;我简短回顾了DITA在IBM的早期发展史，戴夫·席尔、唐·戴以及迈克尔·普里斯特利做出了杰出贡献，彼时用户与服务信息部门开始探索将XML作为一门语言来创建标签，为通用内容结构的体裁规范创建模板，并应用至公司的所有文档。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11388,8 +11388,8 @@
       <tuv lang="en">
         <seg>Just as the original publication, &lt;t9/&gt;DQTI&lt;t10/&gt; focused more on recommendations than in specific topi&lt;t11/&gt;cal conventions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130926Z" creationid="lenovo" creationdate="20200811T014107Z">
-        <seg>同第一版无异， &lt;t9/&gt;DQTI&lt;t10/&gt;&lt;t11/&gt; 更关注建议而非具体的主题惯例。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T070810Z" creationid="lenovo" creationdate="20200811T014107Z">
+        <seg>同第一版无异， &lt;t9/&gt;DQTI&lt;t10/&gt;&lt;t11/&gt; 更关注建议而非具体的主题规范。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12966,8 +12966,8 @@
       <tuv lang="en">
         <seg>One of the many approaches I have adopted to introduce the DITA standard in a human- ities-based Professional and Technical Writing curriculum is to present those elements as rhetorical conventions of our specialized discourse community.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T062507Z" creationid="lenovo" creationdate="20200811T143037Z">
-        <seg>我在专业技术写作课程中引入DITA采用的方法之一，就是将这些元素作为我们专业话语社区的修辞惯例来呈现。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T070810Z" creationid="lenovo" creationdate="20200811T143037Z">
+        <seg>我在专业技术写作课程中引入DITA采用的方法之一，就是将这些元素作为我们专业话语社区的修辞规范来呈现。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13390,8 +13390,8 @@
       <tuv lang="en">
         <seg>Price's conventions and recommendations were presented with the ultimate goal of creating “friendly manuals,” which the author posited as the antidote against bad manuals of the past.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T074317Z" creationid="lenovo" creationdate="20200810T074317Z">
-        <seg>普莱斯提出的惯例和建议的最终目的是创造“友好的手册”，作者将其作为解救过去糟糕手册的一剂良药。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T070810Z" creationid="lenovo" creationdate="20200810T074317Z">
+        <seg>普莱斯提出的规范和建议的最终目的是创造“友好的手册”，作者将其作为解救过去糟糕手册的一剂良药。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13414,8 +13414,8 @@
       <tuv lang="en">
         <seg>Price's separation of a manual's text into content types estab&lt;t0/&gt;lishes a distinction between tutorial (“offers step-by-step training focused on a particular activity”) and reference (“offers procedures that users can apply in many different circumstances”) writing conventions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T031732Z" creationid="lenovo" creationdate="20200810T080802Z">
-        <seg>普莱斯将手册的文本划分成不同的内容类型，在教程型（“针对特定活动提供逐步培训”）和参考型（“提供用户多个不同场景下采用的流程”）写作惯例间做了区分。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T070810Z" creationid="lenovo" creationdate="20200810T080802Z">
+        <seg>普莱斯将手册的文本划分成不同的内容类型，在教程型（“针对特定活动提供逐步培训”）和参考型（“提供用户多个不同场景下采用的流程”）写作规范间做了区分。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13438,8 +13438,8 @@
       <tuv lang="en">
         <seg>Priestley and his co-authors addressed the evolution of the manual as it became a collection of topics with “fine-grained” moves to signal or tag specific conventions:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T061744Z" creationid="lenovo" creationdate="20200811T094144Z">
-        <seg>普里斯特利和他的合著者表示，手册演变成了一个主题集合，用“细粒度”文步来标志或标记特定惯例：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T070810Z" creationid="lenovo" creationdate="20200811T094144Z">
+        <seg>普里斯特利和他的合著者表示，手册演变成了一个主题集合，用“细粒度”文步来标志或标记特定规范：</seg>
       </tuv>
     </tu>
     <tu>
@@ -14361,8 +14361,8 @@
       <tuv lang="en">
         <seg>Some of Price's recommendations transcended to the third kind of rhetorical convention proposed by Miller and Selzer, as they became disciplinary moves or commonplaces.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T080405Z" creationid="lenovo" creationdate="20200810T080405Z">
-        <seg>普莱斯提出的一些建议成为了金科玉律或者说是规绳矩墨，已然超越了米勒和塞尔泽提倡的第三种修辞惯例。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T070810Z" creationid="lenovo" creationdate="20200810T080405Z">
+        <seg>普莱斯提出的一些建议成为了金科玉律或者说是规绳矩墨，已然超越了米勒和塞尔泽提倡的第三种修辞规范。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15675,8 +15675,8 @@
       <tuv lang="en">
         <seg>The Introduction should also note any documen&lt;t1/&gt;tation conventions used in the manual (all caps means that words should be coded exactly as printed, lower case describes a user entry point, braces rep&lt;t2/&gt;resent a mandatory choice, brackets represent optional parameters, etc.) Rigo added that if “the system does not function as described, users will quickly lose faith in the manual.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T161001Z" creationid="lenovo" creationdate="20200809T021613Z">
-        <seg>简介同样应当注明手册中使用的文档惯例（全字母大写意味着该词应同印刷品采用相同的编码格式，小写代表用户入口，花括号代表必选项而方括号代表可选参数等。）里戈补充到，如果“系统没有按照描述的运行，用户很快就会对手册失去信任。”&lt;t1/&gt;&lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T070810Z" creationid="lenovo" creationdate="20200809T021613Z">
+        <seg>简介同样应当注明手册中使用的文档规范（全字母大写意味着该词应同印刷品采用相同的编码格式，小写代表用户入口，花括号代表必选项而方括号代表可选参数等。）里戈补充到，如果“系统没有按照描述的运行，用户很快就会对手册失去信任。”&lt;t1/&gt;&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15851,8 +15851,8 @@
       <tuv lang="en">
         <seg>The October &lt;t0/&gt;1975 &lt;t1/&gt;edition of &lt;t2/&gt;Asterisk&lt;t3/&gt; (the “Systems Documentation Newsletter” from the Association for Computing Machinery) included a glimpse of a techni&lt;t4/&gt;cal manual's rhetorical conventions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T155552Z" creationid="lenovo" creationdate="20200808T024955Z">
-        <seg>1975年 &lt;t0/&gt;10月 &lt;t1/&gt;版的 &lt;t2/&gt;Asterisk&lt;t3/&gt;&lt;t4/&gt; (计算机协会的“系统文档通讯简报”) 中就对修辞惯例做了简要的描述。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T070810Z" creationid="lenovo" creationdate="20200808T024955Z">
+        <seg>1975年 &lt;t0/&gt;10月 &lt;t1/&gt;版的 &lt;t2/&gt;Asterisk&lt;t3/&gt;&lt;t4/&gt; (计算机协会的“系统文档通讯简报”) 中就对修辞规范做了简要的描述。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16123,8 +16123,8 @@
       <tuv lang="en">
         <seg>The authors did not present them as, say, the official rhetorical conventions for manuals at IBM. Jonathan Price, however, did move beyond the generic conventions and crossed into the organizational or institutional type of topical convention in his &lt;t8/&gt;1984 &lt;t9/&gt;book &lt;t10/&gt;How to Write a Computer Manual: A Handbook of Software Documentation&lt;t11/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T033628Z" creationid="lenovo" creationdate="20200810T073345Z">
-        <seg>作者并没有把它们作为，比如说，IBM手册的官方修辞惯例。乔纳森·普莱斯（Jonathan Price）1984年出版的《如何编写计算机手册：软件文档手册》的确从通用惯例的基础上往前迈了一步，开创了组织机构型主题惯例。&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T070810Z" creationid="lenovo" creationdate="20200810T073345Z">
+        <seg>作者并没有把它们作为，比如说，IBM手册的官方修辞规范。乔纳森·普莱斯（Jonathan Price）1984年出版的《如何编写计算机手册：软件文档手册》的确从通用规范的基础上往前迈了一步，开创了组织机构型主题规范。&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16379,8 +16379,8 @@
       <tuv lang="en">
         <seg>The conventions he identified had the purpose of keeping the document's contents in order and make it easier to access for a reader.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T025803Z" creationid="lenovo" creationdate="20200810T003539Z">
-        <seg>他界定的惯例旨在保持文档有序的结构，并使得读者更易获得所需信息。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T070810Z" creationid="lenovo" creationdate="20200810T003539Z">
+        <seg>他界定的规范旨在保持文档有序的结构，并使得读者更易获得所需信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16507,8 +16507,8 @@
       <tuv lang="en">
         <seg>The element types in DITA also inherited generic, institutional, and disciplinary conventions from another title that was originally published in the 1980s: IBM's &lt;t2/&gt;Producing Quality Technical Information.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130916Z" creationid="lenovo" creationdate="20200810T130833Z">
-        <seg>DITA的元素类型同样继承了IBM在20世纪80年代首次出版的《产出高质量技术信息》一书中的通用型、组织型和规范型惯例。&lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T070810Z" creationid="lenovo" creationdate="20200810T130833Z">
+        <seg>DITA的元素类型同样继承了IBM在20世纪80年代首次出版的《产出高质量技术信息》一书中的通用型、组织型和规范型规范。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16862,8 +16862,8 @@
       <tuv lang="en">
         <seg>The implementation of quality characteristics into actual XML elements and conventions is all over those three parts, but it is mainly represented in the work to be performed by authors as part of their work to “fix the content” by catego&lt;t0/&gt;rizing topics by type of information.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T043908Z" creationid="lenovo" creationdate="20200811T080953Z">
-        <seg>这三个部分贯穿了将质量特征运用到实际的XML元素和惯例中的过程，但它主要体现在创作者要完成的工作中，即通过按信息类型对主题进行分类来“固定内容”。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T070810Z" creationid="lenovo" creationdate="20200811T080953Z">
+        <seg>这三个部分贯穿了将质量特征运用到实际的XML元素和规范中的过程，但它主要体现在创作者要完成的工作中，即通过按信息类型对主题进行分类来“固定内容”。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17278,8 +17278,8 @@
       <tuv lang="en">
         <seg>The plan sheets from Cohen and Cunningham covered the following conventions of the manual as a genre of technical writing:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T065602Z" creationid="lenovo" creationdate="20200810T065602Z">
-        <seg>柯亨和坎宁安提出的计划表包含以下内容，这些内容同样是作为技术写作体裁存在的手册所遵循的惯例：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T070810Z" creationid="lenovo" creationdate="20200810T065602Z">
+        <seg>柯亨和坎宁安提出的计划表包含以下内容，这些内容同样是作为技术写作体裁存在的手册所遵循的规范：</seg>
       </tuv>
     </tu>
     <tu>
@@ -17462,8 +17462,8 @@
       <tuv lang="en">
         <seg>The rationale for the task is in the &lt;t0/&gt;&lt;context&gt; &lt;t1/&gt;element; it represents the conventional move of telling the user when or why to complete the procedure/ recipe.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T130641Z" creationid="lenovo" creationdate="20200811T141540Z">
-        <seg>任务的合理解释包含在&lt;context&gt;元素中；它是一种惯例文步，告诉用户何时或为何要完成这一步骤或菜谱。&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T070810Z" creationid="lenovo" creationdate="20200811T141540Z">
+        <seg>任务的合理解释包含在&lt;context&gt;元素中；它是一种规范文步，告诉用户何时或为何要完成这一步骤或菜谱。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17662,8 +17662,8 @@
       <tuv lang="en">
         <seg>The second edition provided new details on the difference between the guidelines and the elements (topical conventions) that put those guidelines into practice.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T025311Z" creationid="lenovo" creationdate="20200811T025311Z">
-        <seg>第二版提供了新的细节信息，阐明指导方针和将方针运用到实践中的元素（主题惯例）间的区别。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T070810Z" creationid="lenovo" creationdate="20200811T025311Z">
+        <seg>第二版提供了新的细节信息，阐明指导方针和将方针运用到实践中的元素（主题规范）间的区别。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17742,8 +17742,8 @@
       <tuv lang="en">
         <seg>The sections identified in Rigo's outline provide a rich description of the genre's rhetorical conventions (or at least those identified by the author), which include the following:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200809T235429Z" creationid="lenovo" creationdate="20200808T082241Z">
-        <seg>里戈在大纲中定义的章节详尽地阐述了体裁的修辞惯例（至少是作者定义的那些惯例），包括以下内容：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T070810Z" creationid="lenovo" creationdate="20200808T082241Z">
+        <seg>里戈在大纲中定义的章节详尽地阐述了体裁的修辞规范（至少是作者定义的那些规范），包括以下内容：</seg>
       </tuv>
     </tu>
     <tu>
@@ -18438,8 +18438,8 @@
       <tuv lang="en">
         <seg>Then, some of the topical conventions included in the XML tags are equivalent to the essen&lt;t7/&gt;tial moves of technical communication from Table 2, including &lt;t8/&gt;&lt;shortdesc&gt; &lt;t9/&gt;as a staging move and &lt;t10/&gt;&lt;step&gt; &lt;t11/&gt;as a coaching move.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T075931Z" creationid="lenovo" creationdate="20200812T040510Z">
-        <seg>XML标记中包含的一些主题惯例与表2.2中展示的技术传播中的基本文步对等，包括作为筹划文步的&lt;t7/&gt;&lt;t8/&gt;&lt;shortdesc&gt; &lt;t9/&gt;，作为指导文步的&lt;t10/&gt;&lt;step&gt; &lt;t11/&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T070810Z" creationid="lenovo" creationdate="20200812T040510Z">
+        <seg>XML标记中包含的一些主题规范与表2.2中展示的技术传播中的基本文步对等，包括作为筹划文步的&lt;t7/&gt;&lt;t8/&gt;&lt;shortdesc&gt; &lt;t9/&gt;，作为指导文步的&lt;t10/&gt;&lt;step&gt; &lt;t11/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18550,8 +18550,8 @@
       <tuv lang="en">
         <seg>Therefore, iden&lt;t5/&gt;tifying genre conventions in this text was not as direct as it was in other how-to titles about creating documentation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130925Z" creationid="lenovo" creationdate="20200810T170309Z">
-        <seg>因此，在这本书中确定体裁惯例并不像在介绍如何创作文档的标题中那样直接。&lt;t5/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T070810Z" creationid="lenovo" creationdate="20200810T170309Z">
+        <seg>因此，在这本书中确定体裁规范并不像在介绍如何创作文档的标题中那样直接。&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19142,8 +19142,8 @@
       <tuv lang="en">
         <seg>This move also planted the seed for disciplinary conventions, as topic-based authoring for online deliverable replaced the long print format of documentation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T033628Z" creationid="lenovo" creationdate="20200810T120851Z">
-        <seg>随着基于主题的在线可交付内容创作取代了长期存在的纸质文档，这一步也为规范性惯例埋下伏笔。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T070810Z" creationid="lenovo" creationdate="20200810T120851Z">
+        <seg>随着基于主题的在线可交付内容创作取代了长期存在的纸质文档，这一步也为规范性规范埋下伏笔。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19374,8 +19374,8 @@
       <tuv lang="en">
         <seg>Those conventions, or content commonplaces, specific to the genre of task identified by the DITA architects, created quite the strict template that came with many of the benefits I have mentioned in previous chapters.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T062446Z" creationid="lenovo" creationdate="20200811T142354Z">
-        <seg>那些作用于DITA架构师定义的任务体裁惯例或内容常规，创建了相当严格的模板，带来了我在前几章中提到的诸多好处。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T070810Z" creationid="lenovo" creationdate="20200811T142354Z">
+        <seg>那些作用于DITA架构师定义的任务体裁规范或内容常规，创建了相当严格的模板，带来了我在前几章中提到的诸多好处。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19414,8 +19414,8 @@
       <tuv lang="en">
         <seg>Those moves advanced from the organizational realm (Apple Computer, in his case) and became dis&lt;t1/&gt;ciplinary conventions: task and reference (along with concept) are the main content types associated with the DITA standard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130914Z" creationid="lenovo" creationdate="20200810T081056Z">
-        <seg>从组织领域（他举的案例是Apple Computer）脱胎的这些文步成为了规范性惯例：任务和参考（以及概念）是与DITA标准密切相关的内容类型。&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T070810Z" creationid="lenovo" creationdate="20200810T081056Z">
+        <seg>从组织领域（他举的案例是Apple Computer）脱胎的这些文步成为了规范性规范：任务和参考（以及概念）是与DITA标准密切相关的内容类型。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20281,8 +20281,8 @@
       <tuv lang="en">
         <seg>When other companies heard about DITA and tried to create their own archi&lt;t11/&gt;tectures for authoring and publishing, the topical conventions moved to the disciplinary category, which started when IBM announced, on March &lt;t12/&gt;15, 2001 &lt;t13/&gt;that they “were going public with an architecture for technical documentation using XML” (Priestley, 2001a), and then culminated with the release of DITA &lt;t14/&gt;1.0 &lt;t15/&gt;as an open standard in &lt;t16/&gt;2005.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T043225Z" creationid="lenovo" creationdate="20200811T075309Z">
-        <seg>当其他公司听说DITA，并试图创建自己的写作和出版架构时，主题惯例转向了规范性惯例。起点是IBM在2001年 &lt;t11/&gt;&lt;t12/&gt;3月15日 &lt;t13/&gt;宣布他们“要公开一个使用XML的技术文档架构”(Priestley, 2001a)，最后，在2005年，DITA &lt;t14/&gt;1.0 &lt;t15/&gt;&lt;t16/&gt;作为开放标准发布。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T070810Z" creationid="lenovo" creationdate="20200811T075309Z">
+        <seg>当其他公司听说DITA，并试图创建自己的写作和出版架构时，主题规范转向了规范性规范。起点是IBM在2001年 &lt;t11/&gt;&lt;t12/&gt;3月15日 &lt;t13/&gt;宣布他们“要公开一个使用XML的技术文档架构”(Priestley, 2001a)，最后，在2005年，DITA &lt;t14/&gt;1.0 &lt;t15/&gt;&lt;t16/&gt;作为开放标准发布。</seg>
       </tuv>
     </tu>
     <tu>
