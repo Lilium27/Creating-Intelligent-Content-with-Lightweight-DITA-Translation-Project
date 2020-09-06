@@ -440,8 +440,8 @@
       <tuv lang="en">
         <seg>&lt;t0/&gt;Figure &lt;t1/&gt;6.41&lt;t2/&gt; &lt;t3/&gt;shows how the preformatted text component (&lt;t4/&gt;&lt;pre&gt;&lt;t5/&gt;) in XDITA preserves the stanza or set of lines in the promise creed of &lt;t6/&gt;Sensei Sushi&lt;t7/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200827T044647Z" creationid="lenovo" creationdate="20200819T151827Z">
-        <seg>&lt;t0/&gt;图 &lt;t1/&gt;6.41&lt;t2/&gt; &lt;t3/&gt;展示了XDITA中预格式化文本组件(&lt;t4/&gt;&lt;pre&gt;&lt;t5/&gt;)是如何保存&lt;t6/&gt;唤醒寿司&lt;t7/&gt;承诺条款中的节选或段落片段的。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T063449Z" creationid="lenovo" creationdate="20200819T151827Z">
+        <seg>&lt;t0/&gt;图 &lt;t1/&gt;6.41&lt;t2/&gt; &lt;t3/&gt;展示了XDITA中预格式化文本组件(&lt;t4/&gt;&lt;pre&gt;&lt;t5/&gt;)是如何保存&lt;t6/&gt;Sensei Sushi&lt;t7/&gt;承诺条款中的节选或段落片段的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6456,40 +6456,40 @@
       <tuv lang="en">
         <seg>FIGURE 6.60 &lt;t0/&gt;XDITA map for the cross-format version of the &lt;t1/&gt;Sensei Sushi&lt;t2/&gt; &lt;t3/&gt;brochure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T135927Z" creationid="lenovo" creationdate="20200827T135349Z">
-        <seg>图 6.60 &lt;t0/&gt;用于唤醒寿司手册的XDITA版本的跨格式映射地图。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T063449Z" creationid="lenovo" creationdate="20200827T135349Z">
+        <seg>图 6.60 &lt;t0/&gt;用于Sensei Sushi手册的XDITA版本的跨格式映射地图。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE 6.61 &lt;t0/&gt;Command for the DITA-OT to generate a PDF deliverable from the&lt;t1/&gt; cross-format &lt;t2/&gt;Sensei Sushi&lt;t3/&gt; XDITA map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T135545Z" creationid="lenovo" creationdate="20200827T141238Z">
-        <seg>图 6.61 利用&lt;t0/&gt;DITA-OT&lt;t1/&gt;转换跨格式的 &lt;t2/&gt;唤醒寿司&lt;t3/&gt; XDITA映射生成PDF交付文件所需的命令。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T063449Z" creationid="lenovo" creationdate="20200827T141238Z">
+        <seg>图 6.61 利用&lt;t0/&gt;DITA-OT&lt;t1/&gt;转换跨格式的 &lt;t2/&gt;Sensei Sushi&lt;t3/&gt; XDITA映射生成PDF交付文件所需的命令。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE 6.62 &lt;t0/&gt;HDITA map for the cross-format version of the &lt;t1/&gt;Sensei Sushi&lt;t2/&gt; &lt;t3/&gt;brochure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T133523Z" creationid="lenovo" creationdate="20200827T141813Z">
-        <seg>图 6.62 &lt;t0/&gt;用于生成&lt;t1/&gt;唤醒寿司&lt;t2/&gt;手册的HDITA版本的跨格式映射地图。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T063449Z" creationid="lenovo" creationdate="20200827T141813Z">
+        <seg>图 6.62 &lt;t0/&gt;用于生成&lt;t1/&gt;Sensei Sushi&lt;t2/&gt;手册的HDITA版本的跨格式映射地图。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE 6.64 &lt;t0/&gt;MDITA map for the cross-format version of the &lt;t1/&gt;Sensei Sushi&lt;t2/&gt; &lt;t3/&gt;brochure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T140019Z" creationid="lenovo" creationdate="20200827T143135Z">
-        <seg>图6.64 &lt;t0/&gt;用于生成&lt;t1/&gt;唤醒寿司&lt;t2/&gt;手册的MDITA版本的跨格式映射地图。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T063449Z" creationid="lenovo" creationdate="20200827T143135Z">
+        <seg>图6.64 &lt;t0/&gt;用于生成&lt;t1/&gt;Sensei Sushi&lt;t2/&gt;手册的MDITA版本的跨格式映射地图。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE 6.65 &lt;t0/&gt;Command for the DITA-OT to generate a PDF deliverable from the&lt;t1/&gt; cross-format &lt;t2/&gt;Sensei Sushi&lt;t3/&gt; MDITA map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T140234Z" creationid="lenovo" creationdate="20200827T143221Z">
-        <seg>图 6.65 利用DITA-OT转换跨格式的 &lt;t2/&gt;唤醒寿司&lt;t3/&gt; XDITA映射生成PDF交付文件所需的命令。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T063449Z" creationid="lenovo" creationdate="20200827T143221Z">
+        <seg>图 6.65 利用DITA-OT转换跨格式的 &lt;t2/&gt;Sensei Sushi&lt;t3/&gt; XDITA映射生成PDF交付文件所需的命令。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6921,8 +6921,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;6.53 &lt;t1/&gt;Metadata component to identify the author of an XDITA topic.&lt;t2/&gt; Readers of the Sensei Sushi brochure most likely won't know who created the introductory topic, but the information is embedded in the topic for human authors and machine processors with access to the XDITA source.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T132453Z" creationid="lenovo" creationdate="20200825T131546Z">
-        <seg>图 &lt;t0/&gt;6.53 &lt;t1/&gt;元数据组件，用于标识XDITA主题的作者。&lt;t2/&gt; 唤醒寿司手册的读者很可能不知道是谁创作了介绍性主题，但是主题中嵌入的信息是为能够访问XDITA源代码的人类作者和机器处理器准备的。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T063449Z" creationid="lenovo" creationdate="20200825T131546Z">
+        <seg>图 &lt;t0/&gt;6.53 &lt;t1/&gt;元数据组件，用于标识XDITA主题的作者。&lt;t2/&gt; Sensei Sushi手册的读者很可能不知道是谁创作了介绍性主题，但是主题中嵌入的信息是为能够访问XDITA源代码的人类作者和机器处理器准备的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6969,8 +6969,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;6.63 &lt;t1/&gt;Command for the DITA-OT to generate a PDF deliverable from the&lt;t2/&gt; cross-format &lt;t3/&gt;Sensei Sushi&lt;t4/&gt; HDITA map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T135537Z" creationid="lenovo" creationdate="20200827T142341Z">
-        <seg>图&lt;t0/&gt;6.63 &lt;t1/&gt;利用DITA-OT转换跨格式的唤醒寿司HDITA映射生成PDF交付文件所需的命令。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T063449Z" creationid="lenovo" creationdate="20200827T142341Z">
+        <seg>图&lt;t0/&gt;6.63 &lt;t1/&gt;利用DITA-OT转换跨格式的Sensei SushiHDITA映射生成PDF交付文件所需的命令。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7073,8 +7073,8 @@
       <tuv lang="en">
         <seg>Figure 6.45&lt;t0/&gt; includes an MDITA topic with the &lt;t1/&gt;Sensei Sushi&lt;t2/&gt; promise prefor&lt;t3/&gt;matted via the indented code blocks method.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200827T044907Z" creationid="lenovo" creationdate="20200821T132719Z">
-        <seg>图 6.45&lt;t0/&gt; 展示了一个MDITA主题，通过缩进代码块方法预格式化了 &lt;t1/&gt;唤醒寿司&lt;t2/&gt; 的承诺条款。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T063449Z" creationid="lenovo" creationdate="20200821T132719Z">
+        <seg>图 6.45&lt;t0/&gt; 展示了一个MDITA主题，通过缩进代码块方法预格式化了 &lt;t1/&gt;Sensei Sushi&lt;t2/&gt; 的承诺条款。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7105,8 +7105,8 @@
       <tuv lang="en">
         <seg>Figure 6.56&lt;t0/&gt; shows an XDITA topic with an audio element that features the &lt;t1/&gt;Sensei Sushi&lt;t2/&gt; jingle.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T143956Z" creationid="lenovo" creationdate="20200825T135431Z">
-        <seg>图 6.56&lt;t0/&gt; 展示了一个包含音频元素的XDITA主题，该元素可播放唤醒寿司的广告歌曲。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T063449Z" creationid="lenovo" creationdate="20200825T135431Z">
+        <seg>图 6.56&lt;t0/&gt; 展示了一个包含音频元素的XDITA主题，该元素可播放Sensei Sushi的广告歌曲。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7121,8 +7121,8 @@
       <tuv lang="en">
         <seg>Figure 6.62&lt;t0/&gt; displays the HDITA version of the cross-format map to produce the &lt;t1/&gt;Sensei Sushi&lt;t2/&gt; introductory brochure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T133218Z" creationid="lenovo" creationdate="20200827T141437Z">
-        <seg>图 6.62&lt;t0/&gt; 展示了用于创建&lt;t1/&gt;唤醒寿司&lt;t2/&gt;介绍手册的HDITA版本的跨格式映射地图。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T063449Z" creationid="lenovo" creationdate="20200827T141437Z">
+        <seg>图 6.62&lt;t0/&gt; 展示了用于创建&lt;t1/&gt;Sensei Sushi&lt;t2/&gt;介绍手册的HDITA版本的跨格式映射地图。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7210,8 +7210,8 @@
       <tuv lang="en">
         <seg>Figure &lt;t0/&gt;6.49&lt;t1/&gt; &lt;t2/&gt;includes a simple table that presents the ingredients and quanti&lt;t3/&gt;ties needed to prepare the “Fancy Roll” &lt;t4/&gt;一 &lt;t5/&gt;a signature &lt;t6/&gt;Sensei Sushi&lt;t7/&gt; product.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T135928Z" creationid="lenovo" creationdate="20200821T150646Z">
-        <seg>图 &lt;t0/&gt;6.49&lt;t1/&gt; &lt;t2/&gt;展示了一个简单表格组件，表中包含了制作“Fancy Roll” &lt;t4/&gt;——&lt;t5/&gt;&lt;t6/&gt;唤醒寿司&lt;t7/&gt; 的招牌产品所需的配料和数量。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T063449Z" creationid="lenovo" creationdate="20200821T150646Z">
+        <seg>图 &lt;t0/&gt;6.49&lt;t1/&gt; &lt;t2/&gt;展示了一个简单表格组件，表中包含了制作“Fancy Roll” &lt;t4/&gt;——&lt;t5/&gt;&lt;t6/&gt;Sensei Sushi&lt;t7/&gt; 的招牌产品所需的配料和数量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8754,8 +8754,8 @@
       <tuv lang="en">
         <seg>I retake the scenario of Chef Pedro and the &lt;t0/&gt;Sensei Sushi&lt;t1/&gt; content needs in this section.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T131517Z" creationid="lenovo" creationdate="20200826T161033Z">
-        <seg>本节我又会以佩德罗所处场景和唤醒寿司的内容需求为例。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T063449Z" creationid="lenovo" creationdate="20200826T161033Z">
+        <seg>本节我又会以佩德罗所处场景和Sensei Sushi的内容需求为例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9348,8 +9348,8 @@
       <tuv lang="en">
         <seg>In &lt;t0/&gt;Figure &lt;t1/&gt;6.58&lt;t2/&gt;, &lt;t3/&gt;the topic features a video component about the &lt;t4/&gt;Sensei Sushi &lt;t5/&gt;promise.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200827T045050Z" creationid="lenovo" creationdate="20200825T141823Z">
-        <seg>&lt;t0/&gt;图&lt;t1/&gt;6.58&lt;t2/&gt;展示的&lt;t3/&gt;主题包含了一个关于&lt;t4/&gt;唤醒寿司&lt;t5/&gt;承诺条款的视频组件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T063449Z" creationid="lenovo" creationdate="20200825T141823Z">
+        <seg>&lt;t0/&gt;图&lt;t1/&gt;6.58&lt;t2/&gt;展示的&lt;t3/&gt;主题包含了一个关于&lt;t4/&gt;Sensei Sushi&lt;t5/&gt;承诺条款的视频组件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9996,8 +9996,8 @@
       <tuv lang="en">
         <seg>In a publishing environment using DITA or LwDITA, the &lt;t0/&gt;Sensei Sushi&lt;t1/&gt; staff has little to no control over the appearance of text in user deliverables.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T131016Z" creationid="lenovo" creationdate="20200819T151052Z">
-        <seg>在使用DITA或LwDITA的发布环境中，&lt;t0/&gt;唤醒寿司&lt;t1/&gt;的员工几乎不能控制用户交付内容中文本的样式。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T063449Z" creationid="lenovo" creationdate="20200819T151052Z">
+        <seg>在使用DITA或LwDITA的发布环境中，&lt;t0/&gt;Sensei Sushi&lt;t1/&gt;的员工几乎不能控制用户交付内容中文本的样式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11436,8 +11436,8 @@
       <tuv lang="en">
         <seg>Kelly Pender (who actually knows a lot about LwDITA but probably won't admit it), and Russell Willerton helped finding sources, reading chapters, and keeping my disciplinary identity healthy.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T155039Z" creationid="DSS" creationdate="20200819T155015Z">
-        <seg>凯利·潘德（Kelly Pender）和拉塞尔·威勒顿（Russell Willerton）曾帮助寻找资源、阅读材料，鞭策着我保持自律。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T064546Z" creationid="DSS" creationdate="20200819T155015Z">
+        <seg>凯利·潘德（Kelly Pender）和拉塞尔·威勒顿（Russell Willerton）曾帮助寻找资源、阅读材料，。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11492,8 +11492,8 @@
       <tuv lang="en">
         <seg>Lastly, &lt;t0/&gt;Figure 6.64&lt;t1/&gt; shows the MDITA version of the cross-format map for the &lt;t2/&gt;Sensei Sushi&lt;t3/&gt; brochure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T133446Z" creationid="lenovo" creationdate="20200827T141739Z">
-        <seg>最后，图6.64展示了用于创建唤醒寿司介绍手册的MDITA版本的跨格式映射地图。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T063449Z" creationid="lenovo" creationdate="20200827T141739Z">
+        <seg>最后，图6.64展示了用于创建Sensei Sushi介绍手册的MDITA版本的跨格式映射地图。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11692,8 +11692,8 @@
       <tuv lang="en">
         <seg>Let's revisit the &lt;t4/&gt;Sensei Sushi&lt;t5/&gt; content silos,</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T131553Z" creationid="lenovo" creationdate="20200826T161233Z">
-        <seg>我们再来看看唤醒寿司的内容竖井：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T063449Z" creationid="lenovo" creationdate="20200826T161233Z">
+        <seg>我们再来看看Sensei Sushi的内容竖井：</seg>
       </tuv>
     </tu>
     <tu>
@@ -15291,8 +15291,8 @@
       <tuv lang="en">
         <seg>The &lt;t2/&gt;Sensei Sushi&lt;t3/&gt; content could be easily siloed according to different teams' practices and preferred authoring languages.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T131546Z" creationid="lenovo" creationdate="20200826T161208Z">
-        <seg>根据不同团队的实践和首选写作语言，唤醒寿司的内容很容易形成竖井。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T063449Z" creationid="lenovo" creationdate="20200826T161208Z">
+        <seg>根据不同团队的实践和首选写作语言，Sensei Sushi的内容很容易形成竖井。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15411,8 +15411,8 @@
       <tuv lang="en">
         <seg>The Cross-format Sensei Sushi Brochure</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T160917Z" creationid="lenovo" creationdate="20200826T160917Z">
-        <seg>跨格式唤醒寿司手册</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T063449Z" creationid="lenovo" creationdate="20200826T160917Z">
+        <seg>跨格式Sensei Sushi手册</seg>
       </tuv>
     </tu>
     <tu>
@@ -16581,8 +16581,8 @@
       <tuv lang="en">
         <seg>The examples included in this chapter have featured topics for the &lt;t0/&gt;Sensei Sushi&lt;t1/&gt; brochure created in parallel XDITA, HDITA, and MDITA versions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T144359Z" creationid="lenovo" creationdate="20200826T153400Z">
-        <seg>本章中包含的示例分别以XDITA、HDITA和MDITA格式为唤醒寿司手册创建了特色主题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T063449Z" creationid="lenovo" creationdate="20200826T153400Z">
+        <seg>本章中包含的示例分别以XDITA、HDITA和MDITA格式为Sensei Sushi手册创建了特色主题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19118,8 +19118,8 @@
       <tuv lang="en">
         <seg>This means that the &lt;t0/&gt;Sensei Sushi&lt;t1/&gt; brochure designer can use a LwDITA map to aggregate and collect pieces of content, while the legal, kitchen, and market&lt;t2/&gt;ing teams create their content in whatever LwDITA (or DITA XML) format they prefer.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T134624Z" creationid="lenovo" creationdate="20200827T134624Z">
-        <seg>这意味着唤醒寿司手册的设计人员可以使用LwDITA映射来聚合和收集内容片段，而法律、厨房和营销团队则可以使用他们喜欢的LwDITA(或DITA XML)格式来创建内容。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T063449Z" creationid="lenovo" creationdate="20200827T134624Z">
+        <seg>这意味着Sensei Sushi手册的设计人员可以使用LwDITA映射来聚合和收集内容片段，而法律、厨房和营销团队则可以使用他们喜欢的LwDITA(或DITA XML)格式来创建内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21860,8 +21860,8 @@
       <tuv lang="en">
         <seg>“know-how.” As Chef Pedro and his team prepared to translate materials for the &lt;t0/&gt;Sensei Sushi&lt;t1/&gt; operations in Mexico, they realized that “know-how” does not need to be translated for audiences reading Mexican Spanish.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T145557Z" creationid="lenovo" creationdate="20200819T145517Z">
-        <seg>“know-how。”当佩德罗和他的团队准备为&lt;t0/&gt;唤醒寿司&lt;t1/&gt;在墨西哥的业务翻译材料时，他们意识到不需要为阅读墨西哥西班牙语的受众翻译“know-how”。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T063449Z" creationid="lenovo" creationdate="20200819T145517Z">
+        <seg>“know-how。”当佩德罗和他的团队准备为&lt;t0/&gt;Sensei Sushi&lt;t1/&gt;在墨西哥的业务翻译材料时，他们意识到不需要为阅读墨西哥西班牙语的受众翻译“know-how”。 </seg>
       </tuv>
     </tu>
     <tu>
