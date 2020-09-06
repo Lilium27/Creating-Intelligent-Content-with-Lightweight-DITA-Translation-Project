@@ -17350,8 +17350,8 @@
       <tuv lang="en">
         <seg>The process for generating end user deliverables from DITA maps is the same for transforming LwDITA maps (regardless of XDITA, HDITA, or MDITA authoring format).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200807T042224Z" creationid="DSS" creationdate="20200807T042224Z">
-        <seg>从DITA地图生成用户交付物的过程与从 LwDITA 地图（XDITA、HDITA 或 MDITA 写作格式皆可）生成交付物的过程是一样的。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T085531Z" creationid="DSS" creationdate="20200807T042224Z">
+        <seg>从DITA地图生成用户交付物的过程与从 LwDITA 地图（XDITA、HDITA 或 MDITA 写作格式皆可）生成交付物的过程相同。</seg>
       </tuv>
     </tu>
     <tu>
