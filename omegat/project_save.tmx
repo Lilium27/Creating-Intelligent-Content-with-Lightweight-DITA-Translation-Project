@@ -2731,8 +2731,8 @@
       <tuv lang="en">
         <seg>Abstractions in the LwDITA Content Lifecycle &lt;t0/&gt;169 &lt;t1/&gt;the plan includes humans as content developers and curators working with a user experience team to produce end-user deliverables for the soda foun&lt;t2/&gt;tain.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T151130Z" creationid="lenovo" creationdate="20200901T123507Z">
-        <seg>该计划包括内容开发人员和管理人员，他们与用户体验团队合作，以为“冷饮柜台”项目的终端用户生成可交付成果。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T151156Z" creationid="lenovo" creationdate="20200901T123507Z">
+        <seg>该计划包括内容开发人员和管理人员，他们与用户体验团队合作，为“冷饮柜台”项目的终端用户生成可交付成果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7666,8 +7666,8 @@
       <tuv lang="en">
         <seg>For this example,</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T123457Z" creationid="lenovo" creationdate="20200901T123457Z">
-        <seg>对于此示例，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T151251Z" creationid="lenovo" creationdate="20200901T123457Z">
+        <seg>对于冷饮柜台示例而言，</seg>
       </tuv>
     </tu>
     <tu>
