@@ -11092,8 +11092,8 @@
       <tuv lang="en">
         <seg>It is also used to indicate the source for facts or other mate&lt;t1/&gt;rial used in content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131117Z" creationid="DSS" creationdate="20200804T131246Z">
-        <seg>也用来表示内容中引用的事实或其他材料的来源。&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T120951Z" creationid="DSS" creationdate="20200804T131246Z">
+        <seg>也用来表示内容中包含的事实或其他材料的来源。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
