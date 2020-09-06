@@ -13470,8 +13470,8 @@
       <tuv lang="en">
         <seg>Priestley is quoted saying: “In IBM, some folks hate DITA, and they don't even want to use (Microsoft) Word, but (prefer) simple web forms or Markdown syntax.” He added that includ&lt;t0/&gt;ing Markdown in Lightweight DITA could open up “opportunities in both directions, (as it) provides (an) integration point against (the) whole corporate content spectrum” (DITA Technical Committee, 2014).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T133710Z" creationid="DSS" creationdate="20200802T154923Z">
-        <seg>记录里记载了普里斯特利说的话：“在 IBM，有些人讨厌 DITA，甚至不想用（微软的）Word，而（更喜欢）简单的网页表单或 Markdown 语法。”他还说，在轻量级 DITA中 包括 Markdown 可能会打开“两个方向的机会，（因为） Markdown 是公司所有内容的集成点”(DITA Technical Committee, 2014)。 &lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T082938Z" creationid="DSS" creationdate="20200802T154923Z">
+        <seg>记录里记载了普里斯特利说的话：“在 IBM，有些人讨厌 DITA，甚至不想用（微软的）Word，而（更喜欢）简单的网页表单或 Markdown 语法。”他还说，在轻量级 DITA 中包括 Markdown 可能会打开“两个方向的机会，（因为） 融入了 Markdown 的轻量级 DITA 是公司所有内容的集成点”(DITA Technical Committee, 2014)。 &lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
