@@ -6512,8 +6512,8 @@
       <tuv lang="en">
         <seg>FIGURE 6.9 &lt;t0/&gt;Sample MDITA core profile topic with a title component.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T141239Z">
-        <seg>图6.9 &lt;t0/&gt;包含标题组件的 MDITA 主题示例，其中标题使用一级标题表示，</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T115000Z" creationid="DSS" creationdate="20200816T141239Z">
+        <seg>图6.9 &lt;t0/&gt;基于 MDITA 核心概要的主题示例，该主题包含一个标题组件，使用一级标题表示，</seg>
       </tuv>
     </tu>
     <tu>
@@ -10348,8 +10348,8 @@
       <tuv lang="en">
         <seg>In the OASIS publication &lt;t6/&gt;Lightweight DITA: An Introduction&lt;t7/&gt;, we define the MDITA core and extended profiles as follows:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T125550Z" creationid="lenovo" creationdate="20200813T082344Z">
-        <seg>在OASIS出版的 &lt;t6/&gt;《轻量级 DITA 简介》&lt;t7/&gt;中，我们对MDITA的核心和扩展概进行了定义：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T115129Z" creationid="lenovo" creationdate="20200813T082344Z">
+        <seg>在OASIS出版的 &lt;t6/&gt;《轻量级 DITA 简介》&lt;t7/&gt;中，我们对MDITA的核心和扩展概要进行了定义：</seg>
       </tuv>
     </tu>
     <tu>
