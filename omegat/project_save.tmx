@@ -13945,8 +13945,8 @@
       <tuv lang="en">
         <seg>Rothrock &lt;t1/&gt;&amp; &lt;t2/&gt;Narayanan posit that traditional projects involving automation “regard human interaction as an external input to the system being considered.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T123417Z" creationid="lenovo" creationdate="20200901T123417Z">
-        <seg>Rothrock和Narayanan认为，涉及自动化的传统项目“将人机交互视为正在考虑的系统的外部输入。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T150556Z" creationid="lenovo" creationdate="20200901T123417Z">
+        <seg>罗斯洛克（Rothrock）和纳拉亚南（Narayanan）认为，涉及自动化的传统项目“将人类交互作为正在被考量的系统的外部输入。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17286,8 +17286,8 @@
       <tuv lang="en">
         <seg>The plan should also con&lt;t0/&gt;sider and accommodate a human-in-the-loop (HITL) strategy.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T123407Z" creationid="lenovo" creationdate="20200901T123407Z">
-        <seg>该计划还应考虑并适应“人在环”（HITL）策略。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T150220Z" creationid="lenovo" creationdate="20200901T123407Z">
+        <seg>该计划还应考虑并适应 HITL 策略。 </seg>
       </tuv>
     </tu>
     <tu>
