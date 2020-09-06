@@ -9620,8 +9620,8 @@
       <tuv lang="en">
         <seg>In HTML5, a cross-reference is represented with a combination of the anchor (&lt;t0/&gt;&lt;a&gt;&lt;t1/&gt;) element and the hyper reference (&lt;t2/&gt;@href&lt;t3/&gt;) attribute.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T153618Z" creationid="lenovo" creationdate="20200817T143932Z">
-        <seg>在HTML5中，交叉引用由锚 (&lt;t0/&gt;&lt;a&gt;&lt;t1/&gt;) 元素和超引用 (&lt;t2/&gt;@href&lt;t3/&gt;) 属性表示。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T121705Z" creationid="lenovo" creationdate="20200817T143932Z">
+        <seg>在HTML5中，交叉引用由锚 (&lt;t0/&gt;&lt;a&gt;&lt;t1/&gt;) 元素和超参考 (&lt;t2/&gt;@href&lt;t3/&gt;) 属性表示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12974,8 +12974,8 @@
       <tuv lang="en">
         <seg>One of the most notorious characteristics of LwDITA in its initial release  is that it does not include the document types of concept, task, and reference  that many users associate with the Darwin Information Typing Architecture.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T084625Z" creationid="DSS" creationdate="20200730T084625Z">
-        <seg>在最初版本的 LwDITA 中，最不受欢迎的一个特征是，它不包括许多用户在 DITA 中会用到的概念（concept）、任务（task）和引用（reference）文档类型。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T121739Z" creationid="DSS" creationdate="20200730T084625Z">
+        <seg>在最初版本的 LwDITA 中，最不受欢迎的一个特征是，它不包括许多用户在 DITA 中会用到的概念（concept）、任务（task）和参考（reference）文档类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15283,8 +15283,8 @@
       <tuv lang="en">
         <seg>The &lt;t2/&gt;@format &lt;t3/&gt;attribute inside each topic reference (&lt;t4/&gt;&lt;topicref&gt;&lt;t5/&gt;) instructs the processor on how to treat each file linked from the map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T085552Z" creationid="lenovo" creationdate="20200827T135213Z">
-        <seg>每个主题引用中的@format属性(&lt;topicref&gt;)指导处理程序如何处理来自映射的每个文件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T121717Z" creationid="lenovo" creationdate="20200827T135213Z">
+        <seg>每个主题参考中的@format属性(&lt;topicref&gt;)指导处理程序如何处理来自映射的每个文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18102,8 +18102,8 @@
       <tuv lang="en">
         <seg>The topic reference components include attributes for format (in bold font), which take the value (“xdita”, “hdita”, or “mdita”) corresponding to each file's authoring language.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T132907Z" creationid="lenovo" creationdate="20200827T140606Z">
-        <seg>主题引用组件包括格式属性(粗体部分)，格式属性会根据文件的创作语言取不同的值(“xdita”、“hdita”或“mdita”)。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T121723Z" creationid="lenovo" creationdate="20200827T140606Z">
+        <seg>主题参考组件包括格式属性(粗体部分)，格式属性会根据文件的创作语言取不同的值(“xdita”、“hdita”或“mdita”)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18734,8 +18734,8 @@
       <tuv lang="en">
         <seg>These professionals work in environments that depend on the separation of  content in concept, task, reference, and other types.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200730T091140Z" creationid="DSS" creationdate="20200730T091140Z">
-        <seg>这些专业人员工作的环境依赖于概念（concept）、任务（task）、引用（reference）和其他类型的内容分离。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T121757Z" creationid="DSS" creationdate="20200730T091140Z">
+        <seg>这些专业人员工作的环境依赖于概念（concept）、任务（task）、参考（reference）和其他类型的内容分离。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19678,8 +19678,8 @@
       <tuv lang="en">
         <seg>To make the file valid HTML5, the attribute for format in each topic reference is &lt;t4/&gt;@type&lt;t5/&gt;, and the values are “text/markdown” for MDITA, “text/html” for HDITA, and “text/xml” for XDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T133637Z" creationid="lenovo" creationdate="20200827T142304Z">
-        <seg>为了使文件能够转换成有效的HTML5格式，每个主题引用的格式属性为&lt;t4/&gt;@type&lt;t5/&gt;, MDITA对应的值为“text/markdown”，HDITA对应的值为“text/html”，XDITA对应的值为“text/xml”。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T121733Z" creationid="lenovo" creationdate="20200827T142304Z">
+        <seg>为了使文件能够转换成有效的HTML5格式，每个主题参考的格式属性为&lt;t4/&gt;@type&lt;t5/&gt;, MDITA对应的值为“text/markdown”，HDITA对应的值为“text/html”，XDITA对应的值为“text/xml”。</seg>
       </tuv>
     </tu>
     <tu>
