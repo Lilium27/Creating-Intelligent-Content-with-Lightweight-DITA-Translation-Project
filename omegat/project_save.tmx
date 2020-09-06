@@ -1875,8 +1875,8 @@
       <tuv lang="en">
         <seg>&lt;t5/&gt;represented in HDITA are the navigation element (&lt;t6/&gt;&lt;nav&gt;&lt;t7/&gt;) for open&lt;t8/&gt;i&lt;t9/&gt;ng a map environment, the title (&lt;t10/&gt;&lt;title&gt; &lt;t11/&gt;and &lt;t12/&gt;&lt;h1&gt;&lt;t13/&gt;5&lt;t14/&gt;) to label the map and its deliverables, and a hyper reference inside a list item (&lt;t15/&gt;&lt;a href&gt; &lt;t16/&gt;inside a &lt;t17/&gt;&lt;li&gt;&lt;t18/&gt;) to express a topic reference.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200807T072106Z">
-        <seg>&lt;t5/&gt;有用以创建映射环境的导航元素 (&lt;t6/&gt;&lt;nav&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;)，标记映射及其交付物的标题元素 (&lt;t10/&gt;&lt;title&gt; &lt;t11/&gt;and &lt;t12/&gt;&lt;h1&gt;&lt;t13/&gt;5&lt;t14/&gt;)，以及表示主题引用的超引用元素，该元素嵌套在列表项元素中 （即&lt;t15/&gt;&lt;a href&gt; &lt;t16/&gt;嵌套在 &lt;t17/&gt;&lt;li&gt;&lt;t18/&gt;中）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T121634Z" creationid="DSS" creationdate="20200807T072106Z">
+        <seg>&lt;t5/&gt;有用以创建映射环境的导航元素 (&lt;t6/&gt;&lt;nav&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;)，标记映射及其交付物的标题元素 (&lt;t10/&gt;&lt;title&gt; &lt;t11/&gt;and &lt;t12/&gt;&lt;h1&gt;&lt;t13/&gt;5&lt;t14/&gt;)，以及表示主题参考的超参考元素，该元素嵌套在列表项元素中 （即&lt;t15/&gt;&lt;a href&gt; &lt;t16/&gt;嵌套在 &lt;t17/&gt;&lt;li&gt;&lt;t18/&gt;中）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19759,8 +19759,8 @@
       <tuv lang="en">
         <seg>Topic reference (&lt;t0/&gt;&lt;topicref&gt;&lt;t1/&gt;) &lt;t2/&gt;- &lt;t3/&gt;identifies and links to a topic or external content source.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200807T063520Z">
-        <seg>主题引用(&lt;t0/&gt;&lt;topicref&gt;&lt;t1/&gt;)&lt;t2/&gt;&lt;t3/&gt;用于标识或链接某个主题或外部内容资源。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T121459Z" creationid="DSS" creationdate="20200807T063520Z">
+        <seg>主题参考(&lt;t0/&gt;&lt;topicref&gt;&lt;t1/&gt;)&lt;t2/&gt;&lt;t3/&gt;用于标识或链接某个主题或外部内容资源。</seg>
       </tuv>
     </tu>
     <tu>
