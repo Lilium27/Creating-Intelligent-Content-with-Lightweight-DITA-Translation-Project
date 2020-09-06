@@ -2051,8 +2051,8 @@
       <tuv lang="en">
         <seg>&lt;t7/&gt;Figure 6.9&lt;t8/&gt; shows the franchise introductory topic in MDITA core profile with an &lt;t9/&gt;atx&lt;t10/&gt; heading for its title.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T141024Z">
-        <seg>图&lt;t7/&gt;6.9&lt;t8/&gt; 展示了根据 MDITA 核心规定编写的介绍特许经营权的主题，其标题使用&lt;t9/&gt; atx&lt;t10/&gt; 语法格式编写。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T114714Z" creationid="DSS" creationdate="20200816T141024Z">
+        <seg>图&lt;t7/&gt;6.9&lt;t8/&gt; 展示了根据 MDITA 核心概要编写的介绍特许经营权的主题，其标题使用&lt;t9/&gt; atx&lt;t10/&gt; 语法格式编写。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9692,8 +9692,8 @@
       <tuv lang="en">
         <seg>In MDITA core profile, any structure saved as Markdown format can work as a basic topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T133737Z">
-        <seg>在 MDITA 的核心规定中，任何保存为 Markdown 格式的结构都可以作为基础主题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T114558Z" creationid="DSS" creationdate="20200816T133737Z">
+        <seg>在 MDITA 的核心概要中，任何保存为 Markdown 格式的结构都可以作为基础主题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16043,8 +16043,8 @@
       <tuv lang="en">
         <seg>The assigned &lt;t4/&gt;@id &lt;t5/&gt;will be attached to the topic even if the authors rename the source file (with the default “slugify” process of MDITA core profile, renaming a file will change its automatically- generated &lt;t6/&gt;@id&lt;t7/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T130300Z" creationid="DSS" creationdate="20200816T134636Z">
-        <seg>即使作者重命名源文件，指定的 &lt;t4/&gt;@id &lt;t5/&gt;不会改变 （按照 MDITA 核心规定，如果是自动解析生成的 &lt;t6/&gt;@id&lt;t7/&gt;，重命名文件将改变其 @id 名称）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T114615Z" creationid="DSS" creationdate="20200816T134636Z">
+        <seg>即使作者重命名源文件，指定的 &lt;t4/&gt;@id &lt;t5/&gt;不会改变 （按照 MDITA 核心概要，如果是自动解析生成的 &lt;t6/&gt;@id&lt;t7/&gt;，重命名文件将改变其 @id 名称）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18502,8 +18502,8 @@
       <tuv lang="en">
         <seg>There is no direct equivalent for a definition list in MDITA core profile, although some Markdown flavors do have a way to represent this component.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T155921Z" creationid="DSS" creationdate="20200816T155921Z">
-        <seg>尽管使用 Markdown 语法确实可以表示出定义列表，但在 MDITA 的核心定义中，没有与定义列表直接对应的组件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T114744Z" creationid="DSS" creationdate="20200816T155921Z">
+        <seg>尽管使用 Markdown 语法确实可以表示出定义列表，但在 MDITA 的核心概要中，没有与定义列表直接对应的组件。</seg>
       </tuv>
     </tu>
     <tu>
