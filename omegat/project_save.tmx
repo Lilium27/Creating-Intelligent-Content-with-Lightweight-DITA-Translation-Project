@@ -22397,16 +22397,16 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;at this (that) point in time</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015806Z" creationid="lenovo" creationdate="20200811T015806Z">
-        <seg>• &lt;t0/&gt;在目前（那种）情况下</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T062931Z" creationid="lenovo" creationdate="20200811T015806Z">
+        <seg>• &lt;t0/&gt;在目前（那种）情况下（at this (that) point in time）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>• &lt;t0/&gt;because</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015832Z" creationid="lenovo" creationdate="20200811T015832Z">
-        <seg>• &lt;t0/&gt;因为</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T062856Z" creationid="lenovo" creationdate="20200811T015832Z">
+        <seg>• &lt;t0/&gt;因为（because）</seg>
       </tuv>
     </tu>
     <tu>
@@ -22429,8 +22429,8 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;due to the fact that</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015828Z" creationid="lenovo" creationdate="20200811T015828Z">
-        <seg>• &lt;t0/&gt;考虑到……</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T062903Z" creationid="lenovo" creationdate="20200811T015828Z">
+        <seg>• &lt;t0/&gt;考虑到……（due to the fact that）</seg>
       </tuv>
     </tu>
     <tu>
@@ -22461,16 +22461,16 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;if</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015854Z" creationid="lenovo" creationdate="20200811T015854Z">
-        <seg>• &lt;t0/&gt;如果</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T062837Z" creationid="lenovo" creationdate="20200811T015854Z">
+        <seg>• &lt;t0/&gt;如果（if）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>• &lt;t0/&gt;in the event that</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015847Z" creationid="lenovo" creationdate="20200811T015847Z">
-        <seg>• &lt;t0/&gt;在……情况下</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T062845Z" creationid="lenovo" creationdate="20200811T015847Z">
+        <seg>• &lt;t0/&gt;在……情况下（in the event that）</seg>
       </tuv>
     </tu>
     <tu>
@@ -22501,8 +22501,8 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;now (then)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T015814Z" creationid="lenovo" creationdate="20200811T015814Z">
-        <seg>• &lt;t0/&gt;现在（当时）</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T063047Z" creationid="lenovo" creationdate="20200811T015814Z">
+        <seg>• &lt;t0/&gt;现在（当时）（now (then)）</seg>
       </tuv>
     </tu>
     <tu>
