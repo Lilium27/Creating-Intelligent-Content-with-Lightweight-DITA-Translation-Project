@@ -7330,8 +7330,8 @@
       <tuv lang="en">
         <seg>Focusing, for now, exclusively on the milkshake recipe and ignoring all other offerings from the fountain manual, we can identify more than one way to achieve with LwDITA the versatility required by Dan Garcia's example.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T123951Z" creationid="lenovo" creationdate="20200901T123951Z">
-        <seg>目前，我们仅专注于奶昔配方，而忽略润版手册中的所有其他产品，我们可以确定使用LwDITA实现Dan Garcia示例所要求的多功能性的多种方法。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200907T134858Z" creationid="lenovo" creationdate="20200901T123951Z">
+        <seg>目前，我们仅需关注奶昔食谱，不用管冷饮柜台手册中的其他产品。使用LwDITA，我们可以从多种方式实现丹·加西亚示例中所要求的通用奶昔食谱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16131,8 +16131,8 @@
       <tuv lang="en">
         <seg>The authors, after collecting information from any exist&lt;t10/&gt;ing sources, conducting interviews with experts, and observing work in the kitchen, can start creating topics following the guidelines from the proposed LwDITA standard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153017Z" creationid="lenovo" creationdate="20200901T123939Z">
-        <seg>在从任何现有来源收集信息，与专家进行访谈以及在厨房中观察工作后，作者都可以按照拟议的LwDITA标准中的指南开始创建主题。&lt;t10/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200907T134357Z" creationid="lenovo" creationdate="20200901T123939Z">
+        <seg>在从任何现有资源收集信息，与专家进行访谈，以及观察过厨房工作后，写作者都可以按照拟议的LwDITA标准中的准则开始创建主题。&lt;t10/&gt;</seg>
       </tuv>
     </tu>
     <tu>
