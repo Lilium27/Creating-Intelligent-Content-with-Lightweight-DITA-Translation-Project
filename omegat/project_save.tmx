@@ -4123,8 +4123,8 @@
       <tuv lang="en">
         <seg>Authors must be guided by a content strategy, and its development and adoption processes require mental abstractions to defer further layers of the authoring lifecycle until a plan is ready to implement.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T145201Z" creationid="lenovo" creationdate="20200831T134004Z">
-        <seg>写作者必须以内容策略为指导，内容策略的开发和采用过程需要思想上的抽象能力，以推迟写作生命周期中的更深层次层级的进展，直到计划已经准备好实施为止。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200907T060014Z" creationid="lenovo" creationdate="20200831T134004Z">
+        <seg>写作者必须以内容策略为指导，内容策略的开发和采用过程需要思维上的抽象能力，以推迟写作生命周期中的更深层次层级的进展，直到计划已经准备好实施为止。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19590,8 +19590,8 @@
       <tuv lang="en">
         <seg>To a casual observer, the act of writing static content on a word processing application or a presenta&lt;t0/&gt;tion-oriented web content management system might look similar to that of creating intelligent content (in both cases a person is typing on a computer), but the “mental” (abstraction) layers behind those processes go beyond the use of “metal” (automation) tools.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131359Z" creationid="DSS" creationdate="20200808T083815Z">
-        <seg>对于一个外行而言，在文字处理软件或面向演示的网页内容管理系统里编写静态内容可能看起来与创建智能内容一样（二者都是由一个人在电脑前打字输入内容），但后者所要求的层级“思考”（抽象）能力远超“物理”（自动化）工具的使用能力。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200907T055916Z" creationid="DSS" creationdate="20200808T083815Z">
+        <seg>对于一个外行而言，在文字处理软件或面向演示的网页内容管理系统里编写静态内容可能看起来与创建智能内容一样（二者都是由一个人在电脑前打字输入内容），但后者所要求的层级“思考”（抽象）能力远超“实体”（自动化）工具的使用能力。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
