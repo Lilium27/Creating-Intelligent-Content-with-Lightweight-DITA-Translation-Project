@@ -2163,8 +2163,8 @@
       <tuv lang="en">
         <seg>&lt;t8/&gt;For the milkshake example, let's assume that the soda fountain operator manual will include a few recipes, with the versa&lt;t9/&gt;tile milkshake being one of them, probably featured next to the root beer float and the banana split.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153016Z" creationid="lenovo" creationdate="20200901T123927Z">
-        <seg>&lt;t8/&gt;&lt;t9/&gt;对于奶昔示例，让我们假设“汽水喷泉”操作员手册包括一些食谱，多种用途的奶昔就是其中之一，可能是在生啤酒浮漂和香蕉片旁边。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200907T133810Z" creationid="lenovo" creationdate="20200901T123927Z">
+        <seg>&lt;t8/&gt;&lt;t9/&gt;对于奶昔示例而言，让我们假设“冷饮柜台”操作员手册包括一些食谱，多种用途的奶昔就是其中之一，可能是在生啤酒浮漂和香蕉片旁边。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12878,8 +12878,8 @@
       <tuv lang="en">
         <seg>Once a content audit has identified all legacy documentation, and it has been prepared for update or migration, it's time for authors to produce text and/or multimedia content to address the users' needs identified in layer &lt;t7/&gt;1.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153016Z" creationid="lenovo" creationdate="20200901T123826Z">
-        <seg>内容审核确定了所有旧文档，并准备进行更新或迁移后，就该让作者制作文本和/或多媒体内容来满足第1层中确定的用户需求了。&lt;t7/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200907T133719Z" creationid="lenovo" creationdate="20200901T123826Z">
+        <seg>一旦内容审核确定了所有遗留文档，并准备进行内容更新或迁移，就是时候让写作者编写文本和（或）多媒体内容来满足第一层级中确定的用户需求了。&lt;t7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
