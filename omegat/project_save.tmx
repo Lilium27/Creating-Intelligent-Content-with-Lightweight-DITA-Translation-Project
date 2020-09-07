@@ -5198,8 +5198,8 @@
       <tuv lang="en">
         <seg>Contrasting layer &lt;t11/&gt;1 &lt;t12/&gt;with the ISTE standards for assessing computational thinking in students, some of its tasks could comply with sections of standards 5a (&lt;t13/&gt;Students formulate problem definitions suited for technology-assisted methods such as data analysis, abstract models and algorithmic thinking in exploring and finding solutions&lt;t14/&gt;), 5b (&lt;t15/&gt;Students collect data or identify relevant data sets, use digital tools to analyze them, and represent data in various ways to facilitate problem-solving and decision&lt;t16/&gt;making&lt;t17/&gt;), and 5c (&lt;t18/&gt;Students break problems into component parts, extract key information, and develop descriptive models to understand complex systems or facilitate problem-solving&lt;t19/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153008Z" creationid="lenovo" creationdate="20200901T123724Z">
-        <seg>将第1层与用于评估学生的计算机思维的ISTE标准进行对比，其某些任务可以符合标准5a的各个部分（学生在探索和发现中制定适合技术辅助方法的问题定义，例如数据分析，抽象模型和算法思维）解决方案），5b（学生收集数据或识别相关数据集，使用数字工具对其进行分析并以各种方式表示数据以促进问题解决和决策制定），以及5c（学生将问题分解为组成部分，提取关键信息，并开发描述性模型以了解复杂系统或促进问题解决）。&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200907T132113Z" creationid="lenovo" creationdate="20200901T123724Z">
+        <seg>将第一层级与用于评估学生的计算机思维的ISTE标准进行对比，第一层级中的其某些任务符合5a标准的部分内容（学生在探索和寻找解决方案的过程中，形成对如数据分析、抽象模型和算法思维等技术辅助方法的问题定义），以及5b（学生收集数据或识别相关数据集，使用数字工具对其进行分析并以各种方式表示这些数据，以促进问题解决和决策制定）和5c标准的部分内容（学生将问题分解为组成部分，提取关键信息，并开发描述性模型以了解复杂系统或促进问题解决）。&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18790,8 +18790,8 @@
       <tuv lang="en">
         <seg>They also cover some of the work included in Andersen's &lt;t7/&gt;Analyzing the customer and business needs&lt;t8/&gt; and &lt;t9/&gt;Developing an information architecture&lt;t10/&gt; stages.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153007Z" creationid="lenovo" creationdate="20200901T123712Z">
-        <seg>它们还涵盖了安德森“分析客户和业务需求以及开发信息架构阶段”中包含的一些工作。&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200907T131219Z" creationid="lenovo" creationdate="20200901T123712Z">
+        <seg>这些任务还涵盖了安德森所述的分析客户和业务需求以及开发信息架构的阶段。&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;</seg>
       </tuv>
     </tu>
     <tu>
