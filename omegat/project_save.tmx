@@ -5198,8 +5198,8 @@
       <tuv lang="en">
         <seg>Contrasting layer &lt;t11/&gt;1 &lt;t12/&gt;with the ISTE standards for assessing computational thinking in students, some of its tasks could comply with sections of standards 5a (&lt;t13/&gt;Students formulate problem definitions suited for technology-assisted methods such as data analysis, abstract models and algorithmic thinking in exploring and finding solutions&lt;t14/&gt;), 5b (&lt;t15/&gt;Students collect data or identify relevant data sets, use digital tools to analyze them, and represent data in various ways to facilitate problem-solving and decision&lt;t16/&gt;making&lt;t17/&gt;), and 5c (&lt;t18/&gt;Students break problems into component parts, extract key information, and develop descriptive models to understand complex systems or facilitate problem-solving&lt;t19/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200907T132113Z" creationid="lenovo" creationdate="20200901T123724Z">
-        <seg>将第一层级与用于评估学生的计算机思维的ISTE标准进行对比，第一层级中的其某些任务符合5a标准的部分内容（学生在探索和寻找解决方案的过程中，形成对如数据分析、抽象模型和算法思维等技术辅助方法的问题定义），以及5b（学生收集数据或识别相关数据集，使用数字工具对其进行分析并以各种方式表示这些数据，以促进问题解决和决策制定）和5c标准的部分内容（学生将问题分解为组成部分，提取关键信息，并开发描述性模型以了解复杂系统或促进问题解决）。&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200907T132542Z" creationid="lenovo" creationdate="20200901T123724Z">
+        <seg>将第一层级与用于评估学生的计算机思维的ISTE标准进行对比，第一层级中的其某些任务符合5a标准的部分内容（学生能够在探索和寻找解决方案的过程中，形成对如数据分析、抽象模型和算法思维等技术辅助方法的问题定义），以及5b（学生能够收集数据或识别相关数据集，使用数字工具进行分析，并以各种方式表示数据，促进问题解决和决策制定）和5c标准的部分内容（学生能够将拆解问题，提取关键信息，建立描述性模型来理解复杂系统或促进问题解决）。&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14569,16 +14569,16 @@
       <tuv lang="en">
         <seg>Students collect data or identify relevant data sets, use digital tools to analyze them, and represent data in various ways to facilitate problem&lt;t0/&gt;solving and decision-making.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131428Z" creationid="DSS" creationdate="20200811T131344Z">
-        <seg>学生能够收集数据或识别相关数据集，使用数字工具进行分析，并以各种方式表示数据，促进问题解决，进行决策。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200907T132448Z" creationid="DSS" creationdate="20200811T131344Z">
+        <seg>学生能够收集数据或识别相关数据集，使用数字工具进行分析，并以各种方式表示数据，促进问题解决和决策制定。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Students formulate problem definitions suited for technology-assisted methods such as data analysis, abstract models and algorithmic thinking in exploring and finding solutions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T131337Z" creationid="DSS" creationdate="20200811T131337Z">
-        <seg>学生能够定义问题，通过数据分析、抽象模型和算法思维等科技手段的辅助，探索和寻找解决方案。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200907T132356Z" creationid="DSS" creationdate="20200811T131337Z">
+        <seg>学生能够在探索和寻找解决方案的过程中，形成对如数据分析、抽象模型和算法思维等技术辅助方法的问题定义。</seg>
       </tuv>
     </tu>
     <tu>
