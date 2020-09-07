@@ -4483,8 +4483,8 @@
       <tuv lang="en">
         <seg>Before we move on to specific how-to and examples of creating intelligent content with LwDITA following principles of computational thinking, we need to revisit the origins of DITA XML and analyze how its content structures and discourse conventions (based on the archetypal computer manual) evolved into LwDITA, and those are the main themes of the next chapter.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T090011Z" creationid="DSS" creationdate="20200817T090011Z">
-        <seg>在我们继续介绍和展示基于计算机思维，用 LwDITA 创建的智能内容的示例之前，我们需要重新审视 DITA XML 的起源，（基于典型的计算机手册）分析其内容结构和话语规范是如何发展为 LwDITA的，这也是下一章的主题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200907T133100Z" creationid="DSS" creationdate="20200817T090011Z">
+        <seg>在我们继续介绍和展示基于计算机思维，用 LwDITA 创建的智能内容的示例之前，我们需要重新审视 DITA XML 的起源，（基于典型的计算机手册）分析其内容结构和语篇规范是如何发展为 LwDITA的，这也是下一章的主题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7370,8 +7370,8 @@
       <tuv lang="en">
         <seg>Following the model proposed by Flower &lt;t4/&gt;(1989), &lt;t5/&gt;this layer focuses on important discourse conven&lt;t6/&gt;tions that, regardless of their inherent importance, need the broader rhetorical conventions of the remaining layers.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153015Z" creationid="lenovo" creationdate="20200901T123804Z">
-        <seg>按照Flower（1989）提出的模型，这一层重点关注重要的话语约定，无论其固有的重要性如何，都需要其余层级的更广泛的修辞习惯。&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200907T133449Z" creationid="lenovo" creationdate="20200901T123804Z">
+        <seg>按照弗劳尔（1989）提出的模型，这一层级关注语篇规范，无论语篇规范原本有多重要，都需要其余层级的更广泛的修辞规范来进行扩充。&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
