@@ -10220,8 +10220,8 @@
       <tuv lang="en">
         <seg>In order to use the conditional variable &lt;t0/&gt;@data-props&lt;t1/&gt;, a Markdown-based author would have to use a few code snippets of HDITA in MDITA extended profile.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153130Z" creationid="lenovo" creationdate="20200902T130326Z">
-        <seg>为了使用条件变量@ data-props，基于Markdown的作者将不得不在MDITA扩展配置文件中使用HDITA的一些代码片段。&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200907T132300Z" creationid="lenovo" creationdate="20200902T130326Z">
+        <seg>为了使用条件变量@data-props，基于Markdown的作者将不得不在MDITA扩展配置文件中使用HDITA的一些代码片段。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17822,8 +17822,8 @@
       <tuv lang="en">
         <seg>The standard adds the following indicators for assessing students as compu&lt;t0/&gt;tational thinkers:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131427Z" creationid="DSS" creationdate="20200811T130230Z">
-        <seg>该标准增加了以下指标来评估学生的计算机思维能力:&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200907T132127Z" creationid="DSS" creationdate="20200811T130230Z">
+        <seg>该标准增加了以下指标来评估学生的计算机思维能力：&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
