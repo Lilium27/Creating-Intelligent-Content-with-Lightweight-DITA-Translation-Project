@@ -2163,8 +2163,8 @@
       <tuv lang="en">
         <seg>&lt;t8/&gt;For the milkshake example, let's assume that the soda fountain operator manual will include a few recipes, with the versa&lt;t9/&gt;tile milkshake being one of them, probably featured next to the root beer float and the banana split.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200907T133810Z" creationid="lenovo" creationdate="20200901T123927Z">
-        <seg>&lt;t8/&gt;&lt;t9/&gt;对于奶昔示例而言，让我们假设“冷饮柜台”操作员手册包括一些食谱，多种用途的奶昔就是其中之一，可能是在生啤酒浮漂和香蕉片旁边。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200907T134143Z" creationid="lenovo" creationdate="20200901T123927Z">
+        <seg>&lt;t8/&gt;&lt;t9/&gt;对于奶昔示例而言，让我们假设“冷饮柜台”操作员手册包括一些食谱，通用奶昔食谱就是其中之一，可能就在漂浮沙士和香蕉船甜品旁边。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8738,8 +8738,8 @@
       <tuv lang="en">
         <seg>I rarely get a second call and the con&lt;t6/&gt;versation stays in the “someday/maybe” list.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130812Z" creationid="DSS" creationdate="20200726T090534Z">
-        <seg>但是我很少再次接到他们的电话，谈话也都停留在“以后/可能”之词上。&lt;t6/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200907T133924Z" creationid="DSS" creationdate="20200726T090534Z">
+        <seg>但是我很少再次接到他们的电话，谈话也都停留在“以后或可能”之词上。&lt;t6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
