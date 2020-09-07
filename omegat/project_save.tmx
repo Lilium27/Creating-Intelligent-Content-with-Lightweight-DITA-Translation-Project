@@ -12998,8 +12998,8 @@
       <tuv lang="en">
         <seg>One possible approach could be through &lt;t0/&gt;conditional content&lt;t1/&gt;, which Julio Vazquez defines as “content that has sufficient metadata to allow a processor to filter or flag that content in any output or format, using a profile to determine the exact output for a given context or format” &lt;t2/&gt;(2016, &lt;t3/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153018Z" creationid="lenovo" creationdate="20200901T124012Z">
-        <seg>一种可能的方法是通过条件内容，Julio Vazquez将其定义为“具有足够元数据的内容，以允许处理器使用配置文件确定给定上下文或格式的确切输出来过滤或标记任何输出或格式的内容。 ” (2016, p.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200907T135050Z" creationid="lenovo" creationdate="20200901T124012Z">
+        <seg>一种可行的方法是通过“条件内容”，胡里奥·巴斯克斯（Julio Vazquez）将“条件内容”定义为“具有足够元数据的内容，以允许处理器使用配置文件确定给定上下文或格式的确切输出来过滤或标记任何输出或格式的内容 ” (2016, p.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
