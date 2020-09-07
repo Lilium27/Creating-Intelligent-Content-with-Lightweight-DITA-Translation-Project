@@ -404,7 +404,6 @@ order and rules	秩序和规则
 franchise owner	特许经营权所有者
 Linda Flower	琳达·弗劳尔
 professional writing	专业写作
-discourse conventions	语篇惯例
 rhetorical moves	修辞语步
 computing-related	计算相关
 Common Structures	通用结构
@@ -506,3 +505,5 @@ controls	控件
 Lauren Creekmore	劳伦·克里克莫尔
 Narayanan	纳拉亚南
 Rothrock	罗斯洛克
+discourse conventions	语篇规范
+Flower	弗劳尔
