@@ -11564,8 +11564,8 @@
       <tuv lang="en">
         <seg>Layer &lt;t0/&gt;2: &lt;t1/&gt;Authoring Modular Content with LwDITA</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153013Z" creationid="lenovo" creationdate="20200901T123735Z">
-        <seg>第2层：使用LwDITA创作模块化内容&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200907T132703Z" creationid="lenovo" creationdate="20200901T123735Z">
+        <seg>第二层级：使用LwDITA创作模块化内容&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13559,8 +13559,8 @@
       <tuv lang="en">
         <seg>Probably the most important layer for readers of &lt;t0/&gt;Creating Intelligent Content with Lightweight DITA&lt;t1/&gt;, layer &lt;t2/&gt;2 &lt;t3/&gt;involves content development tasks that can only happen after completing the first layer of abstraction.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153014Z" creationid="lenovo" creationdate="20200901T123746Z">
-        <seg>对于使用轻量级DITA创建智能内容的读者来说，这可能是最重要的一层，第二层涉及内容开发任务，这些任务只有在完成第一层抽象之后才能发生。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200907T132916Z" creationid="lenovo" creationdate="20200901T123746Z">
+        <seg>对于本书的读者来说，第二层级可能是最重要的一层。第二层级涉及内容开发任务，这些任务只有在完成第一层抽象之后才会产生。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
