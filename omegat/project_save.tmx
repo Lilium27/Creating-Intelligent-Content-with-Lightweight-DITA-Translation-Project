@@ -7153,8 +7153,8 @@
       <tuv lang="en">
         <seg>Figure &lt;t0/&gt;5.14&lt;t1/&gt; &lt;t2/&gt;shows the DITA-OT command for processing an MDITA map and producing a PDF deliverable, which looks very similar to the one used for the transformations in XDITA and HDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200808T040618Z">
-        <seg>图&lt;t0/&gt;5.10&lt;t1/&gt;&lt;t2/&gt;展示了利用 DITA-OT 转换 MDITA 格式的映射，并生成 PDF 交付文件所需输入的命令，它与转换 XDITA 和 HDITA 格式的映射所需的命令非常相似。。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200908T145447Z" creationid="DSS" creationdate="20200808T040618Z">
+        <seg>图&lt;t0/&gt;5.10&lt;t1/&gt;&lt;t2/&gt;展示了利用 DITA-OT 转换 MDITA 格式的映射，并生成 PDF 交付文件所需输入的命令，它与转换 XDITA 和 HDITA 格式的映射所需的命令非常相似。</seg>
       </tuv>
     </tu>
     <tu>
