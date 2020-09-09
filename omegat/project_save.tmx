@@ -9892,8 +9892,8 @@
       <tuv lang="en">
         <seg>In XDITA, the LwDITA authoring format based on XML, a content variable is implemented on the phrase (&lt;t0/&gt;&lt;ph&gt;&lt;t1/&gt;) element using the &lt;t2/&gt;@keyref &lt;t3/&gt;attribute.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153023Z" creationid="lenovo" creationdate="20200901T124731Z">
-        <seg>在XDITA（基于XML的LwDITA创作格式）中，使用@keyref属性在短语（&lt;ph&gt;）元素上实现内容变量。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T130247Z" creationid="lenovo" creationdate="20200901T124731Z">
+        <seg>在XDITA（基于XML的LwDITA写作格式）中，使用@keyref属性在短语（&lt;ph&gt;）元素上实现内容变量。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16741,8 +16741,8 @@
       <tuv lang="en">
         <seg>The following sections show how to use a content variable in the three initial authoring formats of LwDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T124721Z" creationid="lenovo" creationdate="20200901T124721Z">
-        <seg>以下各节说明如何使用LwDITA的三种初始创作格式使用内容变量。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T130035Z" creationid="lenovo" creationdate="20200901T124721Z">
+        <seg>以下各节说明如何在LwDITA的三种初始写作格式使用内容变量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20594,8 +20594,8 @@
       <tuv lang="en">
         <seg>Without that metadata, an author cannot produce the adaptive milkshake recipe required by Dan Garcia's example.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T124703Z" creationid="lenovo" creationdate="20200901T124703Z">
-        <seg> 没有该元数据，作者将无法生成Dan Garcia的示例所需的自适应奶昔配方。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T125926Z" creationid="lenovo" creationdate="20200901T124703Z">
+        <seg>没有该元数据，写作者将无法生成丹·加西亚示例所示的自适应奶昔食谱。</seg>
       </tuv>
     </tu>
     <tu>
