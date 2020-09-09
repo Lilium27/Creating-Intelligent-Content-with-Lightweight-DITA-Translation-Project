@@ -3347,8 +3347,8 @@
       <tuv lang="en">
         <seg>An author working with this source code would be able to tell that step &lt;t8/&gt;1 &lt;t9/&gt;is asking for &lt;t10/&gt;场&lt;t11/&gt; &lt;t12/&gt;cup of mil&lt;t13/&gt;k&lt;t14/&gt;1&lt;t15/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153039Z" creationid="lenovo" creationdate="20200901T125639Z">
-        <seg>使用此源代码的作者就能够知道步骤1需要1/4杯牛奶。&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T152216Z" creationid="lenovo" creationdate="20200901T125639Z">
+        <seg>编写此源代码的写作者就能够表明步骤一需要1/4杯牛奶&lt;t14/&gt;1&lt;t15/&gt;。&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16693,8 +16693,8 @@
       <tuv lang="en">
         <seg>The first one is straightforward text that specifies some milk (a more advanced recipe could even specify if the fountain attendant should use actual milk or a non-dairy milk alternative).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T125154Z" creationid="lenovo" creationdate="20200901T125154Z">
-        <seg>第一个是简单的文字，指定了一些牛奶（更高级的配方甚至可以指定饮水机服务员应使用实际牛奶还是非牛奶替代品）。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T152025Z" creationid="lenovo" creationdate="20200901T125154Z">
+        <seg>第一个是简单的文本，指定了一些牛奶（更高级的食谱甚至可以具体说明冷饮柜台服务员应使用真实的牛奶还是非牛奶替代品）。 </seg>
       </tuv>
     </tu>
     <tu>
