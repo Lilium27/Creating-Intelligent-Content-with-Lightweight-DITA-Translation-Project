@@ -9154,8 +9154,8 @@
       <tuv lang="en">
         <seg>If tomorrow the flavor needs to be vanilla, the variable can take that new value and keep the same content with only that variation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T124643Z" creationid="lenovo" creationdate="20200901T124643Z">
-        <seg>如果明天是香草口味，则变量可以采用该新值，从而达到只变变量不变内容。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T125512Z" creationid="lenovo" creationdate="20200901T124643Z">
+        <seg>如果明天是香草口味，则变量可以采用该新值，从而达到只改变变量，不变内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15171,8 +15171,8 @@
       <tuv lang="en">
         <seg>That vari&lt;t7/&gt;able should be part of the metadata specified in the previous layer, as the author identified elements that need to change in the recipes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153023Z" creationid="lenovo" creationdate="20200901T124654Z">
-        <seg>由于作者确定了需要更改配方的元素，因此该变量应该是上一层中指定的元数据的一部分。&lt;t7/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T125803Z" creationid="lenovo" creationdate="20200901T124654Z">
+        <seg>由于写作者确定了食谱中需要更改的元素，因此该变量应该是上一层级中设定的元数据的一部分。&lt;t7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
