@@ -10540,8 +10540,8 @@
       <tuv lang="en">
         <seg>In the versatile milkshake recipe authored in XDITA, the referencing key will be inside the ingredient that specifies a pint of ice cream.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T125008Z" creationid="lenovo" creationdate="20200901T125008Z">
-        <seg>在XDITA中编写的通用奶昔配方中，引用键将位于指定一品脱冰淇淋的配料内。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T131934Z" creationid="lenovo" creationdate="20200901T125008Z">
+        <seg>在使用XDITA编写的通用奶昔食谱中，引用键将位于配料内部，指定一品脱冰淇淋的口味。</seg>
       </tuv>
     </tu>
     <tu>
