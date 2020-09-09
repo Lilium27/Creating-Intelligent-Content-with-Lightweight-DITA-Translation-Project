@@ -649,8 +649,8 @@
       <tuv lang="en">
         <seg>&lt;t10/&gt;The &lt;t11/&gt;@keyref &lt;t12/&gt;mechanism, Hackos adds, is comprised of two components:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153025Z" creationid="lenovo" creationdate="20200901T124904Z">
-        <seg>哈克斯补充说，@ keyref机制由两个组件组成：&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T130950Z" creationid="lenovo" creationdate="20200901T124904Z">
+        <seg>哈克斯补充说，&lt;t11/&gt;@keyref &lt;t12/&gt;机制由两个组件组成：&lt;t11/&gt;&lt;t12/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2245,6 +2245,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T134430Z" creationid="DSS" creationdate="20200803T152330Z">
         <seg>&lt;t9/&gt;10)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t9/&gt;272).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T130928Z" creationid="DSS" creationdate="20200909T130928Z">
+        <seg>&lt;t9/&gt;272)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8050,8 +8058,8 @@
       <tuv lang="en">
         <seg>Hackos explains the &lt;t4/&gt;@keyref &lt;t5/&gt;mechanism in DITA XML, as a process of “putting place&lt;t6/&gt;holders into your topics and then defining the content for those placeholders” elsewhere &lt;t7/&gt;(2011, &lt;t8/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153025Z" creationid="lenovo" creationdate="20200901T124808Z">
-        <seg>哈克斯在DITA XML中解释了@keyref机制，该过程是“将占位符放入主题，然后为这些占位符定义内容”的过程 (2011, p.&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T130921Z" creationid="lenovo" creationdate="20200901T124808Z">
+        <seg>哈克斯在DITA XML中解释了&lt;t4/&gt;@keyref &lt;t5/&gt;机制，该机制是“在主题内放置占位符，然后在另一个地方为这些占位符定义内容”的过程 (2011, p.&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9892,8 +9900,8 @@
       <tuv lang="en">
         <seg>In XDITA, the LwDITA authoring format based on XML, a content variable is implemented on the phrase (&lt;t0/&gt;&lt;ph&gt;&lt;t1/&gt;) element using the &lt;t2/&gt;@keyref &lt;t3/&gt;attribute.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T130659Z" creationid="lenovo" creationdate="20200901T124731Z">
-        <seg>在XDITA（基于XML的LwDITA写作格式）中，可以在短语（&lt;t0/&gt;&lt;ph&gt;&lt;t1/&gt;）元素中使用&lt;t2/&gt;@keyref &lt;t3/&gt;属性以定义内容变量。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T130717Z" creationid="lenovo" creationdate="20200901T124731Z">
+        <seg>在XDITA（基于XML的LwDITA写作格式）中，可以在短语（&lt;t0/&gt;&lt;ph&gt;&lt;t1/&gt;）元素中使用&lt;t2/&gt;@keyref &lt;t3/&gt;属性以实现内容变量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22365,8 +22373,8 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;The referencing key (the &lt;t1/&gt;@keyref &lt;t2/&gt;attribute), which is “found in the topic where the content will be included,” and</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153026Z" creationid="lenovo" creationdate="20200901T124918Z">
-        <seg>• &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;引用键（@keyref属性），“在包含内容的主题中找到”，以及</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T131111Z" creationid="lenovo" creationdate="20200901T124918Z">
+        <seg>• &lt;t0/&gt;引用键（&lt;t1/&gt;@keyref &lt;t2/&gt;属性），“”，以</seg>
       </tuv>
     </tu>
     <tu>
