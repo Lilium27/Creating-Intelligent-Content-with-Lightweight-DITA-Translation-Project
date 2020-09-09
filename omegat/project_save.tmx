@@ -16998,8 +16998,8 @@
       <tuv lang="en">
         <seg>The list item asking for a pint of ice cream includes a key reference with the value of &lt;t2/&gt;“icecream-flavor,”&lt;t3/&gt; which will be set at processing time in a different layer.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T153057Z" creationid="lenovo" creationdate="20200901T130341Z">
-        <seg>列表项表明食谱需要一品脱冰淇淋，包括一个关键参考，其值为“icecream-flavor”，该值将在处理时在不同层中进行设置。&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T153551Z" creationid="lenovo" creationdate="20200901T130341Z">
+        <seg>列表项表明食谱需要一品脱冰淇淋，包括一个关联到“&lt;t2/&gt;“icecream-flavor&lt;t3/&gt;”的引用键，其值将在另一层级的处理阶段中进行设置。</seg>
       </tuv>
     </tu>
     <tu>
