@@ -510,3 +510,5 @@ Flower	弗劳尔
 legacy documentation	遗留文档
 Julio Vazquez	胡里奥·巴斯克斯
 icecream-flavor	冰淇淋口味
+referencing key	引用键
+defining key	定义键
