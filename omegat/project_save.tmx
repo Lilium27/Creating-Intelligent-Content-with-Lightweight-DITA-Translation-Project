@@ -529,8 +529,8 @@
       <tuv lang="en">
         <seg>&lt;t1/&gt;Layer &lt;t2/&gt;5 &lt;t3/&gt;addresses the processing tasks that will populate the content placeholders with the value established in the defining keys.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153027Z" creationid="lenovo" creationdate="20200901T124959Z">
-        <seg>第5层处理将使用在定义键中建立的值填充内容占位符的处理任务。&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T131744Z" creationid="lenovo" creationdate="20200901T124959Z">
+        <seg>第五层级执行处理任务，将使用在定义键中定义的值填充内容占位符。&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2021,6 +2021,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T035501Z" creationid="DSS" creationdate="20200817T035501Z">
         <seg>&lt;t7/&gt;260)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t7/&gt;273).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T131350Z" creationid="DSS" creationdate="20200909T131350Z">
+        <seg>&lt;t7/&gt;273)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17534,8 +17542,8 @@
       <tuv lang="en">
         <seg>The referencing key is covered in this layer, and the defining key will be set in layer &lt;t0/&gt;4.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153027Z" creationid="lenovo" creationdate="20200901T124946Z">
-        <seg>引用键在这一层中进行了覆盖，定义键将在第4层中进行设置。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T131508Z" creationid="lenovo" creationdate="20200901T124946Z">
+        <seg>引用键在这一层级被覆盖，定义键将在第四层级中进行设置。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22301,8 +22309,8 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;The defining key (the &lt;t1/&gt;@keys &lt;t2/&gt;attribute), which uses the &lt;t3/&gt;&lt;keydef&gt; &lt;t4/&gt;element to “set the content to replace the placeholder” (Hackos, &lt;t5/&gt;2011, &lt;t6/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153026Z" creationid="lenovo" creationdate="20200901T124939Z">
-        <seg>• &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;定义键（@keys属性），它使用&lt;keydef&gt;元素“设置内容以替换占位符” (Hackos, &lt;t5/&gt;2011, &lt;t6/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T131428Z" creationid="lenovo" creationdate="20200901T124939Z">
+        <seg>•&lt;t0/&gt;定义键（&lt;t1/&gt;@keys &lt;t2/&gt;属性），定义键使用&lt;t3/&gt;&lt;keydef&gt; &lt;t4/&gt;元素“设置内容以替换占位符” (Hackos, &lt;t5/&gt;2011, &lt;t6/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22373,8 +22381,8 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;The referencing key (the &lt;t1/&gt;@keyref &lt;t2/&gt;attribute), which is “found in the topic where the content will be included,” and</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T131111Z" creationid="lenovo" creationdate="20200901T124918Z">
-        <seg>• &lt;t0/&gt;引用键（&lt;t1/&gt;@keyref &lt;t2/&gt;属性），“”，以</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T131311Z" creationid="lenovo" creationdate="20200901T124918Z">
+        <seg>• &lt;t0/&gt;引用键（&lt;t1/&gt;@keyref &lt;t2/&gt;属性），引用键“在话题内内容出现的地方”，以及</seg>
       </tuv>
     </tu>
     <tu>
