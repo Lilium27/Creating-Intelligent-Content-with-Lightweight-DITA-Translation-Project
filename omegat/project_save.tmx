@@ -1827,8 +1827,8 @@
       <tuv lang="en">
         <seg>&lt;t5/&gt;Layer &lt;t6/&gt;3 &lt;t7/&gt;will look at condi&lt;t8/&gt;tional content, as we advance to connecting elements of the recipe to specific contexts.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200907T140119Z" creationid="lenovo" creationdate="20200901T124117Z">
-        <seg>随着我们继续编写食谱，想要将食谱元素与特定上下文相相关联时，第三层级将关注条件内容。 &lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T123702Z" creationid="lenovo" creationdate="20200901T124117Z">
+        <seg>随着我们继续编写食谱，将食谱元素与特定上下文相关联时，第三层级将关注条件内容。 &lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;</seg>
       </tuv>
     </tu>
     <tu>
