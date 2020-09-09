@@ -2579,8 +2579,8 @@
       <tuv lang="en">
         <seg>A second approach, which is more appropriate for layer &lt;t9/&gt;2, &lt;t10/&gt;is provided by &lt;t11/&gt;content variables&lt;t12/&gt;, which Nancy Harrison defines as “variables that contain phrase-level content that needs to be in a topic no matter what document the topic is part of, but that changes depending on context, for example, a product name or a company name” &lt;t13/&gt;(2016, &lt;t14/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200907T140342Z" creationid="lenovo" creationdate="20200901T124131Z">
-        <seg>第二种方法更适合第二层级，由内容变量提供，南希·哈里森（Nancy Harrison）将其定义为“包含主题级短语内容的变量，无论该主题属于哪个文档，该变量都必须包含在主题中。 根据上下文而变化，例如“产品名称或公司名称” (2016, p.&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T124026Z" creationid="lenovo" creationdate="20200901T124131Z">
+        <seg>第二种方法更适合第二层级，该方法由内容变量提供。南希·哈里森将其定义为“主题（无论该主题属于哪个文档）内包含短语级别内容的变量，该变量都必须包含在主题中。 根据上下文而变化，例如“产品名称或公司名称” (2016, p.&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;</seg>
       </tuv>
     </tu>
     <tu>
