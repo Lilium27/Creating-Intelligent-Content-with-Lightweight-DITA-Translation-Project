@@ -9114,8 +9114,8 @@
       <tuv lang="en">
         <seg>If the milkshake today will be strawberry-flavored, the variable &lt;t3/&gt;“icecream-flavor”&lt;t4/&gt; will be set to the value of &lt;t5/&gt;“strawberry&lt;t6/&gt;”.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T125425Z" creationid="lenovo" creationdate="20200901T124448Z">
-        <seg>如果今天的奶昔是草莓味的，则变量“&lt;t3/&gt;冰淇淋口味&lt;t4/&gt;”的值设置为“&lt;t5/&gt;草莓&lt;t6/&gt;”。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T153800Z" creationid="lenovo" creationdate="20200901T124448Z">
+        <seg>如果今天的奶昔是草莓味的，则变量“&lt;t3/&gt;icecream-flavor&lt;t4/&gt;”的值设置为“&lt;t5/&gt;strawberry&lt;t6/&gt;”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16387,8 +16387,8 @@
       <tuv lang="en">
         <seg>The content variable &lt;t0/&gt;“icecream-flavor”&lt;t1/&gt; appears in a phrase-level element of the milkshake recipe (inside an ingredient item), but its value changes depend&lt;t2/&gt;ing on the flavor established by the manager.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T124957Z" creationid="lenovo" creationdate="20200901T124415Z">
-        <seg>内容变量“&lt;t0/&gt;冰淇淋口味&lt;t1/&gt;”在奶昔食谱的短语级元素中（在配料项内部），但其值会根据管理员创建的口味而变化。&lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T153726Z" creationid="lenovo" creationdate="20200901T124415Z">
+        <seg>内容变量“&lt;t0/&gt;icecream-flavor&lt;t1/&gt;”在奶昔食谱的短语级元素中（在配料项内部），但其值会根据管理员创建的口味而变化。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21098,8 +21098,8 @@
       <tuv lang="en">
         <seg>has the generic value of &lt;t0/&gt;“icecream-flavor”&lt;t1/&gt; &lt;t2/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153046Z" creationid="lenovo" creationdate="20200901T130444Z">
-        <seg>具有“冰淇淋口味”的通用值。&lt;t0/&gt;&lt;t1/&gt; &lt;t2/&gt;.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T153703Z" creationid="lenovo" creationdate="20200901T130444Z">
+        <seg>包含通用值&lt;t0/&gt;“icecream-flavor”&lt;t1/&gt; &lt;t2/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
