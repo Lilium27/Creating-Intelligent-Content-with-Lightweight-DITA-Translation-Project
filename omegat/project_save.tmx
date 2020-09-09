@@ -16371,8 +16371,8 @@
       <tuv lang="en">
         <seg>The content variable &lt;t0/&gt;“icecream-flavor”&lt;t1/&gt; appears in a phrase-level element of the milkshake recipe (inside an ingredient item), but its value changes depend&lt;t2/&gt;ing on the flavor established by the manager.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153021Z" creationid="lenovo" creationdate="20200901T124415Z">
-        <seg>内容变量“冰淇淋口味”出现在奶昔配方的短语级元素中（在配料项目内部），但其值会根据管理员建立的风味而变化。 &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T124957Z" creationid="lenovo" creationdate="20200901T124415Z">
+        <seg>内容变量“&lt;t0/&gt;冰淇淋口味&lt;t1/&gt;”在奶昔食谱的短语级元素中（在配料项内部），但其值会根据管理员创建的口味而变化。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
