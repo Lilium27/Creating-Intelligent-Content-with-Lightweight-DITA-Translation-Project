@@ -16371,8 +16371,8 @@
       <tuv lang="en">
         <seg>The content place&lt;t0/&gt;holder will leave the ice cream flavor initially empty, and then it will adopt a value determined by the defining key in layer &lt;t1/&gt;4.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153031Z" creationid="lenovo" creationdate="20200901T125020Z">
-        <seg>内容占位符将使冰淇淋口味最初为空，然后采用第4层中的定义键确定的值。&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T151203Z" creationid="lenovo" creationdate="20200901T125020Z">
+        <seg>由于内容占位符的存在，冰淇淋口味最初为空，之后将采用第四层级中定义键确定的值。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
