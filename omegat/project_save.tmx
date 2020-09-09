@@ -6552,8 +6552,8 @@
       <tuv lang="en">
         <seg>FIGURE 8.1 &lt;t0/&gt;Recipe for a versatile milkshake in XDITA - following on an idea&lt;t1/&gt; presented by Dan Garcia.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153041Z" creationid="lenovo" creationdate="20200901T125948Z">
-        <seg>图8.1 遵循Dan Garcia提出的想法，在XDITA中使用多功能奶昔的配方。&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T152802Z" creationid="lenovo" creationdate="20200901T125948Z">
+        <seg>图8.1 遵循丹·加西亚提出的想法，使用XDITA编写的通用奶昔食谱。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17734,8 +17734,8 @@
       <tuv lang="en">
         <seg>The second list item, however, has an XDITA phrase (&lt;t16/&gt;&lt;ph&gt;&lt;t17/&gt;) element inside the list item.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153039Z" creationid="lenovo" creationdate="20200901T125755Z">
-        <seg>但是，第二个列表项在列表项内部具有XDITA短语（&lt;ph&gt;）元素。&lt;t16/&gt;&lt;t17/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T152613Z" creationid="lenovo" creationdate="20200901T125755Z">
+        <seg>但是，第二个列表项在列表项内部包含XDITA短语（&lt;t16/&gt;&lt;ph&gt;&lt;t17/&gt;）元素。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19182,8 +19182,8 @@
       <tuv lang="en">
         <seg>This phrase element has a &lt;t18/&gt;@keyref &lt;t19/&gt;attribute that works as a placeholder for variable text.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153040Z" creationid="lenovo" creationdate="20200901T125800Z">
-        <seg>这个词组元素具有@keyref属性，用作可变文本的占位符。&lt;t18/&gt;&lt;t19/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T152644Z" creationid="lenovo" creationdate="20200901T125800Z">
+        <seg>这个短语元素具有&lt;t18/&gt;@keyref &lt;t19/&gt;属性，用作可变文本的占位符。</seg>
       </tuv>
     </tu>
     <tu>
