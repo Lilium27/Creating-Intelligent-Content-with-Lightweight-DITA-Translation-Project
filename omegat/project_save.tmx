@@ -2963,8 +2963,8 @@
       <tuv lang="en">
         <seg>After complet&lt;t0/&gt;ing layer 2, the recipe topics look either like raw XML, HTML5, or Markdown &lt;t1/&gt;code, depending on the LwDITA authoring format used to create them.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153108Z" creationid="lenovo" creationdate="20200901T134741Z">
-        <seg> 在完成第2层之后，配方主题看起来像原始XML，HTML5或Markdown代码，这取决于用于创建它们的LwDITA创作格式。&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T130249Z" creationid="lenovo" creationdate="20200901T134741Z">
+        <seg> 在完成第2层之后，配方主题看起来像原始XML，HTML5或Markdown代码，这取决于用于创建它们的LwDITA写作格式。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4403,8 +4403,8 @@
       <tuv lang="en">
         <seg>Becoming familiar with these content struc&lt;t0/&gt;tures and how to represent them in the initial LwDITA authoring formats is an important step in preparing intelligent content deliverables.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T152929Z" creationid="lenovo" creationdate="20200827T143337Z">
-        <seg>熟悉这些内容结构以及如何在初始LwDITA创作格式中表示它们，是准备智能内容交付物的重要步骤。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T130249Z" creationid="lenovo" creationdate="20200827T143337Z">
+        <seg>熟悉这些内容结构以及如何在初始LwDITA写作格式中表示它们，是准备智能内容交付物的重要步骤。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5342,8 +5342,8 @@
       <tuv lang="en">
         <seg>Cross-topic linking works regardless of authoring for&lt;t4/&gt;mat: an XDITA topic can link to topics in HDITA and MDITA, and vice versa.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153152Z" creationid="lenovo" creationdate="20200902T132747Z">
-        <seg>跨主题链接的工作与创作格式无关：XDITA主题可以链接到HDITA和MDITA中的主题，反之亦然。&lt;t4/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T130249Z" creationid="lenovo" creationdate="20200902T132747Z">
+        <seg>跨主题链接的工作与写作格式无关：XDITA主题可以链接到HDITA和MDITA中的主题，反之亦然。&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9250,8 +9250,8 @@
       <tuv lang="en">
         <seg>Ignoring the experimental nature of this scenario, you might wonder now who would need different authoring formats to create the same file (e.g., why would Chef Pedro need XDITA, HDITA, and MDITA versions of the franchise offer topic?).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T124831Z" creationid="lenovo" creationdate="20200826T153547Z">
-        <seg>忽略这个场景的实验性质，你现在可能想知道，谁需要使用不同的创作格式来创建相同的文件（例如，为什么佩德罗同时需要XDITA、HDITA和MDITA版本的描述特许经营权提供的服务的主题?）?</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T130249Z" creationid="lenovo" creationdate="20200826T153547Z">
+        <seg>忽略这个场景的实验性质，你现在可能想知道，谁需要使用不同的写作格式来创建相同的文件（例如，为什么佩德罗同时需要XDITA、HDITA和MDITA版本的描述特许经营权提供的服务的主题?）?</seg>
       </tuv>
     </tu>
     <tu>
@@ -9340,8 +9340,8 @@
       <tuv lang="en">
         <seg>In &lt;t0/&gt;Chapter &lt;t1/&gt;6&lt;t2/&gt;, &lt;t3/&gt;we saw how to represent a cross-reference component in the LwDITA authoring formats.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153152Z" creationid="lenovo" creationdate="20200902T132659Z">
-        <seg>在第六章中，我们了解了如何用LwDITA创作格式表示交叉引用组件。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T130249Z" creationid="lenovo" creationdate="20200902T132659Z">
+        <seg>在第六章中，我们了解了如何用LwDITA写作格式表示交叉引用组件。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9892,8 +9892,8 @@
       <tuv lang="en">
         <seg>In XDITA, the LwDITA authoring format based on XML, a content variable is implemented on the phrase (&lt;t0/&gt;&lt;ph&gt;&lt;t1/&gt;) element using the &lt;t2/&gt;@keyref &lt;t3/&gt;attribute.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T130247Z" creationid="lenovo" creationdate="20200901T124731Z">
-        <seg>在XDITA（基于XML的LwDITA写作格式）中，使用@keyref属性在短语（&lt;ph&gt;）元素上实现内容变量。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T130659Z" creationid="lenovo" creationdate="20200901T124731Z">
+        <seg>在XDITA（基于XML的LwDITA写作格式）中，可以在短语（&lt;t0/&gt;&lt;ph&gt;&lt;t1/&gt;）元素中使用&lt;t2/&gt;@keyref &lt;t3/&gt;属性以定义内容变量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10636,8 +10636,8 @@
       <tuv lang="en">
         <seg>In this example, the recipe was created in XDITA - the LwDITA authoring format based on a simplified version of DITA XML.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T130045Z" creationid="lenovo" creationdate="20200901T130045Z">
-        <seg>在此示例中，配方以XDITA创建一种基于DITA XML简化版本的LwDITA创作格式。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T130249Z" creationid="lenovo" creationdate="20200901T130045Z">
+        <seg>在此示例中，配方以XDITA创建一种基于DITA XML简化版本的LwDITA写作格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16011,8 +16011,8 @@
       <tuv lang="en">
         <seg>The answer is one of the strongest selling points of LwDITA: the pro&lt;t2/&gt;posed standard allows authors to produce content in their preferred authoring format (XML, HTML5, or Markdown) with the benefit that those formats will be compatible with each other.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T152906Z" creationid="lenovo" creationdate="20200826T153634Z">
-        <seg>答案就在于LwDITA最大的卖点之一：提议标准允许作者以自己喜欢的创作格式(XML、HTML5或Markdown)生成内容，好处是这些格式相互兼容。&lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T130321Z" creationid="lenovo" creationdate="20200826T153634Z">
+        <seg>答案就在于LwDITA最大的卖点之一：拟议标准允许作者以自己喜欢的写作格式(XML、HTML5或Markdown)生成内容，好处是这些格式相互兼容。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17622,8 +17622,8 @@
       <tuv lang="en">
         <seg>The same milkshake recipe can be created in HDITA, the LwDITA authoring format based on HTML5, with a similar mechanism for the content varia&lt;t0/&gt;ble.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153049Z" creationid="lenovo" creationdate="20200901T131245Z">
-        <seg>可以在HDITA（基于HTML5的LwDITA创作格式）中创建相同的奶昔配方，并对内容变量使用类似的机制。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T130249Z" creationid="lenovo" creationdate="20200901T131245Z">
+        <seg>可以在HDITA（基于HTML5的LwDITA写作格式）中创建相同的奶昔配方，并对内容变量使用类似的机制。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18678,8 +18678,8 @@
       <tuv lang="en">
         <seg>These differences keep the LwDITA authoring formats compliant with the HTML5 and DITA XML stand&lt;t10/&gt;ards, respectively.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153054Z" creationid="lenovo" creationdate="20200901T131939Z">
-        <seg>这些差异使LwDITA创作格式分别符合HTML5和DITA XML标准。&lt;t10/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T130249Z" creationid="lenovo" creationdate="20200901T131939Z">
+        <seg>这些差异使LwDITA写作格式分别符合HTML5和DITA XML标准。&lt;t10/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20009,8 +20009,8 @@
       <tuv lang="en">
         <seg>Using the DITA &lt;t0/&gt;1.3 &lt;t1/&gt;standard, you could incorporate those files as external resources; i.e., a DITA map could reference the diverse authoring formats and produce a deliverable.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T152919Z" creationid="lenovo" creationdate="20200827T134234Z">
-        <seg>使用DITA 1.3标准，你可以将这些文件合并为外部资源；例如DITA映射可以引用不同的创作格式并生成可交付的内容。&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T130249Z" creationid="lenovo" creationdate="20200827T134234Z">
+        <seg>使用DITA 1.3标准，你可以将这些文件合并为外部资源；例如DITA映射可以引用不同的写作格式并生成可交付的内容。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21018,8 +21018,8 @@
       <tuv lang="en">
         <seg>different LwDITA authoring formats (see the different values of &lt;t0/&gt;@format &lt;t1/&gt;in the &lt;t2/&gt;&lt;topicref&gt; &lt;t3/&gt;entries).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153207Z" creationid="lenovo" creationdate="20200902T153250Z">
-        <seg>不同的LwDITA创作格式创建的主题（请参见&lt;topicref&gt;条目中@format的不同值）。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T130249Z" creationid="lenovo" creationdate="20200902T153250Z">
+        <seg>不同的LwDITA写作格式创建的主题（请参见&lt;topicref&gt;条目中@format的不同值）。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
