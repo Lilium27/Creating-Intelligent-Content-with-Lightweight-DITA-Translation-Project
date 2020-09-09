@@ -509,3 +509,4 @@ discourse conventions	语篇规范
 Flower	弗劳尔
 legacy documentation	遗留文档
 Julio Vazquez	胡里奥·巴斯克斯
+icecream-flavor	冰淇淋口味
