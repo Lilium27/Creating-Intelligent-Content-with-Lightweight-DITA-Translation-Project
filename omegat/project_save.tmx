@@ -817,6 +817,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t15/&gt;66).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T124035Z" creationid="DSS" creationdate="20200909T124035Z">
+        <seg>&lt;t15/&gt;66)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t15/&gt;Content in XML, for example, can be tagged as a product name, a procedure, a works cited entry, or any other part of a technical or professional document.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T161153Z" creationid="DSS" creationdate="20200726T153251Z">
@@ -2579,8 +2587,8 @@
       <tuv lang="en">
         <seg>A second approach, which is more appropriate for layer &lt;t9/&gt;2, &lt;t10/&gt;is provided by &lt;t11/&gt;content variables&lt;t12/&gt;, which Nancy Harrison defines as “variables that contain phrase-level content that needs to be in a topic no matter what document the topic is part of, but that changes depending on context, for example, a product name or a company name” &lt;t13/&gt;(2016, &lt;t14/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T124026Z" creationid="lenovo" creationdate="20200901T124131Z">
-        <seg>第二种方法更适合第二层级，该方法由内容变量提供。南希·哈里森将其定义为“主题（无论该主题属于哪个文档）内包含短语级别内容的变量，该变量都必须包含在主题中。 根据上下文而变化，例如“产品名称或公司名称” (2016, p.&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T124442Z" creationid="lenovo" creationdate="20200901T124131Z">
+        <seg>第二种方法更适合第二层级，该方法由&lt;t11/&gt;内容变量&lt;t12/&gt;提供。南希·哈里森将内容变量定义为“主题（无论该主题属于哪个文档）内包含短语级别内容的变量，但是会根据上下文而发生变化，例如“产品名称或公司名称” (2016, p.&lt;t9/&gt;&lt;t10/&gt;&lt;t13/&gt;&lt;t14/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13006,8 +13014,8 @@
       <tuv lang="en">
         <seg>One possible approach could be through &lt;t0/&gt;conditional content&lt;t1/&gt;, which Julio Vazquez defines as “content that has sufficient metadata to allow a processor to filter or flag that content in any output or format, using a profile to determine the exact output for a given context or format” &lt;t2/&gt;(2016, &lt;t3/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200907T140001Z" creationid="lenovo" creationdate="20200901T124012Z">
-        <seg>一种可行的方法是使用“条件内容”，胡里奥·巴斯克斯（Julio Vazquez）将“条件内容”定义为“具有足够元数据的内容，处理程序可以根据给定的上下文或格式，使用配置文件定义确切的输出，以任何输出或格式过滤或标记该内容。” (2016, p.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T124144Z" creationid="lenovo" creationdate="20200901T124012Z">
+        <seg>一种可行的方法是使用“ &lt;t0/&gt;条件内容&lt;t1/&gt;”，胡里奥·巴斯克斯（Julio Vazquez）将“条件内容”定义为“具有足够元数据的内容，处理程序可以根据给定的上下文或格式，使用配置文件定义确切的输出，以任何输出或格式过滤或标记该内容。” (2016, p.&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
