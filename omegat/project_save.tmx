@@ -10652,8 +10652,8 @@
       <tuv lang="en">
         <seg>In this example, the recipe was created in XDITA - the LwDITA authoring format based on a simplified version of DITA XML.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T130249Z" creationid="lenovo" creationdate="20200901T130045Z">
-        <seg>在此示例中，配方以XDITA创建一种基于DITA XML简化版本的LwDITA写作格式。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T152935Z" creationid="lenovo" creationdate="20200901T130045Z">
+        <seg>在此示例中，食谱使用XDITA创建，XDITA是一种基于DITA XML简化版本的LwDITA写作格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16998,8 +16998,8 @@
       <tuv lang="en">
         <seg>The list item asking for a pint of ice cream includes a key reference with the value of &lt;t2/&gt;“icecream-flavor,”&lt;t3/&gt; which will be set at processing time in a different layer.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153045Z" creationid="lenovo" creationdate="20200901T130341Z">
-        <seg>列表项表明配方需要一品脱冰淇淋，包括一个关键参考，其值为“冰淇淋口味”，该值将在处理时在不同层中进行设置。&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T153057Z" creationid="lenovo" creationdate="20200901T130341Z">
+        <seg>列表项表明食谱需要一品脱冰淇淋，包括一个关键参考，其值为“icecream-flavor”，该值将在处理时在不同层中进行设置。&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
