@@ -9098,8 +9098,8 @@
       <tuv lang="en">
         <seg>If the milkshake today will be strawberry-flavored, the variable &lt;t3/&gt;“icecream-flavor”&lt;t4/&gt; will be set to the value of &lt;t5/&gt;“strawberry&lt;t6/&gt;”.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153022Z" creationid="lenovo" creationdate="20200901T124448Z">
-        <seg>如果今天的奶昔是草莓味的，则变量“冰淇淋味”的值设置为“草莓”。 &lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T125425Z" creationid="lenovo" creationdate="20200901T124448Z">
+        <seg>如果今天的奶昔是草莓味的，则变量“&lt;t3/&gt;冰淇淋口味&lt;t4/&gt;”的值设置为“&lt;t5/&gt;草莓&lt;t6/&gt;”。</seg>
       </tuv>
     </tu>
     <tu>
