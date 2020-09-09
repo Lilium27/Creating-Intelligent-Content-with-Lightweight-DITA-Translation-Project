@@ -1059,8 +1059,8 @@
       <tuv lang="en">
         <seg>&lt;t2/&gt;Figure &lt;t3/&gt;8.1 &lt;t4/&gt;shows a version of the XDITA code for the milkshake recipe.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153032Z" creationid="lenovo" creationdate="20200901T125033Z">
-        <seg>图8.1显示了奶昔配方的XDITA代码版本。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T151305Z" creationid="lenovo" creationdate="20200901T125033Z">
+        <seg>图8.1展示了XDITA代码版本的奶昔食谱。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11780,8 +11780,8 @@
       <tuv lang="en">
         <seg>Like all code samples from previous chapters, the examples included in this section can be authored in any text edi&lt;t5/&gt;tor (not in a word processor) or a LwDITA-aware software application, and can be downloaded from the &lt;t6/&gt;Creating Intelligent Content with Lightweight DITA &lt;t7/&gt;GitHub repository (&lt;t8/&gt;https://github.com/carlosevia/lwdita-book&lt;t9/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153037Z" creationid="lenovo" creationdate="20200901T125044Z">
-        <seg>与前几章中的所有代码示例一样，本节中包含的示例可以在任何文本编辑器（而不是文字处理程序）或支持LwDITA的软件应用程序中编写，也可以从使用轻量级DITA GitHub存储库创建智能内容中下载。(https://github.com/carlosevia/lwdita-book).&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T151531Z" creationid="lenovo" creationdate="20200901T125044Z">
+        <seg>与前几章中的所有代码示例一样，本节中包含的示例可以在任何文本编辑器（不是文字处理程序）或支持LwDITA的软件应用程序中编写，也可以从 &lt;t6/&gt;Creating Intelligent Content with Lightweight DITA &lt;t7/&gt;GitHub 仓库中下载(&lt;t8/&gt;https://github.com/carlosevia/lwdita-book&lt;t9/&gt;)。</seg>
       </tuv>
     </tu>
     <tu>
