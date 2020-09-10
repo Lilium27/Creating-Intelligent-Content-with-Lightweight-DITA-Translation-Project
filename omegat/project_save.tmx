@@ -10604,8 +10604,8 @@
       <tuv lang="en">
         <seg>In this case, the “red squiggly of doom” error tells the authors that the topic is not valid and must be fixed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200813T151606Z">
-        <seg>在本例中，“预示着坏消息的红色曲线”错误报告告诉写作者，这个主题是无效的，需要修正。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T134806Z" creationid="DSS" creationdate="20200813T151606Z">
+        <seg>在本例中，“红色波浪线预警”错误报告告诉写作者，这个主题是无效的，需要修正。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14401,8 +14401,8 @@
       <tuv lang="en">
         <seg>Some of my students call the Oxygen validation error notifier the “red squiggly of doom” (&lt;t3/&gt;Figure 6.2&lt;t4/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T154347Z" creationid="DSS" creationdate="20200813T153206Z">
-        <seg>我的一些学生称 Oxygen 验证错误提示是“预示着坏消息的红色曲线”（&lt;t3/&gt;图6.2&lt;t4/&gt;）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T134823Z" creationid="DSS" creationdate="20200813T153206Z">
+        <seg>我的一些学生称 Oxygen 验证错误提示是“红色波浪线预警”（&lt;t3/&gt;图6.2&lt;t4/&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18350,8 +18350,8 @@
       <tuv lang="en">
         <seg>The “red squiggly of doom” from &lt;t0/&gt;Figure 6.2&lt;t1/&gt; indicates that, according to the XDITA grammar rules, a topic cannot be empty.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T134754Z">
-        <seg>根据 XDITA 语法规则，图6.2中的“预示着坏消息的红色曲线”表示主题内容不能为空。&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T134857Z" creationid="DSS" creationdate="20200816T134754Z">
+        <seg>根据 XDITA 语法规则，图6.2中的“红色波浪线预警”表示主题内容不能为空。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
