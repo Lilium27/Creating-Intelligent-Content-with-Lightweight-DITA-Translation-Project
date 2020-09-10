@@ -4403,8 +4403,8 @@
       <tuv lang="en">
         <seg>Because the MDITA components represent a subset of the GitHub Flavored Markdown (GFM) syntax&lt;t0/&gt;2&lt;t1/&gt;, not all moves that are valid in GFM or another Markdown flavor are allowed in MDITA extended profile (e.g., there's no &lt;t2/&gt;### &lt;t3/&gt;syntax to express a level-three heading in MDITA extended profile, although &lt;t4/&gt;it exists in most Markdown flavors).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T150818Z" creationid="lenovo" creationdate="20200813T083447Z">
-        <seg>因为MDITA组件是GitHub风格的Markdown(GFM)语法&lt;t0/&gt;2&lt;t1/&gt;的子集，并非所有在GFM或其他Markdown风格语法中有效的文步都能用于MDITA扩展配置文件（例如，在MDITA扩展概要中不能用 &lt;t2/&gt;### &lt;t3/&gt;&lt;t4/&gt;来表示三级标题，尽管这一语法在大多数Markdown风格语法中都存在）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T152515Z" creationid="lenovo" creationdate="20200813T083447Z">
+        <seg>因为MDITA组件是GitHub风格的Markdown(GFM)语法&lt;t0/&gt;2&lt;t1/&gt;的子集，并非所有在GFM或其他Markdown风格语法中有效的文步都被MDITA扩展概要所允许（例如，在MDITA扩展概要中不能用 &lt;t2/&gt;### &lt;t3/&gt;&lt;t4/&gt;来表示三级标题，尽管这一语法在大多数Markdown风格语法中都存在）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9740,8 +9740,8 @@
       <tuv lang="en">
         <seg>In MDITA extended profile, authors can specify an &lt;t14/&gt;@id &lt;t15/&gt;for the topic that overrides the “slugify” process.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T134214Z" creationid="DSS" creationdate="20200816T134214Z">
-        <seg>在 MDITA 扩展配置中，作者可以指定 &lt;t14/&gt;@id &lt;t15/&gt;名称，覆盖自动解析生成的@id。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T152523Z" creationid="DSS" creationdate="20200816T134214Z">
+        <seg>在 MDITA 扩展概要中，作者可以指定 &lt;t14/&gt;@id &lt;t15/&gt;名称，覆盖自动解析生成的@id。</seg>
       </tuv>
     </tu>
     <tu>
