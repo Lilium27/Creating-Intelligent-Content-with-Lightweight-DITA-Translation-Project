@@ -17222,8 +17222,8 @@
       <tuv lang="en">
         <seg>The only components included in an MDITA version of the brochure map would be a title (represented by a Markdown &lt;t2/&gt;atx&lt;t3/&gt; heading of &lt;t4/&gt;# &lt;t5/&gt;in this case) and list items &lt;t6/&gt;(&lt;t7/&gt;-&lt;t8/&gt;) &lt;t9/&gt;that include links to each topic and its navigation title.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200808T040145Z">
-        <seg>MDITA格式的手册映射中包含的唯一组件是标题（在本例中用 Markdown 中的 # 表示标题）和列表项 (-) ，列表项将提供关联到到每个主题的连接，并形成导航标题。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T140920Z" creationid="DSS" creationdate="20200808T040145Z">
+        <seg>MDITA格式的手册映射中包含的唯一组件是标题（在本例中用 Markdown 中的 # 表示标题）和列表项 (-) ，列表项将提供关联到每个主题的连接和导航标题。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
       </tuv>
     </tu>
     <tu>
