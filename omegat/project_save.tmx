@@ -4611,8 +4611,8 @@
       <tuv lang="en">
         <seg>Bold (&lt;t0/&gt;&lt;strong&gt;&lt;t1/&gt;): &lt;li&gt;&lt;p&gt;Warranty of &lt;t2/&gt;&lt;strong&gt;&lt;t3/&gt;exclusive territory &lt;t4/&gt;&lt;/strong&gt;&lt;t5/&gt;&lt;/p&gt;&lt;/li&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T125408Z" creationid="lenovo" creationdate="20200825T125408Z">
-        <seg>粗体 (&lt;t0/&gt;&lt;strong&gt;&lt;t1/&gt;): &lt;li&gt;&lt;p&gt;授权 &lt;t2/&gt;&lt;strong&gt;&lt;t3/&gt;独家销售权 &lt;t4/&gt;&lt;/strong&gt;&lt;t5/&gt;&lt;/p&gt;&lt;/li&gt;.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T152822Z" creationid="lenovo" creationdate="20200825T125408Z">
+        <seg>粗体 (&lt;t0/&gt;&lt;strong&gt;&lt;t1/&gt;): &lt;li&gt;&lt;p&gt;Warranty of &lt;t2/&gt;&lt;strong&gt;&lt;t3/&gt;exclusive territory &lt;t4/&gt;&lt;/strong&gt;&lt;t5/&gt;&lt;/p&gt;&lt;/li&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11300,8 +11300,8 @@
       <tuv lang="en">
         <seg>Italics (&lt;t0/&gt;&lt;i&gt;&lt;t1/&gt;): &lt;p&gt;We offer more than &lt;t2/&gt;30 &lt;t3/&gt;exclusive creations of original rolls, from the&lt;t4/&gt; &lt;i&gt; &lt;t5/&gt;California&lt;t6/&gt; &lt;/i&gt; &lt;t7/&gt;roll&lt;t8/&gt; to sushi with BBQ chicken or grilled steak.&lt;/p&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T124830Z" creationid="lenovo" creationdate="20200825T124408Z">
-        <seg>斜体 (&lt;t0/&gt;&lt;i&gt;&lt;t1/&gt;): &lt;p&gt;我们提供超过 &lt;t2/&gt;30种 &lt;t3/&gt;独家原创卷，从&lt;t4/&gt; &lt;i&gt; &lt;t5/&gt;加利福尼亚&lt;t6/&gt; &lt;/i&gt; &lt;t7/&gt;卷&lt;t8/&gt; 到烤鸡肉或烤牛排寿司。&lt;/p&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T152737Z" creationid="lenovo" creationdate="20200825T124408Z">
+        <seg>斜体 (&lt;t0/&gt;&lt;i&gt;&lt;t1/&gt;): &lt;p&gt;We offer more than &lt;t2/&gt;30 &lt;t3/&gt;exclusive creations of original rolls, from the&lt;t4/&gt; &lt;i&gt; &lt;t5/&gt;California&lt;t6/&gt; &lt;/i&gt; &lt;t7/&gt;roll&lt;t8/&gt; to sushi with BBQ chicken or grilled steak.&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14647,10 +14647,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Subscript (&lt;t0/&gt;&lt;sub&gt;&lt;t1/&gt;): &lt;p&gt;One serving of sushi rice requires &lt;t2/&gt;2 &lt;t3/&gt;cups of H&lt;t4/&gt;&lt;sub&gt;&lt;t5/&gt;2&lt;t6/&gt;&lt;/sub&gt;&lt;t7/&gt;O .&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T152850Z" creationid="DSS" creationdate="20200910T152850Z">
+        <seg>下标(&lt;t0/&gt;&lt;sub&gt;&lt;t1/&gt;): &lt;p&gt;One serving of sushi rice requires &lt;t2/&gt;2 &lt;t3/&gt;cups of H&lt;t4/&gt;&lt;sub&gt;&lt;t5/&gt;2&lt;t6/&gt;&lt;/sub&gt;&lt;t7/&gt;O .&lt;/p&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Subscript (&lt;t0/&gt;&lt;sub&gt;&lt;t1/&gt;): &lt;p&gt;One serving of sushi rice requires &lt;t2/&gt;2 &lt;t3/&gt;cups of H&lt;t4/&gt;&lt;sub&gt;&lt;t5/&gt;2&lt;t6/&gt;&lt;/sub&gt;&lt;t7/&gt;O.&lt;/p&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T124929Z" creationid="lenovo" creationdate="20200825T124929Z">
-        <seg>下标 (&lt;t0/&gt;&lt;sub&gt;&lt;t1/&gt;): &lt;p&gt;一份寿司饭需要 &lt;t2/&gt;2 &lt;t3/&gt;杯 of H&lt;t4/&gt;&lt;sub&gt;&lt;t5/&gt;2&lt;t6/&gt;&lt;/sub&gt;&lt;t7/&gt;O。&lt;/p&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T152757Z" creationid="lenovo" creationdate="20200825T124929Z">
+        <seg>下标 (&lt;t0/&gt;&lt;sub&gt;&lt;t1/&gt;): &lt;p&gt;One serving of sushi rice requires &lt;t2/&gt;2 &lt;t3/&gt;cups of H&lt;t4/&gt;&lt;sub&gt;&lt;t5/&gt;2&lt;t6/&gt;&lt;/sub&gt;&lt;t7/&gt;O.&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19943,10 +19951,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Underline (&lt;t0/&gt;&lt;u&gt; &lt;t1/&gt;5&lt;t2/&gt;): &lt;t3/&gt;&lt;p&gt;Franchise owners &lt;t4/&gt;&lt;u&gt;&lt;t5/&gt;must&lt;t6/&gt;&lt;/u&gt; &lt;t7/&gt;pay their fees on the first week of each calendar month.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T152917Z" creationid="DSS" creationdate="20200910T152917Z">
+        <seg>下划线 (&lt;t0/&gt;&lt;u&gt; &lt;t1/&gt;5&lt;t2/&gt;): &lt;t3/&gt;&lt;p&gt;Franchise owners &lt;t4/&gt;&lt;u&gt;&lt;t5/&gt;must&lt;t6/&gt;&lt;/u&gt; &lt;t7/&gt;pay their fees on the first week of each calendar month.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Underline (&lt;t0/&gt;&lt;u&gt;&lt;t1/&gt;): &lt;p&gt;Franchise owners &lt;t2/&gt;&lt;u&gt;&lt;t3/&gt;must&lt;t4/&gt;&lt;/u&gt; &lt;t5/&gt;pay their fees on the first week of each calendar month.&lt;/p&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T125321Z" creationid="lenovo" creationdate="20200825T125132Z">
-        <seg>下划线 (&lt;t0/&gt;&lt;u&gt;&lt;t1/&gt;): &lt;p&gt;特许经营商 &lt;t2/&gt;&lt;u&gt;&lt;t3/&gt;必须&lt;t4/&gt;&lt;/u&gt; &lt;t5/&gt;在公历每月第一周支付费用。&lt;/p&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T152816Z" creationid="lenovo" creationdate="20200825T125132Z">
+        <seg>下划线 (&lt;t0/&gt;&lt;u&gt;&lt;t1/&gt;): &lt;p&gt;Franchise owners &lt;t2/&gt;&lt;u&gt;&lt;t3/&gt;must&lt;t4/&gt;&lt;/u&gt; &lt;t5/&gt;pay their fees on the first week of each calendar month.&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21974,6 +21990,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T022829Z" creationid="lenovo" creationdate="20200812T022829Z">
         <seg>• &lt;t0/&gt;正文元素：&lt;t1/&gt;29, &lt;t2/&gt;包括 &lt;t3/&gt;&lt;ol&gt;&lt;t4/&gt;, &lt;t5/&gt;&lt;p&gt;, &lt;t6/&gt;和 &lt;t7/&gt;&lt;ul&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;Bold (text wrapped with &lt;t1/&gt;** &lt;t2/&gt;or with &lt;t3/&gt;__ &lt;t4/&gt;): &lt;t5/&gt;Warranty of &lt;t6/&gt;**&lt;t7/&gt;exclusive territory&lt;t8/&gt;** &lt;t9/&gt;or Warranty of &lt;t10/&gt;__&lt;t11/&gt;exclusive territory&lt;t12/&gt;__&lt;t13/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T153100Z" creationid="DSS" creationdate="20200910T153100Z">
+        <seg>• 粗体(用&lt;t1/&gt;** &lt;t2/&gt;或&lt;t3/&gt;__ &lt;t4/&gt;包裹的文本): &lt;t5/&gt;Warranty of &lt;t6/&gt;**&lt;t7/&gt;exclusive territory&lt;t8/&gt;** &lt;t9/&gt;or Warranty of &lt;t10/&gt;__&lt;t11/&gt;exclusive territory&lt;t12/&gt;__&lt;t13/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
