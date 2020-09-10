@@ -4403,8 +4403,8 @@
       <tuv lang="en">
         <seg>Because the MDITA components represent a subset of the GitHub Flavored Markdown (GFM) syntax&lt;t0/&gt;2&lt;t1/&gt;, not all moves that are valid in GFM or another Markdown flavor are allowed in MDITA extended profile (e.g., there's no &lt;t2/&gt;### &lt;t3/&gt;syntax to express a level-three heading in MDITA extended profile, although &lt;t4/&gt;it exists in most Markdown flavors).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T130054Z" creationid="lenovo" creationdate="20200813T083447Z">
-        <seg>因为MDITA组件是GitHub风格的Markdown(GFM)语法&lt;t0/&gt;2&lt;t1/&gt;的子集，并非所有在GFM或其他Markdown风格语法中有效的文步都能用于MDITA扩展配置文件（例如，MDITA扩展配置文件中不能用 &lt;t2/&gt;### &lt;t3/&gt;&lt;t4/&gt;来表示三级标题，尽管这一语法在大多数Markdown风格语法中都存在）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T150818Z" creationid="lenovo" creationdate="20200813T083447Z">
+        <seg>因为MDITA组件是GitHub风格的Markdown(GFM)语法&lt;t0/&gt;2&lt;t1/&gt;的子集，并非所有在GFM或其他Markdown风格语法中有效的文步都能用于MDITA扩展配置文件（例如，在MDITA扩展概要中不能用 &lt;t2/&gt;### &lt;t3/&gt;&lt;t4/&gt;来表示三级标题，尽管这一语法在大多数Markdown风格语法中都存在）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10180,16 +10180,16 @@
       <tuv lang="en">
         <seg>In its extended profile, MDITA allows a header authored in YAML&lt;t5/&gt;4&lt;t6/&gt; (the recursive acronym for &lt;t7/&gt;YAML Ain't Markup Language&lt;t8/&gt;) with metadata about the topic's author and some categories that we have been carrying since the original XML sample.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T115319Z" creationid="DSS" creationdate="20200817T081204Z">
-        <seg>在其扩展配置中，MDITA 允许使用 YAML&lt;t5/&gt;4&lt;t6/&gt;（&lt;t7/&gt;YAML Ain't Markup Language&lt;t8/&gt;）文件头，关于主题作者的元数据以及一些原生 XML 一直包含的类别组件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T150619Z" creationid="DSS" creationdate="20200817T081204Z">
+        <seg>在其扩展概要中，MDITA 允许使用 YAML&lt;t5/&gt;4&lt;t6/&gt;（&lt;t7/&gt;YAML Ain't Markup Language&lt;t8/&gt;）文件头，关于主题作者的元数据以及一些原生 XML 一直包含的类别组件。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>In its extended profile, MDITA can incorporate YAML front matter headers and HDITA elements and attributes to overcome Markdown limitations as a language for authoring structured and reusable content&lt;t0/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T115604Z" creationid="lenovo" creationdate="20200813T082726Z">
-        <seg>在其扩展配置文件中，MDITA可以兼容YAML文件头和HDITA元素和属性，以克服Markdown作为创作结构化和可复用内容的语言的限制。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T150635Z" creationid="lenovo" creationdate="20200813T082726Z">
+        <seg>在其扩展概要中，MDITA可以兼容YAML文件头和HDITA元素和属性，以克服Markdown作为创作结构化和可复用内容的语言的限制。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
