@@ -649,8 +649,8 @@
       <tuv lang="en">
         <seg>&lt;t10/&gt;The &lt;t11/&gt;@keyref &lt;t12/&gt;mechanism, Hackos adds, is comprised of two components:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T130950Z" creationid="lenovo" creationdate="20200901T124904Z">
-        <seg>哈克斯补充说，&lt;t11/&gt;@keyref &lt;t12/&gt;机制由两个组件组成：&lt;t11/&gt;&lt;t12/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T153443Z" creationid="lenovo" creationdate="20200901T124904Z">
+        <seg>哈克斯补充说，&lt;t11/&gt;@keyref &lt;t12/&gt;机制由两个组件组成：</seg>
       </tuv>
     </tu>
     <tu>
@@ -1603,8 +1603,8 @@
       <tuv lang="en">
         <seg>&lt;t4/&gt;64).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200907T135301Z" creationid="DSS" creationdate="20200907T135111Z">
-        <seg>&lt;t15/&gt;64)。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T153413Z" creationid="DSS" creationdate="20200907T135111Z">
+        <seg>&lt;t4/&gt;64)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2603,8 +2603,8 @@
       <tuv lang="en">
         <seg>A second approach, which is more appropriate for layer &lt;t9/&gt;2, &lt;t10/&gt;is provided by &lt;t11/&gt;content variables&lt;t12/&gt;, which Nancy Harrison defines as “variables that contain phrase-level content that needs to be in a topic no matter what document the topic is part of, but that changes depending on context, for example, a product name or a company name” &lt;t13/&gt;(2016, &lt;t14/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T124442Z" creationid="lenovo" creationdate="20200901T124131Z">
-        <seg>第二种方法更适合第二层级，该方法由&lt;t11/&gt;内容变量&lt;t12/&gt;提供。南希·哈里森将内容变量定义为“主题（无论该主题属于哪个文档）内包含短语级别内容的变量，但是会根据上下文而发生变化，例如“产品名称或公司名称” (2016, p.&lt;t9/&gt;&lt;t10/&gt;&lt;t13/&gt;&lt;t14/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T153429Z" creationid="lenovo" creationdate="20200901T124131Z">
+        <seg>第二种方法更适合第二层级，该方法由&lt;t11/&gt;内容变量&lt;t12/&gt;提供。南希·哈里森将内容变量定义为“主题（无论该主题属于哪个文档）内包含短语级别内容的变量，但是会根据上下文而发生变化，例如“产品名称或公司名称” (2016, p.&lt;t13/&gt;&lt;t14/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3347,8 +3347,8 @@
       <tuv lang="en">
         <seg>An author working with this source code would be able to tell that step &lt;t8/&gt;1 &lt;t9/&gt;is asking for &lt;t10/&gt;场&lt;t11/&gt; &lt;t12/&gt;cup of mil&lt;t13/&gt;k&lt;t14/&gt;1&lt;t15/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T152216Z" creationid="lenovo" creationdate="20200901T125639Z">
-        <seg>编写此源代码的写作者就能够表明步骤一需要1/4杯牛奶&lt;t14/&gt;1&lt;t15/&gt;。&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T153459Z" creationid="lenovo" creationdate="20200901T125639Z">
+        <seg>编写此源代码的写作者就能够表明步骤一需要1/4杯牛奶&lt;t14/&gt;1&lt;t15/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21996,8 +21996,8 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;Bold (text wrapped with &lt;t1/&gt;** &lt;t2/&gt;or with &lt;t3/&gt;__ &lt;t4/&gt;): &lt;t5/&gt;Warranty of &lt;t6/&gt;**&lt;t7/&gt;exclusive territory&lt;t8/&gt;** &lt;t9/&gt;or Warranty of &lt;t10/&gt;__&lt;t11/&gt;exclusive territory&lt;t12/&gt;__&lt;t13/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T153100Z" creationid="DSS" creationdate="20200910T153100Z">
-        <seg>• 粗体(用&lt;t1/&gt;** &lt;t2/&gt;或&lt;t3/&gt;__ &lt;t4/&gt;包裹的文本): &lt;t5/&gt;Warranty of &lt;t6/&gt;**&lt;t7/&gt;exclusive territory&lt;t8/&gt;** &lt;t9/&gt;or Warranty of &lt;t10/&gt;__&lt;t11/&gt;exclusive territory&lt;t12/&gt;__&lt;t13/&gt;.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T153321Z" creationid="DSS" creationdate="20200910T153100Z">
+        <seg>&lt;t0/&gt;• 粗体(用&lt;t1/&gt;** &lt;t2/&gt;或&lt;t3/&gt;__ &lt;t4/&gt;包裹的文本): &lt;t5/&gt;Warranty of &lt;t6/&gt;**&lt;t7/&gt;exclusive territory&lt;t8/&gt;** &lt;t9/&gt;or Warranty of &lt;t10/&gt;__&lt;t11/&gt;exclusive territory&lt;t12/&gt;__&lt;t13/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22125,8 +22125,8 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;Italics (text wrapped with &lt;t1/&gt;* &lt;t2/&gt;or with &lt;t3/&gt;_ &lt;t4/&gt;): &lt;t5/&gt;a) We offer more than &lt;t6/&gt;30 &lt;t7/&gt;exclusive cre&lt;t8/&gt;ations of original rolls, from the &lt;t9/&gt;*&lt;t10/&gt;California roll&lt;t11/&gt;* &lt;t12/&gt;to sushi with BBQ chicken or grilled steak Or b) We offer more than &lt;t13/&gt;30 &lt;t14/&gt;exclusive creations of original rolls, from the &lt;t15/&gt;_&lt;t16/&gt;California roll&lt;t17/&gt;_ &lt;t18/&gt;to sushi with BBQ chicken or grilled steak.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T153139Z" creationid="DSS" creationdate="20200910T153139Z">
-        <seg>• 斜体(用&lt;t1/&gt;* &lt;t2/&gt;或&lt;t3/&gt;_ &lt;t4/&gt;包裹的文本): &lt;t5/&gt;a) We offer more than &lt;t6/&gt;30 &lt;t7/&gt;exclusive cre&lt;t8/&gt;ations of original rolls, from the &lt;t9/&gt;*&lt;t10/&gt;California roll&lt;t11/&gt;* &lt;t12/&gt;to sushi with BBQ chicken or grilled steak Or b) We offer more than &lt;t13/&gt;30 &lt;t14/&gt;exclusive creations of original rolls, from the &lt;t15/&gt;_&lt;t16/&gt;California roll&lt;t17/&gt;_ &lt;t18/&gt;to sushi with BBQ chicken or grilled steak.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T153347Z" creationid="DSS" creationdate="20200910T153139Z">
+        <seg>• &lt;t0/&gt;斜体(用&lt;t1/&gt;* &lt;t2/&gt;或&lt;t3/&gt;_ &lt;t4/&gt;包裹的文本): &lt;t5/&gt;a) We offer more than &lt;t6/&gt;30 &lt;t7/&gt;exclusive cre&lt;t8/&gt;ations of original rolls, from the &lt;t9/&gt;*&lt;t10/&gt;California roll&lt;t11/&gt;* &lt;t12/&gt;to sushi with BBQ chicken or grilled steak Or b) We offer more than &lt;t13/&gt;30 &lt;t14/&gt;exclusive creations of original rolls, from the &lt;t15/&gt;_&lt;t16/&gt;California roll&lt;t17/&gt;_ &lt;t18/&gt;to sushi with BBQ chicken or grilled steak.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22309,8 +22309,8 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;Superscript (&lt;t1/&gt;&lt;sup&gt;&lt;t2/&gt;): &lt;p&gt;Franchised restaurants should be located in areas of at least &lt;t3/&gt;200 &lt;t4/&gt;ft&lt;t5/&gt;&lt;sup&gt;&lt;t6/&gt;2&lt;t7/&gt;&lt;/sup&gt;&lt;t8/&gt;.&lt;/p&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T153222Z" creationid="DSS" creationdate="20200910T153222Z">
-        <seg>• 上标 (&lt;t1/&gt;&lt;sup&gt;&lt;t2/&gt;): &lt;p&gt;Franchised restaurants should be located in areas of at least &lt;t3/&gt;200 &lt;t4/&gt;ft&lt;t5/&gt;&lt;sup&gt;&lt;t6/&gt;2&lt;t7/&gt;&lt;/sup&gt;&lt;t8/&gt;.&lt;/p&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T153356Z" creationid="DSS" creationdate="20200910T153222Z">
+        <seg>• &lt;t0/&gt;上标 (&lt;t1/&gt;&lt;sup&gt;&lt;t2/&gt;): &lt;p&gt;Franchised restaurants should be located in areas of at least &lt;t3/&gt;200 &lt;t4/&gt;ft&lt;t5/&gt;&lt;sup&gt;&lt;t6/&gt;2&lt;t7/&gt;&lt;/sup&gt;&lt;t8/&gt;.&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22461,8 +22461,8 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;Underline (&lt;t1/&gt;&lt;u&gt; &lt;t2/&gt;in an HDITA code snippet): &lt;p&gt;Franchise owners &lt;t3/&gt;&lt;u&gt;&lt;t4/&gt;must&lt;t5/&gt;&lt;/u&gt; &lt;t6/&gt;pay their fees on the first week of each calendar month.&lt;/p&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T153304Z" creationid="DSS" creationdate="20200910T153304Z">
-        <seg>• 下划线(&lt;t1/&gt;&lt;u&gt; &lt;t2/&gt;in an HDITA code snippet): &lt;p&gt;Franchise owners &lt;t3/&gt;&lt;u&gt;&lt;t4/&gt;must&lt;t5/&gt;&lt;/u&gt; &lt;t6/&gt;pay their fees on the first week of each calendar month.&lt;/p&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T153403Z" creationid="DSS" creationdate="20200910T153304Z">
+        <seg>• &lt;t0/&gt;下划线(&lt;t1/&gt;&lt;u&gt; &lt;t2/&gt;in an HDITA code snippet): &lt;p&gt;Franchise owners &lt;t3/&gt;&lt;u&gt;&lt;t4/&gt;must&lt;t5/&gt;&lt;/u&gt; &lt;t6/&gt;pay their fees on the first week of each calendar month.&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
