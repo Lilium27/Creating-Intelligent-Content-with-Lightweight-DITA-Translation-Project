@@ -4443,8 +4443,8 @@
       <tuv lang="en">
         <seg>Before I fix the XDITA topic to remove the error messages, I will present the mapping of the XDITA element of topic to the HDITA and MDITA authoring formats.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T133150Z">
-        <seg>在修正上文展示的 XDITA 主题，清除验证错误提示之前，我将展示如何把 XDITA 格式的主题元素映射到 HDITA 和 MDITA 格式上。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T150018Z" creationid="DSS" creationdate="20200816T133150Z">
+        <seg>在修正上文展示的 XDITA 主题，清除验证失败提示之前，我将展示如何把 XDITA 格式的主题元素映射到 HDITA 和 MDITA 格式上。</seg>
       </tuv>
     </tu>
     <tu>
