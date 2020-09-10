@@ -15090,16 +15090,16 @@
       <tuv lang="en">
         <seg>That means that &lt;t6/&gt;including an HTML5 element that is not allowed in HDITA, like &lt;t7/&gt;&lt;aside&gt; &lt;t8/&gt;or &lt;t9/&gt;&lt;details&gt;&lt;t10/&gt;, would produce a validation error in LwDITA-aware tools.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T134341Z" creationid="lenovo" creationdate="20200813T080743Z">
-        <seg>这意味着如果在HDITA中包含禁用的HTML5元素，如 &lt;t6/&gt;&lt;t7/&gt;&lt;aside&gt; &lt;t8/&gt;or &lt;t9/&gt;&lt;details&gt;&lt;t10/&gt;，会使支持LwDITA的工具产生验证失败。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T150118Z" creationid="lenovo" creationdate="20200813T080743Z">
+        <seg>这意味着如果在HDITA中包含禁用的HTML5元素，如 &lt;t6/&gt;&lt;t7/&gt;&lt;aside&gt; &lt;t8/&gt;or &lt;t9/&gt;&lt;details&gt;&lt;t10/&gt;，支持LwDITA的工具会验证失败。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>That means that including a Markdown component that is not allowed in MDITA extended profile, like the level-three heading I mentioned earlier, would produce a validation error in LwDITA- aware tools.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T130132Z" creationid="lenovo" creationdate="20200813T083517Z">
-        <seg>这意味着包含MDITA扩展配置文件中禁用的Markdown组件(如我前面提到的三级标题)，在支持 LwDITA的工具中将产生验证错误。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T150304Z" creationid="lenovo" creationdate="20200813T083517Z">
+        <seg>这意味着包含MDITA扩展概要中禁用的Markdown组件(如我前面提到的三级标题)，支持LwDITA的工具会验证失败。</seg>
       </tuv>
     </tu>
     <tu>
