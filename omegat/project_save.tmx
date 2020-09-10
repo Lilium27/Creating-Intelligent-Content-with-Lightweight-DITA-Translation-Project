@@ -22123,6 +22123,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>• &lt;t0/&gt;Italics (text wrapped with &lt;t1/&gt;* &lt;t2/&gt;or with &lt;t3/&gt;_ &lt;t4/&gt;): &lt;t5/&gt;a) We offer more than &lt;t6/&gt;30 &lt;t7/&gt;exclusive cre&lt;t8/&gt;ations of original rolls, from the &lt;t9/&gt;*&lt;t10/&gt;California roll&lt;t11/&gt;* &lt;t12/&gt;to sushi with BBQ chicken or grilled steak Or b) We offer more than &lt;t13/&gt;30 &lt;t14/&gt;exclusive creations of original rolls, from the &lt;t15/&gt;_&lt;t16/&gt;California roll&lt;t17/&gt;_ &lt;t18/&gt;to sushi with BBQ chicken or grilled steak.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T153139Z" creationid="DSS" creationdate="20200910T153139Z">
+        <seg>• 斜体(用&lt;t1/&gt;* &lt;t2/&gt;或&lt;t3/&gt;_ &lt;t4/&gt;包裹的文本): &lt;t5/&gt;a) We offer more than &lt;t6/&gt;30 &lt;t7/&gt;exclusive cre&lt;t8/&gt;ations of original rolls, from the &lt;t9/&gt;*&lt;t10/&gt;California roll&lt;t11/&gt;* &lt;t12/&gt;to sushi with BBQ chicken or grilled steak Or b) We offer more than &lt;t13/&gt;30 &lt;t14/&gt;exclusive creations of original rolls, from the &lt;t15/&gt;_&lt;t16/&gt;California roll&lt;t17/&gt;_ &lt;t18/&gt;to sushi with BBQ chicken or grilled steak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>• &lt;t0/&gt;Layer &lt;t1/&gt;1: &lt;t2/&gt;Developing a content strategy</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T152938Z" creationid="lenovo" creationdate="20200831T133637Z">
@@ -22283,10 +22291,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>• &lt;t0/&gt;Subscript (&lt;t1/&gt;&lt;sub&gt;&lt;t2/&gt;): &lt;p&gt;One serving of sushi rice requires &lt;t3/&gt;2 &lt;t4/&gt;cups of H&lt;t5/&gt;&lt;sub&gt;&lt;t6/&gt;2&lt;t7/&gt;&lt;/sub&gt;&lt;t8/&gt;O .&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T153204Z" creationid="DSS" creationdate="20200910T153204Z">
+        <seg>• 下标 (&lt;t1/&gt;&lt;sub&gt;&lt;t2/&gt;): &lt;p&gt;One serving of sushi rice requires &lt;t3/&gt;2 &lt;t4/&gt;cups of H&lt;t5/&gt;&lt;sub&gt;&lt;t6/&gt;2&lt;t7/&gt;&lt;/sub&gt;&lt;t8/&gt;O .&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>• &lt;t0/&gt;Summarize</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T125258Z" creationid="lenovo" creationdate="20200810T125258Z">
         <seg>• &lt;t0/&gt;总结</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;Superscript (&lt;t1/&gt;&lt;sup&gt;&lt;t2/&gt;): &lt;p&gt;Franchised restaurants should be located in areas of at least &lt;t3/&gt;200 &lt;t4/&gt;ft&lt;t5/&gt;&lt;sup&gt;&lt;t6/&gt;2&lt;t7/&gt;&lt;/sup&gt;&lt;t8/&gt;.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T153222Z" creationid="DSS" creationdate="20200910T153222Z">
+        <seg>• 上标 (&lt;t1/&gt;&lt;sup&gt;&lt;t2/&gt;): &lt;p&gt;Franchised restaurants should be located in areas of at least &lt;t3/&gt;200 &lt;t4/&gt;ft&lt;t5/&gt;&lt;sup&gt;&lt;t6/&gt;2&lt;t7/&gt;&lt;/sup&gt;&lt;t8/&gt;.&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22431,6 +22455,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T022925Z" creationid="lenovo" creationdate="20200812T022925Z">
         <seg>• &lt;t0/&gt; 排版元素：&lt;t1/&gt;6, &lt;t2/&gt;包括 &lt;t3/&gt;&lt;b&gt;&lt;t4/&gt;,&lt;t5/&gt;&lt;i&gt;&lt;t6/&gt;, 和 &lt;t7/&gt;&lt;u&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• &lt;t0/&gt;Underline (&lt;t1/&gt;&lt;u&gt; &lt;t2/&gt;in an HDITA code snippet): &lt;p&gt;Franchise owners &lt;t3/&gt;&lt;u&gt;&lt;t4/&gt;must&lt;t5/&gt;&lt;/u&gt; &lt;t6/&gt;pay their fees on the first week of each calendar month.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T153304Z" creationid="DSS" creationdate="20200910T153304Z">
+        <seg>• 下划线(&lt;t1/&gt;&lt;u&gt; &lt;t2/&gt;in an HDITA code snippet): &lt;p&gt;Franchise owners &lt;t3/&gt;&lt;u&gt;&lt;t4/&gt;must&lt;t5/&gt;&lt;/u&gt; &lt;t6/&gt;pay their fees on the first week of each calendar month.&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
