@@ -649,8 +649,8 @@
       <tuv lang="en">
         <seg>&lt;t10/&gt;The &lt;t11/&gt;@keyref &lt;t12/&gt;mechanism, Hackos adds, is comprised of two components:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T153443Z" creationid="lenovo" creationdate="20200901T124904Z">
-        <seg>哈克斯补充说，&lt;t11/&gt;@keyref &lt;t12/&gt;机制由两个组件组成：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T154211Z" creationid="lenovo" creationdate="20200901T124904Z">
+        <seg>&lt;t10/&gt;哈克斯补充说，&lt;t11/&gt;@keyref &lt;t12/&gt;机制由两个组件组成：</seg>
       </tuv>
     </tu>
     <tu>
@@ -2603,8 +2603,8 @@
       <tuv lang="en">
         <seg>A second approach, which is more appropriate for layer &lt;t9/&gt;2, &lt;t10/&gt;is provided by &lt;t11/&gt;content variables&lt;t12/&gt;, which Nancy Harrison defines as “variables that contain phrase-level content that needs to be in a topic no matter what document the topic is part of, but that changes depending on context, for example, a product name or a company name” &lt;t13/&gt;(2016, &lt;t14/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T153429Z" creationid="lenovo" creationdate="20200901T124131Z">
-        <seg>第二种方法更适合第二层级，该方法由&lt;t11/&gt;内容变量&lt;t12/&gt;提供。南希·哈里森将内容变量定义为“主题（无论该主题属于哪个文档）内包含短语级别内容的变量，但是会根据上下文而发生变化，例如“产品名称或公司名称” (2016, p.&lt;t13/&gt;&lt;t14/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T154159Z" creationid="lenovo" creationdate="20200901T124131Z">
+        <seg>第二种方法更适合第二层级&lt;t9/&gt;&lt;t10/&gt;，该方法由&lt;t11/&gt;内容变量&lt;t12/&gt;提供。南希·哈里森将内容变量定义为“主题（无论该主题属于哪个文档）内包含短语级别内容的变量，但是会根据上下文而发生变化，例如“产品名称或公司名称” (2016, p.&lt;t13/&gt;&lt;t14/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3347,8 +3347,8 @@
       <tuv lang="en">
         <seg>An author working with this source code would be able to tell that step &lt;t8/&gt;1 &lt;t9/&gt;is asking for &lt;t10/&gt;场&lt;t11/&gt; &lt;t12/&gt;cup of mil&lt;t13/&gt;k&lt;t14/&gt;1&lt;t15/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T153459Z" creationid="lenovo" creationdate="20200901T125639Z">
-        <seg>编写此源代码的写作者就能够表明步骤一需要1/4杯牛奶&lt;t14/&gt;1&lt;t15/&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T154256Z" creationid="lenovo" creationdate="20200901T125639Z">
+        <seg>&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;编写此源代码的写作者就能够表明步骤一需要1/4杯牛奶&lt;t14/&gt;1&lt;t15/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16219,8 +16219,8 @@
       <tuv lang="en">
         <seg>The code from &lt;t0/&gt;Figure &lt;t1/&gt;8.1 &lt;t2/&gt;(let's call it a draft of the recipe) includes an unor&lt;t3/&gt;dered list (&lt;t4/&gt;&lt;ul&gt;&lt;t5/&gt;) with the identifier of “ingredients.” This list of ingredients contains two list item (&lt;t6/&gt;&lt;li&gt;&lt;t7/&gt;) elements.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T151813Z" creationid="lenovo" creationdate="20200901T125104Z">
-        <seg>图8.1中的代码（食谱草稿）包括标识为“ingredients”的无序列表（&lt;t4/&gt;&lt;ul&gt;&lt;t5/&gt;）。 此配料列表包含两个列表项（&lt;t6/&gt;&lt;li&gt;&lt;t7/&gt;）元素。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T154233Z" creationid="lenovo" creationdate="20200901T125104Z">
+        <seg>图8.1&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;中的代码（食谱草稿）包括标识为“ingredients”的无序列表（&lt;t4/&gt;&lt;ul&gt;&lt;t5/&gt;）。 此配料列表包含两个列表项（&lt;t6/&gt;&lt;li&gt;&lt;t7/&gt;）元素。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22293,8 +22293,8 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;Subscript (&lt;t1/&gt;&lt;sub&gt;&lt;t2/&gt;): &lt;p&gt;One serving of sushi rice requires &lt;t3/&gt;2 &lt;t4/&gt;cups of H&lt;t5/&gt;&lt;sub&gt;&lt;t6/&gt;2&lt;t7/&gt;&lt;/sub&gt;&lt;t8/&gt;O .&lt;/p&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T153204Z" creationid="DSS" creationdate="20200910T153204Z">
-        <seg>• 下标 (&lt;t1/&gt;&lt;sub&gt;&lt;t2/&gt;): &lt;p&gt;One serving of sushi rice requires &lt;t3/&gt;2 &lt;t4/&gt;cups of H&lt;t5/&gt;&lt;sub&gt;&lt;t6/&gt;2&lt;t7/&gt;&lt;/sub&gt;&lt;t8/&gt;O .&lt;/p&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T154141Z" creationid="DSS" creationdate="20200910T153204Z">
+        <seg>• &lt;t0/&gt;下标 (&lt;t1/&gt;&lt;sub&gt;&lt;t2/&gt;): &lt;p&gt;One serving of sushi rice requires &lt;t3/&gt;2 &lt;t4/&gt;cups of H&lt;t5/&gt;&lt;sub&gt;&lt;t6/&gt;2&lt;t7/&gt;&lt;/sub&gt;&lt;t8/&gt;O .&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
