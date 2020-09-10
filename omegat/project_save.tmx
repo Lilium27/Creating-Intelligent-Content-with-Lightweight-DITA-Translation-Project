@@ -6785,8 +6785,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;6.19 &lt;t1/&gt;Definition list environment in an MDITA extended profile topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T045443Z" creationid="DSS" creationdate="20200816T160249Z">
-        <seg>图&lt;t0/&gt;6.19&lt;t1/&gt; 包含扩展配置的 MDITA 主题中的定义列表组件环境。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T151721Z" creationid="DSS" creationdate="20200816T160249Z">
+        <seg>图&lt;t0/&gt;6.19&lt;t1/&gt; 基于 MDITA 扩展概要编写的主题中的定义列表组件环境。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8978,8 +8978,8 @@
       <tuv lang="en">
         <seg>If an author needs to include a definition list in MDITA, the recommendation is to take advantage of the MDITA extended profile and express the definition list with a raw code block of HDITA syntax.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T155933Z" creationid="DSS" creationdate="20200816T155933Z">
-        <seg>如果创作者需要在 MDITA 中使用定义列表，建议利用 MDITA 的扩展配置，并用 HDITA 语法的原始代码块表示定义列表。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T151533Z" creationid="DSS" creationdate="20200816T155933Z">
+        <seg>如果创作者需要在 MDITA 中使用定义列表，建议利用 MDITA 的扩展概要，并用 HDITA 语法的原始代码块表示定义列表。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16733,8 +16733,8 @@
       <tuv lang="en">
         <seg>The following example (&lt;t0/&gt;Figure &lt;t1/&gt;6.19)&lt;t2/&gt; &lt;t3/&gt;shows the definition list in MDITA extended profile with an HDITA code snippet.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T160004Z" creationid="DSS" creationdate="20200816T160004Z">
-        <seg>图&lt;t0/&gt;&lt;t1/&gt;6.19&lt;t2/&gt;&lt;t3/&gt;的所示示例包含一段 HDITA 代码片段，该示例展示了如何在 MDITA 扩展配置中使用定义列表。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T151625Z" creationid="DSS" creationdate="20200816T160004Z">
+        <seg>图&lt;t0/&gt;&lt;t1/&gt;6.19&lt;t2/&gt;&lt;t3/&gt;的所示示例包含一段 HDITA 代码片段，该示例展示了如何表示在MDITA 扩展概要中的定义列表。</seg>
       </tuv>
     </tu>
     <tu>
