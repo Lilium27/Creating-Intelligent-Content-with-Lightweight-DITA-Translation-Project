@@ -1467,8 +1467,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;There is no equivalent for the footnote component in MDITA core profile.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T135442Z" creationid="lenovo" creationdate="20200819T135442Z">
-        <seg>&lt;t3/&gt;MDITA的核心配置中没有与脚注组件等价的组件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T152212Z" creationid="lenovo" creationdate="20200819T135442Z">
+        <seg>&lt;t3/&gt;MDITA的核心概要中没有与脚注组件等价的组件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9548,16 +9548,16 @@
       <tuv lang="en">
         <seg>In HDITA and MDITA extended profile, audio can include the following components:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T140642Z" creationid="lenovo" creationdate="20200825T140642Z">
-        <seg>在HDITA和MDITA扩展配置文件中，音频可以包括以下组件：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T152050Z" creationid="lenovo" creationdate="20200825T140642Z">
+        <seg>在HDITA和MDITA扩展概要中，音频可以包括以下组件：</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>In HDITA and MDITA extended profile, video can include the following components:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T142026Z" creationid="lenovo" creationdate="20200825T142026Z">
-        <seg>在HDITA和MDITA扩展配置文件中，视频可以包括以下组件：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T152100Z" creationid="lenovo" creationdate="20200825T142026Z">
+        <seg>在HDITA和MDITA扩展概要中，视频可以包括以下组件：</seg>
       </tuv>
     </tu>
     <tu>
