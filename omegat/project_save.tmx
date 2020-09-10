@@ -1259,8 +1259,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;Andersen adds that this type of con&lt;t4/&gt;tent supported by topic-based information design “has been given various names, including intelligent content, nimble content, smart content, portable content, and future-ready content.” Rockley, Cooper, and Abel describe intel&lt;t5/&gt;ligent content as “designed to be modular, structured, reusable, format free, and semantically rich and, as a consequence, discoverable, reconfigurable, and adaptable” (Rockley et al., &lt;t6/&gt;2015, &lt;t7/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wqt" changedate="20200904T024819Z" creationid="DSS" creationdate="20200723T160314Z">
-        <seg>&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;安德森补充说，这种基于主题进行信息设计的内容类型 “已经有了各种叫法，包括智能内容、敏捷内容、智慧内容、可移植内容和面向未来的内容。”罗克利（Rockley）、库珀（Cooper）和亚伯（Abel）认为智能内容是“自设计之初就拥有模块化、结构化、可复用、格式自由、语义丰富的特点，因此它们也具备可发现、可重构和可修改的性质”(Rockley et al., &lt;t6/&gt;2015, &lt;t7/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T135018Z" creationid="DSS" creationdate="20200723T160314Z">
+        <seg>&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;安德森补充说，这种基于主题进行信息设计的内容类型 “已经有了各种叫法，包括智能内容、敏捷内容、智慧内容、可移植内容和面向未来的内容。”罗克利（Rockley）、库珀（Cooper）和亚伯（Abel）认为智能内容是“自设计之初就拥有模块化、结构化、可复用、不拘泥于格式、语义丰富的特点，因此它们也具备可发现、可重构和可修改的性质”(Rockley et al., &lt;t6/&gt;2015, &lt;t7/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15066,8 +15066,8 @@
       <tuv lang="en">
         <seg>That generic LwDITA topic can also accommodate enough components and attributes to create con&lt;t1/&gt;tent that sticks to the requirements of “modular, structured, reusable, format free, and semantically rich and, as a consequence, discoverable, reconfigurable, and adaptable” presented by Rockley et al.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T041034Z" creationid="DSS" creationdate="20200804T162432Z">
-        <seg>通用的 LwDITA 主题也可以容纳足够多的组件和属性，以创建符合罗克利等人提出的“模块化、结构化、可复用、格式自由、语义丰富，因而可发现、可重构和可修改”的要求的内容。&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T135031Z" creationid="DSS" creationdate="20200804T162432Z">
+        <seg>通用的 LwDITA 主题也可以容纳足够多的组件和属性，以创建符合罗克利等人提出的“模块化、结构化、可复用、不拘泥于格式、语义丰富，因而可发现、可重构和可修改”的要求的内容。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18294,8 +18294,8 @@
       <tuv lang="en">
         <seg>The “format free” characteristic of intel&lt;t0/&gt;ligent content (Rockley et al., 2015) depends on the separation of content and presentation; after all, this sample topic can be transformed to different deliv&lt;t1/&gt;erables with a variety of formats and stylesheets.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T114502Z" creationid="DSS" creationdate="20200813T153041Z">
-        <seg>智能内容“无格式自由”的特征 (Rockley et al., 2015) 依赖内容与形式的分离，最终，同样的主题可以转换为具有各种格式和样式的交付文件。&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T135428Z" creationid="DSS" creationdate="20200813T153041Z">
+        <seg>智能内容“不拘泥于格式”的特征 (Rockley et al., 2015) 依赖内容与形式的分离，最终，同样的主题可以转换为具有各种格式和样式的交付文件。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
