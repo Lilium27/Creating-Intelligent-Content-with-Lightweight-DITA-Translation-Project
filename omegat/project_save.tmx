@@ -9732,8 +9732,8 @@
       <tuv lang="en">
         <seg>In MDITA extended profile, a footnote can be represented with an HDITA code block following the structure from &lt;t0/&gt;Figure &lt;t1/&gt;6.35&lt;t2/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200819T135206Z" creationid="lenovo" creationdate="20200819T135206Z">
-        <seg>在MDITA扩展配置中，脚注可以按照&lt;t0/&gt;图&lt;t1/&gt;6.35&lt;t2/&gt;中的结构以HDITA代码块的形式呈现。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T151738Z" creationid="lenovo" creationdate="20200819T135206Z">
+        <seg>在MDITA扩展概要中，脚注可以按照&lt;t0/&gt;图&lt;t1/&gt;6.35&lt;t2/&gt;中的结构以HDITA代码块的形式呈现。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14273,8 +14273,8 @@
       <tuv lang="en">
         <seg>So far in this chapter, I have only used the YAML header in MDITA extended profile to assign an &lt;t0/&gt;@id &lt;t1/&gt;to some topics.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T152854Z" creationid="lenovo" creationdate="20200825T131621Z">
-        <seg>到目前为止，在本章中，我只使用了MDITA扩展配置文件中的YAML头来为一些主题分配@id。&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T151754Z" creationid="lenovo" creationdate="20200825T131621Z">
+        <seg>到目前为止，在本章中，我只使用了MDITA扩展概要中的YAML头来为一些主题分配@id。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18374,8 +18374,8 @@
       <tuv lang="en">
         <seg>The&lt;t1/&gt; metadata information, provided in an optional YAML header, is only available in the MDITA extended profile.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T152858Z" creationid="lenovo" creationdate="20200825T132439Z">
-        <seg>元数据信息(使用可选YAML头配置)仅在MDITA扩展配置文件中可用。&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T152042Z" creationid="lenovo" creationdate="20200825T132439Z">
+        <seg>元数据信息(使用可选YAML头配置)仅在MDITA扩展概要中可用。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
