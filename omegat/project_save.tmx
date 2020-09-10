@@ -14681,8 +14681,8 @@
       <tuv lang="en">
         <seg>Superscript (&lt;t0/&gt;&lt;sup&gt;&lt;t1/&gt;): &lt;p&gt;Franchised restaurants should be located in areas of at least &lt;t2/&gt;200 &lt;t3/&gt;ft&lt;t4/&gt;&lt;sup&gt;&lt;t5/&gt;2&lt;t6/&gt;&lt;/sup&gt;&lt;t7/&gt;.&lt;/p&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T125117Z" creationid="lenovo" creationdate="20200825T125117Z">
-        <seg>上标 (&lt;t0/&gt;&lt;sup&gt;&lt;t1/&gt;): &lt;p&gt;特许经营店应位于至少 &lt;t2/&gt;200 &lt;t3/&gt;ft&lt;t4/&gt;&lt;sup&gt;&lt;t5/&gt;2&lt;t6/&gt;&lt;/sup&gt;&lt;t7/&gt;.&lt;/p&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T132426Z" creationid="lenovo" creationdate="20200825T125117Z">
+        <seg>上标 (&lt;t0/&gt;&lt;sup&gt;&lt;t1/&gt;): &lt;p&gt;Franchised restaurants should be located in areas of at least &lt;t2/&gt;200 &lt;t3/&gt;ft&lt;t4/&gt;&lt;sup&gt;&lt;t5/&gt;2&lt;t6/&gt;&lt;/sup&gt;&lt;t7/&gt;.&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
