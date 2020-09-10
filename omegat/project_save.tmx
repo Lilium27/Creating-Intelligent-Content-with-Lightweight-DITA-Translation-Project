@@ -6464,8 +6464,8 @@
       <tuv lang="en">
         <seg>FIGURE 6.5 &lt;t0/&gt;Sample MDITA extended profile topic with an assigned &lt;t1/&gt;@id &lt;t2/&gt;in a&lt;t3/&gt; YAML header.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T134542Z">
-        <seg>图6.5 &lt;t0/&gt;包含扩展配置的 MDITA 主题示例，该示例在 YAML 头中指定了 &lt;t1/&gt;@id &lt;t2/&gt;。&lt;t3/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T150934Z" creationid="DSS" creationdate="20200816T134542Z">
+        <seg>图6.5 &lt;t0/&gt;基于 MDITA 扩展概要的主题示例，该示例在 YAML 头中指定了 &lt;t1/&gt;@id &lt;t2/&gt;。&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9372,8 +9372,8 @@
       <tuv lang="en">
         <seg>In &lt;t0/&gt;Figure 6.10&lt;t1/&gt;, an MDITA extended profile with an assigned &lt;t2/&gt;@id &lt;t3/&gt;of “&lt;t4/&gt;franchise- intro”&lt;t5/&gt; uses a &lt;t6/&gt;setext&lt;t7/&gt; heading for its title component.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200816T141118Z">
-        <seg>图&lt;t0/&gt;6.10&lt;t1/&gt;展示了指定 &lt;t2/&gt;@id &lt;t3/&gt;为“&lt;t4/&gt;franchise- intro&lt;t5/&gt; ”扩展配置的 MDITA 主题，该主题文件使用 &lt;t6/&gt;setext&lt;t7/&gt; 语法格式编写标题组件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T151124Z" creationid="DSS" creationdate="20200816T141118Z">
+        <seg>图&lt;t0/&gt;6.10&lt;t1/&gt;展示了基于 MDITA 扩展概要的主题，该主题指定 &lt;t2/&gt;@id &lt;t3/&gt;为“&lt;t4/&gt;franchise- intro&lt;t5/&gt; ”，并使用 &lt;t6/&gt;setext&lt;t7/&gt; 语法格式编写标题组件。</seg>
       </tuv>
     </tu>
     <tu>
