@@ -1891,8 +1891,8 @@
       <tuv lang="en">
         <seg>&lt;t5/&gt;represented in HDITA are the navigation element (&lt;t6/&gt;&lt;nav&gt;&lt;t7/&gt;) for open&lt;t8/&gt;i&lt;t9/&gt;ng a map environment, the title (&lt;t10/&gt;&lt;title&gt; &lt;t11/&gt;and &lt;t12/&gt;&lt;h1&gt;&lt;t13/&gt;5&lt;t14/&gt;) to label the map and its deliverables, and a hyper reference inside a list item (&lt;t15/&gt;&lt;a href&gt; &lt;t16/&gt;inside a &lt;t17/&gt;&lt;li&gt;&lt;t18/&gt;) to express a topic reference.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T121634Z" creationid="DSS" creationdate="20200807T072106Z">
-        <seg>&lt;t5/&gt;有用以创建映射环境的导航元素 (&lt;t6/&gt;&lt;nav&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;)，标记映射及其交付物的标题元素 (&lt;t10/&gt;&lt;title&gt; &lt;t11/&gt;and &lt;t12/&gt;&lt;h1&gt;&lt;t13/&gt;5&lt;t14/&gt;)，以及表示主题参考的超参考元素，该元素嵌套在列表项元素中 （即&lt;t15/&gt;&lt;a href&gt; &lt;t16/&gt;嵌套在 &lt;t17/&gt;&lt;li&gt;&lt;t18/&gt;中）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T133549Z" creationid="DSS" creationdate="20200807T072106Z">
+        <seg>&lt;t5/&gt;有用以创建映射环境的导航元素 (&lt;t6/&gt;&lt;nav&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;)，标记映射及其交付物的标题元素 (&lt;t10/&gt;&lt;title&gt; &lt;t11/&gt;and &lt;t12/&gt;&lt;h1&gt;&lt;t13/&gt;5&lt;t14/&gt;)，以及表示主题参考的超引用元素，该元素嵌套在列表项元素中 （即&lt;t15/&gt;&lt;a href&gt; &lt;t16/&gt;嵌套在 &lt;t17/&gt;&lt;li&gt;&lt;t18/&gt;中）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9652,8 +9652,8 @@
       <tuv lang="en">
         <seg>In HTML5, a cross-reference is represented with a combination of the anchor (&lt;t0/&gt;&lt;a&gt;&lt;t1/&gt;) element and the hyper reference (&lt;t2/&gt;@href&lt;t3/&gt;) attribute.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T121705Z" creationid="lenovo" creationdate="20200817T143932Z">
-        <seg>在HTML5中，交叉引用由锚 (&lt;t0/&gt;&lt;a&gt;&lt;t1/&gt;) 元素和超参考 (&lt;t2/&gt;@href&lt;t3/&gt;) 属性表示。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T133549Z" creationid="lenovo" creationdate="20200817T143932Z">
+        <seg>在HTML5中，交叉引用由锚 (&lt;t0/&gt;&lt;a&gt;&lt;t1/&gt;) 元素和超引用 (&lt;t2/&gt;@href&lt;t3/&gt;) 属性表示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15387,8 +15387,8 @@
       <tuv lang="en">
         <seg>The &lt;t9/&gt;&lt;h1&gt; &lt;t10/&gt;element at the map level (in bold font) provides the main title for deliverables produced with this specific map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200807T075506Z">
-        <seg>映射级别的 &lt;t9/&gt;&lt;h1&gt; &lt;t10/&gt;元素（粗体）为使用该特定映射生成的可交付内容定义了主标题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T133834Z" creationid="DSS" creationdate="20200807T075506Z">
+        <seg>映射中的 &lt;t9/&gt;&lt;h1&gt; &lt;t10/&gt;元素（粗体）为使用该特定映射生成的可交付内容定义了主标题。</seg>
       </tuv>
     </tu>
     <tu>
