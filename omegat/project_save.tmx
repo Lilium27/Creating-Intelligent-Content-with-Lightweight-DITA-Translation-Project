@@ -9018,8 +9018,8 @@
       <tuv lang="en">
         <seg>If included in a topic, the YAML front matter header must be the first thing in the MDITA file and must be set between triple-dashed lines.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T125845Z" creationid="DSS" creationdate="20200816T134335Z">
-        <seg>如果 MDITA 文件有 YAML 文件头的话，则 YAML 前置块必须写在文件开头，位于两行三格虚线之间。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T134753Z" creationid="DSS" creationdate="20200816T134335Z">
+        <seg>如果 MDITA 文件有 YAML 文件头的话，则 YAML 文件头必须写在文件的开头部分，位于两行三格虚线之间。</seg>
       </tuv>
     </tu>
     <tu>
