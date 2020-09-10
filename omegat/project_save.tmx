@@ -4603,8 +4603,8 @@
       <tuv lang="en">
         <seg>Bold (&lt;t0/&gt;&lt;b&gt;&lt;t1/&gt;): &lt;li&gt;&lt;p&gt;Warranty of &lt;t2/&gt;&lt;b&gt; &lt;t3/&gt;exclusive territory &lt;t4/&gt;&lt;/b&gt; &lt;t5/&gt;&lt;/p&gt;&lt;/li&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200825T124600Z" creationid="lenovo" creationdate="20200825T124359Z">
-        <seg>粗体(&lt;t0/&gt;&lt;b&gt;&lt;t1/&gt;): &lt;li&gt;&lt;p&gt;授权 &lt;t2/&gt;&lt;b&gt; &lt;t3/&gt;独家销售权 &lt;t4/&gt;&lt;/b&gt; &lt;t5/&gt;&lt;/p&gt;&lt;/li&gt;</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200910T132424Z" creationid="lenovo" creationdate="20200825T124359Z">
+        <seg>粗体(&lt;t0/&gt;&lt;b&gt;&lt;t1/&gt;): &lt;li&gt;&lt;p&gt;Warranty of &lt;t2/&gt;&lt;b&gt; &lt;t3/&gt;exclusive territory &lt;t4/&gt;&lt;/b&gt; &lt;t5/&gt;&lt;/p&gt;&lt;/li&gt;</seg>
       </tuv>
     </tu>
     <tu>
