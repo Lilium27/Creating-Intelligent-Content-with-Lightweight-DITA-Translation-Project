@@ -7057,8 +7057,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;8.2 &lt;t1/&gt;Recipe for the versatile milkshake authored in HDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T131616Z" creationid="lenovo" creationdate="20200901T131616Z">
-        <seg>图 &lt;t0/&gt;8.2 &lt;t1/&gt;HDITA中编写的通用奶昔食谱。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T120837Z" creationid="lenovo" creationdate="20200901T131616Z">
+        <seg>图 &lt;t0/&gt;8.2 &lt;t1/&gt;使用HDITA编写的通用奶昔食谱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16934,8 +16934,8 @@
       <tuv lang="en">
         <seg>The ingredient&lt;t2/&gt; asking for a pint of ice cream uses the HTML5 custom data attribute @data-keyref to set a placeholder for a value that will be processed in a more advanced layer.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153053Z" creationid="lenovo" creationdate="20200901T131843Z">
-        <seg>要求使用品脱冰淇淋的成分使用了HTML5自定义数据属性@ data-keyref，为将在更高级的图层中处理的值设置占位符。&lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T121449Z" creationid="lenovo" creationdate="20200901T131843Z">
+        <seg>需要一品脱冰淇淋作为配料部分使用了HTML5自定义数据属性@data-keyref，为将在更高层级中处理的值设置占位符。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19606,8 +19606,8 @@
       <tuv lang="en">
         <seg>Thus, the recipe in HDITA would look like the draft in&lt;t5/&gt; Figure &lt;t6/&gt;8.2&lt;t7/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T120513Z" creationid="lenovo" creationdate="20200901T131330Z">
-        <seg>因此，HDITA中的食谱看起来与图8.2所示的草稿非常相似。&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T120825Z" creationid="lenovo" creationdate="20200901T131330Z">
+        <seg>因此，HDITA中的食谱看起来非常像图8.2所示的草稿。&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
