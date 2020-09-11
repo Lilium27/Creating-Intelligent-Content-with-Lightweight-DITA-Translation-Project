@@ -11684,8 +11684,8 @@
       <tuv lang="en">
         <seg>Layer &lt;t1/&gt;2 &lt;t2/&gt;tasks focus on Bailie &lt;t3/&gt;&amp; &lt;t4/&gt;Urbina's &lt;t5/&gt;collect&lt;t6/&gt; stage.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200907T130928Z" creationid="lenovo" creationdate="20200901T133722Z">
-        <seg>第二层级的任务重点是拜利和厄比纳所指的聚合阶段。&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T125621Z" creationid="lenovo" creationdate="20200901T133722Z">
+        <seg>第二层级的任务重点是拜利和厄比纳所指的聚合阶段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16139,8 +16139,8 @@
       <tuv lang="en">
         <seg>The author can save this MDITA topic as &lt;t4/&gt;milkshake.md&lt;t5/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153100Z" creationid="lenovo" creationdate="20200901T133643Z">
-        <seg>作者可以将此MDITA主题另存为milkshake.md。&lt;t4/&gt;&lt;t5/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T125550Z" creationid="lenovo" creationdate="20200901T133643Z">
+        <seg>写作者可以将此MDITA主题另存为&lt;t4/&gt;milkshake.md&lt;t5/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18230,8 +18230,8 @@
       <tuv lang="en">
         <seg>The unordered list item for ingredients is still in the recipe, and the second ingredient has the placeholder variable &lt;t0/&gt;“icecream-flavor”&lt;t1/&gt; &lt;t2/&gt;, &lt;t3/&gt;which will inherit a value in a more advanced layer of abstraction.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153059Z" creationid="lenovo" creationdate="20200901T133634Z">
-        <seg>成分的无序列表项仍在配方中，第二个成分具有占位符变量“ icecream-flavor”，它将在更高级的抽象层中继承值。 &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T125535Z" creationid="lenovo" creationdate="20200901T133634Z">
+        <seg>食谱仍然包含表示配料的无序列表，第二个配料具有占位符变量&lt;t0/&gt;“icecream-flavor”&lt;t1/&gt; &lt;t2/&gt;，它将在更高级的抽象层级中继承值。 </seg>
       </tuv>
     </tu>
     <tu>
