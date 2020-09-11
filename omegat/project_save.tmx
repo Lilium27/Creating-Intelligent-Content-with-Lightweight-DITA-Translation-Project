@@ -5212,6 +5212,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Context</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T130924Z" creationid="DSS" creationdate="20200911T130924Z">
+        <seg>和上下文分离</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Context filters added to LwDITA topics in layer &lt;t0/&gt;3</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153228Z" creationid="lenovo" creationdate="20200902T155758Z">
@@ -10052,8 +10060,8 @@
       <tuv lang="en">
         <seg>In a small soda fountain, the operators probably will have a printed manual as the only available documentation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T133943Z" creationid="lenovo" creationdate="20200901T133943Z">
-        <seg>在小型“汽水喷泉”中，操作员可能会拥有印刷手册作为唯一可用的文档。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T131030Z" creationid="lenovo" creationdate="20200901T133943Z">
+        <seg>在小型冷饮柜台中，操作员可能会拥有一本印刷手册，该手册是唯一可用的文档。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -11636,8 +11644,8 @@
       <tuv lang="en">
         <seg>Layer &lt;t0/&gt;3: &lt;t1/&gt;Separating Content from Presentation and</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153103Z" creationid="lenovo" creationdate="20200901T133933Z">
-        <seg>第3层：将内容与表示和上下文分离&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T130922Z" creationid="lenovo" creationdate="20200901T133933Z">
+        <seg>第三层级：将内容与表示&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
