@@ -15026,8 +15026,8 @@
       <tuv lang="en">
         <seg>Template-based authoring (content follows “predetermined styles (and) writers don't spend time figuring out how to create particular formatting &lt;t0/&gt;— &lt;t1/&gt;they apply styles to add formatting”)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153105Z" creationid="lenovo" creationdate="20200901T134458Z">
-        <seg>基于模板的创作（内容遵循“预定的样式（并且）作家不用花时间弄清楚如何创建特定格式——他们将样式应用于添加格式”）&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T134341Z" creationid="lenovo" creationdate="20200901T134458Z">
+        <seg>基于模板的创作（内容遵循“预定的样式（并且）写作者不用花时间弄清楚如何创建特定格式——他们将样式应用于添加格式”）&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
