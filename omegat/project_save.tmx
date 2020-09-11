@@ -2987,8 +2987,8 @@
       <tuv lang="en">
         <seg>After complet&lt;t0/&gt;ing layer 2, the recipe topics look either like raw XML, HTML5, or Markdown &lt;t1/&gt;code, depending on the LwDITA authoring format used to create them.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T130249Z" creationid="lenovo" creationdate="20200901T134741Z">
-        <seg> 在完成第2层之后，配方主题看起来像原始XML，HTML5或Markdown代码，这取决于用于创建它们的LwDITA写作格式。&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T140336Z" creationid="lenovo" creationdate="20200901T134741Z">
+        <seg> 在完成第二层级之后，食谱主题看起来像原始XML、HTML5还是Markdown代码，取决于用于创建它们的LwDITA写作格式。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10724,8 +10724,8 @@
       <tuv lang="en">
         <seg>In this layer, authors should focus on producing content (text, audio, videos, etc.) and letting the presentation be addressed elsewhere.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T134750Z" creationid="lenovo" creationdate="20200901T134750Z">
-        <seg>在这一层中，作者应集中精力制作内容（文本，音频，视频等），并在其他地方进行演示。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T140507Z" creationid="lenovo" creationdate="20200901T134750Z">
+        <seg>在这一层级中，写作者应集中精力产出内容（文本，音频，视频等），让如何表示内容的问题在其他地方解决。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17406,8 +17406,8 @@
       <tuv lang="en">
         <seg>The presentation rules and details for the milkshake recipe will be provided in a further layer of abstraction by an external tool and style sheet.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T134722Z" creationid="lenovo" creationdate="20200901T134722Z">
-        <seg>奶昔配方的显示规则和详细信息将通过外部工具和样式表在另一层抽象中提供。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T140226Z" creationid="lenovo" creationdate="20200901T134722Z">
+        <seg>奶昔食谱的表示规则和详细信息将通过外部工具和样式表在另一抽象层级中提供。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18942,8 +18942,8 @@
       <tuv lang="en">
         <seg>They understand their jobs in terms of the responsibili&lt;t1/&gt;ties their old tools imposed on them.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T140020Z" creationid="lenovo" creationdate="20200901T134712Z">
-        <seg>他们根据旧有工具需要他们所承担的责任来理解自己的工作。” &lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T140125Z" creationid="lenovo" creationdate="20200901T134712Z">
+        <seg>但他们根据旧有工具需要他们所承担的责任来理解自己的工作。” &lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
