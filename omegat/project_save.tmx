@@ -4835,8 +4835,8 @@
       <tuv lang="en">
         <seg>Chaos (“there's no consistency in the presentation of content”)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T134403Z" creationid="lenovo" creationdate="20200901T134403Z">
-        <seg>混乱（“内容表示不一致”）</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T133858Z" creationid="lenovo" creationdate="20200901T134403Z">
+        <seg>混乱（“内容和表示不一致”）</seg>
       </tuv>
     </tu>
     <tu>
@@ -7754,8 +7754,8 @@
       <tuv lang="en">
         <seg>For years, I have taught in my courses the four levels of Pringle &lt;t0/&gt;&amp; &lt;t1/&gt;O'Keefe's meth&lt;t2/&gt;odology for developing technical documents:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153104Z" creationid="lenovo" creationdate="20200901T134350Z">
-        <seg>多年以来，我在课程中教过Pringle＆O’Keefe开发技术文档的方法的四个层次：&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T133843Z" creationid="lenovo" creationdate="20200901T134350Z">
+        <seg>多年以来，我一直在课程中教授普林格尔和奥基夫提出的开发技术文档的方法的四个层次：&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13246,8 +13246,8 @@
       <tuv lang="en">
         <seg>Page consistency (“content looks the same on paper (or other delivery for&lt;t0/&gt;mat,” but there's no consistency in its source files)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153104Z" creationid="lenovo" creationdate="20200901T134415Z">
-        <seg>页面一致性（“内容在纸上（或其他交付格式）看起来相同，但是其源文件中不一致”）&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T134153Z" creationid="lenovo" creationdate="20200901T134415Z">
+        <seg>页面一致性（“内容在纸上（或其他交付格式）看起来相同，但是在其各个源文件中并不一致”）&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
