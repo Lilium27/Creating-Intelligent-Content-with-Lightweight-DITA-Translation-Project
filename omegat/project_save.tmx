@@ -625,8 +625,8 @@
       <tuv lang="en">
         <seg>&lt;t10/&gt;As a result, the LwDITA topic for the milk&lt;t11/&gt;shake recipe is not ready for processing in this layer.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153048Z" creationid="lenovo" creationdate="20200901T130646Z">
-        <seg>&lt;t10/&gt;&lt;t11/&gt;结果，奶昔配方的LwDITA主题在此层中尚未准备好接受处理。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T115900Z" creationid="lenovo" creationdate="20200901T130646Z">
+        <seg>&lt;t10/&gt;&lt;t11/&gt;因此，奶昔食谱的LwDITA主题在此层级中尚未准备好接受处理。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -1379,8 +1379,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;Ingredient &lt;t4/&gt;2, &lt;t5/&gt;by itself, would be very confusing for a reader expecting a milkshake recipe.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153046Z" creationid="lenovo" creationdate="20200901T130544Z">
-        <seg>对于想获得奶昔配方的读者而言，成分2本身就很令人困惑。&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T115700Z" creationid="lenovo" creationdate="20200901T130544Z">
+        <seg>对于想获得奶昔食谱的读者而言，第二个配料本身很令人困惑。&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15379,8 +15379,8 @@
       <tuv lang="en">
         <seg>The &lt;t6/&gt;@keyref &lt;t7/&gt;attrib&lt;t8/&gt;ute has to be established in this authoring layer, but it depends on the defining key to be specified in layer &lt;t9/&gt;4.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T130241Z" creationid="lenovo" creationdate="20200901T130609Z">
-        <seg>&lt;t6/&gt;@keyref &lt;t7/&gt;属性必须在此创作层中建立，但它取决于在第4层中指定的定义键。&lt;t8/&gt;&lt;t9/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T115746Z" creationid="lenovo" creationdate="20200901T130609Z">
+        <seg>&lt;t6/&gt;@keyref &lt;t7/&gt;属性必须在此写作层级中建立，但它的值取决于在第四层级中指定的定义键。&lt;t8/&gt;&lt;t9/&gt;</seg>
       </tuv>
     </tu>
     <tu>
