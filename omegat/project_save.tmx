@@ -1147,8 +1147,8 @@
       <tuv lang="en">
         <seg>&lt;t2/&gt;link structure from CommonMark/GitHub Flavored Markdown (GFM) to establish content variables.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T132125Z" creationid="lenovo" creationdate="20200901T132125Z">
-        <seg>&lt;t2/&gt; MDITA使用CommonMark / GitHub Flavored Markdown（GFM）中的快捷方式引用链接结构来建立内容变量。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T123754Z" creationid="lenovo" creationdate="20200901T132125Z">
+        <seg>&lt;t2/&gt; CommonMark或GitHub Flavored Markdown（GFM）中的快捷引用链接结构来建立内容变量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12202,6 +12202,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MDITA uses the shortcut reference</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T123736Z" creationid="DSS" creationdate="20200911T123736Z">
+        <seg>MDITA使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MDITA was also considered a requirement.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200803T094657Z" creationid="DSS" creationdate="20200803T094657Z">
@@ -15603,8 +15611,8 @@
       <tuv lang="en">
         <seg>The GFM spec explains shortcut reference links as consisting “of a link label that matches a link reference definition else&lt;t3/&gt;where in the document and is not followed by &lt;t4/&gt;[] &lt;t5/&gt;or a link label.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153057Z" creationid="lenovo" creationdate="20200901T132132Z">
-        <seg>GFM规范将快捷方式引用链接解释为“由与文档中其他位置的链接引用定义匹配的链接标签组成，并且后跟[]或链接标签。&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T125033Z" creationid="lenovo" creationdate="20200901T132132Z">
+        <seg>GFM规范表示，快捷引用链接包含“链接到位于文档其他地方的链接引用定义的链接标签，并且其后没有&lt;t4/&gt;[] &lt;t5/&gt;或其他链接标签。</seg>
       </tuv>
     </tu>
     <tu>
