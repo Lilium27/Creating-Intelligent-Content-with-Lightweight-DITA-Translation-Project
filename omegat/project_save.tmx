@@ -18214,8 +18214,8 @@
       <tuv lang="en">
         <seg>The unordered list element with the identifier of “ingredients” is in this ver&lt;t0/&gt;sion and it looks very similar to the one included in the XDITA recipe.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153052Z" creationid="lenovo" creationdate="20200901T131559Z">
-        <seg>此版本中的标识符为“ ingredients”的无序列表元素与XDITA配方中包含的元素非常相似。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T120800Z" creationid="lenovo" creationdate="20200901T131559Z">
+        <seg>HDITA版本中标识符为“ingredients”的无序列表元素与XDITA食谱中的非常相似。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19606,8 +19606,8 @@
       <tuv lang="en">
         <seg>Thus, the recipe in HDITA would look like the draft in&lt;t5/&gt; Figure &lt;t6/&gt;8.2&lt;t7/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153051Z" creationid="lenovo" creationdate="20200901T131330Z">
-        <seg>因此，HDITA中的配方看起来像图8.2中的草稿。&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T120513Z" creationid="lenovo" creationdate="20200901T131330Z">
+        <seg>因此，HDITA中的食谱看起来与图8.2所示的草稿非常相似。&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
