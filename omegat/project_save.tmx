@@ -16147,8 +16147,8 @@
       <tuv lang="en">
         <seg>The author can save this recipe as &lt;t11/&gt;milkshake.html&lt;t12/&gt;, and the resulting file can be viewed in a web browser, but the recipe won't make sense for end users because the content variable for “icecream-flavor” is not established in this layer of abstraction (&lt;t13/&gt;Figure &lt;t14/&gt;8.3&lt;t15/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153056Z" creationid="lenovo" creationdate="20200901T132031Z">
-        <seg>作者可以将该配方保存为milkshake.html，可以在Web浏览器中查看生成的文件，但是该配方对最终用户没有意义，因为在抽象层中未建立“ icecream-flavor”的内容变量图 8.3)。&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T122733Z" creationid="lenovo" creationdate="20200901T132031Z">
+        <seg>写作者可以将该食谱保存为&lt;t11/&gt;milkshake.html&lt;t12/&gt;，并可以在网页浏览器中查看生成的文件，但是该食谱对终端用户没有意义，因为在本抽象层级中未建立“ icecream-flavor”内容变量(图 8.3)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18718,8 +18718,8 @@
       <tuv lang="en">
         <seg>These differences keep the LwDITA authoring formats compliant with the HTML5 and DITA XML stand&lt;t10/&gt;ards, respectively.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T130249Z" creationid="lenovo" creationdate="20200901T131939Z">
-        <seg>这些差异使LwDITA写作格式分别符合HTML5和DITA XML标准。&lt;t10/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T122534Z" creationid="lenovo" creationdate="20200901T131939Z">
+        <seg>这些差异使LwDITA的写作格式分别与HTML5和DITA XML标准保持一致。&lt;t10/&gt;</seg>
       </tuv>
     </tu>
     <tu>
