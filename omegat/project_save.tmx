@@ -6542,6 +6542,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE 6.8 &lt;t0/&gt;Sample HDITA topic with the required title component.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T031218Z" creationid="DSS" creationdate="20200911T031218Z">
+        <seg>图6.8 包含所需标题组件的 HDITA 主题示例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE 6.9 &lt;t0/&gt;Sample MDITA core profile topic with a title component.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T115000Z" creationid="DSS" creationdate="20200816T141239Z">
@@ -10238,6 +10246,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T145817Z" creationid="DSS" creationdate="20200817T040335Z">
         <seg>为了成功实现自动化，计算机思维不仅需要理解每一抽象层所代表的概念，还需要理解特定问题背后的多个层之间的关系。&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In order to be&lt;t1/&gt; valid as an HDITA topic and HTML5 file at the same time, the topic requires a title and a heading 1, which should hold the same content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T050421Z" creationid="DSS" creationdate="20200911T050421Z">
+        <seg>为了使该文件既是有效的HDITA话题，又符合HTML5语法规则，所以同时需要一个标题元素和一个一级标题元素，而二者包含相同的内容。</seg>
       </tuv>
     </tu>
     <tu>
