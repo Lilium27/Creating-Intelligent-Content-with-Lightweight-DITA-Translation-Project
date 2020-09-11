@@ -6576,8 +6576,8 @@
       <tuv lang="en">
         <seg>FIGURE 8.3 &lt;t0/&gt;HDITA version of the milkshake recipe as seen on a web browser.&lt;t1/&gt; Note that the ingredient for a pint of ice cream does not have a flavor attached to it, which will come in a more advanced layer when the topic is processed through a LwDITA-aware software application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153057Z" creationid="lenovo" creationdate="20200901T132346Z">
-        <seg>图 8.3 &lt;t0/&gt;&lt;t1/&gt;在网络浏览器上可以看到HDITA版本的奶昔配方。&lt;t1 /&gt;请注意，当支持LwDITA的软件应用程序处理这一主题时，一品脱冰淇淋的成分并没有附上冰淇淋口味。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T123555Z" creationid="lenovo" creationdate="20200901T132346Z">
+        <seg>图 8.3 &lt;t0/&gt;&lt;t1/&gt;网页浏览器展示的HDITA奶昔食谱。请注意，一品脱冰淇淋配料的部分并没有附加上关于冰淇淋口味的内容，当支持LwDITA的软件应用程序处理这一主题时，关于口味的内容将在下一层级中显现。</seg>
       </tuv>
     </tu>
     <tu>
