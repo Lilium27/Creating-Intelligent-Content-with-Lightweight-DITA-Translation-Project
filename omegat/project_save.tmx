@@ -21058,8 +21058,8 @@
       <tuv lang="en">
         <seg>differences are in the element holding the variable content (&lt;t0/&gt;&lt;span&gt; &lt;t1/&gt;in HDITA, whereas in XDITA it was &lt;t2/&gt;&lt;ph&gt;&lt;t3/&gt;) and the attribute setting the placeholder &lt;t4/&gt;“icecream-flavor”&lt;t5/&gt; for a flavor to be determined in a more advanced layer (&lt;t6/&gt;@data- keyref &lt;t7/&gt;in HDITA, whereas in XDITA it was &lt;t8/&gt;@keyref&lt;t9/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153053Z" creationid="lenovo" creationdate="20200901T131859Z">
-        <seg>主要区别在于保留可变内容的元素（在HDITA中为&lt;span&gt;，而在XDITA中为&lt;ph&gt;），该属性将占位符“ icecream-flavor”设置为在更高级的图层中确定风味（ HDITA中为@ data-keyref，而XDITA中为@keyref）。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T122444Z" creationid="lenovo" creationdate="20200901T131859Z">
+        <seg>主要区别在于包含可变内容的元素（在HDITA中为&lt;t0/&gt;&lt;span&gt; &lt;t1/&gt;，而在XDITA中为&lt;t2/&gt;&lt;ph&gt;&lt;t3/&gt;），以及设置占位符 &lt;t4/&gt;“icecream-flavor”&lt;t5/&gt;以在更高层级中确定冰淇淋口味的属性（ HDITA中为&lt;t6/&gt;@data- keyref &lt;t7/&gt;，而XDITA中为&lt;t8/&gt;@keyref&lt;t9/&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
