@@ -174,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>36).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T135259Z" creationid="DSS" creationdate="20200911T135259Z">
+        <seg>36)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>40 years later, The Method has been embraced by hundreds of thousands of individuals in 40 countries, stand&lt;t2/&gt;ing the test of time and technological evolution.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131049Z" creationid="DSS" creationdate="20200731T084147Z">
@@ -12332,8 +12340,8 @@
       <tuv lang="en">
         <seg>Mark Baker warned about the difficulties of teaching this layer in the following statement:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T134559Z" creationid="lenovo" creationdate="20200901T134559Z">
-        <seg>马克·贝克（Mark Baker）在以下声明中警告了教授该层的困难：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T135404Z" creationid="lenovo" creationdate="20200901T134559Z">
+        <seg>马克·贝克在以下声明中警示了教授该层级的困难：</seg>
       </tuv>
     </tu>
     <tu>
@@ -13014,8 +13022,8 @@
       <tuv lang="en">
         <seg>One of the hardest things about moving technical writers from desktop publishing to structured writing is persuading them to give up responsi&lt;t0/&gt;bility for how the final output looks.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153107Z" creationid="lenovo" creationdate="20200901T134625Z">
-        <seg>“要使技术作家从桌面出版转向结构化写作，最困难的事情之一就是说服他们放弃最终输出的外观。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T135749Z" creationid="lenovo" creationdate="20200901T134625Z">
+        <seg>“要使技术作者从桌面出版转向结构化写作，最困难的事情之一就是说服他们放弃对最终输出物外观负责的责任感。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
