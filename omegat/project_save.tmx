@@ -7063,6 +7063,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;8.4 &lt;t1/&gt;Recipe for the versatile milkshake authored in MDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T130247Z" creationid="DSS" creationdate="20200911T130247Z">
+        <seg>图 &lt;t0/&gt;8.4 &lt;t1/&gt;使用MDITA编写的通用奶昔食谱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;8.5 &lt;t1/&gt;XDITA version of the milkshake recipe with two possible values for&lt;t2/&gt; a setting condition.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153120Z" creationid="lenovo" creationdate="20200901T145038Z">
