@@ -18262,8 +18262,8 @@
       <tuv lang="en">
         <seg>The versatile milkshake recipe can be expressed, with some minor dif&lt;t0/&gt;ferences, in the MDITA core profile.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153056Z" creationid="lenovo" creationdate="20200901T132111Z">
-        <seg>可以在MDITA核心配置文件中表达通用奶昔配方，但有一些细微差别。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T122941Z" creationid="lenovo" creationdate="20200901T132111Z">
+        <seg>使用MDITA编写的通用奶昔食谱，可能与MDITA核心概要有一些细微差别。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
