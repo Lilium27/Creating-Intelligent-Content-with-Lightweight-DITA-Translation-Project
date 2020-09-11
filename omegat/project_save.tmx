@@ -16956,6 +16956,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The ingredient&lt;t2/&gt; for ice cream uses a GitHub Flavored Markdown shortcut reference link to inherit a key reference from a map that will appear in a more advanced layer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T130549Z" creationid="DSS" creationdate="20200911T130549Z">
+        <seg>冰淇淋配料的部分使用了GitHub风格的Markdown中的快捷引用链接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The ingredients list should accommodate different flavors in one single template, instead of hav&lt;t0/&gt;ing separate recipes for each possible flavor.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T152949Z" creationid="lenovo" creationdate="20200831T134255Z">
