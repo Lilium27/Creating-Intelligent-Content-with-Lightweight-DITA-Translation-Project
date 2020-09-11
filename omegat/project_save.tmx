@@ -18942,8 +18942,8 @@
       <tuv lang="en">
         <seg>They understand their jobs in terms of the responsibili&lt;t1/&gt;ties their old tools imposed on them.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153108Z" creationid="lenovo" creationdate="20200901T134712Z">
-        <seg>他们根据旧工具所承担的责任来理解自己的工作。” &lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T140020Z" creationid="lenovo" creationdate="20200901T134712Z">
+        <seg>他们根据旧有工具需要他们所承担的责任来理解自己的工作。” &lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20738,8 +20738,8 @@
       <tuv lang="en">
         <seg>Writers will keep looking for ways to specify layout, even in markup languages specifically designed to remove layout concerns.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T134636Z" creationid="lenovo" creationdate="20200901T134636Z">
-        <seg>作家将继续寻找指定布局的方法，即使使用专门设计用于消除布局问题的标记语言也是如此。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T140102Z" creationid="lenovo" creationdate="20200901T134636Z">
+        <seg>写作者将可以继续寻找指定布局的方法，即使使用特地为了消除布局问题的标记语言也是如此。 </seg>
       </tuv>
     </tu>
     <tu>
