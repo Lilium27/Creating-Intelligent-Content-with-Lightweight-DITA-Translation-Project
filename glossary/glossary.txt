@@ -513,4 +513,5 @@ icecream-flavor	冰淇淋口味
 referencing key	引用键
 defining key	定义键
 milkshake recipe	奶昔食谱
-shortcut reference link	快捷参考链接
+shortcut reference link	快捷引用链接
+key reference	引用键
