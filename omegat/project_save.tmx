@@ -5230,8 +5230,8 @@
       <tuv lang="en">
         <seg>Contrasting layer &lt;t11/&gt;1 &lt;t12/&gt;with the ISTE standards for assessing computational thinking in students, some of its tasks could comply with sections of standards 5a (&lt;t13/&gt;Students formulate problem definitions suited for technology-assisted methods such as data analysis, abstract models and algorithmic thinking in exploring and finding solutions&lt;t14/&gt;), 5b (&lt;t15/&gt;Students collect data or identify relevant data sets, use digital tools to analyze them, and represent data in various ways to facilitate problem-solving and decision&lt;t16/&gt;making&lt;t17/&gt;), and 5c (&lt;t18/&gt;Students break problems into component parts, extract key information, and develop descriptive models to understand complex systems or facilitate problem-solving&lt;t19/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200907T132542Z" creationid="lenovo" creationdate="20200901T123724Z">
-        <seg>将第一层级与用于评估学生的计算机思维的ISTE标准进行对比，第一层级中的其某些任务符合5a标准的部分内容（学生能够在探索和寻找解决方案的过程中，形成对如数据分析、抽象模型和算法思维等技术辅助方法的问题定义），以及5b（学生能够收集数据或识别相关数据集，使用数字工具进行分析，并以各种方式表示数据，促进问题解决和决策制定）和5c标准的部分内容（学生能够将拆解问题，提取关键信息，建立描述性模型来理解复杂系统或促进问题解决）。&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T125827Z" creationid="lenovo" creationdate="20200901T123724Z">
+        <seg>将第一层级与用于评估学生的计算机思维的ISTE标准进行对比，第一层级中的某些任务符合5a标准的部分内容（学生能够在探索和寻找解决方案的过程中，形成对如数据分析、抽象模型和算法思维等技术辅助方法的问题定义），以及5b（学生能够收集数据或识别相关数据集，使用数字工具进行分析，并以各种方式表示数据，促进问题解决和决策制定）和5c标准的部分内容（学生能够将拆解问题，提取关键信息，建立描述性模型来理解复杂系统或促进问题解决）。&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5246,8 +5246,8 @@
       <tuv lang="en">
         <seg>Contrasting layer &lt;t9/&gt;2 &lt;t10/&gt;with the ISTE standards for assessing computational thinking in students, some of its tasks could comply with sections of standards 5a (&lt;t11/&gt;Students formulate problem definitions suited for technology-assisted methods such as data analysis, abstract models and algorithmic thinking in exploring and finding solutions&lt;t12/&gt;) and 5b (&lt;t13/&gt;Students collect data or identify relevant data sets, use digital tools to ana&lt;t14/&gt;lyze them, and represent data in various ways to facilitate problem-solving and decision-making&lt;t15/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153102Z" creationid="lenovo" creationdate="20200901T133914Z">
-        <seg> 将第2层与用于评估学生的计算机思维的ISTE标准进行对比，其某些任务可以符合标准5a的各个部分（学生在探索和寻找中寻找适合技术辅助方法的问题定义，例如数据分析，抽象模型和算法思维） 解决方案）和5b（学生收集数据或识别相关数据集，使用数字工具进行分析，并以各种方式表示数据以促进问题解决和决策的能力）。&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T130041Z" creationid="lenovo" creationdate="20200901T133914Z">
+        <seg>将第二层级与用于评估学生的计算机思维的ISTE标准进行对比，第二层级中的某些任务符合5a标准的部分内容（&lt;t11/&gt;学生能够在探索和寻找解决方案的过程中，形成对如数据分析、抽象模型和算法思维等技术辅助方法的问题定义&lt;t12/&gt;），以及5b标准的部分内容（&lt;t13/&gt;学生能够收集数据或识别相关数据集，使用数字工具进行分析，并以各种方式表示数据，促进问题解决和决策制定&lt;t15/&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18862,8 +18862,8 @@
       <tuv lang="en">
         <seg>They also cover some of the work included in Andersen's &lt;t7/&gt;Creating structured content&lt;t8/&gt; stage.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153102Z" creationid="lenovo" creationdate="20200901T133825Z">
-        <seg>它们还涵盖了Andersen的“创建结构化内容”阶段中包含的一些工作。&lt;t7/&gt;&lt;t8/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T125704Z" creationid="lenovo" creationdate="20200901T133825Z">
+        <seg>它们还涵盖了安德森所述的创建结构化内容阶段中包含的一些工作。&lt;t7/&gt;&lt;t8/&gt;</seg>
       </tuv>
     </tu>
     <tu>
