@@ -16958,8 +16958,8 @@
       <tuv lang="en">
         <seg>The ingredient&lt;t2/&gt; for ice cream uses a GitHub Flavored Markdown shortcut reference link to inherit a key reference from a map that will appear in a more advanced layer.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T130549Z" creationid="DSS" creationdate="20200911T130549Z">
-        <seg>冰淇淋配料的部分使用了GitHub风格的Markdown中的快捷引用链接</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T130845Z" creationid="DSS" creationdate="20200911T130549Z">
+        <seg>冰淇淋配料的部分使用了GitHub风格的Markdown中的快捷引用链接，以从将在更高层级中出现的映射中继承引用键。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17166,8 +17166,8 @@
       <tuv lang="en">
         <seg>The milkshake recipe authored in MDITA extended profile, with a GFM shortcut reference link setting the content placeholder for &lt;t0/&gt;“icecream-flavor”&lt;t1/&gt; &lt;t2/&gt;, &lt;t3/&gt;would look like &lt;t4/&gt;Figure &lt;t5/&gt;8.4&lt;t6/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T125331Z" creationid="lenovo" creationdate="20200901T133625Z">
-        <seg>基于MDITA扩展概要编写的奶昔食谱，包含GFM快捷参考链接，将内容占位符设置为&lt;t0/&gt;“icecream-flavor”&lt;t1/&gt; &lt;t2/&gt;，如图8.4所示。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T130604Z" creationid="lenovo" creationdate="20200901T133625Z">
+        <seg>基于MDITA扩展概要编写的奶昔食谱，包含GFM快捷引用链接，将内容占位符设置为&lt;t0/&gt;“icecream-flavor”&lt;t1/&gt; &lt;t2/&gt;，如图8.4所示。</seg>
       </tuv>
     </tu>
     <tu>
