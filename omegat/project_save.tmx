@@ -3843,8 +3843,8 @@
       <tuv lang="en">
         <seg>As it prepares for more advanced layers, the rec&lt;t0/&gt;ipe must keep content and presentation separate.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153106Z" creationid="lenovo" creationdate="20200901T134535Z">
-        <seg>在准备更高级的层时，配方必须将内容和表示分开。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T134651Z" creationid="lenovo" creationdate="20200901T134535Z">
+        <seg>因为在准备进入更高的层级时，食谱必须将内容和表示分开。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10316,8 +10316,8 @@
       <tuv lang="en">
         <seg>In previous layers of abstraction, the milkshake recipe moved towards the structured authoring level.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T134524Z" creationid="lenovo" creationdate="20200901T134524Z">
-        <seg>在以前的抽象层中，奶昔配方已移至结构化创作级别。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T134529Z" creationid="lenovo" creationdate="20200901T134524Z">
+        <seg>在以前的抽象层级中，奶昔食谱已接近于结构化创作级别。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14609,8 +14609,8 @@
       <tuv lang="en">
         <seg>Structured authoring (“a publishing workflow that defines and enforces consistent organization of content”&lt;t0/&gt;)&lt;t1/&gt;(2009, pp.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153106Z" creationid="lenovo" creationdate="20200901T134506Z">
-        <seg>结构化创作（“定义和实施内容统一组织的发布工作流程”）&lt;t0/&gt;&lt;t1/&gt;(2009, pp.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T134446Z" creationid="lenovo" creationdate="20200901T134506Z">
+        <seg>结构化创作（“定义并执行统一的内容组织的发布工作流程”）&lt;t0/&gt;&lt;t1/&gt;(2009, pp.</seg>
       </tuv>
     </tu>
     <tu>
