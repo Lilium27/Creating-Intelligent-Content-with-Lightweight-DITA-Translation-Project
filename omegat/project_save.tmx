@@ -9628,8 +9628,8 @@
       <tuv lang="en">
         <seg>In HDITA, the referencing key for variable content is expressed with the custom data attribute &lt;t1/&gt;@data-keyref&lt;t2/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153050Z" creationid="lenovo" creationdate="20200901T131302Z">
-        <seg>在HDITA中，变量内容的引用键由自定义数据属性@ data-keyref表示。&lt;t1/&gt;&lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T120400Z" creationid="lenovo" creationdate="20200901T131302Z">
+        <seg>在HDITA中，变量内容的引用键由自定义数据属性&lt;t1/&gt;@data-keyref&lt;t2/&gt;表示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9676,8 +9676,8 @@
       <tuv lang="en">
         <seg>In HTML5, phrase-level content can be included in the &lt;t3/&gt;&lt;span&gt; &lt;t4/&gt;element.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153051Z" creationid="lenovo" creationdate="20200901T131313Z">
-        <seg>在HTML5中，短语级别的内容可以包含在&lt;span&gt;元素中。&lt;t3/&gt;&lt;t4/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T120415Z" creationid="lenovo" creationdate="20200901T131313Z">
+        <seg>在HTML5中，短语级别的内容可以包含在&lt;t3/&gt;&lt;span&gt; &lt;t4/&gt;元素中。</seg>
       </tuv>
     </tu>
     <tu>
