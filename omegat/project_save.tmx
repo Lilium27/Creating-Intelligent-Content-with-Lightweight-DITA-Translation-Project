@@ -18278,8 +18278,8 @@
       <tuv lang="en">
         <seg>The topic shows both options (the &lt;t3/&gt;Blendimixx &lt;t4/&gt;3000&lt;t5/&gt; &lt;t6/&gt;and the &lt;t7/&gt;Blendilitte &lt;t8/&gt;200&lt;t9/&gt;), &lt;t10/&gt;which have attached the corresponding metadata for each context with the conditional attribute &lt;t11/&gt;@props &lt;t12/&gt;inside a phrase element.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153119Z" creationid="lenovo" creationdate="20200901T143735Z">
-        <seg>该主题显示了两个选项（Blendimixx 3000和Blendilitte 200），这两个选项都为每个上下文附加了相应的元数据，并在短语元素内添加了条件属性@props。&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T112929Z" creationid="lenovo" creationdate="20200901T143735Z">
+        <seg>该主题显示了两个选项（&lt;t3/&gt;Blendimixx &lt;t4/&gt;3000&lt;t5/&gt; &lt;t6/&gt;和&lt;t7/&gt;Blendilitte &lt;t8/&gt;200&lt;t9/&gt;），这两个选项都在短语元素内添加了条件属性&lt;t11/&gt;@props &lt;t12/&gt;，一词为每个上下文附加了相应的元数据。</seg>
       </tuv>
     </tu>
     <tu>
