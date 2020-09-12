@@ -6254,6 +6254,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>F&lt;t0/&gt;ootnote in an XDITA topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T124531Z" creationid="DSS" creationdate="20200912T124531Z">
+        <seg>DITA 主题中的脚注</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE 1.10 &lt;t0/&gt;HDITA recipe for marinara sauce seen on a web browser.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150347Z" creationid="DSS" creationdate="20200817T083332Z">
@@ -6929,8 +6937,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;6.33 &lt;t1/&gt;MDITA topic with a cross-reference to an external website.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T154140Z" creationid="lenovo" creationdate="20200818T021339Z">
-        <seg>图 &lt;t0/&gt;6.33 &lt;t1/&gt;包含链接到外部网站的交叉引用组件的 MDITA 主题。。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T124506Z" creationid="lenovo" creationdate="20200818T021339Z">
+        <seg>图 &lt;t0/&gt;6.33 &lt;t1/&gt;包含链接到外部网站的交叉引用组件的 MDITA 主题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8108,6 +8116,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T122329Z" creationid="lenovo" creationdate="20200813T030230Z">
         <seg>HDITA是LwDITA的一种写作格式，它利用HTML5来构造信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>HDITA topic with a cross reference to an external website.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T124514Z" creationid="DSS" creationdate="20200912T124514Z">
+        <seg>包含链接到外部网站的交叉引用组件的 HDITA 主题</seg>
       </tuv>
     </tu>
     <tu>
@@ -12294,6 +12310,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T152844Z" creationid="lenovo" creationdate="20200825T124342Z">
         <seg>MDITA利用GitHub风格的Markdown中的表格扩展语法来表示表格内容。&lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MDITA topic with a cross reference to an external website.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T124520Z" creationid="DSS" creationdate="20200912T124520Z">
+        <seg>包含链接到外部网站的交叉引用组件的 MDITA 主题</seg>
       </tuv>
     </tu>
     <tu>
