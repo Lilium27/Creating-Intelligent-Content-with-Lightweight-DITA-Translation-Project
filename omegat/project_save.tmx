@@ -1203,8 +1203,8 @@
       <tuv lang="en">
         <seg>&lt;t26/&gt;Figure &lt;t27/&gt;8.19&lt;t28/&gt; &lt;t29/&gt;shows the resulting &lt;t30/&gt;web version of the milkshake recipe after being processed with the DITA-OT.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200912T100219Z" creationid="lenovo" creationdate="20200912T100219Z">
-        <seg>图8.19显示了DITA-OT处理后的奶昔配方的网页版本。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T123411Z" creationid="lenovo" creationdate="20200912T100219Z">
+        <seg>图8.19显示了DITA-OT处理后的奶昔配方的网页版本。&lt;t26/&gt;&lt;t27/&gt;&lt;t28/&gt;&lt;t29/&gt;&lt;t30/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7121,8 +7121,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;8.17 &lt;t1/&gt;General structure for a command that builds DITA (and LwDITA)&lt;t2/&gt; deliverables with the DITA-OT.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T122000Z" creationid="lenovo" creationdate="20200912T100532Z">
-        <seg>图 &lt;t0/&gt;8.17 &lt;t1/&gt;用 DITA-OT 构建 DITA（和 LwDITA）交付物的通用命令结构。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T123429Z" creationid="lenovo" creationdate="20200912T100532Z">
+        <seg>图 &lt;t0/&gt;8.17 &lt;t1/&gt;用 DITA-OT 构建 DITA（和 LwDITA）&lt;t2/&gt;交付物的通用命令结构。</seg>
       </tuv>
     </tu>
     <tu>
