@@ -10500,8 +10500,8 @@
       <tuv lang="en">
         <seg>In the downtown location, the soda fountain operators have a professional &lt;t1/&gt;Blendimixx &lt;t2/&gt;3000&lt;t3/&gt; &lt;t4/&gt;mixer, which they use for the milkshakes; however, in the food truck location they have a smaller &lt;t5/&gt;Blendilitte &lt;t6/&gt;200&lt;t7/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153113Z" creationid="lenovo" creationdate="20200901T143101Z">
-        <seg>在市中心，“汽水喷泉”操作员配有专业的Blendimixx 3000搅拌器，用于制作奶昔；但是，在餐车则配备较小的Blendilitte200。&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T111402Z" creationid="lenovo" creationdate="20200901T143101Z">
+        <seg>在市区，冷饮柜台操作员配有专业的&lt;t1/&gt;Blendimixx &lt;t2/&gt;3000&lt;t3/&gt; &lt;t4/&gt;搅拌器，用于制作奶昔；但是，餐车则配备较小的 &lt;t5/&gt;Blendilitte &lt;t6/&gt;200&lt;t7/&gt;搅拌棒。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15001,8 +15001,8 @@
       <tuv lang="en">
         <seg>Taking this to our recipe example, let's give the soda fountain an official downtown location and also a mobile location with a food truck.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T110642Z" creationid="lenovo" creationdate="20200901T142744Z">
-        <seg>以我们的食谱为例，让我们为冷饮柜台指定一个正式的市区位置，以及一个移动餐车。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T111036Z" creationid="lenovo" creationdate="20200901T142744Z">
+        <seg>以食谱为例，让我们为冷饮柜台指定一个正式的市区位置，以及一个移动餐车。</seg>
       </tuv>
     </tu>
     <tu>
