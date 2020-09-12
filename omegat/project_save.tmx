@@ -16577,6 +16577,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The easiest way to record the correct file location or path is to drag and drop the file into the command line interface immediately after the &lt;t17/&gt;--&lt;t18/&gt;input= &lt;t19/&gt;argument.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200912T095426Z" creationid="lenovo" creationdate="20200912T095426Z">
+        <seg>记录正确文件位置或路径的最简单方法是在input =参数后将文件拖放到命令行界面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The effect of content silos is minimized when the final product presents each topic with the same format and appearance.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T143838Z" creationid="lenovo" creationdate="20200827T143838Z">
