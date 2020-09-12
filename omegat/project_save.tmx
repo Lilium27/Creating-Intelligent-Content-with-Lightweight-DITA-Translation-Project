@@ -5302,8 +5302,8 @@
       <tuv lang="en">
         <seg>Contrasting layer &lt;t4/&gt;3 &lt;t5/&gt;with the ISTE standards for assessing computational thinking in students, some of its tasks could comply with sections of standards 5a (&lt;t6/&gt;Students formulate problem definitions suited for technology-assisted methods such as data analysis, abstract models and algorith&lt;t7/&gt;mic thinking in exploring and finding solutions&lt;t8/&gt;) and 5c (&lt;t9/&gt;Students break problems into component parts, extract key information, and develop descriptive models to understand complex systems or facilitate problem-solving&lt;t10/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153151Z" creationid="lenovo" creationdate="20200902T132431Z">
-        <seg>将第3层与用于评估学生的计算机思维的ISTE标准进行对比，某些任务可以符合标准5a的各个部分（学生在研究和发现解决方案中制定适合技术辅助方法的问题定义，方法包括数据分析，抽象模型和算法思维）和5c（学生将问题分解为各个组成部分，提取关键信息，并开发描述性模型以了解复杂系统或促进问题解决）。&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T121725Z" creationid="lenovo" creationdate="20200902T132431Z">
+        <seg>将第三层级与用于评估学生的计算机思维的ISTE标准进行对比，第三层级中的某些任务符合5a标准的部分内容（学生能够在探索和寻找解决方案的过程中，形成对如数据分析、抽象模型和算法思维等技术辅助方法的问题定义）和5c（学生能够将拆解问题，提取关键信息，建立描述性模型来理解复杂系统或促进问题解决）。&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18982,8 +18982,8 @@
       <tuv lang="en">
         <seg>They also cover some of the work included in Andersen's &lt;t5/&gt;Analyzing the customer and business needs &lt;t6/&gt;and &lt;t7/&gt;Developing an information architecture&lt;t8/&gt; stages.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153217Z" creationid="lenovo" creationdate="20200902T154036Z">
-        <seg>它们还涵盖了安德森分析客户和业务需求以及开发信息架构阶段中包含的一些工作。&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T121551Z" creationid="lenovo" creationdate="20200902T154036Z">
+        <seg>它们还涵盖了安德森&lt;t5/&gt;分析用户和业务需求&lt;t6/&gt;以及&lt;t7/&gt;开发信息架构&lt;t8/&gt;阶段中包含的一些工作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18998,8 +18998,8 @@
       <tuv lang="en">
         <seg>They also cover some of the work included in Andersen's &lt;t7/&gt;Creating structured content&lt;t8/&gt; stage.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T125704Z" creationid="lenovo" creationdate="20200901T133825Z">
-        <seg>它们还涵盖了安德森所述的创建结构化内容阶段中包含的一些工作。&lt;t7/&gt;&lt;t8/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T121500Z" creationid="lenovo" creationdate="20200901T133825Z">
+        <seg>它们还涵盖了安德森所述的&lt;t7/&gt;创建结构化内容&lt;t8/&gt;阶段中包含的一些工作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21338,8 +21338,8 @@
       <tuv lang="en">
         <seg>included in Andersen's &lt;t0/&gt;Developing an information architecture&lt;t1/&gt; and &lt;t2/&gt;Creating structured content&lt;t3/&gt; stages.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T121253Z" creationid="lenovo" creationdate="20200902T131857Z">
-        <seg>安德森所述的开发信息架构和创建结构化内容阶段中包含的一些工作。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T121521Z" creationid="lenovo" creationdate="20200902T131857Z">
+        <seg>安德森所述的&lt;t0/&gt;开发信息架构&lt;t1/&gt;和&lt;t2/&gt;创建结构化内容&lt;t3/&gt;阶段中包含的一些工作。</seg>
       </tuv>
     </tu>
     <tu>
