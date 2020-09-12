@@ -5470,8 +5470,8 @@
       <tuv lang="en">
         <seg>DITA XML has several attributes that identify properties for conditional pro&lt;t0/&gt;cessing, which include &lt;t1/&gt;@audience&lt;t2/&gt;, &lt;t3/&gt;@plaftorm&lt;t4/&gt;, and &lt;t5/&gt;@product&lt;t6/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153115Z" creationid="lenovo" creationdate="20200901T143608Z">
-        <seg>DITA XML具有几个用于标识条件处理属性的属性，包括@ audience、@ plaftorm和@product。 &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T112126Z" creationid="lenovo" creationdate="20200901T143608Z">
+        <seg>DITA XML具有几个用于标识条件处理属性的属性，包括&lt;t1/&gt;@audience&lt;t2/&gt;、&lt;t3/&gt;@plaftorm&lt;t4/&gt;和&lt;t5/&gt;@product&lt;t6/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9780,8 +9780,8 @@
       <tuv lang="en">
         <seg>In LwDITA, the only conditional processing attributes are &lt;t7/&gt;@props &lt;t8/&gt;(in XDITA) or &lt;t9/&gt;@data-props &lt;t10/&gt;(in HDITA and MDITA extended profile).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153115Z" creationid="lenovo" creationdate="20200901T143620Z">
-        <seg>在LwDITA中，唯一的条件处理属性是@props（在XDITA中）或@ data-props（在HDITA和MDITA扩展配置文件中）。&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T112210Z" creationid="lenovo" creationdate="20200901T143620Z">
+        <seg>在LwDITA中，唯一的条件处理属性是 &lt;t7/&gt;@props &lt;t8/&gt;（在XDITA中）或&lt;t9/&gt;@data-props &lt;t10/&gt;（在HDITA和MDITA扩展概要中）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17222,8 +17222,8 @@
       <tuv lang="en">
         <seg>The metadata attributes assigned in this layer will help filter out irrelevant information for each context in a future layer of abstraction.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T143552Z" creationid="lenovo" creationdate="20200901T143552Z">
-        <seg>在此层中分配的元数据属性将有助于在将来的抽象层中过滤掉与每个上下文无关的信息。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T112024Z" creationid="lenovo" creationdate="20200901T143552Z">
+        <seg>在此层级中指定的元数据属性将有助于在未来的抽象层级中过滤掉与上下文无关的信息。</seg>
       </tuv>
     </tu>
     <tu>
