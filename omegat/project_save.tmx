@@ -1177,6 +1177,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t26/&gt;Figure &lt;t27/&gt;8.19&lt;t28/&gt; &lt;t29/&gt;shows the resulting &lt;t30/&gt;web version of the milkshake recipe after being processed with the DITA-OT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200912T100219Z" creationid="lenovo" creationdate="20200912T100219Z">
+        <seg>图8.19显示了DITA-OT处理后的奶昔配方的网页版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t3/&gt;10).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T162957Z" creationid="DSS" creationdate="20200726T155100Z">
@@ -17646,8 +17654,8 @@
       <tuv lang="en">
         <seg>The resulting HTML files will appear automatically in the DITA-OT &lt;t21/&gt;out &lt;t22/&gt;folder, although you can specify an alternative folder in the build command with the &lt;t23/&gt;--&lt;t24/&gt;output &lt;t25/&gt;option.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200912T095829Z" creationid="lenovo" creationdate="20200912T095829Z">
-        <seg>生成的HTML文件将自动出现在DITA-OT 输出文件夹中，尽管您可以使用output选项在build命令中指定备用文件夹。图8.19显示了用DITA-OT处理后的奶昔配方的网页版本。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200912T095928Z" creationid="lenovo" creationdate="20200912T095829Z">
+        <seg>生成的HTML文件将自动出现在DITA-OT 的out文件夹中，尽管您可以使用output选项在build命令中指定另一个文件夹。</seg>
       </tuv>
     </tu>
     <tu>
