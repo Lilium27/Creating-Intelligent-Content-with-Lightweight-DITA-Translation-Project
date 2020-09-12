@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t0/&gt;139&lt;t1/&gt; &lt;t2/&gt;Audio content environment in XDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T125623Z" creationid="DSS" creationdate="20200912T125623Z">
+        <seg>&lt;t0/&gt;139&lt;t1/&gt; &lt;t2/&gt;XDITA的音频组件内容环境</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t0/&gt;3.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T071546Z" creationid="DSS" creationdate="20200731T071546Z">
@@ -708,6 +716,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T103208Z" creationid="lenovo" creationdate="20200901T134921Z">
         <seg>斯瓦茨（Swarts）还表达了对内容管理系统的需求，内容管理系统应该“建议写作者对其所掌控的内容进行修辞性使用” (Swarts, &lt;t11/&gt;&lt;t12/&gt;2010, &lt;t13/&gt;p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t12/&gt;142&lt;t13/&gt; &lt;t14/&gt;XDITA map for the cross-format version of the &lt;t15/&gt;Sensei</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T125848Z" creationid="DSS" creationdate="20200912T125848Z">
+        <seg>&lt;t12/&gt;142&lt;t13/&gt; &lt;t14/&gt;用于Sensei Sushi手册的XDITA版本的</seg>
       </tuv>
     </tu>
     <tu>
@@ -1221,6 +1237,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T073924Z" creationid="DSS" creationdate="20200824T073924Z">
         <seg>&lt;t3/&gt;10-17)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t3/&gt;140&lt;t4/&gt; &lt;t5/&gt;Audio content environment in HDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T125634Z" creationid="DSS" creationdate="20200912T125634Z">
+        <seg>&lt;t3/&gt;140&lt;t4/&gt; &lt;t5/&gt;HDITA中的音频组件内容环境</seg>
       </tuv>
     </tu>
     <tu>
@@ -1953,6 +1977,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t6/&gt;140&lt;t7/&gt; &lt;t8/&gt;Video content environment in XDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T125813Z" creationid="DSS" creationdate="20200912T125813Z">
+        <seg>&lt;t6/&gt;140&lt;t7/&gt; &lt;t8/&gt;XDITA中的视频组件内容环境</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t6/&gt;35).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T034656Z" creationid="DSS" creationdate="20200817T034656Z">
@@ -2301,6 +2333,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T134430Z" creationid="DSS" creationdate="20200803T152330Z">
         <seg>&lt;t9/&gt;10)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t9/&gt;141&lt;t10/&gt; &lt;t11/&gt;Video content environment in HDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T125828Z" creationid="DSS" creationdate="20200912T125828Z">
+        <seg>&lt;t9/&gt;141&lt;t10/&gt; &lt;t11/&gt;HDITA的视频组件内容环境</seg>
       </tuv>
     </tu>
     <tu>
@@ -5037,6 +5077,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200818T151140Z" creationid="DSS" creationdate="20200812T164347Z">
         <seg>安德森结合技术传播领域学术界和产业界两方面的论述，收集了“构建内容策略框架所需的材料，包括基本阶段、关键活动和一般交付物” (2014, p.&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Command for the DITA-OT to generate a PDF deliverable &lt;t0/&gt;from the cross-format &lt;t1/&gt;Sensei Sushi&lt;t2/&gt; XDITA map.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T125924Z" creationid="DSS" creationdate="20200912T125924Z">
+        <seg>利用 DITA-OT 转换跨格式的&lt;t1/&gt;Sensei Sushi&lt;t2/&gt;XDITA映射生成PDF交付文件所需的命令</seg>
       </tuv>
     </tu>
     <tu>
@@ -15003,6 +15051,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131308Z" creationid="DSS" creationdate="20200808T032556Z">
         <seg>交付物。&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sushi&lt;t0/&gt; brochure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T125850Z" creationid="DSS" creationdate="20200912T125850Z">
+        <seg>跨格式映射</seg>
       </tuv>
     </tu>
     <tu>
