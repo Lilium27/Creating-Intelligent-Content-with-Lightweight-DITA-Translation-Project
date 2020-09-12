@@ -6254,10 +6254,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>F&lt;t0/&gt;ootnote in an HDITA topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T124944Z" creationid="DSS" creationdate="20200912T124944Z">
+        <seg>HDITA 主题中的脚注组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>F&lt;t0/&gt;ootnote in an XDITA topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T124531Z" creationid="DSS" creationdate="20200912T124531Z">
-        <seg>DITA 主题中的脚注</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T124936Z" creationid="DSS" creationdate="20200912T124531Z">
+        <seg>XDITA 主题中的脚注组件</seg>
       </tuv>
     </tu>
     <tu>
@@ -12926,6 +12934,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T164023Z" creationid="DSS" creationdate="20200804T162547Z">
         <seg>注释  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note environment in an XDITA topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T125005Z" creationid="DSS" creationdate="20200912T125005Z">
+        <seg>XDITA主题中的注释组件环境</seg>
       </tuv>
     </tu>
     <tu>
