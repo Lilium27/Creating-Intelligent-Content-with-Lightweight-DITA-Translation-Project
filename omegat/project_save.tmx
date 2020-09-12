@@ -3195,8 +3195,8 @@
       <tuv lang="en">
         <seg>Also, there is no ice cream flavor set, as the content variable will be populated in a more advanced layer.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T123418Z" creationid="lenovo" creationdate="20200902T123418Z">
-        <seg>同样没有冰激凌口味设置，因为内容变量将被填充到更高级的层中。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T115207Z" creationid="lenovo" creationdate="20200902T123418Z">
+        <seg>同样的，冰淇淋口味也没有设置，因为内容变量将在更高的层级中进行填充。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3331,8 +3331,8 @@
       <tuv lang="en">
         <seg>An HDITA version of the milk&lt;t4/&gt;shake recipe, with context information to specify the blender used in each location, would look like&lt;t5/&gt; Figure 8.7&lt;t6/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153127Z" creationid="lenovo" creationdate="20200902T123719Z">
-        <seg>图8.7是HDITA版本的奶昔配方，带有上下文信息以指定每个位置使用的搅拌器。&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T115446Z" creationid="lenovo" creationdate="20200902T123719Z">
+        <seg>图8.7是HDITA版本的奶昔食谱，该食谱包含上下文信息，以指定每个地点使用的搅拌器。&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9684,8 +9684,8 @@
       <tuv lang="en">
         <seg>In HDITA, the conditional attribute &lt;t0/&gt;@data-props&lt;t1/&gt;, placed inside the HTML5 &lt;t2/&gt;&lt;span&gt; &lt;t3/&gt;element, can achieve similar results.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153126Z" creationid="lenovo" creationdate="20200902T123656Z">
-        <seg>在HDITA中，置于HTML5 &lt;span&gt;元素内的条件属性@ data-props可以实现类似的结果。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T115305Z" creationid="lenovo" creationdate="20200902T123656Z">
+        <seg>在HDITA中，将条件属性&lt;t0/&gt;@data-props&lt;t1/&gt;添加到HTML5 &lt;t2/&gt;&lt;span&gt; &lt;t3/&gt;元素内，可以实现类似的结果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14369,8 +14369,8 @@
       <tuv lang="en">
         <seg>Since no filters&lt;t1/&gt; were applied during the transformation, the first step includes the values of both blenders without considering the setting where the recipe will be used.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153122Z" creationid="lenovo" creationdate="20200902T123330Z">
-        <seg>由于在转换过程中没有应用任何过滤器，所以第一步包括两个搅拌器的值，而不考虑将配方使用的情形。&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T115108Z" creationid="lenovo" creationdate="20200902T123330Z">
+        <seg>由于在转换过程中没有应用任何过滤器，所以第一步包括两个搅拌器的值，没有考虑食谱使用的场所。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15739,8 +15739,8 @@
       <tuv lang="en">
         <seg>The HDITA recipe, which can be saved as &lt;t0/&gt;milkshake.html&lt;t1/&gt;, is a valid HTML5 topic; therefore, it can be seen on a web browser at this stage.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153127Z" creationid="lenovo" creationdate="20200902T124007Z">
-        <seg>HDITA食谱可以保存为milkshake.html，它是有效的HTML5主题； 因此，现阶段可以在网络浏览器上看到它。 &lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T115559Z" creationid="lenovo" creationdate="20200902T124007Z">
+        <seg>HDITA食谱可以保存为&lt;t0/&gt;milkshake.html&lt;t1/&gt;，它是有效的HTML5主题。因此，现阶段可以在网页浏览器中预览该主题。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -16075,8 +16075,8 @@
       <tuv lang="en">
         <seg>The XDITA recipe, which can be saved as &lt;t0/&gt;milkshake.dita&lt;t1/&gt;, has a list item on the ordered list labeled “steps” that instructs the operator to combine all ingre&lt;t2/&gt;dients in a blender.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T112718Z" creationid="lenovo" creationdate="20200901T143716Z">
-        <seg>XDITA食谱被保存为&lt;t0/&gt;milkshake.dita&lt;t1/&gt;文件，它包含一个标记为“steps”的有序列表，以指示操作员如何在搅拌机中混合所有配料。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T115016Z" creationid="lenovo" creationdate="20200901T143716Z">
+        <seg>XDITA食谱被保存为&lt;t0/&gt;milkshake.dita&lt;t1/&gt;文件，它包含一个标记为“steps”的有序列表，以指示操作员如何在搅拌器中混合所有配料。</seg>
       </tuv>
     </tu>
     <tu>
