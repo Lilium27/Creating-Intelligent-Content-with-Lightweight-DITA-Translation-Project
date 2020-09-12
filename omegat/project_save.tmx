@@ -10692,8 +10692,8 @@
       <tuv lang="en">
         <seg>In this example, the recipe was created in XDITA - the LwDITA authoring format based on a simplified version of DITA XML.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T152935Z" creationid="lenovo" creationdate="20200901T130045Z">
-        <seg>在此示例中，食谱使用XDITA创建，XDITA是一种基于DITA XML简化版本的LwDITA写作格式。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200912T084629Z" creationid="lenovo" creationdate="20200901T130045Z">
+        <seg>此示例中使用XDITA创建食谱，XDITA是一种基于DITA XML简化版本的LwDITA写作格式。</seg>
       </tuv>
     </tu>
     <tu>
