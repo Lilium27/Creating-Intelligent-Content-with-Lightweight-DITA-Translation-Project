@@ -224,8 +224,8 @@
       <tuv lang="en">
         <seg>8&lt;t2/&gt;), &lt;t3/&gt;however, shows both possible blender options in the same step and would be confusing for an actual human operator.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T115800Z" creationid="lenovo" creationdate="20200902T130045Z">
-        <seg>网页渲染（图8.8）在同一步骤中同时显示了两个搅拌器选项，这对于实际的操作人员来说会造成混淆。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T122543Z" creationid="lenovo" creationdate="20200902T130045Z">
+        <seg>网页渲染（图8.8）在同一步骤中同时显示了两个搅拌器选项，这对于实际的操作人员来说会造成混淆。&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -827,8 +827,8 @@
       <tuv lang="en">
         <seg>&lt;t14/&gt;Figure &lt;t15/&gt;8.6&lt;t16/&gt; &lt;t17/&gt;shows a PDF transformation of the XDITA milkshake recipe as it looks in layer &lt;t18/&gt;3.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T113801Z" creationid="DSS" creationdate="20200912T113801Z">
-        <seg>&lt;t14/&gt;图&lt;t15/&gt;8.6&lt;t16/&gt; &lt;t17/&gt;展示了第三层级XDITA奶昔食谱转换生成的PDF。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T122535Z" creationid="DSS" creationdate="20200912T113801Z">
+        <seg>&lt;t14/&gt;图&lt;t15/&gt;8.6&lt;t16/&gt; &lt;t17/&gt;&lt;t18/&gt;展示了第三层级XDITA奶昔食谱转换生成的PDF。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5310,8 +5310,8 @@
       <tuv lang="en">
         <seg>Contrasting layer &lt;t9/&gt;2 &lt;t10/&gt;with the ISTE standards for assessing computational thinking in students, some of its tasks could comply with sections of standards 5a (&lt;t11/&gt;Students formulate problem definitions suited for technology-assisted methods such as data analysis, abstract models and algorithmic thinking in exploring and finding solutions&lt;t12/&gt;) and 5b (&lt;t13/&gt;Students collect data or identify relevant data sets, use digital tools to ana&lt;t14/&gt;lyze them, and represent data in various ways to facilitate problem-solving and decision-making&lt;t15/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T130041Z" creationid="lenovo" creationdate="20200901T133914Z">
-        <seg>将第二层级与用于评估学生的计算机思维的ISTE标准进行对比，第二层级中的某些任务符合5a标准的部分内容（&lt;t11/&gt;学生能够在探索和寻找解决方案的过程中，形成对如数据分析、抽象模型和算法思维等技术辅助方法的问题定义&lt;t12/&gt;），以及5b标准的部分内容（&lt;t13/&gt;学生能够收集数据或识别相关数据集，使用数字工具进行分析，并以各种方式表示数据，促进问题解决和决策制定&lt;t15/&gt;）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T122434Z" creationid="lenovo" creationdate="20200901T133914Z">
+        <seg>&lt;t9/&gt;&lt;t10/&gt;将第二层级与用于评估学生的计算机思维的ISTE标准进行对比，第二层级中的某些任务符合5a标准的部分内容（&lt;t11/&gt;学生能够在探索和寻找解决方案的过程中，形成对如数据分析、抽象模型和算法思维等技术辅助方法的问题定义&lt;t12/&gt;），以及5b标准的部分内容（&lt;t13/&gt;&lt;t14/&gt;学生能够收集数据或识别相关数据集，使用数字工具进行分析，并以各种方式表示数据，促进问题解决和决策制定&lt;t15/&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5478,8 +5478,8 @@
       <tuv lang="en">
         <seg>DITA XML has several attributes that identify properties for conditional pro&lt;t0/&gt;cessing, which include &lt;t1/&gt;@audience&lt;t2/&gt;, &lt;t3/&gt;@plaftorm&lt;t4/&gt;, and &lt;t5/&gt;@product&lt;t6/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T112126Z" creationid="lenovo" creationdate="20200901T143608Z">
-        <seg>DITA XML具有几个用于标识条件处理属性的属性，包括&lt;t1/&gt;@audience&lt;t2/&gt;、&lt;t3/&gt;@plaftorm&lt;t4/&gt;和&lt;t5/&gt;@product&lt;t6/&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T122500Z" creationid="lenovo" creationdate="20200901T143608Z">
+        <seg>DITA XML具有几个用于标识条件处理属性的属性，包括&lt;t0/&gt;&lt;t1/&gt;@audience&lt;t2/&gt;、&lt;t3/&gt;@plaftorm&lt;t4/&gt;和&lt;t5/&gt;@product&lt;t6/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6656,8 +6656,8 @@
       <tuv lang="en">
         <seg>FIGURE 8.7 &lt;t0/&gt;HDITA version of the milkshake recipe with two possible values for&lt;t1/&gt; a setting condition, which are specified with the HTML5 custom data attribute &lt;t2/&gt;@data-props&lt;t3/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T115710Z" creationid="lenovo" creationdate="20200902T130025Z">
-        <seg>图 8.7 &lt;t0/&gt;HDITA版本的奶昔食谱，该食谱的条件属性值具有两种可能，且由HTML5自定义数据属性&lt;t2/&gt;@data-props&lt;t3/&gt;设定。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T122538Z" creationid="lenovo" creationdate="20200902T130025Z">
+        <seg>图 8.7 &lt;t0/&gt;&lt;t1/&gt;HDITA版本的奶昔食谱，该食谱的条件属性值具有两种可能，且由HTML5自定义数据属性&lt;t2/&gt;@data-props&lt;t3/&gt;设定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11764,8 +11764,8 @@
       <tuv lang="en">
         <seg>Layer &lt;t1/&gt;2 &lt;t2/&gt;tasks focus on Bailie &lt;t3/&gt;&amp; &lt;t4/&gt;Urbina's &lt;t5/&gt;collect&lt;t6/&gt; stage.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T125621Z" creationid="lenovo" creationdate="20200901T133722Z">
-        <seg>第二层级的任务重点是拜利和厄比纳所指的聚合阶段。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T122408Z" creationid="lenovo" creationdate="20200901T133722Z">
+        <seg>第二层级的任务重点是拜利和厄比纳所指的聚合阶段。&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15579,8 +15579,8 @@
       <tuv lang="en">
         <seg>The DITA &lt;t11/&gt;1.3 &lt;t12/&gt;spec defines &lt;t13/&gt;@props &lt;t14/&gt;(properties) as a “generic conditional processing attribute”, and in LwDITA it can take different values based on authors' needs &lt;t15/&gt;(2.2.4.2.1 &lt;t16/&gt;Conditional pro&lt;t17/&gt;cessing attributes, &lt;t18/&gt;2018).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T122044Z" creationid="lenovo" creationdate="20200901T143650Z">
-        <seg> DITA 1.3将&lt;t13/&gt;@props &lt;t14/&gt;（属性）定义为“通用条件处理属性”，在LwDITA中，它可以根据写作者的需求采用不同的值 &lt;t15/&gt;(2.2.4.2.1 &lt;t16/&gt;Conditional pro&lt;t17/&gt;cessing attributes, &lt;t18/&gt;2018)。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T122524Z" creationid="lenovo" creationdate="20200901T143650Z">
+        <seg> DITA &lt;t11/&gt;1.3 &lt;t12/&gt;将&lt;t13/&gt;@props &lt;t14/&gt;（属性）定义为“通用条件处理属性”，在LwDITA中，它可以根据写作者的需求采用不同的值 &lt;t15/&gt;(2.2.4.2.1 &lt;t16/&gt;Conditional pro&lt;t17/&gt;cessing attributes, &lt;t18/&gt;2018)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16075,8 +16075,8 @@
       <tuv lang="en">
         <seg>The XDITA recipe, which can be saved as &lt;t0/&gt;milkshake.dita&lt;t1/&gt;, has a list item on the ordered list labeled “steps” that instructs the operator to combine all ingre&lt;t2/&gt;dients in a blender.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T115016Z" creationid="lenovo" creationdate="20200901T143716Z">
-        <seg>XDITA食谱被保存为&lt;t0/&gt;milkshake.dita&lt;t1/&gt;文件，它包含一个标记为“steps”的有序列表，以指示操作员如何在搅拌器中混合所有配料。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T122527Z" creationid="lenovo" creationdate="20200901T143716Z">
+        <seg>XDITA食谱被保存为&lt;t0/&gt;milkshake.dita&lt;t1/&gt;&lt;t2/&gt;文件，它包含一个标记为“steps”的有序列表，以指示操作员如何在搅拌器中混合所有配料。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16643,8 +16643,8 @@
       <tuv lang="en">
         <seg>The easiest way to record the correct file location or path is to drag and drop the file into the command line interface immediately after the &lt;t17/&gt;--&lt;t18/&gt;input= &lt;t19/&gt;argument.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200912T095426Z" creationid="lenovo" creationdate="20200912T095426Z">
-        <seg>记录正确文件位置或路径的最简单方法是在input =参数后将文件拖放到命令行界面。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T122737Z" creationid="lenovo" creationdate="20200912T095426Z">
+        <seg>记录正确文件位置或路径的最简单方法是在&lt;t17/&gt;--&lt;t18/&gt;input=&lt;t19/&gt;参数后将文件拖放到命令行界面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16966,8 +16966,8 @@
       <tuv lang="en">
         <seg>The human-in-the-loop strategy developed in layer &lt;t2/&gt;1 &lt;t3/&gt;has the goal of refuting portray&lt;t4/&gt;als of writers as the lonely humans in a machine-dominated process of content automation, with the content products of their hard work being &lt;t5/&gt;arhetorically &lt;t6/&gt;assembled (borrowing a term from Bacha, &lt;t7/&gt;2009) &lt;t8/&gt;by algorithms and machines without human control.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T110358Z" creationid="lenovo" creationdate="20200901T135021Z">
-        <seg>在第一层级中的HITL策略的目标是，在机器主导的内容自动化过程中不将写作者描绘成孤独的个体，他们辛勤产出的内容产品由算法和机器&lt;t5/&gt;修辞性&lt;t6/&gt;地聚合（术语来自 Bacha, &lt;t7/&gt;2009）起来，其中并不涉及人类控制。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T122458Z" creationid="lenovo" creationdate="20200901T135021Z">
+        <seg>&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;在第一层级中的HITL策略的目标是，在机器主导的内容自动化过程中不将写作者描绘成孤独的个体，他们辛勤产出的内容产品由算法和机器&lt;t5/&gt;修辞性&lt;t6/&gt;地聚合（术语来自 Bacha, &lt;t7/&gt;&lt;t8/&gt;2009）起来，其中并不涉及人类控制。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17046,8 +17046,8 @@
       <tuv lang="en">
         <seg>The ingredient&lt;t2/&gt; for ice cream uses a GitHub Flavored Markdown shortcut reference link to inherit a key reference from a map that will appear in a more advanced layer.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T130845Z" creationid="DSS" creationdate="20200911T130549Z">
-        <seg>冰淇淋配料的部分使用了GitHub风格的Markdown中的快捷引用链接，以从将在更高层级中出现的映射中继承引用键。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T122436Z" creationid="DSS" creationdate="20200911T130549Z">
+        <seg>冰淇淋配料的部分使用了GitHub风格的Markdown中的快捷引用链接，以从将在更高层级中出现的映射中继承引用键。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18294,8 +18294,8 @@
       <tuv lang="en">
         <seg>The topic shows both options (the &lt;t3/&gt;Blendimixx &lt;t4/&gt;3000&lt;t5/&gt; &lt;t6/&gt;and the &lt;t7/&gt;Blendilitte &lt;t8/&gt;200&lt;t9/&gt;), &lt;t10/&gt;which have attached the corresponding metadata for each context with the conditional attribute &lt;t11/&gt;@props &lt;t12/&gt;inside a phrase element.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T112929Z" creationid="lenovo" creationdate="20200901T143735Z">
-        <seg>该主题显示了两个选项（&lt;t3/&gt;Blendimixx &lt;t4/&gt;3000&lt;t5/&gt; &lt;t6/&gt;和&lt;t7/&gt;Blendilitte &lt;t8/&gt;200&lt;t9/&gt;），这两个选项都在短语元素内添加了条件属性&lt;t11/&gt;@props &lt;t12/&gt;，一词为每个上下文附加了相应的元数据。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T122532Z" creationid="lenovo" creationdate="20200901T143735Z">
+        <seg>该主题显示了两个选项（&lt;t3/&gt;Blendimixx &lt;t4/&gt;3000&lt;t5/&gt; &lt;t6/&gt;和&lt;t7/&gt;Blendilitte &lt;t8/&gt;200&lt;t9/&gt;&lt;t10/&gt;），这两个选项都在短语元素内添加了条件属性&lt;t11/&gt;@props &lt;t12/&gt;，一词为每个上下文附加了相应的元数据。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18374,8 +18374,8 @@
       <tuv lang="en">
         <seg>The value for the &lt;t10/&gt;--&lt;t11/&gt;input &lt;t12/&gt;argument needs to direct the DITA-OT to the specific folder where you stored the &lt;t13/&gt;fountain.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200912T094047Z" creationid="lenovo" creationdate="20200912T094047Z">
-        <seg>input参数的值需要将DITA-OT定位到存储Fountain.ditamap文件的特定文件夹</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T122644Z" creationid="lenovo" creationdate="20200912T094047Z">
+        <seg> &lt;t10/&gt;--&lt;t11/&gt;input &lt;t12/&gt;参数的值需要将DITA-OT定位到存储&lt;t13/&gt;fountain.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21226,8 +21226,8 @@
       <tuv lang="en">
         <seg>ditamap&lt;t14/&gt; file (the &lt;t15/&gt;path-to-file&lt;t16/&gt; section of the command, which must be replaced by the actual path to the file in your computer).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200912T095019Z" creationid="lenovo" creationdate="20200912T095019Z">
-        <seg>（命令的path-to-file部分必须替换成文件在你计算机中的实际路径）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T122659Z" creationid="lenovo" creationdate="20200912T095019Z">
+        <seg>ditamap&lt;t14/&gt; 文件的特定文件夹（命令的&lt;t15/&gt;path-to-file&lt;t16/&gt;部分必须替换成文件在你计算机中的实际路径）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21458,8 +21458,8 @@
       <tuv lang="en">
         <seg>rendering (&lt;t0/&gt;Figure &lt;t1/&gt;8.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T115720Z" creationid="DSS" creationdate="20200912T115720Z">
-        <seg>最终的</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T122541Z" creationid="DSS" creationdate="20200912T115720Z">
+        <seg>最终的&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
