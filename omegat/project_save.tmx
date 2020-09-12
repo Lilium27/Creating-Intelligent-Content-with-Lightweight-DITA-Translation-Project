@@ -10348,8 +10348,8 @@
       <tuv lang="en">
         <seg>In order to use the conditional variable &lt;t0/&gt;@data-props&lt;t1/&gt;, a Markdown-based author would have to use a few code snippets of HDITA in MDITA extended profile.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T120244Z" creationid="lenovo" creationdate="20200902T130326Z">
-        <seg>为了在Markdown中使用条件变量&lt;t0/&gt;@data-props&lt;t1/&gt;，基于Markdown的写作者将不得不在MDITA扩展概要在中使用HDITA的一些代码片段。&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T120351Z" creationid="lenovo" creationdate="20200902T130326Z">
+        <seg>为了在Markdown中使用条件变量&lt;t0/&gt;@data-props&lt;t1/&gt;，基于Markdown的写作者将不得不使用MDITA扩展概要中的一些HDITA代码片段。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16523,8 +16523,8 @@
       <tuv lang="en">
         <seg>The context-aware recipe cannot be expressed in MDITA core profile.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T120032Z" creationid="lenovo" creationdate="20200902T130108Z">
-        <seg>基于MDITA核心概要，无法表示可以感知上下文的食谱。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T120302Z" creationid="lenovo" creationdate="20200902T130108Z">
+        <seg>基于MDITA核心概要，无法表示可以感知上下文语境的食谱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17654,8 +17654,8 @@
       <tuv lang="en">
         <seg>The recipe main elements are still in Markdown, but the available values for the conditional setting attribute are the same as those used in the HDITA topic, as shown in &lt;t2/&gt;Figure &lt;t3/&gt;8.9&lt;t4/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153131Z" creationid="lenovo" creationdate="20200902T130342Z">
-        <seg>配方主要元素仍在Markdown中，但条件设置属性的可用值与HDITA主题中使用的值相同，如图8.9所示。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T120546Z" creationid="lenovo" creationdate="20200902T130342Z">
+        <seg>食谱主要元素仍在Markdown中编写，但条件属性的可用值与HDITA主题中的相同，如图8.9所示。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
