@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t0/&gt;147&lt;t1/&gt; &lt;t2/&gt;Recipe for a versatile milkshake in XDITA &lt;t3/&gt;- &lt;t4/&gt;following on an idea presente&lt;t5/&gt;d by &lt;t6/&gt;Dan Garcia.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T130148Z" creationid="DSS" creationdate="20200912T130148Z">
+        <seg>&lt;t0/&gt;147&lt;t1/&gt; &lt;t2/&gt;遵循丹·加西亚提出的想法，使用XDITA编写的通用奶昔食谱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t0/&gt;3.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T071546Z" creationid="DSS" creationdate="20200731T071546Z">
@@ -5081,10 +5089,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Command for the DITA-OT to generate a PDF deliverable &lt;t0/&gt;from the cross-format &lt;t1/&gt;Sensei Sushi&lt;t2/&gt; MDITA map.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T130100Z" creationid="DSS" creationdate="20200912T130100Z">
+        <seg>利用 DITA-OT 转换跨格式的&lt;t1/&gt;Sensei Sushi&lt;t2/&gt;MDITA映射生成PDF交付文件所需的命令</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Command for the DITA-OT to generate a PDF deliverable &lt;t0/&gt;from the cross-format &lt;t1/&gt;Sensei Sushi&lt;t2/&gt; XDITA map.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T125924Z" creationid="DSS" creationdate="20200912T125924Z">
         <seg>利用 DITA-OT 转换跨格式的&lt;t1/&gt;Sensei Sushi&lt;t2/&gt;XDITA映射生成PDF交付文件所需的命令</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Command for the DITA-OT to generate a PDF deliverable from the cross-format &lt;t0/&gt;Sensei Sushi&lt;t1/&gt; HDITA map.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T130016Z" creationid="DSS" creationdate="20200912T130016Z">
+        <seg>利用 DITA-OT 转换跨格式的&lt;t0/&gt;Sensei Sushi&lt;t1/&gt;HDITA映射生成PDF交付文件所需的命令</seg>
       </tuv>
     </tu>
     <tu>
@@ -8188,6 +8212,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T122329Z" creationid="lenovo" creationdate="20200813T030230Z">
         <seg>HDITA是LwDITA的一种写作格式，它利用HTML5来构造信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>HDITA map for the cross-format version of the &lt;t0/&gt;Sensei</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T125948Z" creationid="DSS" creationdate="20200912T125948Z">
+        <seg>用于Sensei Sushi手册的HDITA版本的</seg>
       </tuv>
     </tu>
     <tu>
@@ -12378,6 +12410,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MDITA map for the cross-format version of the Sensei</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T130030Z" creationid="DSS" creationdate="20200912T130030Z">
+        <seg>用于Sensei Sushi手册的MDITA版本的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MDITA takes advantage of the table&lt;t2/&gt; extension in GitHub Flavored Markdown to represent tabular content.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T152844Z" creationid="lenovo" creationdate="20200825T124342Z">
@@ -14079,6 +14119,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Recipe for the versatile milkshake authored in HDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T130155Z" creationid="DSS" creationdate="20200912T130155Z">
+        <seg>使用HDITA编写的通用奶昔食谱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reducing the amount of reading and other passive activity in training</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200723T074731Z" creationid="lenovo" creationdate="20200723T074731Z">
@@ -15047,6 +15095,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sushi brochure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T130040Z" creationid="DSS" creationdate="20200912T130040Z">
+        <seg>跨格式映射</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sushi&lt;t0/&gt; brochure map.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131308Z" creationid="DSS" creationdate="20200808T032556Z">
@@ -15227,6 +15283,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T125428Z" creationid="DSS" creationdate="20200912T125428Z">
         <seg>XDITA主题中的表格组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Table of contents of a PDF deliverable produced from the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T130120Z" creationid="DSS" creationdate="20200912T130120Z">
+        <seg>利用XDITA版跨格式映射生成的</seg>
       </tuv>
     </tu>
     <tu>
@@ -21212,6 +21276,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T124010Z" creationid="lenovo" creationdate="20200813T024215Z">
         <seg>XDITA的目标用户可能不是DITA专家，但时他们也可以从类似于DITA工作流的结构和发布机制中获益。&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XDITA version of the cross-format map.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T130123Z" creationid="DSS" creationdate="20200912T130123Z">
+        <seg>PDF交付物的目录</seg>
       </tuv>
     </tu>
     <tu>
