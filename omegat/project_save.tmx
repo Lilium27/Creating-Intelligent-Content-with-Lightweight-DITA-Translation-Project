@@ -21128,6 +21128,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ditamap&lt;t14/&gt; file (the &lt;t15/&gt;path-to-file&lt;t16/&gt; section of the command, which must be replaced by the actual path to the file in your computer).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200912T095019Z" creationid="lenovo" creationdate="20200912T095019Z">
+        <seg>（命令的path-to-file部分必须替换成文件在你计算机中的实际路径）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ditamap&lt;t7/&gt;, and in layer &lt;t8/&gt;5 &lt;t9/&gt;a machine processor will parse the map and referenced topics in XDITA, HDITA, and MDITA.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153205Z" creationid="lenovo" creationdate="20200902T153001Z">
