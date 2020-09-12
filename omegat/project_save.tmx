@@ -1761,6 +1761,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t5/&gt;6).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T101411Z" creationid="DSS" creationdate="20200912T101411Z">
+        <seg>&lt;t5/&gt;6)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t5/&gt;9).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T124856Z" creationid="DSS" creationdate="20200825T124856Z">
@@ -2019,8 +2027,8 @@
       <tuv lang="en">
         <seg>&lt;t6/&gt;Those concerns echo a threat to the characteristic of rhetorical effectiveness, and DITA has tried to ameliorate that effect by giv&lt;t7/&gt;ing authors control on the context of their content elements.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153109Z" creationid="lenovo" creationdate="20200901T134846Z">
-        <seg>这些担忧呼应了对修辞效果特征的威胁，DITA试图通过使作者对其内容元素的上下文进行控制来改善这种效果。&lt;t6/&gt;&lt;t7/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T101836Z" creationid="lenovo" creationdate="20200901T134846Z">
+        <seg>这些担忧呼应了对修辞效果特征的威胁，DITA试图通过让写作者控制内容元素的上下文来改善这种影响。&lt;t6/&gt;&lt;t7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2819,8 +2827,8 @@
       <tuv lang="en">
         <seg>According to some, writers separating content from presentation “will have no control over the con&lt;t0/&gt;text in which their information appears or the uses to which it may be put” (Gu &lt;t1/&gt;&amp; &lt;t2/&gt;Pullman, &lt;t3/&gt;2009, &lt;t4/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153109Z" creationid="lenovo" creationdate="20200901T134843Z">
-        <seg>一些人认为，将内容与表示分离开来的作者“将无法控制其信息出现的上下文或信息的用途” (Gu &lt;t0/&gt;&lt;t1/&gt;&amp; &lt;t2/&gt;Pullman, &lt;t3/&gt;2009, &lt;t4/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T101357Z" creationid="lenovo" creationdate="20200901T134843Z">
+        <seg>一些人认为，将内容与表示分离开来的写作者“将无法控制信息出现的上下文或信息的用途” (Gu &lt;t0/&gt;&lt;t1/&gt;&amp; &lt;t2/&gt;Pullman, &lt;t3/&gt;2009, &lt;t4/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16717,8 +16725,8 @@
       <tuv lang="en">
         <seg>The fear of losing control over context is, however, real.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T101238Z" creationid="lenovo" creationdate="20200901T134833Z">
-        <seg>然而，害怕失去对上下文的控制的担心是真实存在的。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T101422Z" creationid="lenovo" creationdate="20200901T134833Z">
+        <seg>然而，害怕失去对上下文的控制的担忧是真实存在的。</seg>
       </tuv>
     </tu>
     <tu>
