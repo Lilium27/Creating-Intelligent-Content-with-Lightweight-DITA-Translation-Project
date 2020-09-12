@@ -16187,8 +16187,8 @@
       <tuv lang="en">
         <seg>The author can save this recipe as &lt;t12/&gt;milkshake.dita&lt;t13/&gt;, but even a LwDITA-aware editor or the DITA Open Toolkit would indicate an error if the author attempts to build a deliverable at this stage.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T115949Z" creationid="lenovo" creationdate="20200901T130748Z">
-        <seg>写作者可以将此食谱保存为&lt;t12/&gt;milkshake.dita&lt;t13/&gt;，但是，如果写作者在此阶段尝试构建可交付成果，那么即使是支持LwDITA的编辑器或DITA Open Toolkit也会报错。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200912T084958Z" creationid="lenovo" creationdate="20200901T130748Z">
+        <seg>作者可以将此食谱保存为&lt;t12/&gt;milkshake.dita&lt;t13/&gt;，但是，如果写作者在此阶段尝试构建可交付成果，那么即使是支持LwDITA的编辑器或DITA Open Toolkit也会报错。</seg>
       </tuv>
     </tu>
     <tu>
