@@ -10124,8 +10124,8 @@
       <tuv lang="en">
         <seg>In a workflow like the one proposed in this chapter, authors and their super&lt;t0/&gt;visors take care of planning, authoring, organizing, and evaluating activities to prevent content-generation problems.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153111Z" creationid="lenovo" creationdate="20200901T134929Z">
-        <seg>在本章中所建议的工作流中，作者及其主管负责计划、创作、组织和评估活动，以防止内容生成出现问题。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T104121Z" creationid="lenovo" creationdate="20200901T134929Z">
+        <seg>在本章中所建议的工作流中，写作者及其主管负责计划、创作、组织和评估活动，以防止内容生成出现问题。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20425,8 +20425,8 @@
       <tuv lang="en">
         <seg>When dealing with machine automa&lt;t1/&gt;tion, there will always be the possibility of errors and the occasional misplaced component in a document, but those are more the exception than the rule.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153111Z" creationid="lenovo" creationdate="20200901T134939Z">
-        <seg>在进行机器自动化处理时，文档中总可能存在错误和组件偶尔放错位置，但是这些不是规则，而是例外。&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T104303Z" creationid="lenovo" creationdate="20200901T134939Z">
+        <seg>在进行机器自动化处理时，文档中总有出现错误和组件偶尔放错位置的可能，但是这些不是规则的问题，而是例外。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
