@@ -5823,8 +5823,8 @@
       <tuv lang="en">
         <seg>Developing an information architecture (the content strategy road map): build content models and define metadata that describe the content, define reuse strategy, and define adaptive content strategy.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T165248Z" creationid="DSS" creationdate="20200812T165248Z">
-        <seg>开发信息体系结构（内容策略路线图）：建立内容模型，定义描述内容的元数据，定义复用策略，定义自适应内容策略。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T121209Z" creationid="DSS" creationdate="20200812T165248Z">
+        <seg>开发信息架构（内容策略路线图）：建立内容模型，定义描述内容的元数据，定义复用策略，定义自适应内容策略。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18990,8 +18990,8 @@
       <tuv lang="en">
         <seg>They also cover some of the work included in Andersen's &lt;t7/&gt;Analyzing the customer and business needs&lt;t8/&gt; and &lt;t9/&gt;Developing an information architecture&lt;t10/&gt; stages.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200907T131219Z" creationid="lenovo" creationdate="20200901T123712Z">
-        <seg>这些任务还涵盖了安德森所述的分析客户和业务需求以及开发信息架构的阶段。&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T121435Z" creationid="lenovo" creationdate="20200901T123712Z">
+        <seg>这些任务还涵盖了安德森所述的&lt;t7/&gt;分析用户和业务需求&lt;t8/&gt;以及&lt;t9/&gt;开发信息架构&lt;t10/&gt;的阶段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21338,8 +21338,8 @@
       <tuv lang="en">
         <seg>included in Andersen's &lt;t0/&gt;Developing an information architecture&lt;t1/&gt; and &lt;t2/&gt;Creating structured content&lt;t3/&gt; stages.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T121157Z" creationid="lenovo" creationdate="20200902T131857Z">
-        <seg>安德森所述的开发信息架构和中包含的一些工作。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T121253Z" creationid="lenovo" creationdate="20200902T131857Z">
+        <seg>安德森所述的开发信息架构和创建结构化内容阶段中包含的一些工作。</seg>
       </tuv>
     </tu>
     <tu>
