@@ -825,6 +825,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t14/&gt;Figure &lt;t15/&gt;8.6&lt;t16/&gt; &lt;t17/&gt;shows a PDF transformation of the XDITA milkshake recipe as it looks in layer &lt;t18/&gt;3.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T113801Z" creationid="DSS" creationdate="20200912T113801Z">
+        <seg>&lt;t14/&gt;图&lt;t15/&gt;8.6&lt;t16/&gt; &lt;t17/&gt;展示了第三层级XDITA奶昔食谱转换生成的PDF。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t14/&gt;The current topic of interest receives attention in conference pres&lt;t15/&gt;entations and journal articles for a while, and instructors evaluate ways to teach the technology &lt;t16/&gt;du jour&lt;t17/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153225Z" creationid="lenovo" creationdate="20200902T155327Z">
@@ -8602,8 +8610,8 @@
       <tuv lang="en">
         <seg>However, those user deliverables will be incorrect or redundant because the filters for specific context will be applied in a future layer.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T143851Z" creationid="lenovo" creationdate="20200901T143851Z">
-        <seg> 但是，这些用户可交付成果将是不正确的或多余的，因为针对特定上下文的筛选器将在以后的层中应用。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T113253Z" creationid="lenovo" creationdate="20200901T143851Z">
+        <seg>但是，这些可交付成果将会是错误或冗余的，因为针对特定上下文的筛选器将在接下来的层级中应用。 </seg>
       </tuv>
     </tu>
     <tu>
