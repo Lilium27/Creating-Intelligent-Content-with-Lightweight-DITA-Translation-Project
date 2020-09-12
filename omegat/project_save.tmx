@@ -4043,8 +4043,8 @@
       <tuv lang="en">
         <seg>At processing time, the author can specify a filter and exclude the value that is not needed for a specific setting.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T123631Z" creationid="lenovo" creationdate="20200902T123244Z">
-        <seg>在处理时，作者可以指定过滤器来排除特定情形不需要的值。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T114340Z" creationid="lenovo" creationdate="20200902T123244Z">
+        <seg>在处理时，写作者可以指定过滤器来排除某个特定情形不需要的值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7145,8 +7145,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;8.5 &lt;t1/&gt;XDITA version of the milkshake recipe with two possible values for&lt;t2/&gt; a setting condition.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T114235Z" creationid="lenovo" creationdate="20200901T145038Z">
-        <seg>图 &lt;t0/&gt;8.5 &lt;t1/&gt;&lt;t2/&gt;XDITA版本的奶昔食谱，该食谱具有两个可能的条件处理属性值。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T114309Z" creationid="lenovo" creationdate="20200901T145038Z">
+        <seg>图 &lt;t0/&gt;8.5 &lt;t1/&gt;&lt;t2/&gt;XDITA版本的奶昔食谱，该食谱条件属性值具有两种可能。 </seg>
       </tuv>
     </tu>
     <tu>
