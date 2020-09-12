@@ -18284,6 +18284,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The value for the &lt;t10/&gt;--&lt;t11/&gt;input &lt;t12/&gt;argument needs to direct the DITA-OT to the specific folder where you stored the &lt;t13/&gt;fountain.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200912T094047Z" creationid="lenovo" creationdate="20200912T094047Z">
+        <seg>input参数的值需要将DITA-OT定位到存储Fountain.ditamap文件的特定文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The value for the &lt;t8/&gt;--&lt;t9/&gt;input&lt;t10/&gt; argument directs the DITA-OT to the specific folder where you stored the &lt;t11/&gt;marinara-critique.ditamap &lt;t12/&gt;file (the &lt;t13/&gt;path-to-file&lt;t14/&gt; section of the command, which you should replace with the actual path to the file in your computer).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T115654Z" creationid="DSS" creationdate="20200806T114857Z">
