@@ -10764,8 +10764,8 @@
       <tuv lang="en">
         <seg>In this layer of abstraction, the XDITA topic displays all available options for equip&lt;t13/&gt;ment and locations.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153119Z" creationid="lenovo" creationdate="20200901T143831Z">
-        <seg>在这一抽象层中，XDITA主题显示了设备和位置的所有可用选项。&lt;t13/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T113018Z" creationid="lenovo" creationdate="20200901T143831Z">
+        <seg>在这一抽象层级中，XDITA主题显示了所有关于设备和位置的可用选项。&lt;t13/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18262,8 +18262,8 @@
       <tuv lang="en">
         <seg>The topic is written in valid XDITA (it conforms to the rules of the LwDITA standard) and can be processed in a software application to generate user deliverables.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200901T143842Z" creationid="lenovo" creationdate="20200901T143842Z">
-        <seg>该主题以有效的XDITA编写（符合LwDITA标准的规则），并且可以在软件应用程序中进行处理以生成用户可交付成果。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T113121Z" creationid="lenovo" creationdate="20200901T143842Z">
+        <seg>该主题以有效的XDITA（符合LwDITA标准的规则）编写，并且可以在软件应用程序中进行处理以生成用户可交付成果。</seg>
       </tuv>
     </tu>
     <tu>
