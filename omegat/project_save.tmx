@@ -6214,6 +6214,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Example of a section component in XDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T125349Z" creationid="DSS" creationdate="20200912T125349Z">
+        <seg>XDITA中的节组件示例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Except they did not.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T145821Z" creationid="lenovo" creationdate="20200723T090924Z">
@@ -12506,6 +12514,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Metadata component to identify the author of an HDITA topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T125540Z" creationid="DSS" creationdate="20200912T125540Z">
+        <seg>使用元数据组件标识作者的HDITA主题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Metadata component to identify the author of an MDITA topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T125542Z" creationid="DSS" creationdate="20200912T125542Z">
+        <seg>使用元数据组件标识作者的MDITA主题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Metadata component to identify the author of an XDITA topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T125529Z" creationid="DSS" creationdate="20200912T125529Z">
+        <seg>使用元数据组件标识作者的XDITA主题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Metadata: Lauren Creekmore defines metadata as “attributes of content you can use to structure, semantically define, and target content” (in Abel &lt;t0/&gt;&amp; &lt;t1/&gt;Bailie, &lt;t2/&gt;2014, &lt;t3/&gt;p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T144851Z" creationid="lenovo" creationdate="20200831T140156Z">
@@ -13620,6 +13652,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Preview of an XDITA table with the ingredients and shipped</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T125447Z" creationid="DSS" creationdate="20200912T125447Z">
+        <seg>在Oxygen的作者模式下,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Preview of the XDITA topic with image and figure</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T124305Z" creationid="DSS" creationdate="20200912T124235Z">
@@ -14267,6 +14307,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T133101Z" creationid="lenovo" creationdate="20200821T132804Z">
         <seg>节组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Section component in HDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T125358Z" creationid="DSS" creationdate="20200912T125358Z">
+        <seg>HDITA中的节组件示例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Section component in MDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T125402Z" creationid="DSS" creationdate="20200912T125402Z">
+        <seg>MDITA中的节组件示例</seg>
       </tuv>
     </tu>
     <tu>
@@ -15091,6 +15147,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T133023Z" creationid="DSS" creationdate="20200804T133023Z">
         <seg>表头&lt;t0/&gt;：表格头部的可选单行标题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Table inside an HDITA topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T125504Z" creationid="DSS" creationdate="20200912T125504Z">
+        <seg>HDITA主题中的表格组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Table inside an MDITA topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T125510Z" creationid="DSS" creationdate="20200912T125510Z">
+        <seg>MDITA主题中的表格组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Table inside an XDITA topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T125428Z" creationid="DSS" creationdate="20200912T125428Z">
+        <seg>XDITA主题中的表格组件</seg>
       </tuv>
     </tu>
     <tu>
@@ -21748,6 +21828,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T084126Z" creationid="DSS" creationdate="20200817T084126Z">
         <seg>转变，以发展、管理和发布内容” (Andersen, &lt;t0/&gt;2014, &lt;t1/&gt;p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>units for the Fancy Roll in Oxygen's &lt;t0/&gt;author&lt;t1/&gt; mode.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T125452Z" creationid="DSS" creationdate="20200912T125452Z">
+        <seg>包含Fancy Roll的配料和出货量的XDITA主题表格组件的预览</seg>
       </tuv>
     </tu>
     <tu>
