@@ -9368,6 +9368,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Image and figure components in an MDITA topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T124326Z" creationid="DSS" creationdate="20200912T124326Z">
+        <seg>MDITA 主题中的图像和图形组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Image and figure components in an XDITA topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T124126Z" creationid="DSS" creationdate="20200912T124126Z">
+        <seg>XDITA 主题中的图像和图形组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Image&lt;t0/&gt;: a link to a graphic to be included in the content.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200804T131241Z" creationid="DSS" creationdate="20200804T131241Z">
@@ -13504,6 +13520,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T063644Z" creationid="lenovo" creationdate="20200811T162019Z">
         <seg>普雷利将修辞性&lt;t3/&gt;主题&lt;t4/&gt;解释为“确定思路的标题或主题。” 他补充到“其中一些发展思路与文化中几乎所有的讨论都有关；其他的则是特定学科和研究领域所特有的”(Prelli, &lt;t5/&gt;1989, &lt;t6/&gt;p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Preview of the XDITA topic with image and figure</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T124305Z" creationid="DSS" creationdate="20200912T124235Z">
+        <seg>Oxygen XML 作者模式下，</seg>
       </tuv>
     </tu>
     <tu>
@@ -20872,6 +20896,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>X&lt;t0/&gt;DITA topic with a cross reference to an external website.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T124343Z" creationid="DSS" creationdate="20200912T124343Z">
+        <seg>包含链接到外部网站的交叉引用组件的 XDITA 主题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>XDITA</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T131108Z" creationid="DSS" creationdate="20200813T131108Z">
@@ -21252,6 +21284,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T135607Z" creationid="lenovo" creationdate="20200821T145945Z">
         <seg>非常繁冗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>environments in Oxygen&lt;t0/&gt; XML &lt;t1/&gt;author&lt;t2/&gt; &lt;t3/&gt;mode.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T124242Z" creationid="DSS" creationdate="20200912T124242Z">
+        <seg>包含图像和图形组件的 XDITA主题预览</seg>
       </tuv>
     </tu>
     <tu>
