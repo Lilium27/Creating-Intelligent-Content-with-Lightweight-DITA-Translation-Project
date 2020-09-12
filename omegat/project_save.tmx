@@ -6648,8 +6648,8 @@
       <tuv lang="en">
         <seg>FIGURE 8.6 &lt;t0/&gt;PDF transformation of the XDITA milkshake recipe.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153121Z" creationid="lenovo" creationdate="20200901T144137Z">
-        <seg>图8.6显示了XDITA奶昔配方的PDF转换&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T114528Z" creationid="lenovo" creationdate="20200901T144137Z">
+        <seg>图8.6&lt;t0/&gt;XDITA奶昔食谱转换生成的PDF。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7145,8 +7145,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;8.5 &lt;t1/&gt;XDITA version of the milkshake recipe with two possible values for&lt;t2/&gt; a setting condition.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T114309Z" creationid="lenovo" creationdate="20200901T145038Z">
-        <seg>图 &lt;t0/&gt;8.5 &lt;t1/&gt;&lt;t2/&gt;XDITA版本的奶昔食谱，该食谱条件属性值具有两种可能。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T114458Z" creationid="lenovo" creationdate="20200901T145038Z">
+        <seg>图 &lt;t0/&gt;8.5 &lt;t1/&gt;&lt;t2/&gt;XDITA版本的奶昔食谱，该食谱的条件属性值具有两种可能。 </seg>
       </tuv>
     </tu>
     <tu>
