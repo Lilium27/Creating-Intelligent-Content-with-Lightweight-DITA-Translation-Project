@@ -7153,8 +7153,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;8.9 &lt;t1/&gt;MDITA version of the milkshake recipe with two possible values for a&lt;t2/&gt; setting condition.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153140Z" creationid="lenovo" creationdate="20200902T131325Z">
-        <seg>图 &lt;t0/&gt;8.9 &lt;t1/&gt;&lt;t2/&gt;MDITA版本的奶昔配方，具有两个可能的设置条件值。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T120844Z" creationid="lenovo" creationdate="20200902T131325Z">
+        <seg>图 &lt;t0/&gt;8.9 &lt;t1/&gt;&lt;t2/&gt;MDITA版本的奶昔食谱，该食谱的条件属性值具有两种可能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18972,6 +18972,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They also cover some of the work</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T121017Z" creationid="DSS" creationdate="20200912T121017Z">
+        <seg>它们还涵盖了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They also cover some of the work included in Andersen's &lt;t5/&gt;Analyzing the customer and business needs &lt;t6/&gt;and &lt;t7/&gt;Developing an information architecture&lt;t8/&gt; stages.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153217Z" creationid="lenovo" creationdate="20200902T154036Z">
@@ -19878,8 +19886,8 @@
       <tuv lang="en">
         <seg>To overcome Markdown's limitations as a language for structuring content, the conditional properties are expressed with HDITA code snippets.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T131654Z" creationid="lenovo" creationdate="20200902T131654Z">
-        <seg>为了克服作为结构内容的语言的Markdown的局限性，条件属性用HDITA代码片段表示。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T120953Z" creationid="lenovo" creationdate="20200902T131654Z">
+        <seg>为了克服Markdown作为结构内容写作语言的的局限性，条件属性用HDITA代码片段表示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21330,8 +21338,8 @@
       <tuv lang="en">
         <seg>included in Andersen's &lt;t0/&gt;Developing an information architecture&lt;t1/&gt; and &lt;t2/&gt;Creating structured content&lt;t3/&gt; stages.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153150Z" creationid="lenovo" creationdate="20200902T131857Z">
-        <seg>包含在安德森的开发信息体系结构和创建结构化的内容阶段。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T121157Z" creationid="lenovo" creationdate="20200902T131857Z">
+        <seg>安德森所述的开发信息架构和中包含的一些工作。</seg>
       </tuv>
     </tu>
     <tu>
