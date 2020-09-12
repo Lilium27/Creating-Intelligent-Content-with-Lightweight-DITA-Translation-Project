@@ -1931,8 +1931,8 @@
       <tuv lang="en">
         <seg>&lt;t5/&gt;This MDITA version can be saved as &lt;t6/&gt;milkshake.md&lt;t7/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153137Z" creationid="lenovo" creationdate="20200902T130358Z">
-        <seg>该MDITA版本可以另存为milkshake.md。&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T120608Z" creationid="lenovo" creationdate="20200902T130358Z">
+        <seg>&lt;t5/&gt;该MDITA版本的食谱可以另存为&lt;t6/&gt;milkshake.md&lt;t7/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15723,8 +15723,8 @@
       <tuv lang="en">
         <seg>The HDITA code snippets enable the MDITA topic to allow conditional content and let Markdown authors use DITA-like content filters.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T130933Z" creationid="lenovo" creationdate="20200902T130933Z">
-        <seg>HDITA代码片段使MDITA主题可以包含条件性内容，并允许Markdown作者使用类似DITA的内容过滤器。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T120631Z" creationid="lenovo" creationdate="20200902T130933Z">
+        <seg>HDITA代码片段使MDITA主题可以包含条件性内容，并允许Markdown写作者使用类似DITA的内容过滤器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15979,8 +15979,8 @@
       <tuv lang="en">
         <seg>The MDITA topic, in this layer, would not make sense for human users, and it must be pro&lt;t0/&gt;cessed by a LwDITA-aware tool in layer &lt;t1/&gt;5.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153138Z" creationid="lenovo" creationdate="20200902T130957Z">
-        <seg>在这一层中，MDITA主题对人类用户而言毫无意义，并且必须由第5层中支持LwDITA的工具进行处理。&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T120728Z" creationid="lenovo" creationdate="20200902T130957Z">
+        <seg>在这一层级中，MDITA主题对人类用户而言毫无意义，它必须在第五层级中由支持LwDITA的工具进行处理。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
