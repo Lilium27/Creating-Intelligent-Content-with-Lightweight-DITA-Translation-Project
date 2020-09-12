@@ -3331,8 +3331,8 @@
       <tuv lang="en">
         <seg>An HDITA version of the milk&lt;t4/&gt;shake recipe, with context information to specify the blender used in each location, would look like&lt;t5/&gt; Figure 8.7&lt;t6/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T115446Z" creationid="lenovo" creationdate="20200902T123719Z">
-        <seg>图8.7是HDITA版本的奶昔食谱，该食谱包含上下文信息，以指定每个地点使用的搅拌器。&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T115933Z" creationid="lenovo" creationdate="20200902T123719Z">
+        <seg>图8.7是HDITA版本的奶昔食谱，该食谱包含上下文信息，以指定每个地点的冷饮柜台使用的搅拌器。&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10348,8 +10348,8 @@
       <tuv lang="en">
         <seg>In order to use the conditional variable &lt;t0/&gt;@data-props&lt;t1/&gt;, a Markdown-based author would have to use a few code snippets of HDITA in MDITA extended profile.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200907T132300Z" creationid="lenovo" creationdate="20200902T130326Z">
-        <seg>为了使用条件变量@data-props，基于Markdown的作者将不得不在MDITA扩展配置文件中使用HDITA的一些代码片段。&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T120244Z" creationid="lenovo" creationdate="20200902T130326Z">
+        <seg>为了在Markdown中使用条件变量&lt;t0/&gt;@data-props&lt;t1/&gt;，基于Markdown的写作者将不得不在MDITA扩展概要在中使用HDITA的一些代码片段。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16523,8 +16523,8 @@
       <tuv lang="en">
         <seg>The context-aware recipe cannot be expressed in MDITA core profile.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T130108Z" creationid="lenovo" creationdate="20200902T130108Z">
-        <seg>上下文感知配方无法在MDITA核心配置文件中表示。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T120032Z" creationid="lenovo" creationdate="20200902T130108Z">
+        <seg>基于MDITA核心概要，无法表示可以感知上下文的食谱。</seg>
       </tuv>
     </tu>
     <tu>
