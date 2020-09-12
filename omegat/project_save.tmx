@@ -10028,8 +10028,8 @@
       <tuv lang="en">
         <seg>In XDITA, the recipe will look like &lt;t0/&gt;Figure &lt;t1/&gt;8.5 &lt;t2/&gt;with the added metadata for context,</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153117Z" creationid="lenovo" creationdate="20200901T143706Z">
-        <seg>在XDITA中，配方如图8.5所示，其中添加了用于上下文的元数据，&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T112316Z" creationid="lenovo" creationdate="20200901T143706Z">
+        <seg>在XDITA中，食谱如图8.5所示，其中添加了用于上下文的元数据，&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15571,8 +15571,8 @@
       <tuv lang="en">
         <seg>The DITA &lt;t11/&gt;1.3 &lt;t12/&gt;spec defines &lt;t13/&gt;@props &lt;t14/&gt;(properties) as a “generic conditional processing attribute”, and in LwDITA it can take different values based on authors' needs &lt;t15/&gt;(2.2.4.2.1 &lt;t16/&gt;Conditional pro&lt;t17/&gt;cessing attributes, &lt;t18/&gt;2018).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153117Z" creationid="lenovo" creationdate="20200901T143650Z">
-        <seg> DITA 1.3规范将@props（属性）定义为“通用条件处理属性”，在LwDITA中，它可以根据作者的需要采用不同的值 (2.2.4.2.1 Conditional processing attributes, 2018).&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T112258Z" creationid="lenovo" creationdate="20200901T143650Z">
+        <seg> DITA 1.3将&lt;t13/&gt;@props &lt;t14/&gt;（属性）定义为“通用条件处理属性”，在LwDITA中，它可以根据写作者的需求采用不同的值 (2.2.4.2.1 Conditional processing attributes, 2018)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16067,8 +16067,8 @@
       <tuv lang="en">
         <seg>The XDITA recipe, which can be saved as &lt;t0/&gt;milkshake.dita&lt;t1/&gt;, has a list item on the ordered list labeled “steps” that instructs the operator to combine all ingre&lt;t2/&gt;dients in a blender.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153118Z" creationid="lenovo" creationdate="20200901T143716Z">
-        <seg>XDITA配方可以保存为milkshake.dita，在有序列表上有一个标有“步骤”的列表项，指示操作员在搅拌机中混合所有成分。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T112718Z" creationid="lenovo" creationdate="20200901T143716Z">
+        <seg>XDITA食谱被保存为&lt;t0/&gt;milkshake.dita&lt;t1/&gt;文件，它包含一个标记为“steps”的有序列表，以指示操作员如何在搅拌机中混合所有配料。</seg>
       </tuv>
     </tu>
     <tu>
