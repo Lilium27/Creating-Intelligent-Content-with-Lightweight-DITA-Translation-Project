@@ -224,8 +224,8 @@
       <tuv lang="en">
         <seg>8&lt;t2/&gt;), &lt;t3/&gt;however, shows both possible blender options in the same step and would be confusing for an actual human operator.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153128Z" creationid="lenovo" creationdate="20200902T130045Z">
-        <seg>但是，最终的Web渲染（图8.8）在同一步骤中同时显示了两个可能的搅拌器选项，这对于实际的操作人员来说会造成混淆。&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T115800Z" creationid="lenovo" creationdate="20200902T130045Z">
+        <seg>网页渲染（图8.8）在同一步骤中同时显示了两个搅拌器选项，这对于实际的操作人员来说会造成混淆。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6656,8 +6656,8 @@
       <tuv lang="en">
         <seg>FIGURE 8.7 &lt;t0/&gt;HDITA version of the milkshake recipe with two possible values for&lt;t1/&gt; a setting condition, which are specified with the HTML5 custom data attribute &lt;t2/&gt;@data-props&lt;t3/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153128Z" creationid="lenovo" creationdate="20200902T130025Z">
-        <seg>图 8.7 &lt;t0/HDITA版本的奶昔配方，具有两个可能的设置条件值，由HTML5自定义数据属性@data-props指定。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T115710Z" creationid="lenovo" creationdate="20200902T130025Z">
+        <seg>图 8.7 &lt;t0/&gt;HDITA版本的奶昔食谱，该食谱的条件属性值具有两种可能，且由HTML5自定义数据属性&lt;t2/&gt;@data-props&lt;t3/&gt;设定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10284,8 +10284,8 @@
       <tuv lang="en">
         <seg>In layer &lt;t4/&gt;5, &lt;t5/&gt;processing the topic with the proper conditional code will produce correct deliverables for each location.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153129Z" creationid="lenovo" creationdate="20200902T130055Z">
-        <seg>在第5层中，使用适当的条件代码处理主题将为每个位置产生正确的可交付成果。&lt;t4/&gt;&lt;t5/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T115917Z" creationid="lenovo" creationdate="20200902T130055Z">
+        <seg>在第五层级中，使用适当的条件代码处理主题将为每个地点的冷饮柜台生成正确的可交付成果。&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17740,6 +17740,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The resulting web</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T115611Z" creationid="DSS" creationdate="20200912T115611Z">
+        <seg>但是，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The revised layers expand beyond the content acquisition stage and cover from planning to evaluation and revision.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T125954Z" creationid="DSS" creationdate="20200813T125954Z">
@@ -21436,6 +21444,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T115938Z" creationid="DSS" creationdate="20200806T115938Z">
         <seg>层级和关系。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>rendering (&lt;t0/&gt;Figure &lt;t1/&gt;8.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T115720Z" creationid="DSS" creationdate="20200912T115720Z">
+        <seg>最终的</seg>
       </tuv>
     </tu>
     <tu>
