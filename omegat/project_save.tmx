@@ -15250,8 +15250,8 @@
       <tuv lang="en">
         <seg>That one-line command combines the map with the topics, processing the hierarchies and relationships established by the topic references and also looking for and populating any vari&lt;t20/&gt;able content placeholders.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200912T095617Z" creationid="lenovo" creationdate="20200912T095617Z">
-        <seg>该单行命令将映射与主题结合在一起，处理由主题引用建立的层次结构和关系，还查找并填充可变内容占位符。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T122738Z" creationid="lenovo" creationdate="20200912T095617Z">
+        <seg>该单行命令将映射与主题结合在一起，处理由主题引用建立的层次结构和关系，还查找并填充可变内容占位符。&lt;t20/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17702,8 +17702,8 @@
       <tuv lang="en">
         <seg>The resulting HTML files will appear automatically in the DITA-OT &lt;t21/&gt;out &lt;t22/&gt;folder, although you can specify an alternative folder in the build command with the &lt;t23/&gt;--&lt;t24/&gt;output &lt;t25/&gt;option.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200912T095928Z" creationid="lenovo" creationdate="20200912T095829Z">
-        <seg>生成的HTML文件将自动出现在DITA-OT 的out文件夹中，尽管您可以使用output选项在build命令中指定另一个文件夹。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T123116Z" creationid="lenovo" creationdate="20200912T095829Z">
+        <seg>生成的HTML文件将自动出现在DITA-OT 的&lt;t21/&gt;out &lt;t22/&gt;文件夹中，尽管您可以使用&lt;t23/&gt;--&lt;t24/&gt;output &lt;t25/&gt;选项在build命令中指定另一个文件夹。</seg>
       </tuv>
     </tu>
     <tu>
