@@ -7121,8 +7121,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;8.17 &lt;t1/&gt;General structure for a command that builds DITA (and LwDITA)&lt;t2/&gt; deliverables with the DITA-OT.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200912T100532Z" creationid="lenovo" creationdate="20200912T100532Z">
-        <seg>图 &lt;t0/&gt;8.17 &lt;t1/&gt;用 DITA-OT 构建 DITA（和 LwDITA）&lt;t1/&gt;交付物的通用命令结构。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T122000Z" creationid="lenovo" creationdate="20200912T100532Z">
+        <seg>图 &lt;t0/&gt;8.17 &lt;t1/&gt;用 DITA-OT 构建 DITA（和 LwDITA）交付物的通用命令结构。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10348,8 +10348,8 @@
       <tuv lang="en">
         <seg>In order to use the conditional variable &lt;t0/&gt;@data-props&lt;t1/&gt;, a Markdown-based author would have to use a few code snippets of HDITA in MDITA extended profile.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T120351Z" creationid="lenovo" creationdate="20200902T130326Z">
-        <seg>为了在Markdown中使用条件变量&lt;t0/&gt;@data-props&lt;t1/&gt;，基于Markdown的写作者将不得不使用MDITA扩展概要中的一些HDITA代码片段。&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T121937Z" creationid="lenovo" creationdate="20200902T130326Z">
+        <seg>为了在Markdown中使用条件变量&lt;t0/&gt;@data-props&lt;t1/&gt;，基于Markdown的写作者将不得不使用MDITA扩展概要中的一些HDITA代码片段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11724,8 +11724,8 @@
       <tuv lang="en">
         <seg>Layer &lt;t0/&gt;4: &lt;t1/&gt;Linking Topics and Maps for Collection and Reuse</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153151Z" creationid="lenovo" creationdate="20200902T132512Z">
-        <seg>第四层：链接主题和映射以收集和复用&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T121744Z" creationid="lenovo" creationdate="20200902T132512Z">
+        <seg>第四层级：链接主题和映射用以聚合和复用内容&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15579,8 +15579,8 @@
       <tuv lang="en">
         <seg>The DITA &lt;t11/&gt;1.3 &lt;t12/&gt;spec defines &lt;t13/&gt;@props &lt;t14/&gt;(properties) as a “generic conditional processing attribute”, and in LwDITA it can take different values based on authors' needs &lt;t15/&gt;(2.2.4.2.1 &lt;t16/&gt;Conditional pro&lt;t17/&gt;cessing attributes, &lt;t18/&gt;2018).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T112258Z" creationid="lenovo" creationdate="20200901T143650Z">
-        <seg> DITA 1.3将&lt;t13/&gt;@props &lt;t14/&gt;（属性）定义为“通用条件处理属性”，在LwDITA中，它可以根据写作者的需求采用不同的值 (2.2.4.2.1 Conditional processing attributes, 2018)。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T122044Z" creationid="lenovo" creationdate="20200901T143650Z">
+        <seg> DITA 1.3将&lt;t13/&gt;@props &lt;t14/&gt;（属性）定义为“通用条件处理属性”，在LwDITA中，它可以根据写作者的需求采用不同的值 &lt;t15/&gt;(2.2.4.2.1 &lt;t16/&gt;Conditional pro&lt;t17/&gt;cessing attributes, &lt;t18/&gt;2018)。</seg>
       </tuv>
     </tu>
     <tu>
