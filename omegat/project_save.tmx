@@ -8088,6 +8088,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>H&lt;t0/&gt;DITA topic with a phrase component.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T125026Z" creationid="DSS" creationdate="20200912T125026Z">
+        <seg>包含短语组件的HDITA主题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HDITA</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T133200Z" creationid="DSS" creationdate="20200816T133200Z">
@@ -12330,6 +12338,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MDITA topic with a phrase component.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T125036Z" creationid="DSS" creationdate="20200912T125036Z">
+        <seg>包含短语组件的MDITA主题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MDITA uses the shortcut reference</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T123736Z" creationid="DSS" creationdate="20200911T123736Z">
@@ -12938,6 +12954,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note environment in an HDITA topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T125014Z" creationid="DSS" creationdate="20200912T125014Z">
+        <seg>HDITA主题中的注释组件环境</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note environment in an XDITA topic.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T125005Z" creationid="DSS" creationdate="20200912T125005Z">
@@ -13356,6 +13380,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>P&lt;t0/&gt;reformatted text in MDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T125111Z" creationid="DSS" creationdate="20200912T125111Z">
+        <seg>MDITA中的预格式化文本组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>P&lt;t0/&gt;reformatted text in XDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T125054Z" creationid="DSS" creationdate="20200912T125054Z">
+        <seg>XDITA中的预格式化文本组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>P&lt;t0/&gt;review of an XDITA topic with a preformatted text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T125142Z" creationid="DSS" creationdate="20200912T125142Z">
+        <seg>在 Oxygen XML的 作者模式下，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>PREFACE</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200820T122521Z" creationid="DSS" creationdate="20200716T084923Z">
@@ -13544,6 +13592,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T150447Z" creationid="lenovo" creationdate="20200902T150447Z">
         <seg>预格式化文本组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Preformatted text in HDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T125101Z" creationid="DSS" creationdate="20200912T125101Z">
+        <seg>HDITA中的预格式化文本组件</seg>
       </tuv>
     </tu>
     <tu>
@@ -20455,6 +20511,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Web browser view of the preformatted text example in HDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T125340Z" creationid="DSS" creationdate="20200912T125340Z">
+        <seg>预格式化文本HDITA示例的网页浏览器视图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>What are we seeing?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wqt" changedate="20200904T032911Z" creationid="DSS" creationdate="20200726T152747Z">
@@ -20944,6 +21008,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>X&lt;t0/&gt;DITA topic with a phrase component.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T125020Z" creationid="DSS" creationdate="20200912T125020Z">
+        <seg>包含短语组件的XDITA主题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>XDITA</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T131108Z" creationid="DSS" creationdate="20200813T131108Z">
@@ -21324,6 +21396,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T135607Z" creationid="lenovo" creationdate="20200821T145945Z">
         <seg>非常繁冗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>environment in Oxygen XML's&lt;t0/&gt; &lt;t1/&gt;author&lt;t2/&gt; &lt;t3/&gt;mode.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T125150Z" creationid="DSS" creationdate="20200912T125150Z">
+        <seg>包含预格式化文本组件环境的XDITA主题的预览</seg>
       </tuv>
     </tu>
     <tu>
