@@ -7079,6 +7079,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;8.17 &lt;t1/&gt;General structure for a command that builds DITA (and LwDITA)&lt;t2/&gt; deliverables with the DITA-OT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200912T100532Z" creationid="lenovo" creationdate="20200912T100532Z">
+        <seg>图 &lt;t0/&gt;8.17 &lt;t1/&gt;用 DITA-OT 构建 DITA（和 LwDITA）&lt;t1/&gt;交付物的通用命令结构。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;8.2 &lt;t1/&gt;Recipe for the versatile milkshake authored in HDITA.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T120837Z" creationid="lenovo" creationdate="20200901T131616Z">
