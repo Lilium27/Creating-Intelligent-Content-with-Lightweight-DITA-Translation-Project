@@ -3057,6 +3057,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Albers called for a similar dimension of rhetorical effectiveness when discussing the effects of single sourcing and XML in the careers of technical communicators: the real questions in documentation projects “should not revolve around technology but around whether the resulting documents effectively address a user's real- world information needs (Albers, &lt;t8/&gt;2003, &lt;t9/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T102416Z" creationid="DSS" creationdate="20200912T102416Z">
+        <seg>在讨论同源开发和XML对技术传播工程师职业生涯的影响时，Albers对修辞效果提出了相同的呼吁：文档项目中的实际问题“不应围绕技术，而应围绕产生的文档是否有效地解决了用户在现实世界的信息需求(Albers, &lt;t8/&gt;2003, &lt;t9/&gt;p. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All Together Now: Cross-format Authoring in LwDITA</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200826T153943Z" creationid="lenovo" creationdate="20200826T153943Z">
