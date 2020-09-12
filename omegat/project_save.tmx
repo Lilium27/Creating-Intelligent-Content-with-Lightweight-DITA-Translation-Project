@@ -2267,8 +2267,8 @@
       <tuv lang="en">
         <seg>&lt;t8/&gt;The sample recipe from layer &lt;t9/&gt;2 &lt;t10/&gt;only mentions the professional mixer, but now that its content will also generate the operator manual for the food truck location, this same recipe should accommodate both cases while minimizing distractions for the users: in the downtown location, the manual should only mention the professional mixer, but in the food truck location it should only mention the smaller blender.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T111907Z" creationid="lenovo" creationdate="20200901T143415Z">
-        <seg>&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;第二层级的食谱样例仅提到需要使用专业搅拌器，但是既然该内容也将用于生成餐车操作员手册，同一食谱应适用于两种情况，同时将对用户的困扰降到最低：在市区，手册仅应提及专业搅拌器，而餐车则只可较小的搅拌器。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T114930Z" creationid="lenovo" creationdate="20200901T143415Z">
+        <seg>&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;第二层级的食谱样例仅提到需要使用专业搅拌器，但是既然该内容也将用于生成餐车操作员手册，同一食谱应适用于两种情况，同时将对用户的困扰降到最低：在市区，手册应仅提及专业搅拌器，而在餐车中则只可提及较小的搅拌器。</seg>
       </tuv>
     </tu>
     <tu>
