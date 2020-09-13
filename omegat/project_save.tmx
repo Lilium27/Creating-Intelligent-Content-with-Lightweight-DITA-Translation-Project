@@ -7667,8 +7667,8 @@
       <tuv lang="en">
         <seg>Footnote</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T133026Z" creationid="lenovo" creationdate="20200818T023824Z">
-        <seg>脚注组件</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T022520Z" creationid="lenovo" creationdate="20200818T023824Z">
+        <seg>脚注</seg>
       </tuv>
     </tu>
     <tu>
@@ -13173,8 +13173,8 @@
       <tuv lang="en">
         <seg>Note</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T015228Z" creationid="DSS" creationdate="20200804T162547Z">
-        <seg>注释组件  </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T022526Z" creationid="DSS" creationdate="20200804T162547Z">
+        <seg>注释</seg>
       </tuv>
     </tu>
     <tu>
@@ -13823,8 +13823,8 @@
       <tuv lang="en">
         <seg>Preformatted text</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T150447Z" creationid="lenovo" creationdate="20200902T150447Z">
-        <seg>预格式化文本组件</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T022532Z" creationid="lenovo" creationdate="20200902T150447Z">
+        <seg>预格式化文本</seg>
       </tuv>
     </tu>
     <tu>
@@ -14522,8 +14522,8 @@
       <tuv lang="en">
         <seg>Section</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T133101Z" creationid="lenovo" creationdate="20200821T132804Z">
-        <seg>节组件</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T022548Z" creationid="lenovo" creationdate="20200821T132804Z">
+        <seg>节</seg>
       </tuv>
     </tu>
     <tu>
@@ -14730,8 +14730,8 @@
       <tuv lang="en">
         <seg>Simple table</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T150501Z" creationid="lenovo" creationdate="20200902T150501Z">
-        <seg>简单表</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T022645Z" creationid="lenovo" creationdate="20200902T150501Z">
+        <seg>简单表格</seg>
       </tuv>
     </tu>
     <tu>
