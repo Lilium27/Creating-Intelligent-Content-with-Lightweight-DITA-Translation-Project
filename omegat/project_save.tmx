@@ -545,8 +545,8 @@
       <tuv lang="en">
         <seg>&lt;t1/&gt;In this section, we will look at an XDITA map that includes the milkshake recipe in a collection of topics that also includes recipes for a root beer float and a banana split.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T020737Z" creationid="lenovo" creationdate="20200902T151251Z">
-        <seg>&lt;t1/&gt;在本节中，我们将查看XDITA映射，其中包含一系列主题，如奶昔配方，冰淇凌蛋筒浮法配方和香蕉片的配方。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T024921Z" creationid="lenovo" creationdate="20200902T151251Z">
+        <seg>&lt;t1/&gt;在本节中，我们将查看XDITA映射，其中包含一系列主题，如奶昔食谱，冰淇凌蛋筒浮法食谱和香蕉片的食谱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1227,8 +1227,8 @@
       <tuv lang="en">
         <seg>&lt;t26/&gt;Figure &lt;t27/&gt;8.19&lt;t28/&gt; &lt;t29/&gt;shows the resulting &lt;t30/&gt;web version of the milkshake recipe after being processed with the DITA-OT.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T123411Z" creationid="lenovo" creationdate="20200912T100219Z">
-        <seg>图8.19显示了DITA-OT处理后的奶昔配方的网页版本。&lt;t26/&gt;&lt;t27/&gt;&lt;t28/&gt;&lt;t29/&gt;&lt;t30/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T023348Z" creationid="lenovo" creationdate="20200912T100219Z">
+        <seg>图8.19显示了DITA-OT处理后的奶昔食谱的网页版本。&lt;t26/&gt;&lt;t27/&gt;&lt;t28/&gt;&lt;t29/&gt;&lt;t30/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1403,8 +1403,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;Going back to the adaptive milkshake rec&lt;t4/&gt;ipe from Dan Garcia's example, in a LwDITA workflow an author would need to (following Bailie's definition) analyze and plan before writing any content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T152948Z" creationid="lenovo" creationdate="20200831T134132Z">
-        <seg>&lt;t3/&gt;&lt;t4/&gt;回到丹·加西亚示例中的自适应奶昔配方，在LwDITA工作流程中，创作者在编写任何内容之前需要（按照拜利的定义）进行分析和计划。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T023348Z" creationid="lenovo" creationdate="20200831T134132Z">
+        <seg>&lt;t3/&gt;&lt;t4/&gt;回到丹·加西亚示例中的自适应奶昔食谱，在LwDITA工作流程中，创作者在编写任何内容之前需要（按照拜利的定义）进行分析和计划。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3131,8 +3131,8 @@
       <tuv lang="en">
         <seg>After saving the &lt;t0/&gt;fountain.ditamap&lt;t1/&gt; with the new ice cream flavor, you can run the same DITA-OT command from &lt;t2/&gt;Figure 8.18&lt;t3/&gt; without any changes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T022744Z" creationid="lenovo" creationdate="20200913T022744Z">
-        <seg>在用新的冰淇淋口味保存了Fountain.ditamap之后，您可以运行图8.18中相同的DITA-OT命令，而无需进行任何更改。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T025741Z" creationid="lenovo" creationdate="20200913T022744Z">
+        <seg>在用新的冰淇淋口味保存了&lt;t0/&gt;fountain.ditamap&lt;t1/&gt;之后，您可以运行图8.18中相同的DITA-OT命令，而无需进行任何更改。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5903,8 +5903,8 @@
       <tuv lang="en">
         <seg>Determine who will be the users of the milkshake recipe.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T135530Z" creationid="lenovo" creationdate="20200831T134504Z">
-        <seg>确定谁将成为奶昔配方的使用者。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T023348Z" creationid="lenovo" creationdate="20200831T134504Z">
+        <seg>确定谁将成为奶昔食谱的使用者。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6801,8 +6801,8 @@
       <tuv lang="en">
         <seg>FIGURE 8.20 &lt;t0/&gt;HTML5 transformation of the root beer float recipe processed with&lt;t1/&gt; the XDITA map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T020823Z" creationid="lenovo" creationdate="20200913T020823Z">
-        <seg>图 8.20 &lt;t0/&gt;XDITA映射转换生成的HTML5格式的冰淇淋蛋筒配方</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T024921Z" creationid="lenovo" creationdate="20200913T020823Z">
+        <seg>图 8.20 &lt;t0/&gt;XDITA映射转换生成的HTML5格式的冰淇淋蛋筒食谱</seg>
       </tuv>
     </tu>
     <tu>
@@ -7274,40 +7274,40 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;8.10 &lt;t1/&gt;Milkshake recipe in XDITA syntax with the note component.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T150307Z" creationid="lenovo" creationdate="20200902T150307Z">
-        <seg>图 &lt;t0/&gt;8.10 &lt;t1/&gt;XDITA语法下带提示组件的奶昔配方。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T023238Z" creationid="lenovo" creationdate="20200902T150307Z">
+        <seg>图 &lt;t0/&gt;8.10 &lt;t1/&gt;XDITA语法下包含提示组件的奶昔食谱。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;8.11 &lt;t1/&gt;Milkshake recipe in HDITA syntax with the note component.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T150523Z" creationid="lenovo" creationdate="20200902T150523Z">
-        <seg>图 &lt;t0/&gt;8.11 &lt;t1/&gt;HDITA语法下带提示组件的奶昔配方。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T023348Z" creationid="lenovo" creationdate="20200902T150523Z">
+        <seg>图 &lt;t0/&gt;8.11 &lt;t1/&gt;HDITA语法下带提示组件的奶昔食谱。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;8.12 &lt;t1/&gt;Milkshake recipe in MDITA extended profile syntax with the note&lt;t2/&gt; component.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153202Z" creationid="lenovo" creationdate="20200902T151111Z">
-        <seg>图 &lt;t0/&gt;8.12 &lt;t1/&gt;&lt;t2/&gt;MDITA扩展配置文件语法下带提示组件的奶昔配方。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T023348Z" creationid="lenovo" creationdate="20200902T151111Z">
+        <seg>图 &lt;t0/&gt;8.12 &lt;t1/&gt;&lt;t2/&gt;MDITA扩展配置文件语法下带提示组件的奶昔食谱。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;8.13 &lt;t1/&gt;XDITA version of the root beer float recipe with a content reference.&lt;t2/&gt; The conref links to the source note in the milkshake recipe.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T020737Z" creationid="lenovo" creationdate="20200902T151602Z">
-        <seg>图 &lt;t0/&gt;8.13 &lt;t1/&gt;XDITA版本带内容参考的冰淇凌蛋筒浮法配方&lt;t2/&gt;conref链接到奶昔配方中的源说明。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T024921Z" creationid="lenovo" creationdate="20200902T151602Z">
+        <seg>图 &lt;t0/&gt;8.13 &lt;t1/&gt;XDITA版本带内容参考的冰淇凌蛋筒浮法食谱&lt;t2/&gt;conref链接到奶昔食谱中的源说明。 </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;8.14 &lt;t1/&gt;HDITA version of the root beer float recipe with a content reference.&lt;t2/&gt; The conref links to the source note in the milkshake recipe.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T020737Z" creationid="lenovo" creationdate="20200902T151035Z">
-        <seg>图 &lt;t0/&gt;8.14 &lt;t1/&gt;&lt;t2/&gt; HDITA版本带内容参考的冰淇凌蛋筒浮法配方。conref链接到奶昔配方中的源说明。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T024921Z" creationid="lenovo" creationdate="20200902T151035Z">
+        <seg>图 &lt;t0/&gt;8.14 &lt;t1/&gt;&lt;t2/&gt; HDITA版本带内容参考的冰淇凌蛋筒浮法食谱。conref链接到奶昔食谱中的源说明。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7963,8 +7963,8 @@
       <tuv lang="en">
         <seg>For the milkshake entry, the collection should include a versatile recipe with a list of ingredients and steps.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T134403Z" creationid="lenovo" creationdate="20200831T134241Z">
-        <seg>对于奶昔条目，集合应包括列出了配料和制作步骤的通用配方。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T024921Z" creationid="lenovo" creationdate="20200831T134241Z">
+        <seg>对于奶昔条目，集合应包括列出了配料和制作步骤的通用食谱。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -9491,8 +9491,8 @@
       <tuv lang="en">
         <seg>If the soda fountain runs out of strawberry ice cream and needs to update the manual to reflect that the default flavor is now vanilla, the author only needs to modify one line of code inside the XDITA map, as shown in &lt;t0/&gt;Figure 8.21&lt;t1/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T021246Z" creationid="lenovo" creationdate="20200913T021246Z">
-        <seg>如果冷饮柜台草莓冰淇淋售罄，需要更新手册将默认口味改成香草味，作者只需修改XDITA映射内的一行代码，如图8.21所示。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T025719Z" creationid="lenovo" creationdate="20200913T021246Z">
+        <seg>如果冷饮柜台草莓冰淇淋售罄，需要更新手册将默认口味改成香草味，作者只需修改XDITA映射内的一行代码，如图8.21所示。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14338,8 +14338,8 @@
       <tuv lang="en">
         <seg>Remember to replace the &lt;t4/&gt;path-to-file&lt;t5/&gt; segment with the actual path to the file in your computer.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T022915Z" creationid="lenovo" creationdate="20200913T022915Z">
-        <seg> 切记将path-to-file片段替换为计算机中文件的实际路径。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T025751Z" creationid="lenovo" creationdate="20200913T022915Z">
+        <seg> 切记将&lt;t4/&gt;path-to-file&lt;t5/&gt;片段替换为计算机中文件的实际路径。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14780,6 +14780,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200811T152528Z" creationid="lenovo" creationdate="20200811T152528Z">
         <seg>同样地，在某种程度上，我们无需太多提示就能理解常规这个概念：从字面上讲，常规指的是在某个特定领域的常见现象。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Simple</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T024958Z" creationid="DSS" creationdate="20200913T024958Z">
+        <seg>简单</seg>
       </tuv>
     </tu>
     <tu>
@@ -16604,8 +16612,8 @@
       <tuv lang="en">
         <seg>The XDITA map in &lt;t0/&gt;Figure &lt;t1/&gt;8.16&lt;t2/&gt; &lt;t3/&gt;includes references (&lt;t4/&gt;&lt;topicref&gt;&lt;t5/&gt;) to the three hypothetical recipes in the manual.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153204Z" creationid="lenovo" creationdate="20200902T151840Z">
-        <seg>图8.16中的XDITA映射包括对手册中三个假设配方的引用（&lt;topicref&gt;）。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T024921Z" creationid="lenovo" creationdate="20200902T151840Z">
+        <seg>图8.16中的XDITA映射包括对手册中三个假设食谱的引用（&lt;topicref&gt;）。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17887,8 +17895,8 @@
       <tuv lang="en">
         <seg>The next step is to apply the &lt;t0/&gt;if-then&lt;t1/&gt; filter for conditional content.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T023147Z" creationid="lenovo" creationdate="20200913T023147Z">
-        <seg>下一步是对条件内容应用if-then过滤器。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T025813Z" creationid="lenovo" creationdate="20200913T023147Z">
+        <seg>下一步是对条件内容应用&lt;t0/&gt;if-then&lt;t1/&gt;过滤器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18999,16 +19007,16 @@
       <tuv lang="en">
         <seg>The warning note about unplugging the blender appears in this recipe via the con&lt;t1/&gt;tent reference mechanism.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T020245Z" creationid="lenovo" creationdate="20200913T020245Z">
-        <seg>通过内容引用机制在此配方中显示有关拔下搅拌机插头的警告提示。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T024921Z" creationid="lenovo" creationdate="20200913T020245Z">
+        <seg>通过内容引用机制在此食谱中显示有关拔下搅拌机插头的警告提示。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The web versions of the milkshake recipe in Figures 18 and 21, however, still show both blender options.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T023036Z" creationid="lenovo" creationdate="20200913T023036Z">
-        <seg>但是，图18和21中的网页版奶昔配方版本仍然显示了两个搅拌器选项。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T023348Z" creationid="lenovo" creationdate="20200913T023036Z">
+        <seg>但是，图18和21中的网页版奶昔食谱版本仍然显示了两个搅拌器选项。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19127,8 +19135,8 @@
       <tuv lang="en">
         <seg>The “warning” note appears in this topic via the conref that reuses the original element from the milkshake recipe.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T021003Z" creationid="lenovo" creationdate="20200913T021003Z">
-        <seg>本主题中的“警告”提示式通过复用奶昔配方中的原始元素的conref形成的。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T023348Z" creationid="lenovo" creationdate="20200913T021003Z">
+        <seg>本主题中的“警告”提示式通过复用奶昔食谱中的原始元素的conref形成的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19911,8 +19919,8 @@
       <tuv lang="en">
         <seg>This is achieved in a DITAVAL that looks like &lt;t7/&gt;Figure 8.23&lt;t8/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T023839Z" creationid="lenovo" creationdate="20200913T023839Z">
-        <seg>图8.23的DITAVAL可实现此功能。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T025843Z" creationid="lenovo" creationdate="20200913T023839Z">
+        <seg>图8.23的DITAVAL可实现此功能。&lt;t7/&gt;&lt;t8/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21587,8 +21595,8 @@
       <tuv lang="en">
         <seg>XDITA map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T020828Z" creationid="lenovo" creationdate="20200913T020422Z">
-        <seg>HTML5格式的奶昔配方</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T023348Z" creationid="lenovo" creationdate="20200913T020422Z">
+        <seg>HTML5格式的奶昔食谱</seg>
       </tuv>
     </tu>
     <tu>
@@ -22203,8 +22211,8 @@
       <tuv lang="en">
         <seg>should follow the structure of &lt;t0/&gt;if&lt;t1/&gt; @props&lt;t2/&gt;=“setting-foodtruck”, &lt;t3/&gt;then&lt;t4/&gt; exclude &lt;t5/&gt;@props&lt;t6/&gt;=“setting-downtown”.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T023753Z" creationid="lenovo" creationdate="20200913T023753Z">
-        <seg>应遵循&lt;t0/&gt;if&lt;t1/&gt; @props&lt;t2/&gt;=“setting-foodtruck”的结构，则排除 &lt;t5/&gt;@props&lt;t6/&gt;=“setting-downtown”。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T025840Z" creationid="lenovo" creationdate="20200913T023753Z">
+        <seg>应遵循&lt;t0/&gt;if&lt;t1/&gt; @props&lt;t2/&gt;=“setting-foodtruck”&lt;t3/&gt;的结构，则排除 &lt;t5/&gt;@props&lt;t6/&gt;=“setting-downtown”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22227,24 +22235,24 @@
       <tuv lang="en">
         <seg>table entry</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T150606Z" creationid="lenovo" creationdate="20200902T150606Z">
-        <seg>简单表条目</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T024955Z" creationid="lenovo" creationdate="20200902T150606Z">
+        <seg>表条目</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>table header</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T150633Z" creationid="lenovo" creationdate="20200902T150633Z">
-        <seg>简单表</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T025013Z" creationid="lenovo" creationdate="20200902T150633Z">
+        <seg>表头</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>table row</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T150641Z" creationid="lenovo" creationdate="20200902T150641Z">
-        <seg>简单表行</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T025018Z" creationid="lenovo" creationdate="20200902T150641Z">
+        <seg>表行</seg>
       </tuv>
     </tu>
     <tu>
@@ -23350,8 +23358,8 @@
       <tuv lang="en">
         <seg>• &lt;t0/&gt;The sample recipe for the “Fancy Roll” created in XDITA (&lt;t1/&gt;Figure &lt;t2/&gt;6.49&lt;t3/&gt;) &lt;t4/&gt;by the kitchen staff and the technical writing intern (saved as &lt;t5/&gt;fancy-roll.dita&lt;t6/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200827T135037Z" creationid="lenovo" creationdate="20200827T135037Z">
-        <seg>• &lt;t0/&gt;由厨房人员和技术写作实习生在XDITA (&lt;t1/&gt;图&lt;t2/&gt;6.49&lt;t3/&gt;) &lt;t4/&gt;中创建的“Fancy Roll”样例配方(保存为 &lt;t5/&gt;fancy-roll.dita&lt;t6/&gt;).</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T024921Z" creationid="lenovo" creationdate="20200827T135037Z">
+        <seg>• &lt;t0/&gt;由厨房人员和技术写作实习生在XDITA (&lt;t1/&gt;图&lt;t2/&gt;6.49&lt;t3/&gt;) &lt;t4/&gt;中创建的“Fancy Roll”样例食谱(保存为 &lt;t5/&gt;fancy-roll.dita&lt;t6/&gt;).</seg>
       </tuv>
     </tu>
     <tu>
