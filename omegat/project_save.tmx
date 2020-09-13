@@ -6815,6 +6815,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE 8.22 &lt;t0/&gt;HTML5 transformation of the milkshake recipe with vanilla as the ice&lt;t1/&gt; cream flavor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T024821Z" creationid="lenovo" creationdate="20200913T024821Z">
+        <seg>FIGURE 8.22 &lt;t0/&gt;HTML5格式的香草口味奶昔食谱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE 8.3 &lt;t0/&gt;HDITA version of the milkshake recipe as seen on a web browser.&lt;t1/&gt; Note that the ingredient for a pint of ice cream does not have a flavor attached to it, which will come in a more advanced layer when the topic is processed through a LwDITA-aware software application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T123555Z" creationid="lenovo" creationdate="20200901T132346Z">
@@ -21747,8 +21755,8 @@
       <tuv lang="en">
         <seg>You can save this new file as &lt;t4/&gt;setting.ditaval&lt;t5/&gt; and add it to the file col&lt;t6/&gt;lection, which now includes LwDITA topics, an XDITA map, and a DITAVAL filter.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T024411Z" creationid="lenovo" creationdate="20200913T024411Z">
-        <seg>你可以将这个新文件保存为&lt;t4/&gt;setting.ditaval&lt;t5/&gt; and add it to the file col&lt;t6/&gt;lection, which now includes LwDITA topics, an XDITA map, and a DITAVAL filter.</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T024649Z" creationid="lenovo" creationdate="20200913T024411Z">
+        <seg>你可以将这个新文件保存为&lt;t4/&gt;setting.ditaval&lt;t5/&gt; 并将其添加到文件集合中，该集合现已包括LwDITA主题、XDITA映射和DITAVAL过滤器</seg>
       </tuv>
     </tu>
     <tu>
