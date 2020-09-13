@@ -15208,6 +15208,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>So intelligent that you should help it with those college applications for Ivy League schools.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T074635Z" creationid="DSS" creationdate="20200913T074635Z">
+        <seg>你可以将LwDITA教给常春藤名校的申请者。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>So, Is My Content Intelligent Now?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T140259Z" creationid="lenovo" creationdate="20200827T143305Z">
@@ -21290,8 +21298,8 @@
       <tuv lang="en">
         <seg>Unless your content consists of little stubs of topics about pasta sauce recipes, sushi restaurants, or ice cream-based treats, all the content samples in this book were my examples.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T053805Z" creationid="lenovo" creationdate="20200913T053805Z">
-        <seg>除非您的内容不包含有关通心粉酱食谱，寿司店或冰淇淋点心的主题，否则本书中的所有内容示例都是我的示例。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T074114Z" creationid="lenovo" creationdate="20200913T053805Z">
+        <seg>除非你的内容不包含有关通心粉酱食谱，寿司店或冰淇淋点心的主题，否则本书中的所有内容示例都是我的示例。</seg>
       </tuv>
     </tu>
     <tu>
