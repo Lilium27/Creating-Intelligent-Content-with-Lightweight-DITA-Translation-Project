@@ -8265,6 +8265,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>GitHub Pages is the default hosting service for web deliverables produced in this layer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T040633Z" creationid="lenovo" creationdate="20200913T040633Z">
+        <seg>GitHub Pages是此层中生成的网页可交付成果的默认托管服务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Global collaborator</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T125705Z" creationid="DSS" creationdate="20200811T124818Z">
@@ -8301,6 +8309,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T144309Z" creationid="lenovo" creationdate="20200723T082040Z">
         <seg>以往技术传播领域的学者和从业者携手推动手册这一通用体裁的发展，进而两者绑定在一起，然而这样的日子已经一去不复返了。&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Graduates of the Professional and Technical Writing program who work in industry, non-profits, or government agencies authoring for intelligent content workflows learn their worksite-specific tools &lt;t3/&gt;as part of job training programs, and the layers of abstraction presented in this chapter make that learning process easier, particularly for graduates from a department of English.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T041000Z" creationid="lenovo" creationdate="20200913T041000Z">
+        <seg>在业界、非营利组织或政府机构工作的专业技术写作项目的毕业生，他们用智能内容工作流进行创作，将学习工作特定的工具作为职业培训项目的一部分，而本章介绍的抽象层次使学习过程更容易，特别是对于英语系的毕业生而言。</seg>
       </tuv>
     </tu>
     <tu>
