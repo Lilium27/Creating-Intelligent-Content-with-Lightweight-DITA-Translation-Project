@@ -9763,8 +9763,8 @@
       <tuv lang="en">
         <seg>If vanilla is the flavor of the day tomorrow, the author only needs to change that in the map key reference, and all the topics referenced will be updated automatically when the collection is processed in layer 5.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T153919Z" creationid="lenovo" creationdate="20200902T153919Z">
-        <seg>如果明天的口味是香草，那么作者只需在map键引用中进行更改即可，并且在第5层中处理集合时，所有引用的主题都将自动更新。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T084627Z" creationid="lenovo" creationdate="20200902T153919Z">
+        <seg>如果明天的口味是香草，那么作者只需在map引用键中进行更改即可，并且在第五层中处理集合时，所有引用的主题都将自动更新。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12245,8 +12245,8 @@
       <tuv lang="en">
         <seg>Layer &lt;t0/&gt;2 &lt;t1/&gt;introduced the key reference attribute as a placeholder for content reuse.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T014453Z" creationid="lenovo" creationdate="20200902T132843Z">
-        <seg>第二层级引入了关键引用属性作为复用内容的占位符。&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T084407Z" creationid="lenovo" creationdate="20200902T132843Z">
+        <seg>第二层级引入了引用键属性作为复用内容的占位符。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18015,8 +18015,8 @@
       <tuv lang="en">
         <seg>The ingredient&lt;t2/&gt; for ice cream uses a GitHub Flavored Markdown shortcut reference link to inherit a key reference from a map that will appear in a more advanced layer.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T014435Z" creationid="DSS" creationdate="20200911T130549Z">
-        <seg>冰淇淋配料的部分使用了GitHub风格的Markdown中的快捷引用链接，以从将在更高层级中出现的映射中继承关键性引用。&lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T084337Z" creationid="DSS" creationdate="20200911T130549Z">
+        <seg>冰淇淋配料的部分使用了GitHub风格的Markdown中的快捷引用链接，以从将在更高层级中出现的映射中继承引用键。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18103,8 +18103,8 @@
       <tuv lang="en">
         <seg>The list item asking for a pint of ice cream includes a key reference with the value of &lt;t2/&gt;“icecream-flavor,”&lt;t3/&gt; which will be set at processing time in a different layer.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T014318Z" creationid="lenovo" creationdate="20200901T130341Z">
-        <seg>列表项表明食谱需要一品脱冰淇淋，包括一个链接到“&lt;t2/&gt;“icecream-flavor&lt;t3/&gt;”的关键引用，其值将在另一层级的处理阶段中进行设置。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T084322Z" creationid="lenovo" creationdate="20200901T130341Z">
+        <seg>列表项表明食谱需要一品脱冰淇淋，包括一个链接到“&lt;t2/&gt;“icecream-flavor&lt;t3/&gt;”的引用键，其值将在另一层级的处理阶段中进行设置。</seg>
       </tuv>
     </tu>
     <tu>
