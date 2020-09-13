@@ -21915,8 +21915,8 @@
       <tuv lang="en">
         <seg>Without a content strategy, a user cannot advance in the LwDITA process layers of abstraction.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T144631Z" creationid="lenovo" creationdate="20200831T134027Z">
-        <seg>没有内容策略，用户将无法了解 LwDITA 的抽象过程层级。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T065913Z" creationid="lenovo" creationdate="20200831T134027Z">
+        <seg>没有内容策略，用户将无法进入更高级别的 LwDITA 抽象处理层级。</seg>
       </tuv>
     </tu>
     <tu>
