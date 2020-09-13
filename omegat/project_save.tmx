@@ -16947,8 +16947,8 @@
       <tuv lang="en">
         <seg>The context-aware recipe cannot be expressed in MDITA core profile.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T120302Z" creationid="lenovo" creationdate="20200902T130108Z">
-        <seg>基于MDITA核心概要，无法表示可以感知上下文语境的食谱。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T013503Z" creationid="lenovo" creationdate="20200902T130108Z">
+        <seg>基于MDITA核心概要，无法表示可以感知上下文的食谱。</seg>
       </tuv>
     </tu>
     <tu>
