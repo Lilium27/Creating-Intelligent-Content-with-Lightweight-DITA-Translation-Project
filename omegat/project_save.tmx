@@ -9861,8 +9861,8 @@
       <tuv lang="en">
         <seg>In HDITA syntax, the revised milkshake recipe would look like &lt;t0/&gt;Figure &lt;t1/&gt;8.11&lt;t2/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153155Z" creationid="lenovo" creationdate="20200902T133722Z">
-        <seg>用HDITA语法，修改后的奶昔配方如图8.11所示。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T020452Z" creationid="lenovo" creationdate="20200902T133722Z">
+        <seg>使用HDITA语法修改后的奶昔食谱如图8.11所示。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17703,8 +17703,8 @@
       <tuv lang="en">
         <seg>The milkshake topic, then, becomes the source for the conref, and in XDITA syntax it would look like &lt;t0/&gt;Figure &lt;t1/&gt;8.10&lt;t2/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153155Z" creationid="lenovo" creationdate="20200902T133706Z">
-        <seg>奶昔主题就成为conref的来源，在XDITA语法中如图8.10所示。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T020423Z" creationid="lenovo" creationdate="20200902T133706Z">
+        <seg>这样，奶昔主题就成为了conref的来源，XDITA语法如图8.10所示。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
