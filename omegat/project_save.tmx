@@ -6766,6 +6766,15 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE 8.18 &lt;t0/&gt;Command for the DITA-OT to generate a web deliverable from the&lt;t1/&gt; soda fountain operator's manual XDITA map.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T015834Z" creationid="lenovo" creationdate="20200913T015834Z">
+        <seg>图 8.18 &lt;t0/&gt;利用DITA-OT从冷饮柜台操作手册的XDITA映射生成网页版交付所需的命令。
+&lt;64/73/80% &gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE 8.3 &lt;t0/&gt;HDITA version of the milkshake recipe as seen on a web browser.&lt;t1/&gt; Note that the ingredient for a pint of ice cream does not have a flavor attached to it, which will come in a more advanced layer when the topic is processed through a LwDITA-aware software application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T123555Z" creationid="lenovo" creationdate="20200901T132346Z">
