@@ -2313,6 +2313,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t8/&gt;The tasks in layer &lt;t9/&gt;6 &lt;t10/&gt;also cover some of the work included in Andersen's &lt;t11/&gt;Managing change&lt;t12/&gt; stage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T045238Z" creationid="lenovo" creationdate="20200913T045238Z">
+        <seg>第六层中的任务还涵盖了安德森的&lt;t11/&gt;管理变更&lt;t12/&gt;阶段所包含的一些工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t8/&gt;Topic-based writing is described as “authoring an information set as a collection of discrete units called &lt;t9/&gt;topics&lt;t10/&gt;, rather than as a whole book or help system” (Baker, &lt;t11/&gt;2016 &lt;t12/&gt;p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wqt" changedate="20200904T074713Z" creationid="DSS" creationdate="20200724T154341Z">
@@ -12207,6 +12215,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200907T131014Z" creationid="lenovo" creationdate="20200902T131146Z">
         <seg>第三层级的任务重点是拜利和厄比纳所指的管理阶段。&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Layer &lt;t1/&gt;6 &lt;t2/&gt;tasks focus on the characteristics of extensible and iterative from Bailie &lt;t3/&gt;&amp; &lt;t4/&gt;Urbina's content model, which includes “a loop back to analysis for the next cycle” &lt;t5/&gt;(2013, &lt;t6/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T045152Z" creationid="lenovo" creationdate="20200913T045152Z">
+        <seg>第六层任务的重点是Bailie＆Urbina内容模型的可扩展性和迭代性，其中包括“循环分析以备下一周期”(2013, &lt;t6/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
