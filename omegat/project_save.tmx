@@ -4035,8 +4035,8 @@
       <tuv lang="en">
         <seg>As it prepares for more advanced layers, the rec&lt;t0/&gt;ipe must keep content and presentation separate.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T134651Z" creationid="lenovo" creationdate="20200901T134535Z">
-        <seg>因为在准备进入更高的层级时，食谱必须将内容和表示分开。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T084715Z" creationid="lenovo" creationdate="20200901T134535Z">
+        <seg>因为在准备进入更高的层级时，食谱必须将内容和形式分开。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5083,8 +5083,8 @@
       <tuv lang="en">
         <seg>Chaos (“there's no consistency in the presentation of content”)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T133858Z" creationid="lenovo" creationdate="20200901T134403Z">
-        <seg>混乱（“内容和表示不一致”）</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T084708Z" creationid="lenovo" creationdate="20200901T134403Z">
+        <seg>混乱（“内容和形式不一致”）</seg>
       </tuv>
     </tu>
     <tu>
@@ -11077,8 +11077,8 @@
       <tuv lang="en">
         <seg>In the first scenario, it makes sense to have an author in control of the manual's content and presentation to save time and money: one deliverable, one format, and one author.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T133325Z" creationid="lenovo" creationdate="20200901T134325Z">
-        <seg>在第一种情况下，让写作者掌控手册的内容和演示以节省时间和金钱是很有意义的：一个可交付成果，一种格式和一个写作者。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T084654Z" creationid="lenovo" creationdate="20200901T134325Z">
+        <seg>在第一种情况下，让写作者掌控手册的内容和形式以节省时间和金钱是很有意义的：一个可交付成果，一种格式和一个写作者。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11149,8 +11149,8 @@
       <tuv lang="en">
         <seg>In the second scenario, however, an intelligent content solution to address all those potential deliverables depends on separating content from presentation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T072136Z" creationid="lenovo" creationdate="20200901T134341Z">
-        <seg>但是，在第二种情况下，生成所有这些潜在交付物的智能内容解决方案取决于将内容与表示分离。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T084702Z" creationid="lenovo" creationdate="20200901T134341Z">
+        <seg>但是，在第二种情况下，生成所有这些潜在交付物的智能内容解决方案取决于将内容与形式分离。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12269,8 +12269,8 @@
       <tuv lang="en">
         <seg>Layer &lt;t0/&gt;3: &lt;t1/&gt;Separating Content from Presentation and</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T130922Z" creationid="lenovo" creationdate="20200901T133933Z">
-        <seg>第三层级：将内容与表示&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T084646Z" creationid="lenovo" creationdate="20200901T133933Z">
+        <seg>第三层级：将内容与形式&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18471,8 +18471,8 @@
       <tuv lang="en">
         <seg>The presentation rules and details for the milkshake recipe will be provided in a further layer of abstraction by an external tool and style sheet.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T140226Z" creationid="lenovo" creationdate="20200901T134722Z">
-        <seg>奶昔食谱的表示规则和详细信息将通过外部工具和样式表在另一抽象层级中提供。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T084806Z" creationid="lenovo" creationdate="20200901T134722Z">
+        <seg>奶昔食谱的形式规则和详细信息将通过外部工具和样式表在另一抽象层级中提供。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20567,8 +20567,8 @@
       <tuv lang="en">
         <seg>This separation “can create philosophical and cognitive dissonance for technical communicators trained to think of information as content that is inherently linked to presentation” (Clark, 2007, p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T135240Z" creationid="lenovo" creationdate="20200901T134554Z">
-        <seg>这种分离“可能会导致受过训练、认为信息是与表示有内在联系的内容的技术传播工程师在哲学和认知上产生失调” (Clark, 2007, p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T084726Z" creationid="lenovo" creationdate="20200901T134554Z">
+        <seg>这种分离“可能会导致受过训练、认为信息是与形式有内在联系的内容的技术传播工程师在哲学和认知上产生失调” (Clark, 2007, p.</seg>
       </tuv>
     </tu>
     <tu>
