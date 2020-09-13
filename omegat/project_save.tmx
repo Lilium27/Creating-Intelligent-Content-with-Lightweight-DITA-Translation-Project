@@ -4883,8 +4883,8 @@
       <tuv lang="en">
         <seg>CONCLUSION</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T045821Z" creationid="lenovo" creationdate="20200913T045821Z">
-        <seg>结论</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T053339Z" creationid="lenovo" creationdate="20200913T045821Z">
+        <seg> 结论</seg>
       </tuv>
     </tu>
     <tu>
@@ -14544,6 +14544,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remaking the Future of Technical&lt;t0/&gt; Communication with LwDITA</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T053402Z" creationid="lenovo" creationdate="20200913T053402Z">
+        <seg>使用LwDITA重塑技术传播的未来</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remember to replace the &lt;t4/&gt;path-to-file&lt;t5/&gt; segment with the actual path to the file in your computer.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T025751Z" creationid="lenovo" creationdate="20200913T022915Z">
@@ -22133,6 +22141,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T030407Z" creationid="lenovo" creationdate="20200913T025143Z">
         <seg>您还应该用计算机中 &lt;t5/&gt;fountain.ditamap&lt;t6/&gt; 和 &lt;t7/&gt;setting.ditaval&lt;t8/&gt;文件的实际位置替换path-to-file占位符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your content is now intelligent!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T053427Z" creationid="lenovo" creationdate="20200913T053427Z">
+        <seg>的内容现已智能化！</seg>
       </tuv>
     </tu>
     <tu>
