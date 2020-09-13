@@ -7570,8 +7570,16 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;8.14 &lt;t1/&gt;HDITA version of the root beer float recipe with a content reference.&lt;t2/&gt; The conref links to the source note in the milkshake recipe.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T111826Z" creationid="lenovo" creationdate="20200902T151035Z">
-        <seg>图 &lt;t0/&gt;8.14 &lt;t1/&gt;&lt;t2/&gt;包含内容引用的	MDITA版本的冰淇淋球饮品食谱。conref链接到奶昔食谱中的源提示。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T125843Z" creationid="lenovo" creationdate="20200902T151035Z">
+        <seg>图 &lt;t0/&gt;8.14 &lt;t1/&gt;&lt;t2/&gt;包含内容引用的HDITA版本的冰淇淋球饮品食谱。conref链接到奶昔食谱中的源提示。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FIGURE &lt;t0/&gt;8.15 &lt;t1/&gt;MDITA version of the root beer float recipe with a content reference.&lt;t2/&gt; The conref links to the source note in the milkshake recipe.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T130846Z" creationid="DSS" creationdate="20200913T130846Z">
+        <seg>图 &lt;t0/&gt;8.15 &lt;t1/&gt;&lt;t2/&gt;包含内容引用的MDITA版本的冰淇淋球饮品食谱。conref链接到奶昔食谱中的源提示。</seg>
       </tuv>
     </tu>
     <tu>
