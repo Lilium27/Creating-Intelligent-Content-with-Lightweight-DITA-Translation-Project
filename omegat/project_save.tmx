@@ -2203,8 +2203,8 @@
       <tuv lang="en">
         <seg>&lt;t7/&gt;Figure &lt;t8/&gt;8.16&lt;t9/&gt; &lt;t10/&gt;shows a sample XDITA map for the Soda Fountain Operator Manual.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T092642Z" creationid="lenovo" creationdate="20200902T151507Z">
-        <seg>&lt;t7/&gt;图 &lt;t8/&gt;8.16&lt;t9/&gt; &lt;t10/&gt;展示了冷饮柜台操作手册的XDITA格式的映射示例。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T104907Z" creationid="lenovo" creationdate="20200902T151507Z">
+        <seg>&lt;t7/&gt;图 &lt;t8/&gt;8.16&lt;t9/&gt; &lt;t10/&gt;展示了冷饮柜台操作员手册的XDITA格式的映射示例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6920,8 +6920,8 @@
       <tuv lang="en">
         <seg>FIGURE 8.16 &lt;t0/&gt;XDITA map for a soda fountain operator manual.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T092700Z" creationid="lenovo" creationdate="20200902T153322Z">
-        <seg>图 8.16 &lt;t0/&gt;冷饮柜台操作手册XDITA格式的映射示例。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T104918Z" creationid="lenovo" creationdate="20200902T153322Z">
+        <seg>图 8.16 &lt;t0/&gt;冷饮柜台操作员手册XDITA格式的映射示例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17316,8 +17316,8 @@
       <tuv lang="en">
         <seg>The command has the reference to the built-in (&lt;t0/&gt;bin&lt;t1/&gt;) subdirectory and the &lt;t2/&gt;dita &lt;t3/&gt;executable program, with the &lt;t4/&gt;fountain.ditamap&lt;t5/&gt; file created in layer &lt;t6/&gt;4 &lt;t7/&gt;as input, and &lt;t8/&gt;html5&lt;t9/&gt; as the delivery format.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200912T090918Z" creationid="lenovo" creationdate="20200902T160217Z">
-        <seg>该命令可引用内置（bin）子目录和dita可执行程序，将第4层中创建的Fountain.ditamap文件作为输入，html5作为交付格式。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T105127Z" creationid="lenovo" creationdate="20200902T160217Z">
+        <seg>该命令可引用内置（&lt;t0/&gt;bin&lt;t1/&gt;）子目录和&lt;t2/&gt;dita &lt;t3/&gt;可执行程序，将第四层级中创建的&lt;t4/&gt;fountain.ditamap&lt;t5/&gt;文件作为输入，&lt;t8/&gt;html5&lt;t9/&gt;作为交付格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17734,8 +17734,8 @@
       <tuv lang="en">
         <seg>The fictional deliverable in this example is a web version of the soda fountain operator manual that can be accessed on a device at both soda fountain locations.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T103639Z" creationid="lenovo" creationdate="20200902T155918Z">
-        <seg>在此示例中，虚构的交付物是冷饮柜台操作手册的网络版本，可用于两个不同地点的冷饮柜台的设备。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T104925Z" creationid="lenovo" creationdate="20200902T155918Z">
+        <seg>在此示例中，虚构的交付物是冷饮柜台操作员手册的网络版本，可用于两个不同地点的冷饮柜台的设备。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -21023,8 +21023,8 @@
       <tuv lang="en">
         <seg>To generate the web version of the soda fountain operator manual, you would need to enter the command shown on &lt;t0/&gt;Figure &lt;t1/&gt;8.18&lt;t2/&gt; &lt;t3/&gt;on a command-line environment &lt;t4/&gt;inside the directory or folder where you installed the DITA-OT&lt;t5/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T090801Z" creationid="lenovo" creationdate="20200902T160205Z">
-        <seg>要生成网络版本的冷饮柜台操作员手册，你需要在安装DITA-OT的目录或文件夹内的命令行环境中输入图8.18所示的命令。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T105022Z" creationid="lenovo" creationdate="20200902T160205Z">
+        <seg>要生成网络版本的冷饮柜台操作手册，你需要在安装了DITA-OT的目录或文件夹的命令行环境中输入图8.18所示的命令。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
