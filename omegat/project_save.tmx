@@ -12451,6 +12451,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LwDITA allows scal&lt;t1/&gt;ability as represented by additional publication channels, new audience and context requirements, and authors from different disciplines and writing tra&lt;t2/&gt;ditions joining the process.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T043447Z" creationid="lenovo" creationdate="20200913T043447Z">
+        <seg>LwDITA的包容性表现在可在过程中纳入其他出版渠道、新的受众、上下文要求以及来自不同学科和秉持不同写作传统的作者。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LwDITA also defines mappings between XML, HTML5, and Markdown, enabling authoring, collabora&lt;t3/&gt;tion, and publishing across different markup languages.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T152746Z" creationid="DSS" creationdate="20200817T090716Z">
