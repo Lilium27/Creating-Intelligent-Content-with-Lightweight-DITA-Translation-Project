@@ -10643,6 +10643,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In my courses at Virginia Tech, students learn to host their source code and track ver&lt;t2/&gt;sions of it with GitHub repositories, and their processing is automated with the DITA-OT or Oxygen XML.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T040254Z" creationid="lenovo" creationdate="20200913T040254Z">
+        <seg>在我弗吉尼亚理工大学的课程中，学生学习托管源代码并使用GitHub存储库跟踪其源代码，并使用DITA-OT或Oxygen XML进行自动处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In my introductory technical writing courses, my students were using Markdown as a shorthand form for web writing.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T130017Z" creationid="DSS" creationdate="20200802T130017Z">
