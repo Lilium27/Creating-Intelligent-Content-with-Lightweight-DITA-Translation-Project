@@ -5420,6 +5420,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Contrasting layer &lt;t10/&gt;5 &lt;t11/&gt;with the ISTE standards for assessing compu&lt;t12/&gt;tational thinking in students, some of its tasks could comply with sections of standard 5d (&lt;t13/&gt;Students understand how automation works and use algo&lt;t14/&gt;rithmic thinking to develop a sequence of steps to create and test automated solutions&lt;t15/&gt;) with limitations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T042045Z" creationid="lenovo" creationdate="20200913T042045Z">
+        <seg> 将第五层与用于评估学生计算思维的ISTE标准进行对比，其某些任务可能符合标准5d的部分（&lt;t13/&gt;学生了解自动化的工作原理，并使用算法思维来开发一系列步骤来创建和测试自动化解决方案&lt;t15/&gt;），但有一定局限性 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Contrasting layer &lt;t11/&gt;1 &lt;t12/&gt;with the ISTE standards for assessing computational thinking in students, some of its tasks could comply with sections of standards 5a (&lt;t13/&gt;Students formulate problem definitions suited for technology-assisted methods such as data analysis, abstract models and algorithmic thinking in exploring and finding solutions&lt;t14/&gt;), 5b (&lt;t15/&gt;Students collect data or identify relevant data sets, use digital tools to analyze them, and represent data in various ways to facilitate problem-solving and decision&lt;t16/&gt;making&lt;t17/&gt;), and 5c (&lt;t18/&gt;Students break problems into component parts, extract key information, and develop descriptive models to understand complex systems or facilitate problem-solving&lt;t19/&gt;).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T125827Z" creationid="lenovo" creationdate="20200901T123724Z">
@@ -19753,6 +19761,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T121551Z" creationid="lenovo" creationdate="20200902T154036Z">
         <seg>它们还涵盖了安德森&lt;t5/&gt;分析用户和业务需求&lt;t6/&gt;以及&lt;t7/&gt;开发信息架构&lt;t8/&gt;阶段中包含的一些工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They also cover some of the work included in Andersen's &lt;t6/&gt;Developing the technology strategy&lt;t7/&gt; and &lt;t8/&gt;Creating structured content&lt;t9/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T041829Z" creationid="lenovo" creationdate="20200913T041829Z">
+        <seg>它们还涵盖了安德森 &lt;t6/&gt;开发技术策略&lt;t7/&gt;和创&lt;t8/&gt;创建结构化内容&lt;t9/&gt;中的部分工作。 </seg>
       </tuv>
     </tu>
     <tu>
