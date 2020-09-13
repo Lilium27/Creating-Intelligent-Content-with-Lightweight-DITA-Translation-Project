@@ -480,8 +480,8 @@
       <tuv lang="en">
         <seg>&lt;t0/&gt;Figure &lt;t1/&gt;8.13&lt;t2/&gt; &lt;t3/&gt;shows the XDITA version of the root beer float recipe.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T020737Z" creationid="lenovo" creationdate="20200902T145915Z">
-        <seg>&lt;t0/&gt;图 &lt;t1/&gt;8.13&lt;t2/&gt; &lt;t3/&gt;显示了冰淇凌蛋筒浮法配方的XDITA版本。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T022010Z" creationid="lenovo" creationdate="20200902T145915Z">
+        <seg>&lt;t0/&gt;图 &lt;t1/&gt;8.13&lt;t2/&gt; &lt;t3/&gt;展示了XDITA版本的漂浮沙士食谱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20311,8 +20311,8 @@
       <tuv lang="en">
         <seg>To continue with the example, let's look at the root beer float recipe, which is one of the many target topics that link to the warning note from the milkshake recipe.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T020737Z" creationid="lenovo" creationdate="20200902T145854Z">
-        <seg>继续看该示例，让我们看一下冰淇凌蛋筒浮法配方，它是链接到奶昔配方中警告提示的众多目标主题之一。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T021916Z" creationid="lenovo" creationdate="20200902T145854Z">
+        <seg>继续研究该示例，让我们看一下漂浮沙士食谱，它是链接到奶昔食谱中警告提示的众多目标主题之一。 </seg>
       </tuv>
     </tu>
     <tu>
