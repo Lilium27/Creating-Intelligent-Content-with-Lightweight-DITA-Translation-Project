@@ -9217,6 +9217,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Human processes like thinking and abstraction should take place before any automation or machine processing, and authors should be at the center of a LwDITA-based publishing workflow, taking precedence over any software tools.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T123327Z" creationid="lenovo" creationdate="20200913T123327Z">
+        <seg>像思考和抽象这样的人为过程应该在任何自动化或机器处理之前进行，作者应该处于基于LwDITA的发布工作流的中心，优先于任何软件工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Human readers, however, still need to wait for a publishing process that will produce content deliverables that do not look like computer code.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T154407Z" creationid="DSS" creationdate="20200726T154407Z">
