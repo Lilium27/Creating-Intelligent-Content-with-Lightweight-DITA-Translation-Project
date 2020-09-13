@@ -10595,6 +10595,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In general, this layer focuses on making the content and structures devel&lt;t0/&gt;oped in previous layers as future-proof as possible.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T044533Z" creationid="lenovo" creationdate="20200913T044533Z">
+        <seg>通常，该层致力于使上一层中开发的内容和结构尽可能地面向未来。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In her &lt;t5/&gt;Introduction to DITA&lt;t6/&gt;, JoAnn Hackos described the DITA Open Toolkit as follows:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T144130Z" creationid="lenovo" creationdate="20200814T143011Z">
@@ -20117,6 +20125,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is accomplished by the emphasis on open standards instead of proprietary software solutions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T044602Z" creationid="lenovo" creationdate="20200913T044602Z">
+        <seg>这一点是通过强调开放标准而不是专有软件解决方案来实现的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is achieved in a DITAVAL that looks like &lt;t7/&gt;Figure 8.23&lt;t8/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T025843Z" creationid="lenovo" creationdate="20200913T023839Z">
@@ -20145,6 +20161,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T162256Z" creationid="DSS" creationdate="20200821T162256Z">
         <seg>XML 标记和操作数据的功能是创建智能内容的核心。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This layer also includes a return to layer &lt;t5/&gt;1 &lt;t6/&gt;for an iterative process of improve&lt;t7/&gt;ment and revision.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T044510Z" creationid="lenovo" creationdate="20200913T044510Z">
+        <seg>该层还包括返回到第一层的迭代改进和修订过程。</seg>
       </tuv>
     </tu>
     <tu>
