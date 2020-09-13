@@ -4027,8 +4027,8 @@
       <tuv lang="en">
         <seg>As long as you keep in mind the abstractions behind the process and the structure that enables the production of discoverable, reconfig&lt;t2/&gt;urable, and adaptable content, my job will be done.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T055012Z" creationid="lenovo" creationdate="20200913T055012Z">
-        <seg>只要你能记住过程背后的抽象理念以及使得内容产品可发现、可配置且适用性强的结构，</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T055055Z" creationid="lenovo" creationdate="20200913T055012Z">
+        <seg>只要你能记住过程背后的抽象理念以及使得内容产品可发现、可配置且适用性强的结构，我的任务也就完成了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7763,8 +7763,8 @@
       <tuv lang="en">
         <seg>Focus on the abstractions from &lt;t0/&gt;Chapter 8&lt;t1/&gt; and develop a strategy that works for your content requirements.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T054657Z" creationid="lenovo" creationdate="20200913T054657Z">
-        <seg>专注于第八章中的抽象，并制定适合您的内容要求的策略。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T055034Z" creationid="lenovo" creationdate="20200913T054657Z">
+        <seg>专注于第八章中的抽象理念，并制定适合您的内容要求的策略。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9493,6 +9493,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T130400Z" creationid="DSS" creationdate="20200816T141653Z">
         <seg>如果作者需要使用更多结构，并且其工作流需要将第一个段落标识为简短描述的话，应该使用 XDITA 语法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If being an early adopter is not in your nature, and you would rather wait for LwDITA-aware apps that hide all instances of code (even Markdown) and offer a WYSIWYG-like environment, I do not blame you.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T055232Z" creationid="lenovo" creationdate="20200913T055227Z">
+        <seg>如果你天性就不是吃螃蟹的人，宁愿等待隐藏所有代码实例（甚至Markdown）并提供类似WYSIWYG环境的支持LwDITA的应用程序，我也不会怪你。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17600,6 +17608,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T143800Z">
         <seg>链接文本前的感叹号可以告知处理器，主题中包含图像元素。&lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The existing tool support for DITA is strong for its main target audience of technical communicators.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T055350Z" creationid="lenovo" creationdate="20200913T055350Z">
+        <seg> 对于DITA的现有工具支持，为技术传播的主要目标受众带来了极大的帮助。 </seg>
       </tuv>
     </tu>
     <tu>
