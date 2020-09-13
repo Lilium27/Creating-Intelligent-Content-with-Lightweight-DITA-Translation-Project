@@ -5510,8 +5510,8 @@
       <tuv lang="en">
         <seg>Contrasting layer 4 with the ISTE standards for assessing computational thinking in students, some of its tasks could comply with sections of standards 5b (&lt;t9/&gt;Students collect data or identify relevant data sets, use digital tools to analyze them, and represent data in various ways to facilitate problem-solving and decision-making&lt;t10/&gt;) and 5c (&lt;t11/&gt;Students break problems into component parts, extract key information, and develop descriptive models to understand complex systems or facilitate problem-solving&lt;t12/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153218Z" creationid="lenovo" creationdate="20200902T154112Z">
-        <seg>将第4层与用于评估学生的计算机思维的ISTE标准进行对比，其某些任务可能符合标准5b的各个部分（学生收集数据或识别相关数据集，使用数字工具对其进行分析，并以各种方式表示数据，以促进问题解决和决策制定）和5c（学生将问题分解为各个组成部分，提取关键信息，并开发描述性模型以理解复杂系统或促进问题解决）。&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T101046Z" creationid="lenovo" creationdate="20200902T154112Z">
+        <seg>将第四层级与用于评估学生的计算机思维的ISTE标准进行对比，第四层级中的某些任务符合5b标准的部分内容（学生能够收集数据或识别相关数据集，使用数字工具进行分析，并以各种方式表示数据，促进问题解决和决策制定）和5c标准的部分内容（学生能够将拆解问题，提取关键信息，建立描述性模型来理解复杂系统或促进问题解决）。&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12301,8 +12301,8 @@
       <tuv lang="en">
         <seg>Layer &lt;t0/&gt;5 &lt;t1/&gt;addresses the “metal” tools in Wing's model of computational thinking.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153224Z" creationid="lenovo" creationdate="20200902T154200Z">
-        <seg>第5层解决了Wing计算机思维模型中的“金属”工具。&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T101306Z" creationid="lenovo" creationdate="20200902T154200Z">
+        <seg>第五层级解决了温计算机思维模型中的“实体”工具。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12317,8 +12317,8 @@
       <tuv lang="en">
         <seg>Layer &lt;t0/&gt;5: &lt;t1/&gt;Processing and Producing Deliverables</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153223Z" creationid="lenovo" creationdate="20200902T154123Z">
-        <seg>第5层：处理和生产可交付成果&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T101056Z" creationid="lenovo" creationdate="20200902T154123Z">
+        <seg>第五层级：处理和生成可交付成果&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
