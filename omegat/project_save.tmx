@@ -7913,6 +7913,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For larger content repositories, this build process can be automated with scripts and algorithms, which are beyond the scope of &lt;t0/&gt;Creating Intelligent Content with Lightweight DITA&lt;t1/&gt; (aimed primarily at authors and instructors of introductory LwDITA workflows).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T031209Z" creationid="lenovo" creationdate="20200913T031209Z">
+        <seg>对于较大的内容存储库，可以使用脚本和算法来自动执行此构建过程，此项不在本书的讨论范围内。 (aimed primarily at authors and instructors of introductory LwDITA workflows).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For now, just focus on the fact that XML uses tags to identify the types of rhetorical “moves” that the content on the page represents.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wqt" changedate="20200904T065054Z" creationid="DSS" creationdate="20200726T154454Z">
