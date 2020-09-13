@@ -7786,8 +7786,8 @@
       <tuv lang="en">
         <seg>For example, let's pretend that the LwDITA topic with the milkshake recipe includes a note component, with the type of warning, that tells the operator to unplug the blender after each use to prevent a fire hazard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T133547Z" creationid="lenovo" creationdate="20200902T133042Z">
-        <seg>例如，我们假设带有奶昔配方的LwDITA主题包含一个带有警告类型的提示组件，该警告组件告诉操作员每次使用后都要拔下搅拌机的插头，以防止发生火灾。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T015208Z" creationid="lenovo" creationdate="20200902T133042Z">
+        <seg>例如，我们假设关于奶昔食谱的LwDITA主题包含一个警告类型的提示组件，该警告组件告诉操作员每次使用后都要拔下搅拌机的插头，以防止发生火灾。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -9980,8 +9980,8 @@
       <tuv lang="en">
         <seg>In LwDITA, the structure of a conref should look like the following template: &lt;t0/&gt;path-to-file/file-name#topic-id/element-id</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T133036Z" creationid="lenovo" creationdate="20200902T133036Z">
-        <seg>在LwDITA中，conref的结构应类似于以下模板：&lt;t0/&gt;path-to-file/file-name#topic-id/element-id</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T015053Z" creationid="lenovo" creationdate="20200902T133036Z">
+        <seg>在LwDITA中，conref的结构应类似如下模板：&lt;t0/&gt;path-to-file/file-name#topic-id/element-id</seg>
       </tuv>
     </tu>
     <tu>
