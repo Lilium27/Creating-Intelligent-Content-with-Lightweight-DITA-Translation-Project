@@ -18317,6 +18317,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The same DITAVAL file can work for all LwDITA authoring formats with the &lt;t0/&gt;@ props &lt;t1/&gt;attribute for XDITA and the &lt;t2/&gt;@data-props &lt;t3/&gt;attribute for HDITA and MDITA extended profile.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T024339Z" creationid="lenovo" creationdate="20200913T024339Z">
+        <seg>使用XDITA的@props属性和HDITA和MDITA扩展配置文件的@data-props属性，相同的DITAVAL文件可以用于所有LwDITA创作格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The same environment, in an HTML5 code block, can be used in an MDITA extended profile topic if needed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200826T144508Z" creationid="lenovo" creationdate="20200825T141103Z">
@@ -19857,6 +19865,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T152807Z" creationid="lenovo" creationdate="20200817T145907Z">
         <seg>这个交互式内容结构还可以包括关系 (&lt;t4/&gt;@rel&lt;t5/&gt;) 和类型 (&lt;t6/&gt;@type&lt;t7/&gt;) 属性，它们分别对应于 DITA或XDITA中的作用域(&lt;t8/&gt;@scope&lt;t9/&gt;)和格式 (&lt;t10/&gt;@format &lt;t11/&gt;&lt;t12/&gt;)的属性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is achieved in a DITAVAL that looks like &lt;t7/&gt;Figure 8.23&lt;t8/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T023839Z" creationid="lenovo" creationdate="20200913T023839Z">
+        <seg>图8.23的DITAVAL可实现此功能。</seg>
       </tuv>
     </tu>
     <tu>
