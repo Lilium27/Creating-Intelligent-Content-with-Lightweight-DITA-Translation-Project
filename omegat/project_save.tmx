@@ -12099,6 +12099,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Layer &lt;t0/&gt;5 &lt;t1/&gt;tasks focus on Bailie &lt;t2/&gt;&amp; &lt;t3/&gt;Urbina's &lt;t4/&gt;publish&lt;t5/&gt; stage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T041651Z" creationid="lenovo" creationdate="20200913T041651Z">
+        <seg>第5层任务的重点是Bailie＆Urbina的 &lt;t4/&gt;发布&lt;t5/&gt; 阶段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Layer &lt;t0/&gt;5: &lt;t1/&gt;Processing and Producing Deliverables</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153223Z" creationid="lenovo" creationdate="20200902T154123Z">
@@ -18825,6 +18833,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200907T130620Z" creationid="lenovo" creationdate="20200901T123604Z">
         <seg>该层级涉及的任务与上一章中介绍的内容开发生命周期的多个阶段有关。&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The tasks involved in this layer are related to stages of the content-development lifecycles featured earlier in the previous chapter.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T041530Z" creationid="lenovo" creationdate="20200913T041530Z">
+        <seg>该层涉及的任务与上一章前面介绍的内容开发生命周期的各个阶段有关。</seg>
       </tuv>
     </tu>
     <tu>
