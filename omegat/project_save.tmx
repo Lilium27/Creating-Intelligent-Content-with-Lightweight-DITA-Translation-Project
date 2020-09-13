@@ -16890,6 +16890,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The MDITA topic type, which does not depend on tags written in English, makes LwDITA even more accessible to a variety of authors from diverse professional communities and cultural identities.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T060816Z" creationid="lenovo" creationdate="20200913T060816Z">
+        <seg>MDITA主题类型不依赖于用英语编写的标签，这使得来自不同专业社区和文化身份的各种作者可以更轻松地访问LwDITA。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The MDITA topic, in this layer, would not make sense for human users, and it must be pro&lt;t0/&gt;cessed by a LwDITA-aware tool in layer &lt;t1/&gt;5.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T120728Z" creationid="lenovo" creationdate="20200902T130957Z">
@@ -20705,6 +20713,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T144947Z" creationid="lenovo" creationdate="20200901T123142Z">
         <seg>这些小组具有不同的沟通方式、期望和组织结构，需要知晓这些不同，并进行调和。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Those human authors are also shaped by their job titles and responsibilities, which also affect their expectations and next steps that I recommend after read&lt;t0/&gt;ing this book.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T060908Z" creationid="lenovo" creationdate="20200913T060908Z">
+        <seg>这些人的作者也受其职务和职责的影响，这也影响他们的期望和我建议的阅读本书后应采取的下一步措施。</seg>
       </tuv>
     </tu>
     <tu>
