@@ -11868,8 +11868,8 @@
       <tuv lang="en">
         <seg>Layer &lt;t0/&gt;2 &lt;t1/&gt;introduced the key reference attribute as a placeholder for content reuse.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T014223Z" creationid="lenovo" creationdate="20200902T132843Z">
-        <seg>第二层级引入了引用键属性作为复用内容的占位符。&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T014453Z" creationid="lenovo" creationdate="20200902T132843Z">
+        <seg>第二层级引入了关键引用属性作为复用内容的占位符。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16867,8 +16867,8 @@
       <tuv lang="en">
         <seg>The conref is a related attribute that allows an author to bring content from one topic into another (without copying and pasting).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T132910Z" creationid="lenovo" creationdate="20200902T132910Z">
-        <seg>conref是一个相关属性，它允许作者将内容从一个主题带入另一个主题（无需复制和粘贴）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T014545Z" creationid="lenovo" creationdate="20200902T132910Z">
+        <seg>conref 是一个类似属性，它允许写作者将内容从一个主题引入另一个主题（无需复制和粘贴）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17470,8 +17470,8 @@
       <tuv lang="en">
         <seg>The ingredient&lt;t2/&gt; for ice cream uses a GitHub Flavored Markdown shortcut reference link to inherit a key reference from a map that will appear in a more advanced layer.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T122436Z" creationid="DSS" creationdate="20200911T130549Z">
-        <seg>冰淇淋配料的部分使用了GitHub风格的Markdown中的快捷引用链接，以从将在更高层级中出现的映射中继承引用键。&lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T014435Z" creationid="DSS" creationdate="20200911T130549Z">
+        <seg>冰淇淋配料的部分使用了GitHub风格的Markdown中的快捷引用链接，以从将在更高层级中出现的映射中继承关键性引用。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18414,8 +18414,8 @@
       <tuv lang="en">
         <seg>The source ele&lt;t2/&gt;ment from the content reference can be updated and, after reprocessing the topic collection, all target topics that link to it will be automatically updated.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153154Z" creationid="lenovo" creationdate="20200902T132923Z">
-        <seg>内容引用中的源元素可以更新，并且在重新处理主题集合之后，链接到它的所有目标主题都将自动更新。 &lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T014815Z" creationid="lenovo" creationdate="20200902T132923Z">
+        <seg>内容引用中的源元素可以更新，并且在重新处理主题集合之后，所有链接到它的目标主题都将自动更新。 &lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
