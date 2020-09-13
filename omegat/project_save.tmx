@@ -2203,8 +2203,8 @@
       <tuv lang="en">
         <seg>&lt;t7/&gt;Figure &lt;t8/&gt;8.16&lt;t9/&gt; &lt;t10/&gt;shows a sample XDITA map for the Soda Fountain Operator Manual.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T091737Z" creationid="lenovo" creationdate="20200902T151507Z">
-        <seg>&lt;t7/&gt;图 &lt;t8/&gt;8.16&lt;t9/&gt; &lt;t10/&gt;展示了冷饮柜台操作员手册的XDITA映射示例。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T092642Z" creationid="lenovo" creationdate="20200902T151507Z">
+        <seg>&lt;t7/&gt;图 &lt;t8/&gt;8.16&lt;t9/&gt; &lt;t10/&gt;展示了冷饮柜台操作手册的XDITA格式的映射示例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6920,8 +6920,8 @@
       <tuv lang="en">
         <seg>FIGURE 8.16 &lt;t0/&gt;XDITA map for a soda fountain operator manual.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090331Z" creationid="lenovo" creationdate="20200902T153322Z">
-        <seg>图 8.16 &lt;t0/&gt;《汽水喷泉操作手册》的XDITA映射。&lt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T092700Z" creationid="lenovo" creationdate="20200902T153322Z">
+        <seg>图 8.16 &lt;t0/&gt;冷饮柜台操作手册XDITA格式的映射示例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7859,8 +7859,8 @@
       <tuv lang="en">
         <seg>Following the discussion about con&lt;t10/&gt;tent silos from layer &lt;t11/&gt;2, &lt;t12/&gt;the map on &lt;t13/&gt;Figure &lt;t14/&gt;8.16&lt;t15/&gt; &lt;t16/&gt;includes topics created in the</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153206Z" creationid="lenovo" creationdate="20200902T153146Z">
-        <seg>在讨论了第2层的内容竖井之后，图8.16上的映射包括以&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T092452Z" creationid="lenovo" creationdate="20200902T153146Z">
+        <seg>在讨论了第二层级的内容竖井之后，图8.16中的映射包括以&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16316,8 +16316,8 @@
       <tuv lang="en">
         <seg>The &lt;t1/&gt;&lt;keydef&gt;&lt;t2/&gt; &lt;t3/&gt;environment declares the value for the “icecream-flavor” variable in any linked topics.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153206Z" creationid="lenovo" creationdate="20200902T153518Z">
-        <seg>&lt;keydef&gt;环境在任何链接主题中声明“冰淇淋口味”变量的值。&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T092745Z" creationid="lenovo" creationdate="20200902T153518Z">
+        <seg>&lt;t1/&gt;&lt;keydef&gt;&lt;t2/&gt; &lt;t3/&gt;环境可以在任何链接到的主题中声明“icecream-flavor”变量的值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22507,8 +22507,8 @@
       <tuv lang="en">
         <seg>different LwDITA authoring formats (see the different values of &lt;t0/&gt;@format &lt;t1/&gt;in the &lt;t2/&gt;&lt;topicref&gt; &lt;t3/&gt;entries).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T130249Z" creationid="lenovo" creationdate="20200902T153250Z">
-        <seg>不同的LwDITA写作格式创建的主题（请参见&lt;topicref&gt;条目中@format的不同值）。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T092512Z" creationid="lenovo" creationdate="20200902T153250Z">
+        <seg>不同的LwDITA写作格式创建的主题（请参见&lt;topicref&gt;条目中&lt;t0/&gt;@format &lt;t1/&gt;的不同值）。</seg>
       </tuv>
     </tu>
     <tu>
