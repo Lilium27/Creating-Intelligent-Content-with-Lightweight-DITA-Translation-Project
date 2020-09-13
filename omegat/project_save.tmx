@@ -5137,6 +5137,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Chapter &lt;t0/&gt;1 &lt;t1/&gt;included a recap of the Adobe video on the future of tech comm, and you can now remake that future by expanding the possibilities of structured con&lt;t2/&gt;tent without depending on one single authoring format.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T121702Z" creationid="lenovo" creationdate="20200913T121702Z">
+        <seg>第一章包括Adobe视频对技术通信未来的扼要重述，现在你可以通过扩展结构化内容的各种可能来重塑该未来，而不必依赖一种创作格式。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Charlotte Robidoux's article “Rhetorically Structured Content: Developing a Collaborative Single-Sourcing Curriculum” has become a timeless call to embrace structured authoring as a unifier of academia and industry practices in technical communication.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T125748Z" creationid="lenovo" creationdate="20200826T154252Z">
