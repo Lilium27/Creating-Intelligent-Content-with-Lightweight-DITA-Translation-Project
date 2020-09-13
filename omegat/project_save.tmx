@@ -6350,6 +6350,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Evaluate if a transition would be feasible and, above all things, do not expect miracles.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T114159Z" creationid="lenovo" creationdate="20200913T114159Z">
+        <seg>评估过渡是否可行，最重要的是不要期待会有奇迹发生。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Evaluating Content Developers as Computational Thinkers</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200811T115408Z" creationid="DSS" creationdate="20200811T115408Z">
@@ -9809,6 +9817,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you are a content developer who is not a DITA user, give LwDITA a try by bringing your own tools, preferences, and workflows.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T114140Z" creationid="lenovo" creationdate="20200913T114140Z">
+        <seg>如果您是非DITA用户的内容开发人员，请使用自己的工具、首选项和工作流程来尝试LwDITA。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you are a current DITA user, you should not panic and start a migra&lt;t0/&gt;tion process to convert all your topics to LwDITA.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T113919Z" creationid="lenovo" creationdate="20200913T113919Z">
@@ -12815,6 +12831,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T152640Z" creationid="DSS" creationdate="20200818T142917Z">
         <seg>LwDITA 代表了计算机手册的发展，也提供了在写作课程中引入计算机思维的方法。&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LwDITA simplifies the production of intelligent content, but good content creation equals busy work in any tool or environment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T114349Z" creationid="lenovo" creationdate="20200913T114349Z">
+        <seg>LwDITA简化了智能内容的产出，但其创建的良好内容不逊色于任何工具或环境下的辛勤工作。</seg>
       </tuv>
     </tu>
     <tu>
