@@ -6945,8 +6945,8 @@
       <tuv lang="en">
         <seg>FIGURE 8.20 &lt;t0/&gt;HTML5 transformation of the root beer float recipe processed with&lt;t1/&gt; the XDITA map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T070840Z" creationid="lenovo" creationdate="20200913T020823Z">
-        <seg>图 8.20 &lt;t0/&gt;&lt;t1/&gt;XDITA映射转换生成的HTML5格式的冰淇淋球饮品食谱</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T105652Z" creationid="lenovo" creationdate="20200913T020823Z">
+        <seg>图 8.20 &lt;t0/&gt;&lt;t1/&gt;XDITA映射转换生成的HTML5格式的冰淇淋球饮品食谱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7610,8 +7610,8 @@
       <tuv lang="en">
         <seg>Figure 8.22&lt;t0/&gt; shows the new web version of the milkshake recipe with vanilla as the ice cream flavor.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T023005Z" creationid="lenovo" creationdate="20200913T023005Z">
-        <seg>图 8.22&lt;t0/&gt; 图8.22显示了新的香草口味的网页版奶昔食谱</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T105440Z" creationid="lenovo" creationdate="20200913T023005Z">
+        <seg>图 8.22&lt;t0/&gt; 图8.22展示了新的香草口味的网页版奶昔食谱</seg>
       </tuv>
     </tu>
     <tu>
@@ -9731,8 +9731,8 @@
       <tuv lang="en">
         <seg>If the soda fountain runs out of strawberry ice cream and needs to update the manual to reflect that the default flavor is now vanilla, the author only needs to modify one line of code inside the XDITA map, as shown in &lt;t0/&gt;Figure 8.21&lt;t1/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T025719Z" creationid="lenovo" creationdate="20200913T021246Z">
-        <seg>如果冷饮柜台草莓冰淇淋售罄，需要更新手册将默认口味改成香草味，作者只需修改XDITA映射内的一行代码，如图8.21所示。&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T105723Z" creationid="lenovo" creationdate="20200913T021246Z">
+        <seg>如果冷饮柜台草莓冰淇淋售罄，需要更新手册将默认口味改成香草味，写作者只需修改XDITA映射内的一行代码，如图8.21所示。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14714,8 +14714,8 @@
       <tuv lang="en">
         <seg>Remember to replace the &lt;t4/&gt;path-to-file&lt;t5/&gt; segment with the actual path to the file in your computer.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T025751Z" creationid="lenovo" creationdate="20200913T022915Z">
-        <seg> 切记将&lt;t4/&gt;path-to-file&lt;t5/&gt;片段替换为计算机中文件的实际路径。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T105733Z" creationid="lenovo" creationdate="20200913T022915Z">
+        <seg>切记将&lt;t4/&gt;path-to-file&lt;t5/&gt;片段替换为计算机中文件的实际路径。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17951,8 +17951,8 @@
       <tuv lang="en">
         <seg>The ice cream flavor inherited the value of “strawberry,” but step 1 still shows both possible options for the blender to be used.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T020707Z" creationid="lenovo" creationdate="20200913T020707Z">
-        <seg>冰淇凌口味继承了“草莓”值，但步骤一依旧显示有两种搅拌机可供选择。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T105634Z" creationid="lenovo" creationdate="20200913T020707Z">
+        <seg>冰淇凌口味继承了“strawberry”值，但步骤一依旧显示有两种搅拌器可供选择。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18751,8 +18751,8 @@
       <tuv lang="en">
         <seg>The resulting web version of the milkshake recipe, which now excludes all references to the downtown location of the soda fountain, appears on Figure 8.26.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T090421Z" creationid="lenovo" creationdate="20200913T025903Z">
-        <seg>图8.26显示了奶昔食谱的最终网络版本，该版本现在不包括对冷饮柜台市区位置的所有引用。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T105453Z" creationid="lenovo" creationdate="20200913T025903Z">
+        <seg>图8.26展示了奶昔食谱的最终网络版本，该版本现在不包括对冷饮柜台市区位置的所有引用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19455,16 +19455,16 @@
       <tuv lang="en">
         <seg>The warning note about unplugging the blender appears in this recipe via the con&lt;t1/&gt;tent reference mechanism.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T030153Z" creationid="lenovo" creationdate="20200913T020245Z">
-        <seg>通过内容引用机制在此食谱中显示有关拔下搅拌机插头的警告提示。&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T105554Z" creationid="lenovo" creationdate="20200913T020245Z">
+        <seg>通过内容引用机制，食谱中显示了有关拔下搅搅拌器插头的警告提示。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The web versions of the milkshake recipe in Figures 18 and 21, however, still show both blender options.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T023348Z" creationid="lenovo" creationdate="20200913T023036Z">
-        <seg>但是，图18和21中的网页版奶昔食谱版本仍然显示了两个搅拌器选项。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T105446Z" creationid="lenovo" creationdate="20200913T023036Z">
+        <seg>但是，图18和21中的网页版奶昔食谱版本仍然展示了两个搅拌器选项。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19583,8 +19583,8 @@
       <tuv lang="en">
         <seg>The “warning” note appears in this topic via the conref that reuses the original element from the milkshake recipe.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T023348Z" creationid="lenovo" creationdate="20200913T021003Z">
-        <seg>本主题中的“警告”提示式通过复用奶昔食谱中的原始元素的conref形成的。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T105715Z" creationid="lenovo" creationdate="20200913T021003Z">
+        <seg>本主题中的“警告”提示是通过复用奶昔食谱中的原始元素的conref形成的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22155,8 +22155,8 @@
       <tuv lang="en">
         <seg>XDITA map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T023348Z" creationid="lenovo" creationdate="20200913T020422Z">
-        <seg>HTML5格式的奶昔食谱</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T105601Z" creationid="lenovo" creationdate="20200913T020422Z">
+        <seg>HTML5格式的奶昔食谱。</seg>
       </tuv>
     </tu>
     <tu>
