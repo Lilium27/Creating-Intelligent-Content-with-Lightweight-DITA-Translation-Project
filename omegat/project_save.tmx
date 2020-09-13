@@ -480,8 +480,8 @@
       <tuv lang="en">
         <seg>&lt;t0/&gt;Figure &lt;t1/&gt;8.13&lt;t2/&gt; &lt;t3/&gt;shows the XDITA version of the root beer float recipe.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T134106Z" creationid="lenovo" creationdate="20200902T145915Z">
-        <seg>&lt;t0/&gt;图 &lt;t1/&gt;8.13&lt;t2/&gt; &lt;t3/&gt;显示了生啤酒浮法配方的XDITA版本。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T020737Z" creationid="lenovo" creationdate="20200902T145915Z">
+        <seg>&lt;t0/&gt;图 &lt;t1/&gt;8.13&lt;t2/&gt; &lt;t3/&gt;显示了冰淇凌蛋筒浮法配方的XDITA版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -545,8 +545,8 @@
       <tuv lang="en">
         <seg>&lt;t1/&gt;In this section, we will look at an XDITA map that includes the milkshake recipe in a collection of topics that also includes recipes for a root beer float and a banana split.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T151251Z" creationid="lenovo" creationdate="20200902T151251Z">
-        <seg>&lt;t1/&gt;在本节中，我们将查看XDITA映射，其中包含一系列主题，如奶昔配方，生啤酒浮法配方和香蕉片的配方。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T020737Z" creationid="lenovo" creationdate="20200902T151251Z">
+        <seg>&lt;t1/&gt;在本节中，我们将查看XDITA映射，其中包含一系列主题，如奶昔配方，冰淇凌蛋筒浮法配方和香蕉片的配方。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6775,6 +6775,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE 8.19 &lt;t0/&gt;HTML5 transformation of the milkshake recipe processed with the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T020410Z" creationid="lenovo" creationdate="20200913T020410Z">
+        <seg>图 8.19 &lt;t0/&gt;XDITA映射转换生成的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FIGURE 8.20 &lt;t0/&gt;HTML5 transformation of the root beer float recipe processed with&lt;t1/&gt; the XDITA map.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T020823Z" creationid="lenovo" creationdate="20200913T020823Z">
+        <seg>图 8.20 &lt;t0/&gt;XDITA映射转换生成的HTML5格式的冰淇淋蛋筒配方</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE 8.3 &lt;t0/&gt;HDITA version of the milkshake recipe as seen on a web browser.&lt;t1/&gt; Note that the ingredient for a pint of ice cream does not have a flavor attached to it, which will come in a more advanced layer when the topic is processed through a LwDITA-aware software application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T123555Z" creationid="lenovo" creationdate="20200901T132346Z">
@@ -7242,16 +7258,16 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;8.13 &lt;t1/&gt;XDITA version of the root beer float recipe with a content reference.&lt;t2/&gt; The conref links to the source note in the milkshake recipe.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T151634Z" creationid="lenovo" creationdate="20200902T151602Z">
-        <seg>图 &lt;t0/&gt;8.13 &lt;t1/&gt;XDITA版本带内容参考的生啤酒浮法配方&lt;t2/&gt;conref链接到奶昔配方中的源说明。 </seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T020737Z" creationid="lenovo" creationdate="20200902T151602Z">
+        <seg>图 &lt;t0/&gt;8.13 &lt;t1/&gt;XDITA版本带内容参考的冰淇凌蛋筒浮法配方&lt;t2/&gt;conref链接到奶昔配方中的源说明。 </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;8.14 &lt;t1/&gt;HDITA version of the root beer float recipe with a content reference.&lt;t2/&gt; The conref links to the source note in the milkshake recipe.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T152556Z" creationid="lenovo" creationdate="20200902T151035Z">
-        <seg>图 &lt;t0/&gt;8.14 &lt;t1/&gt;&lt;t2/&gt; HDITA版本带内容参考的生啤酒浮法配方。conref链接到奶昔配方中的源说明。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T020737Z" creationid="lenovo" creationdate="20200902T151035Z">
+        <seg>图 &lt;t0/&gt;8.14 &lt;t1/&gt;&lt;t2/&gt; HDITA版本带内容参考的冰淇凌蛋筒浮法配方。conref链接到奶昔配方中的源说明。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7523,16 +7539,16 @@
       <tuv lang="en">
         <seg>Figure &lt;t0/&gt;8.14&lt;t1/&gt; &lt;t2/&gt;shows the root beer float recipe in HDITA syntax.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T150036Z" creationid="lenovo" creationdate="20200902T145921Z">
-        <seg>图 &lt;t0/&gt;8.14&lt;t1/&gt; &lt;t2/&gt;显示了使用HDITA语法的生啤酒配方。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T020737Z" creationid="lenovo" creationdate="20200902T145921Z">
+        <seg>图 &lt;t0/&gt;8.14&lt;t1/&gt; &lt;t2/&gt;显示了使用HDITA语法的冰淇凌蛋筒配方。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Figure &lt;t0/&gt;8.15&lt;t1/&gt; &lt;t2/&gt;shows the root beer float recipe in MDITA extended profile syn&lt;t3/&gt;tax.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153158Z" creationid="lenovo" creationdate="20200902T150112Z">
-        <seg>图 &lt;t0/&gt;8.15&lt;t1/&gt; &lt;t2/&gt;&lt;t3/&gt;&gt;显示了使用MDITA语法的生啤酒配方。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T020737Z" creationid="lenovo" creationdate="20200902T150112Z">
+        <seg>图 &lt;t0/&gt;8.15&lt;t1/&gt; &lt;t2/&gt;&lt;t3/&gt;&gt;显示了使用MDITA语法的冰淇凌蛋筒配方。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17421,6 +17437,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The ice cream flavor inherited the value of “strawberry,” but step 1 still shows both possible options for the blender to be used.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T020707Z" creationid="lenovo" creationdate="20200913T020707Z">
+        <seg>冰淇凌口味继承了“草莓”值，但步骤一依旧显示有两种搅拌机可供选择。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The ice cream flavors analogy indicates the variety of offerings from LwDITA for authors, who no longer have to depend on XML structures to create topics of information that can be transformed into intel&lt;t0/&gt;ligent content and multichannel deliverables for users.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T121521Z" creationid="lenovo" creationdate="20200812T044854Z">
@@ -18853,6 +18877,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The warning note about unplugging the blender appears in this recipe via the con&lt;t1/&gt;tent reference mechanism.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T020245Z" creationid="lenovo" creationdate="20200913T020245Z">
+        <seg>通过内容引用机制在此配方中显示有关拔下搅拌机插头的警告提示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The workplace still needs thinkers and curators of automated content, and technical communication programs in academia should be preparing students for those positions and for conducting research that will advance and improve intelligent content concepts and practices.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T131935Z" creationid="DSS" creationdate="20200810T131935Z">
@@ -20247,8 +20279,8 @@
       <tuv lang="en">
         <seg>To continue with the example, let's look at the root beer float recipe, which is one of the many target topics that link to the warning note from the milkshake recipe.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T150001Z" creationid="lenovo" creationdate="20200902T145854Z">
-        <seg>继续看该示例，让我们看一下生啤酒浮法配方，它是链接到奶昔配方中警告提示的众多目标主题之一。 </seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T020737Z" creationid="lenovo" creationdate="20200902T145854Z">
+        <seg>继续看该示例，让我们看一下冰淇凌蛋筒浮法配方，它是链接到奶昔配方中警告提示的众多目标主题之一。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -21373,6 +21405,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153230Z" creationid="lenovo" creationdate="20200902T155823Z">
         <seg>XDITA映射以收集在第4层中创建的主题。&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XDITA map.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T020436Z" creationid="lenovo" creationdate="20200913T020422Z">
+        <seg>HTML格式的奶昔配方</seg>
       </tuv>
     </tu>
     <tu>
