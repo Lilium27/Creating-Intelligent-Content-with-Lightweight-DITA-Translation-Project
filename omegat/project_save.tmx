@@ -2881,6 +2881,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Abstractions in the LwDITA Content Lifecycle &lt;t0/&gt;195 &lt;t1/&gt;maintained by international standards' consortiums.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T044655Z" creationid="lenovo" creationdate="20200913T044655Z">
+        <seg>都是由国际标准的财团维护的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>According to Priestley, possible solutions would include &lt;t0/&gt;1) &lt;t1/&gt;simplifying XML models, “as seen with many of the lightweight DITA tools that have come to market over the last few years,” or &lt;t2/&gt;2) &lt;t3/&gt;rebasing on an HTML5 model, “as seen with O'Reilly and more recently Pearson” &lt;t4/&gt;(2014).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200817T150803Z" creationid="DSS" creationdate="20200817T091411Z">
@@ -5725,6 +5733,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DITA, LwDITA, HTML5, and even CommonMark/GitHub Flavored Markdown are</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T044629Z" creationid="lenovo" creationdate="20200913T044629Z">
+        <seg>DITA，LwDITA，HTML5甚至CommonMark / GitHub Flavored Markdown</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DITA, Why Go Lightweight?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T081244Z" creationid="DSS" creationdate="20200726T081244Z">
@@ -8229,6 +8245,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200903T132057Z" creationid="lenovo" creationdate="20200827T134341Z">
         <seg>此外，在DITA &lt;t2/&gt;XML中，不能复用XML主题中的HTML文件的内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Furthermore, it also enables interoperability with new standards, like the International Standard for Intelligent Information Request and Delivery (iiRDS)&lt;t3/&gt;3&lt;t4/&gt;, which has been heralded as the standard of Industry &lt;t5/&gt;4.0 &lt;t6/&gt;and Internet of Things workflows.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T044909Z" creationid="lenovo" creationdate="20200913T044909Z">
+        <seg>此外，它还支持与新标准的互操作性，例如被誉为工业 &lt;t5/&gt;4.0 &lt;t6/&gt;和物联网工作流程标准的国际智能信息请求和交付标准（iiRDS）&lt;t3/&gt;3&lt;t4/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19393,6 +19417,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T150326Z" creationid="lenovo" creationdate="20200902T150326Z">
         <seg>&lt;t2/&gt;注释有一个唯一的&lt;t3/&gt;@id &lt;t4/&gt;，值为unplug，可选的注释@type设置为“warning”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Their continuous devel&lt;t2/&gt;opment guarantees applicability beyond the lifespan of a specific tool or app release.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T044745Z" creationid="lenovo" creationdate="20200913T044745Z">
+        <seg>它们的不断发展保证了其在特定工具或应用程序发行版生命周期结束后，仍具备适用性。</seg>
       </tuv>
     </tu>
     <tu>
