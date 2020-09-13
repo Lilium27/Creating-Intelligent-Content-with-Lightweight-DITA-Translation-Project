@@ -2113,6 +2113,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t6/&gt;The simple act of learning and implementing a standard for structuring content will not change that forecast.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T121919Z" creationid="lenovo" creationdate="20200913T121919Z">
+        <seg>&lt;t6/&gt;学习和实施内容结构标准的简单行为不会改变该预测。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t6/&gt;Those concerns echo a threat to the characteristic of rhetorical effectiveness, and DITA has tried to ameliorate that effect by giv&lt;t7/&gt;ing authors control on the context of their content elements.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T101836Z" creationid="lenovo" creationdate="20200901T134846Z">
@@ -4901,6 +4909,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T152639Z" creationid="DSS" creationdate="20200818T142815Z">
         <seg>创作本书的最初两个想法（一是手册的历史，二是技术写作课程中的计算机思维）最终体现在同一个地方：委员会提出轻量级 DITA（LwDITA）规范，将其作为技术传播和内容开发等多个问题的解决方案。&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Brad Mehlenbacher predicted the future of technical communication as “uncertain and indeterminate” &lt;t3/&gt;(2013, &lt;t4/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T121859Z" creationid="lenovo" creationdate="20200913T121859Z">
+        <seg>布拉德·梅伦巴赫（Brad Mehlenbacher）将技术交流的未来预测为“不确定且无限可能的” &lt;t3/&gt;(2013, &lt;t4/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8901,6 +8917,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T152754Z" creationid="DSS" creationdate="20200817T091949Z">
         <seg>然而，普里斯特利并没有提供所有元素，而是专注于扩展性能力，包括将 HTML5 作为等同于 DIT A主题写作格式的能力。&lt;t4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, adopt&lt;t7/&gt;ing the cross-silo collaboration built on principles of computational thinking</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T122003Z" creationid="lenovo" creationdate="20200913T122003Z">
+        <seg>但是，采用基于LwDITA确实能够实现的计算思想原理的跨部门协作，必将有助于将技术交流者准备为未来所需的“对语言具有敏感性的社会技术交流者”</seg>
       </tuv>
     </tu>
     <tu>
@@ -22077,6 +22101,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200905T062511Z" creationid="DSS" creationdate="20200817T041108Z">
         <seg>温 &lt;t14/&gt;(2008) &lt;t15/&gt;将计算机描述为“思维”工具（抽象）和“实体”工具（自动化）的结合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With LwDITA, XML is just one of the available agents, and content components for simple expressions of machine-ready metadata and multimedia elements that were not included in previous versions of the DITA standard are available out of the box.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T121805Z" creationid="lenovo" creationdate="20200913T121805Z">
+        <seg>借助LwDITA，XML只是可用的代理之一，而现成的组件就可以提供用于简单表达机器可处理的元数据和多媒体元素的内容组件，而这些元素并不包含在DITA标准的早期版本中。</seg>
       </tuv>
     </tu>
     <tu>
