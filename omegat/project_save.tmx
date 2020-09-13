@@ -7424,6 +7424,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Figure 8.22&lt;t0/&gt; shows the new web version of the milkshake recipe with vanilla as the ice cream flavor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T023005Z" creationid="lenovo" creationdate="20200913T023005Z">
+        <seg>图 8.22&lt;t0/&gt; 图8.22显示了新的香草口味的网页版奶昔食谱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Figure &lt;t0/&gt;1.6&lt;t1/&gt; &lt;t2/&gt;shows a very basic DITA map for Chef Pedro's recipe critique website.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200725T153515Z">
@@ -17821,6 +17829,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The next step is to apply the &lt;t0/&gt;if-then&lt;t1/&gt; filter for conditional content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T023147Z" creationid="lenovo" creationdate="20200913T023147Z">
+        <seg>下一步是对条件内容应用if-then过滤器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The note includes a paragraph&lt;t2/&gt; with content that will stand out from the topic's other elements in deliverables produced from this source.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T152821Z" creationid="lenovo" creationdate="20200819T143534Z">
@@ -18917,6 +18933,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The web versions of the milkshake recipe in Figures 18 and 21, however, still show both blender options.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T023036Z" creationid="lenovo" creationdate="20200913T023036Z">
+        <seg>但是，图18和21中的网页版奶昔配方版本仍然显示了两个搅拌器选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The workplace still needs thinkers and curators of automated content, and technical communication programs in academia should be preparing students for those positions and for conducting research that will advance and improve intelligent content concepts and practices.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T131935Z" creationid="DSS" creationdate="20200810T131935Z">
@@ -19369,6 +19393,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T152724Z" creationid="DSS" creationdate="20200817T055316Z">
         <seg>公共元素都可以在 XDITA、HDITA 和 MDITA 中体现出来，可以对它们进行修改以适应不同的编写语言。&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These deliverables are not ready for the intended users of the soda fountain manual.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T023124Z" creationid="lenovo" creationdate="20200913T023124Z">
+        <seg>这些交付物尚未准备好供给冰淇淋蛋筒手册的目标用户使用。</seg>
       </tuv>
     </tu>
     <tu>
