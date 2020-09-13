@@ -3675,8 +3675,8 @@
       <tuv lang="en">
         <seg>And if the emphasis is placed on a specific software package instead of a methodology based on human tasks of abstractions, authors in industry and academia will face the tools' acquisition problems identi&lt;t18/&gt;fied by Carliner that I mentioned in the introduction to this chapter.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153226Z" creationid="lenovo" creationdate="20200902T155439Z">
-        <seg>而且，如果重点放在特定的软件包上，而不是基于抽象的人工任务的方法，那么行业和学术界的作者将面临我在本章引言中提到的Carliner确定的工具获取问题。&lt;t18/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T102853Z" creationid="lenovo" creationdate="20200902T155439Z">
+        <seg>而且，如果重点放在特定的软件包上，而不是人类处理抽象概念的方法上，那么产业界和学术界的写作者将面临我在本章引言中提到的卡利纳定义的工具获取问题。&lt;t18/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9547,8 +9547,8 @@
       <tuv lang="en">
         <seg>If an authoring process or an academic curriculum lesson starts in this processing layer, it will probably end up being too complicated for anyone who is not a programmer or developer.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T155412Z" creationid="lenovo" creationdate="20200902T155412Z">
-        <seg>如果创作过程或学术课程课程从该处理层开始，那么对于除程序员或开发人员外的任何人来说，它可能最终都会变得太过复杂。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T102707Z" creationid="lenovo" creationdate="20200902T155412Z">
+        <seg>如果创作过程或学术课程课程从该处理层开始，那么对于除程序员或开发人员外的任何人来说，可能最终都会变得太过复杂。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18135,8 +18135,8 @@
       <tuv lang="en">
         <seg>The main automation tool that will take our milkshake example through layer &lt;t0/&gt;5 &lt;t1/&gt;is the DITA Open Toolkit &lt;t2/&gt;- &lt;t3/&gt;the open source implementation of the DITA standard that we discussed in previous chapters.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153226Z" creationid="lenovo" creationdate="20200902T155615Z">
-        <seg>在第5层中以奶昔为例的主要自动化工具是DITA Open Toolkit，是我们在上一章中讨论的DITA标准开源工具。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T103001Z" creationid="lenovo" creationdate="20200902T155615Z">
+        <seg>在第五层级中处理奶昔示例的主要自动化工具是DITA Open Toolkit，该工具是我们在上一章中讨论的DITA标准开源工具。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
