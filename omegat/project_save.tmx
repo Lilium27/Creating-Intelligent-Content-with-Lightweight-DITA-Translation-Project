@@ -3139,8 +3139,8 @@
       <tuv lang="en">
         <seg>Adopt principles of com&lt;t2/&gt;putational thinking in your teaching and research and contribute to redefining the quite annoying term of “traditionally non-computing discipline” that labels writing and communication.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T121418Z" creationid="lenovo" creationdate="20200913T121418Z">
-        <seg>在教学和研究中采用计算机思维的原则，为重新定义贴在写作和传播身上的“传统的非计算机学科”这一恼人的标签做出贡献。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T133011Z" creationid="lenovo" creationdate="20200913T121418Z">
+        <seg>在教学和研究中采用计算机思维的原则，为重新定义贴在写作和传播身上的“传统的非计算机学科”这一恼人的标签做出贡献。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5171,8 +5171,8 @@
       <tuv lang="en">
         <seg>Chapter &lt;t0/&gt;1 &lt;t1/&gt;included a recap of the Adobe video on the future of tech comm, and you can now remake that future by expanding the possibilities of structured con&lt;t2/&gt;tent without depending on one single authoring format.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T121702Z" creationid="lenovo" creationdate="20200913T121702Z">
-        <seg>第一章包括Adobe视频对技术通信未来的扼要重述，现在你可以通过扩展结构化内容的各种可能来重塑该未来，而不必依赖一种创作格式。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T133012Z" creationid="lenovo" creationdate="20200913T121702Z">
+        <seg>第一章包括Adobe视频对技术通信未来的扼要重述，现在你可以通过扩展结构化内容的各种可能来重塑该未来，而不必依赖一种创作格式。 &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7113,8 +7113,8 @@
       <tuv lang="en">
         <seg>FIGURE 8.8 &lt;t0/&gt;HDITA version of the milkshake recipe seen through a web browser.&lt;t1/&gt; Without advanced processing, the HTML file shows the values for both possible blenders in step 1.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T125806Z" creationid="DSS" creationdate="20200913T125806Z">
-        <seg>图8.8 HDITA版本的奶昔食谱在网络浏览器中的呈现。在没有进行更高层级的处理之前，HTML文件中的步骤一中显示了两个可能的搅拌器值。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T133006Z" creationid="DSS" creationdate="20200913T125806Z">
+        <seg>图8.8 HDITA版本的奶昔食谱在网络浏览器中的呈现。在没有进行更高层级的处理之前，HTML文件中的步骤一中显示了两个可能的搅拌器值。 &lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8955,8 +8955,8 @@
       <tuv lang="en">
         <seg>However, adopt&lt;t7/&gt;ing the cross-silo collaboration built on principles of computational thinking</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T122208Z" creationid="lenovo" creationdate="20200913T122208Z">
-        <seg>基于LwDITA带来的计算机思维原则的跨竖井协作</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T133014Z" creationid="lenovo" creationdate="20200913T122208Z">
+        <seg>基于LwDITA带来的计算机思维原则的跨竖井协作&lt;t7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9395,8 +9395,8 @@
       <tuv lang="en">
         <seg>I have met many users who simply cannot be trusted to be in environments that do not enforce struc&lt;t0/&gt;ture in sections or paragraphs.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T114928Z" creationid="lenovo" creationdate="20200913T114928Z">
-        <seg>我遇到了许多用户，他们在不强制保持节或段落中的结构的环境下无法有效产出。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T133009Z" creationid="lenovo" creationdate="20200913T114928Z">
+        <seg>我遇到了许多用户，他们在不强制保持节或段落中的结构的环境下无法有效产出。 &lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9955,8 +9955,8 @@
       <tuv lang="en">
         <seg>If you are a current DITA user, you should not panic and start a migra&lt;t0/&gt;tion process to convert all your topics to LwDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T113919Z" creationid="lenovo" creationdate="20200913T113919Z">
-        <seg>如果你目前是DITA用户，则不要惊慌失措开始内容迁移，以将所有主题转换为LwDITA。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T133008Z" creationid="lenovo" creationdate="20200913T113919Z">
+        <seg>如果你目前是DITA用户，则不要惊慌失措开始内容迁移，以将所有主题转换为LwDITA。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23131,8 +23131,8 @@
       <tuv lang="en">
         <seg>that LwDITA enables surely will contribute to preparing technical communi&lt;t0/&gt;cators as the “rhetorically sensitive sociotechnical mediators” (Mehlenbacher, &lt;t1/&gt;2013, &lt;t2/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T122452Z" creationid="lenovo" creationdate="20200913T122452Z">
-        <seg>肯定能将技术传播人员武装成“对修辞具有十足敏锐度的、在社科与科学间架起桥梁的中介人”(Mehlenbacher, &lt;t1/&gt;2013, &lt;t2/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T133016Z" creationid="lenovo" creationdate="20200913T122452Z">
+        <seg>肯定能将技术传播人员武装成“对修辞具有十足敏锐度的、在社科与科学间架起桥梁的中介人”(Mehlenbacher, &lt;t0/&gt;&lt;t1/&gt;2013, &lt;t2/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
