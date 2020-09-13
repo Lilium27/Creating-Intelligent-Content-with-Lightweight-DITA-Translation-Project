@@ -21656,6 +21656,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>We need apps for authoring, processing, migrating, and automating the content experience with XDITA, HDITA, and MDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T120745Z" creationid="lenovo" creationdate="20200913T120745Z">
+        <seg>我们需要在XDITA，HDITA和MDITA的协助下完成创作、处理、迁移和自动化内容的应用程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>We reminisced about the Virginia Tech Center for Human-Computer Interaction (CHCI), which Carroll founded in &lt;t0/&gt;1995.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T155250Z" creationid="lenovo" creationdate="20200723T094927Z">
