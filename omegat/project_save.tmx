@@ -9441,6 +9441,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the soda fountain runs out of strawberry ice cream and needs to update the manual to reflect that the default flavor is now vanilla, the author only needs to modify one line of code inside the XDITA map, as shown in &lt;t0/&gt;Figure 8.21&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T021246Z" creationid="lenovo" creationdate="20200913T021246Z">
+        <seg>如果冷饮柜台草莓冰淇淋售罄，需要更新手册将默认口味改成香草味，作者只需修改XDITA映射内的一行代码，如图8.21所示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the tool developers respect the standard, they allow for interoperability among tools.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200726T093810Z" creationid="DSS" creationdate="20200726T093810Z">
