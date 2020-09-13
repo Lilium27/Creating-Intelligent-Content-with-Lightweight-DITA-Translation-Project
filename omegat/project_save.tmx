@@ -14786,8 +14786,8 @@
       <tuv lang="en">
         <seg>Revisiting the reference information from &lt;t0/&gt;Chapter &lt;t1/&gt;5&lt;t2/&gt;, &lt;t3/&gt;and according to the DITA-OT documentation, the general structure for a command that builds DITA (and LwDITA) deliverables from topics and maps is shown in &lt;t4/&gt;figure &lt;t5/&gt;8.17&lt;t6/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153421Z" creationid="lenovo" creationdate="20200902T160149Z">
-        <seg>再次阅读第5章中的参考信息，并根据DITA-OT文档，从主题和映射构建DITA（和LwDITA）可交付成果的命令的一般结构如图8.17所示。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T104823Z" creationid="lenovo" creationdate="20200902T160149Z">
+        <seg>再次阅读五章中的参考信息，根据DITA-OT文档，从主题和映射构建DITA（和LwDITA）可交付成果的命令的一般结构如图8.17所示。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
