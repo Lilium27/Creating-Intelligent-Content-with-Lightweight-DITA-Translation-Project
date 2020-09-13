@@ -14970,8 +14970,8 @@
       <tuv lang="en">
         <seg>Semantically rich &lt;t0/&gt;content includes “added extra, machine-readable infor&lt;t1/&gt;mation that describes what the content is, what it's about, and more.” This layer of metadata can specify the type of audience, platform (or cuisine, if we look back at the marinara sauce example from &lt;t2/&gt;Chapter &lt;t3/&gt;1&lt;t4/&gt;) &lt;t5/&gt;for a whole topic of information or for specific paragraph or phrase level elements in that topic (Rockley et al., &lt;t6/&gt;2015, &lt;t7/&gt;pp.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200811T143859Z">
-        <seg>语义丰富的内容包括&lt;t0/&gt;&lt;t1/&gt;“额外的机器可读信息，用以描述内容详情”。这一层元数据可以指定整个主题信息，或主题信息中的特定段落或短语级元素的受众类型、平台类型（菜谱类型，如&lt;t2/&gt;第&lt;t3/&gt;一&lt;t4/&gt;&lt;t5/&gt;章中意式番茄罗勒酱的例子）(Rockley et al., &lt;t6/&gt;2015, &lt;t7/&gt;pp.</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T063409Z" creationid="DSS" creationdate="20200811T143859Z">
+        <seg>语义丰富的内容包括&lt;t0/&gt;&lt;t1/&gt;“额外的机器可读信息，用以描述内容详情”。这一层元数据可以指定整个主题信息，或特定段落，或是短语级元素的受众类型、平台类型（菜谱类型，如&lt;t2/&gt;第&lt;t3/&gt;一&lt;t4/&gt;&lt;t5/&gt;章中意式番茄罗勒酱的例子）(Rockley et al., &lt;t6/&gt;2015, &lt;t7/&gt;pp.</seg>
       </tuv>
     </tu>
     <tu>
