@@ -4939,8 +4939,8 @@
       <tuv lang="en">
         <seg>Bridging my roles as co-chair of the Lightweight DITA subcommittee and professor of technical communica&lt;t1/&gt;tion is my identity as a Mexican-American researcher who came to the academic side of content development via computer science.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T112418Z" creationid="lenovo" creationdate="20200913T060303Z">
-        <seg>在轻量级DITA小组委员会联合主席和技术传播教授这两个角色之间的桥梁是我作为墨西哥裔美国人研究员的身份，他是通过计算机科学进入内容开发的学术领域的。&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T123122Z" creationid="lenovo" creationdate="20200913T060303Z">
+        <seg>作为墨西哥裔美国研究员，我需要兼顾轻量级DITA小组委员会联合主席和技术传播教授这两个身份，我是通过计算机科学进入内容开发的学术领域的。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
