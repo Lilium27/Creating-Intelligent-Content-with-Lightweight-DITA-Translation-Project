@@ -5526,8 +5526,8 @@
       <tuv lang="en">
         <seg>Cross-topic linking works regardless of authoring for&lt;t4/&gt;mat: an XDITA topic can link to topics in HDITA and MDITA, and vice versa.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200909T130249Z" creationid="lenovo" creationdate="20200902T132747Z">
-        <seg>跨主题链接的工作与写作格式无关：XDITA主题可以链接到HDITA和MDITA中的主题，反之亦然。&lt;t4/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T013810Z" creationid="lenovo" creationdate="20200902T132747Z">
+        <seg>跨主题链接与写作格式无关：XDITA主题可以链接到HDITA和MDITA主题，反之亦然。&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21130,8 +21130,8 @@
       <tuv lang="en">
         <seg>With that component, an author can link a topic to an external web resource, a file (an existing diagram in a PDF, for example), or another LwDITA topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T132735Z" creationid="lenovo" creationdate="20200902T132735Z">
-        <seg>使用该组件，作者可以将主题链接到外部Web资源、文件（如PDF中的现有图表）或另一个LwDITA主题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T013632Z" creationid="lenovo" creationdate="20200902T132735Z">
+        <seg>使用该组件，写作者可以将主题链接到外部网页资源、文件（如PDF中的图表）或另一个LwDITA主题。</seg>
       </tuv>
     </tu>
     <tu>
