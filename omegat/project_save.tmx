@@ -2849,6 +2849,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Abstractions in the LwDITA Content Lifecycle</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T012117Z" creationid="DSS" creationdate="20200913T012117Z">
+        <seg>LwDITA 内容生命周期中的抽象概念</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Abstractions in the LwDITA Content Lifecycle &lt;t0/&gt;165 &lt;t1/&gt;about authoring formats allowed by LwDITA and inspired by the ISTE standards for evaluating students as computational thinkers (ISTE, &lt;t2/&gt;2018), &lt;t3/&gt;looks as follows:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T152938Z" creationid="lenovo" creationdate="20200831T133621Z">
@@ -2933,6 +2941,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T035630Z" creationid="lenovo" creationdate="20200810T163151Z">
         <seg>准确性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Acknowledgments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T011956Z" creationid="DSS" creationdate="20200913T011956Z">
+        <seg>致谢</seg>
       </tuv>
     </tu>
     <tu>
@@ -4553,6 +4569,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Before Intelligent Content, There Was the Computer Manual</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T012022Z" creationid="DSS" creationdate="20200913T012022Z">
+        <seg>智能内容出现前，计算机手册占据主导</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before Intelligent Content, There Was the Computer Manual &lt;t0/&gt;47 &lt;t1/&gt;fiction a paragraph might be the main element, in technical information authors required “other means of differentiating information” (p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T041017Z" creationid="lenovo" creationdate="20200811T022238Z">
@@ -4797,6 +4821,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T132921Z" creationid="lenovo" creationdate="20200811T094405Z">
         <seg>但是，通过编写主题，你可以对用户期望的信息类型进行更细粒度的区分，而不仅仅是文档级别。&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CONTENTS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T011906Z" creationid="DSS" creationdate="20200913T011906Z">
+        <seg>内容</seg>
       </tuv>
     </tu>
     <tu>
@@ -7928,6 +7960,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Foreword</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T012001Z" creationid="DSS" creationdate="20200913T012001Z">
+        <seg>前言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Format-free &lt;t0/&gt;content “does not include presentation information, such as instructions about fonts, column widths, or text placement.” The sep&lt;t1/&gt;aration of format and content is essential for multichannel publishing, and the layer of abstraction provided by a desktop publishing applica&lt;t2/&gt;tion in this regard can be a dangerous one.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131431Z" creationid="DSS" creationdate="20200811T142749Z">
@@ -8444,6 +8484,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T141838Z" creationid="lenovo" creationdate="20200811T163348Z">
         <seg>在我开始撰写本章的十多年前，他在密歇根州立大学课程 WRA 420: 《&lt;t0/&gt;高级技术写作&lt;t1/&gt;&lt;t2/&gt;》上让学生使用DITA标准来构造和发布信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How DITA Evolved into LwDITA</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T012028Z" creationid="DSS" creationdate="20200913T012028Z">
+        <seg>从 DITA 到轻量级 DITA</seg>
       </tuv>
     </tu>
     <tu>
@@ -12074,6 +12122,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>List of Figures viii</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T011946Z" creationid="DSS" creationdate="20200913T011946Z">
+        <seg>图表目录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Lists</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T142421Z" creationid="DSS" creationdate="20200816T142421Z">
@@ -13692,6 +13748,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Preface</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T011953Z" creationid="DSS" creationdate="20200913T011953Z">
+        <seg>序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Preface &lt;t0/&gt;(“less than 1 page”).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T161400Z" creationid="lenovo" creationdate="20200808T082318Z">
@@ -14227,6 +14291,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="DSS" creationdate="20200806T084603Z">
         <seg>重新讨论 DITA 映射</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Revisiting the Future of Technical Communication</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T012010Z" creationid="DSS" creationdate="20200913T012010Z">
+        <seg>重新讨论技术传播的未来</seg>
       </tuv>
     </tu>
     <tu>
@@ -15841,6 +15913,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Abstractions Behind Intelligent Content</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T012107Z" creationid="DSS" creationdate="20200913T012107Z">
+        <seg>智能内容背后的抽象概念</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Abstractions Behind Intelligent Content &lt;t0/&gt;151 &lt;t1/&gt;near future, as even the smallest content unit (a Microsoft Word file today) can grow to become a complex repository &lt;t2/&gt;(1000 &lt;t3/&gt;pages of unstructured content with hundreds of tasks, frequently-asked questions, and product descriptions, for example).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200813T160056Z" creationid="DSS" creationdate="20200809T130422Z">
@@ -16213,6 +16293,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T162425Z" creationid="DSS" creationdate="20200802T162425Z">
         <seg>轻量级 DITA 小组委员会在2014年9月&lt;t2/&gt;15日举行了第一次电话会议。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The LwDITA Initial Authoring Formats</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T012041Z" creationid="DSS" creationdate="20200913T012041Z">
+        <seg>LwDITA 初始写作格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The LwDITA Map Components</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T012048Z" creationid="DSS" creationdate="20200913T012048Z">
+        <seg>LwDITA 映射组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The LwDITA Topic Components</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T012054Z" creationid="DSS" creationdate="20200913T012054Z">
+        <seg>LwDITA 主题组件</seg>
       </tuv>
     </tu>
     <tu>
