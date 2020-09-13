@@ -2347,8 +2347,8 @@
       <tuv lang="en">
         <seg>&lt;t8/&gt;The tasks in layer &lt;t9/&gt;6 &lt;t10/&gt;also cover some of the work included in Andersen's &lt;t11/&gt;Managing change&lt;t12/&gt; stage.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T045238Z" creationid="lenovo" creationdate="20200913T045238Z">
-        <seg>第六层中的任务还涵盖了安德森的&lt;t11/&gt;管理变更&lt;t12/&gt;阶段所包含的一些工作。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T112327Z" creationid="lenovo" creationdate="20200913T045238Z">
+        <seg>&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;第六层中的任务还涵盖了安德森的&lt;t11/&gt;管理变更&lt;t12/&gt;阶段所包含的一些工作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2923,8 +2923,8 @@
       <tuv lang="en">
         <seg>Abstractions in the LwDITA Content Lifecycle &lt;t0/&gt;195 &lt;t1/&gt;maintained by international standards' consortiums.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T044655Z" creationid="lenovo" creationdate="20200913T044655Z">
-        <seg>都是由国际标准的财团维护的。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T112224Z" creationid="lenovo" creationdate="20200913T044655Z">
+        <seg>都是由国际标准的财团维护的。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3843,8 +3843,8 @@
       <tuv lang="en">
         <seg>Answering the call from Jones et al.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T060631Z" creationid="lenovo" creationdate="20200913T060504Z">
-        <seg>对于琼斯等人&lt;t2/&gt;(2016) &lt;t3/&gt;有关</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T112524Z" creationid="lenovo" creationdate="20200913T060504Z">
+        <seg>对于琼斯等人(2016) 有关</seg>
       </tuv>
     </tu>
     <tu>
@@ -4059,8 +4059,8 @@
       <tuv lang="en">
         <seg>As long as you keep in mind the abstractions behind the process and the structure that enables the production of discoverable, reconfig&lt;t2/&gt;urable, and adaptable content, my job will be done.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T065328Z" creationid="lenovo" creationdate="20200913T055012Z">
-        <seg>只要你能记住过程背后的抽象概念以及使得内容产品可发现、可配置且适用性强的结构，我的任务也就完成了。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T112356Z" creationid="lenovo" creationdate="20200913T055012Z">
+        <seg>只要你能记住过程背后的抽象概念以及使得内容产品可发现、可配置且适用性强的结构，我的任务也就完成了。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4355,8 +4355,8 @@
       <tuv lang="en">
         <seg>Authors from different writing traditions can include those already represented in the initial LwDITA author&lt;t4/&gt;ing formats (XML, HTML5, and Markdown) and those in formats considered for future releases of the LwDITA standard (e.g., JSON and Microsoft Word).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T111445Z" creationid="lenovo" creationdate="20200913T044445Z">
-        <seg>秉持不同写作传统的作者可以使用初始LwDITA创作格式（XML, HTML5, and Markdown）就已呈现的功能，也可以期待LwDITA标准未来准备发布的其他格式 (e.g., JSON and Microsoft Word)。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T112217Z" creationid="lenovo" creationdate="20200913T044445Z">
+        <seg>秉持不同写作传统的作者可以使用初始LwDITA创作格式（XML, HTML5, and Markdown）就已呈现的功能，也可以期待LwDITA标准未来准备发布的其他格式 (e.g., JSON and Microsoft Word)。&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4883,8 +4883,8 @@
       <tuv lang="en">
         <seg>Bridging my roles as co-chair of the Lightweight DITA subcommittee and professor of technical communica&lt;t1/&gt;tion is my identity as a Mexican-American researcher who came to the academic side of content development via computer science.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T060303Z" creationid="lenovo" creationdate="20200913T060303Z">
-        <seg>在轻量级DITA小组委员会联合主席和技术传播教授这两个角色之间的桥梁是我作为墨西哥裔美国人研究员的身份，他是通过计算机科学进入内容开发的学术领域的。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T112418Z" creationid="lenovo" creationdate="20200913T060303Z">
+        <seg>在轻量级DITA小组委员会联合主席和技术传播教授这两个角色之间的桥梁是我作为墨西哥裔美国人研究员的身份，他是通过计算机科学进入内容开发的学术领域的。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5542,8 +5542,8 @@
       <tuv lang="en">
         <seg>Contrasting layer &lt;t13/&gt;1 &lt;t14/&gt;with the ISTE stand&lt;t15/&gt;ards for assessing computational thinking in students, some of its tasks could comply with sections of standards 5a (&lt;t16/&gt;Students formulate problem definitions suited for technology-assisted methods such as data analysis, abstract models and algorithmic thinking in exploring and finding solutions&lt;t17/&gt;), 5c (&lt;t18/&gt;Students break problems into component parts, extract key information, and develop descriptive models to understand complex systems or facilitate problem-solving&lt;t19/&gt;), and even 5d (&lt;t20/&gt;Students understand how automation works and use algorithmic thinking to develop a sequence of steps to create and test automated solutions&lt;t21/&gt;) &lt;t22/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T111637Z" creationid="lenovo" creationdate="20200913T045811Z">
-        <seg>将第六层与用于评估学生的计算思维的ISTE标准进行对比，其某些任务与5a（&lt;t16/&gt;在技术上进行探索和发现解决方案时，形成对如数据分析、抽象模型和算法思维等技术辅助方法的问题定义&lt;t17/&gt;），5c（学生能够将拆解问题，提取关键信息，建立描述性模型来理解复杂系统或促进问题解决），甚至5d标准（学生了解自动化的工作原理并使用算法思维来制定一系列步骤创建和测试自动化解决方案）相符。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T112348Z" creationid="lenovo" creationdate="20200913T045811Z">
+        <seg>将第六层与用于评估学生的计算思维的ISTE标准进行对比，其某些任务与5a（&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;在技术上进行探索和发现解决方案时，形成对如数据分析、抽象模型和算法思维等技术辅助方法的问题定义&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt;），5c（学生能够将拆解问题，提取关键信息，建立描述性模型来理解复杂系统或促进问题解决），甚至5d标准（学生了解自动化的工作原理并使用算法思维来制定一系列步骤创建和测试自动化解决方案）相符。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5622,8 +5622,8 @@
       <tuv lang="en">
         <seg>Creating Intelligent Content with Lightweight DITA&lt;t0/&gt; recognizes the many shapes and backgrounds of those human authors.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T080146Z" creationid="lenovo" creationdate="20200913T060022Z">
-        <seg>《使用轻量级内容创建智能内容DITA》可以识别这些人类作者的多种特征和背景。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T112416Z" creationid="lenovo" creationdate="20200913T060022Z">
+        <seg>《使用轻量级内容创建智能内容DITA》可以识别这些人类作者的多种特征和背景。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7819,8 +7819,8 @@
       <tuv lang="en">
         <seg>Focus on the abstractions from &lt;t0/&gt;Chapter 8&lt;t1/&gt; and develop a strategy that works for your content requirements.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T075041Z" creationid="lenovo" creationdate="20200913T054657Z">
-        <seg>专注于第八章中的抽象概念，并制定适合你的内容要求的策略。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T112355Z" creationid="lenovo" creationdate="20200913T054657Z">
+        <seg>专注于第八章中的抽象概念，并制定适合你的内容要求的策略。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8355,8 +8355,8 @@
       <tuv lang="en">
         <seg>Furthermore, it also enables interoperability with new standards, like the International Standard for Intelligent Information Request and Delivery (iiRDS)&lt;t3/&gt;3&lt;t4/&gt;, which has been heralded as the standard of Industry &lt;t5/&gt;4.0 &lt;t6/&gt;and Internet of Things workflows.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T044909Z" creationid="lenovo" creationdate="20200913T044909Z">
-        <seg>此外，它还支持与新标准的互操作性，例如被誉为工业 &lt;t5/&gt;4.0 &lt;t6/&gt;和物联网工作流程标准的国际智能信息请求和交付标准（iiRDS）&lt;t3/&gt;3&lt;t4/&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T112246Z" creationid="lenovo" creationdate="20200913T044909Z">
+        <seg>此外，它还支持与新标准的互操作性，例如被誉为工业4.0和物联网工作流程标准的国际智能信息请求和交付标准（iiRDS）&lt;t3/&gt;3&lt;t4/&gt;。&lt;t5/&gt;&lt;t6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9515,8 +9515,8 @@
       <tuv lang="en">
         <seg>If Markdown works for you and you do not want to deal with tags, there is a lot you can accomplish with MDITA &lt;t7/&gt;一 &lt;t8/&gt;even in its core profile.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T054046Z" creationid="lenovo" creationdate="20200913T054046Z">
-        <seg>如果Markdown使用得顺手，并且你不想处理标签，那MDITA就可以完成很多工作——即使只使用核心概要。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T112353Z" creationid="lenovo" creationdate="20200913T054046Z">
+        <seg>如果Markdown使用得顺手，并且你不想处理标签，那MDITA就可以完成很多工作——即使只使用核心概要。&lt;t7/&gt;&lt;t8/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9795,8 +9795,8 @@
       <tuv lang="en">
         <seg>If you and your team are comfortable work&lt;t6/&gt;ing in HTML and do not want to explore alternatives, you can use HDITA and ignore everything else.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T075041Z" creationid="lenovo" creationdate="20200913T053927Z">
-        <seg>如果你和你的团队对使用HTML感到满意，并且不想探索替代方法，则可以使用HDITA并忽略其他所有内容。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T112351Z" creationid="lenovo" creationdate="20200913T053927Z">
+        <seg>如果你和你的团队对使用HTML感到满意，并且不想探索替代方法，则可以使用HDITA并忽略其他所有内容。&lt;t6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9997,8 +9997,8 @@
       <tuv lang="en">
         <seg>In &lt;t0/&gt;Creating Intelligent Content with Lightweight DITA&lt;t1/&gt; I tried to place human authors at the center of intelligent content workflows.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T055854Z" creationid="lenovo" creationdate="20200913T055854Z">
-        <seg>&lt;t0/&gt;在&lt;t0/&gt;《使用轻量级DITA创建智能内容》&lt;t1/&gt;一书中，我尝试将人类作者置于智能内容工作流程的中心。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T112414Z" creationid="lenovo" creationdate="20200913T055854Z">
+        <seg>在&lt;t0/&gt;《使用轻量级DITA创建智能内容》&lt;t1/&gt;一书中，我尝试将人类作者置于智能内容工作流程的中心。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -10773,8 +10773,8 @@
       <tuv lang="en">
         <seg>In general, this layer focuses on making the content and structures devel&lt;t0/&gt;oped in previous layers as future-proof as possible.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T044533Z" creationid="lenovo" creationdate="20200913T044533Z">
-        <seg>通常，该层致力于使上一层中开发的内容和结构尽可能地面向未来。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T112221Z" creationid="lenovo" creationdate="20200913T044533Z">
+        <seg>通常，该层致力于使上一层中开发的内容和结构尽可能地面向未来。 &lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12341,8 +12341,8 @@
       <tuv lang="en">
         <seg>Layer &lt;t0/&gt;6: &lt;t1/&gt;Preparing for the Future</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T073339Z" creationid="lenovo" creationdate="20200913T042055Z">
-        <seg>第六层级：为未来做准备</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T112209Z" creationid="lenovo" creationdate="20200913T042055Z">
+        <seg>第六层级：为未来做准备&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12373,8 +12373,8 @@
       <tuv lang="en">
         <seg>Layer &lt;t1/&gt;6 &lt;t2/&gt;tasks focus on the characteristics of extensible and iterative from Bailie &lt;t3/&gt;&amp; &lt;t4/&gt;Urbina's content model, which includes “a loop back to analysis for the next cycle” &lt;t5/&gt;(2013, &lt;t6/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T073904Z" creationid="lenovo" creationdate="20200913T045152Z">
-        <seg>第六层任务的重点是拜利和厄比纳内容模型的可扩展性和迭代性，其中包括“循环进入下一生命周期，开始分析阶段”(2013, &lt;t6/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T112313Z" creationid="lenovo" creationdate="20200913T045152Z">
+        <seg>第六层任务的重点是拜利和厄比纳内容模型的可扩展性和迭代性，其中包括“循环进入下一生命周期，开始分析阶段”(2013, &lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12669,8 +12669,8 @@
       <tuv lang="en">
         <seg>LwDITA allows scal&lt;t1/&gt;ability as represented by additional publication channels, new audience and context requirements, and authors from different disciplines and writing tra&lt;t2/&gt;ditions joining the process.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T073438Z" creationid="lenovo" creationdate="20200913T043447Z">
-        <seg>LwDITA的可扩展性表现在可在过程中纳入其他出版渠道、新的受众、情境需求以及来自不同学科和秉持不同写作传统的作者。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T112213Z" creationid="lenovo" creationdate="20200913T043447Z">
+        <seg>LwDITA的可扩展性表现在可在过程中纳入其他出版渠道、新的受众、情境需求以及来自不同学科和秉持不同写作传统的作者。&lt;t1/&gt;&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13453,8 +13453,8 @@
       <tuv lang="en">
         <seg>Nevertheless, the Lightweight DITA subcommittee expects that the expanded audience of LwDITA (which ventures into marketing content and contribu&lt;t0/&gt;tions from subject matter experts, among other groups) will attract a new wave of developers who were not interested in DITA XML.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T075955Z" creationid="lenovo" creationdate="20200913T055621Z">
-        <seg>尽管如此，轻量级DITA小组委员会希望LwDITA的新受众（领域扩展至营销内容，人员扩展至主题专家以及其他组织）将吸引对DITA XML不感兴趣的新一波开发人员。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T112358Z" creationid="lenovo" creationdate="20200913T055621Z">
+        <seg>尽管如此，轻量级DITA小组委员会希望LwDITA的新受众（领域扩展至营销内容，人员扩展至主题专家以及其他组织）将吸引对DITA XML不感兴趣的新一波开发人员。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13469,8 +13469,8 @@
       <tuv lang="en">
         <seg>New audience and context require&lt;t3/&gt;ments can come from expert or novice fountain operators who need different levels of detail on their recipes, or additional settings for the soda fountain with different equipment and ingredients availability.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T111125Z" creationid="lenovo" creationdate="20200913T043734Z">
-        <seg>新受众和情境需求可能来自于冷饮柜台的专家或新手操作员，他们需要食谱提供不同级别的详细信息，或需要对冷饮柜台的不同设备和可用配料进行额外设置。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T112215Z" creationid="lenovo" creationdate="20200913T043734Z">
+        <seg>新受众和情境需求可能来自于冷饮柜台的专家或新手操作员，他们需要食谱提供不同级别的详细信息，或需要对冷饮柜台的不同设备和可用配料进行额外设置。&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13661,8 +13661,8 @@
       <tuv lang="en">
         <seg>Now that the soda fountain has an operator manual that adapts to different locations, reuses warning content among topics regardless of authoring for&lt;t0/&gt;mat, and incorporates the ice cream flavor of the day to all its recipes with a one-line command, it's time to think about the future.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T110732Z" creationid="lenovo" creationdate="20200913T042936Z">
-        <seg>现在，冷饮柜台操作手册可以适应不同地点柜台的需求，无论编写格式如何都可以在主题之间复用警告内容，并且可以通过一行命令将当天的冰淇淋口味纳入所有食谱中，现在该考虑一下未来了。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T112211Z" creationid="lenovo" creationdate="20200913T042936Z">
+        <seg>现在，冷饮柜台操作手册可以适应不同地点柜台的需求，无论编写格式如何都可以在主题之间复用警告内容，并且可以通过一行命令将当天的冰淇淋口味纳入所有食谱中，现在该考虑一下未来了。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14714,8 +14714,8 @@
       <tuv lang="en">
         <seg>Remaking the Future of Technical&lt;t0/&gt; Communication with LwDITA</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T053402Z" creationid="lenovo" creationdate="20200913T053402Z">
-        <seg>使用LwDITA重塑技术传播的未来</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T112350Z" creationid="lenovo" creationdate="20200913T053402Z">
+        <seg>使用LwDITA重塑技术传播的未来&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19671,8 +19671,8 @@
       <tuv lang="en">
         <seg>Their continuous devel&lt;t2/&gt;opment guarantees applicability beyond the lifespan of a specific tool or app release.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T044745Z" creationid="lenovo" creationdate="20200913T044745Z">
-        <seg>它们的不断发展保证了其在特定工具或应用程序发行版生命周期结束后，仍具备适用性。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T112225Z" creationid="lenovo" creationdate="20200913T044745Z">
+        <seg>它们的不断发展保证了其在特定工具或应用程序发行版生命周期结束后，仍具备适用性。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20447,8 +20447,8 @@
       <tuv lang="en">
         <seg>This layer also includes a return to layer &lt;t5/&gt;1 &lt;t6/&gt;for an iterative process of improve&lt;t7/&gt;ment and revision.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T044510Z" creationid="lenovo" creationdate="20200913T044510Z">
-        <seg>该层还包括返回到第一层的迭代改进和修订过程。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T112219Z" creationid="lenovo" creationdate="20200913T044510Z">
+        <seg>该层还包括返回到第一层的迭代改进和修订过程。&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
