@@ -22707,8 +22707,8 @@
       <tuv lang="en">
         <seg>recipe can be its own content type specific characteristics and headings.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T151007Z" creationid="lenovo" creationdate="20200831T140434Z">
-        <seg>可以拥有属于其内容类型特定的特性和标题。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T071202Z" creationid="lenovo" creationdate="20200831T140434Z">
+        <seg>可以拥有属于其特定内容类型的特性和标题。</seg>
       </tuv>
     </tu>
     <tu>
