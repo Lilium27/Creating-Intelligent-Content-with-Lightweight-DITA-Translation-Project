@@ -2955,8 +2955,8 @@
       <tuv lang="en">
         <seg>According to some, writers separating content from presentation “will have no control over the con&lt;t0/&gt;text in which their information appears or the uses to which it may be put” (Gu &lt;t1/&gt;&amp; &lt;t2/&gt;Pullman, &lt;t3/&gt;2009, &lt;t4/&gt;p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T101357Z" creationid="lenovo" creationdate="20200901T134843Z">
-        <seg>一些人认为，将内容与表示分离开来的写作者“将无法控制信息出现的上下文或信息的用途” (Gu &lt;t0/&gt;&lt;t1/&gt;&amp; &lt;t2/&gt;Pullman, &lt;t3/&gt;2009, &lt;t4/&gt;p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T085319Z" creationid="lenovo" creationdate="20200901T134843Z">
+        <seg>一些人认为，将内容与形式分离开来的写作者“将无法控制信息出现的上下文或信息的用途” (Gu &lt;t0/&gt;&lt;t1/&gt;&amp; &lt;t2/&gt;Pullman, &lt;t3/&gt;2009, &lt;t4/&gt;p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11333,8 +11333,8 @@
       <tuv lang="en">
         <seg>In this layer, authors should focus on producing content (text, audio, videos, etc.) and letting the presentation be addressed elsewhere.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T140507Z" creationid="lenovo" creationdate="20200901T134750Z">
-        <seg>在这一层级中，写作者应集中精力产出内容（文本，音频，视频等），让如何表示内容的问题在其他地方解决。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T084834Z" creationid="lenovo" creationdate="20200901T134750Z">
+        <seg>在这一层级中，写作者应集中精力产出内容（文本，音频，视频等），让如何表示内容形式的问题在其他地方解决。</seg>
       </tuv>
     </tu>
     <tu>
