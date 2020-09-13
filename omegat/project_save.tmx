@@ -2985,6 +2985,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Additional publication channels can include those already supported by the DITA-OT or other existing LwDITA-aware software applications (EPUB, mobile web devices, PDF, Microsoft Word, and others) or innovative approaches to user documentation like the conversational patterns for chatbots or agents like an Amazon Echo.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T043630Z" creationid="lenovo" creationdate="20200913T043630Z">
+        <seg>其他发布渠道可以包括DITA-OT或其他现有的支持LwDITA的软件应用程序（EPUB，移动Web设备，PDF，Microsoft Word等）已经支持的发布渠道，或创新型的用户文档，如类似Amazon Echo的聊天机器人或代理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Additionally, Chef Pedro could link the HDITA topics to an external CSS file for formatting.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200807T074953Z">
