@@ -480,8 +480,8 @@
       <tuv lang="en">
         <seg>&lt;t0/&gt;Figure &lt;t1/&gt;8.13&lt;t2/&gt; &lt;t3/&gt;shows the XDITA version of the root beer float recipe.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T022010Z" creationid="lenovo" creationdate="20200902T145915Z">
-        <seg>&lt;t0/&gt;图 &lt;t1/&gt;8.13&lt;t2/&gt; &lt;t3/&gt;展示了XDITA版本的漂浮沙士食谱。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T070840Z" creationid="lenovo" creationdate="20200902T145915Z">
+        <seg>&lt;t0/&gt;图 &lt;t1/&gt;8.13&lt;t2/&gt; &lt;t3/&gt;展示了XDITA版本的冰淇淋球饮品食谱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2291,8 +2291,8 @@
       <tuv lang="en">
         <seg>&lt;t8/&gt;For the milkshake example, let's assume that the soda fountain operator manual will include a few recipes, with the versa&lt;t9/&gt;tile milkshake being one of them, probably featured next to the root beer float and the banana split.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200907T134143Z" creationid="lenovo" creationdate="20200901T123927Z">
-        <seg>&lt;t8/&gt;&lt;t9/&gt;对于奶昔示例而言，让我们假设“冷饮柜台”操作员手册包括一些食谱，通用奶昔食谱就是其中之一，可能就在漂浮沙士和香蕉船甜品旁边。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T070840Z" creationid="lenovo" creationdate="20200901T123927Z">
+        <seg>&lt;t8/&gt;&lt;t9/&gt;对于奶昔示例而言，让我们假设“冷饮柜台”操作员手册包括一些食谱，通用奶昔食谱就是其中之一，可能就在冰淇淋球饮品和香蕉船甜品旁边。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2555,8 +2555,8 @@
       <tuv lang="en">
         <seg>A con&lt;t0/&gt;tent unit can include a whole milkshake or root beer float recipe, but a picture illustrating how to use the mixer and a how-to video for making whipped cream are also content units that need their own row and ID.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T152954Z" creationid="lenovo" creationdate="20200831T135854Z">
-        <seg>一个内容单元可以包括整个奶昔或漂浮沙士食谱，但是说明如何使用搅拌器的图片以及制作鲜奶油的操作视频也是内容单元，它们也需要属于自己的 ID，并占据一行。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T070840Z" creationid="lenovo" creationdate="20200831T135854Z">
+        <seg>一个内容单元可以包括整个奶昔或冰淇淋球饮品食谱，但是说明如何使用搅拌器的图片以及制作鲜奶油的操作视频也是内容单元，它们也需要属于自己的 ID，并占据一行。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6929,8 +6929,8 @@
       <tuv lang="en">
         <seg>FIGURE 8.20 &lt;t0/&gt;HTML5 transformation of the root beer float recipe processed with&lt;t1/&gt; the XDITA map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T030155Z" creationid="lenovo" creationdate="20200913T020823Z">
-        <seg>图 8.20 &lt;t0/&gt;&lt;t1/&gt;XDITA映射转换生成的HTML5格式的冰淇淋蛋筒食谱</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T070840Z" creationid="lenovo" creationdate="20200913T020823Z">
+        <seg>图 8.20 &lt;t0/&gt;&lt;t1/&gt;XDITA映射转换生成的HTML5格式的冰淇淋球饮品食谱</seg>
       </tuv>
     </tu>
     <tu>
@@ -7731,16 +7731,16 @@
       <tuv lang="en">
         <seg>Figure &lt;t0/&gt;8.14&lt;t1/&gt; &lt;t2/&gt;shows the root beer float recipe in HDITA syntax.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T022029Z" creationid="lenovo" creationdate="20200902T145921Z">
-        <seg>图 &lt;t0/&gt;8.14&lt;t1/&gt; &lt;t2/&gt;展示了HDITA版本的漂浮沙士食谱。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T070840Z" creationid="lenovo" creationdate="20200902T145921Z">
+        <seg>图 &lt;t0/&gt;8.14&lt;t1/&gt; &lt;t2/&gt;展示了HDITA版本的冰淇淋球饮品食谱。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Figure &lt;t0/&gt;8.15&lt;t1/&gt; &lt;t2/&gt;shows the root beer float recipe in MDITA extended profile syn&lt;t3/&gt;tax.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T022051Z" creationid="lenovo" creationdate="20200902T150112Z">
-        <seg>图 &lt;t0/&gt;8.15&lt;t1/&gt; &lt;t2/&gt;&lt;t3/&gt;&gt;展示了MDITA版本的漂浮沙士食谱。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T070840Z" creationid="lenovo" creationdate="20200902T150112Z">
+        <seg>图 &lt;t0/&gt;8.15&lt;t1/&gt; &lt;t2/&gt;&lt;t3/&gt;&gt;展示了MDITA版本的冰淇淋球饮品食谱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19903,8 +19903,8 @@
       <tuv lang="en">
         <seg>These deliverables are not ready for the intended users of the soda fountain manual.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T023124Z" creationid="lenovo" creationdate="20200913T023124Z">
-        <seg>这些交付物尚未准备好供给冰淇淋蛋筒手册的目标用户使用。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T070840Z" creationid="lenovo" creationdate="20200913T023124Z">
+        <seg>这些交付物尚未准备好供给冰淇淋球饮品手册的目标用户使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20935,8 +20935,8 @@
       <tuv lang="en">
         <seg>To continue with the example, let's look at the root beer float recipe, which is one of the many target topics that link to the warning note from the milkshake recipe.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T021916Z" creationid="lenovo" creationdate="20200902T145854Z">
-        <seg>继续研究该示例，让我们看一下漂浮沙士食谱，它是链接到奶昔食谱中警告提示的众多目标主题之一。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T070840Z" creationid="lenovo" creationdate="20200902T145854Z">
+        <seg>继续研究该示例，让我们看一下冰淇淋球饮品食谱，它是链接到奶昔食谱中警告提示的众多目标主题之一。 </seg>
       </tuv>
     </tu>
     <tu>
