@@ -3241,6 +3241,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All our work is open to the public and we depend on feedback.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T120953Z" creationid="lenovo" creationdate="20200913T120953Z">
+        <seg>我们所有的工作都向公众开放，我们依靠反馈取得进步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All their topics are treated as DITA and can take advantage of the standard's reuse, filtering, and single-sourcing capabilities.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200817T043124Z">
@@ -4893,6 +4901,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T112418Z" creationid="lenovo" creationdate="20200913T060303Z">
         <seg>在轻量级DITA小组委员会联合主席和技术传播教授这两个角色之间的桥梁是我作为墨西哥裔美国人研究员的身份，他是通过计算机科学进入内容开发的学术领域的。&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bring your voice and interests to the process of producing information standards.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T121157Z" creationid="lenovo" creationdate="20200913T121157Z">
+        <seg>在制定信息标准的过程中表达您的意见和兴趣。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9721,6 +9737,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the feedback only comes from industry, the fault lines get deeper.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T121022Z" creationid="lenovo" creationdate="20200913T121022Z">
+        <seg>如果反馈仅来自行业，则断层线只会越来越深。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the intended deliverable is exclusively for the opera&lt;t2/&gt;tors working at the food truck setting of the soda fountain, then the filter</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T030200Z" creationid="lenovo" creationdate="20200913T023607Z">
@@ -9861,6 +9885,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T120646Z" creationid="lenovo" creationdate="20200913T120646Z">
         <seg>如果您是开发人员，无论是开源程序或商业程序，请帮助轻量级DITA小组委员会创建工具以降低采用拟议标准的障碍。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you are in academia, develop a plan for teaching and practicing content strategy, experiment with the available LwDITA tools, and participate in public reviews of materials produced by the Lightweight DITA subcommittee&lt;t0/&gt;1&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T120933Z" creationid="lenovo" creationdate="20200913T120933Z">
+        <seg>如果您是学术界人士，请制定教学计划和实践内容策略计划，尝试使用可用的LwDITA工具，并参加对轻量级DITA小组委员会&lt;t0/&gt;1&lt;t1/&gt;制作的材料进公众审查。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14724,6 +14756,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200809T132707Z" creationid="DSS" creationdate="20200809T132707Z">
         <seg>相反，会有一份奶昔食谱教你用冰淇淋、牛奶和你所选择的那款水果制作奶昔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reach out to the Lightweight DITA subcommittee at OASIS.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T120848Z" creationid="lenovo" creationdate="20200913T120848Z">
+        <seg>帮助OASIS的轻量级DITA小组委员会。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21660,6 +21700,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T120745Z" creationid="lenovo" creationdate="20200913T120745Z">
         <seg>我们需要在XDITA，HDITA和MDITA的协助下完成创作、处理、迁移和自动化内容的应用程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We need tools to make the process of producing intelligent content with LwDITA as simple as possible.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T120809Z" creationid="lenovo" creationdate="20200913T120809Z">
+        <seg>我们需要工具来简化使用LwDITA生成智能内容的过程。 </seg>
       </tuv>
     </tu>
     <tu>
