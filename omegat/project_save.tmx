@@ -5462,16 +5462,16 @@
       <tuv lang="en">
         <seg>Content references added to LwDITA topics in layer &lt;t0/&gt;4</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153229Z" creationid="lenovo" creationdate="20200902T155813Z">
-        <seg>在第4层中将内容引用添加到LwDITA主题&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T103343Z" creationid="lenovo" creationdate="20200902T155813Z">
+        <seg>第四层级中添加到LwDITA主题的引用内容&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Content strategy rules developed in layer &lt;t0/&gt;1</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153227Z" creationid="lenovo" creationdate="20200902T155730Z">
-        <seg>在第1层中开发的内容策略规则&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T103130Z" creationid="lenovo" creationdate="20200902T155730Z">
+        <seg>第一层级中开发的内容策略规则&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5502,8 +5502,8 @@
       <tuv lang="en">
         <seg>Context filters added to LwDITA topics in layer &lt;t0/&gt;3</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153228Z" creationid="lenovo" creationdate="20200902T155758Z">
-        <seg>在第3层中向LwDITA主题添加了上下文过滤器&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T103239Z" creationid="lenovo" creationdate="20200902T155758Z">
+        <seg>第三层级中向LwDITA主题添加的上下文过滤器&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12797,8 +12797,8 @@
       <tuv lang="en">
         <seg>LwDITA topics authored in layer &lt;t0/&gt;2</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153228Z" creationid="lenovo" creationdate="20200902T155741Z">
-        <seg>第2层中创作的LwDITA主题&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T103138Z" creationid="lenovo" creationdate="20200902T155741Z">
+        <seg>第二层级中创作的LwDITA主题&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18559,8 +18559,8 @@
       <tuv lang="en">
         <seg>The processing layer needs the files that we have created in previous layers of abstraction, which should include the following:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T155721Z" creationid="lenovo" creationdate="20200902T155721Z">
-        <seg>处理层需要我们在先前的抽象层中创建的文件，其中应包括以下内容：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T103115Z" creationid="lenovo" creationdate="20200902T155721Z">
+        <seg>处理层需要我们在先前的抽象层级中创建的文件，其中应包括以下内容：</seg>
       </tuv>
     </tu>
     <tu>
@@ -18815,8 +18815,8 @@
       <tuv lang="en">
         <seg>The same results can be achieved with many DITA-aware programs (open source and commercial) with a graphical user inter&lt;t4/&gt;face, and I will also show how to process the milkshake example in Oxygen XML.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153227Z" creationid="lenovo" creationdate="20200902T155710Z">
-        <seg>使用具有图形用户界面的许多DITA感知程序（开放源代码和商业程序）可以实现相同的结果，并且我还将展示如何在Oxygen XML中处理奶昔示例。&lt;t4/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T103104Z" creationid="lenovo" creationdate="20200902T155710Z">
+        <seg>使用支持DITA的具有图形用户界面的程序（包括开源程序和商业程序）也可以实现相同的结果，并且我还将展示如何在Oxygen XML中处理奶昔示例。&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
