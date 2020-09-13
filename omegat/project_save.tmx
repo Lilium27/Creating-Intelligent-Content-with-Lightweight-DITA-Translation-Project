@@ -3179,8 +3179,8 @@
       <tuv lang="en">
         <seg>After saving the &lt;t0/&gt;fountain.ditamap&lt;t1/&gt; with the new ice cream flavor, you can run the same DITA-OT command from &lt;t2/&gt;Figure 8.18&lt;t3/&gt; without any changes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T030158Z" creationid="lenovo" creationdate="20200913T022744Z">
-        <seg>在用新的冰淇淋口味保存了&lt;t0/&gt;fountain.ditamap&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;之后，您可以运行图8.18中相同的DITA-OT命令，而无需进行任何更改。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T075041Z" creationid="lenovo" creationdate="20200913T022744Z">
+        <seg>在用新的冰淇淋口味保存了&lt;t0/&gt;fountain.ditamap&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;之后，你可以运行图8.18中相同的DITA-OT命令，而无需进行任何更改。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7811,8 +7811,8 @@
       <tuv lang="en">
         <seg>Focus on the abstractions from &lt;t0/&gt;Chapter 8&lt;t1/&gt; and develop a strategy that works for your content requirements.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T065328Z" creationid="lenovo" creationdate="20200913T054657Z">
-        <seg>专注于第八章中的抽象概念，并制定适合您的内容要求的策略。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T075041Z" creationid="lenovo" creationdate="20200913T054657Z">
+        <seg>专注于第八章中的抽象概念，并制定适合你的内容要求的策略。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9779,8 +9779,8 @@
       <tuv lang="en">
         <seg>If you and your team are comfortable work&lt;t6/&gt;ing in HTML and do not want to explore alternatives, you can use HDITA and ignore everything else.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T053927Z" creationid="lenovo" creationdate="20200913T053927Z">
-        <seg>如果您和您的团队对使用HTML感到满意，并且不想探索替代方法，则可以使用HDITA并忽略其他所有内容。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T075041Z" creationid="lenovo" creationdate="20200913T053927Z">
+        <seg>如果你和你的团队对使用HTML感到满意，并且不想探索替代方法，则可以使用HDITA并忽略其他所有内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18695,8 +18695,8 @@
       <tuv lang="en">
         <seg>The resulting HTML files will appear automatically in the DITA-OT &lt;t21/&gt;out &lt;t22/&gt;folder, although you can specify an alternative folder in the build command with the &lt;t23/&gt;--&lt;t24/&gt;output &lt;t25/&gt;option.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T123116Z" creationid="lenovo" creationdate="20200912T095829Z">
-        <seg>生成的HTML文件将自动出现在DITA-OT 的&lt;t21/&gt;out &lt;t22/&gt;文件夹中，尽管您可以使用&lt;t23/&gt;--&lt;t24/&gt;output &lt;t25/&gt;选项在build命令中指定另一个文件夹。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T075041Z" creationid="lenovo" creationdate="20200912T095829Z">
+        <seg>生成的HTML文件将自动出现在DITA-OT 的&lt;t21/&gt;out &lt;t22/&gt;文件夹中，尽管你可以使用&lt;t23/&gt;--&lt;t24/&gt;output &lt;t25/&gt;选项在build命令中指定另一个文件夹。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21007,8 +21007,8 @@
       <tuv lang="en">
         <seg>To generate the web version of the soda fountain operator manual, you would need to enter the command shown on &lt;t0/&gt;Figure &lt;t1/&gt;8.18&lt;t2/&gt; &lt;t3/&gt;on a command-line environment &lt;t4/&gt;inside the directory or folder where you installed the DITA-OT&lt;t5/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153421Z" creationid="lenovo" creationdate="20200902T160205Z">
-        <seg>要生成网络版本的“汽水喷泉”操作员手册，您需要在安装DITA-OT的目录或文件夹内的命令行环境中输入图8.18所示的命令。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T075041Z" creationid="lenovo" creationdate="20200902T160205Z">
+        <seg>要生成网络版本的“汽水喷泉”操作员手册，你需要在安装DITA-OT的目录或文件夹内的命令行环境中输入图8.18所示的命令。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21298,8 +21298,8 @@
       <tuv lang="en">
         <seg>Unless your content consists of little stubs of topics about pasta sauce recipes, sushi restaurants, or ice cream-based treats, all the content samples in this book were my examples.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T074114Z" creationid="lenovo" creationdate="20200913T053805Z">
-        <seg>除非你的内容不包含有关通心粉酱食谱，寿司店或冰淇淋点心的主题，否则本书中的所有内容示例都是我的示例。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T075310Z" creationid="lenovo" creationdate="20200913T053805Z">
+        <seg>如果你的内容包含通心粉酱食谱、寿司店或冰淇淋点心以外的主题，那就需要自己编写。本书中的所有内容示例都是我编写的示例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21594,8 +21594,8 @@
       <tuv lang="en">
         <seg>What is in it for You?</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T055800Z" creationid="lenovo" creationdate="20200913T055800Z">
-        <seg>它对您有什么作用？</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T075041Z" creationid="lenovo" creationdate="20200913T055800Z">
+        <seg>它对你有什么作用？</seg>
       </tuv>
     </tu>
     <tu>
@@ -22387,8 +22387,8 @@
       <tuv lang="en">
         <seg>You should also replace the &lt;t3/&gt;path-to-file&lt;t4/&gt; placeholders with the actual locations of the &lt;t5/&gt;fountain.ditamap&lt;t6/&gt; and &lt;t7/&gt;setting.ditaval&lt;t8/&gt; files in your computer.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T030407Z" creationid="lenovo" creationdate="20200913T025143Z">
-        <seg>您还应该用计算机中 &lt;t5/&gt;fountain.ditamap&lt;t6/&gt; 和 &lt;t7/&gt;setting.ditaval&lt;t8/&gt;文件的实际位置替换path-to-file占位符。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T075041Z" creationid="lenovo" creationdate="20200913T025143Z">
+        <seg>你还应该用计算机中 &lt;t5/&gt;fountain.ditamap&lt;t6/&gt; 和 &lt;t7/&gt;setting.ditaval&lt;t8/&gt;文件的实际位置替换path-to-file占位符。</seg>
       </tuv>
     </tu>
     <tu>
