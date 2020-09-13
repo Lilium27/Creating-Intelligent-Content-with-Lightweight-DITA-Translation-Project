@@ -8714,8 +8714,8 @@
       <tuv lang="en">
         <seg>However, the cross-reference component in LwDITA also enables one of DITA's strongest content reuse features: the content reference &lt;t5/&gt;- &lt;t6/&gt;or &lt;t7/&gt;conref&lt;t8/&gt; for short.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153153Z" creationid="lenovo" creationdate="20200902T132828Z">
-        <seg>但是，LwDITA中的交叉引用组件还启用了DITA最强大的内容复用功能之一：内容引用或简称conref。&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T013906Z" creationid="lenovo" creationdate="20200902T132828Z">
+        <seg>但是，LwDITA中的交叉引用组件还启用了DITA最强大的内容复用功能之一：内容引用（content reference）或简称&lt;t7/&gt;conref&lt;t8/&gt;。&lt;t5/&gt;&lt;t6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11868,8 +11868,8 @@
       <tuv lang="en">
         <seg>Layer &lt;t0/&gt;2 &lt;t1/&gt;introduced the key reference attribute as a placeholder for content reuse.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153153Z" creationid="lenovo" creationdate="20200902T132843Z">
-        <seg>第2层引入了关键引用属性作为内容复用的占位符。&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T014223Z" creationid="lenovo" creationdate="20200902T132843Z">
+        <seg>第二层级引入了引用键属性作为复用内容的占位符。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
