@@ -9281,6 +9281,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I have met many users who simply cannot be trusted to be in environments that do not enforce struc&lt;t0/&gt;ture in sections or paragraphs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T114928Z" creationid="lenovo" creationdate="20200913T114928Z">
+        <seg>我遇到了许多用户，他们在不强制保持节或段落中的结构的环境下无法有效产出。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I have never yet used one that provided the explanation that I needed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200810T002810Z" creationid="lenovo" creationdate="20200810T002810Z">
@@ -9837,6 +9845,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T152742Z" creationid="DSS" creationdate="20200817T090400Z">
         <seg>如果相比 LwDITA 的历史，你对工作流和内容写作的建议更感兴趣，那么本章详细描述了结构化信息标准推进组织里的 DITA 技术委员会和轻量级 DITA 小组委员会中的成员都做了什么，包括许多不为人知的细节。&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you are one of those managers or IT professionals, read the sentence about not expecting miracles.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T114520Z" creationid="lenovo" creationdate="20200913T114520Z">
+        <seg>如果您是经理或IT专业人员之一，请阅读那句不要期待奇迹发生的句子。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14680,6 +14696,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Read it a couple of times just to be sure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T114538Z" creationid="lenovo" creationdate="20200913T114538Z">
+        <seg>为了确定这一点，请多阅读几次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Rebekka Andersen, Tim Lockridge,</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200819T155002Z" creationid="DSS" creationdate="20200819T155002Z">
@@ -15948,6 +15972,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200912T111036Z" creationid="lenovo" creationdate="20200901T142744Z">
         <seg>以食谱为例，让我们为冷饮柜台指定一个正式的市区位置，以及一个移动餐车。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Talk to your manager or IT department after exploring the LwDITA authoring formats.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T114407Z" creationid="lenovo" creationdate="20200913T114407Z">
+        <seg>探索LwDITA创作格式后，请与你的经理或IT部门联系。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19769,6 +19801,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T061917Z" creationid="DSS" creationdate="20200808T080614Z">
         <seg>然后当这些层级被重新组合时，它们可以共同作用来解决问题，其过程可以用一个可重复使用的算法来表示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Then, determine if your users and processes can function in LwDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T114555Z" creationid="lenovo" creationdate="20200913T114555Z">
+        <seg>然后，确定您的用户和进程是否可以在LwDITA中运行。</seg>
       </tuv>
     </tu>
     <tu>
