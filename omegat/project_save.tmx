@@ -6839,6 +6839,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE 8.25 &lt;t0/&gt;Filtered web deliverable of the milkshake recipe that excludes all&lt;t1/&gt; references to the “downtown” setting.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T030633Z" creationid="lenovo" creationdate="20200913T030633Z">
+        <seg>图 8.25 &lt;t0/&gt;过滤后的网页版奶昔配方，当中排除了所有对“市区”设置的引用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE 8.3 &lt;t0/&gt;HDITA version of the milkshake recipe as seen on a web browser.&lt;t1/&gt; Note that the ingredient for a pint of ice cream does not have a flavor attached to it, which will come in a more advanced layer when the topic is processed through a LwDITA-aware software application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T123555Z" creationid="lenovo" creationdate="20200901T132346Z">
@@ -9477,6 +9485,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T152908Z" creationid="lenovo" creationdate="20200826T153703Z">
         <seg>如果促销宣传手册是真正可交付的，佩德罗就不需要为同一主题创建三个版本。&lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the setting needs to change, you only need to update the DITAVAL and process again with the same DITA-OT one-line command or applying the transformation scenario in Oxygen.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T031104Z" creationid="lenovo" creationdate="20200913T031104Z">
+        <seg>如果需要更改设置，则只需更新DITAVAL并使用相同的DITA-OT单行命令或在Oxygen中应用转换选项再次进行处理。</seg>
       </tuv>
     </tu>
     <tu>
