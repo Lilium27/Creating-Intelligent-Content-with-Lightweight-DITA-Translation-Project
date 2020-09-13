@@ -7458,16 +7458,16 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;8.13 &lt;t1/&gt;XDITA version of the root beer float recipe with a content reference.&lt;t2/&gt; The conref links to the source note in the milkshake recipe.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T091828Z" creationid="lenovo" creationdate="20200902T151602Z">
-        <seg>图 &lt;t0/&gt;8.13 &lt;t1/&gt;XDITA版本带内容参考的冰淇淋球饮品食谱&lt;t2/&gt;conref链接到奶昔食谱中的源说明。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T092110Z" creationid="lenovo" creationdate="20200902T151602Z">
+        <seg>图 &lt;t0/&gt;8.13 &lt;t1/&gt;包含内容引用的XDITA版本的冰淇淋球饮品食谱。&lt;t2/&gt;conref链接到奶昔食谱中的提示。 </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;8.14 &lt;t1/&gt;HDITA version of the root beer float recipe with a content reference.&lt;t2/&gt; The conref links to the source note in the milkshake recipe.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T024921Z" creationid="lenovo" creationdate="20200902T151035Z">
-        <seg>图 &lt;t0/&gt;8.14 &lt;t1/&gt;&lt;t2/&gt; HDITA版本带内容参考的冰淇凌蛋筒浮法食谱。conref链接到奶昔食谱中的源说明。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T092008Z" creationid="lenovo" creationdate="20200902T151035Z">
+        <seg>图 &lt;t0/&gt;8.14 &lt;t1/&gt;&lt;t2/&gt; HDITA版本带内容引用的冰淇淋球饮品食谱。conref链接到奶昔食谱中的源说明。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7602,8 +7602,8 @@
       <tuv lang="en">
         <seg>Figure 8.20 &lt;t0/&gt;shows the resulting web version of the root beer float topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T020206Z" creationid="lenovo" creationdate="20200913T020206Z">
-        <seg>图 8.20 &lt;t0/&gt;显示了冰淇凌蛋筒主题的最终网页版本。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T091851Z" creationid="lenovo" creationdate="20200913T020206Z">
+        <seg>图 8.20 &lt;t0/&gt;显示了冰淇淋球饮品主题的最终网页版本。</seg>
       </tuv>
     </tu>
     <tu>
