@@ -19671,8 +19671,8 @@
       <tuv lang="en">
         <seg>Then, as the layers are recombined, they work together to solve the problem in a process that can be represented as a replicable algorithm.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T120114Z" creationid="DSS" creationdate="20200808T080614Z">
-        <seg>然后当这些层级被重新组合时，它们可以共同作用来解决问题，其过程可以用一个算法来表示。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T061917Z" creationid="DSS" creationdate="20200808T080614Z">
+        <seg>然后当这些层级被重新组合时，它们可以共同作用来解决问题，其过程可以用一个可重复使用的算法来表示。</seg>
       </tuv>
     </tu>
     <tu>
