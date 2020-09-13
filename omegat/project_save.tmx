@@ -9801,6 +9801,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you are</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T113956Z" creationid="lenovo" creationdate="20200913T113940Z">
+        <seg>如果你有</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you are a current DITA user, you should not panic and start a migra&lt;t0/&gt;tion process to convert all your topics to LwDITA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T113919Z" creationid="lenovo" creationdate="20200913T113919Z">
+        <seg>如果你目前是DITA用户，则不要惊慌失措开始内容迁移，以将所有主题转换为LwDITA。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you are more interested in workflows and recommendations for producing content than in LwDITA history, this chapter may feel like “inside baseball” accounts of who did what in the DITA technical committee and the Lightweight DITA subcom&lt;t1/&gt;mittee with the Organization for the Advancement of Structured Information Standards.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T152742Z" creationid="DSS" creationdate="20200817T090400Z">
@@ -16554,6 +16570,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The DITA standard is not going away, and LwDITA does not have the purpose of replacing it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T113935Z" creationid="lenovo" creationdate="20200913T113935Z">
+        <seg>DITA标准不会消失，LwDITA并没有取代它的目的。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The DITA-OT automatically generated a navigation menu (&lt;t0/&gt;figure &lt;t1/&gt;1.7)&lt;t2/&gt; &lt;t3/&gt;and took care of basic layout.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T150401Z" creationid="DSS" creationdate="20200726T073006Z">
@@ -22421,6 +22445,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T074350Z" creationid="lenovo" creationdate="20200913T053427Z">
         <seg>你的内容现已智能化！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>adventurous and have some time for experiments, you should give LwDITA a try and discuss your findings with your manager or IT department.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T114023Z" creationid="lenovo" creationdate="20200913T113952Z">
+        <seg>冒险精神并且有一些时间可以进行实验，那你应该尝试一下LwDITA，与经理或IT部门讨论你的发现。</seg>
       </tuv>
     </tu>
     <tu>
