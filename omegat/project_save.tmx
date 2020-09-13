@@ -6768,8 +6768,8 @@
       <tuv lang="en">
         <seg>FIGURE 8.18 &lt;t0/&gt;Command for the DITA-OT to generate a web deliverable from the&lt;t1/&gt; soda fountain operator's manual XDITA map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T015834Z" creationid="lenovo" creationdate="20200913T015834Z">
-        <seg>图 8.18 &lt;t0/&gt;利用DITA-OT从冷饮柜台操作手册的XDITA映射生成网页版交付所需的命令。
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T015848Z" creationid="lenovo" creationdate="20200913T015834Z">
+        <seg>图 8.18 &lt;t0/&gt;利用DITA-OT从冷饮柜台操作手册的XDITA映射生成网页版交付所需输入的命令。
 &lt;64/73/80% &gt;</seg>
       </tuv>
     </tu>
@@ -7380,6 +7380,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090140Z" creationid="lenovo" creationdate="20200827T141437Z">
         <seg>图 6.62&lt;t0/&gt; 展示了用于创建&lt;t1/&gt;Sensei Sushi&lt;t2/&gt;介绍手册的HDITA版本的跨格式映射。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure 8.20 &lt;t0/&gt;shows the resulting web version of the root beer float topic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T020206Z" creationid="lenovo" creationdate="20200913T020206Z">
+        <seg>图 8.20 &lt;t0/&gt;显示了冰淇凌蛋筒主题的最终网页版本。</seg>
       </tuv>
     </tu>
     <tu>
