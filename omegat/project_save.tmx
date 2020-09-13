@@ -3769,6 +3769,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>And we all have heard of companies of all sizes that have decades of content production stored in Microsoft Word or, even worse, PowerPoint files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T115025Z" creationid="lenovo" creationdate="20200913T115025Z">
+        <seg>我们听说过各种规模的公司，这些公司在Microsoft Word或PowerPoint文件中存储了数十年的内容。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>And what has techcomm poured resources into?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T125911Z" creationid="DSS" creationdate="20200726T152834Z">
@@ -5432,6 +5440,14 @@
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T155511Z" creationid="DSS" creationdate="20200724T155511Z">
         <seg>内容组件是信息产品的构建块。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Content conversion of hundreds of unstructured files will be busy work even if the new format is a LwDITA flavor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T115059Z" creationid="lenovo" creationdate="20200913T115059Z">
+        <seg>即使新格式具有LwDITA风格，数百个非结构化文件的内容转换也是项繁忙的工作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9841,6 +9857,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you are a developer, open source or commercial, please help the Lightweight DITA subcommittee create tools to lower the barrier for adoption of the proposed standard.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T120646Z" creationid="lenovo" creationdate="20200913T120646Z">
+        <seg>如果您是开发人员，无论是开源程序或商业程序，请帮助轻量级DITA小组委员会创建工具以降低采用拟议标准的障碍。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you are more interested in workflows and recommendations for producing content than in LwDITA history, this chapter may feel like “inside baseball” accounts of who did what in the DITA technical committee and the Lightweight DITA subcom&lt;t1/&gt;mittee with the Organization for the Advancement of Structured Information Standards.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T152742Z" creationid="DSS" creationdate="20200817T090400Z">
@@ -11031,6 +11055,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131435Z" creationid="DSS" creationdate="20200812T142527Z">
         <seg>在某些情况下，LwDITA 作者无法控制内容所有的使用和复用情境，但修辞效果应该对智能内容工作流中的规划、写作和评估阶段有着振奋人心的价值。&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In some of those cases, the relaxed structure of LwDITA could create new problems.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T114957Z" creationid="lenovo" creationdate="20200913T114957Z">
+        <seg>在某些情况下，LwDITA的松散结构可能会带来新的问题。</seg>
       </tuv>
     </tu>
     <tu>
