@@ -22571,8 +22571,8 @@
       <tuv lang="en">
         <seg>following: “caution”, “warning”, “danger”, “trouble”, “notice,” or “note”.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T155512Z" creationid="lenovo" creationdate="20200819T140816Z">
-        <seg>“提示（caution）”、“警告（warning）”、“危险（danger）”、“问题（trouble）”、“提示（notice）”或“注释（note）”。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T083915Z" creationid="lenovo" creationdate="20200819T140816Z">
+        <seg>“提醒（caution）”、“警告（warning）”、“危险（danger）”、“问题（trouble）”、“注意（notice）”或“提示（note）”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22851,8 +22851,8 @@
       <tuv lang="en">
         <seg>the following: “caution”, “warning”, “danger”, “trouble”, “notice,” or “note”.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200825T160431Z" creationid="DSS" creationdate="20200825T160431Z">
-        <seg>“提示（caution）”、“警告（warning）”、“危险（danger）”、“问题（trouble）”、“提示（notice）”或“注释（note）”。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T084144Z" creationid="DSS" creationdate="20200825T160431Z">
+        <seg>“提醒（caution）”、“警告（warning）”、“危险（danger）”、“问题（trouble）”、“注意（notice）”或“提示（note）”。。</seg>
       </tuv>
     </tu>
     <tu>
