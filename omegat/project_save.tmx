@@ -6823,6 +6823,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE 8.23 &lt;t0/&gt;DITAVAL file that excludes all references to the “downtown” setting&lt;t1/&gt; when processing the map and topics.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T024904Z" creationid="lenovo" creationdate="20200913T024904Z">
+        <seg>图 8.23 &lt;t0/&gt;DITAVAL文件在处理映射和主题时排除了所有对“downtown”设置的引用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE 8.3 &lt;t0/&gt;HDITA version of the milkshake recipe as seen on a web browser.&lt;t1/&gt; Note that the ingredient for a pint of ice cream does not have a flavor attached to it, which will come in a more advanced layer when the topic is processed through a LwDITA-aware software application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T123555Z" creationid="lenovo" creationdate="20200901T132346Z">
@@ -17749,6 +17757,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The marriage of the XDITA map with the DITAVAL in the DITA-OT takes place in the same one-line command but adding an option to indicate the filter loca&lt;t0/&gt;tion (&lt;t1/&gt;Figure 8.24&lt;t2/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T025057Z" creationid="lenovo" creationdate="20200913T025057Z">
+        <seg>XDITA映射与DITA-OT中的DITAVAL的结合是在同一条单行命令中进行的，但是添加了一个选项来指示过滤器的位置（图8.24）。  (&lt;t1/&gt;图 8.24&lt;t2/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The metadata and rules included in topics, phrases, and maps preserve the rhetorical effectiveness of intelligent content repositories.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T090331Z" creationid="lenovo" creationdate="20200901T142356Z">
@@ -18881,6 +18897,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130934Z" creationid="lenovo" creationdate="20200811T075510Z">
         <seg>《技术传播》杂志《技术评论》专栏在2001年发表的一篇的文章中细致地记载了DQTI指导方针转化为DITA元素的过程。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The two lines of code between the &lt;val&gt; and &lt;/val&gt; tags reference the variables in XDITA and HDITA/MDITA extended profile syntaxes, respectively.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T024933Z" creationid="lenovo" creationdate="20200913T024933Z">
+        <seg>&lt;val&gt;和&lt;/val&gt;标签之间的两行代码分别引用了XDITA和HDITA/MDITA扩展概要文件语法中的变量。</seg>
       </tuv>
     </tu>
     <tu>
