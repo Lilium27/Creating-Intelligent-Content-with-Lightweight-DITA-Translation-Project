@@ -1179,8 +1179,8 @@
       <tuv lang="en">
         <seg>&lt;t2/&gt;The sample milkshake topics that have been evolving in previous layers must be collected in a map in order to produce deliverables for their intended human and algorithmic audiences (see</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T151012Z" creationid="lenovo" creationdate="20200902T151012Z">
-        <seg>&lt;t2/&gt;必须将先前各层中不断演化的奶昔示例主题收集在映射中，才能为其预期的人类和算法受众提供可交付成果 (see</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T091355Z" creationid="lenovo" creationdate="20200902T151012Z">
+        <seg>&lt;t2/&gt;必须将先前面各层中不断演化的奶昔示例主题聚合在映射中，才能为人类和算法目标受众提供可交付成果 (see</seg>
       </tuv>
     </tu>
     <tu>
@@ -7450,8 +7450,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;8.12 &lt;t1/&gt;Milkshake recipe in MDITA extended profile syntax with the note&lt;t2/&gt; component.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T023348Z" creationid="lenovo" creationdate="20200902T151111Z">
-        <seg>图 &lt;t0/&gt;8.12 &lt;t1/&gt;&lt;t2/&gt;MDITA扩展配置文件语法下带提示组件的奶昔食谱。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T091457Z" creationid="lenovo" creationdate="20200902T151111Z">
+        <seg>图 &lt;t0/&gt;8.12 &lt;t1/&gt;&lt;t2/&gt;基于MDITA扩展概要语法，包含提示组件的奶昔食谱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8381,6 +8381,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131451Z" creationid="DSS" creationdate="20200813T130004Z">
         <seg>此外，经过修订的抽象层级与本章介绍的内容开发生命周期中的特定阶段，以及评估学生计算机思维能力的ISTE标准息息相关。 &lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gallagher, &lt;t0/&gt;2017).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T091403Z" creationid="DSS" creationdate="20200913T091403Z">
+        <seg>Gallagher, &lt;t0/&gt;2017)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12765,8 +12773,8 @@
       <tuv lang="en">
         <seg>LwDITA maps are essential for some mental abstractions that take place in layer &lt;t1/&gt;4.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153201Z" creationid="lenovo" creationdate="20200902T150844Z">
-        <seg>LwDITA映射对于第4层中某些抽象思维至关重要。&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T091302Z" creationid="lenovo" creationdate="20200902T150844Z">
+        <seg>LwDITA映射对于第四层级中某些抽象思维至关重要。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
