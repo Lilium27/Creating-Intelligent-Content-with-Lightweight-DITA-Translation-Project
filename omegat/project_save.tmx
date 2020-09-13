@@ -3843,8 +3843,8 @@
       <tuv lang="en">
         <seg>Any LwDITA topics referenced in this map will inherit that key definition in layer 5, and all elements with a placeholder for &lt;t6/&gt;“icecream-flavor”&lt;t7/&gt; will display the key of, in this example, strawberry.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153216Z" creationid="lenovo" creationdate="20200902T153840Z">
-        <seg>此映射中引用的所有LwDITA主题都将继承第5层中的键定义，并且在此示例中，带有占位符“ icecream-flavor”的所有元素都将显示草莓。&lt;t6/&gt;&lt;t7/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T100633Z" creationid="lenovo" creationdate="20200902T153840Z">
+        <seg>此映射中引用的所有LwDITA主题都将继承第五层级中的定义键，并且在此示例中，带有占位符&lt;t6/&gt;“icecream-flavor”&lt;t7/&gt;的所有元素都将显示草莓。&lt;t6/&gt;&lt;t7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9771,8 +9771,8 @@
       <tuv lang="en">
         <seg>If vanilla is the flavor of the day tomorrow, the author only needs to change that in the map key reference, and all the topics referenced will be updated automatically when the collection is processed in layer 5.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T084627Z" creationid="lenovo" creationdate="20200902T153919Z">
-        <seg>如果明天的口味是香草，那么作者只需在map引用键中进行更改即可，并且在第五层中处理集合时，所有引用的主题都将自动更新。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T100939Z" creationid="lenovo" creationdate="20200902T153919Z">
+        <seg>如果明天的口味是香草，那么作者只需对映射中的定义键进行更改，并且在第五层级中处理主题集合时，所有引用的主题都将自动更新。</seg>
       </tuv>
     </tu>
     <tu>
