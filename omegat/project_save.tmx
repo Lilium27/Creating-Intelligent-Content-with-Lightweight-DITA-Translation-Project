@@ -6985,8 +6985,8 @@
       <tuv lang="en">
         <seg>FIGURE 8.24 &lt;t0/&gt;Command for the DITA-OT to generate a web deliverable from&lt;t1/&gt; the soda fountain operator's manual XDITA map that excludes references to the “downtown” location.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T030414Z" creationid="lenovo" creationdate="20200913T030414Z">
-        <seg>图 8.24 &lt;t0/&gt;利用DITA-OT从冷饮柜台操作手册的XDITA映射生成网页版交付物的命令，该映射排除了对“市区”位置的引用。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T110139Z" creationid="lenovo" creationdate="20200913T030414Z">
+        <seg>图 8.24 &lt;t0/&gt;利用DITA-OT从冷饮柜台操作员手册的XDITA映射生成网页版交付物的命令，该映射排除了对“市区”位置的引用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9715,8 +9715,8 @@
       <tuv lang="en">
         <seg>If the setting needs to change, you only need to update the DITAVAL and process again with the same DITA-OT one-line command or applying the transformation scenario in Oxygen.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T031104Z" creationid="lenovo" creationdate="20200913T031104Z">
-        <seg>如果需要更改设置，则只需更新DITAVAL并使用相同的DITA-OT单行命令或在Oxygen中应用转换选项再次进行处理。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T110204Z" creationid="lenovo" creationdate="20200913T031104Z">
+        <seg>如果需要更改设置，则只需更新DITAVAL并使用相同的DITA-OT单行命令，或在Oxygen中应用转换选项再次进行处理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19951,8 +19951,8 @@
       <tuv lang="en">
         <seg>These deliverables are not ready for the intended users of the soda fountain manual.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T070840Z" creationid="lenovo" creationdate="20200913T023124Z">
-        <seg>这些交付物尚未准备好供给冰淇淋球饮品手册的目标用户使用。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T110356Z" creationid="lenovo" creationdate="20200913T023124Z">
+        <seg>这些交付物尚未准备好供给冷饮柜台手册的目标用户使用。</seg>
       </tuv>
     </tu>
     <tu>
