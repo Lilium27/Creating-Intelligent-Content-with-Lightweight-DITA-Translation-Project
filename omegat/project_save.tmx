@@ -19621,6 +19621,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The&lt;t2/&gt; HTML5 &lt;t3/&gt;&lt;div&gt; &lt;t4/&gt;element includes the &lt;t5/&gt;@id &lt;t6/&gt;with the value of “unplug” and custom data attributes to indicate that it is a LwDITA note with the type of “warning”.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T091246Z" creationid="DSS" creationdate="20200913T091246Z">
+        <seg>&lt;t2/&gt; HTML5 &lt;t3/&gt;&lt;div&gt; &lt;t4/&gt;元素有一个值为“unplug”的&lt;t3/&gt;@id &lt;t4/&gt;属性，以及一个自定义数据属性，以表示这是一个类型为“warning”的LwDITA提示组件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The&lt;t2/&gt; definition list element does not exist in GitHub Flavored Markdown syntax.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T160257Z" creationid="DSS" creationdate="20200816T160257Z">
@@ -21007,8 +21015,8 @@
       <tuv lang="en">
         <seg>To generate the web version of the soda fountain operator manual, you would need to enter the command shown on &lt;t0/&gt;Figure &lt;t1/&gt;8.18&lt;t2/&gt; &lt;t3/&gt;on a command-line environment &lt;t4/&gt;inside the directory or folder where you installed the DITA-OT&lt;t5/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T075041Z" creationid="lenovo" creationdate="20200902T160205Z">
-        <seg>要生成网络版本的“汽水喷泉”操作员手册，你需要在安装DITA-OT的目录或文件夹内的命令行环境中输入图8.18所示的命令。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T090801Z" creationid="lenovo" creationdate="20200902T160205Z">
+        <seg>要生成网络版本的冷饮柜台操作员手册，你需要在安装DITA-OT的目录或文件夹内的命令行环境中输入图8.18所示的命令。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
