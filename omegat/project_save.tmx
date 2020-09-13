@@ -4289,6 +4289,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Authors from different writing traditions can include those already represented in the initial LwDITA author&lt;t4/&gt;ing formats (XML, HTML5, and Markdown) and those in formats considered for future releases of the LwDITA standard (e.g., JSON and Microsoft Word).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T044445Z" creationid="lenovo" creationdate="20200913T044445Z">
+        <seg>秉持不同写作传统的作者可以包括初始LwDITA创作格式就已呈现的（XML, HTML5, and Markdown），也可以是为LwDITA标准未来发布做准备的其他格式 (e.g., JSON and Microsoft Word).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Authors in an intelligent content process based on principles of computational thinking do not need to build tools.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T025837Z" creationid="lenovo" creationdate="20200902T154515Z">
