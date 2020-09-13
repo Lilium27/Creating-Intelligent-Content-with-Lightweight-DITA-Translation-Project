@@ -8835,8 +8835,8 @@
       <tuv lang="en">
         <seg>However, what if the requirements change and a new type of blender does not require to be unplugged but needs to be descaled once a week?</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T134132Z" creationid="lenovo" creationdate="20200902T134132Z">
-        <seg>但是，如果需求发生变化，并且不需要拔下新型搅拌机，而是每周需要除垢一次，该怎么办？</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T021613Z" creationid="lenovo" creationdate="20200902T134132Z">
+        <seg>但是，如果需求发生变化，新搅拌器不需要每次都拔下插头，但是需要每周除垢一次，该怎么办？</seg>
       </tuv>
     </tu>
     <tu>
@@ -16740,8 +16740,8 @@
       <tuv lang="en">
         <seg>The author would need to update the note manu&lt;t0/&gt;ally on every topic that includes it.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153157Z" creationid="lenovo" creationdate="20200902T134158Z">
-        <seg> 作者需要针对包含该提示的每个主题手动更新该提示。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T021631Z" creationid="lenovo" creationdate="20200902T134158Z">
+        <seg>写作者需要对包含该提示的每个主题手动更新提示。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21187,8 +21187,8 @@
       <tuv lang="en">
         <seg>With a conref, however, the only note that needs to be updated is the source in the milkshake topic, and all recipes that link to it will be updated automatically after re-processing the topics and their map (more about that in the next layer).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T145632Z" creationid="lenovo" creationdate="20200902T145632Z">
-        <seg>但是，有了conref，唯一需要更新的是奶昔主题中的源提示，并且在重新处理主题及其映射（下一层的信息量更大）后，与之链接的所有配方都将自动更新。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T021732Z" creationid="lenovo" creationdate="20200902T145632Z">
+        <seg>但是，有了conref，唯一需要更新的是奶昔主题中的源提示，并且在重新处理主题及其映射（下一层级中由更多关于映射的内容）后，与之链接的所有食谱都将自动更新。</seg>
       </tuv>
     </tu>
     <tu>
