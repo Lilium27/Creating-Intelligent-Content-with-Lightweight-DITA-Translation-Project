@@ -20903,8 +20903,8 @@
       <tuv lang="en">
         <seg>Thus, this layer does not get involved with advanced software for component content management and presentation of deliverables.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T040157Z" creationid="lenovo" creationdate="20200913T040157Z">
-        <seg>因此，该层不涉及用于组件内容管理和可交付成果表示的高级软件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T085414Z" creationid="lenovo" creationdate="20200913T040157Z">
+        <seg>因此，该层不涉及用于组件内容管理和可交付成果样式的高级软件。</seg>
       </tuv>
     </tu>
     <tu>
