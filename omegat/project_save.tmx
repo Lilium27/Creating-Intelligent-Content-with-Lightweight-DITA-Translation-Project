@@ -17020,8 +17020,8 @@
       <tuv lang="en">
         <seg>The XDITA map also has a navigation title (&lt;t0/&gt;&lt;navtitle&gt;&lt;t1/&gt;) that can specify the main heading for any user products created in the next layer of abstraction.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153208Z" creationid="lenovo" creationdate="20200902T153528Z">
-        <seg>XDITA映射还具有导航标题（&lt;navtitle&gt;），可以为在下一个抽象层中创建的任何用户产品指定主要标题。&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T092846Z" creationid="lenovo" creationdate="20200902T153528Z">
+        <seg>XDITA映射还具有导航标题（&lt;t0/&gt;&lt;navtitle&gt;&lt;t1/&gt;），可以为在下一个抽象层中创建的任何用户产品指定主要标题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17548,8 +17548,8 @@
       <tuv lang="en">
         <seg>The defining key for the &lt;t2/&gt;“icecream-flavor”&lt;t3/&gt; content variable is provided in the key definition (&lt;t4/&gt;&lt;keydef&gt;&lt;t5/&gt;) environment.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153216Z" creationid="lenovo" creationdate="20200902T153606Z">
-        <seg>键定义（&lt;keydef&gt;）环境中提供了“ icecream-flavor”内容变量的定义键。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T100519Z" creationid="lenovo" creationdate="20200902T153606Z">
+        <seg>关键定义（&lt;t4/&gt;&lt;keydef&gt;&lt;t5/&gt;）环境中提供了“ icecream-flavor”内容变量的定义键。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20471,8 +20471,8 @@
       <tuv lang="en">
         <seg>This means that, for example, end users will not know what came from MDITA and what came from HDITA: they will just see a uni&lt;t4/&gt;fied deliverable.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153208Z" creationid="lenovo" creationdate="20200902T153204Z">
-        <seg>举例来说，这意味着最终用户将不知道来自MDITA和来自HDITA的信息：他们只会看到统一的可交付成果。&lt;t4/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T092823Z" creationid="lenovo" creationdate="20200902T153204Z">
+        <seg>举例来说，这意味着终端用户将不知道哪些内容来自MDITA、哪些来自HDITA：他们只会看到统一的可交付成果。&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
