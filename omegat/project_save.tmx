@@ -15625,6 +15625,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Teaching intelligent content (or even DITA) using a commercial CCMS, following its professionally-developed video tutorials and typing in a graphical user interface, is a professional skill that might benefit a handful of students and create limitations for many others who end up in envi&lt;t4/&gt;ronments that do not use that specific tool.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T041513Z" creationid="lenovo" creationdate="20200913T041513Z">
+        <seg>使用商业化的CCMS（甚至DITA）来教学智能内容，拿着专业开发的视频教程照本宣科并在图形用户界面中键入内容，这种职业技能只能使少数学生受益，并给许多将来并不使用该特定工具的学生设限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Technical communication consultants and practitioners frequently report on success stories and challenge narratives from implementing and managing XML-based content projects in conferences like DITA/Content Management Strategies and LavaCon.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200821T160255Z" creationid="DSS" creationdate="20200726T140942Z">
