@@ -1571,8 +1571,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;These models go beyond traditional document-based lifecycles (which are more production- oriented) associated with technical communication practices that work mainly as straightforward maps in a line of progression.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T095904Z" creationid="DSS" creationdate="20200812T152349Z">
-        <seg>&lt;t3/&gt;这些模型超越了传统的基于文档的生命周期（传统的生命周期更多地面向生产），基于文档的生命周期与在技术传播演进过程中具有指向作用的实践活动息息相关。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T064144Z" creationid="DSS" creationdate="20200812T152349Z">
+        <seg>&lt;t3/&gt;这些模型超越了传统的基于文档的生命周期（传统的生命周期更多地面向生产），传统的技术传播时间往往是以线性流程完成技术写作。</seg>
       </tuv>
     </tu>
     <tu>
