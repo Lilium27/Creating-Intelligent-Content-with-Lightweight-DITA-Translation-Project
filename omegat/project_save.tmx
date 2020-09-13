@@ -9547,8 +9547,8 @@
       <tuv lang="en">
         <seg>If computational thinking should be taught for medical students in the context of provision of patient care, and for architects it should be presented in the context of design principles, for content profession&lt;t1/&gt;als it should be in the processes, tools, and indicators required in an intelligent content workflow.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131426Z" creationid="DSS" creationdate="20200811T122040Z">
-        <seg>如果应该在护理病人的情景下教医学生计算机思维，在设计原则的背景下教建筑师计算机思维，那么对于内容专员而言，应该在流程、工具和智能内容工作流所需的标记里教他们。&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T063050Z" creationid="DSS" creationdate="20200811T122040Z">
+        <seg>如果应该在护理病人的情景下教医学生计算机思维，在设计原则的背景下教建筑师计算机思维，那么对于内容专员而言，应该在流程、工具和智能内容工作流所需的指标里教他们。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21754,8 +21754,8 @@
       <tuv lang="en">
         <seg>While a professional in another field may be able to use an application with little training, the met&lt;t1/&gt;aphors and ways of thinking about computing must be explicitly taught.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T131414Z" creationid="DSS" creationdate="20200810T143753Z">
-        <seg>虽然其他领域的专业人员可能不用训练就可以使用某个应用程序，但必须将明确地教授他们计算机的隐喻和思考方式。&lt;t1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T062806Z" creationid="DSS" creationdate="20200810T143753Z">
+        <seg>虽然其他领域的专业人员可能不用训练就可以使用某个应用程序，但必须将明确地教授他们隐喻和计算机思维。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
