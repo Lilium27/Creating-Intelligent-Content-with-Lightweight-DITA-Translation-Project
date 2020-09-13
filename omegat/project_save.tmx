@@ -13437,8 +13437,8 @@
       <tuv lang="en">
         <seg>New audience and context require&lt;t3/&gt;ments can come from expert or novice fountain operators who need different levels of detail on their recipes, or additional settings for the soda fountain with different equipment and ingredients availability.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T044106Z" creationid="lenovo" creationdate="20200913T043734Z">
-        <seg>新受众和情境需求可能来自于冷饮柜台的专家或新手操作员，他们需要在其配方上提供不同级别的详细信息，以及配置不同设备和可用配料的冰淇淋甜筒进行设定</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T070537Z" creationid="lenovo" creationdate="20200913T043734Z">
+        <seg>新受众和情境需求可能来自于冷饮柜台的专家或新手操作员，他们需要在其配方上提供不同级别的详细信息，以及配置不同设备和可用配料的冰淇淋蛋筒进行设定</seg>
       </tuv>
     </tu>
     <tu>
@@ -13629,8 +13629,8 @@
       <tuv lang="en">
         <seg>Now that the soda fountain has an operator manual that adapts to different locations, reuses warning content among topics regardless of authoring for&lt;t0/&gt;mat, and incorporates the ice cream flavor of the day to all its recipes with a one-line command, it's time to think about the future.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T042936Z" creationid="lenovo" creationdate="20200913T042936Z">
-        <seg>现在，冰淇淋甜筒操作手册可以适应不同的位置，无论编写格式如何都可以在主题之间复用警告内容，并且可以通过一行命令将当天的冰淇淋口味纳入所有配方中，现在该考虑一下了未来。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T070537Z" creationid="lenovo" creationdate="20200913T042936Z">
+        <seg>现在，冰淇淋蛋筒操作手册可以适应不同的位置，无论编写格式如何都可以在主题之间复用警告内容，并且可以通过一行命令将当天的冰淇淋口味纳入所有配方中，现在该考虑一下了未来。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18975,8 +18975,8 @@
       <tuv lang="en">
         <seg>The soda fountain will need a technology-based solution to store source code, enable authoring and processing, and deliver information products to end users (on web or print platforms).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T035155Z" creationid="lenovo" creationdate="20200913T035155Z">
-        <seg>冰淇淋甜筒将需要一个基于技术的解决方案来存储源代码，实现创作、处理以及将信息产品交付给最终用户（网页版或纸质版）。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T070537Z" creationid="lenovo" creationdate="20200913T035155Z">
+        <seg>冰淇淋蛋筒将需要一个基于技术的解决方案来存储源代码，实现创作、处理以及将信息产品交付给最终用户（网页版或纸质版）。</seg>
       </tuv>
     </tu>
     <tu>
