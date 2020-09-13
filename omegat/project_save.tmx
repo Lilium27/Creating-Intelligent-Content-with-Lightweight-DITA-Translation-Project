@@ -3851,8 +3851,8 @@
       <tuv lang="en">
         <seg>Any author who is also a programmer and decides to build an automating solution to generate deliverables following the work on previous layers of abstraction deserves special recognition.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T154839Z" creationid="lenovo" creationdate="20200902T154839Z">
-        <seg>如果作者还是一名程序员，并且决定按照先前抽象层的工作来构建自动化解决方案以生成可交付成果，应尤为得到认可。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T101536Z" creationid="lenovo" creationdate="20200902T154839Z">
+        <seg>如果写作者还是一名程序员，并且决定基于之前抽象层级的工作来构建自动化解决方案以生成可交付成果，应尤为得到认可。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4355,8 +4355,8 @@
       <tuv lang="en">
         <seg>Authors in an intelligent content process based on principles of computational thinking do not need to build tools.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T025837Z" creationid="lenovo" creationdate="20200902T154515Z">
-        <seg>基于计算机思维原理的智能内容处理过程中，作者无需构建工具。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T101423Z" creationid="lenovo" creationdate="20200902T154515Z">
+        <seg>在基于计算机思维原则的智能内容处理过程中，写作者无需构建工具。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -11349,8 +11349,8 @@
       <tuv lang="en">
         <seg>In this layer, developers would build applications based on the algorithms cre&lt;t2/&gt;ated in previous layers of abstraction.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153224Z" creationid="lenovo" creationdate="20200902T154422Z">
-        <seg>在这一层中，开发人员将基于先前抽象层中创建的算法来构建应用程序。&lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T101401Z" creationid="lenovo" creationdate="20200902T154422Z">
+        <seg>在这一层中，开发人员将基于在之前的抽象层级中创建的算法来构建应用程序。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
