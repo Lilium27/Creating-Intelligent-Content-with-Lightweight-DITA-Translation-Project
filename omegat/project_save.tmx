@@ -7753,6 +7753,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Focus on the abstractions from &lt;t0/&gt;Chapter 8&lt;t1/&gt; and develop a strategy that works for your content requirements.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T054657Z" creationid="lenovo" creationdate="20200913T054657Z">
+        <seg>专注于第八章中的抽象，并制定适合您的内容要求的策略。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Focusing on a different genre of technical writing, Carolyn Miller and Jack Selzer analyzed the structure and argumentation elements of technical reports by detailing their rhetorical conventions, or topical basis of discourse.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T070810Z" creationid="lenovo" creationdate="20200810T072714Z">
@@ -13221,8 +13229,8 @@
       <tuv lang="en">
         <seg>My main recommendation for any plan for implementing ideas discussed in this book is the same for all scenarios: do not jump directly to writing code and copying all your existing content from, say, a word processor to a text editor or LwDITA-aware software application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T054253Z" creationid="lenovo" creationdate="20200913T054253Z">
-        <seg>对于本书中讨论的实现想法的任何计划，我的主要建议在所有情况下都是相同的：不要直接跳到编写代码并将所有现有内容从文字处理程序复制到文本编辑器或支持LwDITA的软件应用程序中。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T054516Z" creationid="lenovo" creationdate="20200913T054253Z">
+        <seg>如果你想打算采用这本书中讨论的观点，任何情况下我的主要建议都是相同的：不要直接跳到编写代码的步骤并将所有现有内容从文字处理程序复制到文本编辑器或支持LwDITA的软件应用程序中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21881,6 +21889,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Writing is a process regardless of medium; paper and pen, word processor, or cross-format LwDITA content repository.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T054526Z" creationid="lenovo" creationdate="20200913T054526Z">
+        <seg>写作是一个过程，与媒介无关。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Writing reusable content is a rare skill.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200903T150712Z" creationid="DSS" creationdate="20200720T133632Z">
@@ -22213,6 +22229,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T053427Z" creationid="lenovo" creationdate="20200913T053427Z">
         <seg>的内容现已智能化！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>all these writing environments need a plan.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T054619Z" creationid="lenovo" creationdate="20200913T054619Z">
+        <seg>所有这些写作环境都需要一个计划。</seg>
       </tuv>
     </tu>
     <tu>
