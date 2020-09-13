@@ -6807,6 +6807,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE 8.21 &lt;t0/&gt;XDITA map for the soda fountain operator manual with the&lt;t1/&gt; “icecream-flavor” variable set to vanilla.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T023725Z" creationid="lenovo" creationdate="20200913T023725Z">
+        <seg>FIGURE 8.21 &lt;t0/&gt;冷饮柜台操作手册的XDITA映射，其中“冰淇淋口味”这一变量的值设为了香草。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE 8.3 &lt;t0/&gt;HDITA version of the milkshake recipe as seen on a web browser.&lt;t1/&gt; Note that the ingredient for a pint of ice cream does not have a flavor attached to it, which will come in a more advanced layer when the topic is processed through a LwDITA-aware software application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T123555Z" creationid="lenovo" creationdate="20200901T132346Z">
@@ -22117,6 +22125,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T074922Z" creationid="DSS" creationdate="20200808T074922Z">
         <seg>一系列的抽象层级，每个抽象层级建立在下一层级之上” &lt;t0/&gt;(2006, &lt;t1/&gt;pp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>should follow the structure of &lt;t0/&gt;if&lt;t1/&gt; @props&lt;t2/&gt;=“setting-foodtruck”, &lt;t3/&gt;then&lt;t4/&gt; exclude &lt;t5/&gt;@props&lt;t6/&gt;=“setting-downtown”.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T023753Z" creationid="lenovo" creationdate="20200913T023753Z">
+        <seg>应遵循&lt;t0/&gt;if&lt;t1/&gt; @props&lt;t2/&gt;=“setting-foodtruck”的结构，则排除 &lt;t5/&gt;@props&lt;t6/&gt;=“setting-downtown”。</seg>
       </tuv>
     </tu>
     <tu>
