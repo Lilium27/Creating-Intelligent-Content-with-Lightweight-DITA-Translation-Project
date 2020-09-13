@@ -17734,8 +17734,8 @@
       <tuv lang="en">
         <seg>The fictional deliverable in this example is a web version of the soda fountain operator manual that can be accessed on a device at both soda fountain locations.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T155918Z" creationid="lenovo" creationdate="20200902T155918Z">
-        <seg>在此示例中，虚构的交付物是“汽水喷泉”操作员手册的网络版本，可在两个“汽水喷泉”所在地的设备上进行访问。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T103639Z" creationid="lenovo" creationdate="20200902T155918Z">
+        <seg>在此示例中，虚构的交付物是冷饮柜台操作手册的网络版本，可用于两个不同地点的冷饮柜台的设备。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -22147,8 +22147,8 @@
       <tuv lang="en">
         <seg>XDITA map to collect topics created in layer &lt;t0/&gt;4.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153230Z" creationid="lenovo" creationdate="20200902T155823Z">
-        <seg>XDITA映射以收集在第4层中创建的主题。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T103401Z" creationid="lenovo" creationdate="20200902T155823Z">
+        <seg>XDITA映射可以聚合在第四层级中创建的主题。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
