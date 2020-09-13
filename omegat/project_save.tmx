@@ -7111,6 +7111,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE 8.8 &lt;t0/&gt;HDITA version of the milkshake recipe seen through a web browser.&lt;t1/&gt; Without advanced processing, the HTML file shows the values for both possible blenders in step 1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T125806Z" creationid="DSS" creationdate="20200913T125806Z">
+        <seg>图8.8 HDITA版本的奶昔食谱在网络浏览器中的呈现。在没有进行更高层级的处理之前，HTML文件中的步骤一中显示了两个可能的搅拌器值。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;1.1 &lt;t1/&gt;Screen capture from the video “The Future of Technical Communication,” by Adobe Technical Communication Suite.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200728T142810Z" creationid="DSS" creationdate="20200724T121058Z">
