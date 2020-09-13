@@ -921,6 +921,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t2/&gt;(2016) &lt;t3/&gt;for a more inclusive focus in technical and professional communication research, I actively pushed for the LwDITA authoring formats to move away from the prescriptive textual nature of DITA XML.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T060624Z" creationid="lenovo" creationdate="20200913T060534Z">
+        <seg>呼吁专业技术传播研究应更具包容性的要求, I actively pushed for the LwDITA authoring formats to move away from the prescriptive textual nature of DITA XML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t2/&gt;10).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T155207Z" creationid="DSS" creationdate="20200806T155207Z">
@@ -3813,6 +3821,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20200816T130944Z" creationid="lenovo" creationdate="20200811T141946Z">
         <seg>&lt;t16/&gt;&lt;step&gt; &lt;t17/&gt;&lt;t18/&gt;元素的另一个子元素&lt;t19/&gt;&lt;stepxmp&gt;&lt;t20/&gt;给出了一个如何执行特定命令或操作的示例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Answering the call from Jones et al.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T060538Z" creationid="lenovo" creationdate="20200913T060504Z">
+        <seg>对琼斯等人&lt;t2/&gt;(2016) &lt;t3/&gt;有关</seg>
       </tuv>
     </tu>
     <tu>
