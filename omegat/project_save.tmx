@@ -5403,6 +5403,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Congratulations!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T074006Z" creationid="lenovo" creationdate="20200913T074006Z">
+        <seg>恭喜你！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Content components are the building blocks of information products.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200724T155511Z" creationid="DSS" creationdate="20200724T155511Z">
