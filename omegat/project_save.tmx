@@ -931,8 +931,8 @@
       <tuv lang="en">
         <seg>&lt;t2/&gt;(2016) &lt;t3/&gt;for a more inclusive focus in technical and professional communication research, I actively pushed for the LwDITA authoring formats to move away from the prescriptive textual nature of DITA XML.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T060652Z" creationid="lenovo" creationdate="20200913T060534Z">
-        <seg>呼吁专业技术传播研究应更具包容性的要求, 我积极推动LwDITA创作格式摆脱DITA XML的规定性文本特质。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T112612Z" creationid="lenovo" creationdate="20200913T060534Z">
+        <seg>呼吁专业技术传播研究应更具包容性的要求，我积极推动LwDITA创作格式摆脱DITA XML的规定性文本特质。&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20791,8 +20791,8 @@
       <tuv lang="en">
         <seg>Those human authors are also shaped by their job titles and responsibilities, which also affect their expectations and next steps that I recommend after read&lt;t0/&gt;ing this book.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T060908Z" creationid="lenovo" creationdate="20200913T060908Z">
-        <seg>这些人的作者也受其职务和职责的影响，这也影响他们的期望和我建议的阅读本书后应采取的下一步措施。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T112616Z" creationid="lenovo" creationdate="20200913T060908Z">
+        <seg>这些人的作者也受其职务和职责的影响，这也影响他们的期望和我建议的阅读本书后应采取的下一步措施。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21810,8 +21810,8 @@
       <tuv lang="en">
         <seg>Whereas, for example, a DITA task requires an author to be proficient enough in English to remember the spelling of &lt;t4/&gt;&lt;shortdesc&gt;&lt;t5/&gt;, &lt;t6/&gt;&lt;steps&gt;&lt;t7/&gt;, &lt;t8/&gt;&lt;hazardstatement&gt;&lt;t9/&gt;, or &lt;t10/&gt;&lt;steptroubleshooting&gt;&lt;t11/&gt;, in LwDITA an author can use more familiar HTML5 tags or the &lt;t12/&gt;atx&lt;t13/&gt; headers of Markdown.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T060742Z" creationid="lenovo" creationdate="20200913T060742Z">
-        <seg>例如，DITA任务要求作者精通英语，以记住 &lt;t4/&gt;&lt;shortdesc&gt;&lt;t5/&gt;, &lt;t6/&gt;&lt;steps&gt;&lt;t7/&gt;, &lt;t8/&gt;&lt;hazardstatement&gt;&lt;t9/&gt;, or &lt;t10/&gt;&lt;steptroubleshooting&gt;&lt;t11/&gt;的拼写，而在LwDITA中，作者可以使用更熟悉的HTML5标记或Markdown的&lt;t12/&gt;atx&lt;t13/&gt; 文件头。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T112609Z" creationid="lenovo" creationdate="20200913T060742Z">
+        <seg>例如，DITA任务要求作者精通英语，以记住 &lt;t4/&gt;&lt;shortdesc&gt;&lt;t5/&gt;、&lt;t6/&gt;&lt;steps&gt;&lt;t7/&gt;、 &lt;t8/&gt;&lt;hazardstatement&gt;&lt;t9/&gt;或 &lt;t10/&gt;&lt;steptroubleshooting&gt;&lt;t11/&gt;的拼写，而在LwDITA中，作者可以使用更熟悉的HTML5标记或Markdown的&lt;t12/&gt;atx&lt;t13/&gt; 文件头。</seg>
       </tuv>
     </tu>
     <tu>
