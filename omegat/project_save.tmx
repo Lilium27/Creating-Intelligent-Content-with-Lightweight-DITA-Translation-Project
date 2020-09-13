@@ -2473,6 +2473,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A LwDITA-aware software application like Oxygen can also produce the soda fountain manual.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T021042Z" creationid="lenovo" creationdate="20200913T021042Z">
+        <seg>诸如Oxygen之类的支持LwDITA的软件应用程序也可以制作冷饮柜台手册。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A LwDITA-aware tool like Oxygen XML would inform the author that the topic is incomplete.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200824T034555Z" creationid="DSS" creationdate="20200813T153156Z">
@@ -18901,6 +18909,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The “Apply Transformation Scenario(s)” dialog box in Oxygen would present the user with options to produce deliverables from this LwDITA map.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T021140Z" creationid="lenovo" creationdate="20200913T021140Z">
+        <seg>Oxygen中的“应用转换选项”对话框将为用户提供从该LwDITA映射生成可交付成果的选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The “Learning to Think Like a Computer” article from The New York Times mentioned in &lt;t0/&gt;Chapter &lt;t1/&gt;7&lt;t2/&gt; &lt;t3/&gt;provides an appropriate example for looking at each layer of abstraction and its connections to the ISTE standards and the content&lt;t4/&gt;development lifecycles presented in this chapter.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T152942Z" creationid="lenovo" creationdate="20200831T133802Z">
@@ -18985,6 +19001,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T134857Z" creationid="DSS" creationdate="20200816T134754Z">
         <seg>根据 XDITA 语法规则，图6.2中的“红色波浪线预警”表示主题内容不能为空。&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The “warning” note appears in this topic via the conref that reuses the original element from the milkshake recipe.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T021003Z" creationid="lenovo" creationdate="20200913T021003Z">
+        <seg>本主题中的“警告”提示式通过复用奶昔配方中的原始元素的conref形成的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21411,8 +21435,8 @@
       <tuv lang="en">
         <seg>XDITA map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T020436Z" creationid="lenovo" creationdate="20200913T020422Z">
-        <seg>HTML格式的奶昔配方</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T020828Z" creationid="lenovo" creationdate="20200913T020422Z">
+        <seg>HTML5格式的奶昔配方</seg>
       </tuv>
     </tu>
     <tu>
