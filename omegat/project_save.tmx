@@ -18319,8 +18319,8 @@
       <tuv lang="en">
         <seg>The same DITAVAL file can work for all LwDITA authoring formats with the &lt;t0/&gt;@ props &lt;t1/&gt;attribute for XDITA and the &lt;t2/&gt;@data-props &lt;t3/&gt;attribute for HDITA and MDITA extended profile.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T024339Z" creationid="lenovo" creationdate="20200913T024339Z">
-        <seg>使用XDITA的@props属性和HDITA和MDITA扩展配置文件的@data-props属性，相同的DITAVAL文件可以用于所有LwDITA创作格式。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T024433Z" creationid="lenovo" creationdate="20200913T024339Z">
+        <seg>使用XDITA的&lt;t0/&gt;@ props &lt;t1/&gt;属性和HDITA和MDITA扩展配置文件的&lt;t2/&gt;@data-props &lt;t3/&gt;属性，相同的DITAVAL文件可以用于所有LwDITA创作格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21741,6 +21741,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200808T040432Z" creationid="DSS" creationdate="20200808T040432Z">
         <seg>你可以将图&lt;t0/&gt;&lt;t1/&gt;5.13&lt;t2/&gt;&lt;t3/&gt;展示的文件保存为 &lt;t4/&gt;sensei-brochure.md &lt;t5/&gt;，然后使用支持 LwDITA 的工具生成 PDF 交付物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can save this new file as &lt;t4/&gt;setting.ditaval&lt;t5/&gt; and add it to the file col&lt;t6/&gt;lection, which now includes LwDITA topics, an XDITA map, and a DITAVAL filter.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T024411Z" creationid="lenovo" creationdate="20200913T024411Z">
+        <seg>你可以将这个新文件保存为&lt;t4/&gt;setting.ditaval&lt;t5/&gt; and add it to the file col&lt;t6/&gt;lection, which now includes LwDITA topics, an XDITA map, and a DITAVAL filter.</seg>
       </tuv>
     </tu>
     <tu>
