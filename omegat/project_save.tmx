@@ -615,6 +615,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t1/&gt;actually, I have not seen any of &lt;t2/&gt;your&lt;t3/&gt; content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T053606Z" creationid="lenovo" creationdate="20200913T053606Z">
+        <seg>&lt;t1/&gt;实际上我还没有看到 &lt;t2/&gt;你的&lt;t3/&gt; 内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t10/&gt;178).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T132610Z" creationid="DSS" creationdate="20200730T095112Z">
@@ -21104,6 +21112,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unless your content consists of little stubs of topics about pasta sauce recipes, sushi restaurants, or ice cream-based treats, all the content samples in this book were my examples.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T053805Z" creationid="lenovo" creationdate="20200913T053805Z">
+        <seg>除非您的内容不包含有关通心粉酱食谱，寿司店或冰淇淋点心的主题，否则本书中的所有内容示例都是我的示例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unlike its counterpart in&lt;t2/&gt; XDITA, this definition list does not need the holding definition entry environment to contain pairs of definition term and definition description.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200904T045431Z" creationid="DSS" creationdate="20200816T160224Z">
@@ -21228,6 +21244,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T120056Z" creationid="lenovo" creationdate="20200718T120730Z">
         <seg>使用轻量级 DITA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wait a minute.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T053525Z" creationid="lenovo" creationdate="20200913T053525Z">
+        <seg>稍等片刻。</seg>
       </tuv>
     </tu>
     <tu>
