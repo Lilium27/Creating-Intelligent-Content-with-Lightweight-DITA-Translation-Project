@@ -6985,8 +6985,8 @@
       <tuv lang="en">
         <seg>FIGURE 8.25 &lt;t0/&gt;Filtered web deliverable of the milkshake recipe that excludes all&lt;t1/&gt; references to the “downtown” setting.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T030633Z" creationid="lenovo" creationdate="20200913T030633Z">
-        <seg>图 8.25 &lt;t0/&gt;过滤后的网页版奶昔配方，当中排除了所有对“市区”设置的引用。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T090421Z" creationid="lenovo" creationdate="20200913T030633Z">
+        <seg>图 8.25 &lt;t0/&gt;过滤后的网页版奶昔食谱，当中排除了所有对“市区”设置的引用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13453,8 +13453,8 @@
       <tuv lang="en">
         <seg>New audience and context require&lt;t3/&gt;ments can come from expert or novice fountain operators who need different levels of detail on their recipes, or additional settings for the soda fountain with different equipment and ingredients availability.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T070537Z" creationid="lenovo" creationdate="20200913T043734Z">
-        <seg>新受众和情境需求可能来自于冷饮柜台的专家或新手操作员，他们需要在其配方上提供不同级别的详细信息，以及配置不同设备和可用配料的冰淇淋蛋筒进行设定</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T090421Z" creationid="lenovo" creationdate="20200913T043734Z">
+        <seg>新受众和情境需求可能来自于冷饮柜台的专家或新手操作员，他们需要在其食谱上提供不同级别的详细信息，以及配置不同设备和可用配料的冰淇淋蛋筒进行设定</seg>
       </tuv>
     </tu>
     <tu>
@@ -13645,8 +13645,8 @@
       <tuv lang="en">
         <seg>Now that the soda fountain has an operator manual that adapts to different locations, reuses warning content among topics regardless of authoring for&lt;t0/&gt;mat, and incorporates the ice cream flavor of the day to all its recipes with a one-line command, it's time to think about the future.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T070537Z" creationid="lenovo" creationdate="20200913T042936Z">
-        <seg>现在，冰淇淋蛋筒操作手册可以适应不同的位置，无论编写格式如何都可以在主题之间复用警告内容，并且可以通过一行命令将当天的冰淇淋口味纳入所有配方中，现在该考虑一下了未来。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T090421Z" creationid="lenovo" creationdate="20200913T042936Z">
+        <seg>现在，冰淇淋蛋筒操作手册可以适应不同的位置，无论编写格式如何都可以在主题之间复用警告内容，并且可以通过一行命令将当天的冰淇淋口味纳入所有食谱中，现在该考虑一下了未来。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18743,8 +18743,8 @@
       <tuv lang="en">
         <seg>The resulting web version of the milkshake recipe, which now excludes all references to the downtown location of the soda fountain, appears on Figure 8.26.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T025903Z" creationid="lenovo" creationdate="20200913T025903Z">
-        <seg>图8.26显示了奶昔配方的最终网络版本，该版本现在不包括对冷饮柜台市区位置的所有引用。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T090421Z" creationid="lenovo" creationdate="20200913T025903Z">
+        <seg>图8.26显示了奶昔食谱的最终网络版本，该版本现在不包括对冷饮柜台市区位置的所有引用。</seg>
       </tuv>
     </tu>
     <tu>
