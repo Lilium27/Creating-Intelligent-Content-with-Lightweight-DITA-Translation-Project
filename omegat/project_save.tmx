@@ -2195,8 +2195,8 @@
       <tuv lang="en">
         <seg>&lt;t7/&gt;Figure &lt;t8/&gt;8.16&lt;t9/&gt; &lt;t10/&gt;in layer &lt;t11/&gt;4, &lt;t12/&gt;shows an XDITA map in which the &lt;t13/&gt;&lt;key&gt; &lt;t14/&gt;value has been established as &lt;t15/&gt;“strawberry&lt;t16/&gt;”.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153420Z" creationid="lenovo" creationdate="20200902T160014Z">
-        <seg>第4层中的图8.16显示了XDITA映射，其中&lt;key&gt;值已被设置为“ strawberry”。&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T104700Z" creationid="lenovo" creationdate="20200902T160014Z">
+        <seg>图8.16展示了第四层级中的XDITA映射，其中&lt;t13/&gt;&lt;key&gt; &lt;t14/&gt;值已被设置为&lt;t15/&gt;“strawberry&lt;t16/&gt;”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3155,8 +3155,8 @@
       <tuv lang="en">
         <seg>After processing, the resulting deliverable will replace all &lt;t3/&gt;“icecream-flavor”&lt;t4/&gt; placeholders found in the topics with the actual content defined in the &lt;t5/&gt;&lt;key&gt; &lt;t6/&gt;element on the map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153412Z" creationid="lenovo" creationdate="20200902T160011Z">
-        <seg> 经过处理后，生成的可交付成果将用在映射上&lt;key&gt;元素中定义的实际内容替换在主题中找到的所有“冰淇淋口味”占位符。&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T104021Z" creationid="lenovo" creationdate="20200902T160011Z">
+        <seg>经过处理后，生成的可交付成果将用映射中&lt;key&gt;元素定义的实际内容替换主题中所有的&lt;t3/&gt;“icecream-flavor”&lt;t4/&gt;占位符。</seg>
       </tuv>
     </tu>
     <tu>
