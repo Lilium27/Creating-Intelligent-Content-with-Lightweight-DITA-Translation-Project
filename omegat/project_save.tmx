@@ -8019,8 +8019,8 @@
       <tuv lang="en">
         <seg>For example, if you want to use a &lt;note&gt; from one topic into another, you must add an @id attribute to the original note.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T133023Z" creationid="lenovo" creationdate="20200902T133023Z">
-        <seg>例如，如果要将一个主题中的&lt;note&gt;用于另一个主题，则必须在原始注释中添加一个@id属性。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T085439Z" creationid="lenovo" creationdate="20200902T133023Z">
+        <seg>例如，如果要将一个主题中的&lt;note&gt;用于另一个主题，则必须在原始提示组件中添加一个@id属性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8035,8 +8035,8 @@
       <tuv lang="en">
         <seg>For example, let's pretend that the LwDITA topic with the milkshake recipe includes a note component, with the type of warning, that tells the operator to unplug the blender after each use to prevent a fire hazard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T015333Z" creationid="lenovo" creationdate="20200902T133042Z">
-        <seg>例如，我们假设关于奶昔食谱的LwDITA主题包含一个警告类型的注释组件，该组件告诉操作员每次使用后都要拔下搅拌器的插头，以防止发生火灾。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T085448Z" creationid="lenovo" creationdate="20200902T133042Z">
+        <seg>例如，我们假设关于奶昔食谱的LwDITA主题包含一个警告类型的提示组件，该组件告诉操作员每次使用后都要拔下搅拌器的插头，以防止发生火灾。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -19639,8 +19639,8 @@
       <tuv lang="en">
         <seg>The&lt;t2/&gt; note has a unique &lt;t3/&gt;@id &lt;t4/&gt;with the value of unplug, and the optional @type for the note is set to “warning”.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T150326Z" creationid="lenovo" creationdate="20200902T150326Z">
-        <seg>&lt;t2/&gt;注释有一个唯一的&lt;t3/&gt;@id &lt;t4/&gt;，值为unplug，可选的注释@type设置为“warning”。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T085545Z" creationid="lenovo" creationdate="20200902T150326Z">
+        <seg>&lt;t2/&gt;提示组件有一个唯一的&lt;t3/&gt;@id &lt;t4/&gt;，值为unplug，可选的提示@type设置为“warning”。</seg>
       </tuv>
     </tu>
     <tu>
