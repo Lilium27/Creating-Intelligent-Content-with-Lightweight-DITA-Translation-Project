@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>200 &lt;t0/&gt;Conclusion</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T123033Z" creationid="lenovo" creationdate="20200913T123033Z">
+        <seg>200 &lt;t0/&gt;结论</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>237-241).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200812T162649Z" creationid="DSS" creationdate="20200812T162649Z">
