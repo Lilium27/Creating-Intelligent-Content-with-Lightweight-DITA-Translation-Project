@@ -4939,8 +4939,8 @@
       <tuv lang="en">
         <seg>CONCLUSION</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T053339Z" creationid="lenovo" creationdate="20200913T045821Z">
-        <seg> 结论</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T111735Z" creationid="lenovo" creationdate="20200913T045821Z">
+        <seg>结论</seg>
       </tuv>
     </tu>
     <tu>
@@ -7474,8 +7474,8 @@
       <tuv lang="en">
         <seg>FIGURE &lt;t0/&gt;8.14 &lt;t1/&gt;HDITA version of the root beer float recipe with a content reference.&lt;t2/&gt; The conref links to the source note in the milkshake recipe.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T092204Z" creationid="lenovo" creationdate="20200902T151035Z">
-        <seg>图 &lt;t0/&gt;8.14 &lt;t1/&gt;&lt;t2/&gt; 包含内容引用的	MDITA版本的冰淇淋球饮品食谱。&lt;t2/&gt;conref链接到奶昔食谱中的源提示。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T111826Z" creationid="lenovo" creationdate="20200902T151035Z">
+        <seg>图 &lt;t0/&gt;8.14 &lt;t1/&gt;&lt;t2/&gt;包含内容引用的	MDITA版本的冰淇淋球饮品食谱。conref链接到奶昔食谱中的源提示。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -17036,8 +17036,8 @@
       <tuv lang="en">
         <seg>The XDITA map in &lt;t0/&gt;Figure &lt;t1/&gt;8.16&lt;t2/&gt; &lt;t3/&gt;includes references (&lt;t4/&gt;&lt;topicref&gt;&lt;t5/&gt;) to the three hypothetical recipes in the manual.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T092249Z" creationid="lenovo" creationdate="20200902T151840Z">
-        <seg>图8.16中的XDITA映射包括对手册中三个假设食谱的引用（&lt;t4/&gt;&lt;topicref&gt;&lt;t5/&gt;）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T111849Z" creationid="lenovo" creationdate="20200902T151840Z">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/图8.16中的XDITA映射包括对手册中三个假设食谱的引用（&lt;t4/&gt;&lt;topicref&gt;&lt;t5/&gt;）。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18183,8 +18183,8 @@
       <tuv lang="en">
         <seg>The map in the following example not only works as a collection mechanism for topics, it also provides the defining key for the &lt;t4/&gt;“icecream-flavor” &lt;t5/&gt;content variable created in layer &lt;t6/&gt;2.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T091700Z" creationid="lenovo" creationdate="20200902T151417Z">
-        <seg>在下面的示例中，该映射不仅充当主题的收集机制，而且还为在第二层级中创建的内容变量&lt;t4/&gt;“icecream-flavor” &lt;t5/&gt;提供了定义键。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T111803Z" creationid="lenovo" creationdate="20200902T151417Z">
+        <seg>在下面的示例中，该映射不仅充当主题的收集机制，而且还为在第二层级中创建的内容变量&lt;t4/&gt;“icecream-flavor” &lt;t5/&gt;&lt;t6/&gt;提供了定义键。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19639,8 +19639,8 @@
       <tuv lang="en">
         <seg>The&lt;t2/&gt; HTML5 &lt;t3/&gt;&lt;div&gt; &lt;t4/&gt;element includes the &lt;t5/&gt;@id &lt;t6/&gt;with the value of “unplug” and custom data attributes to indicate that it is a LwDITA note with the type of “warning”.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T091246Z" creationid="DSS" creationdate="20200913T091246Z">
-        <seg>&lt;t2/&gt; HTML5 &lt;t3/&gt;&lt;div&gt; &lt;t4/&gt;元素有一个值为“unplug”的&lt;t3/&gt;@id &lt;t4/&gt;属性，以及一个自定义数据属性，以表示这是一个类型为“warning”的LwDITA提示组件。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T111800Z" creationid="DSS" creationdate="20200913T091246Z">
+        <seg>&lt;t2/&gt; HTML5 &lt;t3/&gt;&lt;div&gt; &lt;t4/&gt;元素有一个值为“unplug”的&lt;t5/&gt;@id &lt;t6/&gt;属性，以及一个自定义数据属性，以表示这是一个类型为“warning”的LwDITA提示组件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22515,8 +22515,8 @@
       <tuv lang="en">
         <seg>different LwDITA authoring formats (see the different values of &lt;t0/&gt;@format &lt;t1/&gt;in the &lt;t2/&gt;&lt;topicref&gt; &lt;t3/&gt;entries).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T092512Z" creationid="lenovo" creationdate="20200902T153250Z">
-        <seg>不同的LwDITA写作格式创建的主题（请参见&lt;topicref&gt;条目中&lt;t0/&gt;@format &lt;t1/&gt;的不同值）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T111849Z" creationid="lenovo" creationdate="20200902T153250Z">
+        <seg>不同的LwDITA写作格式创建的主题（请参见&lt;topicref&gt;条目中&lt;t0/&gt;@format &lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;的不同值）。</seg>
       </tuv>
     </tu>
     <tu>
