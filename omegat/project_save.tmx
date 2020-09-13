@@ -9923,6 +9923,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In &lt;t0/&gt;Creating Intelligent Content with Lightweight DITA&lt;t1/&gt; I tried to place human authors at the center of intelligent content workflows.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T055854Z" creationid="lenovo" creationdate="20200913T055854Z">
+        <seg>&lt;t0/&gt;在&lt;t0/&gt;《使用轻量级DITA创建智能内容》&lt;t1/&gt;一书中，我尝试将人类作者置于智能内容工作流程的中心。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In &lt;t0/&gt;Figure 6.10&lt;t1/&gt;, an MDITA extended profile with an assigned &lt;t2/&gt;@id &lt;t3/&gt;of “&lt;t4/&gt;franchise- intro”&lt;t5/&gt; uses a &lt;t6/&gt;setext&lt;t7/&gt; heading for its title component.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200910T151124Z" creationid="DSS" creationdate="20200816T141118Z">
@@ -16778,6 +16786,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The LwDITA standard is still a work in progress, and as of this writing we are evaluating some implementation ideas.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T055657Z" creationid="lenovo" creationdate="20200913T055657Z">
+        <seg>LwDITA标准仍在开发中，截至撰写本文时，我们正在评估一些实现想法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The LwDITA technical specification is the authoritative source for producing and processing content across the LwDITA authoring formats.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T082928Z" creationid="DSS" creationdate="20200806T082928Z">
@@ -21408,6 +21424,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>We might need to be patient before we see a broad variety of LwDITA tools.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T055645Z" creationid="lenovo" creationdate="20200913T055645Z">
+        <seg>在看到各种各样的LwDITA工具之前，我们可能需要耐心等待。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>We reminisced about the Virginia Tech Center for Human-Computer Interaction (CHCI), which Carroll founded in &lt;t0/&gt;1995.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T155250Z" creationid="lenovo" creationdate="20200723T094927Z">
@@ -21484,6 +21508,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200802T115812Z" creationid="DSS" creationdate="20200802T115711Z">
         <seg>如果不从 XML 开始教，而是直接向我的学生介绍一个类 DITA 的环境，会发生什么呢？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What is in it for You?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T055800Z" creationid="lenovo" creationdate="20200913T055800Z">
+        <seg>它对您有什么作用？</seg>
       </tuv>
     </tu>
     <tu>
@@ -22125,6 +22157,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T152912Z" creationid="lenovo" creationdate="20200826T155854Z">
         <seg>然而，当我们处理文档集时，如果像阿门特(2002)建议的那样，从一开始就系统化地贯彻结构化写作指导方针，我们就会开始看到清晰性和一致性的提升。&lt;t3/&gt;&lt;t4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can always track the progress of LwDITA adoption on the website and materials produced by the Lightweight DITA subcommittee at OASIS.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T055757Z" creationid="lenovo" creationdate="20200913T055757Z">
+        <seg>你可以通过网站和OASIS的Lightweight DITA小组委员会制作的材料上追踪LwDITA的采用进度。</seg>
       </tuv>
     </tu>
     <tu>
