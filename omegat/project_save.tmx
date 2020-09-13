@@ -8306,8 +8306,8 @@
       <tuv lang="en">
         <seg>Hackos describes the structure of the conref mechanism in the DITA standard as follows:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T132935Z" creationid="lenovo" creationdate="20200902T132935Z">
-        <seg>哈克斯描述了DITA标准中的conref机制的结构，如下所示：</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T014922Z" creationid="lenovo" creationdate="20200902T132935Z">
+        <seg>哈克斯阐述了DITA标准中conref机制的结构，如下所示：</seg>
       </tuv>
     </tu>
     <tu>
