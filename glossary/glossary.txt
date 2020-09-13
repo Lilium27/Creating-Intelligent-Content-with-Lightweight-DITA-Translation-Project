@@ -514,7 +514,6 @@ referencing key	引用键
 defining key	定义键
 milkshake recipe	奶昔食谱
 shortcut reference link	快捷引用链接
-key reference	引用键
 single sourcing	同源开发
 斯瓦茨	Swarts
 mixer	搅拌器
