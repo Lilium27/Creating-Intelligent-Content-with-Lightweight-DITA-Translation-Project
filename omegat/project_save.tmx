@@ -6831,6 +6831,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIGURE 8.24 &lt;t0/&gt;Command for the DITA-OT to generate a web deliverable from&lt;t1/&gt; the soda fountain operator's manual XDITA map that excludes references to the “downtown” location.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T030414Z" creationid="lenovo" creationdate="20200913T030414Z">
+        <seg>图 8.24 &lt;t0/&gt;利用DITA-OT从冷饮柜台操作手册的XDITA映射生成网页版交付物的命令，该映射排除了对“市区”位置的引用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FIGURE 8.3 &lt;t0/&gt;HDITA version of the milkshake recipe as seen on a web browser.&lt;t1/&gt; Note that the ingredient for a pint of ice cream does not have a flavor attached to it, which will come in a more advanced layer when the topic is processed through a LwDITA-aware software application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T123555Z" creationid="lenovo" creationdate="20200901T132346Z">
@@ -10221,8 +10229,8 @@
       <tuv lang="en">
         <seg>In Oxygen XML Editor, you can link a DITAVAL to a LwDITA map when configuring the transformation scenario by clicking on the &lt;t0/&gt;Filters&lt;t1/&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T025939Z" creationid="lenovo" creationdate="20200913T025939Z">
-        <seg>在Oxygen XML Editor中，可以在配置转换方案时通过单击“过滤器”选项卡将DITAVAL链接到LwDITA映射。 </seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T030146Z" creationid="lenovo" creationdate="20200913T025939Z">
+        <seg>在Oxygen XML Editor中，可以在配置转换选项时通过单击 &lt;t0/&gt;Filters&lt;t1/&gt;选项卡将DITAVAL链接到LwDITA映射。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -16558,6 +16566,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T070810Z" creationid="lenovo" creationdate="20200808T024955Z">
         <seg>1975年 &lt;t0/&gt;10月 &lt;t1/&gt;版的 &lt;t2/&gt;Asterisk&lt;t3/&gt;&lt;t4/&gt; (计算机协会的“系统文档通讯简报”) 中就对修辞规范做了简要的描述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Oxygen user manual includes information on applying filters to DITA transformations&lt;t2/&gt;2&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T030254Z" creationid="lenovo" creationdate="20200913T030254Z">
+        <seg>Oxygen用户手册包含有关将过滤器应用于DITA转换&lt;t2/&gt;2&lt;t3/&gt;的信息.</seg>
       </tuv>
     </tu>
     <tu>
