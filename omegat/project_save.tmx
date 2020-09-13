@@ -3131,8 +3131,8 @@
       <tuv lang="en">
         <seg>After saving the &lt;t0/&gt;fountain.ditamap&lt;t1/&gt; with the new ice cream flavor, you can run the same DITA-OT command from &lt;t2/&gt;Figure 8.18&lt;t3/&gt; without any changes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T025741Z" creationid="lenovo" creationdate="20200913T022744Z">
-        <seg>在用新的冰淇淋口味保存了&lt;t0/&gt;fountain.ditamap&lt;t1/&gt;之后，您可以运行图8.18中相同的DITA-OT命令，而无需进行任何更改。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T030158Z" creationid="lenovo" creationdate="20200913T022744Z">
+        <seg>在用新的冰淇淋口味保存了&lt;t0/&gt;fountain.ditamap&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;之后，您可以运行图8.18中相同的DITA-OT命令，而无需进行任何更改。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6784,8 +6784,8 @@
       <tuv lang="en">
         <seg>FIGURE 8.18 &lt;t0/&gt;Command for the DITA-OT to generate a web deliverable from the&lt;t1/&gt; soda fountain operator's manual XDITA map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T015848Z" creationid="lenovo" creationdate="20200913T015834Z">
-        <seg>图 8.18 &lt;t0/&gt;利用DITA-OT从冷饮柜台操作手册的XDITA映射生成网页版交付所需输入的命令。
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T030151Z" creationid="lenovo" creationdate="20200913T015834Z">
+        <seg>图 8.18 &lt;t0/&gt;&lt;t1/&gt;利用DITA-OT从冷饮柜台操作手册的XDITA映射生成网页版交付所需输入的命令。
 &lt;64/73/80% &gt;</seg>
       </tuv>
     </tu>
@@ -6801,32 +6801,32 @@
       <tuv lang="en">
         <seg>FIGURE 8.20 &lt;t0/&gt;HTML5 transformation of the root beer float recipe processed with&lt;t1/&gt; the XDITA map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T024921Z" creationid="lenovo" creationdate="20200913T020823Z">
-        <seg>图 8.20 &lt;t0/&gt;XDITA映射转换生成的HTML5格式的冰淇淋蛋筒食谱</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T030155Z" creationid="lenovo" creationdate="20200913T020823Z">
+        <seg>图 8.20 &lt;t0/&gt;&lt;t1/&gt;XDITA映射转换生成的HTML5格式的冰淇淋蛋筒食谱</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE 8.21 &lt;t0/&gt;XDITA map for the soda fountain operator manual with the&lt;t1/&gt; “icecream-flavor” variable set to vanilla.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T023725Z" creationid="lenovo" creationdate="20200913T023725Z">
-        <seg>FIGURE 8.21 &lt;t0/&gt;冷饮柜台操作手册的XDITA映射，其中“冰淇淋口味”这一变量的值设为了香草。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T030205Z" creationid="lenovo" creationdate="20200913T023725Z">
+        <seg>FIGURE 8.21 &lt;t0/&gt;&lt;t1/&gt;冷饮柜台操作手册的XDITA映射，其中“冰淇淋口味”这一变量的值设为了香草。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE 8.22 &lt;t0/&gt;HTML5 transformation of the milkshake recipe with vanilla as the ice&lt;t1/&gt; cream flavor.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T024821Z" creationid="lenovo" creationdate="20200913T024821Z">
-        <seg>FIGURE 8.22 &lt;t0/&gt;HTML5格式的香草口味奶昔食谱</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T030212Z" creationid="lenovo" creationdate="20200913T024821Z">
+        <seg>FIGURE 8.22 &lt;t0/&gt;&lt;t1/&gt;HTML5格式的香草口味奶昔食谱</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE 8.23 &lt;t0/&gt;DITAVAL file that excludes all references to the “downtown” setting&lt;t1/&gt; when processing the map and topics.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T024904Z" creationid="lenovo" creationdate="20200913T024904Z">
-        <seg>图 8.23 &lt;t0/&gt;DITAVAL文件在处理映射和主题时排除了所有对“downtown”设置的引用。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T030214Z" creationid="lenovo" creationdate="20200913T024904Z">
+        <seg>图 8.23 &lt;t0/&gt;&lt;t1/&gt;DITAVAL文件在处理映射和主题时排除了所有对“downtown”设置的引用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8795,8 +8795,8 @@
       <tuv lang="en">
         <seg>However, the cross-reference component in LwDITA also enables one of DITA's strongest content reuse features: the content reference &lt;t5/&gt;- &lt;t6/&gt;or &lt;t7/&gt;conref&lt;t8/&gt; for short.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T022244Z" creationid="lenovo" creationdate="20200902T132828Z">
-        <seg>但是，LwDITA中的交叉引用组件还启用了DITA最强大的内容复用功能之一：内容引用（content reference）或简称&lt;t7/&gt;conref&lt;t8/&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T030150Z" creationid="lenovo" creationdate="20200902T132828Z">
+        <seg>但是，LwDITA中的交叉引用组件还启用了DITA最强大的内容复用功能之一：内容引用（content reference）或简称/&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;conref&lt;t8/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9451,8 +9451,8 @@
       <tuv lang="en">
         <seg>If the intended deliverable is exclusively for the opera&lt;t2/&gt;tors working at the food truck setting of the soda fountain, then the filter</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T023607Z" creationid="lenovo" creationdate="20200913T023607Z">
-        <seg>如果预期的交付成果仅供在冷饮柜台餐车工作的操作员使用，则过滤器</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T030200Z" creationid="lenovo" creationdate="20200913T023607Z">
+        <seg>如果预期的交付成果仅供在冷饮柜台餐车工作的操作员使用，则过滤器&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17783,8 +17783,8 @@
       <tuv lang="en">
         <seg>The marriage of the XDITA map with the DITAVAL in the DITA-OT takes place in the same one-line command but adding an option to indicate the filter loca&lt;t0/&gt;tion (&lt;t1/&gt;Figure 8.24&lt;t2/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T025057Z" creationid="lenovo" creationdate="20200913T025057Z">
-        <seg>XDITA映射与DITA-OT中的DITAVAL的结合是在同一条单行命令中进行的，但是添加了一个选项来指示过滤器的位置（图8.24）。  (&lt;t1/&gt;图 8.24&lt;t2/&gt;).</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T030219Z" creationid="lenovo" creationdate="20200913T025057Z">
+        <seg>XDITA映射与DITA-OT中的DITAVAL的结合是在同一条单行命令中进行的，但是添加了一个选项来指示过滤器的位置（图8.24）。  (&lt;t0/&gt;&lt;t1/&gt;图 8.24&lt;t2/&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -19023,8 +19023,8 @@
       <tuv lang="en">
         <seg>The warning note about unplugging the blender appears in this recipe via the con&lt;t1/&gt;tent reference mechanism.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T024921Z" creationid="lenovo" creationdate="20200913T020245Z">
-        <seg>通过内容引用机制在此食谱中显示有关拔下搅拌机插头的警告提示。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T030153Z" creationid="lenovo" creationdate="20200913T020245Z">
+        <seg>通过内容引用机制在此食谱中显示有关拔下搅拌机插头的警告提示。&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21811,8 +21811,8 @@
       <tuv lang="en">
         <seg>You can save this new file as &lt;t4/&gt;setting.ditaval&lt;t5/&gt; and add it to the file col&lt;t6/&gt;lection, which now includes LwDITA topics, an XDITA map, and a DITAVAL filter.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T024649Z" creationid="lenovo" creationdate="20200913T024411Z">
-        <seg>你可以将这个新文件保存为&lt;t4/&gt;setting.ditaval&lt;t5/&gt; 并将其添加到文件集合中，该集合现已包括LwDITA主题、XDITA映射和DITAVAL过滤器</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T030211Z" creationid="lenovo" creationdate="20200913T024411Z">
+        <seg>你可以将这个新文件保存为&lt;t4/&gt;setting.ditaval&lt;t5/&gt;&lt;t6/&gt; 并将其添加到文件集合中，该集合现已包括LwDITA主题、XDITA映射和DITAVAL过滤器</seg>
       </tuv>
     </tu>
     <tu>
@@ -22227,8 +22227,8 @@
       <tuv lang="en">
         <seg>should follow the structure of &lt;t0/&gt;if&lt;t1/&gt; @props&lt;t2/&gt;=“setting-foodtruck”, &lt;t3/&gt;then&lt;t4/&gt; exclude &lt;t5/&gt;@props&lt;t6/&gt;=“setting-downtown”.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T025840Z" creationid="lenovo" creationdate="20200913T023753Z">
-        <seg>应遵循&lt;t0/&gt;if&lt;t1/&gt; @props&lt;t2/&gt;=“setting-foodtruck”&lt;t3/&gt;的结构，则排除 &lt;t5/&gt;@props&lt;t6/&gt;=“setting-downtown”。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T030209Z" creationid="lenovo" creationdate="20200913T023753Z">
+        <seg>应遵循&lt;t0/&gt;if&lt;t1/&gt; @props&lt;t2/&gt;=“setting-foodtruck”&lt;t3/&gt;&lt;t4/&gt;的结构，则排除 &lt;t5/&gt;@props&lt;t6/&gt;=“setting-downtown”。</seg>
       </tuv>
     </tu>
     <tu>
