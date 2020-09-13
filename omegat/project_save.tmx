@@ -4881,6 +4881,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>CONCLUSION</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T045821Z" creationid="lenovo" creationdate="20200913T045821Z">
+        <seg>结论</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>CONTENTS</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T011906Z" creationid="DSS" creationdate="20200913T011906Z">
@@ -5464,6 +5472,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200911T125827Z" creationid="lenovo" creationdate="20200901T123724Z">
         <seg>将第一层级与用于评估学生的计算机思维的ISTE标准进行对比，第一层级中的某些任务符合5a标准的部分内容（学生能够在探索和寻找解决方案的过程中，形成对如数据分析、抽象模型和算法思维等技术辅助方法的问题定义），以及5b（学生能够收集数据或识别相关数据集，使用数字工具进行分析，并以各种方式表示数据，促进问题解决和决策制定）和5c标准的部分内容（学生能够将拆解问题，提取关键信息，建立描述性模型来理解复杂系统或促进问题解决）。&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contrasting layer &lt;t13/&gt;1 &lt;t14/&gt;with the ISTE stand&lt;t15/&gt;ards for assessing computational thinking in students, some of its tasks could comply with sections of standards 5a (&lt;t16/&gt;Students formulate problem definitions suited for technology-assisted methods such as data analysis, abstract models and algorithmic thinking in exploring and finding solutions&lt;t17/&gt;), 5c (&lt;t18/&gt;Students break problems into component parts, extract key information, and develop descriptive models to understand complex systems or facilitate problem-solving&lt;t19/&gt;), and even 5d (&lt;t20/&gt;Students understand how automation works and use algorithmic thinking to develop a sequence of steps to create and test automated solutions&lt;t21/&gt;) &lt;t22/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T045811Z" creationid="lenovo" creationdate="20200913T045811Z">
+        <seg>将第层与用于评估学生的计算思维的ISTE标准进行对比，其某些任务与标准5a（&lt;t16/&gt;在技术上进行探索和发现解决方案时，形成对如数据分析、抽象模型和算法思维等技术辅助方法的问题定义&lt;t17/&gt;），5c（学生能够将拆解问题，提取关键信息，建立描述性模型来理解复杂系统或促进问题解决），甚至5d（学生了解自动化的工作原理并使用算法思维来制定一系列步骤创建和测试自动化解决方案）相符。</seg>
       </tuv>
     </tu>
     <tu>
