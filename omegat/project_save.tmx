@@ -12317,8 +12317,8 @@
       <tuv lang="en">
         <seg>Layer &lt;t0/&gt;5 &lt;t1/&gt;tasks focus on Bailie &lt;t2/&gt;&amp; &lt;t3/&gt;Urbina's &lt;t4/&gt;publish&lt;t5/&gt; stage.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T073000Z" creationid="lenovo" creationdate="20200913T041651Z">
-        <seg>第五层任务的重点是Bailie＆Urbina的 &lt;t4/&gt;发布&lt;t5/&gt; 阶段。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T110610Z" creationid="lenovo" creationdate="20200913T041651Z">
+        <seg>第五层任务的重点是拜利和厄比纳所指的 &lt;t4/&gt;发布&lt;t5/&gt; 阶段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13661,8 +13661,8 @@
       <tuv lang="en">
         <seg>Now that the soda fountain has an operator manual that adapts to different locations, reuses warning content among topics regardless of authoring for&lt;t0/&gt;mat, and incorporates the ice cream flavor of the day to all its recipes with a one-line command, it's time to think about the future.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T090421Z" creationid="lenovo" creationdate="20200913T042936Z">
-        <seg>现在，冰淇淋蛋筒操作手册可以适应不同的位置，无论编写格式如何都可以在主题之间复用警告内容，并且可以通过一行命令将当天的冰淇淋口味纳入所有食谱中，现在该考虑一下了未来。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T110732Z" creationid="lenovo" creationdate="20200913T042936Z">
+        <seg>现在，冷饮柜台操作手册可以适应不同地点柜台的需求，无论编写格式如何都可以在主题之间复用警告内容，并且可以通过一行命令将当天的冰淇淋口味纳入所有食谱中，现在该考虑一下未来了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19015,8 +19015,8 @@
       <tuv lang="en">
         <seg>The soda fountain will need a technology-based solution to store source code, enable authoring and processing, and deliver information products to end users (on web or print platforms).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T070537Z" creationid="lenovo" creationdate="20200913T035155Z">
-        <seg>冰淇淋蛋筒将需要一个基于技术的解决方案来存储源代码，实现创作、处理以及将信息产品交付给最终用户（网页版或纸质版）。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T110538Z" creationid="lenovo" creationdate="20200913T035155Z">
+        <seg>冷饮柜台项目将需要一个基于技术的解决方案来存储源代码，实现创作、处理以及将信息产品交付给终端用户（网页版或纸质版）。</seg>
       </tuv>
     </tu>
     <tu>
