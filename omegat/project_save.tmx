@@ -21891,8 +21891,8 @@
       <tuv lang="en">
         <seg>You should also replace the &lt;t3/&gt;path-to-file&lt;t4/&gt; placeholders with the actual locations of the &lt;t5/&gt;fountain.ditamap&lt;t6/&gt; and &lt;t7/&gt;setting.ditaval&lt;t8/&gt; files in your computer.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T030011Z" creationid="lenovo" creationdate="20200913T025143Z">
-        <seg>您还应该用计算机中 &lt;t5/&gt;fountain.ditamap&lt;t6/&gt; 和 &lt;t7/&gt;setting.ditaval&lt;t8/&gt;文件的实际位置替换&lt;t3/&gt;path-to-file&lt;t4/&gt; 占位符。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T030407Z" creationid="lenovo" creationdate="20200913T025143Z">
+        <seg>您还应该用计算机中 &lt;t5/&gt;fountain.ditamap&lt;t6/&gt; 和 &lt;t7/&gt;setting.ditaval&lt;t8/&gt;文件的实际位置替换path-to-file占位符。</seg>
       </tuv>
     </tu>
     <tu>
