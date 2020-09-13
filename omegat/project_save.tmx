@@ -4025,6 +4025,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As long as you keep in mind the abstractions behind the process and the structure that enables the production of discoverable, reconfig&lt;t2/&gt;urable, and adaptable content, my job will be done.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T055012Z" creationid="lenovo" creationdate="20200913T055012Z">
+        <seg>只要你能记住过程背后的抽象理念以及使得内容产品可发现、可配置且适用性强的结构，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As many levels of docu&lt;t0/&gt;mentation are required as there are levels of users.” Technique was connected to the budget and quality of documentation: “Two elements of documentation &lt;t1/&gt;are indispensable &lt;t2/&gt;一 &lt;t3/&gt;integration with the system implementation and on-line machine-readable generation” (Patterson, 1975, p.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200822T160208Z" creationid="lenovo" creationdate="20200808T074220Z">
@@ -12975,6 +12983,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200816T141848Z" creationid="DSS" creationdate="20200816T141848Z">
         <seg>厨师佩德罗也许只需要对特许经营权等信息做一个简短的介绍，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Maybe things in your world are complex and full DITA XML will be the way to go, or maybe you are not ready to adopt LwDITA and will just want some ideas about computational thinking to improve your process in a web content management system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T054801Z" creationid="lenovo" creationdate="20200913T054801Z">
+        <seg>也许你处理的内容非常复杂，那完整版DITA XML是最佳的选择，或者说你还没有准备好采用LwDITA，而是只想了解一些有关计算思想的想法，以改善Web内容管理系统中的流程。</seg>
       </tuv>
     </tu>
     <tu>
