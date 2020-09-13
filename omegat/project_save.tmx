@@ -12131,6 +12131,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Layer &lt;t0/&gt;6: &lt;t1/&gt;Preparing for the Future</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T042055Z" creationid="lenovo" creationdate="20200913T042055Z">
+        <seg>第六层：为未来做准备</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Layer &lt;t1/&gt;1 &lt;t2/&gt;tasks focus on Bailie &lt;t3/&gt;&amp; &lt;t4/&gt;Urbina's &lt;t5/&gt;analysis&lt;t6/&gt; stage.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200907T131024Z" creationid="lenovo" creationdate="20200901T123651Z">
@@ -13383,6 +13391,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200806T085501Z" creationid="DSS" creationdate="20200806T085501Z">
         <seg>在是履行承诺的时候了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Now that the soda fountain has an operator manual that adapts to different locations, reuses warning content among topics regardless of authoring for&lt;t0/&gt;mat, and incorporates the ice cream flavor of the day to all its recipes with a one-line command, it's time to think about the future.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T042936Z" creationid="lenovo" creationdate="20200913T042936Z">
+        <seg>现在，冰淇淋甜筒操作手册可以适应不同的位置，无论编写格式如何都可以在主题之间复用警告内容，并且可以通过一行命令将当天的冰淇淋口味纳入所有配方中，现在该考虑一下了未来。</seg>
       </tuv>
     </tu>
     <tu>
