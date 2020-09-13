@@ -18637,6 +18637,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The soda fountain will need a technology-based solution to store source code, enable authoring and processing, and deliver information products to end users (on web or print platforms).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T035155Z" creationid="lenovo" creationdate="20200913T035155Z">
+        <seg>冰淇淋甜筒将需要一个基于技术的解决方案来存储源代码，实现创作、处理以及将信息产品交付给最终用户（网页版或纸质版）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The source ele&lt;t2/&gt;ment from the content reference can be updated and, after reprocessing the topic collection, all target topics that link to it will be automatically updated.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T014815Z" creationid="lenovo" creationdate="20200902T132923Z">
