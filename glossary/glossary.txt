@@ -520,3 +520,4 @@ mixer	搅拌器
 conditional processing attribute	条件处理属性
 show	展示
 context requirements	情境需求
+root beer float	冰淇淋球饮品
