@@ -8939,8 +8939,8 @@
       <tuv lang="en">
         <seg>However, most writing positions do not expect that kind of work.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T154918Z" creationid="lenovo" creationdate="20200902T154918Z">
-        <seg>但是，大多数写作职位都不做此期待。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T101618Z" creationid="lenovo" creationdate="20200902T154918Z">
+        <seg>但是，大多数写作者都不会希望从事类似的工作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13221,8 +13221,8 @@
       <tuv lang="en">
         <seg>Most likely, authors will follow the tools strategy set in layer &lt;t3/&gt;1 &lt;t4/&gt;and bring all the work developed in previous layers to the tool selected.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T155023Z" creationid="lenovo" creationdate="20200902T155023Z">
-        <seg>最有可能的是，作者将遵循layer &lt;t3/&gt;1 &lt;t4/&gt;中设置的工具策略，并将之前层中所有成果都带到所选择的工具中。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T101724Z" creationid="lenovo" creationdate="20200902T155023Z">
+        <seg>最有可能的是，写作者将遵循第一层级中设置的工具策略，并使用选择的工具处理之前层级中的所有成果。</seg>
       </tuv>
     </tu>
     <tu>
