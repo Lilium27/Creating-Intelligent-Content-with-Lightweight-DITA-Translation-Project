@@ -7795,8 +7795,8 @@
       <tuv lang="en">
         <seg>For example, let's pretend that the LwDITA topic with the milkshake recipe includes a note component, with the type of warning, that tells the operator to unplug the blender after each use to prevent a fire hazard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T015208Z" creationid="lenovo" creationdate="20200902T133042Z">
-        <seg>例如，我们假设关于奶昔食谱的LwDITA主题包含一个警告类型的提示组件，该警告组件告诉操作员每次使用后都要拔下搅拌机的插头，以防止发生火灾。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T015333Z" creationid="lenovo" creationdate="20200902T133042Z">
+        <seg>例如，我们假设关于奶昔食谱的LwDITA主题包含一个警告类型的注释组件，该组件告诉操作员每次使用后都要拔下搅拌器的插头，以防止发生火灾。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -11181,8 +11181,8 @@
       <tuv lang="en">
         <seg>Instead of copying and pasting the note's content, an author can use a conref to link the topics.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T133616Z" creationid="lenovo" creationdate="20200902T133517Z">
-        <seg>作者可以使用conref链接主题，而不必复制和粘贴提示的内容。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T020130Z" creationid="lenovo" creationdate="20200902T133517Z">
+        <seg>写作者可以使用conref链接主题，不必复制和粘贴提示的内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13133,8 +13133,8 @@
       <tuv lang="en">
         <seg>Note</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200905T164023Z" creationid="DSS" creationdate="20200804T162547Z">
-        <seg>注释  </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T015228Z" creationid="DSS" creationdate="20200804T162547Z">
+        <seg>注释组件  </seg>
       </tuv>
     </tu>
     <tu>
@@ -15635,8 +15635,8 @@
       <tuv lang="en">
         <seg>That note should be presented in every recipe produced by the soda fountain.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T133556Z" creationid="lenovo" creationdate="20200902T133454Z">
-        <seg>该提示应出现在“汽水喷泉”产生的每个配方中。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T020039Z" creationid="lenovo" creationdate="20200902T133454Z">
+        <seg>该提示应出现在冷饮柜台项目生成的每个食谱当中。</seg>
       </tuv>
     </tu>
     <tu>
