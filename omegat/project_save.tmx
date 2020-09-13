@@ -7547,16 +7547,16 @@
       <tuv lang="en">
         <seg>Figure &lt;t0/&gt;8.14&lt;t1/&gt; &lt;t2/&gt;shows the root beer float recipe in HDITA syntax.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T020737Z" creationid="lenovo" creationdate="20200902T145921Z">
-        <seg>图 &lt;t0/&gt;8.14&lt;t1/&gt; &lt;t2/&gt;显示了使用HDITA语法的冰淇凌蛋筒配方。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T022029Z" creationid="lenovo" creationdate="20200902T145921Z">
+        <seg>图 &lt;t0/&gt;8.14&lt;t1/&gt; &lt;t2/&gt;展示了HDITA版本的漂浮沙士食谱。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Figure &lt;t0/&gt;8.15&lt;t1/&gt; &lt;t2/&gt;shows the root beer float recipe in MDITA extended profile syn&lt;t3/&gt;tax.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T020737Z" creationid="lenovo" creationdate="20200902T150112Z">
-        <seg>图 &lt;t0/&gt;8.15&lt;t1/&gt; &lt;t2/&gt;&lt;t3/&gt;&gt;显示了使用MDITA语法的冰淇凌蛋筒配方。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T022051Z" creationid="lenovo" creationdate="20200902T150112Z">
+        <seg>图 &lt;t0/&gt;8.15&lt;t1/&gt; &lt;t2/&gt;&lt;t3/&gt;&gt;展示了MDITA版本的漂浮沙士食谱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8755,8 +8755,8 @@
       <tuv lang="en">
         <seg>However, the cross-reference component in LwDITA also enables one of DITA's strongest content reuse features: the content reference &lt;t5/&gt;- &lt;t6/&gt;or &lt;t7/&gt;conref&lt;t8/&gt; for short.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T013906Z" creationid="lenovo" creationdate="20200902T132828Z">
-        <seg>但是，LwDITA中的交叉引用组件还启用了DITA最强大的内容复用功能之一：内容引用（content reference）或简称&lt;t7/&gt;conref&lt;t8/&gt;。&lt;t5/&gt;&lt;t6/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T022244Z" creationid="lenovo" creationdate="20200902T132828Z">
+        <seg>但是，LwDITA中的交叉引用组件还启用了DITA最强大的内容复用功能之一：内容引用（content reference）或简称&lt;t7/&gt;conref&lt;t8/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15836,8 +15836,8 @@
       <tuv lang="en">
         <seg>The &lt;t0/&gt;@conref &lt;t1/&gt;(in XDITA) or &lt;t2/&gt;@data-conref &lt;t3/&gt;(in HDITA and MDITA extended profile) attribute is available on the following LwDITA content components:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153158Z" creationid="lenovo" creationdate="20200902T150149Z">
-        <seg>@conref（在XDITA中）或@ data-conref（在HDITA和MDITA扩展配置文件中）属性在以下LwDITA内容组件上可用：&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T022321Z" creationid="lenovo" creationdate="20200902T150149Z">
+        <seg>&lt;t0/&gt;@conref &lt;t1/&gt;（在XDITA中）或&lt;t2/&gt;@data-conref &lt;t3/&gt;（在HDITA和MDITA扩展概要中）属性在以下LwDITA内容组件中可用：</seg>
       </tuv>
     </tu>
     <tu>
@@ -16972,8 +16972,8 @@
       <tuv lang="en">
         <seg>The content reference will be in a raw HDITA code block.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T150135Z" creationid="lenovo" creationdate="20200902T150135Z">
-        <seg>内容参考将在原始HDITA代码块中。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T022132Z" creationid="lenovo" creationdate="20200902T150135Z">
+        <seg>内容引用部分将在原始HDITA代码块中编写。</seg>
       </tuv>
     </tu>
     <tu>
