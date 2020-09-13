@@ -923,8 +923,8 @@
       <tuv lang="en">
         <seg>&lt;t2/&gt;(2016) &lt;t3/&gt;for a more inclusive focus in technical and professional communication research, I actively pushed for the LwDITA authoring formats to move away from the prescriptive textual nature of DITA XML.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T060624Z" creationid="lenovo" creationdate="20200913T060534Z">
-        <seg>呼吁专业技术传播研究应更具包容性的要求, I actively pushed for the LwDITA authoring formats to move away from the prescriptive textual nature of DITA XML.</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T060652Z" creationid="lenovo" creationdate="20200913T060534Z">
+        <seg>呼吁专业技术传播研究应更具包容性的要求, 我积极推动LwDITA创作格式摆脱DITA XML的规定性文本特质。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3827,8 +3827,8 @@
       <tuv lang="en">
         <seg>Answering the call from Jones et al.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T060538Z" creationid="lenovo" creationdate="20200913T060504Z">
-        <seg>对琼斯等人&lt;t2/&gt;(2016) &lt;t3/&gt;有关</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T060631Z" creationid="lenovo" creationdate="20200913T060504Z">
+        <seg>对于琼斯等人&lt;t2/&gt;(2016) &lt;t3/&gt;有关</seg>
       </tuv>
     </tu>
     <tu>
@@ -21716,6 +21716,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T121101Z" creationid="DSS" creationdate="20200731T085513Z">
         <seg>与 DITA XML 相关的传统主题类型是概念（concept）、任务（task）和参考（reference），而信息映射的六种核心信息类型是原则（principle）、过程（process）、步骤（procedure）、概念（concept）、事实（fact）和结构（structure）。&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whereas, for example, a DITA task requires an author to be proficient enough in English to remember the spelling of &lt;t4/&gt;&lt;shortdesc&gt;&lt;t5/&gt;, &lt;t6/&gt;&lt;steps&gt;&lt;t7/&gt;, &lt;t8/&gt;&lt;hazardstatement&gt;&lt;t9/&gt;, or &lt;t10/&gt;&lt;steptroubleshooting&gt;&lt;t11/&gt;, in LwDITA an author can use more familiar HTML5 tags or the &lt;t12/&gt;atx&lt;t13/&gt; headers of Markdown.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T060742Z" creationid="lenovo" creationdate="20200913T060742Z">
+        <seg>例如，DITA任务要求作者精通英语，以记住 &lt;t4/&gt;&lt;shortdesc&gt;&lt;t5/&gt;, &lt;t6/&gt;&lt;steps&gt;&lt;t7/&gt;, &lt;t8/&gt;&lt;hazardstatement&gt;&lt;t9/&gt;, or &lt;t10/&gt;&lt;steptroubleshooting&gt;&lt;t11/&gt;的拼写，而在LwDITA中，作者可以使用更熟悉的HTML5标记或Markdown的&lt;t12/&gt;atx&lt;t13/&gt; 文件头。</seg>
       </tuv>
     </tu>
     <tu>
