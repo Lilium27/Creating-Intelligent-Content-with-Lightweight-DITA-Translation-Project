@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>171).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T105837Z" creationid="DSS" creationdate="20200913T105837Z">
+        <seg>171)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>2).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T132945Z" creationid="DSS" creationdate="20200731T091216Z">
@@ -6953,16 +6961,16 @@
       <tuv lang="en">
         <seg>FIGURE 8.21 &lt;t0/&gt;XDITA map for the soda fountain operator manual with the&lt;t1/&gt; “icecream-flavor” variable set to vanilla.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T030205Z" creationid="lenovo" creationdate="20200913T023725Z">
-        <seg>FIGURE 8.21 &lt;t0/&gt;&lt;t1/&gt;冷饮柜台操作手册的XDITA映射，其中“冰淇淋口味”这一变量的值设为了香草。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T105903Z" creationid="lenovo" creationdate="20200913T023725Z">
+        <seg>FIGURE 8.21 &lt;t0/&gt;&lt;t1/&gt;冷饮柜台操作手册的XDITA映射，其中“icecream-flavor” 这一变量的值设为了香草。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FIGURE 8.22 &lt;t0/&gt;HTML5 transformation of the milkshake recipe with vanilla as the ice&lt;t1/&gt; cream flavor.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T030212Z" creationid="lenovo" creationdate="20200913T024821Z">
-        <seg>FIGURE 8.22 &lt;t0/&gt;&lt;t1/&gt;HTML5格式的香草口味奶昔食谱</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T105950Z" creationid="lenovo" creationdate="20200913T024821Z">
+        <seg>图8.22 &lt;t0/&gt;&lt;t1/&gt;HTML5格式的香草口味奶昔食谱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7610,8 +7618,8 @@
       <tuv lang="en">
         <seg>Figure 8.22&lt;t0/&gt; shows the new web version of the milkshake recipe with vanilla as the ice cream flavor.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T105440Z" creationid="lenovo" creationdate="20200913T023005Z">
-        <seg>图 8.22&lt;t0/&gt; 图8.22展示了新的香草口味的网页版奶昔食谱</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T105800Z" creationid="lenovo" creationdate="20200913T023005Z">
+        <seg>图 8.22&lt;t0/&gt; 展示了新的香草口味的网页版奶昔食谱</seg>
       </tuv>
     </tu>
     <tu>
@@ -18271,8 +18279,8 @@
       <tuv lang="en">
         <seg>The new file will be a DITAVAL (for DITA value), which “specifies which content is included or excluded based on condition definitions” (Bellamy et al, 2012, p.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T023315Z" creationid="lenovo" creationdate="20200913T023315Z">
-        <seg>新文件是DITAVAL（作用在DITA的值域），“根据条件定义指定要包含或排除的内容”。 (Bellamy et al, 2012, p.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T105818Z" creationid="lenovo" creationdate="20200913T023315Z">
+        <seg>新文件是DITAVAL（作用在DITA的值域），将“根据条件定义指定要包含或排除的内容”。 (Bellamy et al, 2012, p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18791,8 +18799,8 @@
       <tuv lang="en">
         <seg>The same DITAVAL file can work for all LwDITA authoring formats with the &lt;t0/&gt;@ props &lt;t1/&gt;attribute for XDITA and the &lt;t2/&gt;@data-props &lt;t3/&gt;attribute for HDITA and MDITA extended profile.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T024433Z" creationid="lenovo" creationdate="20200913T024339Z">
-        <seg>使用XDITA的&lt;t0/&gt;@ props &lt;t1/&gt;属性和HDITA和MDITA扩展配置文件的&lt;t2/&gt;@data-props &lt;t3/&gt;属性，相同的DITAVAL文件可以用于所有LwDITA创作格式。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T105933Z" creationid="lenovo" creationdate="20200913T024339Z">
+        <seg>使用XDITA的&lt;t0/&gt;@ props &lt;t1/&gt;属性以及HDITA和MDITA扩展概要中的&lt;t2/&gt;@data-props &lt;t3/&gt;属性，相同的DITAVAL文件可以用于所有LwDITA创作格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19367,8 +19375,8 @@
       <tuv lang="en">
         <seg>The two lines of code between the &lt;val&gt; and &lt;/val&gt; tags reference the variables in XDITA and HDITA/MDITA extended profile syntaxes, respectively.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200913T024933Z" creationid="lenovo" creationdate="20200913T024933Z">
-        <seg>&lt;val&gt;和&lt;/val&gt;标签之间的两行代码分别引用了XDITA和HDITA/MDITA扩展概要文件语法中的变量。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T110035Z" creationid="lenovo" creationdate="20200913T024933Z">
+        <seg>&lt;val&gt;和&lt;/val&gt;标签之间的两行代码分别引用了XDITA和HDITA/MDITA扩展概要语法中的变量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22363,8 +22371,8 @@
       <tuv lang="en">
         <seg>You can save this new file as &lt;t4/&gt;setting.ditaval&lt;t5/&gt; and add it to the file col&lt;t6/&gt;lection, which now includes LwDITA topics, an XDITA map, and a DITAVAL filter.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T030211Z" creationid="lenovo" creationdate="20200913T024411Z">
-        <seg>你可以将这个新文件保存为&lt;t4/&gt;setting.ditaval&lt;t5/&gt;&lt;t6/&gt; 并将其添加到文件集合中，该集合现已包括LwDITA主题、XDITA映射和DITAVAL过滤器</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T105938Z" creationid="lenovo" creationdate="20200913T024411Z">
+        <seg>你可以将这个新文件保存为&lt;t4/&gt;setting.ditaval&lt;t5/&gt;&lt;t6/&gt; 并将其添加到文件集合中，该集合现已包括LwDITA主题、XDITA映射和DITAVAL过滤器。</seg>
       </tuv>
     </tu>
     <tu>
