@@ -22003,8 +22003,8 @@
       <tuv lang="en">
         <seg>ditamap&lt;t7/&gt;, and in layer &lt;t8/&gt;5 &lt;t9/&gt;a machine processor will parse the map and referenced topics in XDITA, HDITA, and MDITA.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153205Z" creationid="lenovo" creationdate="20200902T153001Z">
-        <seg>在第5层中，机器处理器将解析XDITA，HDITA和MDITA中的映射 和参考主题。&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T033620Z" creationid="lenovo" creationdate="20200902T153001Z">
+        <seg>在第5层中，机器处理器将解析XDITA，HDITA和MDITA中的映射和参考主题。&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
       </tuv>
     </tu>
     <tu>
