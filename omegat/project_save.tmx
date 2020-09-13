@@ -1547,8 +1547,8 @@
       <tuv lang="en">
         <seg>&lt;t3/&gt;Therefore, those are the only content types present in the base edition.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200812T031254Z" creationid="lenovo" creationdate="20200812T031254Z">
-        <seg>&lt;t3/&gt;因此，这些是基本版本中仅有的内容类型。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T050206Z" creationid="lenovo" creationdate="20200812T031254Z">
+        <seg>&lt;t3/&gt;因此，这些是基础版本中仅有的内容类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22587,8 +22587,8 @@
       <tuv lang="en">
         <seg>the importance of a generic topic, defined as “the basic unit of authoring and reuse” (2.2.1.1 The topic as the basic unit of information, 2016), which is the only information type included in the base edition of the DITA standard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200902T131652Z" creationid="DSS" creationdate="20200725T084639Z">
-        <seg>通用主题是“创作和复用的基本单元”(2.2.1.1 The topic as the basic unit of information, 2016)，也是 DITA 标准基本版中包含的唯一信息类型。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T045957Z" creationid="DSS" creationdate="20200725T084639Z">
+        <seg>通用主题是“创作和复用的基本单元”(2.2.1.1 The topic as the basic unit of information, 2016)，也是 DITA 标准基础版本中包含的唯一信息类型。</seg>
       </tuv>
     </tu>
     <tu>
