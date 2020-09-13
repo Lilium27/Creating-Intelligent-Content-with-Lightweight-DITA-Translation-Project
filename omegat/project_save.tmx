@@ -352,8 +352,8 @@
       <tuv lang="en">
         <seg>&lt;simpletable&gt; &lt;t0/&gt;contains &lt;t1/&gt;1 &lt;t2/&gt;&lt;sthead&gt; &lt;t3/&gt;(simple table header; optional), &lt;t4/&gt;&lt;strow&gt; &lt;t5/&gt;(simple table row)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T074948Z" creationid="DSS" creationdate="20200731T074948Z">
-        <seg>&lt;simpletable&gt; &lt;t0/&gt;包含 &lt;t1/&gt;1个&lt;t2/&gt;&lt;sthead&gt; &lt;t3/&gt;（简单的可选表头）和&lt;t4/&gt;&lt;strow&gt; &lt;t5/&gt;（简单的表行）</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T023147Z" creationid="DSS" creationdate="20200731T074948Z">
+        <seg>&lt;simpletable&gt; &lt;t0/&gt;包含 &lt;t1/&gt;1个&lt;t2/&gt;&lt;sthead&gt; &lt;t3/&gt;（简单表头，可选）和&lt;t4/&gt;&lt;strow&gt; &lt;t5/&gt;（简单表行）</seg>
       </tuv>
     </tu>
     <tu>
@@ -376,8 +376,8 @@
       <tuv lang="en">
         <seg>&lt;sthead&gt;&lt;t0/&gt;/&lt;t1/&gt;&lt;strow&gt; &lt;t2/&gt;contain &lt;t3/&gt;&lt;stentry&gt; &lt;t4/&gt;(simple table entry or data)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200731T075026Z" creationid="DSS" creationdate="20200731T075026Z">
-        <seg>&lt;sthead&gt;&lt;t0/&gt;或&lt;t1/&gt;&lt;strow&gt; &lt;t2/&gt;包含 &lt;t3/&gt;&lt;stentry&gt; &lt;t4/&gt;（简单的表条目或数据）</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T022837Z" creationid="DSS" creationdate="20200731T075026Z">
+        <seg>&lt;sthead&gt;&lt;t0/&gt;或&lt;t1/&gt;&lt;strow&gt; &lt;t2/&gt;包含 &lt;t3/&gt;&lt;stentry&gt; &lt;t4/&gt;（简单表条目或数据）</seg>
       </tuv>
     </tu>
     <tu>
