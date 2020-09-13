@@ -11325,8 +11325,8 @@
       <tuv lang="en">
         <seg>In this first part, the processing tool will take the map and topics and populate the &lt;t0/&gt;“icecream-flavor”&lt;t1/&gt; variable with the &lt;t2/&gt;&lt;key&gt; &lt;t3/&gt;value established in the XDITA map.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153410Z" creationid="lenovo" creationdate="20200902T155933Z">
-        <seg>在第一部分中，处理工具将获取映射和主题，并使用XDITA映射中建立的&lt;key&gt;值填充“ icecream-flavor”变量。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T103740Z" creationid="lenovo" creationdate="20200902T155933Z">
+        <seg>在第一部分中，处理工具将获取映射和主题，并使用XDITA映射中建立的&lt;key&gt;值填充&lt;t0/&gt;“icecream-flavor”&lt;t1/&gt; 变量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13695,8 +13695,8 @@
       <tuv lang="en">
         <seg>On a given day, the author or a manager enters the &lt;t0/&gt;&lt;key&gt; &lt;t1/&gt;value on the map estab&lt;t2/&gt;lishing the ice cream flavor for that day.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153412Z" creationid="lenovo" creationdate="20200902T160000Z">
-        <seg>在给定的一天，作者或管理者在映射上输入&lt;key&gt;值，以建立当天的冰淇淋风味。 &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T103917Z" creationid="lenovo" creationdate="20200902T160000Z">
+        <seg>某一天，写作者或管理者在映射上填入&lt;t0/&gt;&lt;key&gt; &lt;t1/&gt;值，就可以建立那天所需的冰淇淋风味的食谱。 &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
