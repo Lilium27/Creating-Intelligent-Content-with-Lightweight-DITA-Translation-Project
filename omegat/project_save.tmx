@@ -13229,8 +13229,8 @@
       <tuv lang="en">
         <seg>Much like separating the layers of computing architecture so engineers can focus on one problem at a time, seeing the process behind intelligent content with LwDITA as a series of layers involving important, but separate, abstractions can provide a more navigable path for adoption.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200810T121314Z" creationid="DSS" creationdate="20200810T121314Z">
-        <seg>就像分离计算机架构层级以便工程师可以一次专注于一个问题一样，将使用LwDITA创作智能内容的过程视为一系列重要但又独立的抽象层级，这样创作会更加顺畅。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T062540Z" creationid="DSS" creationdate="20200810T121314Z">
+        <seg>就像分离计算机架构层级以便工程师可以一次专注于一个问题一样，将使用LwDITA创作智能内容的过程视为一系列重要但又独立的抽象层级，这样LwDITA更易被采用。</seg>
       </tuv>
     </tu>
     <tu>
