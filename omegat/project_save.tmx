@@ -3459,8 +3459,8 @@
       <tuv lang="en">
         <seg>An author could copy and paste from the milkshake recipe into all the other recipes from the manual.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T134120Z" creationid="lenovo" creationdate="20200902T134120Z">
-        <seg>作者可以将奶昔配方复制并粘贴到手册中的所有其他配方中。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T021344Z" creationid="lenovo" creationdate="20200902T134120Z">
+        <seg>写作者确实可以从奶昔食谱复制内容并粘贴到手册中的其他食谱中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8715,8 +8715,8 @@
       <tuv lang="en">
         <seg>However, some of them required changes to many other MDITA components or allowed con&lt;t0/&gt;tent exchange exclusively among Markdown files.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153156Z" creationid="lenovo" creationdate="20200902T134001Z">
-        <seg>但是，其中一些要求更改许多其他的MDITA组件，或者仅允许在Markdown文件之间交换内容。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T020633Z" creationid="lenovo" creationdate="20200902T134001Z">
+        <seg>但是，其中一些方法需要更改许多其他MDITA组件，或者仅允许在Markdown文件之间交换内容。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11789,8 +11789,8 @@
       <tuv lang="en">
         <seg>Keep in mind that all recipes included in the soda fountain manual will need the warning note.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T134109Z" creationid="lenovo" creationdate="20200902T134109Z">
-        <seg>请记住，“汽水喷泉”手册中包含的所有配方都需要警告提示。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T021240Z" creationid="lenovo" creationdate="20200902T134109Z">
+        <seg>请记住，冷饮柜台手册中包含的所有食谱都需要警告提示。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -16292,8 +16292,8 @@
       <tuv lang="en">
         <seg>The Lightweight DITA subcommittee at OASIS evaluated several approaches for including content references natively in Markdown syntax.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T133916Z" creationid="lenovo" creationdate="20200902T133916Z">
-        <seg>OASIS的轻量级DITA小组委员会评估了几种以Markdown语法原生包含内容引用的方法。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T020548Z" creationid="lenovo" creationdate="20200902T133916Z">
+        <seg>OASIS的轻量级DITA小组委员会评估了几种使用原生Markdown语法包含内容引用的方法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19295,8 +19295,8 @@
       <tuv lang="en">
         <seg>Therefore, there is no direct way to express a conref in MDITA core profile, and if authors want to take advantage of this reuse mechanism they would need to include a raw HDITA code snippet in an MDITA extended profile topic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20200902T134029Z" creationid="lenovo" creationdate="20200902T134029Z">
-        <seg>因此，没有直接的方法可以在MDITA核心配置文件中表达conref，并且如果作者希望利用这种复用机制，他们将需要在MDITA扩展配置文件主题中包含原始的HDITA代码片段。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T021135Z" creationid="lenovo" creationdate="20200902T134029Z">
+        <seg>因此，在MDITA核心概要中，没有可以在文件中表示conref的直接方法，并且如果写作者希望利用复用机制，他们将需要在基于MDITA扩展概要的主题中包含原始的HDITA代码片段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20231,8 +20231,8 @@
       <tuv lang="en">
         <seg>Thus, the MDITA version of the milkshake topic with the warning note would look as &lt;t1/&gt;Figure &lt;t2/&gt;8.12&lt;t3/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200906T153157Z" creationid="lenovo" creationdate="20200902T134050Z">
-        <seg>因此，带有警告提示的奶昔主题的MDITA版本将如图8.12所示。&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200913T021228Z" creationid="lenovo" creationdate="20200902T134050Z">
+        <seg>因此，带有警告提示的MDITA奶昔主题将如图8.12所示。&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
